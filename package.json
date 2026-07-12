@@ -1,0 +1,14 @@
+{
+  "name": "ai-weekly",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "주간 AI·IT 트렌드 자동 수집 대시보드 — 유튜브 방송용",
+  "scripts": {
+    "update": "node fetch.mjs && node enrich.mjs",
+    "enrich": "node enrich.mjs",
+    "brief": "node brief.mjs",
+    "serve": "python3 -m http.server 4173 -d public",
+    "start": "npm run update && npm run serve"
+  }
+}

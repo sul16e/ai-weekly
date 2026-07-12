@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Weekly — 주간 AI·IT 트렌드</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+:root {
+  --bg: #0b0d12;
+  --bg-card: #12151d;
+  --bg-card-hover: #171b26;
+  --border: #222735;
+  --text: #e8eaf0;
+  --text-dim: #8b93a7;
+  --text-faint: #565e72;
+  --accent: #5b8cff;
+  --hot: #ff5b5b;
+  --official: #34d399;
+  --media: #fbbf24;
+  --community: #a78bfa;
+  --paper: #38bdf8;
+  --ko: #ff8fab;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scrollbar-color: #2a3040 var(--bg); }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Pretendard Variable", Pretendard, -apple-system, "Apple SD Gothic Neo", sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; text-decoration: none; }
+
+.wrap { max-width: 1080px; margin: 0 auto; padding: 0 28px 80px; }
+
+/* ---------- 헤더 ---------- */
+header {
+  display: flex; align-items: baseline; justify-content: space-between;
+  padding: 40px 0 8px; flex-wrap: wrap; gap: 12px;
+}
+.logo { font-size: 30px; font-weight: 800; letter-spacing: -0.5px; }
+.logo em { font-style: normal; color: var(--accent); }
+.logo .week { font-size: 15px; font-weight: 600; color: var(--text-dim); margin-left: 12px; }
+.meta-line { font-size: 13px; color: var(--text-faint); }
+.meta-line b { color: var(--text-dim); font-weight: 600; }
+
+.toolbar {
+  display: flex; align-items: center; gap: 10px;
+  padding: 18px 0 26px; flex-wrap: wrap;
+  position: sticky; top: 0; z-index: 10;
+  background: linear-gradient(var(--bg) 85%, transparent);
+}
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+.tab {
+  padding: 7px 15px; border-radius: 99px; font-size: 14px; font-weight: 600;
+  color: var(--text-dim); background: var(--bg-card); border: 1px solid var(--border);
+  cursor: pointer; transition: all .15s;
+}
+.tab:hover { color: var(--text); }
+.tab.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+.tab.hot-tab.active { background: var(--hot); border-color: var(--hot); }
+#search {
+  margin-left: auto; padding: 8px 14px; border-radius: 99px;
+  background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
+  font-size: 14px; font-family: inherit; width: 180px; outline: none;
+}
+#search:focus { border-color: var(--accent); }
+.btn-broadcast {
+  padding: 8px 18px; border-radius: 99px; font-size: 14px; font-weight: 700;
+  background: linear-gradient(135deg, #5b8cff, #8b5cf6); color: #fff;
+  border: none; cursor: pointer; font-family: inherit;
+}
+.btn-broadcast:hover { filter: brightness(1.15); }
+
+/* ---------- 섹션 ---------- */
+h2.section {
+  font-size: 15px; font-weight: 700; color: var(--text-dim);
+  text-transform: uppercase; letter-spacing: 1.5px;
+  margin: 34px 0 14px; display: flex; align-items: center; gap: 8px;
+}
+h2.section::after { content: ""; flex: 1; height: 1px; background: var(--border); }
+
+/* ---------- 카드 ---------- */
+.item {
+  display: flex; gap: 16px; align-items: flex-start;
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: 14px; padding: 16px 20px; margin-bottom: 10px;
+  transition: all .15s;
+}
+.item:hover { background: var(--bg-card-hover); border-color: #303850; transform: translateY(-1px); }
+.rank {
+  font-size: 22px; font-weight: 800; color: var(--text-faint);
+  min-width: 34px; text-align: center; line-height: 1.3; font-variant-numeric: tabular-nums;
+}
+.top3 .rank { color: var(--accent); }
+.item-body { flex: 1; min-width: 0; }
+.item-title { font-size: 16.5px; font-weight: 650; letter-spacing: -0.2px; }
+.item-title:hover { color: var(--accent); }
+.item-orig { display: block; font-size: 12.5px; color: var(--text-faint); margin-top: 3px; font-weight: 400; }
+.tldr { font-size: 14px; color: #b9c2d8; margin-top: 7px; line-height: 1.5; }
+.tldr::before { content: "💡 "; }
+details.more { margin-top: 7px; }
+details.more summary {
+  cursor: pointer; font-size: 12.5px; color: var(--accent); font-weight: 600;
+  list-style: none; user-select: none;
+}
+details.more summary::before { content: "▸ "; }
+details.more[open] summary::before { content: "▾ "; }
+details.more .detail-body {
+  font-size: 13.5px; color: var(--text-dim); line-height: 1.65; margin-top: 8px;
+  padding: 12px 14px; background: rgba(255,255,255,0.02);
+  border-left: 2px solid var(--accent); border-radius: 0 8px 8px 0;
+}
+.item-meta { display: flex; gap: 10px; align-items: center; margin-top: 7px; font-size: 12.5px; color: var(--text-dim); flex-wrap: wrap; }
+.badge {
+  font-size: 11px; font-weight: 700; padding: 2px 9px; border-radius: 99px;
+  border: 1px solid; background: transparent;
+}
+.badge.official  { color: var(--official); border-color: color-mix(in srgb, var(--official) 40%, transparent); }
+.badge.media     { color: var(--media); border-color: color-mix(in srgb, var(--media) 40%, transparent); }
+.badge.community { color: var(--community); border-color: color-mix(in srgb, var(--community) 40%, transparent); }
+.badge.paper     { color: var(--paper); border-color: color-mix(in srgb, var(--paper) 40%, transparent); }
+.badge.ko        { color: var(--ko); border-color: color-mix(in srgb, var(--ko) 40%, transparent); }
+.eng { color: var(--text-dim); font-weight: 600; }
+.eng.high { color: #ffb84d; }
+.hot-flag { color: var(--hot); font-weight: 700; }
+.summary { font-size: 13.5px; color: var(--text-dim); margin-top: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.empty { text-align: center; color: var(--text-faint); padding: 60px 0; font-size: 15px; }
+
+/* ---------- 방송 모드 ---------- */
+#broadcast {
+  position: fixed; inset: 0; background: #07080c; z-index: 100;
+  display: none; flex-direction: column; padding: 5vh 7vw;
+}
+#broadcast.on { display: flex; }
+.bc-head { display: flex; justify-content: space-between; align-items: center; color: var(--text-faint); font-size: 15px; font-weight: 600; }
+.bc-brand { font-size: 19px; font-weight: 800; color: var(--text); }
+.bc-brand em { font-style: normal; color: var(--accent); }
+.bc-main { flex: 1; display: flex; flex-direction: column; justify-content: center; max-width: 1100px; }
+.bc-rank { font-size: 26px; font-weight: 800; color: var(--accent); margin-bottom: 18px; }
+.bc-rank .hot-flag { margin-left: 14px; font-size: 20px; }
+.bc-title { font-size: clamp(30px, 4vw, 52px); font-weight: 800; letter-spacing: -1px; line-height: 1.22; word-break: keep-all; }
+.bc-orig { font-size: clamp(15px, 1.4vw, 20px); color: var(--text-faint); margin-top: 14px; font-weight: 500; }
+.bc-tldr {
+  margin-top: 22px; max-width: 880px; padding: 12px 18px;
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+  border-left: 3px solid var(--accent); border-radius: 0 10px 10px 0;
+  font-size: clamp(16px, 1.6vw, 22px); font-weight: 600; color: var(--text); line-height: 1.5;
+}
+.bc-bullets { margin-top: 22px; max-width: 880px; }
+.bc-bullets li { font-size: clamp(16px, 1.55vw, 21px); color: var(--text-dim); line-height: 1.55; margin: 0 0 12px 22px; }
+.bc-bullets li::marker { color: var(--accent); }
+.bc-bullets li b.check { color: var(--media); }
+.bc-summary { font-size: clamp(15px, 1.4vw, 19px); color: var(--text-dim); margin-top: 22px; max-width: 850px; line-height: 1.6; }
+.bc-meta { display: flex; gap: 16px; align-items: center; margin-top: 34px; font-size: 17px; color: var(--text-dim); }
+.bc-meta .badge { font-size: 14px; padding: 4px 14px; }
+.bc-url { margin-top: 12px; font-size: 14px; color: var(--text-faint); }
+.bc-foot { display: flex; justify-content: space-between; color: var(--text-faint); font-size: 14px; }
+.bc-progress { display: flex; gap: 6px; }
+.bc-dot { width: 26px; height: 4px; border-radius: 2px; background: var(--border); transition: background .2s; }
+.bc-dot.done { background: var(--accent); }
+
+/* ---------- 하단 대본 섹션 ---------- */
+.script-divider {
+  margin: 70px 0 30px; padding: 18px 24px; border-radius: 14px;
+  background: color-mix(in srgb, var(--media) 8%, transparent);
+  border: 1px dashed color-mix(in srgb, var(--media) 45%, transparent);
+  color: var(--media); font-size: 14px; font-weight: 700; text-align: center;
+}
+.script-item {
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: 14px; padding: 18px 22px; margin-bottom: 12px;
+}
+.script-item h3 { font-size: 16px; font-weight: 700; margin-bottom: 4px; }
+.script-item h3 .num { color: var(--accent); margin-right: 8px; }
+.script-item .orig { font-size: 12.5px; color: var(--text-faint); margin-bottom: 8px; }
+.script-item ul { margin: 8px 0 0 20px; }
+.script-item li { font-size: 14px; color: var(--text-dim); line-height: 1.6; margin-bottom: 5px; }
+.script-item li::marker { color: var(--accent); }
+.script-item .para { font-size: 15px; color: #c3cbdf; line-height: 1.8; margin-top: 6px; white-space: pre-wrap; }
+.script-item .src-line { font-size: 12px; color: var(--text-faint); margin-top: 10px; word-break: break-all; }
+
+@media (max-width: 640px) {
+  .wrap { padding: 0 16px 60px; }
+  .rank { min-width: 26px; font-size: 18px; }
+  #search { width: 100%; margin-left: 0; }
+}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div>
+      <div class="logo"><em>AI</em> WEEKLY<span class="week" id="weekLabel"></span></div>
+      <div class="meta-line" id="updatedAt"></div>
+    </div>
+    <button class="btn-broadcast" onclick="enterBroadcast()">🎙 방송 모드 (B)</button>
+  </header>
+
+  <div class="toolbar">
+    <div class="tabs" id="tabs">
+      <button class="tab active" data-f="all">전체</button>
+      <button class="tab hot-tab" data-f="hot">🔥 실시간</button>
+      <button class="tab" data-f="global">해외</button>
+      <button class="tab" data-f="ko">국내</button>
+      <button class="tab" data-f="paper">논문</button>
+      <button class="tab" data-f="official">공식 발표</button>
+    </div>
+    <input id="search" type="text" placeholder="검색…">
+  </div>
+
+  <div id="content"></div>
+</div>
+
+<!-- 방송 모드 오버레이 -->
+<div id="broadcast">
+  <div class="bc-head">
+    <div class="bc-brand"><em>AI</em> WEEKLY</div>
+    <div id="bcWeek"></div>
+  </div>
+  <div class="bc-main" id="bcMain"></div>
+  <div class="bc-foot">
+    <div>← → 이동 · O 원문 열기 · ESC 종료</div>
+    <div class="bc-progress" id="bcProgress"></div>
+  </div>
+</div>
+
+<script>
+let DATA = { items: [] };
+let ENRICH = {};
+let SCRIPT = null;
+let filter = "all";
+let query = "";
+let bcIndex = 0;
+let bcItems = [];
+
+const rel = (ts) => {
+  if (!ts) return "";
+  const h = (Date.now() - ts) / 3600000;
+  if (h < 1) return Math.max(1, Math.round(h * 60)) + "분 전";
+  if (h < 24) return Math.round(h) + "시간 전";
+  return Math.round(h / 24) + "일 전";
+};
+const fmtEng = (n) => n >= 1000 ? (n / 1000).toFixed(1) + "k" : n;
+const typeLabel = { official: "공식", media: "미디어", community: "커뮤니티", paper: "논문" };
+const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function filtered() {
+  let items = DATA.items;
+  if (filter === "hot") items = items.filter((x) => x.hot);
+  else if (filter === "ko") items = items.filter((x) => x.lang === "ko");
+  else if (filter === "global") items = items.filter((x) => x.lang !== "ko" && x.sourceType !== "paper");
+  else if (filter === "paper") items = items.filter((x) => x.sourceType === "paper");
+  else if (filter === "official") items = items.filter((x) => x.sourceType === "official");
+  if (query) {
+    const q = query.toLowerCase();
+    items = items.filter((x) =>
+      x.title.toLowerCase().includes(q) ||
+      x.source.toLowerCase().includes(q) ||
+      (ENRICH[x.title]?.ko || "").toLowerCase().includes(q));
+  }
+  return items;
+}
+
+function badges(x) {
+  let b = `<span class="badge ${x.sourceType}">${typeLabel[x.sourceType] || x.sourceType}</span>`;
+  if (x.lang === "ko") b += ` <span class="badge ko">국내</span>`;
+  return b;
+}
+
+// 제목 구조: 훅(메인) > 한글 번역(부제) > 원문(부제)
+function enrichOf(x) { return ENRICH[x.title] || {}; }
+function koOf(x) {
+  if (x.lang === "ko") return null;
+  return enrichOf(x).ko || null;
+}
+function bulletsOf(x) { return enrichOf(x).bullets || null; }
+function mainTitleOf(x) {
+  const e = enrichOf(x);
+  return e.hook || koOf(x) || x.title;
+}
+function subTitlesOf(x) {
+  const e = enrichOf(x);
+  const subs = [];
+  if (e.hook) subs.push(koOf(x) || (x.lang === "ko" ? x.title : null));
+  if (x.lang !== "ko" && (e.hook || koOf(x))) subs.push(x.title);
+  return [...new Set(subs.filter(Boolean))];
+}
+
+function itemHTML(x, i, showRank) {
+  const eng = x.engagement != null
+    ? `<span class="eng ${x.engagement > 500 ? "high" : ""}">▲ ${fmtEng(x.engagement)}</span>` : "";
+  const com = x.comments ? `<span>💬 ${fmtEng(x.comments)}</span>` : "";
+  const hot = x.hot ? `<span class="hot-flag">🔥 NOW</span>` : "";
+  const e = enrichOf(x);
+  const subs = subTitlesOf(x);
+  const tldr = e.tldr || "";
+  const detail = e.detail || "";
+  const fallbackSummary = !tldr && !detail && x.summary ? `<div class="summary">${esc(x.summary)}</div>` : "";
+  const detailBody = [detail, !detail && x.summary ? x.summary : ""].filter(Boolean).join(" ");
+  return `<div class="item ${showRank && i < 3 ? "top3" : ""}">
+    ${showRank ? `<div class="rank">${i + 1}</div>` : ""}
+    <div class="item-body">
+      <a class="item-title" href="${esc(x.url)}" target="_blank" rel="noopener">${esc(mainTitleOf(x))}${subs.length ? `<span class="item-orig">${subs.map(esc).join(" · ")}</span>` : ""}</a>
+      <div class="item-meta">
+        ${badges(x)} <b>${esc(x.source)}</b> ${eng} ${com} <span>${rel(x.publishedAt)}</span> ${hot}
+      </div>
+      ${tldr ? `<div class="tldr">${esc(tldr)}</div>` : ""}
+      ${fallbackSummary}
+      ${detailBody && (detail || tldr) ? `<details class="more"><summary>자세히 보기</summary><div class="detail-body">${esc(detailBody)}</div></details>` : ""}
+    </div>
+  </div>`;
+}
+
+// TOP 10은 한 소스가 최대 3개까지만 — 소스 다양성 확보 (전체 탭에서만 적용)
+function pickTop(items, n) {
+  if (filter !== "all") return items.slice(0, n);
+  const top = [], counts = {};
+  for (const x of items) {
+    if ((counts[x.source] || 0) >= 3) continue;
+    counts[x.source] = (counts[x.source] || 0) + 1;
+    top.push(x);
+    if (top.length === n) break;
+  }
+  return top;
+}
+
+function render() {
+  const items = filtered();
+  const el = document.getElementById("content");
+  if (!items.length) { el.innerHTML = `<div class="empty">해당하는 소식이 없습니다</div>`; return; }
+  const top = pickTop(items, 10);
+  const topSet = new Set(top);
+  const rest = items.filter((x) => !topSet.has(x)).slice(0, 70);
+  el.innerHTML =
+    `<h2 class="section">📌 TOP 10</h2>` +
+    top.map((x, i) => itemHTML(x, i, true)).join("") +
+    (rest.length ? `<h2 class="section">더 보기</h2>` + rest.map((x, i) => itemHTML(x, i, false)).join("") : "") +
+    scriptHTML(top);
+}
+
+// 하단 대본 — 풀스크린 방송 모드(B)에는 나오지 않는 영역
+function scriptHTML(top) {
+  // 완성 대본(script.json)이 있으면 문장형으로 표시
+  if (SCRIPT?.items?.length) {
+    const titleBlock = `<div class="script-item">
+      <h3>🎬 영상 제목 후보</h3>
+      <ul>${(SCRIPT.videoTitles || []).map((t) => `<li>${esc(t)}</li>`).join("")}</ul>
+      <h3 style="margin-top:14px">🖼 썸네일 문구 후보</h3>
+      <ul>${(SCRIPT.thumbnailTexts || []).map((t) => `<li>${esc(t)}</li>`).join("")}</ul>
+    </div>`;
+    const intro = `<div class="script-item"><h3>인트로</h3><p class="para">${esc(SCRIPT.intro || "")}</p></div>`;
+    const rows = SCRIPT.items.map((it) => {
+      const t = SCRIPT.top?.find((p) => p.rank === it.rank);
+      const x = t ? DATA.items.find((d) => d.title === t.title) : null;
+      const head = x ? mainTitleOf(x) : t?.title || `#${it.rank}`;
+      return `<div class="script-item">
+        <h3><span class="num">${it.rank}.</span>${esc(head)}</h3>
+        ${x && subTitlesOf(x).length ? `<div class="orig">${subTitlesOf(x).map(esc).join(" · ")}</div>` : ""}
+        <p class="para">${esc(it.para)}</p>
+        ${x ? `<div class="src-line">${esc(x.source)} · ${esc(x.url)}</div>` : ""}
+      </div>`;
+    }).join("");
+    const outro = `<div class="script-item"><h3>아웃트로</h3><p class="para">${esc(SCRIPT.outro || "")}</p></div>`;
+    return `<div class="script-divider">📝 완성 대본 ${esc(SCRIPT.date || "")} (여기부터는 방송 모드 녹화에 안 나오는 영역 — 그대로 읽으면 됩니다)</div>${titleBlock}${intro}${rows}${outro}`;
+  }
+  // 폴백: 해설 요점 버전
+  const rows = top.map((x, i) => {
+    const bullets = bulletsOf(x);
+    return `<div class="script-item">
+      <h3><span class="num">${i + 1}.</span>${esc(mainTitleOf(x))}</h3>
+      ${subTitlesOf(x).length ? `<div class="orig">${subTitlesOf(x).map(esc).join(" · ")}</div>` : ""}
+      ${bullets ? `<ul>${bullets.map((b) => `<li>${esc(b)}</li>`).join("")}</ul>`
+        : x.summary ? `<ul><li>${esc(x.summary)}</li></ul>` : `<ul><li>해설 미생성 — <code>npm run enrich</code> 실행</li></ul>`}
+      <div class="src-line">${esc(x.source)} · ${esc(x.url)}</div>
+    </div>`;
+  }).join("");
+  return `<div class="script-divider">📝 방송 대본 요점 (여기부터는 방송 모드 녹화에 안 나오는 영역 — 완성 대본은 npm run script)</div>${rows}`;
+}
+
+/* ---------- 방송 모드 ---------- */
+function enterBroadcast() {
+  bcItems = pickTop(filtered(), 10);
+  if (!bcItems.length) return;
+  bcIndex = 0;
+  document.getElementById("broadcast").classList.add("on");
+  document.getElementById("bcWeek").textContent = document.getElementById("weekLabel").textContent;
+  renderBC();
+}
+function exitBroadcast() { document.getElementById("broadcast").classList.remove("on"); }
+function renderBC() {
+  const x = bcItems[bcIndex];
+  const eng = x.engagement != null ? `<span class="eng high">▲ ${fmtEng(x.engagement)}</span>` : "";
+  const e = enrichOf(x);
+  const subs = subTitlesOf(x);
+  const bullets = bulletsOf(x);
+  const detail = bullets
+    ? `<ul class="bc-bullets">${bullets.map((b) => `<li>${esc(b).replace(/^방송 전 체크:/, '<b class="check">방송 전 체크:</b>')}</li>`).join("")}</ul>`
+    : x.summary ? `<div class="bc-summary">${esc(x.summary)}</div>` : "";
+  document.getElementById("bcMain").innerHTML = `
+    <div class="bc-rank">TOP ${bcIndex + 1}${x.hot ? '<span class="hot-flag">🔥 지금 뜨는 이슈</span>' : ""}</div>
+    <div class="bc-title">${esc(mainTitleOf(x))}</div>
+    ${subs.length ? `<div class="bc-orig">${subs.map(esc).join(" — ")}</div>` : ""}
+    ${e.tldr ? `<div class="bc-tldr">${esc(e.tldr)}</div>` : ""}
+    ${detail}
+    <div class="bc-meta">${badges(x)} <b>${esc(x.source)}</b> ${eng} <span>${rel(x.publishedAt)}</span></div>
+    <div class="bc-url">${esc(x.url)}</div>`;
+  document.getElementById("bcProgress").innerHTML = bcItems
+    .map((_, i) => `<div class="bc-dot ${i <= bcIndex ? "done" : ""}"></div>`).join("");
+}
+
+document.addEventListener("keydown", (e) => {
+  const on = document.getElementById("broadcast").classList.contains("on");
+  if (on) {
+    if (e.key === "ArrowRight" || e.key === " ") { bcIndex = Math.min(bcIndex + 1, bcItems.length - 1); renderBC(); }
+    else if (e.key === "ArrowLeft") { bcIndex = Math.max(bcIndex - 1, 0); renderBC(); }
+    else if (e.key === "o" || e.key === "O") { window.open(bcItems[bcIndex].url, "_blank"); }
+    else if (e.key === "Escape") exitBroadcast();
+    e.preventDefault();
+  } else if ((e.key === "b" || e.key === "B" || e.key === "ㅠ") && document.activeElement.id !== "search") {
+    enterBroadcast();
+  }
+});
+
+document.getElementById("tabs").addEventListener("click", (e) => {
+  if (!e.target.dataset.f) return;
+  filter = e.target.dataset.f;
+  document.querySelectorAll(".tab").forEach((t) => t.classList.toggle("active", t === e.target));
+  render();
+});
+document.getElementById("search").addEventListener("input", (e) => { query = e.target.value.trim(); render(); });
+
+/* ---------- 로드 ---------- */
+setInterval(() => { if (!document.getElementById("broadcast").classList.contains("on")) load(); }, 10 * 60 * 1000);
+load();
+function load() {
+Promise.all([
+  fetch("data.json?t=" + Date.now()).then((r) => r.json()),
+  fetch("enrich.json?t=" + Date.now()).then((r) => (r.ok ? r.json() : {})).catch(() => ({})),
+  fetch("script.json?t=" + Date.now()).then((r) => (r.ok ? r.json() : null)).catch(() => null),
+])
+  .then(([d, e, s]) => {
+    DATA = d;
+    ENRICH = e;
+    SCRIPT = s;
+    const up = new Date(d.updatedAt);
+    document.getElementById("updatedAt").innerHTML =
+      `마지막 업데이트 <b>${up.toLocaleString("ko-KR", { month: "long", day: "numeric", hour: "2-digit", minute: "2-digit" })}</b> · 수집 ${d.count}건`;
+    const monday = new Date(d.updatedAt - ((new Date(d.updatedAt).getDay() + 6) % 7) * 86400000);
+    document.getElementById("weekLabel").textContent =
+      `${monday.getFullYear()}년 ${monday.getMonth() + 1}월 ${Math.ceil(monday.getDate() / 7)}주차`;
+    render();
+  })
+  .catch(() => { document.getElementById("content").innerHTML = `<div class="empty">data.json이 없습니다 — <code>npm run update</code>를 먼저 실행하세요</div>`; });
+}
+</script>
+</body>
+</html>
