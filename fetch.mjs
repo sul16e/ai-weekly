@@ -257,10 +257,6 @@ all = dedupe(all)
   .sort((a, b) => b.score - a.score)
   .slice(0, 300);
 
-mkdirSync(join(ROOT, "public"), { recursive: true });
-writeFileSync(OUT, JSON.stringify({ updatedAt: now, count: all.length, items: all }, null, 1));
-console.error(`완료: ${all.length}건 → public/data.json`);
-
 // 주간 아카이브: 그 주의 최신 스냅샷을 계속 덮어씀 → 주가 끝나면 최종본이 남음
 function isoWeek(ts) {
   const d = new Date(ts);
@@ -274,6 +270,24 @@ function isoWeek(ts) {
 const weekKey = isoWeek(now);
 const archiveDir = join(ROOT, "public", "archive");
 mkdirSync(archiveDir, { recursive: true });
+
+// 지난주 아카이브가 있으면 순위 비교 정보 부착 (지난주 대비 코너용)
+const prevKey = isoWeek(now - 7 * 86400000);
+let prevWeek = null;
+try { prevWeek = JSON.parse(readFileSync(join(archiveDir, `${prevKey}.json`), "utf8")); } catch {}
+if (prevWeek) {
+  const rankMap = new Map(prevWeek.items.map((x, i) => [x.title, i + 1]));
+  for (const x of all) {
+    const r = rankMap.get(x.title);
+    if (r) x.lastWeekRank = r;
+  }
+  console.error(`지난주(${prevKey}) 대비 정보 부착`);
+}
+
+mkdirSync(join(ROOT, "public"), { recursive: true });
+writeFileSync(OUT, JSON.stringify({ updatedAt: now, count: all.length, prevWeek: prevWeek ? prevKey : null, items: all }, null, 1));
+console.error(`완료: ${all.length}건 → public/data.json`);
+
 writeFileSync(join(archiveDir, `${weekKey}.json`), JSON.stringify({ updatedAt: now, week: weekKey, items: all.slice(0, 100) }, null, 1));
 const idxPath = join(archiveDir, "index.json");
 let weeks = [];

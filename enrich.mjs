@@ -46,8 +46,13 @@ async function fetchArticle(url) {
       signal: ctrl.signal,
     });
     clearTimeout(t);
-    if (!res.ok || !/text\/html|text\/plain/.test(res.headers.get("content-type") || "")) return null;
+    if (!res.ok || !/text\/html|text\/plain/.test(res.headers.get("content-type") || "")) return { text: null, img: null };
     const html = (await res.text()).slice(0, 400000);
+    // 대표 이미지 (og:image / twitter:image) — 방송 화면용
+    const imgM =
+      html.match(/<meta[^>]+(?:property|name)=["'](?:og:image(?::url)?|twitter:image)["'][^>]+content=["']([^"']+)["']/i) ||
+      html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["'](?:og:image(?::url)?|twitter:image)["']/i);
+    const img = imgM && /^https?:\/\//.test(imgM[1]) ? imgM[1].replace(/&amp;/g, "&") : null;
     const text = html
       .replace(/<script[\s\S]*?<\/script>/gi, " ")
       .replace(/<style[\s\S]*?<\/style>/gi, " ")
@@ -56,12 +61,12 @@ async function fetchArticle(url) {
       .replace(/&[a-z#0-9]+;/gi, " ")
       .replace(/\s+/g, " ")
       .trim();
-    return text.length > 400 ? text.slice(0, 3500) : null; // 너무 짧으면 무의미
-  } catch { return null; }
+    return { text: text.length > 400 ? text.slice(0, 3500) : null, img };
+  } catch { return { text: null, img: null }; }
 }
 
 const jobs = [];
-const deepTargets = [];
+const fetchTargets = new Map(); // title → { url, job? }  (상세 요약용 본문 + 대표 이미지)
 data.items.slice(0, TOP_TRANSLATE).forEach((it, i) => {
   const c = cache[it.title] || {};
   const deep = i < TOP_DEEP;
@@ -70,25 +75,34 @@ data.items.slice(0, TOP_TRANSLATE).forEach((it, i) => {
   const needHook = deep && !c.hook;
   const needBullets = deep && !c.bullets;
   const needDetail = deep && !c.detail;
+  let job = null;
   if (needKo || needTldr || needHook || needBullets || needDetail) {
-    const job = { title: it.title, summary: (it.summary || "").slice(0, 300), source: it.source, needKo, needTldr, needHook, needBullets, needDetail };
+    job = { title: it.title, summary: (it.summary || "").slice(0, 300), source: it.source, needKo, needTldr, needHook, needBullets, needDetail };
     jobs.push(job);
-    if (needDetail) deepTargets.push({ job, url: it.url });
   }
+  // 원문 방문 대상: 상세 요약 필요하거나 이미지 미확보(top 20)
+  if (deep && (needDetail || !("img" in c))) fetchTargets.set(it.title, { url: it.url, job: needDetail ? job : null });
 });
 
+let imgUpdated = 0;
+if (fetchTargets.size) {
+  console.error(`원문 수집: ${fetchTargets.size}건...`);
+  await Promise.all([...fetchTargets.entries()].map(async ([title, t]) => {
+    const { text, img } = await fetchArticle(t.url);
+    if (t.job && text) t.job.article = text;
+    if (!("img" in (cache[title] || {}))) {
+      cache[title] = { ...cache[title], img: img || null }; // null = 시도했으나 없음 (재시도 방지)
+      imgUpdated++;
+    }
+  }));
+  console.error(`  이미지 확보 시도 ${imgUpdated}건`);
+}
+
 if (!jobs.length) {
+  if (imgUpdated) writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 1));
   console.error("번역/해설 최신 상태 — 할 일 없음");
   process.exit(0);
 }
-
-// 상세 요약 대상은 원문 텍스트 동시 수집
-console.error(`원문 수집: ${deepTargets.length}건...`);
-await Promise.all(deepTargets.map(async (t) => {
-  const article = await fetchArticle(t.url);
-  if (article) t.job.article = article;
-}));
-console.error(`  원문 확보 ${deepTargets.filter((t) => t.job.article).length}/${deepTargets.length}건`);
 
 const instruction = `너는 한국의 주간 AI 뉴스 유튜브 방송의 작가다. stdin으로 주어지는 JSON 배열의 뉴스 항목들을 처리하라.
 

@@ -35,7 +35,7 @@ for (const x of data.items) {
 
 const payload = top.map((x, i) => {
   const e = enrich[x.title] || {};
-  return { rank: i + 1, title: x.title, ko: e.ko, hook: e.hook, tldr: e.tldr, detail: e.detail, bullets: e.bullets, source: x.source, engagement: x.engagement, comments: x.comments };
+  return { rank: i + 1, title: x.title, url: x.url, ko: e.ko, hook: e.hook, tldr: e.tldr, detail: e.detail, bullets: e.bullets, source: x.source, engagement: x.engagement, comments: x.comments };
 });
 
 const instruction = `너는 한국의 주간 AI 뉴스 유튜브 채널의 방송 작가다. stdin의 TOP 10 뉴스 데이터로 "그대로 소리내어 읽으면 되는" 완성 대본을 만들어라.
@@ -67,17 +67,43 @@ if (!m) { console.error("응답 JSON 없음"); process.exit(1); }
 const script = JSON.parse(m[0]);
 
 const dateStr = new Date().toISOString().slice(0, 10);
-const result = { date: dateStr, generatedAt: Date.now(), top: payload.map((p) => ({ rank: p.rank, title: p.title })), ...script };
+
+// 예상 낭독 길이 (한국어 낭독 ≈ 분당 330자)
+const CHARS_PER_MIN = 330;
+const secOf = (t) => Math.round(((t || "").length / CHARS_PER_MIN) * 60);
+script.items.forEach((it) => { it.sec = secOf(it.para); });
+const totalSec = secOf(script.intro) + secOf(script.outro) + script.items.reduce((a, b) => a + b.sec, 0);
+const fmtDur = (s) => `${Math.floor(s / 60)}분 ${s % 60}초`;
+
+// 유튜브 설명란 (출처 전체 공개 — 채널 차별점)
+const description = `이번 주 AI·IT 핵심 뉴스 TOP 10을 정리했습니다.
+모든 출처를 아래에 공개합니다. 자세한 내용은 링크에서 확인하세요.
+
+${payload.map((p) => `${String(p.rank).padStart(2, "0")}. ${p.hook || p.ko || p.title}\n    ${p.url}`).join("\n")}
+
+📊 뉴스 선정 기준: 커뮤니티 반응(Hacker News·Reddit)과 공식 발표를 종합한 자동 수집 + 직접 검증
+#AI뉴스 #인공지능 #IT뉴스 #위클리AI #테크뉴스`;
+
+const result = { date: dateStr, generatedAt: Date.now(), durationSec: totalSec, description, top: payload.map((p) => ({ rank: p.rank, title: p.title })), ...script };
 writeFileSync(join(ROOT, "public", "script.json"), JSON.stringify(result, null, 1));
+mkdirSync(join(ROOT, "briefings"), { recursive: true });
+writeFileSync(join(ROOT, "briefings", `${dateStr}-description.txt`), description);
 
 // 마크다운 버전
 const md = `# AI Weekly 완성 대본 — ${dateStr}
+
+**예상 방송 길이: ${fmtDur(totalSec)}** (분당 330자 낭독 기준 · 정확한 측정: \`npm run rehearse\`)
 
 ## 🎬 영상 제목 후보
 ${script.videoTitles.map((t, i) => `${i + 1}. ${t}`).join("\n")}
 
 ## 🖼 썸네일 문구 후보
 ${script.thumbnailTexts.map((t, i) => `${i + 1}. ${t}`).join("\n")}
+
+## 📋 영상 설명란 (복사용)
+\`\`\`
+${description}
+\`\`\`
 
 ---
 
@@ -86,7 +112,7 @@ ${script.intro}
 
 ${script.items.map((it) => {
   const p = payload.find((x) => x.rank === it.rank);
-  return `## ${it.rank}. ${p?.hook || p?.ko || p?.title}\n${it.para}`;
+  return `## ${it.rank}. ${p?.hook || p?.ko || p?.title} *(≈${fmtDur(it.sec)})*\n${it.para}`;
 }).join("\n\n")}
 
 ## 아웃트로
@@ -98,3 +124,4 @@ ${script.outro}
 mkdirSync(join(ROOT, "briefings"), { recursive: true });
 writeFileSync(join(ROOT, "briefings", `${dateStr}-script.md`), md);
 console.error(`완료: public/script.json + briefings/${dateStr}-script.md`);
+console.error(`예상 방송 길이: ${fmtDur(totalSec)}`);
