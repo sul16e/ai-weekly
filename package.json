@@ -7,6 +7,7 @@
   "scripts": {
     "update": "node fetch.mjs && node enrich.mjs",
     "enrich": "node enrich.mjs",
+    "script": "node script.mjs",
     "brief": "node brief.mjs",
     "serve": "python3 -m http.server 4173 -d public",
     "start": "npm run update && npm run serve"
