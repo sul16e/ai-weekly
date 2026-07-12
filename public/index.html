@@ -169,6 +169,24 @@ details.more .detail-body {
 .bc-meta .badge { font-size: 14px; padding: 4px 14px; }
 .bc-url { margin-top: 12px; font-size: 14px; color: var(--text-faint); }
 .bc-foot { display: flex; justify-content: space-between; color: var(--text-faint); font-size: 14px; }
+
+/* ---------- 프롬프터 (방송 모드 하단 대본) ---------- */
+#prompter {
+  margin: 18px 0 14px; padding: 16px 22px; border-radius: 14px;
+  background: rgba(255,255,255,0.03); border: 1px solid var(--border);
+  max-height: 30vh; overflow-y: auto;
+}
+#prompter.off { display: none; }
+.prompter-label { font-size: 12px; color: var(--text-faint); margin-bottom: 8px; font-weight: 600; }
+#prompterBody { font-size: 17.5px; line-height: 1.85; color: #dde3f0; white-space: pre-wrap; word-break: keep-all; }
+#prompterBody .pron-sec { margin-bottom: 14px; }
+#prompterBody .sec-tag { font-size: 12px; font-weight: 700; color: var(--accent); display: block; margin-bottom: 2px; }
+mark.pron {
+  background: rgba(251,191,36,0.22); color: #ffe08a; border-radius: 5px;
+  padding: 0 5px; font-weight: 700;
+}
+mark.pron .pron-ko { color: #fbbf24; font-size: 0.82em; font-weight: 600; margin-left: 5px; }
+mark.pron .pron-ko::before { content: "▸ "; }
 .bc-progress { display: flex; gap: 6px; }
 .bc-dot { width: 26px; height: 4px; border-radius: 2px; background: var(--border); transition: background .2s; }
 .bc-dot.done { background: var(--accent); }
@@ -233,6 +251,7 @@ details.more .detail-body {
       <button class="tab" data-f="official">공식 발표</button>
     </div>
     <input id="search" type="text" placeholder="검색…">
+    <button class="tab" id="langToggle" title="한/영 표시 전환">Aa EN</button>
   </div>
 
   <div id="content"></div>
@@ -245,8 +264,12 @@ details.more .detail-body {
     <div id="bcWeek"></div>
   </div>
   <div class="bc-main" id="bcMain"></div>
+  <div id="prompter">
+    <div class="prompter-label"><span id="prompterHint"></span></div>
+    <div id="prompterBody"></div>
+  </div>
   <div class="bc-foot">
-    <div>← → 이동 · O 원문 열기 · ESC 종료</div>
+    <div id="bcHelp">← → 이동 · T 대본 · O 원문 열기 · ESC 종료</div>
     <div class="bc-progress" id="bcProgress"></div>
   </div>
 </div>
@@ -259,17 +282,26 @@ let filter = "all";
 let query = "";
 let bcIndex = 0;
 let bcItems = [];
+let LANG = localStorage.getItem("aiw-lang") || "ko";
+let prompterOn = localStorage.getItem("aiw-prompter") !== "off";
 
+const L = (ko, en) => (LANG === "ko" ? ko : en);
 const rel = (ts) => {
   if (!ts) return "";
   const h = (Date.now() - ts) / 3600000;
-  if (h < 1) return Math.max(1, Math.round(h * 60)) + "분 전";
-  if (h < 24) return Math.round(h) + "시간 전";
-  return Math.round(h / 24) + "일 전";
+  if (h < 1) return Math.max(1, Math.round(h * 60)) + L("분 전", "m ago");
+  if (h < 24) return Math.round(h) + L("시간 전", "h ago");
+  return Math.round(h / 24) + L("일 전", "d ago");
 };
 const fmtEng = (n) => n >= 1000 ? (n / 1000).toFixed(1) + "k" : n;
-const typeLabel = { official: "공식", media: "미디어", community: "커뮤니티", paper: "논문" };
+const typeLabelMap = {
+  official: ["공식", "Official"], media: ["미디어", "Media"],
+  community: ["커뮤니티", "Community"], paper: ["논문", "Paper"],
+};
+const typeLabel = new Proxy({}, { get: (_, k) => typeLabelMap[k] ? L(...typeLabelMap[k]) : k });
 const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+// {{원어|발음}} → 형광 하이라이트 + 읽는 법
+const pron = (s) => esc(s).replace(/\{\{([^|{}]+)\|([^|{}]+)\}\}/g, '<mark class="pron">$1<span class="pron-ko">$2</span></mark>');
 
 function filtered() {
   let items = DATA.items;
@@ -303,10 +335,12 @@ function koOf(x) {
 function bulletsOf(x) { return enrichOf(x).bullets || null; }
 function mainTitleOf(x) {
   const e = enrichOf(x);
+  if (LANG === "en") return x.title; // EN 모드: 원문 우선 (국내 소스는 한국어 원문 그대로)
   return e.hook || koOf(x) || x.title;
 }
 function subTitlesOf(x) {
   const e = enrichOf(x);
+  if (LANG === "en") return []; // EN 모드: 한글 부제 숨김
   const subs = [];
   if (e.hook) subs.push(koOf(x) || (x.lang === "ko" ? x.title : null));
   if (x.lang !== "ko" && (e.hook || koOf(x))) subs.push(x.title);
@@ -319,14 +353,15 @@ function itemHTML(x, i, showRank) {
   const com = x.comments ? `<span>💬 ${fmtEng(x.comments)}</span>` : "";
   const hot = x.hot ? `<span class="hot-flag">🔥 NOW</span>` : "";
   const lw = x.lastWeekRank
-    ? `<span class="lw">지난주 ${x.lastWeekRank}위</span>`
+    ? `<span class="lw">${L(`지난주 ${x.lastWeekRank}위`, `Last wk #${x.lastWeekRank}`)}</span>`
     : DATA.prevWeek && showRank ? `<span class="lw new">NEW</span>` : "";
   const e = enrichOf(x);
   const subs = subTitlesOf(x);
-  const tldr = e.tldr || "";
-  const detail = e.detail || "";
+  // EN 모드: 한글 생성물 대신 원문 요약(영어) 표시
+  const tldr = LANG === "en" ? "" : e.tldr || "";
+  const detail = LANG === "en" ? x.summary || "" : e.detail || "";
   const fallbackSummary = !tldr && !detail && x.summary ? `<div class="summary">${esc(x.summary)}</div>` : "";
-  const detailBody = [detail, !detail && x.summary ? x.summary : ""].filter(Boolean).join(" ");
+  const detailBody = LANG === "en" ? detail : [detail, !detail && x.summary ? x.summary : ""].filter(Boolean).join(" ");
   return `<div class="item ${showRank && i < 3 ? "top3" : ""}">
     ${showRank ? `<div class="rank">${i + 1}</div>` : ""}
     <div class="item-body">
@@ -336,7 +371,7 @@ function itemHTML(x, i, showRank) {
       </div>
       ${tldr ? `<div class="tldr">${esc(tldr)}</div>` : ""}
       ${fallbackSummary}
-      ${detailBody && (detail || tldr) ? `<details class="more"><summary>자세히 보기</summary><div class="detail-body">${esc(detailBody)}</div></details>` : ""}
+      ${detailBody && (detail || tldr) ? `<details class="more"><summary>${L("자세히 보기", "Details")}</summary><div class="detail-body">${esc(detailBody)}</div></details>` : ""}
     </div>
   </div>`;
 }
@@ -357,14 +392,14 @@ function pickTop(items, n) {
 function render() {
   const items = filtered();
   const el = document.getElementById("content");
-  if (!items.length) { el.innerHTML = `<div class="empty">해당하는 소식이 없습니다</div>`; return; }
+  if (!items.length) { el.innerHTML = `<div class="empty">${L("해당하는 소식이 없습니다", "No matching news")}</div>`; return; }
   const top = pickTop(items, 10);
   const topSet = new Set(top);
   const rest = items.filter((x) => !topSet.has(x)).slice(0, 70);
   el.innerHTML =
     `<h2 class="section">📌 TOP 10</h2>` +
     top.map((x, i) => itemHTML(x, i, true)).join("") +
-    (rest.length ? `<h2 class="section">더 보기</h2>` + rest.map((x, i) => itemHTML(x, i, false)).join("") : "") +
+    (rest.length ? `<h2 class="section">${L("더 보기", "More")}</h2>` + rest.map((x, i) => itemHTML(x, i, false)).join("") : "") +
     scriptHTML(top);
 }
 
@@ -381,7 +416,7 @@ function scriptHTML(top) {
       ${SCRIPT.description ? `<h3 style="margin-top:14px">📋 영상 설명란 <button class="copy-btn" onclick="copyDesc(this)">복사</button></h3>
       <pre class="desc-pre">${esc(SCRIPT.description)}</pre>` : ""}
     </div>`;
-    const intro = `<div class="script-item"><h3>인트로</h3><p class="para">${esc(SCRIPT.intro || "")}</p></div>`;
+    const intro = `<div class="script-item"><h3>인트로</h3><p class="para">${pron(SCRIPT.intro || "")}</p></div>`;
     const rows = SCRIPT.items.map((it) => {
       const t = SCRIPT.top?.find((p) => p.rank === it.rank);
       const x = t ? DATA.items.find((d) => d.title === t.title) : null;
@@ -389,11 +424,11 @@ function scriptHTML(top) {
       return `<div class="script-item">
         <h3><span class="num">${it.rank}.</span>${esc(head)}</h3>
         ${x && subTitlesOf(x).length ? `<div class="orig">${subTitlesOf(x).map(esc).join(" · ")}</div>` : ""}
-        <p class="para">${esc(it.para)}</p>
+        <p class="para">${pron(it.para)}</p>
         ${x ? `<div class="src-line">${esc(x.source)} · ${esc(x.url)}</div>` : ""}
       </div>`;
     }).join("");
-    const outro = `<div class="script-item"><h3>아웃트로</h3><p class="para">${esc(SCRIPT.outro || "")}</p></div>`;
+    const outro = `<div class="script-item"><h3>아웃트로</h3><p class="para">${pron(SCRIPT.outro || "")}</p></div>`;
     return `<div class="script-divider">📝 완성 대본 ${esc(SCRIPT.date || "")}${dur} (여기부터는 방송 모드 녹화에 안 나오는 영역 — 그대로 읽으면 됩니다)</div>${titleBlock}${intro}${rows}${outro}`;
   }
   // 폴백: 해설 요점 버전
@@ -425,18 +460,20 @@ function renderBC() {
   const eng = x.engagement != null ? `<span class="eng high">▲ ${fmtEng(x.engagement)}</span>` : "";
   const e = enrichOf(x);
   const subs = subTitlesOf(x);
-  const bullets = bulletsOf(x);
+  const bullets = LANG === "en" ? null : bulletsOf(x);
   const detail = bullets
     ? `<ul class="bc-bullets">${bullets.map((b) => `<li>${esc(b).replace(/^방송 전 체크:/, '<b class="check">방송 전 체크:</b>')}</li>`).join("")}</ul>`
     : x.summary ? `<div class="bc-summary">${esc(x.summary)}</div>` : "";
-  const lw = x.lastWeekRank ? `<span class="bc-lw">지난주 ${x.lastWeekRank}위 →</span>` : DATA.prevWeek ? `<span class="bc-lw">이번 주 신규</span>` : "";
+  const lw = x.lastWeekRank
+    ? `<span class="bc-lw">${L(`지난주 ${x.lastWeekRank}위 →`, `Last week #${x.lastWeekRank} →`)}</span>`
+    : DATA.prevWeek ? `<span class="bc-lw">${L("이번 주 신규", "NEW this week")}</span>` : "";
   document.getElementById("bcMain").innerHTML = `
     <div class="bc-rank">TOP ${bcIndex + 1}${lw}${x.hot ? '<span class="hot-flag">🔥 지금 뜨는 이슈</span>' : ""}</div>
     <div class="bc-row">
       <div class="bc-content">
         <div class="bc-title">${esc(mainTitleOf(x))}</div>
         ${subs.length ? `<div class="bc-orig">${subs.map(esc).join(" — ")}</div>` : ""}
-        ${e.tldr ? `<div class="bc-tldr">${esc(e.tldr)}</div>` : ""}
+        ${LANG !== "en" && e.tldr ? `<div class="bc-tldr">${esc(e.tldr)}</div>` : ""}
         ${detail}
       </div>
       ${e.img ? `<img class="bc-img" src="${esc(e.img)}" alt="" onerror="this.remove()">` : ""}
@@ -445,6 +482,30 @@ function renderBC() {
     <div class="bc-url">${esc(x.url)}</div>`;
   document.getElementById("bcProgress").innerHTML = bcItems
     .map((_, i) => `<div class="bc-dot ${i <= bcIndex ? "done" : ""}"></div>`).join("");
+  renderPrompter(x);
+}
+
+// 프롬프터: 현재 뉴스의 낭독 대본 (첫 화면엔 인트로, 마지막엔 아웃트로 포함)
+function renderPrompter(x) {
+  const el = document.getElementById("prompter");
+  el.classList.toggle("off", !prompterOn);
+  document.getElementById("prompterHint").textContent =
+    L("📜 대본 — T로 숨김/표시 (이 영역도 녹화에 나옵니다. 안 나오게 하려면 T로 끄고 인쇄본/폰으로 읽으세요)",
+      "📜 Script — press T to toggle (this area IS recorded)");
+  if (!prompterOn) return;
+  const sec = (tag, text) => `<div class="pron-sec"><span class="sec-tag">${tag}</span>${pron(text)}</div>`;
+  let html = "";
+  const scriptItem = SCRIPT?.items?.find((it) => SCRIPT.top?.[it.rank - 1]?.title === x.title || SCRIPT.top?.find((t) => t.rank === it.rank)?.title === x.title);
+  if (bcIndex === 0 && SCRIPT?.intro) html += sec(L("인트로", "Intro"), SCRIPT.intro);
+  if (scriptItem) html += sec(`${L("본문", "Main")} · TOP ${scriptItem.rank}`, scriptItem.para);
+  else {
+    const bullets = bulletsOf(x);
+    html += bullets ? sec(L("요점 (완성 대본 없음 — npm run script)", "Key points"), bullets.join(" "))
+                    : sec(L("대본 없음", "No script"), x.summary || "");
+  }
+  if (bcIndex === bcItems.length - 1 && SCRIPT?.outro) html += sec(L("아웃트로", "Outro"), SCRIPT.outro);
+  document.getElementById("prompterBody").innerHTML = html;
+  el.scrollTop = 0;
 }
 
 document.addEventListener("keydown", (e) => {
@@ -453,11 +514,50 @@ document.addEventListener("keydown", (e) => {
     if (e.key === "ArrowRight" || e.key === " ") { bcIndex = Math.min(bcIndex + 1, bcItems.length - 1); renderBC(); }
     else if (e.key === "ArrowLeft") { bcIndex = Math.max(bcIndex - 1, 0); renderBC(); }
     else if (e.key === "o" || e.key === "O") { window.open(bcItems[bcIndex].url, "_blank"); }
+    else if (e.key === "t" || e.key === "T" || e.key === "ㅅ") {
+      prompterOn = !prompterOn;
+      localStorage.setItem("aiw-prompter", prompterOn ? "on" : "off");
+      renderPrompter(bcItems[bcIndex]);
+    }
     else if (e.key === "Escape") exitBroadcast();
     e.preventDefault();
   } else if ((e.key === "b" || e.key === "B" || e.key === "ㅠ") && document.activeElement.id !== "search") {
     enterBroadcast();
   }
+});
+
+// 한/영 표시 전환
+const TAB_LABELS = {
+  all: ["전체", "All"], hot: ["🔥 실시간", "🔥 Live"], global: ["해외", "Global"],
+  ko: ["국내", "Korea"], paper: ["논문", "Papers"], official: ["공식 발표", "Official"],
+};
+function applyLang() {
+  document.querySelectorAll(".tab[data-f]").forEach((t) => {
+    const l = TAB_LABELS[t.dataset.f];
+    if (l) t.textContent = L(...l);
+  });
+  document.getElementById("search").placeholder = L("검색…", "Search…");
+  document.querySelector(".btn-broadcast").textContent = L("🎙 방송 모드 (B)", "🎙 Broadcast (B)");
+  document.getElementById("langToggle").textContent = L("Aa EN", "Aa 한글");
+  document.getElementById("bcHelp").textContent = L("← → 이동 · T 대본 · O 원문 열기 · ESC 종료", "← → move · T script · O open source · ESC exit");
+  if (DATA.updatedAt) renderHeaderMeta();
+  render();
+}
+function renderHeaderMeta() {
+  const up = new Date(DATA.updatedAt);
+  document.getElementById("updatedAt").innerHTML = L(
+    `마지막 업데이트 <b>${up.toLocaleString("ko-KR", { month: "long", day: "numeric", hour: "2-digit", minute: "2-digit" })}</b> · 수집 ${DATA.count}건`,
+    `Updated <b>${up.toLocaleString("en-US", { month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" })}</b> · ${DATA.count} items`);
+  const monday = new Date(DATA.updatedAt - ((new Date(DATA.updatedAt).getDay() + 6) % 7) * 86400000);
+  document.getElementById("weekLabel").textContent = L(
+    `${monday.getFullYear()}년 ${monday.getMonth() + 1}월 ${Math.ceil(monday.getDate() / 7)}주차`,
+    `Week of ${monday.toLocaleString("en-US", { month: "short", day: "numeric" })}`);
+}
+document.getElementById("langToggle").addEventListener("click", () => {
+  LANG = LANG === "ko" ? "en" : "ko";
+  localStorage.setItem("aiw-lang", LANG);
+  applyLang();
+  if (document.getElementById("broadcast").classList.contains("on")) renderBC();
 });
 
 function copyDesc(btn) {
@@ -488,13 +588,7 @@ Promise.all([
     DATA = d;
     ENRICH = e;
     SCRIPT = s;
-    const up = new Date(d.updatedAt);
-    document.getElementById("updatedAt").innerHTML =
-      `마지막 업데이트 <b>${up.toLocaleString("ko-KR", { month: "long", day: "numeric", hour: "2-digit", minute: "2-digit" })}</b> · 수집 ${d.count}건`;
-    const monday = new Date(d.updatedAt - ((new Date(d.updatedAt).getDay() + 6) % 7) * 86400000);
-    document.getElementById("weekLabel").textContent =
-      `${monday.getFullYear()}년 ${monday.getMonth() + 1}월 ${Math.ceil(monday.getDate() / 7)}주차`;
-    render();
+    applyLang(); // 라벨 + 헤더 + render까지 수행
   })
   .catch(() => { document.getElementById("content").innerHTML = `<div class="empty">data.json이 없습니다 — <code>npm run update</code>를 먼저 실행하세요</div>`; });
 }

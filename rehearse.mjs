@@ -19,7 +19,10 @@ try {
 } catch {}
 if (!voice) { console.error("한국어 TTS 음성 없음 — 시스템 설정 > 손쉬운 사용 > 음성 콘텐츠에서 추가"); process.exit(1); }
 
-const fullText = [script.intro, ...script.items.map((it) => it.para), script.outro].join("\n\n");
+// {{원어|발음}} 표기는 발음 쪽으로 읽기
+const fullText = [script.intro, ...script.items.map((it) => it.para), script.outro]
+  .join("\n\n")
+  .replace(/\{\{([^|{}]+)\|([^|{}]+)\}\}/g, "$2");
 mkdirSync(join(ROOT, "briefings"), { recursive: true });
 const out = join(ROOT, "briefings", `${script.date}-rehearsal.aiff`);
 
