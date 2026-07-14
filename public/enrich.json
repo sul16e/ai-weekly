@@ -1267,5 +1267,52 @@
  },
  "'모두의 AI' 사업에 카카오·이통사·스타트업 잇달아 출사표": {
   "tldr": "전 국민이 무료로 쓸 수 있는 국산 AI를 만드는 '모두의 AI' 사업 공모에 카카오가 참여를 확정하고 네이버·이통사·스타트업도 잇달아 뛰어들고 있다."
+ },
+ "How sales teams use ChatGPT Work": {
+  "img": null,
+  "ko": "영업 팀은 'ChatGPT Work'를 어떻게 쓰는가",
+  "hook": "영업 실무를 바꾸는 챗GPT 활용법",
+  "tldr": "영업 팀이 실무 자료로 파이프라인 브리프·미팅 준비·예측 검토 등을 ChatGPT Work로 만드는 활용법을 소개하는 글이다.",
+  "detail": "OpenAI가 영업 팀을 위한 ChatGPT Work 활용 사례를 정리해 소개한 글이다. 영업 팀이 실제 업무 자료를 입력하면 파이프라인 브리프, 미팅 준비 패킷(meeting prep packet), 예측 검토(forecast review), 어카운트 플랜, 정체된 거래 진단(stalled-deal diagnosis)을 만들 수 있다는 내용이다. 앞서 소개된 데이터 사이언스 팀 사례와 마찬가지로 '실제 업무 입력'을 근거로 결과물을 생성한다는 점을 강조한다. 이번 글은 요약 수준의 소개라 구체적 기능 방식이나 성능 수치는 담겨 있지 않다. 방송 전 체크: 세부 기능과 실제 효과는 원문 확인이 필요함.",
+  "bullets": [
+   "OpenAI가 영업 팀의 ChatGPT Work 활용 사례로 파이프라인 브리프, 미팅 준비 패킷, 예측 검토, 어카운트 플랜, 정체된 거래 진단을 제시했다.",
+   "실제 업무 입력을 기반으로 결과물을 생성하는 방식이라는 점을 강조한다.",
+   "방송 전 체크: 요약 소개 수준이라 세부 기능·수치는 원문 확인이 필요함."
+  ]
+ },
+ "How data science teams use ChatGPT Work": {
+  "img": null,
+  "ko": "데이터 사이언스 팀은 'ChatGPT Work'를 어떻게 쓰는가",
+  "hook": "데이터 분석가를 위한 챗GPT 활용법",
+  "tldr": "데이터 사이언스 팀이 실무 자료를 바탕으로 원인 분석·영향 보고·KPI 메모 등을 ChatGPT Work로 만드는 활용법을 소개하는 글이다.",
+  "detail": "OpenAI가 데이터 사이언스 팀을 위한 ChatGPT Work 활용 사례를 정리해 소개한 글이다. 팀이 실제 업무 자료를 입력하면 근본 원인 브리프(root-cause brief), 영향 분석 리포트(impact readout), KPI 메모, 범위가 정해진 분석(scoped analyses), 대시보드 명세(dashboard specs)를 만들 수 있다는 내용이다. 핵심은 가공된 예시가 아니라 '실제 업무 입력'을 근거로 결과물을 생성한다는 점이다. 다만 이번 소개는 요약 수준이라 구체적인 기능 구현 방식, 성능 수치, 이용 조건 등은 드러나 있지 않다. 방송 전 체크: 세부 기능과 실제 활용 효과는 원문 확인이 필요함.",
+  "bullets": [
+   "OpenAI가 데이터 사이언스 팀의 ChatGPT Work 활용 사례로 근본 원인 브리프, 영향 분석 리포트, KPI 메모, 범위가 정해진 분석, 대시보드 명세 작성을 제시했다.",
+   "실제 업무 입력(real work inputs)을 기반으로 결과물을 생성하는 방식이라는 점을 강조한다.",
+   "방송 전 체크: 이번 자료는 요약 소개 수준이라 구체적 성능·수치나 사용 조건은 원문 확인이 필요함."
+  ]
+ },
+ "Show GN: Brain-AI Memory – 장기 실행 LLM 에이전트의 메모리 실패를 진단하는 오픈 아키텍처": {
+  "img": "https://social.news.hada.io/topic/31435",
+  "hook": "AI 에이전트가 기억을 못 하는 진짜 이유",
+  "tldr": "장기 실행 LLM 에이전트의 메모리 실패를 뭉뚱그려 'retrieval 문제'로 보지 말고 6가지 유형으로 나눠 진단하자는 오픈소스 아키텍처다.",
+  "detail": "장기 실행 LLM 에이전트의 다양한 메모리 실패를 'retrieval 하나의 문제'로 보지 말고 유형별로 나눠 진단하자는 오픈소스 아키텍처 프로젝트다. 오래된 기억 사용, 이미 기록한 것 재질문, 규칙 무시, fallback 절차 중도 포기 같은 서로 다른 실패를 episodic·semantic memory, procedural rule·execution, numerical state, routing, input gate로 구분하고 각각의 실패 조건과 lifecycle을 연결한다. 개발자는 실제 multi-project 에이전트 시스템에서 몇 달간 쓴 구조를 clean-room 방식으로 정리해 공개했다. 60초 실행 예제, 재사용 가능한 hook과 memory template, 운영 근거, 500문항 LongMemEval-S retrieval 결과를 포함한다. 특히 벤치마크의 부정적 결과도 숨기지 않았는데, 96-keyword pointer는 색인 텍스트를 93% 줄였지만 recall@3가 full BM25의 86.1%에서 71.0%로 낮아졌다. 개발자는 실제 에이전트 failure가 이 component mapping에 잘 들어맞는지, 채택을 위해 installable reference와 end-to-end QA benchmark 중 무엇이 더 필요한지에 대한 피드백을 구하고 있다.",
+  "bullets": [
+   "에이전트가 오래된 기억을 쓰거나 규칙을 무시하는 실패를 episodic·semantic memory, procedural rule, numerical state, routing, input gate 등으로 구분해 각 실패 조건을 연결한다.",
+   "실제 multi-project 에이전트에서 몇 달간 쓴 구조를 clean-room 방식으로 공개했고 60초 실행 예제와 재사용 hook·template을 제공한다.",
+   "500문항 LongMemEval-S 결과에서 96-keyword pointer가 색인 텍스트를 93% 줄였지만 recall@3는 86.1%→71.0%로 떨어진 부정적 결과도 그대로 공개했다."
+  ]
+ },
+ "오픈AI '코덱스' 활성 사용자 700만 돌파...'GPT-5.6' 출시 효과 톡톡": {
+  "tldr": "오픈AI의 AI 코딩 에이전트 '코덱스'와 '챗GPT 워크' 활성 사용자가 700만명을 넘어섰고, 최근 GPT-5.6 출시로 증가세가 더 빨라졌다."
+ },
+ "나델라의 경고 “AI 기업에 노하우 넘겨주는 ‘역정보의 역설’ 막아야”": {
+  "tldr": "나델라 MS CEO가 폐쇄형 AI를 쓸수록 기업 노하우가 모델 업체로 쌓이는 '역정보의 역설'을 경고하며, '신뢰 경계'를 세워 데이터 주권을 확보하라고 촉구했다."
+ },
+ "\"실패 원인만 골라 강화학습\"…4분의 1 데이터로 상용 모델 넘은 '트레이스' 공개": {
+  "tldr": "스탠퍼드 연구진이 에이전트의 실패 원인만 자동 진단해 부족한 역량만 집중 훈련하는 오픈소스 프레임워크 '트레이스(TRACE)'를 공개했다."
+ },
+ "실행 결과 학습해 진화하는 '동적 피드백' 라우터 등장...\"AI 비용 2.6배 절감\"": {
+  "tldr": "싱가포르 국립대·알리바바 DAMO 연구진이 실행 결과를 학습해 스스로 최적화하는 동적 모델 라우팅 프레임워크 'AC라우터'를 오픈소스로 공개했다."
  }
 }
