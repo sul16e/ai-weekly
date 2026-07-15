@@ -1,5 +1,5 @@
 {
- "updatedAt": 1784078610440,
+ "updatedAt": 1784084481302,
  "week": "2026-W29",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 376,
-   "comments": 378,
+   "engagement": 389,
+   "comments": 389,
    "publishedAt": 1784042293000,
    "isAI": true,
-   "score": 58.2,
+   "score": 57.5,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 431,
-   "comments": 495,
+   "engagement": 449,
+   "comments": 509,
    "publishedAt": 1784029562000,
    "isAI": true,
-   "score": 57.3,
+   "score": 56.7,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 408,
-   "comments": 240,
+   "engagement": 412,
+   "comments": 241,
    "publishedAt": 1784028092000,
    "isAI": true,
-   "score": 56.6,
+   "score": 55.8,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1514,
-   "comments": 770,
+   "engagement": 1516,
+   "comments": 771,
    "publishedAt": 1783931979000,
    "isAI": true,
-   "score": 53,
+   "score": 52.3,
    "hot": false
   },
   {
@@ -65,11 +65,67 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 346,
-   "comments": 224,
+   "engagement": 349,
+   "comments": 227,
    "publishedAt": 1784046966000,
    "isAI": false,
-   "score": 50.9,
+   "score": 50.2,
+   "hot": true
+  },
+  {
+   "title": "Financing the AI boom: from cash flows to debt [pdf]",
+   "url": "https://www.bis.org/publ/bisbull120.pdf",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48913443",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 103,
+   "comments": 51,
+   "publishedAt": 1784066316000,
+   "isAI": true,
+   "score": 49.6,
+   "hot": false
+  },
+  {
+   "title": "코드를 거의 보지 않고 만든 70배 빠른 SQL 파서",
+   "url": "https://news.hada.io/topic?id=31457",
+   "summary": "PostHog는 ANTLR 기반 C++ SQL 파서를 여러 Claude Code 세션으로 재작성해 16K줄의 Rust 파서 와 5K줄의 도구, 수천 줄의 테스트를 만들었으며 노트북 기준 약 70배의 속도 향상을 얻음 새 구현은 예측형 재귀 하강 파서 와 Pratt 표현식 코어를 중심으로, 필요한 곳...",
+   "publishedAt": 1784081945000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
+  },
+  {
+   "title": "Physical AI의 머니볼",
+   "url": "https://news.hada.io/topic?id=31456",
+   "summary": "로봇 데이터는 텍스트처럼 기존 코퍼스에서 채굴할 수 없고 유용한 시간마다 비용이 발생하므로, 자본 효율은 총수집량보다 달러당 한계 효용 과 데이터 새로움 을 얼마나 정확히 계산하느냐에 달려 있음 데이터가 늘면 손실은 멱법칙에 따라 감소하지만, 다...",
+   "publishedAt": 1784081821000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
+  },
+  {
+   "title": "예측 불가능한 천재를 감싸는 법",
+   "url": "https://news.hada.io/topic?id=31455",
+   "summary": "같은 요청에도 결과가 달라지는 AI 제품에서 반복 오류를 줄이려면 지침을 늘리기보다 모델이 거스를 수 없는 결정론적 코드 로 통제해야 함 통제 구조는 모델, 하네스, 문서, 훅의 네 계층으로 나뉘며, 특정 조건에서 독립적으로 작동하는 훅(hook) 만 규칙을 강제...",
+   "publishedAt": 1784081569000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
    "hot": true
   },
   {
@@ -80,10 +136,38 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 172,
-   "comments": 102,
+   "comments": 104,
    "publishedAt": 1784033785000,
    "isAI": true,
-   "score": 50.3,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "소프트웨어가 세상을 먹어 치웠고, 이제 하드웨어가 소프트웨어를 먹고 있다",
+   "url": "https://news.hada.io/topic?id=31454",
+   "summary": "SaaS 시대에는 인터페이스와 애플리케이션이 75~90%의 총마진을 확보했지만, AI에서는 가치 중심이 반도체·컴퓨팅·데이터·추론 플랫폼 으로 내려가며 애플리케이션 계층이 얇아지고 있음 막대한 자본과 CoWoS·HBM·전력의 물리적 병목 , 데이터 전환 비용, 애플리케이...",
+   "publishedAt": 1784081443000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+   "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48903777",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 489,
+   "comments": 334,
+   "publishedAt": 1784018097000,
+   "isAI": false,
+   "score": 49,
    "hot": true
   },
   {
@@ -97,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.9,
+   "score": 49,
    "hot": true
   },
   {
@@ -111,21 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.8,
-   "hot": true
-  },
-  {
-   "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-   "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48903777",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 480,
-   "comments": 325,
-   "publishedAt": 1784018097000,
-   "isAI": false,
-   "score": 49.6,
+   "score": 48.9,
    "hot": true
   },
   {
@@ -139,7 +209,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.5,
+   "score": 48.7,
    "hot": false
   },
   {
@@ -153,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -167,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -177,25 +247,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1069,
+   "engagement": 1071,
    "comments": 453,
    "publishedAt": 1783905860000,
    "isAI": true,
-   "score": 47.9,
-   "hot": false
-  },
-  {
-   "title": "Samsung Health app threatens data deletion if users opt out AI training",
-   "url": "https://neow.in/cWsyMTV3",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48897991",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 344,
-   "comments": 97,
-   "publishedAt": 1783972903000,
-   "isAI": true,
-   "score": 47.8,
+   "score": 47.4,
    "hot": false
   },
   {
@@ -209,21 +265,21 @@
    "comments": 19,
    "publishedAt": 1783949999000,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.2,
    "hot": false
   },
   {
-   "title": "Grok CLI uploaded the whole home directory to GCS",
-   "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48892468",
+   "title": "Samsung Health app threatens data deletion if users opt out AI training",
+   "url": "https://neow.in/cWsyMTV3",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48897991",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 428,
-   "comments": 402,
-   "publishedAt": 1783949732000,
+   "engagement": 344,
+   "comments": 97,
+   "publishedAt": 1783972903000,
    "isAI": true,
-   "score": 46.7,
+   "score": 47.1,
    "hot": false
   },
   {
@@ -233,11 +289,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 135,
-   "comments": 181,
+   "engagement": 138,
+   "comments": 184,
    "publishedAt": 1784020807000,
    "isAI": true,
-   "score": 46.6,
+   "score": 46,
+   "hot": false
+  },
+  {
+   "title": "Grok CLI uploaded the whole home directory to GCS",
+   "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48892468",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 429,
+   "comments": 402,
+   "publishedAt": 1783949732000,
+   "isAI": true,
+   "score": 46,
    "hot": false
   },
   {
@@ -247,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 534,
-   "comments": 226,
+   "engagement": 536,
+   "comments": 228,
    "publishedAt": 1783966936000,
    "isAI": false,
-   "score": 44.3,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -262,10 +332,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 555,
-   "comments": 230,
+   "comments": 232,
    "publishedAt": 1783958768000,
    "isAI": false,
-   "score": 43.7,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -279,7 +349,7 @@
    "comments": 388,
    "publishedAt": 1783880751000,
    "isAI": true,
-   "score": 43,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -293,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -304,11 +374,39 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 150,
-   "comments": 208,
+   "comments": 210,
    "publishedAt": 1784038674000,
    "isAI": false,
-   "score": 42.7,
+   "score": 42,
    "hot": false
+  },
+  {
+   "title": "나는 USB-C 맥시멀리스트다",
+   "url": "https://news.hada.io/topic?id=31453",
+   "summary": "7주간의 유럽 여행에서 휴대전화부터 노트북·칫솔까지 충전 규격을 USB-C로 통일 해, 여러 전용 어댑터 대신 범용 전원 어댑터 하나만 휴대함 범용 어댑터는 노트북과 휴대전화를 빠르게 충전하는 USB-C PD , USB-C 포트 2개, USB-A 포트 2개와 콘센트 패스스루를 갖...",
+   "publishedAt": 1784081235000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
+  },
+  {
+   "title": "Show GN: K리그 일정 캘린더(URL 구독)",
+   "url": "https://news.hada.io/topic?id=31452",
+   "summary": "내 응원팀과 K리그 1·2 전 경기 일정을 캘린더로 구독하세요! \"우리 팀 다음 경기가 언제지? 아챔 때문에 일정이 바뀌진 않았나?\" 매번 검색창을 두드리거나 K리그 앱을 찾아본 다음 개인 캘린더에 수동으로 일정을 등록하는 과정이 참 번거롭게 느껴졌습니다. '그냥 내가 쓰는 캘린더에 일정",
+   "publishedAt": 1784080964000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
   },
   {
    "title": "GeekNews로 어쩌다가 취업하기",
@@ -321,7 +419,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.6,
+   "hot": false
+  },
+  {
+   "title": "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
+   "url": "https://github.com/thephw/claude-meseeks",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48899529",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 131,
+   "comments": 55,
+   "publishedAt": 1783980234000,
+   "isAI": true,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -335,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -349,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -363,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -377,22 +489,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.1,
    "hot": true
-  },
-  {
-   "title": "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
-   "url": "https://github.com/thephw/claude-meseeks",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48899529",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 131,
-   "comments": 55,
-   "publishedAt": 1783980234000,
-   "isAI": true,
-   "score": 41.7,
-   "hot": false
   },
   {
    "title": "Hexana - JetBrains의 WebAssembly 및 바이너리 분석 도구",
@@ -405,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -419,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -433,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -447,21 +545,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 40.8,
-   "hot": true
-  },
-  {
-   "title": "Count Binface",
-   "url": "https://news.hada.io/topic?id=31440",
-   "summary": "Count Binface 는 Sigma IX 출신 Recyclons의 지도자이자 은하계 전사라는 설정으로, 2017년부터 영국의 실제 선거에 거듭 출마해 온 정치 캐릭터임 2017년 Theresa May에게 ‘Lord Buckethead’로 도전해 화제가 됐고, 2019년에는 현재 모습으로 Boris Johnson과 맞붙어 69표...",
-   "publishedAt": 1784061259000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.9,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -475,8 +559,22 @@
    "comments": 19,
    "publishedAt": 1783972810000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.2,
    "hot": false
+  },
+  {
+   "title": "Count Binface",
+   "url": "https://news.hada.io/topic?id=31440",
+   "summary": "Count Binface 는 Sigma IX 출신 Recyclons의 지도자이자 은하계 전사라는 설정으로, 2017년부터 영국의 실제 선거에 거듭 출마해 온 정치 캐릭터임 2017년 Theresa May에게 ‘Lord Buckethead’로 도전해 화제가 됐고, 2019년에는 현재 모습으로 Boris Johnson과 맞붙어 69표...",
+   "publishedAt": 1784061259000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.2,
+   "hot": true
   },
   {
    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -489,7 +587,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.6,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -503,7 +601,7 @@
    "comments": 66,
    "publishedAt": 1784000395000,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -517,21 +615,7 @@
    "comments": 67,
    "publishedAt": 1784017489000,
    "isAI": false,
-   "score": 39.1,
-   "hot": false
-  },
-  {
-   "title": "Lorde says AI glasses are ‘not sexy’",
-   "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-   "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
-   "publishedAt": 1784070602000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 39.1,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -545,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -559,7 +643,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39,
+   "score": 38.5,
+   "hot": false
+  },
+  {
+   "title": "Lorde says AI glasses are ‘not sexy’",
+   "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+   "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+   "publishedAt": 1784070602000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -573,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -587,7 +685,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -601,7 +699,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -615,7 +713,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.1,
+   "hot": false
+  },
+  {
+   "title": "OpenAI pushes back on Apple trade secret lawsuit",
+   "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+   "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+   "publishedAt": 1784066862000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 38,
    "hot": false
   },
   {
@@ -629,22 +741,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38,
    "hot": true
-  },
-  {
-   "title": "OpenAI pushes back on Apple trade secret lawsuit",
-   "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-   "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
-   "publishedAt": 1784066862000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 38.6,
-   "hot": false
   },
   {
    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
@@ -657,21 +755,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.5,
-   "hot": false
-  },
-  {
-   "title": "Zig 창시자는 진실을 말하지만, Antropic은 허풍을 떨고 있다.",
-   "url": "https://news.hada.io/topic?id=31406",
-   "summary": "Anthropic이 소프트웨어 엔지니어링의 종말 을 미래 가치로 내세우는 가운데, Bun의 Zig→Rust 전환도 AI가 엔지니어링을 대체할 수 있다는 홍보 서사에 활용됐다는 비판 Bun은 메모리 버그를 전환 이유로 들었지만, 대안과 장단점 비교 가 부족하고 Rust의 느린 컴파...",
-   "publishedAt": 1783979486000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -685,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -699,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -713,7 +797,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.6,
+   "score": 37,
    "hot": false
   },
   {
@@ -727,7 +811,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.6,
+   "score": 37,
    "hot": false
   },
   {
@@ -741,7 +825,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.6,
+   "score": 37,
    "hot": false
   },
   {
@@ -755,23 +839,9 @@
    "comments": 956,
    "publishedAt": 1783716429000,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false,
    "lastWeekRank": 3
-  },
-  {
-   "title": "Google faces another AI training lawsuit from major publishers",
-   "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-   "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
-   "publishedAt": 1784054011000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 37.2,
-   "hot": false
   },
   {
    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
@@ -784,7 +854,35 @@
    "comments": 228,
    "publishedAt": 1783818590000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.7,
+   "hot": false
+  },
+  {
+   "title": "Google faces another AI training lawsuit from major publishers",
+   "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+   "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+   "publishedAt": 1784054011000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+   "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48882716",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 257,
+   "comments": 131,
+   "publishedAt": 1783876387000,
+   "isAI": true,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -798,35 +896,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
-  },
-  {
-   "title": "프로덕션 AI 에이전트를 GPT-5.6으로 전환해 2.2배 빠르고 27% 저렴해진 과정",
-   "url": "https://news.hada.io/topic?id=31404",
-   "summary": "Ploy는 프로덕션 마케팅 웹사이트를 계획·구축·검증하는 에이전트를 Claude Opus 4.8에서 GPT-5.6 Sol 로 전환하고 모든 워크스페이스의 기본 모델로 지정함 평가 하네스의 모델별 가정을 바로잡은 뒤 홈페이지 재구축 작업에서 평균 실행 시간이 8분에서 3분 42초 로...",
-   "publishedAt": 1783968050000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-   "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48882716",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 257,
-   "comments": 130,
-   "publishedAt": 1783876387000,
-   "isAI": true,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -840,7 +910,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -854,7 +924,7 @@
    "comments": 156,
    "publishedAt": 1783951323000,
    "isAI": false,
-   "score": 36.5,
+   "score": 36,
    "hot": false
   },
   {
@@ -868,7 +938,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -882,7 +952,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -896,7 +966,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -910,7 +980,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+   "url": "https://github.com/juggler-ai/juggler",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48883305",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 188,
+   "comments": 80,
+   "publishedAt": 1783880895000,
+   "isAI": true,
+   "score": 35,
    "hot": false
   },
   {
@@ -924,7 +1008,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.5,
+   "score": 35,
    "hot": false
   },
   {
@@ -938,7 +1022,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.5,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -952,7 +1036,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -966,21 +1050,7 @@
    "comments": 31,
    "publishedAt": 1783966705000,
    "isAI": false,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-   "url": "https://github.com/juggler-ai/juggler",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48883305",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 174,
-   "comments": 79,
-   "publishedAt": 1783880895000,
-   "isAI": true,
-   "score": 35,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -994,7 +1064,7 @@
    "comments": 125,
    "publishedAt": 1783973489000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1008,21 +1078,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "Xcode를 열지 않고 Mac·iOS 앱 빌드와 배포하기",
-   "url": "https://news.hada.io/topic?id=31431",
-   "summary": "초기 Apple 계정·인증서 설정을 마치면 Xcode.app 내부 CLI 도구 만으로 Mac과 iOS 앱의 빌드, 서명, 배포를 자동화할 수 있음 project.yml 에서 XcodeGen 으로 .xcodeproj 를 재생성하고, xcodebuild , notarytool",
-   "publishedAt": 1784007639000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.4,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1036,9 +1092,23 @@
    "comments": 94,
    "publishedAt": 1783809537000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "Xcode를 열지 않고 Mac·iOS 앱 빌드와 배포하기",
+   "url": "https://news.hada.io/topic?id=31431",
+   "summary": "초기 Apple 계정·인증서 설정을 마치면 Xcode.app 내부 CLI 도구 만으로 Mac과 iOS 앱의 빌드, 서명, 배포를 자동화할 수 있음 project.yml 에서 XcodeGen 으로 .xcodeproj 를 재생성하고, xcodebuild , notarytool",
+   "publishedAt": 1784007639000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.8,
+   "hot": false
   },
   {
    "title": "GPT-5.6",
@@ -1051,7 +1121,7 @@
    "comments": 1105,
    "publishedAt": 1783616654000,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false,
    "lastWeekRank": 15
   },
@@ -1066,7 +1136,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1080,7 +1150,7 @@
    "comments": 106,
    "publishedAt": 1783862773000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1094,7 +1164,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1108,7 +1178,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1122,7 +1192,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1136,7 +1206,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1150,7 +1220,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1164,7 +1234,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1178,7 +1248,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1192,7 +1262,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1206,35 +1276,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "[7월14일] 'AI 2027'은 경고였다…이번에는 \"2040년까지 초지능 개발을 멈추자\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=212739",
-   "summary": "지난해 4월 공개된 'AI 2027'이라는 보고서는 실리콘 밸리에서 화제가 됐습니다. 이 보고서는 불과 몇 년 안에 AGI가 달성되고, 나아가 AI가 더 뛰어난 AI를 개발하는 단계까지 진입할 수 있다는 가상의 시나리오를 제시했습니다. 당시에는 다소 급진적인 전망이라는 평가도 있었지만, AI의 발전 속도와 안전 문제를 둘러싼 논의를 본격화했다는 점에서 큰 영향을 미쳤습니다.그런데 AI 2027을 만든 연구진이 이번에는 한층 더 강경한 메시지를 내놨습니다. 새 프로젝트 'AI 2040'을 통해 인간보다 뛰어난 초지능의 개발을 최소 2",
-   "publishedAt": 1784066400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "컴퓨터 산업의 역사적 전환점… 애플 ‘최초의 컴퓨터’ 경매 예상가는?",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=212758",
-   "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
-   "publishedAt": 1784066100000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1248,7 +1290,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1262,7 +1304,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1276,21 +1318,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "OpenAI may announce a ChatGPT smart speaker this year",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-   "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit a",
-   "publishedAt": 1784064392000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1304,7 +1332,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.6,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1318,7 +1346,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.6,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "[7월14일] 'AI 2027'은 경고였다…이번에는 \"2040년까지 초지능 개발을 멈추자\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212739",
+   "summary": "지난해 4월 공개된 'AI 2027'이라는 보고서는 실리콘 밸리에서 화제가 됐습니다. 이 보고서는 불과 몇 년 안에 AGI가 달성되고, 나아가 AI가 더 뛰어난 AI를 개발하는 단계까지 진입할 수 있다는 가상의 시나리오를 제시했습니다. 당시에는 다소 급진적인 전망이라는 평가도 있었지만, AI의 발전 속도와 안전 문제를 둘러싼 논의를 본격화했다는 점에서 큰 영향을 미쳤습니다.그런데 AI 2027을 만든 연구진이 이번에는 한층 더 강경한 메시지를 내놨습니다. 새 프로젝트 'AI 2040'을 통해 인간보다 뛰어난 초지능의 개발을 최소 2",
+   "publishedAt": 1784066400000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "컴퓨터 산업의 역사적 전환점… 애플 ‘최초의 컴퓨터’ 경매 예상가는?",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212758",
+   "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+   "publishedAt": 1784066100000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1328,81 +1384,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 240,
+   "engagement": 241,
    "comments": 138,
    "publishedAt": 1783808928000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false,
    "lastWeekRank": 4
   },
   {
-   "title": "Ask HN: 지금 무엇을 만들고 있나요? (2026년 7월)",
-   "url": "https://news.hada.io/topic?id=31412",
-   "summary": "현재 진행 중인 작업과 새롭게 구상 중인 아이디어 를 공유해 달라는 질문임 ...",
-   "publishedAt": 1783982106000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-   "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-   "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
-   "publishedAt": 1784059553000,
-   "source": "Ars Technica",
+   "title": "OpenAI may announce a ChatGPT smart speaker this year",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+   "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit a",
+   "publishedAt": 1784064392000,
+   "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "2026년에 왜 코드를 작성하는가",
-   "url": "https://news.hada.io/topic?id=31411",
-   "summary": "소프트웨어 엔지니어의 역할은 코드 생산을 넘어 소프트웨어 팩토리 를 구축·유지하는 일로 확장됐지만, 시스템을 이해하고 개선하려면 여전히 직접 코드를 다룰 필요가 있음 프롬프트, AGENTS.md , 지식 베이스로 에이전트를 안내하고 테스트, 린팅, 타입 시스템, 평가로...",
-   "publishedAt": 1783980287000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "‘인터넷의 아버지’ Vint Cerf, 은퇴",
-   "url": "https://news.hada.io/topic?id=31410",
-   "summary": "인터넷의 기반인 TCP/IP 공동 설계자 Vint Cerf가 20년 넘게 몸담은 Google에서 다음 주 퇴임하며 기술계 경력을 마무리함 83세인 Cerf는 Robert Kahn과 함께 서로 다른 컴퓨터 네트워크를 연결하는 TCP/IP를 1970년대부터 개발·보급했으며, Presidential Medal of Freedom...",
-   "publishedAt": 1783980125000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "Telegram의 t.me 도메인이 정지됨",
-   "url": "https://news.hada.io/topic?id=31409",
-   "summary": "Telegram 단축 링크에 사용하는 t.me 도메인 의 WHOIS 레코드에 2026년 7월 13일 serverHold 가 설정돼 현재 DNS 조회와 링크 접속이 동작하지 않음 serverHold 는 웹 서버 장애가 아니라 레지스트리 운영자가 도메인을 DNS에 게시하지 않...",
-   "publishedAt": 1783980006000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 32,
    "hot": false
   }
