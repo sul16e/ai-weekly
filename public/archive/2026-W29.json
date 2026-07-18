@@ -1,5 +1,5 @@
 {
- "updatedAt": 1784354291461,
+ "updatedAt": 1784357980078,
  "week": "2026-W29",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 432,
-   "comments": 283,
+   "engagement": 469,
+   "comments": 301,
    "publishedAt": 1784327190000,
    "isAI": true,
-   "score": 60.9,
+   "score": 61,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 406,
-   "comments": 296,
+   "engagement": 414,
+   "comments": 299,
    "publishedAt": 1784298670000,
    "isAI": true,
-   "score": 55.8,
+   "score": 55.4,
    "hot": true
   },
   {
@@ -37,11 +37,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 385,
-   "comments": 333,
+   "engagement": 387,
+   "comments": 336,
    "publishedAt": 1784289759000,
    "isAI": true,
-   "score": 54,
+   "score": 53.5,
+   "hot": true
+  },
+  {
+   "title": "Claude Fable 5, 7월 20일부터 Max/Team Premium 요금제에 기본 포함",
+   "url": "https://news.hada.io/topic?id=31545",
+   "summary": "맥스/팀 프리미엄 사용자는 7월 20일부터 Fable 5를 요금제 사용 한도의 50%까지 이용 가능 프로/팀 스탠다드 는 구독 기본 한도 대신 \"Usage 크레딧\"으로 계속 이용하며, 일회성 100달러 크레딧 지급 Fable ...",
+   "publishedAt": 1784357575000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
    "hot": true
   },
   {
@@ -55,7 +69,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.5,
+   "score": 49,
    "hot": true
   },
   {
@@ -69,35 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
-   "hot": true
-  },
-  {
-   "title": "2026년 7월 오픈소스 AI 현황",
-   "url": "https://news.hada.io/topic?id=31538",
-   "summary": "오픈 웨이트 모델은 코딩·지시 이행·일반 지식에서 폐쇄형과 비슷한 수준에 도달했고, 추론 비용도 36개월간 50배 하락 하면서 경쟁의 중심이 모델 자체에서 에이전트 하네스 로 이동함 2026년 중반 OpenRouter에서 오픈 웨이트가 토큰 처리량의 과반을 차지하고 상위...",
-   "publishedAt": 1784336121000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 47.4,
-   "hot": true
-  },
-  {
-   "title": "Apple, OpenAI 직원 수십 명에게 법적 서한 발송",
-   "url": "https://news.hada.io/topic?id=31537",
-   "summary": "Apple이 자사 출신 OpenAI 직원 약 40명 에게 문서와 통신 기록을 보존하고 Apple 변호사와 면담하라는 개별 법적 서한을 발송함 OpenAI가 Apple의 기밀 하드웨어 설계 를 도용했다는 소송을 뒷받침할 증거를 확보하기 위한 조치로, OpenAI에 이직한 전 Apple 직원 약...",
-   "publishedAt": 1784335941000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 47.4,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -111,8 +97,36 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.9,
    "hot": false
+  },
+  {
+   "title": "2026년 7월 오픈소스 AI 현황",
+   "url": "https://news.hada.io/topic?id=31538",
+   "summary": "오픈 웨이트 모델은 코딩·지시 이행·일반 지식에서 폐쇄형과 비슷한 수준에 도달했고, 추론 비용도 36개월간 50배 하락 하면서 경쟁의 중심이 모델 자체에서 에이전트 하네스 로 이동함 2026년 중반 OpenRouter에서 오픈 웨이트가 토큰 처리량의 과반을 차지하고 상위...",
+   "publishedAt": 1784336121000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.9,
+   "hot": true
+  },
+  {
+   "title": "Apple, OpenAI 직원 수십 명에게 법적 서한 발송",
+   "url": "https://news.hada.io/topic?id=31537",
+   "summary": "Apple이 자사 출신 OpenAI 직원 약 40명 에게 문서와 통신 기록을 보존하고 Apple 변호사와 면담하라는 개별 법적 서한을 발송함 OpenAI가 Apple의 기밀 하드웨어 설계 를 도용했다는 소송을 뒷받침할 증거를 확보하기 위한 조치로, OpenAI에 이직한 전 Apple 직원 약...",
+   "publishedAt": 1784335941000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.8,
+   "hot": true
   },
   {
    "title": "AGI 평가 과정과 수상자 선정에서 드러난 불일치",
@@ -125,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -139,7 +153,7 @@
    "comments": 117,
    "publishedAt": 1784298418000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.4,
    "hot": false
   },
   {
@@ -149,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 385,
+   "engagement": 387,
    "comments": 520,
    "publishedAt": 1784232203000,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.3,
    "hot": false
   },
   {
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -177,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 319,
+   "engagement": 321,
    "comments": 126,
    "publishedAt": 1784233095000,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.1,
    "hot": false
   },
   {
@@ -195,7 +209,7 @@
    "comments": 179,
    "publishedAt": 1784218093000,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -219,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 789,
+   "engagement": 790,
    "comments": 173,
    "publishedAt": 1784217987000,
    "isAI": false,
-   "score": 44.4,
+   "score": 44,
    "hot": false
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -251,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -265,7 +279,7 @@
    "comments": 173,
    "publishedAt": 1784220097000,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -279,7 +293,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
+   "hot": false
+  },
+  {
+   "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+   "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48933310",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 290,
+   "comments": 292,
+   "publishedAt": 1784203141000,
+   "isAI": true,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -293,22 +321,8 @@
    "comments": 1,
    "publishedAt": 1784285121000,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.4,
    "hot": true
-  },
-  {
-   "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-   "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48933310",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 289,
-   "comments": 291,
-   "publishedAt": 1784203141000,
-   "isAI": true,
-   "score": 41.8,
-   "hot": false
   },
   {
    "title": "Short sellers notch $8.7B profit as SpaceX shares dip to IPO price",
@@ -318,10 +332,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 156,
-   "comments": 165,
+   "comments": 167,
    "publishedAt": 1784301474000,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -335,7 +349,7 @@
    "comments": 648,
    "publishedAt": 1784147098000,
    "isAI": true,
-   "score": 41.3,
+   "score": 41,
    "hot": false
   },
   {
@@ -349,7 +363,7 @@
    "comments": 93,
    "publishedAt": 1784302282000,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -363,7 +377,21 @@
    "comments": 217,
    "publishedAt": 1784189015000,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.5,
+   "hot": false
+  },
+  {
+   "title": "Why teens deserve access to safe AI",
+   "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+   "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+   "publishedAt": 1784217600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 40,
    "hot": false
   },
   {
@@ -377,22 +405,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40,
    "hot": true
-  },
-  {
-   "title": "Why teens deserve access to safe AI",
-   "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-   "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-   "publishedAt": 1784217600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 40.3,
-   "hot": false
   },
   {
    "title": "How Our Rust-to-Zig Rewrite Is Going",
@@ -401,11 +415,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 518,
+   "engagement": 521,
    "comments": 298,
    "publishedAt": 1784201967000,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -419,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -433,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -447,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -461,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -475,7 +489,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.5,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -489,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -503,7 +517,7 @@
    "comments": 34,
    "publishedAt": 1784223886000,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -517,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -527,11 +541,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 154,
+   "engagement": 155,
    "comments": 79,
    "publishedAt": 1784214780000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -545,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -559,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -573,7 +587,7 @@
    "comments": 293,
    "publishedAt": 1784096880000,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -587,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -601,7 +615,7 @@
    "comments": 107,
    "publishedAt": 1784150196000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -615,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -629,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -643,7 +657,7 @@
    "comments": 80,
    "publishedAt": 1784215752000,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -657,21 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.2,
-   "hot": false
-  },
-  {
-   "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-   "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-   "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-   "publishedAt": 1784328909000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 37.1,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -685,21 +685,21 @@
    "comments": 276,
    "publishedAt": 1784203331000,
    "isAI": false,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
-   "title": "NotebookLM, Gemini Notebook으로 이름 변경",
-   "url": "https://news.hada.io/topic?id=31508",
-   "summary": "Google은 독립형 연구 도구 라는 제품 성격을 유지하면서 Gemini 앱과 Google Search 등 자사 생태계와의 연동을 확대하기 위해 NotebookLM을 Gemini Notebook 으로 변경함 2023년 Google I/O에서 Project Tailwind 로 출발한 이 제품은 현재 3,000만...",
-   "publishedAt": 1784242576000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
+   "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+   "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+   "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+   "publishedAt": 1784328909000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
    "engagement": null,
-   "baseWeight": 42,
+   "baseWeight": 32,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -713,7 +713,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -727,7 +727,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -741,7 +741,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "NotebookLM, Gemini Notebook으로 이름 변경",
+   "url": "https://news.hada.io/topic?id=31508",
+   "summary": "Google은 독립형 연구 도구 라는 제품 성격을 유지하면서 Gemini 앱과 Google Search 등 자사 생태계와의 연동을 확대하기 위해 NotebookLM을 Gemini Notebook 으로 변경함 2023년 Google I/O에서 Project Tailwind 로 출발한 이 제품은 현재 3,000만...",
+   "publishedAt": 1784242576000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -755,21 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "AI-driven memory crunch jolts India’s smartphone market",
-   "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-   "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-   "publishedAt": 1784318967000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -783,7 +783,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "AI-driven memory crunch jolts India’s smartphone market",
+   "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+   "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+   "publishedAt": 1784318967000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -797,7 +811,7 @@
    "comments": 87,
    "publishedAt": 1784207544000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -811,7 +825,7 @@
    "comments": 205,
    "publishedAt": 1784240984000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -825,7 +839,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -839,7 +853,7 @@
    "comments": 166,
    "publishedAt": 1784125956000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -853,7 +867,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -867,35 +881,7 @@
    "comments": 784,
    "publishedAt": 1783931979000,
    "isAI": true,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-   "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-   "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
-   "publishedAt": 1784301677000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
    "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "SQLite should have (Rust-style) editions",
-   "url": "https://mort.coffee/home/sqlite-editions/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48928135",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 359,
-   "comments": 171,
-   "publishedAt": 1784155378000,
-   "isAI": false,
-   "score": 34.2,
    "hot": false
   },
   {
@@ -909,7 +895,21 @@
    "comments": 609,
    "publishedAt": 1784029562000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "SQLite should have (Rust-style) editions",
+   "url": "https://mort.coffee/home/sqlite-editions/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48928135",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 359,
+   "comments": 171,
+   "publishedAt": 1784155378000,
+   "isAI": false,
+   "score": 34,
    "hot": false
   },
   {
@@ -923,7 +923,35 @@
    "comments": 477,
    "publishedAt": 1784042293000,
    "isAI": true,
-   "score": 34.1,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+   "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+   "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+   "publishedAt": 1784301677000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "지푸, 'GLM-5.2' 흥행으로 중국 AI 최초 연매출 10억달러 눈앞",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212899",
+   "summary": "중국 지푸 AI(Z.ai)가 기업용 AI 시장에 집중하는 전략과 최신 모델 'GLM-5.2'의 흥행에 힘입어 연간 반복 매출(ARR) 10억달러(약 1조5000억원)를 기록하는 최초의 중국 AI 전문 기업이 될 가능성이 커지고 있다.17일(현지시간) 블룸버그에 따르면, 지푸 AI는 이미 이번 달에 올해 매출 목표를 달성한 것으로 알려졌다.정확한 액수는 알려지지 않았으나, 이를 12개월 기준으로 환산한 ARR이 10억달러에 이르는 수준인 것으로 전해졌다.이번 성과는 중국 AI 업계에서 이례적인 기록으로 평가된다. 경쟁사인 문샷 AI은",
+   "publishedAt": 1784357601000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 34,
    "hot": false
   },
   {
@@ -937,7 +965,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -951,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -965,7 +993,7 @@
    "comments": 115,
    "publishedAt": 1784176261000,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -979,21 +1007,7 @@
    "comments": 166,
    "publishedAt": 1784140834000,
    "isAI": false,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-   "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-   "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-   "publishedAt": 1784289600000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1007,7 +1021,21 @@
    "comments": 245,
    "publishedAt": 1784121495000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+   "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+   "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+   "publishedAt": 1784289600000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1021,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1035,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1049,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1063,21 +1091,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "데이터브릭스, 280조 가치로 '시리즈 M' 투자 유치…\"상장 안 서두른다\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=212897",
-   "summary": "데이터브릭스가 신규 투자 유치에 성공하며 기업 가치를 1880억달러(약 280조원)로 끌어올렸다. 최근 오픈AI나 앤트로픽이 기업공개(IPO)를 추진하는 것과 달리, 이 회사는 상장을 서두르지 않고 비상장 상태에서 성장 동력을 다지는 데 집중하겠다는 전략이다.데이터브릭스는 16일(현지시간) 1880억달러의 몸값으로 투자 유치 계약서(Term sheet)에 서명했으며, 올여름 투자 절차가 마무리될 것으로 예상한다고 발표했다.이번 투자 라운드는 기존 투자자인 미국 투자사 코투(Coatue) 매니지먼트가 주도했으며, 신규 및 기존 투자자",
-   "publishedAt": 1784340864000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1091,7 +1105,21 @@
    "comments": 250,
    "publishedAt": 1784028092000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "데이터브릭스, 280조 가치로 '시리즈 M' 투자 유치…\"상장 안 서두른다\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212897",
+   "summary": "데이터브릭스가 신규 투자 유치에 성공하며 기업 가치를 1880억달러(약 280조원)로 끌어올렸다. 최근 오픈AI나 앤트로픽이 기업공개(IPO)를 추진하는 것과 달리, 이 회사는 상장을 서두르지 않고 비상장 상태에서 성장 동력을 다지는 데 집중하겠다는 전략이다.데이터브릭스는 16일(현지시간) 1880억달러의 몸값으로 투자 유치 계약서(Term sheet)에 서명했으며, 올여름 투자 절차가 마무리될 것으로 예상한다고 발표했다.이번 투자 라운드는 기존 투자자인 미국 투자사 코투(Coatue) 매니지먼트가 주도했으며, 신규 및 기존 투자자",
+   "publishedAt": 1784340864000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1105,35 +1133,7 @@
    "comments": 26,
    "publishedAt": 1784144573000,
    "isAI": true,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-   "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-   "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-   "publishedAt": 1784109600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "The privacy problems hidden in your period tracker",
-   "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48939641",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 108,
-   "comments": 66,
-   "publishedAt": 1784232958000,
-   "isAI": false,
-   "score": 32.3,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1147,7 +1147,35 @@
    "comments": 456,
    "publishedAt": 1783905860000,
    "isAI": true,
-   "score": 32.3,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+   "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+   "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+   "publishedAt": 1784109600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "The privacy problems hidden in your period tracker",
+   "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48939641",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 108,
+   "comments": 66,
+   "publishedAt": 1784232958000,
+   "isAI": false,
+   "score": 32,
    "hot": false
   },
   {
@@ -1161,35 +1189,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "[AI카툰] Bob, Senior IT guy - 밥, \"네트워킹은 인생의 낭비일까?\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=212886",
-   "summary": "글·그림 Dr. Alf",
-   "publishedAt": 1784336400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "순천 청소년, 발효식품 개발 체험…바게트 버거·콤부차 직접 만들어",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=212868",
-   "summary": "AI 생성 영상순천지역 청소년들이 발효식품의 원리를 배우고 이를 활용한 식품과 음료를 직접 만들어보는 진로 체험교육에 참여했다. 남해안권발효식품산업지원센터는 순천청암고등학교 푸드스타일과 학생들을 대상으로 청소년 맞춤형 ‘발효 아카데미’를 운영했다고 16일 밝혔다.이번 교육은 식품·외식 분야 진로를 준비하는 학생들의 전공 특성을 반영해 발효식품의 기본 원리와 활용 방법, 식품 개발 과정을 체험 중심으로 익힐 수 있도록 진행됐다.학생들은 발효 기술이 적용된 식재료 사례를 살펴본 뒤 발효 피클을 활용한 바게트 버거를 만들고, 콤부차 음료",
-   "publishedAt": 1784335500000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.2,
+   "score": 32,
    "hot": false
   },
   {
@@ -1203,35 +1203,21 @@
    "comments": 210,
    "publishedAt": 1784129645000,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
-   "title": "광양희망도서관, 2026년생 아기 첫 대출 지원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=212856",
-   "summary": "AI 생성 영상광양희망도서관이 20일부터 2026년생 영유아의 첫 도서관 방문과 도서 대출을 지원하는 ‘우리 아기 첫 책마실’ 행사를 운영한다고 16일 밝혔다.행사는 12월까지 매월 선착순 30명씩 총 180명을 대상으로 진행되며, 생애 첫 책을 빌린 가정에는 기념품을 제공한다.이번 행사는 광양 ‘생애 첫 책 지원사업’을 통해 그림책과 아기회원증이 담긴 책꾸러미를 받은 가정을 대상으로 한다. 영유아가 보호자와 함께 도서관을 방문해 책을 처음 빌리며 자연스럽게 독서와 도서관 이용을 시작할 수 있도록 마련됐다.참여를 희망하는 가정은 책",
-   "publishedAt": 1784335200000,
+   "title": "[AI카툰] Bob, Senior IT guy - 밥, \"네트워킹은 인생의 낭비일까?\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212886",
+   "summary": "글·그림 Dr. Alf",
+   "publishedAt": 1784336400000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "여수세계섬박람회 50여일 앞…시민 750명 손님맞이 캠페인",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=212842",
-   "summary": "AI 생성 영상2026여수세계섬박람회 개막을 50여 일 앞두고 여수 시민 750여 명이 친절·질서·청결·봉사·환경을 중심으로 한 손님맞이 실천운동에 나섰다고 16일 밝혔다.박람회가 열리는 9월5일까지 시민 참여 분위기를 확산하고, 여수 전역의 행사 준비 상태를 끌어올리기 위한 캠페인이다.여수는 15일 중앙동 이순신광장 일원에서 시민운동 실천본부 위원과 유관단체 회원, 시민 등이 참여한 가운데 ‘여수 르네상스 다함께 5대 실천 시민운동 7월 중점 실천의 날’ 행사를 열었다.행사에서는 친절·질서·청결·봉사·환경 등 5개 분야를 대표하는",
-   "publishedAt": 1784334900000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1245,7 +1231,49 @@
    "comments": 155,
    "publishedAt": 1784172265000,
    "isAI": false,
-   "score": 32,
+   "score": 31.8,
+   "hot": false
+  },
+  {
+   "title": "순천 청소년, 발효식품 개발 체험…바게트 버거·콤부차 직접 만들어",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212868",
+   "summary": "AI 생성 영상순천지역 청소년들이 발효식품의 원리를 배우고 이를 활용한 식품과 음료를 직접 만들어보는 진로 체험교육에 참여했다. 남해안권발효식품산업지원센터는 순천청암고등학교 푸드스타일과 학생들을 대상으로 청소년 맞춤형 ‘발효 아카데미’를 운영했다고 16일 밝혔다.이번 교육은 식품·외식 분야 진로를 준비하는 학생들의 전공 특성을 반영해 발효식품의 기본 원리와 활용 방법, 식품 개발 과정을 체험 중심으로 익힐 수 있도록 진행됐다.학생들은 발효 기술이 적용된 식재료 사례를 살펴본 뒤 발효 피클을 활용한 바게트 버거를 만들고, 콤부차 음료",
+   "publishedAt": 1784335500000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.8,
+   "hot": false
+  },
+  {
+   "title": "광양희망도서관, 2026년생 아기 첫 대출 지원",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212856",
+   "summary": "AI 생성 영상광양희망도서관이 20일부터 2026년생 영유아의 첫 도서관 방문과 도서 대출을 지원하는 ‘우리 아기 첫 책마실’ 행사를 운영한다고 16일 밝혔다.행사는 12월까지 매월 선착순 30명씩 총 180명을 대상으로 진행되며, 생애 첫 책을 빌린 가정에는 기념품을 제공한다.이번 행사는 광양 ‘생애 첫 책 지원사업’을 통해 그림책과 아기회원증이 담긴 책꾸러미를 받은 가정을 대상으로 한다. 영유아가 보호자와 함께 도서관을 방문해 책을 처음 빌리며 자연스럽게 독서와 도서관 이용을 시작할 수 있도록 마련됐다.참여를 희망하는 가정은 책",
+   "publishedAt": 1784335200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.8,
+   "hot": false
+  },
+  {
+   "title": "여수세계섬박람회 50여일 앞…시민 750명 손님맞이 캠페인",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212842",
+   "summary": "AI 생성 영상2026여수세계섬박람회 개막을 50여 일 앞두고 여수 시민 750여 명이 친절·질서·청결·봉사·환경을 중심으로 한 손님맞이 실천운동에 나섰다고 16일 밝혔다.박람회가 열리는 9월5일까지 시민 참여 분위기를 확산하고, 여수 전역의 행사 준비 상태를 끌어올리기 위한 캠페인이다.여수는 15일 중앙동 이순신광장 일원에서 시민운동 실천본부 위원과 유관단체 회원, 시민 등이 참여한 가운데 ‘여수 르네상스 다함께 5대 실천 시민운동 7월 중점 실천의 날’ 행사를 열었다.행사에서는 친절·질서·청결·봉사·환경 등 5개 분야를 대표하는",
+   "publishedAt": 1784334900000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1259,35 +1287,7 @@
    "comments": 112,
    "publishedAt": 1784151409000,
    "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "목포시가족센터, 결혼이민자 직업훈련 수료…바리스타 자격 취득",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=212839",
-   "summary": "AI 생성 영상목포시가족센터가 결혼이민자의 취업 역량과 경제적 자립을 돕기 위해 운영한 맞춤형 직업훈련을 마무리했다.교육 참여자들은 바리스타와 라떼아트 교육, 복지관 카페 현장 실습을 거쳐 관련 자격증을 취득하며 지역사회 취업을 위한 실무 능력을 키웠다.목포시가족센터는 15일 ‘결혼이민자 맞춤형 직업훈련 과정’ 수료식을 열었다고 16일 밝혔다. 이번 과정은 결혼이민자의 취업 기회를 넓히고 안정적인 지역사회 정착을 지원하기 위해 마련됐다.교육은 직장문화 이해와 컴퓨터 활용을 비롯해 바리스타·라떼아트 직업훈련, 현장 실습 등 취업 현장",
-   "publishedAt": 1784333400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "Uber, 독일 딜리버리 히어로(배달의 민족 모회사) 약 22조원에 인수",
-   "url": "https://news.hada.io/topic?id=31517",
-   "summary": "우버 가 독일 배달 기업 Delivery Hero 를 $148B(주당 41.50유로)에 인수, 99개국을 아우르는 글로벌 음식 배달 대기업 탄생 Uber Eats와 한국 배달의 민족 , 아시아의 FoodPanda, 동유럽·중앙아시아·아프리카등의 Glovo, 라틴아메리타의 PedidosYa,...",
-   "publishedAt": 1784254569000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1301,7 +1301,7 @@
    "comments": 57,
    "publishedAt": 1784154207000,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1315,7 +1315,35 @@
    "comments": 4,
    "publishedAt": 1784139263000,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "Uber, 독일 딜리버리 히어로(배달의 민족 모회사) 약 22조원에 인수",
+   "url": "https://news.hada.io/topic?id=31517",
+   "summary": "우버 가 독일 배달 기업 Delivery Hero 를 $148B(주당 41.50유로)에 인수, 99개국을 아우르는 글로벌 음식 배달 대기업 탄생 Uber Eats와 한국 배달의 민족 , 아시아의 FoodPanda, 동유럽·중앙아시아·아프리카등의 Glovo, 라틴아메리타의 PedidosYa,...",
+   "publishedAt": 1784254569000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "목포시가족센터, 결혼이민자 직업훈련 수료…바리스타 자격 취득",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=212839",
+   "summary": "AI 생성 영상목포시가족센터가 결혼이민자의 취업 역량과 경제적 자립을 돕기 위해 운영한 맞춤형 직업훈련을 마무리했다.교육 참여자들은 바리스타와 라떼아트 교육, 복지관 카페 현장 실습을 거쳐 관련 자격증을 취득하며 지역사회 취업을 위한 실무 능력을 키웠다.목포시가족센터는 15일 ‘결혼이민자 맞춤형 직업훈련 과정’ 수료식을 열었다고 16일 밝혔다. 이번 과정은 결혼이민자의 취업 기회를 넓히고 안정적인 지역사회 정착을 지원하기 위해 마련됐다.교육은 직장문화 이해와 컴퓨터 활용을 비롯해 바리스타·라떼아트 직업훈련, 현장 실습 등 취업 현장",
+   "publishedAt": 1784333400000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1328,7 +1356,7 @@
    "summary": "Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models remain limited in several ways. They often struggle to generalize across diverse video types, making",
    "publishedAt": 1784145600000,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1342,7 +1370,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1356,7 +1384,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1370,35 +1398,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "개발자를 해킹하는 LinkedIn 채용 과제 사기",
-   "url": "https://news.hada.io/topic?id=31514",
-   "summary": "LinkedIn에서 소프트웨어 엔지니어 채용을 제안한 뒤 정상적인 React/Web3 과제로 위장한 비공개 GitHub 저장소를 전달했으며, 실행하면 tailwind.config.js 에 숨겨진 JavaScript 악성코드 가 개발자 컴퓨터에서 작동함 30,987바이트짜리 설정 파일은 수천 개의 공백 뒤...",
-   "publishedAt": 1784249293000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "OnePlus, 미국·유럽 운영 중단",
-   "url": "https://news.hada.io/topic?id=31512",
-   "summary": "OnePlus는 글로벌 전략 조정 에 따라 유럽과 북미에서 신제품 출시를 종료하되, 기존 기기 지원과 일부 현지 서비스는 계속 운영함 OPPO의 지원 아래 기존 OnePlus 기기는 모델별 약속 기간까지 소프트웨어 업데이트·보안 패치 와 사후 서비스를 제공받음 ...",
-   "publishedAt": 1784248885000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.5,
+   "score": 31.2,
    "hot": false
   }
  ]
