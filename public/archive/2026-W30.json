@@ -1,5 +1,5 @@
 {
- "updatedAt": 1784800928211,
+ "updatedAt": 1784804581572,
  "week": "2026-W30",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 535,
-   "comments": 208,
+   "engagement": 561,
+   "comments": 214,
    "publishedAt": 1784740674000,
    "isAI": true,
-   "score": 57.3,
+   "score": 57.1,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1579,
-   "comments": 1105,
+   "engagement": 1584,
+   "comments": 1108,
    "publishedAt": 1784664592000,
    "isAI": true,
-   "score": 54.5,
+   "score": 54.1,
    "hot": false
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 364,
-   "comments": 120,
+   "engagement": 380,
+   "comments": 136,
    "publishedAt": 1784729885000,
    "isAI": true,
-   "score": 52.6,
+   "score": 52.5,
    "hot": true
   },
   {
@@ -51,12 +51,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 298,
-   "comments": 202,
+   "engagement": 311,
+   "comments": 211,
    "publishedAt": 1784724585000,
    "isAI": true,
-   "score": 50.4,
+   "score": 50.2,
    "hot": true
+  },
+  {
+   "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+   "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49015639",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 109,
+   "comments": 101,
+   "publishedAt": 1784769374000,
+   "isAI": true,
+   "score": 47.7,
+   "hot": false
   },
   {
    "title": "GigaToken - 언어 모델 토큰화를 약 1,000배 가속",
@@ -69,22 +83,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.7,
    "hot": true
-  },
-  {
-   "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-   "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49015639",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 107,
-   "comments": 99,
-   "publishedAt": 1784769374000,
-   "isAI": true,
-   "score": 48.1,
-   "hot": false
   },
   {
    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -94,10 +94,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 746,
-   "comments": 567,
+   "comments": 568,
    "publishedAt": 1784647036000,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.2,
    "hot": false
   },
   {
@@ -108,10 +108,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 554,
-   "comments": 583,
+   "comments": 584,
    "publishedAt": 1784660679000,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.8,
    "hot": false
   },
   {
@@ -125,7 +125,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.4,
    "hot": false
   },
   {
@@ -133,20 +133,6 @@
    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
    "publishedAt": 1784725200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 46.9,
-   "hot": false
-  },
-  {
-   "title": "Advancing the next era of national science",
-   "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-   "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-   "publishedAt": 1784721600000,
    "source": "OpenAI Blog",
    "sourceType": "official",
    "lang": "en",
@@ -163,12 +149,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 412,
-   "comments": 192,
+   "engagement": 421,
+   "comments": 195,
    "publishedAt": 1784723768000,
    "isAI": false,
-   "score": 46.3,
+   "score": 46,
    "hot": true
+  },
+  {
+   "title": "Advancing the next era of national science",
+   "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+   "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+   "publishedAt": 1784721600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 46,
+   "hot": false
   },
   {
    "title": "Show GN: 로컬 LLM 에이전트 개발과 테스트를 한곳에서, 툴 검색과 HITL, MCP 연동까지 (한국 통계 MCP 데모)",
@@ -181,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.8,
    "hot": true
   },
   {
@@ -195,35 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
-   "hot": true
-  },
-  {
-   "title": "OverpAId – CEO를 해고하고 미래를 고용하라",
-   "url": "https://news.hada.io/topic?id=31712",
-   "summary": "OverpAId 는 연간 2,200만 달러가 드는 CEO를 NVIDIA DGX Spark 한 대로 대체한다는 설정으로, CEO와 일반 직원 사이의 보수 격차 를 풍자함 대규모 감원으로 아낀 비용을 AI 투자 에 쓰면서 이를 승인한 경영진은 자리를 지키고, 원격근무 성과보다...",
-   "publishedAt": 1784767234000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.3,
-   "hot": true
-  },
-  {
-   "title": "Show GN: NvChat – NVIDIA의 무료 LLM을 쓰는 단일 exe 윈도우 클라이언트",
-   "url": "https://news.hada.io/topic?id=31711",
-   "summary": "NVIDIA의 build.nvidia.com 은 여러 오픈 모델을 OpenAI 호환 API로 무료로 쓸 수 있게 해줍니다. 그런데 매번 웹 플레이그라운드로 들어가는 게 번거로워서, 클로드, ChatGPT 데스크톱 앱처럼 쓸 수 있는 윈도우 클라이언트를 직접 만들었습니다. 기능 사용 가능한 모델 목록을 API로 불러와",
-   "publishedAt": 1784767084000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.3,
+   "score": 44.9,
    "hot": true
   },
   {
@@ -237,8 +209,36 @@
    "comments": 290,
    "publishedAt": 1784730867000,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.8,
    "hot": false
+  },
+  {
+   "title": "OverpAId – CEO를 해고하고 미래를 고용하라",
+   "url": "https://news.hada.io/topic?id=31712",
+   "summary": "OverpAId 는 연간 2,200만 달러가 드는 CEO를 NVIDIA DGX Spark 한 대로 대체한다는 설정으로, CEO와 일반 직원 사이의 보수 격차 를 풍자함 대규모 감원으로 아낀 비용을 AI 투자 에 쓰면서 이를 승인한 경영진은 자리를 지키고, 원격근무 성과보다...",
+   "publishedAt": 1784767234000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 44.8,
+   "hot": true
+  },
+  {
+   "title": "Show GN: NvChat – NVIDIA의 무료 LLM을 쓰는 단일 exe 윈도우 클라이언트",
+   "url": "https://news.hada.io/topic?id=31711",
+   "summary": "NVIDIA의 build.nvidia.com 은 여러 오픈 모델을 OpenAI 호환 API로 무료로 쓸 수 있게 해줍니다. 그런데 매번 웹 플레이그라운드로 들어가는 게 번거로워서, 클로드, ChatGPT 데스크톱 앱처럼 쓸 수 있는 윈도우 클라이언트를 직접 만들었습니다. 기능 사용 가능한 모델 목록을 API로 불러와",
+   "publishedAt": 1784767084000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 44.8,
+   "hot": true
   },
   {
    "title": "OmniRoute — 흩어진 무료/저가 AI 티어를 하나로 묶는 게이트웨이",
@@ -251,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -265,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -279,7 +279,7 @@
    "comments": 326,
    "publishedAt": 1784654046000,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -293,21 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
-   "hot": false
-  },
-  {
-   "title": "Introducing OpenAI Presence",
-   "url": "https://openai.com/index/introducing-openai-presence",
-   "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-   "publishedAt": 1784698200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 43.7,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -321,7 +307,21 @@
    "comments": 214,
    "publishedAt": 1784623463000,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.3,
+   "hot": false
+  },
+  {
+   "title": "Introducing OpenAI Presence",
+   "url": "https://openai.com/index/introducing-openai-presence",
+   "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+   "publishedAt": 1784698200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -331,11 +331,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 682,
-   "comments": 137,
+   "engagement": 683,
+   "comments": 139,
    "publishedAt": 1784663039000,
    "isAI": false,
-   "score": 43.2,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -349,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -363,7 +363,7 @@
    "comments": 103,
    "publishedAt": 1784668400000,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -373,11 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1233,
+   "engagement": 1234,
    "comments": 930,
    "publishedAt": 1784557307000,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -391,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -405,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
    "hot": false
   },
   {
@@ -419,7 +419,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -433,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -447,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -457,11 +457,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 123,
-   "comments": 33,
+   "engagement": 126,
+   "comments": 38,
    "publishedAt": 1784751361000,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -475,7 +475,7 @@
    "comments": 260,
    "publishedAt": 1784606163000,
    "isAI": true,
-   "score": 39.5,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -489,7 +489,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.3,
+   "score": 39,
    "hot": false
   },
   {
@@ -503,7 +503,7 @@
    "comments": 141,
    "publishedAt": 1784658621000,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -514,10 +514,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 448,
-   "comments": 524,
+   "comments": 536,
    "publishedAt": 1784644301000,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.5,
+   "hot": false
+  },
+  {
+   "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+   "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48998606",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 131,
+   "comments": 43,
+   "publishedAt": 1784669274000,
+   "isAI": true,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -531,22 +545,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
-  },
-  {
-   "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-   "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48998606",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 131,
-   "comments": 43,
-   "publishedAt": 1784669274000,
-   "isAI": true,
-   "score": 38.4,
-   "hot": false
   },
   {
    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
@@ -559,7 +559,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.4,
+   "score": 38,
    "hot": false
   },
   {
@@ -573,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -587,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -601,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -615,8 +615,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
+  },
+  {
+   "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+   "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48973869",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 795,
+   "comments": 509,
+   "publishedAt": 1784515876000,
+   "isAI": true,
+   "score": 37.4,
+   "hot": false
+  },
+  {
+   "title": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU",
+   "url": "https://huggingface.co/papers/2607.19191",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 189,
+   "summary": "We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven ",
+   "publishedAt": 1784633210000,
+   "isAI": true,
+   "score": 37.4,
+   "hot": false
   },
   {
    "title": "LG, 스마트 TV 앱의 주거용 프록시 기능 금지",
@@ -629,7 +656,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -643,7 +670,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -657,7 +684,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -671,34 +698,7 @@
    "comments": 162,
    "publishedAt": 1784645358000,
    "isAI": true,
-   "score": 37.6,
-   "hot": false
-  },
-  {
-   "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-   "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48973869",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 795,
-   "comments": 509,
-   "publishedAt": 1784515876000,
-   "isAI": true,
-   "score": 37.6,
-   "hot": false
-  },
-  {
-   "title": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU",
-   "url": "https://huggingface.co/papers/2607.19191",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 182,
-   "summary": "We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven ",
-   "publishedAt": 1784633210000,
-   "isAI": true,
-   "score": 37.5,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -712,7 +712,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -726,48 +726,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "Jellyfin 창립자 Andrew가 팀을 떠남",
-   "url": "https://news.hada.io/topic?id=31703",
-   "summary": "Andrew에 이어 프로젝트 리더 Joshua와 핵심 팀원 Anthony도 물러나며, 기존 팀이 운영을 이어감 Joshua는 역할에 필요한 시간과 정신적 에너지를 더 투입하기 어려웠고, 심각한 번아웃과 정신 건강 위험 때문에 사임함 인수인계는 우호적인 소통 아래 진...",
-   "publishedAt": 1784752415000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-   "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-   "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-   "publishedAt": 1784617200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 36.4,
-   "hot": false
-  },
-  {
-   "title": "AI 코딩 세션의 휘발성 맥락을 프로젝트 기억으로 남기기 — rhwp 적용 사례",
-   "url": "https://news.hada.io/topic?id=31684",
-   "summary": "제가 rhwp collaborator로 3개월간 기여하며 직접 경험한 AI 협업 방법론을 정리한 글입니다. 바이브 코딩에서는 잘 동작하던 AI가 기존 프로젝트나 회사 코드베이스에 적용되면 어려움을 겪는 이유를, 단순한 모델 성능보다 ‘축적된 프로젝트 맥락의 부재’라는 관점에서 살펴봅니다. rhwp는 Hyper-W",
-   "publishedAt": 1784684130000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
    "score": 36.4,
    "hot": false
   },
@@ -782,7 +740,49 @@
    "comments": 335,
    "publishedAt": 1784560422000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+   "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+   "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+   "publishedAt": 1784617200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "Jellyfin 창립자 Andrew가 팀을 떠남",
+   "url": "https://news.hada.io/topic?id=31703",
+   "summary": "Andrew에 이어 프로젝트 리더 Joshua와 핵심 팀원 Anthony도 물러나며, 기존 팀이 운영을 이어감 Joshua는 역할에 필요한 시간과 정신적 에너지를 더 투입하기 어려웠고, 심각한 번아웃과 정신 건강 위험 때문에 사임함 인수인계는 우호적인 소통 아래 진...",
+   "publishedAt": 1784752415000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "AI 코딩 세션의 휘발성 맥락을 프로젝트 기억으로 남기기 — rhwp 적용 사례",
+   "url": "https://news.hada.io/topic?id=31684",
+   "summary": "제가 rhwp collaborator로 3개월간 기여하며 직접 경험한 AI 협업 방법론을 정리한 글입니다. 바이브 코딩에서는 잘 동작하던 AI가 기존 프로젝트나 회사 코드베이스에 적용되면 어려움을 겪는 이유를, 단순한 모델 성능보다 ‘축적된 프로젝트 맥락의 부재’라는 관점에서 살펴봅니다. rhwp는 Hyper-W",
+   "publishedAt": 1784684130000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -796,7 +796,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -810,7 +810,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -824,7 +824,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -838,7 +838,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -852,7 +852,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -866,7 +866,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -880,63 +880,7 @@
    "comments": 143,
    "publishedAt": 1784570773000,
    "isAI": true,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "ChatGPT에 광고하기",
-   "url": "https://news.hada.io/topic?id=31669",
-   "summary": "OpenAI가 사용자가 선택지를 탐색·비교하고 결정하는 시점에 관련 광고를 노출하는 ChatGPT 광고 서비스를 공개함 키워드뿐 아니라 대화에서 공유된 풍부한 맥락 을 활용해 광고의 개인화·관련성·유용성을 높이는 방식임 Ads Manager 에서...",
-   "publishedAt": 1784672491000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "Qwen-Image-3.0 - 풍부한 콘텐츠, 사실적 디테일, 깊이 있는 지식",
-   "url": "https://news.hada.io/topic?id=31666",
-   "summary": "Qwen-Image 시리즈의 3세대 기반 이미지 생성 모델로, 보기 좋은 이미지를 넘어 생산성 작업에 활용할 수 있는 ‘ Real(实) ’을 핵심 목표로 삼음 최대 4.5k 토큰 입력 을 처리해 신문·스토리보드·시험지처럼 정보량이 많은 레이아웃과 여러 개념이 병렬·중첩된 이미...",
-   "publishedAt": 1784672051000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "OpenAI와 Hugging Face, 모델 평가 중 발생한 보안 사고에 공동 대응",
-   "url": "https://news.hada.io/topic?id=31665",
-   "summary": "OpenAI의 내부 사이버 역량 평가에서 GPT‑5.6 Sol과 미출시 모델 이 격리 환경을 벗어나 Hugging Face 프로덕션 인프라에 침투해 양사가 조사와 복구에 나섬 모델들은 패키지 레지스트리 캐시 프록시의 제로데이 취약점 으로 인터넷에 접근한 뒤, 권한 상승과 측면 ...",
-   "publishedAt": 1784671925000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "Google justifies its massive AI spending with a booming cloud business",
-   "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-   "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-   "publishedAt": 1784757712000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -950,7 +894,63 @@
    "comments": 727,
    "publishedAt": 1784450697000,
    "isAI": true,
-   "score": 35.2,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "ChatGPT에 광고하기",
+   "url": "https://news.hada.io/topic?id=31669",
+   "summary": "OpenAI가 사용자가 선택지를 탐색·비교하고 결정하는 시점에 관련 광고를 노출하는 ChatGPT 광고 서비스를 공개함 키워드뿐 아니라 대화에서 공유된 풍부한 맥락 을 활용해 광고의 개인화·관련성·유용성을 높이는 방식임 Ads Manager 에서...",
+   "publishedAt": 1784672491000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "Qwen-Image-3.0 - 풍부한 콘텐츠, 사실적 디테일, 깊이 있는 지식",
+   "url": "https://news.hada.io/topic?id=31666",
+   "summary": "Qwen-Image 시리즈의 3세대 기반 이미지 생성 모델로, 보기 좋은 이미지를 넘어 생산성 작업에 활용할 수 있는 ‘ Real(实) ’을 핵심 목표로 삼음 최대 4.5k 토큰 입력 을 처리해 신문·스토리보드·시험지처럼 정보량이 많은 레이아웃과 여러 개념이 병렬·중첩된 이미...",
+   "publishedAt": 1784672051000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "OpenAI와 Hugging Face, 모델 평가 중 발생한 보안 사고에 공동 대응",
+   "url": "https://news.hada.io/topic?id=31665",
+   "summary": "OpenAI의 내부 사이버 역량 평가에서 GPT‑5.6 Sol과 미출시 모델 이 격리 환경을 벗어나 Hugging Face 프로덕션 인프라에 침투해 양사가 조사와 복구에 나섬 모델들은 패키지 레지스트리 캐시 프록시의 제로데이 취약점 으로 인터넷에 접근한 뒤, 권한 상승과 측면 ...",
+   "publishedAt": 1784671925000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "Google justifies its massive AI spending with a booming cloud business",
+   "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+   "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+   "publishedAt": 1784757712000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -964,7 +964,7 @@
    "comments": 408,
    "publishedAt": 1784554113000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -978,21 +978,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "서아프리카에서 60년 넘게 죽은 것으로 여겨진 산호초 발견",
-   "url": "https://news.hada.io/topic?id=31699",
-   "summary": "베냉 연구진이 1960년대 조사 이후 위치조차 잊힌 산호초를 다시 찾아내 최소 8종류의 산호와 8종의 어류 가 서식하는 건강한 생태계임을 확인함 당시 보고서는 베냉 해안을 따라 약 24마일 길이의 산호초 장벽 이 있을 가능성을 기록했지만, 후속 조사가 끊기고 세계...",
-   "publishedAt": 1784734453000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1006,7 +992,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "서아프리카에서 60년 넘게 죽은 것으로 여겨진 산호초 발견",
+   "url": "https://news.hada.io/topic?id=31699",
+   "summary": "베냉 연구진이 1960년대 조사 이후 위치조차 잊힌 산호초를 다시 찾아내 최소 8종류의 산호와 8종의 어류 가 서식하는 건강한 생태계임을 확인함 당시 보고서는 베냉 해안을 따라 약 24마일 길이의 산호초 장벽 이 있을 가능성을 기록했지만, 후속 조사가 끊기고 세계...",
+   "publishedAt": 1784734453000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1020,7 +1020,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1034,7 +1034,7 @@
    "comments": 171,
    "publishedAt": 1784565396000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1048,7 +1048,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1062,7 +1062,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1076,7 +1076,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1090,21 +1090,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.1,
-   "hot": false
-  },
-  {
-   "title": "Monday.com lays off hundreds to focus on AI",
-   "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-   "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
-   "publishedAt": 1784742854000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.9,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1118,7 +1104,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "Monday.com lays off hundreds to focus on AI",
+   "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+   "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+   "publishedAt": 1784742854000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1132,7 +1132,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1146,7 +1146,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1160,7 +1160,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1174,7 +1174,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1188,49 +1188,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "스페이스XAI, 텍사스에 초대형 데이터센터 신설 추진…컴퓨팅 임대 사업 본격화",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213108",
-   "summary": "스페이스XAI가 미국 텍사스에 최소 1개의 초대형 AI 데이터센터를 구축하는 방안을 추진하며 AI 인프라 확장에 속도를 내고 있다. 기존 테네시주 멤피스 데이터센터를 넘어 새로운 거점을 확보해 자체 AI 역량을 강화하는 동시에 외부 기업을 대상으로 한 클라우드 사업까지 본격 확대하려는 전략으로 풀이된다.22일(현지시간) 디 인포메이션에 따르면, 스페이스XAI는 최근 수개월 동안 텍사스 내 여러 후보지를 검토해 왔으며, 신축 데이터센터를 건설하는 방안과 기존 대형 창고를 개조하는 방안을 함께 검토 중이다. 이는 멤피스에서 폐공장을 개",
-   "publishedAt": 1784796753000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, 첫 특허 침해 소송 휘말려…테네시대 연구재단 \"신경망 기술 무단 사용\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213120",
-   "summary": "앤트로픽이 미국 테네시대학교 연구진의 신경망 기반 AI 기술 특허를 무단으로 사용했다는 혐의로 특허 침해 소송에 휘말렸다. 21일(현지시간) 로이터에 따르면, 비영리 기관 테네시대학교 연구재단은 미국 델라웨어 연방법원에 앤트로픽을 상대로 특허 침해 소송을 제기했다.연구재단은 소장에서 앤트로픽의 AI 시스템이 대학 교수진이 개발한 신경망 관련 특허 2건을 침해했다고 주장했다. 해당 특허는 AI, 머신러닝, 뉴로모픽 컴퓨팅(neuromorphic computing), 뇌 신경과학에서 영감을 얻은 컴퓨팅 기술 분야의 핵심 기술을 다루고",
-   "publishedAt": 1784796279000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "테슬라, AI 투자 급증으로 현금 소진...2년 만에 현금흐름 '마이너스'",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213113",
-   "summary": "테슬라가 2분기 시장 예상치를 밑도는 수익성을 기록하며 2년여 만에 처음으로 잉여현금흐름(FCF)이 마이너스로 전환했다. 자동차 판매는 증가했지만 수익성이 악화되면서 AI 투자 확대에 따른 재무 부담이 본격화되고 있다는 분석이 나온다.테슬라는 23일(현지시간) 2분기 실적 발표를 통해 매출 282억4000만달러(약 41조원)를 기록했다고 밝혔다.매출은 시장 예상치(257억1000만달러)를 웃도는 수준이다. 그러나 조정 주당순이익(EPS)은 0.33달러로 시장 전망치인 0.51달러를 크게 밑돌았다. 실적 발표 이후 시간외 거래에서 주",
-   "publishedAt": 1784795757000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1244,77 +1202,7 @@
    "comments": 355,
    "publishedAt": 1784549648000,
    "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-   "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-   "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
-   "publishedAt": 1784737448000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-   "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-   "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
-   "publishedAt": 1784737389000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "일레븐랩스, AI 음악생성기 ‘보컬’·‘레퍼런스’ 공개…”내 목소리로 노래 만든다”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213109",
-   "summary": "일레븐랩스는 AI 음악 생성 서비스 '일레븐뮤직(ElevenMusic)'의 대규모 업데이트를 진행했다고 23일 밝혔다.이번 업데이트에서 레퍼런스 음원으로 곡의 스타일과 분위기를 지정하는 '레퍼런스(References)'와, 사용자 목소리나 라이브러리 음성으로 오리지널 곡을 생성하는 '보컬(Vocals)' 기능을 새로 추가했다고 전했다.레퍼런스는 지난 6월 최신 AI 모델 '뮤직 v2' 발표 당시 예고됐던 레퍼런스 음원 기능의 정식 버전이다. 10초에서 5분 길이의 레퍼런스 음원을 업로드하면, 뮤직 v2가 곡의 스타일과 분위기에 맞춰",
-   "publishedAt": 1784794732000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "텔레픽스, 미국 위성에 AI 광학 카메라 탑재…”위성영상 데이터 자산 확보”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213117",
-   "summary": "우주 AI 전문 텔레픽스(대표 조성익)는 미국 우주기업 안타리스 스페이스(Antaris Space)와 AI 위성 탑재체 시스템 수출 계약을 체결했다고 23일 밝혔다.안타리스는 AI 플랫폼 ‘안타리스 인텔리전스(Antaris Intelligence)’를 통해 위성과 우주시스템의 설계부터 시뮬레이션, 제조, 운용까지 지원하는 우주 소프트웨어 기업이다.안타리스에 공급되는 텔레픽스의 제품은 4.8미터급 해상도의 초소형 위성용 전자광학 카메라와 GPU 기반 온보드 AI 시스템을 통합한 차세대 위성 탑재체다. 위성에서 영상을 실시간으로 처리하",
-   "publishedAt": 1784794564000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "광양시립도서관, 7개관 인문학 공모 선정…국비 7000만원 확보",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213111",
-   "summary": "AI 생성 영상광양시는 광양시립도서관 7개관이 문화체육관광부의 ‘2026년 길 위의 인문학·지혜학교’ 공모사업에 모두 선정됐다고 22일 밝혔다.중앙·중마·희망·용강·금호·광영·꿈빛도서관이 국비 총 7000만원을 확보해 전통건축과 역사, 천문학, 문학, 미학, AI 글쓰기, 주짓수 등을 주제로 한 시민 참여형 프로그램을 11월까지 운영한다.‘길 위의 인문학·지혜학교’는 시민이 생활권 내 도서관에서 인문학 강연과 체험, 현장 탐방을 접할 수 있도록 지원하는 국비 사업이다. 광양시립도서관은 2013년 사업 시작 이후 매년 공모에 참여해",
-   "publishedAt": 1784794501000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1328,7 +1216,77 @@
    "comments": 841,
    "publishedAt": 1784455403000,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "스페이스XAI, 텍사스에 초대형 데이터센터 신설 추진…컴퓨팅 임대 사업 본격화",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213108",
+   "summary": "스페이스XAI가 미국 텍사스에 최소 1개의 초대형 AI 데이터센터를 구축하는 방안을 추진하며 AI 인프라 확장에 속도를 내고 있다. 기존 테네시주 멤피스 데이터센터를 넘어 새로운 거점을 확보해 자체 AI 역량을 강화하는 동시에 외부 기업을 대상으로 한 클라우드 사업까지 본격 확대하려는 전략으로 풀이된다.22일(현지시간) 디 인포메이션에 따르면, 스페이스XAI는 최근 수개월 동안 텍사스 내 여러 후보지를 검토해 왔으며, 신축 데이터센터를 건설하는 방안과 기존 대형 창고를 개조하는 방안을 함께 검토 중이다. 이는 멤피스에서 폐공장을 개",
+   "publishedAt": 1784796753000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, 첫 특허 침해 소송 휘말려…테네시대 연구재단 \"신경망 기술 무단 사용\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213120",
+   "summary": "앤트로픽이 미국 테네시대학교 연구진의 신경망 기반 AI 기술 특허를 무단으로 사용했다는 혐의로 특허 침해 소송에 휘말렸다. 21일(현지시간) 로이터에 따르면, 비영리 기관 테네시대학교 연구재단은 미국 델라웨어 연방법원에 앤트로픽을 상대로 특허 침해 소송을 제기했다.연구재단은 소장에서 앤트로픽의 AI 시스템이 대학 교수진이 개발한 신경망 관련 특허 2건을 침해했다고 주장했다. 해당 특허는 AI, 머신러닝, 뉴로모픽 컴퓨팅(neuromorphic computing), 뇌 신경과학에서 영감을 얻은 컴퓨팅 기술 분야의 핵심 기술을 다루고",
+   "publishedAt": 1784796279000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+   "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+   "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+   "publishedAt": 1784737448000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "테슬라, AI 투자 급증으로 현금 소진...2년 만에 현금흐름 '마이너스'",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213113",
+   "summary": "테슬라가 2분기 시장 예상치를 밑도는 수익성을 기록하며 2년여 만에 처음으로 잉여현금흐름(FCF)이 마이너스로 전환했다. 자동차 판매는 증가했지만 수익성이 악화되면서 AI 투자 확대에 따른 재무 부담이 본격화되고 있다는 분석이 나온다.테슬라는 23일(현지시간) 2분기 실적 발표를 통해 매출 282억4000만달러(약 41조원)를 기록했다고 밝혔다.매출은 시장 예상치(257억1000만달러)를 웃도는 수준이다. 그러나 조정 주당순이익(EPS)은 0.33달러로 시장 전망치인 0.51달러를 크게 밑돌았다. 실적 발표 이후 시간외 거래에서 주",
+   "publishedAt": 1784795757000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+   "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+   "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+   "publishedAt": 1784737389000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1342,7 +1300,49 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "일레븐랩스, AI 음악생성기 ‘보컬’·‘레퍼런스’ 공개…”내 목소리로 노래 만든다”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213109",
+   "summary": "일레븐랩스는 AI 음악 생성 서비스 '일레븐뮤직(ElevenMusic)'의 대규모 업데이트를 진행했다고 23일 밝혔다.이번 업데이트에서 레퍼런스 음원으로 곡의 스타일과 분위기를 지정하는 '레퍼런스(References)'와, 사용자 목소리나 라이브러리 음성으로 오리지널 곡을 생성하는 '보컬(Vocals)' 기능을 새로 추가했다고 전했다.레퍼런스는 지난 6월 최신 AI 모델 '뮤직 v2' 발표 당시 예고됐던 레퍼런스 음원 기능의 정식 버전이다. 10초에서 5분 길이의 레퍼런스 음원을 업로드하면, 뮤직 v2가 곡의 스타일과 분위기에 맞춰",
+   "publishedAt": 1784794732000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "텔레픽스, 미국 위성에 AI 광학 카메라 탑재…”위성영상 데이터 자산 확보”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213117",
+   "summary": "우주 AI 전문 텔레픽스(대표 조성익)는 미국 우주기업 안타리스 스페이스(Antaris Space)와 AI 위성 탑재체 시스템 수출 계약을 체결했다고 23일 밝혔다.안타리스는 AI 플랫폼 ‘안타리스 인텔리전스(Antaris Intelligence)’를 통해 위성과 우주시스템의 설계부터 시뮬레이션, 제조, 운용까지 지원하는 우주 소프트웨어 기업이다.안타리스에 공급되는 텔레픽스의 제품은 4.8미터급 해상도의 초소형 위성용 전자광학 카메라와 GPU 기반 온보드 AI 시스템을 통합한 차세대 위성 탑재체다. 위성에서 영상을 실시간으로 처리하",
+   "publishedAt": 1784794564000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "광양시립도서관, 7개관 인문학 공모 선정…국비 7000만원 확보",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213111",
+   "summary": "AI 생성 영상광양시는 광양시립도서관 7개관이 문화체육관광부의 ‘2026년 길 위의 인문학·지혜학교’ 공모사업에 모두 선정됐다고 22일 밝혔다.중앙·중마·희망·용강·금호·광영·꿈빛도서관이 국비 총 7000만원을 확보해 전통건축과 역사, 천문학, 문학, 미학, AI 글쓰기, 주짓수 등을 주제로 한 시민 참여형 프로그램을 11월까지 운영한다.‘길 위의 인문학·지혜학교’는 시민이 생활권 내 도서관에서 인문학 강연과 체험, 현장 탐방을 접할 수 있도록 지원하는 국비 사업이다. 광양시립도서관은 2013년 사업 시작 이후 매년 공모에 참여해",
+   "publishedAt": 1784794501000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1356,7 +1356,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1370,7 +1370,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1384,7 +1384,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1398,7 +1398,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   }
  ]
