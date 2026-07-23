@@ -2975,5 +2975,24 @@
    "저자는 동물 8종·탈것 6종을 조합한 48개 프롬프트로 7개 최신 모델에서 1,008개 SVG를 생성하고 LLM 심사로 채점했다.",
    "방송 전 체크: 첫 증거(펠리컨-자전거 그림이 특별히 더 낫지 않음)만 공개된 상태라, '조작 없음'이라는 최종 결론은 원문 전체를 확인해야 함."
   ]
+ },
+ "GigaToken - 언어 모델 토큰화를 약 1,000배 가속": {
+  "img": "https://social.news.hada.io/topic/31724?v=3b4bf4d96a6bbeb56c3b30c183ec61da",
+  "hook": "토큰화 1,000배 빨라진 비결",
+  "tldr": "정규식 사전 토큰화를 SIMD로 최적화해 기존 Tiktoken·HuggingFace보다 최대 약 1,000배 빠른 토크나이저가 등장했다.",
+  "detail": "정규식 기반 사전 토큰화를 SIMD로 최적화해 기존 대비 최대 약 1,000배 빠른 언어 모델 토크나이저 'GigaToken'이 공개됐다. Tiktoken과 HuggingFace Tokenizers를 대체하며, pip install gigatoken으로 설치하고 자체 API와 두 라이브러리 호환 모드를 함께 제공한다. 11.9GB OpenWebText 벤치마크에서 GPT-2 처리량은 AMD EPYC 9565(144코어) 24.53GB/s, Apple M4 Max 8.79GB/s, Ryzen 7 9800X3D 6.27GB/s로, HuggingFace 대비 각각 989배·1,268배·106배 빨랐다. 가장 큰 개선은 정규식 엔진에 맡기던 사전 토큰화를 SIMD로 직접 구현하고, 분기를 줄이며 사전 토큰 매핑 캐시를 집중 최적화한 데서 나온다. 다만 약 1,000배 가속은 Rust가 파일을 직접 읽는 자체 API 기준이고, 출력 일치가 필요한 호환 모드에서는 성능이 낮아진다. 현재 WordPiece와 파일 출력 싱크는 미지원이며 SentencePiece 최적화와 Windows 검증이 부족해, BPE 토크나이저와 Linux·macOS 또는 WSL 환경에 더 적합하다. 개발자는 코드 대부분을 AI 없이 직접 작성했고 최종 단계에서만 AI를 활용했다고 밝혔다.",
+  "bullets": [
+   "핵심은 정규식 엔진이 맡던 사전 토큰화를 SIMD로 직접 구현하고, 이미 본 단어의 토큰 매핑을 캐싱해 분기·스레드 통신·Python 상호작용을 줄인 데 있음.",
+   "11.9GB OpenWebText 벤치마크에서 GPT-2 처리량이 AMD EPYC 9565에서 24.53GB/s로 HuggingFace 대비 989배, Apple M4 Max에서 8.79GB/s로 1,268배를 기록함.",
+   "방송 전 체크: 약 1,000배 가속은 Rust가 파일을 직접 읽는 자체 API 기준이며, 기존 코드 호환 모드에서는 성능이 낮아진다는 점."
+  ]
+ },
+ "Fairphone 6 wide camera experimental Linux support": {
+  "ko": "페어폰 6 광각 카메라, 실험적 리눅스 지원 시작",
+  "tldr": "페어폰 6의 광각 카메라가 리눅스에서 동작하도록 하는 실험적 지원이 등장했다."
+ },
+ "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push": {
+  "ko": "ServiceNow, 인도 뱅킹 SW 전문기업에 4천만 달러 베팅…금융 사업 확장",
+  "tldr": "ServiceNow가 인도 뱅킹 소프트웨어 전문업체 BusinessNext에 4천만 달러를 투자해 AI 기반 금융 서비스 사업을 글로벌로 확장한다."
  }
 }

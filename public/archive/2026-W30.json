@@ -1,5 +1,5 @@
 {
- "updatedAt": 1784786264783,
+ "updatedAt": 1784789918198,
  "week": "2026-W30",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 453,
-   "comments": 178,
+   "engagement": 479,
+   "comments": 184,
    "publishedAt": 1784740674000,
    "isAI": true,
-   "score": 58.2,
+   "score": 58.1,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1565,
+   "engagement": 1571,
    "comments": 1097,
    "publishedAt": 1784664592000,
    "isAI": true,
-   "score": 56.4,
+   "score": 55.9,
    "hot": false
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 263,
-   "comments": 97,
+   "engagement": 295,
+   "comments": 103,
    "publishedAt": 1784729885000,
    "isAI": true,
-   "score": 52.1,
+   "score": 52.5,
    "hot": true
   },
   {
@@ -51,11 +51,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 227,
-   "comments": 165,
+   "engagement": 244,
+   "comments": 168,
    "publishedAt": 1784724585000,
    "isAI": true,
-   "score": 50.2,
+   "score": 50.3,
+   "hot": true
+  },
+  {
+   "title": "GigaToken - 언어 모델 토큰화를 약 1,000배 가속",
+   "url": "https://news.hada.io/topic?id=31724",
+   "summary": "다양한 CPU와 널리 쓰이는 토크나이저를 지원하며, 텍스트를 GB/s 단위로 처리하는 Tiktoken 과 HuggingFace Tokenizers 대체 도구 정규식 엔진이 맡던 사전 토큰화를 SIMD 로 최적화하고 분기·스레드 통신·Python 상호작용을 줄이며, 이전에 본 단어의 토큰 매핑을 효율적으로 캐싱함...",
+   "publishedAt": 1784788401000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.8,
    "hot": true
   },
   {
@@ -69,7 +83,7 @@
    "comments": 566,
    "publishedAt": 1784647036000,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.8,
    "hot": false
   },
   {
@@ -79,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 551,
-   "comments": 570,
+   "engagement": 552,
+   "comments": 571,
    "publishedAt": 1784660679000,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.3,
    "hot": false
   },
   {
@@ -97,7 +111,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.2,
    "hot": false
   },
   {
@@ -111,7 +125,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.2,
+   "hot": false
+  },
+  {
+   "title": "Advancing the next era of national science",
+   "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+   "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+   "publishedAt": 1784721600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 47.8,
    "hot": false
   },
   {
@@ -125,22 +153,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
   },
   {
-   "title": "Advancing the next era of national science",
-   "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-   "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-   "publishedAt": 1784721600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
+   "title": "The startup's Postgres survival guide",
+   "url": "https://hatchet.run/blog/postgres-survival-guide",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49005787",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 48.2,
-   "hot": false
+   "engagement": 379,
+   "comments": 182,
+   "publishedAt": 1784723768000,
+   "isAI": false,
+   "score": 47,
+   "hot": true
   },
   {
    "title": "디자이너들은 잘못된 싸움을 위해 칼을 갈고 있다",
@@ -153,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -167,21 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
-   "hot": true
-  },
-  {
-   "title": "The startup's Postgres survival guide",
-   "url": "https://hatchet.run/blog/postgres-survival-guide",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49005787",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 364,
-   "comments": 178,
-   "publishedAt": 1784723768000,
-   "isAI": false,
-   "score": 47.2,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -219,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 134,
-   "comments": 285,
+   "engagement": 135,
+   "comments": 286,
    "publishedAt": 1784730867000,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.4,
    "hot": false
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -251,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -265,7 +279,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.4,
+   "score": 45,
    "hot": false
   },
   {
@@ -279,7 +293,7 @@
    "comments": 326,
    "publishedAt": 1784654046000,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -293,7 +307,7 @@
    "comments": 214,
    "publishedAt": 1784623463000,
    "isAI": true,
-   "score": 45,
+   "score": 44.6,
    "hot": false
   },
   {
@@ -307,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -321,7 +335,7 @@
    "comments": 137,
    "publishedAt": 1784663039000,
    "isAI": false,
-   "score": 44.7,
+   "score": 44.3,
    "hot": false
   },
   {
@@ -335,8 +349,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
@@ -345,11 +359,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 247,
+   "engagement": 248,
    "comments": 103,
    "publishedAt": 1784668400000,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -363,8 +377,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.1,
-   "hot": true
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "China’s open-weights AI strategy is winning",
@@ -377,7 +391,7 @@
    "comments": 930,
    "publishedAt": 1784557307000,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -391,7 +405,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -405,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -419,7 +433,7 @@
    "comments": 260,
    "publishedAt": 1784606163000,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -433,7 +447,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -447,7 +461,21 @@
    "comments": 141,
    "publishedAt": 1784658621000,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.8,
+   "hot": false
+  },
+  {
+   "title": "Fairphone 6 wide camera experimental Linux support",
+   "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49012777",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 104,
+   "comments": 17,
+   "publishedAt": 1784751361000,
+   "isAI": false,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -458,10 +486,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 448,
-   "comments": 516,
+   "comments": 521,
    "publishedAt": 1784644301000,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -475,8 +503,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
+  },
+  {
+   "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+   "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+   "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+   "publishedAt": 1784786953000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.6,
+   "hot": false
   },
   {
    "title": "SIMD로 충돌 감지 가속하기",
@@ -489,8 +531,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
+  },
+  {
+   "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+   "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48998606",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 129,
+   "comments": 43,
+   "publishedAt": 1784669274000,
+   "isAI": true,
+   "score": 39.3,
+   "hot": false
   },
   {
    "title": "Passkey는 소비자 심리를 전혀 이해하지 못한 엔지니어들이 만들었다",
@@ -503,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -517,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -531,22 +587,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
-  },
-  {
-   "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-   "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48998606",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 128,
-   "comments": 43,
-   "publishedAt": 1784669274000,
-   "isAI": true,
-   "score": 39.6,
-   "hot": false
   },
   {
    "title": "LG, 스마트 TV 앱의 주거용 프록시 기능 금지",
@@ -559,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39,
    "hot": true
   },
   {
@@ -573,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -587,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -601,7 +643,7 @@
    "comments": 162,
    "publishedAt": 1784645358000,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -615,7 +657,20 @@
    "comments": 508,
    "publishedAt": 1784515876000,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.3,
+   "hot": false
+  },
+  {
+   "title": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU",
+   "url": "https://huggingface.co/papers/2607.19191",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 171,
+   "summary": "We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven ",
+   "publishedAt": 1784633210000,
+   "isAI": true,
+   "score": 38,
    "hot": false
   },
   {
@@ -629,21 +684,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
-  },
-  {
-   "title": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU",
-   "url": "https://huggingface.co/papers/2607.19191",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 170,
-   "summary": "We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven ",
-   "publishedAt": 1784633210000,
-   "isAI": true,
-   "score": 38.3,
-   "hot": false
   },
   {
    "title": "Bento - 파일 하나에 모두 들어가는 오피스 스위트",
@@ -656,7 +698,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -670,7 +712,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -684,7 +726,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -698,21 +740,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.8,
-   "hot": false
-  },
-  {
-   "title": "AI 시대에 번영할 사람들",
-   "url": "https://news.hada.io/topic?id=31683",
-   "summary": "AI 시대에 사람을 가르는 기준은 지능보다 정신적 노력과 맺는 관계 이며, 지능이 흔해질수록 스스로 사고하고 성장하려는 의지(volition) 가 더 귀해짐 인지욕구가 낮은 사람은 AI로 생산성을 높이는 대신 사고 능력을 잃기 쉽고, 중간 집단은 효율화의 유혹에 굴복...",
-   "publishedAt": 1784682062000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.6,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -726,7 +754,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.2,
+   "hot": false
+  },
+  {
+   "title": "AI 시대에 번영할 사람들",
+   "url": "https://news.hada.io/topic?id=31683",
+   "summary": "AI 시대에 사람을 가르는 기준은 지능보다 정신적 노력과 맺는 관계 이며, 지능이 흔해질수록 스스로 사고하고 성장하려는 의지(volition) 가 더 귀해짐 인지욕구가 낮은 사람은 AI로 생산성을 높이는 대신 사고 능력을 잃기 쉽고, 중간 집단은 효율화의 유혹에 굴복...",
+   "publishedAt": 1784682062000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -740,7 +782,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -754,7 +796,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -768,7 +810,7 @@
    "comments": 335,
    "publishedAt": 1784560422000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -782,7 +824,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -796,7 +838,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -810,7 +852,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -824,7 +866,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -838,7 +880,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -852,7 +894,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -866,7 +908,7 @@
    "comments": 143,
    "publishedAt": 1784570773000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -880,7 +922,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -894,35 +936,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "Git에서 --end-of-options가 필요한 이유",
-   "url": "https://news.hada.io/topic?id=31698",
-   "summary": "Git의 -- 는 일반적인 옵션 종료자가 아니라 리비전과 경로 명세를 구분 하므로, 신뢰할 수 없는 리비전을 안전하게 전달하려면 Git 2.24.0부터 지원된 --end-of-options 가 필요함 git log --end-of-options \"$rev\" -- \"$path\"...",
-   "publishedAt": 1784732639000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "Hacker wipes Romania's land registry database",
-   "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48978605",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 706,
-   "comments": 408,
-   "publishedAt": 1784554113000,
-   "isAI": false,
-   "score": 35.9,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -936,7 +950,35 @@
    "comments": 726,
    "publishedAt": 1784450697000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
+   "hot": false
+  },
+  {
+   "title": "Hacker wipes Romania's land registry database",
+   "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=48978605",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 706,
+   "comments": 408,
+   "publishedAt": 1784554113000,
+   "isAI": false,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "Git에서 --end-of-options가 필요한 이유",
+   "url": "https://news.hada.io/topic?id=31698",
+   "summary": "Git의 -- 는 일반적인 옵션 종료자가 아니라 리비전과 경로 명세를 구분 하므로, 신뢰할 수 없는 리비전을 안전하게 전달하려면 Git 2.24.0부터 지원된 --end-of-options 가 필요함 git log --end-of-options \"$rev\" -- \"$path\"...",
+   "publishedAt": 1784732639000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -950,21 +992,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-   "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-   "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-   "publishedAt": 1784747506000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.7,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -978,7 +1006,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+   "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+   "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+   "publishedAt": 1784747506000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -992,7 +1034,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1006,7 +1048,7 @@
    "comments": 171,
    "publishedAt": 1784565396000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1020,7 +1062,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1034,7 +1076,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1048,7 +1090,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1062,7 +1104,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1076,7 +1118,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1090,7 +1132,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1101,10 +1143,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 551,
-   "comments": 353,
+   "comments": 355,
    "publishedAt": 1784549648000,
    "isAI": false,
-   "score": 34.2,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "커서, AI 비용 60% 절감하는 '커서 라우터' 공개… \"작업별 최적 모델 자동 배정\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213097",
+   "summary": "AI 코딩 플랫폼 커서(Cursor)가 기업의 생성 AI 운영 비용을 대폭 낮추기 위한 모델 자동 라우팅 시스템 '커서 라우터(Cursor Router)'를 정식 출시했다. 60만건이 넘는 실제 사용자 요청 데이터를 학습한 AI 분류기가 작업의 난이도와 맥락을 실시간으로 분석해 가장 적합한 AI 모델을 자동 선택하는 방식이다. 커서는 22일(현지시간) 팀(Teams) 및 기업(Enterprise) 고객을 대상으로 커서 라우터를 정식 출시한다고 발표했다.커서에 따르면, 현재 개발자의 약 60%는 하나의 고성능 모델만을 기본 모델로 사",
+   "publishedAt": 1784789043000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1115,24 +1171,52 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 606,
-   "comments": 839,
+   "comments": 841,
    "publishedAt": 1784455403000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
    "hot": false
   },
   {
-   "title": "순천만국가정원서 전국 러너 500명 달린다…25일 10km 가든런",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213081",
-   "summary": "AI 생성 영상순천시는 순천만국가정원에서 전국 러너 500명이 꽃과 나무, 숲과 호수 사이를 달리는 10km 러닝 행사가 열린다고 23일 밝혔다.순천은 25일 오전 7시 국가정원 동원 일원에서 ‘순천만국가정원 챌린지 가든런’을 개최한다.이번 행사 참가자는 전국 단위 사전 모집을 통해 선정됐다. 참가자들은 출발 시간을 나눈 그룹별 순차 출발 방식으로 10km 코스를 달린다. 기록 경쟁에만 초점을 맞춘 일반 달리기 대회와 달리 국가정원의 계절 경관과 자연환경을 함께 경험하도록 코스를 구성한 것이 특징이다.코스는 국가정원 안의 꽃과 나무",
-   "publishedAt": 1784785925000,
+   "title": "여수, 공직자 AI 특강 개최…행정업무·시민서비스 활용 모색",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213099",
+   "summary": "AI 생성 영상여수시가 공직자의 AI 이해도와 행정업무 활용 역량을 높이기 위한 교육에 나섰다고 23일 밝혔다.여수는 22일 여수시문화홀에서 공직자를 대상으로 ‘AI 대전환 특강’을 열고 최신 기술 동향과 공공부문 활용 사례, 지방정부의 대응 방향을 공유했다.이번 특강은 빠르게 변화하는 AI 기술에 대응하고 공직사회 전반에 AI 활용 문화를 확산하기 위해 마련됐다. 단순한 기술 소개를 넘어 행정업무 생산성과 시민서비스 품질을 높이는 실무 활용 방안을 살펴보는 데 초점이 맞춰졌다.강연은 인디제이 대표이자 대통령 직속 국가AI전략위원회",
+   "publishedAt": 1784787891000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 29조 들여 '스타게이트' 재가동…첫 자체 데이터센터 짓는다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213076",
+   "summary": "오픈AI가 AI 컴퓨팅 인프라 투자 계획을 대폭 확대하며 '스타게이트(Stargate)' 프로젝트를 다시 본격 가동한다. 오픈AI는 22일(현지시간) 미국 조지아주 에핑엄 카운티에 200억달러(약 29조원)를 투자해 초대형 AI 데이터센터인 '프로젝트 카멜리아(Project Camellia)'를 착공한다고 발표했다.이 시설은 2028년부터 2032년까지 총 3.2기가와트(GW)의 전력을 공급받을 예정으로, 오픈AI가 직접 설계와 개발을 주도하는 첫 번째 데이터센터라는 점에서 의미가 크다.사친 카티 오픈AI 컴퓨트 전략 부사장은 \"이",
+   "publishedAt": 1784787853000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, FDE 전담 구축 방식의 '프레즌스' 발표...\"기업 맞춤형 AI 운영 체계\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213093",
+   "summary": "오픈AI가 기업들이 실시간 음성 에이전트와 챗봇을 안정적으로 운영할 수 있도록 지원하는 새로운 엔터프라이즈 플랫폼 '프레즌스(Presence)'를 공개했다. 단순히 AI 모델을 제공하는 수준을 넘어 정책 관리, 권한 제어, 성능 평가, 지속적인 개선 기능까지 통합한 플랫폼으로, 기업용 AI 에이전트의 상용화를 위한 운영 체계를 제공하는 것이 핵심이다. 오픈AI는 22일(현지시간) 프레즌스를 제한적 일반 공급(Limited GA) 형태로 출시한다고 발표했다.일반 고객이 직접 사용할 수 있는 서비스가 아니라, 오픈AI의 전반 배치 엔지",
+   "publishedAt": 1784787116000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1146,7 +1230,35 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "구글, AI 인프라 투자 '폭주'…올해 지출 전망 최대 301조원 상향",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213087",
+   "summary": "구글이 AI 경쟁력 강화를 위해 올해 자본지출(CAPEX) 전망치를 최대 2050억달러(약 301조원)로 상향 조정했다. 클라우드 사업이 사상 최대 성장세를 기록하며 실적을 견인했지만, AI 인프라 투자 확대에 따른 막대한 비용 부담으로 투자자들의 우려도 커지고 있다.구글은 22일(현지시간) 2026년 2분기 실적 발표에서 올해 자본지출 규모를 기존 1800억~1900억달러에서 1950억~2050억달러로 상향한다고 밝혔다.지난 4월 제시했던 전망보다 최대 150억달러(약 22조원)를 추가로 늘린 것으로, 지난해 투자 규모의 두 배를",
+   "publishedAt": 1784786400000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "순천만국가정원서 전국 러너 500명 달린다…25일 10km 가든런",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213081",
+   "summary": "AI 생성 영상순천시는 순천만국가정원에서 전국 러너 500명이 꽃과 나무, 숲과 호수 사이를 달리는 10km 러닝 행사가 열린다고 23일 밝혔다.순천은 25일 오전 7시 국가정원 동원 일원에서 ‘순천만국가정원 챌린지 가든런’을 개최한다.이번 행사 참가자는 전국 단위 사전 모집을 통해 선정됐다. 참가자들은 출발 시간을 나눈 그룹별 순차 출발 방식으로 10km 코스를 달린다. 기록 경쟁에만 초점을 맞춘 일반 달리기 대회와 달리 국가정원의 계절 경관과 자연환경을 함께 경험하도록 코스를 구성한 것이 특징이다.코스는 국가정원 안의 꽃과 나무",
+   "publishedAt": 1784785925000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1160,35 +1272,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "인간 수학자, 반례 찾기에서 AI에 추월당하다",
-   "url": "https://news.hada.io/topic?id=31656",
-   "summary": "ChatGPT와 Claude 계열 모델이 불과 몇 주 사이 Erdős의 단위 거리 추측, Grothendieck의 군 스킴 질문, Jacobian Conjecture 에 반례를 만들었으며 일부는 Lean으로 검증됨 OpenAI의 Sol 은 Erdős 반례와 필요한 전역 유체론 결과를 3주 만에 120만 줄의 Lean 코드로...",
-   "publishedAt": 1784633677000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "AMD, 앤트로픽에 최대 7.4조 투자... 2GW 규모 차세대 AI 칩 공급한다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213078",
-   "summary": "AMD가 앤트로픽에 최대 50억달러(약 7조4000억원)를 투자하고, 수백억달러 규모의 차세대 AI 서버를 공급하는 전략적 파트너십을 체결했다. 엔비디아가 주도하는 AI 칩 시장에서 영향력을 확대하는 동시에, 폭증하는 컴퓨팅 수요에 직면한 앤트로픽은 대규모 AI 인프라를 확보하게 됐다.AMD와 앤트로픽은 22일(현지시간) 최대 50억달러 투자를 포함한 전략적 계약을 발표했다. 이에 따라 앤트로픽은 2027년 상반기부터 최대 2기가와트(GW) 규모의 AMD 차세대 AI 인프라를 도입한다.여기에는 AMD의 최신 AI 가속기인 '인스팅트",
-   "publishedAt": 1784780868000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1202,7 +1286,21 @@
    "comments": 213,
    "publishedAt": 1784495890000,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "AMD, 앤트로픽에 최대 7.4조 투자... 2GW 규모 차세대 AI 칩 공급한다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213078",
+   "summary": "AMD가 앤트로픽에 최대 50억달러(약 7조4000억원)를 투자하고, 수백억달러 규모의 차세대 AI 서버를 공급하는 전략적 파트너십을 체결했다. 엔비디아가 주도하는 AI 칩 시장에서 영향력을 확대하는 동시에, 폭증하는 컴퓨팅 수요에 직면한 앤트로픽은 대규모 AI 인프라를 확보하게 됐다.AMD와 앤트로픽은 22일(현지시간) 최대 50억달러 투자를 포함한 전략적 계약을 발표했다. 이에 따라 앤트로픽은 2027년 상반기부터 최대 2기가와트(GW) 규모의 AMD 차세대 AI 인프라를 도입한다.여기에는 AMD의 최신 AI 가속기인 '인스팅트",
+   "publishedAt": 1784780868000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1213,24 +1311,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 137,
-   "comments": 55,
+   "comments": 56,
    "publishedAt": 1784656701000,
    "isAI": false,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "백악관 \"문샷 '키미 K3'는 미국 칩과 모델 훔친 결과\"…강력 제재 경고",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213068",
-   "summary": "미국 트럼프 행정부가 연일 중국 문샷 AI의 '키미 3'를 겨냥해 공세를 높이고 있다. 이번에는 앤트로픽의 '페이블 5'를 무단으로 활용한 것은 물론, 미국의 수출 규제를 받는 엔비디아의 최신 AI 칩까지 우회 확보했다는 의혹을 제기하며 강력한 제재를 시사했다.마이클 크라치오스 백악관 과학기술정책실(OSTP) 실장은 22일(현지시간) X를 통해 \"문샷 AI가 앤트로픽의 최첨단 모델 '페이블'을 증류(distillation)해 키미 K3 개발에 활용했다는 정보를 확보했다\"라며 \"미국의 독점 기술을 훔치고 미국의 연구를 훼손하려는 대규",
-   "publishedAt": 1784779278000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1244,7 +1328,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1258,7 +1342,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "백악관 \"문샷 '키미 K3'는 미국 칩과 모델 훔친 결과\"…강력 제재 경고",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213068",
+   "summary": "미국 트럼프 행정부가 연일 중국 문샷 AI의 '키미 3'를 겨냥해 공세를 높이고 있다. 이번에는 앤트로픽의 '페이블 5'를 무단으로 활용한 것은 물론, 미국의 수출 규제를 받는 엔비디아의 최신 AI 칩까지 우회 확보했다는 의혹을 제기하며 강력한 제재를 시사했다.마이클 크라치오스 백악관 과학기술정책실(OSTP) 실장은 22일(현지시간) X를 통해 \"문샷 AI가 앤트로픽의 최첨단 모델 '페이블'을 증류(distillation)해 키미 K3 개발에 활용했다는 정보를 확보했다\"라며 \"미국의 독점 기술을 훔치고 미국의 연구를 훼손하려는 대규",
+   "publishedAt": 1784779278000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1272,7 +1370,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1286,7 +1384,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1300,105 +1398,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "금융 AI 전문 알프레드, 배달의 민족 출신 조영호 CTO 영입",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213080",
-   "summary": "금융 에이전틱 AI 전문 알프레드(대표 옥형석)는 조영호 개발 전문가를 최고 기술책임자(CTO)로 영입했다고 23일 밝혔다.조영호 CTO는 네이버, 카카오, 배달의민족 등에서 기술 이사로 재직했으며, '오브젝트'의 저자로도 알려져 있다.조 CTO는 AI 중심 기술 전략과 제품 개발을 이끌며, AI 네이티브 조직 전환과 에이전틱 비즈니스 프로세스 아웃소싱(BPO) 고도화를 담당한다.특히 회의 기록과 업무 문서, 의사결정 이력 등 조직 내 데이터를 AI가 이해하고 활용할 수 있도록 구조화하는 '컨텍스트 인프라' 구축을 이끌 예정이다.이",
-   "publishedAt": 1784777400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "SKT, 로봇 학습 데이터 표준화 나선다...ITU-T 신규 과제 채택",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213083",
-   "summary": "SK텔레콤(대표 정재헌)은 스위스 제네바에서 열린 국제전기통신연합 전기통신표준화부문(ITU-T) 국제표준화 회의에서 '로봇 데이터 생산·활용 체계에 관한 신규 표준화 과제'가 채택됐다고 23일 밝혔다.ITU-T는 UN 전문기구인 국제전기통신연합(ITU) 산하 전기통신표준화 부문으로 정보통신 분야의 국제표준을 개발한다.SKT는 휴머노이드 등 로봇 동작에 필요한 AI 학습 데이터를 체계적으로 생산·활용하기 위한 '로봇 데이터 팩토리(RDF) 연동 구조 및 방식'을 제안했다.그동안은 로봇마다 기종과 탑재된 소프트웨어가 달라 각기 다른 방",
-   "publishedAt": 1784777355000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "리벨리온, 국산 NPU로 SKT 독자 모델 'A.X K1' 구동 성공",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213074",
-   "summary": "리벨리온(대표 박성현)은 SK텔레콤의 독자 AI 파운데이션 모델 '에이닷엑스 케이원(A.X K1)'을 자체 신경망처리장치(NPU) 서버에서 구동하는 데 성공했다고 23일 밝혔다.A.X K1은 5190억개 매개변수의 대형언어모델(LLM)로 추론 시 330억개만 활성화되는 전문가 혼합(MoE) 구조로 설계됐다.리벨리온은 이에 맞춰 소프트웨어를 최적화하고, 반도체 칩에 효율적인 방식으로 병렬 처리하는 분산 기술을 구현했다. 그 결과, NPU 단일 서버만으로도 고성능 GPU 서버에 준하는 인프라 역량을 확인했다는 설명이다.이를 기반으로 다",
-   "publishedAt": 1784777319000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "한컴, 한수원에 문서작성 AI 솔루션 '한컴어시스턴트' 공급",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213077",
-   "summary": "한컴(대표 김연수)은 한국수력원자력에 AI 문서작성 솔루션 '한컴어시스턴트'를 공급했다고 23일 밝혔다.한컴은 한수원의 원자력발전 특화 AI 플랫폼 '하이누리'에 한컴어시스턴트를 연계해 문서 작성 및 정보 검색 효율화를 진행했다. 이를 통해 사용자는 자연어 명령만으로 원전 정비 지침, 발전·건설 및 안전 자료 등 내부 데이터를 검색할 수 있으며, 표준 템플릿을 적용한 보고서 작성과 문서 요약 등이 가능하다는 설명이다.특히 공공기관의 특성을 반영해 외부망과 분리된 폐쇄망 환경에서도 AI를 안전하게 활용할 수 있도록 설계해 보안과 데이",
-   "publishedAt": 1784777248000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-   "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-   "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-   "publishedAt": 1784714400000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "Show GN: RealHome – 부동산 홈페이지·매물·문의·계약을 한 흐름으로 연결한 운영 도구",
-   "url": "https://news.hada.io/topic?id=31686",
-   "summary": "안녕하세요. 오래 운영해 온 부동산 홈페이지 서비스 ‘아임리얼’의 한계와 실제 사용자 요청을 바탕으로 RealHome을 새로 만들었습니다. 제가 직접 개발·운영하고 있습니다. 부동산 중개업소에서는 홈페이지에 매물을 올린 뒤 들어온 문의가 전화·메신저·엑셀로 흩어지고, 담당자 배정과 후속 연락이 끊기는",
-   "publishedAt": 1784695492000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "과기부 “미소스·GPT 잡을 국산 AI 보안 모델 개발 본격화”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213073",
-   "summary": "과학기술정보통신부(장관 배경훈)가 정보통신산업진흥원(NIPA)과 손잡고 국내 AI 및 보안 기술 역량을 결집한다. 과기부는 ‘사이버 보안 특화 AI 파운데이션 모델 개발’ 사업 공모에 본격 착수한다고 23일 밝혔다.이번 사업은 고성능 AI 모델 발달에 따라 급증하는 사이버 보안 위협에 대응하고, 국내 환경에 최적화된 독자 보안 AI 모델을 확보하는 것이 목표다. 멀티 에이전트 방식의 서비스 연계가 가능하도록 설계되며, 기존 독자 파운데이션 모델 사업과 마찬가지로 '오픈소스' 형태를 지향한다.참여 공모는 오는 8월21일까지 진행된다.",
-   "publishedAt": 1784772216000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
+   "score": 32.8,
    "hot": false
   }
  ]
