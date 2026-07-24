@@ -1,5 +1,5 @@
 {
- "updatedAt": 1784883682237,
+ "updatedAt": 1784887352825,
  "week": "2026-W30",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 916,
-   "comments": 760,
+   "engagement": 937,
+   "comments": 775,
    "publishedAt": 1784819920000,
    "isAI": true,
-   "score": 61,
+   "score": 60.6,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 646,
+   "engagement": 649,
    "comments": 342,
    "publishedAt": 1784812150000,
    "isAI": true,
-   "score": 57,
+   "score": 56.5,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 269,
-   "comments": 188,
+   "engagement": 278,
+   "comments": 194,
    "publishedAt": 1784825397000,
    "isAI": true,
-   "score": 52,
+   "score": 51.8,
    "hot": true
   },
   {
@@ -51,11 +51,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 283,
+   "engagement": 284,
    "comments": 321,
    "publishedAt": 1784811603000,
    "isAI": true,
-   "score": 50.5,
+   "score": 50.1,
+   "hot": true
+  },
+  {
+   "title": "AuraFace 얼굴인식 정확도가 이상하게 낮았던 이유 — 서로 무관한 버그 두 개",
+   "url": "https://news.hada.io/topic?id=31766",
+   "summary": "얼굴인식 SDK(facekit, Flutter/on-device)에 상업적으로 재배포 가능한 임베딩 모델(AuraFace,fal.ai)을 새로 붙였는데, 분명 본인 얼굴인데 유사도가 0.14~0.37 사이를 오갔습니다. 채널순서(RGB/BGR), 모델 변환 신뢰성, 임베딩 벡터 통계까지 다 정상이었는데도 계속 낮게 나와서 결국 \"이론으로 추론",
+   "publishedAt": 1784886839000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
    "hot": true
   },
   {
@@ -65,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 264,
-   "comments": 267,
+   "engagement": 265,
+   "comments": 269,
    "publishedAt": 1784812202000,
    "isAI": true,
-   "score": 50.1,
+   "score": 49.6,
    "hot": true
   },
   {
@@ -79,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 238,
-   "comments": 265,
+   "engagement": 246,
+   "comments": 272,
    "publishedAt": 1784814696000,
    "isAI": true,
-   "score": 49.6,
+   "score": 49.4,
    "hot": true
   },
   {
@@ -93,11 +107,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 510,
-   "comments": 389,
+   "engagement": 522,
+   "comments": 400,
    "publishedAt": 1784769374000,
    "isAI": true,
-   "score": 49.5,
+   "score": 49.3,
+   "hot": false
+  },
+  {
+   "title": "Are AI labs pelicanmaxxing?",
+   "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49010129",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 667,
+   "comments": 240,
+   "publishedAt": 1784740674000,
+   "isAI": true,
+   "score": 47.7,
    "hot": false
   },
   {
@@ -111,22 +139,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.7,
    "hot": true
-  },
-  {
-   "title": "Are AI labs pelicanmaxxing?",
-   "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49010129",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 666,
-   "comments": 240,
-   "publishedAt": 1784740674000,
-   "isAI": true,
-   "score": 48.1,
-   "hot": false
   },
   {
    "title": "ChatGPT Voice 가 데스크톱 앱에도 도입됨",
@@ -139,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -153,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -163,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 152,
-   "comments": 25,
+   "engagement": 155,
+   "comments": 26,
    "publishedAt": 1784819497000,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.8,
    "hot": true
   },
   {
@@ -195,8 +209,22 @@
    "comments": 1133,
    "publishedAt": 1784664592000,
    "isAI": true,
-   "score": 46,
+   "score": 45.7,
    "hot": false
+  },
+  {
+   "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+   "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49023019",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 321,
+   "comments": 231,
+   "publishedAt": 1784819928000,
+   "isAI": false,
+   "score": 45.6,
+   "hot": true
   },
   {
    "title": "자율주행 기업",
@@ -209,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -223,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -237,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -279,21 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
-   "hot": true
-  },
-  {
-   "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-   "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49023019",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 306,
-   "comments": 220,
-   "publishedAt": 1784819928000,
-   "isAI": false,
-   "score": 45.6,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -307,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -321,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -335,7 +349,21 @@
    "comments": 235,
    "publishedAt": 1784729885000,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.5,
+   "hot": false
+  },
+  {
+   "title": "AI bet goes awry: Oracle fires 21,000 employees",
+   "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49025754",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 101,
+   "comments": 24,
+   "publishedAt": 1784830053000,
+   "isAI": true,
+   "score": 44.3,
    "hot": false
   },
   {
@@ -345,12 +373,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 281,
-   "comments": 63,
+   "engagement": 285,
+   "comments": 64,
    "publishedAt": 1784816260000,
    "isAI": false,
-   "score": 44.5,
+   "score": 44.2,
    "hot": true
+  },
+  {
+   "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+   "url": "https://github.com/izeigerman/claude-thermos",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49024882",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 101,
+   "comments": 81,
+   "publishedAt": 1784826382000,
+   "isAI": true,
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "양질의 논픽션은 AI 슬롭의 정반대다",
@@ -363,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -373,12 +415,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 371,
+   "engagement": 373,
    "comments": 300,
    "publishedAt": 1784724585000,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.4,
    "hot": false
+  },
+  {
+   "title": "2026년에는 이메일을 직접 호스팅할 수 있음",
+   "url": "https://news.hada.io/topic?id=31767",
+   "summary": "이메일은 본래 개방형 시스템 이며, 2026년에는 배달 문제와 스팸을 관리하면서 집이나 VPS에서 운영해 소수 대기업에 메일을 맡기지 않을 수 있음 가정에서 운영하려면 블록리스트에 없는 고정 IPv4 , CGNAT 미사용, PTR 레코드 변경 권한, 25·143·465·587·99...",
+   "publishedAt": 1784887340000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 42,
+   "hot": true
   },
   {
    "title": "Show GN: 혼자는 외로워서 만든 오픈코드워",
@@ -391,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -405,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -419,7 +475,7 @@
    "comments": 573,
    "publishedAt": 1784647036000,
    "isAI": true,
-   "score": 40.4,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -433,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -447,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -461,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -475,7 +531,7 @@
    "comments": 620,
    "publishedAt": 1784660679000,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -485,11 +541,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 504,
+   "engagement": 505,
    "comments": 223,
    "publishedAt": 1784723768000,
    "isAI": false,
-   "score": 39.3,
+   "score": 39,
    "hot": false
   },
   {
@@ -503,7 +559,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
+   "hot": true
+  },
+  {
+   "title": "EU fines Google €890M for competition breaches over search and apps",
+   "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49019220",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 167,
+   "comments": 174,
+   "publishedAt": 1784801242000,
+   "isAI": false,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -517,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -531,21 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
-   "hot": true
-  },
-  {
-   "title": "EU fines Google €890M for competition breaches over search and apps",
-   "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49019220",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 166,
-   "comments": 172,
-   "publishedAt": 1784801242000,
-   "isAI": false,
-   "score": 38.8,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -559,21 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
-   "hot": true
-  },
-  {
-   "title": "손글씨가 뇌에 좋은 이유와 편하게 쓰는 법",
-   "url": "https://news.hada.io/topic?id=31747",
-   "summary": "손글씨는 획과 글자 연결, 손가락·팔의 움직임을 생각과 실시간으로 조율해 뇌의 더 많은 영역 을 동원함 약 25년간 만년필로 수천 쪽을 쓰고도 필경성 경련을 겪지 않았으며, 피로는 손글씨보다 필압과 마찰 에 크게 좌우됨 만년필과 종이는 펜촉을 누르는...",
-   "publishedAt": 1784853625000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.5,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -583,11 +625,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 104,
-   "comments": 86,
+   "engagement": 105,
+   "comments": 89,
    "publishedAt": 1784833234000,
    "isAI": false,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -601,7 +643,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -615,21 +657,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
-   "title": "큰 효과를 만드는 작은 UI 디자인 팁들",
-   "url": "https://news.hada.io/topic?id=31746",
-   "summary": "UI 디자인은 예술적 감각보다 일관된 논리 규칙 을 적용해 배치/간격/서체/색상 결정을 내릴 때 더 빠르고 예측 가능하게 개선할 수 있음 관련 요소를 여백으로 묶고, 같은 기능에는 같은 형태를 사용하며, 크기/색상/대비/위치로 명확한 시각적 위계 를 만드는 것이...",
-   "publishedAt": 1784853542000,
+   "title": "손글씨가 뇌에 좋은 이유와 편하게 쓰는 법",
+   "url": "https://news.hada.io/topic?id=31747",
+   "summary": "손글씨는 획과 글자 연결, 손가락·팔의 움직임을 생각과 실시간으로 조율해 뇌의 더 많은 영역 을 동원함 약 25년간 만년필로 수천 쪽을 쓰고도 필경성 경련을 겪지 않았으며, 피로는 손글씨보다 필압과 마찰 에 크게 좌우됨 만년필과 종이는 펜촉을 누르는...",
+   "publishedAt": 1784853625000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -643,8 +685,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
+  },
+  {
+   "title": "큰 효과를 만드는 작은 UI 디자인 팁들",
+   "url": "https://news.hada.io/topic?id=31746",
+   "summary": "UI 디자인은 예술적 감각보다 일관된 논리 규칙 을 적용해 배치/간격/서체/색상 결정을 내릴 때 더 빠르고 예측 가능하게 개선할 수 있음 관련 요소를 여백으로 묶고, 같은 기능에는 같은 형태를 사용하며, 크기/색상/대비/위치로 명확한 시각적 위계 를 만드는 것이...",
+   "publishedAt": 1784853542000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38,
+   "hot": true
   },
   {
    "title": "Justif - 웹을 위한 Knuth-Plass 양쪽 정렬과 마이크로타이포그래피",
@@ -657,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -671,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -685,7 +741,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -699,7 +755,7 @@
    "comments": 931,
    "publishedAt": 1784557307000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -713,22 +769,8 @@
    "comments": 215,
    "publishedAt": 1784623463000,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
-  },
-  {
-   "title": "과제형 면접 프로젝트를 열어보니 조직적인 악성코드 작전이었다",
-   "url": "https://news.hada.io/topic?id=31736",
-   "summary": "LinkedIn에서 월 $10,000~15,000 의 원격 Python 개발자 자리를 제안한 가짜 채용 담당자가 정상적인 FastAPI 과제로 위장한 ZIP 파일을 보내고, Git 작업 과정에서 악성코드가 설치되도록 구성함 저장소의 .git/hooks 에는 운영체제별 원격 페이로드를 조용히 실행하는 ...",
-   "publishedAt": 1784842444000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.3,
-   "hot": true
   },
   {
    "title": "Most Americans say \"not in my backyard\" to AI data centers",
@@ -741,7 +783,7 @@
    "comments": 303,
    "publishedAt": 1784730867000,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -755,7 +797,21 @@
    "comments": 331,
    "publishedAt": 1784654046000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.9,
+   "hot": false
+  },
+  {
+   "title": "과제형 면접 프로젝트를 열어보니 조직적인 악성코드 작전이었다",
+   "url": "https://news.hada.io/topic?id=31736",
+   "summary": "LinkedIn에서 월 $10,000~15,000 의 원격 Python 개발자 자리를 제안한 가짜 채용 담당자가 정상적인 FastAPI 과제로 위장한 ZIP 파일을 보내고, Git 작업 과정에서 악성코드가 설치되도록 구성함 저장소의 .git/hooks 에는 운영체제별 원격 페이로드를 조용히 실행하는 ...",
+   "publishedAt": 1784842444000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -769,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -783,7 +839,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -794,10 +850,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 696,
-   "comments": 140,
+   "comments": 141,
    "publishedAt": 1784663039000,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -811,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -825,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -839,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -853,7 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -867,7 +923,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -881,7 +937,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -895,7 +951,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -909,7 +965,7 @@
    "comments": 103,
    "publishedAt": 1784668400000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -923,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -937,7 +993,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -951,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -965,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -979,21 +1035,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.6,
-   "hot": false
-  },
-  {
-   "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-   "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-   "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-   "publishedAt": 1784831914000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1007,7 +1049,21 @@
    "comments": 268,
    "publishedAt": 1784606163000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+   "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+   "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+   "publishedAt": 1784831914000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1021,7 +1077,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 데스크톱 앱에 'GPT-라이브' 음성 제어 도입",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213129",
+   "summary": "오픈AI가 자연스러운 음성 대화 모델 'GPT-라이브(GPT-Live)'를 맥(Mac)과 윈도우용 챗GPT 데스크톱 앱에 통합하며 음성 기반 AI 개발 환경을 본격화했다. 코딩 에이전트 '코덱스'와 '챗GPT 워크'를 음성으로 제어할 수 있게 되면서, 키보드 대신 대화만으로 개발 작업을 수행하는 음성 코딩 시대가 열렸다는 평가가 나온다.오픈AI는 23일(현지시간) GPT-라이브를 맥OS와 윈도우용 챗GPT 데스크톱 앱에 적용했다고 발표했다. 이번 업데이트는 GPT-라이브를 공개한 지 2주 만에 이뤄졌다. GPT-라이브는 기존 음성",
+   "publishedAt": 1784886618000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, '클로드' 음성 모드 대폭 강화…오퍼스·소네트에도 탑재",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213130",
+   "summary": "앤트로픽이 '클로드'의 음성 모드를 대폭 업그레이드하며 고성능 모델 지원과 외부 업무 도구 연동 기능을 추가했다.앤트로픽은 23일(현지시간) 클로드 음성 모드 업데이트를 발표하고, 사용자가 대화 중에도 모델 선택기를 통해 하이쿠, 소네트, 오퍼스 모델을 자유롭게 전환할 수 있다고 밝혔다.또 지메일, 구글 캘린더, 슬랙, 노션, 캔바 등 다양한 서비스와 연동해 실제 업무를 수행할 수 있도록 지원하면서 오픈AI의 챗GPT 음성 모드와 차별화를 시도했다.음성 모드는 사용자가 텍스트 채팅에서 마지막으로 사용한 모델을 자동으로 이어받아 해당",
+   "publishedAt": 1784886382000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1035,7 +1119,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "딥시크 창립자 \"수익보다 AGI 우선…첨단 모델도 오픈소스 유지\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213139",
+   "summary": "량원펑 딥시크 창립자가 단기적인 수익보다 AGI 개발을 최우선 목표로 삼겠다는 방침을 밝힌 것으로 알려졌다. 또 회사의 핵심 AI 모델을 앞으로도 오픈소스로 공개할 가능성이 높다며, 개방형 생태계를 중심으로 기술 경쟁력을 키우겠다는 전략을 제시했다.중국 국영 경제매체 제일재경(Yicai)은 23일(현지시간) 최근 진행된 딥시크 투자자 설명회에서 량원펑 CEO가 4시간 동안 회사의 기술 전략과 로드맵을 설명했다고 보도했다. 딥시크와 량 CEO는 진위를 공식 확인하지는 않았다.이에 따르면, 량 CEO는 딥시크가 단기적인 수익 확대보다",
+   "publishedAt": 1784885607000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1049,7 +1147,21 @@
    "comments": 72,
    "publishedAt": 1784751361000,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "블랙 포레스트 랩스, 차세대 영상 모델 '플럭스 3' 출시...\"20초 영상부터 로봇 제어까지\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213133",
+   "summary": "독일의 블랙 포레스트 랩스(BFL)가 이미지 생성 모델 '플럭스(FLUX)' 시리즈를 멀티모달 AI로 확장한 차세대 모델 '플럭스 3(FLUX 3)'를 공개했다. 텍스트 한 줄만으로 최대 20초 길이의 영상과 오디오를 동시에 생성할 수 있을 뿐 아니라, 로봇의 행동 예측과 피지컬 AI까지 하나의 모델로 구현하는 것이 핵심이다.BFL은 23일(현지시간) FLUX 3를 발표하며 \"이미지와 영상, 오디오를 각각 별도의 모델로 처리하는 기존 방식이 아니라 하나의 통합 아키텍처에서 공동 학습한 최초의 멀티모달 기반 모델\"이라고 밝혔다.단순한",
+   "publishedAt": 1784884838000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1063,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1077,21 +1189,35 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "2026 필즈상 수상자 제이콥 치머만, 오픈AI 합류…\"AI 안전 연구 전념\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213151",
-   "summary": "수학계 최고 영예인 필즈상(Fields Medal)을 수상한 제이콥 치머만 캐나다 토론토대학교 교수가 오픈AI에 합류한다.치머만 교수는 24일 국제수학자대회(ICM) 기자회견을 통해 순수 수학 연구 중심에서 벗어나 AI 안전(AI Safety) 연구에 집중하기 위해 오픈AI에 입사할 예정이라고 밝혔다.국제수학연맹(IMU)에 따르면, 치머만 교수는 복소수 대수기하학 및 산술의 핵심 방법론인 o-최소성(o-minimality) 개념을 재정의하고, 주기 지도 대수성에 관한 그리피스 추측(Griffiths' conjecture) 및 지겔",
-   "publishedAt": 1784881530000,
+   "title": "런웨이, 생성 미디어 '라우터' 출시…비용·속도 고려해 최적 모델 자동 선택",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213145",
+   "summary": "런웨이가 AI 비디오 모델 개발 기업에서 생성 미디어 인프라 플랫폼으로의 전환에 속도를 내고 있다. 이미지·영상·음성 생성 모델이 급증하면서 개발자들이 최적의 모델을 선택하기 어려워지자, 품질과 속도, 비용을 고려해 가장 적합한 모델을 자동으로 선택하는 '미디어 라우터(Media Router)'를 선보였다.런웨이는 23일(현지시간) 개발자 플랫폼 '런웨이 데브(Runway Dev)'를 통해 AI 모델 자동 선택 기능인 '미디어 라우터'를 출시했다고 밝혔다.대형언어모델(LLM) 분야에서는 모델 라우터가 이미 보편화됐지만, 생성 이미지",
+   "publishedAt": 1784883882000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "젠스파크 국내 상륙...\"3년간 1억달러 투자, 기업 시장 공략할 것\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213146",
+   "summary": "AI 에이전트 전문 젠스파크(대표 에릭 징)는 국내 시장 진출을 선언하며, 앞으로 3년간 1억달러(약 1475억원)를 투자하겠다고 밝혔다. 동시에 'AI 워크스페이스 6.0'을 앞세워 기업용 AI 시장 공략에 나선다.에릭 징 젠스파크 공동 창립자 겸 CEO는 24일 서울 광진구 본다빈치뮤지엄에서 열린 미디어데이에서 “한국은 젠스파크의 최상위 시장 중 하나”라며 “3년 안에 1억달러를 투자해 팀과 파트너십을 확장하고 사업을 확대할 것”이라고 밝혔다.이날 공개한 AI 워크스페이스 6.0은 지속형 메모리 레이어인 '세컨드브레인'을 중심으",
+   "publishedAt": 1784883843000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1105,7 +1231,7 @@
    "comments": 512,
    "publishedAt": 1784515876000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1119,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1133,7 +1259,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "2026 필즈상 수상자 제이콥 치머만, 오픈AI 합류…\"AI 안전 연구 전념\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213151",
+   "summary": "수학계 최고 영예인 필즈상(Fields Medal)을 수상한 제이콥 치머만 캐나다 토론토대학교 교수가 오픈AI에 합류한다.치머만 교수는 24일 국제수학자대회(ICM) 기자회견을 통해 순수 수학 연구 중심에서 벗어나 AI 안전(AI Safety) 연구에 집중하기 위해 오픈AI에 입사할 예정이라고 밝혔다.국제수학연맹(IMU)에 따르면, 치머만 교수는 복소수 대수기하학 및 산술의 핵심 방법론인 o-최소성(o-minimality) 개념을 재정의하고, 주기 지도 대수성에 관한 그리피스 추측(Griffiths' conjecture) 및 지겔",
+   "publishedAt": 1784881530000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1147,7 +1287,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "[게시판] 마키나락스, 액추에이터 기업 '에너토크'와 MOU 체결 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213126",
+   "summary": "■ 마키나락스(대표 윤성호)는 전동 액추에이터 기업 '에너토크'와 AI 네이티브 팩토리 구축을 위한 업무협약(MOU)을 체결했다고 밝혔다. 에너토크 공장을 AI 네이티브로 전환하는 것을 목표로 AI 에이전트 기반 사무 자동화, 로봇 등 피지컬 AI를 활용한 공정 자동화, AI 데이터 인프라 및 운영체계 수립 등을 진행할 계획이다.■ 메가존클라우드(대표 염동훈)는 '아크릴'과 AI 인프라 사업 확대에 나선다고 밝혔다. 메가존클라우드의 AI·클라우드 인프라 구축 역량에 아크릴의 AI 개발 및 인프라 최적화 기술을 더해 고객별 수요에 맞",
+   "publishedAt": 1784880000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1161,7 +1315,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1175,35 +1329,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "인텔, 15년 만에 최대 매출 성장률…에이전트 확산에 CPU 수요 급증",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213140",
-   "summary": "인텔이 AI 데이터센터 투자 확대에 힘입어 15년 만에 가장 높은 분기 매출 성장률을 기록하며 시장 기대를 크게 웃도는 실적을 발표했다. 3분기 실적 전망도 월가 예상치를 크게 상회하면서 시간외 거래에서 주가가 급등했으며, 인텔은 서버용 CPU 수요 증가에 대응하기 위해 앞으로 2년간 설비투자를 확대하기로 했다.인텔은 23일(현지시간) 2분기 매출이 전년 동기 대비 25.4% 증가한 161억3000만달러(약 23조60000억원)를 기록했다고 밝혔다.이는 2011년 이후 15년 만에 가장 높은 분기 매출 증가율이다. 조정 주당순이익(",
-   "publishedAt": 1784878240000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "우버, AI 도입 명목으로 고객서비스 10% 감원...원격근무도 축소",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213142",
-   "summary": "우버가 AI를 핵심 업무에 본격 도입하기 위해 고객 서비스 조직 인력의 약 10%를 감원했다. AI를 기존 업무 프로세스에 효과적으로 적용하기 위해 조직을 단순화하고 대면 협업을 강화하겠다는 전략으로, AI를 직접적인 구조조정 사유로 내세운 사례다.23일(현지시간) 블룸버그 등에 따르면, 우버는 고객 서비스를 담당하는 '커뮤니티 운영(Community Operations)' 조직 인력의 약 10%를 감축했다. 원격 근무 직원들에게는 허브 오피스로 이전해 주 3일 이상 출근하도록 요구했다.메가 예타드카 우버 글로벌 커뮤니티 운영 담당",
-   "publishedAt": 1784877363000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1217,7 +1343,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "인텔, 15년 만에 최대 매출 성장률…에이전트 확산에 CPU 수요 급증",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213140",
+   "summary": "인텔이 AI 데이터센터 투자 확대에 힘입어 15년 만에 가장 높은 분기 매출 성장률을 기록하며 시장 기대를 크게 웃도는 실적을 발표했다. 3분기 실적 전망도 월가 예상치를 크게 상회하면서 시간외 거래에서 주가가 급등했으며, 인텔은 서버용 CPU 수요 증가에 대응하기 위해 앞으로 2년간 설비투자를 확대하기로 했다.인텔은 23일(현지시간) 2분기 매출이 전년 동기 대비 25.4% 증가한 161억3000만달러(약 23조60000억원)를 기록했다고 밝혔다.이는 2011년 이후 15년 만에 가장 높은 분기 매출 증가율이다. 조정 주당순이익(",
+   "publishedAt": 1784878240000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "우버, AI 도입 명목으로 고객서비스 10% 감원...원격근무도 축소",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213142",
+   "summary": "우버가 AI를 핵심 업무에 본격 도입하기 위해 고객 서비스 조직 인력의 약 10%를 감원했다. AI를 기존 업무 프로세스에 효과적으로 적용하기 위해 조직을 단순화하고 대면 협업을 강화하겠다는 전략으로, AI를 직접적인 구조조정 사유로 내세운 사례다.23일(현지시간) 블룸버그 등에 따르면, 우버는 고객 서비스를 담당하는 '커뮤니티 운영(Community Operations)' 조직 인력의 약 10%를 감축했다. 원격 근무 직원들에게는 허브 오피스로 이전해 주 3일 이상 출근하도록 요구했다.메가 예타드카 우버 글로벌 커뮤니티 운영 담당",
+   "publishedAt": 1784877363000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1231,35 +1385,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 미국서 '챗GPT 헬스' 출시…의료기록 연동 맞춤형 상담 지원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213134",
-   "summary": "오픈AI가 건강 관련 질문에 특화된 '챗GPT 헬스(ChatGPT Health)' 기능을 미국 성인 이용자 전체로 확대 출시했다. 애플 헬스와 병원 의료기록을 연동해 개인 맞춤형 건강 정보를 제공하는 것이 핵심이지만, 의료 전문가를 대체하는 서비스는 아니라는 점을 강조했다.오픈AI는 23일(현지시간) 미국 내 18세 이상 로그인 사용자를 대상으로 웹과 iOS에서 '챗GPT 헬스' 기능을 모든 요금제에 차례로 제공한다고 발표했다.이번 기능은 사용자가 애플 헬스(Apple Health), 원 메디컬(One Medical), 펑션 헬스(",
-   "publishedAt": 1784876458000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "마크비전, URL 입력만으로 브랜드 위협 진단하는 ‘마크레이더’ 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213149",
-   "summary": "AI IP 전문 마크비전(대표 이인섭)은 브랜드 웹사이트 주소만 입력하면 온라인 위협 노출 현황을 즉각 확인할 수 있는 브랜드 위협 자가진단 서비스 ‘마크레이더(MarqRadar)’를 정식 출시했다고 24일 밝혔다.‘마크레이더’는 별도 솔루션 구축이나 상담 절차 없이 누구나 무료로 자사의 온라인 브랜드 위협을 확인할 수 있는 서비스다. 사용자가 브랜드 공식 웹사이트 주소를 입력하면 ▲유사·사칭 도메인 ▲이커머스 마켓플레이스 ▲소셜미디어(SNS) ▲유료 검색 광고 ▲웹사이트 콘텐츠 등 5개 핵심 카테고리를 분석해 90초 이내에 진단",
-   "publishedAt": 1784876400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1273,132 +1399,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "팀스파르타, 타임지 '2026 세계 최고의 에듀테크 기업' 선정",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213147",
-   "summary": "AI 전문 팀스파르타(대표 이범규)는 미국 시사주간지 타임과 글로벌 리서치 기관 스태티스타(Statista)가 발표한 '2026 세계 최고의 에듀테크 기업'에 이름을 올렸다고 24일 밝혔다. 이는 전 세계 에듀테크 기업의 재무 성과와 산업 영향력, 성장성 등을 종합 분석해 선정하는 평가다. 올해는 약 6500개 기업이 심사 대상에 올랐다. 국내에서는 팀스파르타를 포함해 15개 기업이 포함됐다.팀스파르타는 기업의 AX 교육을 지원 중이다. 올해 B2B 교육 매출은 2025년 전년 대비 2.5배 증가했으며, 평균 임직원 AI 역량은 1",
-   "publishedAt": 1784875500000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "구글, '셀카 동영상' 로그인 기능 출시...비밀번호 없이 얼굴로 본인 인증",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213138",
-   "summary": "구글이 계정 로그인과 계정 복구를 위한 새로운 본인 인증 수단으로 '셀카 동영상' 기반 로그인 기능을 출시했다. 비밀번호를 잊었거나 기존에 사용하던 기기를 분실한 경우에도 짧은 얼굴 영상을 촬영해 본인임을 확인할 수 있도록 한 것으로, AI 기반 딥페이크 탐지와 실시간 생체 인증 기술을 결합해 보안성을 높인 것이 특징이다.구글은 23일(현지시간) 적격(Google Account eligible) 사용자들을 대상으로 셀카 동영상 로그인 기능을 정식 제공한다고 발표했다.사용자는 기능을 활성화할 때 스마트폰이나 PC 카메라를 통해 고개를",
-   "publishedAt": 1784874279000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Apple defeats liability for not scanning iCloud for CSAM",
-   "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48992870",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 451,
-   "comments": 548,
-   "publishedAt": 1784644301000,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "딥핑소스, 산자부 AI 사업 주관사 선정…“국내 AI 자율 운영 매장 1000곳 구축”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213150",
-   "summary": "AI 공간분석 전문 딥핑소스(대표 김태훈)는 산업통상자원부 '2026 AI 응용제품 신속 상용화 지원사업' 주관기관으로 선정됐다고 24일 밝혔다. 사업명은 'AI 로보틱스 기반 유통매장 지능형 관리 플랫폼'으로, 총사업비 45억원 규모다. 사업 기간은 오는 2027년 12월까지다. 딥핑소스는 협약식과 킥오프 미팅을 완료하고 본격 사업에 돌입했다.이번 사업은 딥핑소스가 일본 로손(LAWSON) '리얼×테크 로손' 1호점에서 검증한 AI 로보틱스 기술을 한 단계 진보시켜 국내 매장 환경에 맞게 고도화하는 것을 목표로 한다. 이를 국내",
-   "publishedAt": 1784874000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "엔비디아 GPU, 최초로 달 표면 달린다...달 탐사 로버에 '젯슨' 탑재",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213136",
-   "summary": "엔비디아의 GPU 기반 AI 컴퓨팅 플랫폼이 사상 처음으로 달 표면에 투입된다. 미국 우주 모빌리티 기업 루나 아웃포스트(Lunar Outpost)는 23일(현지시간) 차세대 달 탐사 로버에 엔비디아의 임베디드 AI 플랫폼 '젯슨(Jetson)'을 탑재해 실시간 자율 탐사와 지형 분석을 수행한다고 발표했다.피지컬 AI를 활용한 자율 로봇 기술을 통해 장기적으로 인간의 지속 가능한 달 기지 건설 기반을 마련한다는 목표다.루나 아웃포스트는 앞으로 달 탐사 임무 전반에 젯슨 플랫폼과 CUDA-X 라이브러리를 적용한다고 밝혔다. 이를 통해",
-   "publishedAt": 1784873807000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "AI makes programming differently difficult",
-   "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=48996197",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 164,
-   "comments": 142,
-   "publishedAt": 1784658621000,
-   "isAI": true,
    "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU",
-   "url": "https://huggingface.co/papers/2607.19191",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 204,
-   "summary": "We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven ",
-   "publishedAt": 1784633210000,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "MS, 'MAI-이미지-2.5-프로' 등 출시...\"오픈AI 모델 본격 대체\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213132",
-   "summary": "마이크로소프트(MS)가 자체 개발 AI 모델 전략을 강화했다. 최고 품질의 이미지 생성 모델 'MAI-이미지-2.5-프로(MAI-Image-2.5-Pro)'을 출시하며 빙(Bing)과 파워포인트(PowerPoint), 원드라이브(OneDrive) 등 주요 서비스에서 오픈AI의 이미지 모델을 자체 모델로 대체했다.MS는 23일(현지시간) MAI-이미지-2.5-프로와 고속 음성 생성 모델 'MAI-보이스-2-플래시(MAI-Voice-2-Flash)'를 공개(public) 프리뷰로 출시했다고 발표했다.MAI-이미지-2.5-프로는 MS가",
-   "publishedAt": 1784870040000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "Ask GN: 구글 크롬 확장 프로그램 개인적으로 만들어서 쓰고 계신것 있으신가요?",
-   "url": "https://news.hada.io/topic?id=31727",
-   "summary": "아래 2개 확장 프로그램 개인적으로 만들어서 유용하게 쓰고 있는데, 긱뉴스 사용자 분들은 혹시 개인적으로 만드셔서 쓰고 계신 확장 프로그램이 있으신지 궁금합니다. 있으시면 확장, 깃허브 링크 올려주시면 좋을것 같습니다. LunaTools https://g",
-   "publishedAt": 1784790087000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.4,
    "hot": false
   }
  ]
