@@ -1287,5 +1287,24 @@
  "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents": {
   "ko": "OneCLI 공개: AI 에이전트에 비밀키를 노출하지 않는 오픈소스 인증 게이트웨이",
   "tldr": "AI 에이전트가 실제 자격증명을 직접 다루지 않고도 인증을 처리하게 해주는 오픈소스 게이트웨이 도구가 공개됐다."
+ },
+ "Claude Cookbook": {
+  "img": "https://platform.claude.com/cookbook/og/homepage.png",
+  "ko": "Claude 쿡북 — 클로드 활용 실전 예제·가이드 모음집",
+  "hook": "클로드 제대로 쓰는 법, 공식 예제집",
+  "tldr": "Anthropic이 Claude를 실전에서 활용하는 코드 예제와 가이드를 모아 공개한 공식 쿡북이다.",
+  "detail": "Anthropic이 Claude를 효과적으로 쓰기 위한 실전 코드 예제와 가이드를 모은 공식 쿡북이다. 프로그래매틱 도구 호출(PTC)로 지연 시간과 토큰 소비를 줄이고, 임베딩 기반 시맨틱 도구 검색으로 수천 개 도구까지 확장하며, 긴 에이전트 작업에서 대화 기록을 자동 압축하는 컨텍스트 관리 기법을 소개한다. 이미지 분석용 크롭 도구, 세련된 프런트엔드 디자인 프롬프트, Excel·PowerPoint·PDF를 다루는 Claude Skills 입문 등 활용 폭이 넓다. 또한 DeepSearchQA·BrowseComp 벤치마크 재현, Fable 5의 안전 분류기 차단 감지와 Opus 4.8 폴백, 비동기 멀티에이전트 오케스트레이션 같은 고급 주제도 담겼다. Claude Agent SDK 기반 에이전트를 Docker·Modal·Kubernetes로 배포하는 방법과, 코디네이터가 여러 전문 에이전트를 지휘하는 멀티에이전트 구성도 다룬다. 자체 결과를 검증하는 채점-수정 루프, 사용자 선호를 기억하는 메모리 저장소, 취약점 탐지 에이전트 등 실무형 예제가 폭넓게 포함되어 있다. 각 쿡북은 저자와 2026년 4~6월 등 작성 시점이 함께 표기돼 있다.",
+  "bullets": [
+   "프로그래매틱 도구 호출(PTC), 임베딩 기반 도구 검색, 자동 컨텍스트 압축 등 실전 에이전트 구축 기법을 코드 예제로 다룸.",
+   "Claude Agent SDK 기반 에이전트 배포·멀티에이전트 협업·자체 검증 루프·사용자 기억 저장 등 최신 주제를 포함함.",
+   "방송 전 체크: 취약점 탐지 에이전트 등 일부 쿡북은 2026년 4~6월 날짜로 표기되어 있어 최신 기능 반영 여부 확인 필요."
+  ]
+ },
+ "98.css - Windows 98 UI를 재현하는 CSS 라이브러리": {
+  "tldr": "JavaScript 없이 CSS만으로 웹 인터페이스를 Windows 98 스타일로 꾸며주는 디자인 시스템이다."
+ },
+ "AREX: Towards a Recursively Self-Improving Agent for Deep Research": {
+  "ko": "AREX: 딥 리서치를 위한 재귀적 자기개선 에이전트",
+  "tldr": "발견보다 검증이 쉽다는 비대칭성을 활용해 스스로 성능을 개선하는 딥 리서치 에이전트 AREX를 제안한다."
  }
 }
