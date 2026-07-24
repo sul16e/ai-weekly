@@ -1,799 +1,4 @@
 {
- "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase": {
-  "img": "https://opengraph.githubassets.com/24d44cc6b83090fcea5215c023f60c678318d2f110b98cf7d826881fe24c84a0/cosmtrek/mindwalk",
-  "ko": "AI 코딩 에이전트의 작업 과정, 코드베이스 3D 지도로 재생하는 도구 'Mindwalk' 공개",
-  "hook": "AI가 내 코드 훑는 과정, 3D로 본다",
-  "tldr": "AI 코딩 에이전트가 저장소의 어느 부분을 보고 읽고 고쳤는지를 코드베이스 3D 지도 위 빛의 움직임으로 재생해 보여주는 오픈소스 시각화 도구다.",
-  "detail": "AI 코딩 에이전트가 작업 중 저장소의 어느 부분을 어떻게 다뤘는지를 3D 지도로 재생해 보여주는 오픈소스 시각화 도구 'Mindwalk'다. 제작자는 세션 로그가 '무엇을 했는지'는 기록하지만 '어떻게 이해했는지'—즉 어디를 관련 있다고 봤고 어디를 먼저 탐색했는지—는 알려주지 않는다는 문제의식에서 출발했다. 해결책으로 저장소를 밤의 지도처럼 그리고, 세션을 그 위로 흐르는 빛으로 재생해 에이전트가 검색·읽기·편집한 곳만 빛나게 하고 나머지는 어둡게 둔다. 파일은 접촉 정도에 따라 seen(이끼색), read(달빛색), edited(따뜻한 색) 등의 상태로 표시되며, 트리(방사형)와 테라인(트리맵) 두 가지 뷰를 제공한다. Go 바이너리 하나가 Claude Code와 Codex의 세션 로그를 읽고 완전 로컬로 동작해 세션 데이터가 기기 밖으로 나가지 않는다. 설치 스크립트로 바로 실행하면 ~/.claude/projects와 ~/.codex/sessions를 스캔해 로컬 포트로 UI를 띄우며, 특정 세션 열기·저장소 지도 생성·트레이스 추출 같은 개별 명령도 지원한다. 다만 GitHub 스타 약 187개 수준의 초기 프로젝트로, 상세한 성능이나 대규모 저장소에서의 실사용성은 방송 전 확인이 필요해 보임.",
-  "bullets": [
-   "Claude Code와 Codex의 세션 로그를 읽어, 에이전트가 탐색·읽기·편집한 파일만 빛나고 나머지는 어둡게 처리해 '에이전트가 작업을 어떻게 이해했는지'를 한눈에 보여줌.",
-   "Go 바이너리 하나로 완전 로컬 실행이라 세션 데이터가 외부로 나가지 않는 점을 강조함.",
-   "방송 전 체크: GitHub 스타 약 187개·포크 8개 수준의 초기 단계 프로젝트로, 실제 사용성은 데모 영상 기준임."
-  ]
- },
- "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper": {
-  "img": "https://storage.googleapis.com/ployai/d21bf4ad-2458-43ee-9561-54c28ab0e85f/user/fcebce5c-colorful-hero-opus-vs-gpt.png",
-  "ko": "프로덕션 AI 에이전트를 GPT-5.6으로 이전하니 2.2배 빨라지고 27% 저렴",
-  "hook": "Opus를 4개월 만에 꺾은 GPT-5.6",
-  "tldr": "Ploy가 4개월간 Opus를 이기지 못하던 자사 에이전트를 GPT-5.6 Sol로 교체해 빌드 속도 2배·비용 27% 절감을 얻었다.",
-  "detail": "Ploy가 4개월간 Claude Opus를 넘지 못하던 자사 프로덕션 에이전트를 OpenAI의 GPT-5.6 Sol로 교체했다. 실제 마케팅 웹사이트를 계획·코딩·이미지 생성·스크린샷까지 수행하는 이 에이전트에서, GPT-5.6은 완료 작업 품질이 기존과 대등하거나 높으면서 벽시계 시간은 절반 이하, 비용은 27% 낮았다. 다만 첫 평가가 완벽했던 것은 아니며 실제 실패 모드도 있었다. Vercel AI SDK라는 공통 SDK를 써도, 도구 인자 채우기·프롬프트 캐시 동작·턴 간 추론 재생처럼 스택이 조용히 특화돼 있던 provider별 행동을 하나씩 발견해야 했다. 특히 초기 교차 모델 실행에서 실패의 약 3분의 1은 모델이 아니라 Opus의 순차 스타일에 맞춰진 도구 호출 예산·배치 읽기 미지원 같은 하네스 가정 탓이었다. 저자는 도전 모델을 평가할 때 통과율을 믿기 전에 트레이스를 먼저 triage하라고 권한다. 그렇지 않으면 새 모델을 옛 모델 흉내 정도로만 채점하게 된다는 것이다.",
-  "bullets": [
-   "웹사이트를 만드는 Ploy의 에이전트는 GPT-5.6 Sol이 Opus와 대등하거나 더 나은 품질에 절반 이하 시간, 27% 낮은 비용을 보여 기본 모델이 됐다.",
-   "SDK가 같아도 도구 인자 처리·프롬프트 캐시·추론 재생 방식이 provider마다 달라, 평가 하네스부터 도구 스키마·캐싱 순으로 손봐야 했다.",
-   "초기 실패의 약 3분의 1은 모델이 아니라 Opus에 맞춰진 하네스 가정 때문이어서, 통과율보다 트레이스를 먼저 확인하라고 조언한다."
-  ]
- },
- "AI boosts research careers but narrow the span of ideas explored: study": {
-  "img": "https://spectrum.ieee.org/media-library/image.jpg?id=62826557&width=1200&height=600&coordinates=0%2C1189%2C0%2C61",
-  "ko": "AI, 연구 경력엔 도움 되지만 탐구하는 아이디어 폭은 좁힌다: 연구",
-  "hook": "AI가 과학 발견을 '납작하게' 만든다",
-  "tldr": "새 분석에 따르면 AI 도구가 연구자의 경력과 생산 속도는 높이지만 탐구하는 아이디어의 범위는 좁혀 과학적 발견을 평탄하게 만든다.",
-  "detail": "IEEE Spectrum이 2026년 초 소개한 새 분석은 AI 도구가 과학 연구의 속도와 개인 경력에는 도움이 되지만 탐구되는 아이디어의 범위를 좁힌다고 결론짓는다. 원제(AI Boosts Research Careers but Flattens Scientific Discovery)가 보여주듯, 연구자 개인에게는 이득이 되는 도구가 분야 전체로는 발견의 다양성을 '평탄화'하는 상충을 지적한다. 다만 이 항목으로 수집된 기사 본문은 대부분 IEEE 회원 가입·접근 안내로 채워져 있어, 표본 규모·측정 방법·구체적 수치 같은 핵심 근거는 확인되지 않는다. 방송 전 체크: 원문 기사(Elie Dolgin, 2026년 1월)를 직접 확인해 어떤 데이터로 '아이디어 폭이 좁아졌다'를 측정했는지 보강할 필요가 있다. 확실한 것은 제목 수준의 방향성, 즉 AI가 연구 경력·속도에는 순기능을 하되 탐구 범위에는 역기능을 한다는 주장뿐이다.",
-  "bullets": [
-   "IEEE Spectrum이 소개한 분석은 AI가 연구 속도를 높이는 대신 탐구되는 아이디어의 폭을 좁힌다고 본다.",
-   "방송 전 체크: 기사 본문 대부분이 IEEE 접근 안내라 구체적 표본·수치·방법론은 원문 재확인이 필요함.",
-   "제목 기준으로는 개인 경력엔 이득이지만 분야 전체의 다양성엔 손해라는 상충이 핵심으로 보임."
-  ]
- },
- "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k": {
-  "img": "https://systima.ai/images/claude-code-vs-opencode-banner.png",
-  "ko": "Claude Code, 프롬프트 읽기도 전에 3.3만 토큰 전송…OpenCode는 7천",
-  "hook": "클로드 코드는 왜 7배 더 무거운가",
-  "tldr": "같은 모델·작업에서 Claude Code가 프롬프트 도착 전에 보내는 고정 오버헤드가 OpenCode의 약 4.7배로 측정됐다.",
-  "detail": "동일한 모델·머신·작업에서 API 경계를 측정하니 Claude Code는 프롬프트가 도착하기 전 고정 오버헤드로 OpenCode의 약 4.7배를 전송했다. Sonnet 4.5 기준 Claude Code는 약 3만3천 토큰, OpenCode는 약 7천 토큰이었고, Fable 5에서는 격차가 약 3.3배로 좁혀졌다. 차이의 상당 부분은 27개 대 10개인 도구 스키마 정의에서 비롯됐다. 또 Claude Code는 세션 중 프롬프트 캐시를 반복적으로 다시 쓰면서 같은 작업에서 최대 54배 많은 캐시 쓰기를 유발했다. 72KB 규모의 CLAUDE.md와 MCP 서버까지 더하면 첫 요청이 7만5천~8만5천 토큰에 이를 수 있다. 반면 다단계 작업에서는 Claude Code가 도구 호출을 병렬로 묶어 전체 토큰이 OpenCode보다 낮게 나온 경우도 있어, 시작 오버헤드만으로 총비용을 단정할 수는 없다. 측정은 하네스와 모델 사이에 로깅 프록시를 두고 실제 전송 페이로드와 과금 사용량을 기록하는 방식이었다.",
-  "bullets": [
-   "Sonnet 4.5 기준 첫 요청 고정 오버헤드가 Claude Code 약 3만3천 토큰, OpenCode 약 7천 토큰으로 측정됐다.",
-   "격차의 대부분은 도구 스키마에서 발생했고, Fable 5에서는 약 3.3배로 줄어 배수는 모델에 따라 달라졌다.",
-   "다만 다단계 작업 전체 비용은 Claude Code가 도구 호출을 병렬 배치해 오히려 더 낮게 나온 사례도 있었다."
-  ]
- },
- "Understanding the Odin programming language": {
-  "ko": "Odin 프로그래밍 언어 이해하기",
-  "tldr": "C의 대안을 지향하는 시스템 프로그래밍 언어 Odin의 설계와 특징을 소개하는 글이다."
- },
- "Ask HN: Add flag for AI-generated articles": {
-  "img": null,
-  "ko": "해커뉴스에 'AI 생성 글' 표시 기능을 붙이자는 제안",
-  "hook": "해커뉴스가 AI 글에 낙인 찍는 법",
-  "tldr": "해커뉴스 이용자가 AI 생성 글을 걸러내기 위한 '표시(태그)' 기능을 제안했고, 운영자는 태그 대신 '신고 사유 선택' 기능을 검토 중이라고 답했다.",
-  "detail": "해커뉴스 운영자는 AI 생성 글 전용 태그 대신 '신고 사유 선택' 기능 추가를 검토 중이라고 밝혔다. 149포인트를 받은 이 제안은 AI 생성 글을 순위에서 내리지 말고 단순 표시만 해서, 읽기 싫은 사람이 건너뛸 수 있게 하자는 내용이었다. 운영자 dang은 HN 댓글에는 이미 생성형 AI 텍스트를 금지하는 규칙이 있으나, 외부 기사 본문에 대한 규칙은 아직 없다고 설명했다. 다만 커뮤니티 다수가 AI 글을 읽고 싶어 하지 않거나 가치를 크게 깎아 본다고 진단하며, 'LLM 같은 문체'에 대한 독자들의 거부 반응이 커지고 있다고 언급했다. 그는 태그 기능 도입에는 오랫동안 반대해왔지만 완전히 배제하지는 않는다면서, 대신 신고 시 사유(스팸·주제 이탈·악의적 등)를 선택하게 하고 그중 하나로 'AI 생성'을 넣는 방식을 마침내 추가할 생각이라고 답했다. 그는 AI 기술 자체를 부정하는 것은 아니며 HN도 이를 많이 활용한다고 덧붙이면서, 문제는 남에게 공개하는 글을 AI로 생성·편집하는 것이 옳은가에 있다고 정리했다.",
-  "bullets": [
-   "제안자는 글을 순위에서 내리지 말고, AI 생성 글임을 표시만 해줘서 읽고 싶지 않은 사람이 건너뛸 수 있게 하자고 요청했다.",
-   "운영자(dang)는 HN 댓글에는 이미 AI 생성 텍스트 금지 규칙이 있지만 외부 기사 본문에는 아직 규칙이 없다고 밝혔다.",
-   "운영자는 태그 도입에는 계속 반대해왔고, 대신 '신고 사유' 선택 단계를 추가하며 그중 하나로 'AI 생성'을 넣는 방안을 검토 중이라고 말했다."
-  ]
- },
- "Why Vanilla JavaScript": {
-  "ko": "왜 순수 자바스크립트인가",
-  "tldr": "프레임워크 대신 순수 자바스크립트(바닐라 JS)를 쓰는 이유를 다룬 글로 보임 (본문 요약 없음, 제목만 확인됨)."
- },
- "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor": {
-  "img": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=1200&h=600&fit=crop&q=80",
-  "ko": "애플의 새 SpeechAnalyzer API, Whisper·구형 API와 벤치마크 비교",
-  "hook": "애플 새 음성인식, Whisper를 눌렀다",
-  "tldr": "애플의 새 온디바이스 음성 엔진 SpeechAnalyzer가 벤치마크한 모든 Whisper 모델과 구형 API를 정확도에서 앞섬.",
-  "detail": "애플의 새 온디바이스 음성 엔진 SpeechAnalyzer가 벤치마크한 모든 엔진 중 가장 정확했음. M2 Pro에서 온디바이스로 LibriSpeech 5,559개 발화를 처리한 결과 깨끗한 음성 WER 2.12%, 잡음 음성 4.56%로, 자체 탑재 Whisper Small(3.74%/7.95%)까지 앞섰고 속도는 약 3배 빨랐음. 반면 구형 SFSpeechRecognizer는 9.02%/16.25%로 40MB짜리 Whisper Tiny보다도 뒤처져 깨끗한 음성에서 꼴찌였음. 애플이 정확도 수치를 공개하지 않아 개발자들이 마이그레이션을 고민하던 차에 Inscribe 팀이 동일 프로덕션 코드 경로로 5개 엔진을 비교함. 결론은 SFSpeechRecognizer에서 옮길 이유가 명확하다는 것으로, 새 API는 문장부호·대소문자까지 붙은 결과를 냄. 다만 Whisper는 약 30개 언어 지원과 애플 외 플랫폼 구동이라는 강점을 유지하며, 영어 한정으로는 애플 내장 엔진이 이제 가장 강력한 온디바이스 선택이라는 평가.",
-  "bullets": [
-   "LibriSpeech 5,559개 발화에서 깨끗한 음성 WER 2.12%, 잡음 음성 4.56%로 Whisper Small(3.74%/7.95%)보다 정확하고 약 3배 빠름.",
-   "구형 SFSpeechRecognizer는 9.02%/16.25%로 40MB짜리 Whisper Tiny보다도 뒤처져 깨끗한 음성에서 꼴찌였음.",
-   "Whisper는 약 30개 언어 지원과 애플 외 플랫폼 구동이 강점이지만, 영어 한정으로는 애플 내장 엔진이 최강이라는 평가."
-  ]
- },
- "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke": {
-  "img": null,
-  "ko": "Zig 창시자의 직격탄, Anthropic은 허풍만 떤다",
-  "hook": "Zig 창시자, Anthropic을 저격하다",
-  "tldr": "Bun의 Zig→Rust 전환을 Anthropic이 'AI가 소프트웨어 엔지니어링을 대체한다'는 홍보 서사에 이용한다는 비판이다.",
-  "detail": "Bun의 Zig→Rust 전환을 두고 Anthropic이 'AI가 소프트웨어 엔지니어링을 대체한다'는 홍보에 이 사례를 이용한다는 비판이다. Bun은 메모리 버그를 전환 이유로 들었지만 대안 비교나 Rust의 느린 컴파일 같은 비용을 공개하지 않아 사후 정당화로 보일 수 있다는 지적이 있음. Zig 창시자 Andrew Kelley는 Bun의 기술·조직 운영을 이례적으로 직설적으로 반박했고, 일부는 이를 과한 반응으로 봄. 필자는 코딩 에이전트를 도입하는 것과 소프트웨어 엔지니어링 자체를 폐기하는 것은 다른 선택이라고 주장함. Anthropic이 1,320억 달러를 유치하고도 수익성을 입증하지 못한 상황에서 미래 서사를 팔아야 하는 '신뢰할 수 없는 화자'라는 점도 근거로 제시됨. 방송 전 체크: Bun의 AI 기여 비중과 전환 세부 경위는 원문 확인 필요.",
-  "bullets": [
-   "Bun은 메모리 버그를 전환 이유로 들었지만 대안 비교나 Rust의 느린 컴파일 같은 비용을 공개하지 않아 사후 정당화로 비칠 수 있다는 지적임.",
-   "Zig 창시자 Andrew Kelley가 Bun의 기술·조직 운영을 이례적으로 직설적으로 반박했고, 일부는 이를 과한 반응으로 봄.",
-   "방송 전 체크: Bun의 AI 기여 비중과 전환 세부 경위는 원문 확인 필요."
-  ]
- },
- "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting": {
-  "img": "https://opengraph.githubassets.com/30ef10f931c9b8ab64dd6c9d9954c66eb3ef929cea0dd80b8dcd413271f1d442/thephw/claude-meseeks",
-  "ko": "Claude가 기다릴 때 미스터 미식스 음성을 재생하는 Claude Code 플러그인",
-  "hook": "Claude가 기다릴 때 미식스가 외친다",
-  "tldr": "Claude Code가 사용자 입력을 기다릴 때 미스터 미식스 음성 클립을 재생해주는 플러그인.",
-  "detail": "Claude Code가 사용자 입력을 기다릴 때 미스터 미식스 음성 클립을 재생하는 플러그인임. 작업을 끝내고 다음 프롬프트를 기다리면 '완료' 계열 클립을, 승인이 필요하면 '요청' 계열 클립을 Notification 이벤트 유형에 따라 재생함. 자동 수락·바이패스 실행, 백그라운드·서브에이전트 활동 등 자율 작업 중에는 소리를 내지 않도록 필터링됨. 클립은 카테고리 안에서 무작위로 뽑히며 재생은 분리·비차단 방식이라 긴 대사가 프롬프트를 멈추지 않음. 재생은 오디오가 내장된 Go 프로그램 meeseeks가 담당하며, macOS는 afplay로 별도 설치가 필요 없음. 저장소 자체가 플러그인이자 마켓플레이스로 /plugin install로 설치함.",
-  "bullets": [
-   "작업을 끝내고 다음 프롬프트를 기다리면 '완료' 클립을, 승인이 필요하면 '요청' 클립을 재생함.",
-   "자동 수락·백그라운드·서브에이전트 등 자율 작업 중에는 소리를 내지 않도록 필터링됨.",
-   "Go로 작성된 meeseeks CLI에 오디오가 내장돼 있고 macOS는 afplay로 별도 설치가 필요 없음."
-  ]
- },
- "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop": {
-  "img": "https://opengraph.githubassets.com/8a152b78212c526080ca4f19b975d563fe7322887fb06b35b46047d8d3f2b11e/clawkwork/clawk",
-  "ko": "Show HN: Clawk – 코딩 에이전트에게 노트북 대신 일회용 리눅스 VM을 주자",
-  "hook": "코딩 AI, 일회용 VM에 가둬라",
-  "tldr": "코딩 에이전트를 사용자 기기 대신 네트워크가 제한된 일회용 리눅스 VM에서 실행하게 해주는 도구.",
-  "detail": "Clawk는 코딩 에이전트에게 사용자 기기 대신 일회용 리눅스 VM을 내주는 도구다. 저장소에서 clawk를 입력하면 Claude Code나 Codex, 셸이 코드만 마운트된 일회용 VM 안에서 루트 권한으로, 권한 프롬프트 없이 동작함. 사용자의 파일·키체인·SSH 키 등 나머지 기기 자원은 VM에 들어가지 않아 격리됨. 네트워크는 허용 목록 방식이라 tracker.evil.example 같은 미등록 서버 접속은 차단되지만, ssh-agent는 전달돼 git push는 동작함. 경계가 프롬프트 규칙이 아니라 별도 머신이라 에이전트를 설득해 우회할 수 없다는 점이 강조됨. 다만 허용 목록은 미지의 서버만 막고 github.com처럼 이미 허용된 서버로의 전송은 막지 못한다고 솔직히 한계를 인정함. clawk attach로 세션을 나중에 재개할 수 있음.",
-  "bullets": [
-   "저장소에서 clawk를 실행하면 Claude Code 등이 코드만 마운트된 일회용 VM 안에서 권한 프롬프트 없이 동작함.",
-   "SSH 키·키체인 등 나머지 기기 자원은 VM에 들어가지 않고, 네트워크 허용 목록으로 미지의 서버 접속을 차단함.",
-   "다만 허용 목록은 이미 승인된 서버(github.com 등)로의 전송은 막지 못한다고 스스로 한계를 밝힘."
-  ]
- },
- "Grok uploaded my user directory to xAI's servers": {
-  "img": "https://pbs.twimg.com/media/HNGOF9QXwAAU_jp.png:large",
-  "ko": "Grok이 내 사용자 디렉터리 전체를 xAI 서버에 업로드했다",
-  "hook": "Grok이 내 홈 폴더를 통째로 빼갔다?",
-  "tldr": "홈 디렉터리에서 Grok을 실행한 사용자가 SSH 키·비밀번호 DB 등 사용자 디렉터리 전체가 xAI 서버로 업로드됐다고 주장함.",
-  "detail": "홈 디렉터리에서 Grok을 실행한 사용자가 SSH 키, 비밀번호 관리자 DB, 문서·사진·동영상이 담긴 사용자 디렉터리 전체가 xAI 서버로 업로드됐다고 주장함. cat ~/.grok/logs/unified.json | grep repo_state.upload 명령으로 저장소 상태 업로드 기록을 확인할 수 있다고 안내됨. 브라우저 쿠키·방문 기록·암호화폐 지갑까지 전송됐을 가능성이 제기됐으나 실제 업로드 여부는 확인되지 않음. AI 에이전트가 문맥 확보를 위해 지정 폴더를 광범위하게 읽는 특성 탓에 홈 디렉터리에서 실행한 것이 피해를 키웠다는 해석임. 방어책으로 샌드박스·VM·컨테이너 실행과 접근 경로 제한이 거론됨. 방송 전 체크: 이는 단일 사용자의 주장이며 GDPR 위반·업로드 데이터의 학습 사용 여부는 확인된 사실이 아님.",
-  "bullets": [
-   "cat ~/.grok/logs/unified.json | grep repo_state.upload 명령으로 저장소 상태 업로드 기록을 확인할 수 있다고 안내됨.",
-   "브라우저 쿠키·방문 기록·암호화폐 지갑까지 전송됐을 가능성이 제기됐으나 실제 여부는 확인되지 않음.",
-   "방송 전 체크: 단일 사용자 주장이며 xAI의 공식 입장·학습 사용 여부는 아직 확인되지 않음."
-  ]
- },
- "Grok CLI uploaded the whole home directory to GCS": {
-  "img": "https://pbs.twimg.com/media/HNGOF9QXwAAU_jp.png:large",
-  "ko": "Grok CLI가 홈 디렉터리 전체를 GCS에 업로드함",
-  "hook": "Grok CLI가 홈 폴더 전체를 올렸다?",
-  "tldr": "Grok CLI를 홈 디렉터리에서 실행한 사용자가 홈 디렉터리 전체가 클라우드 스토리지에 업로드됐다고 주장한 사건임.",
-  "detail": "Grok CLI를 홈 디렉터리에서 실행한 사용자가 홈 디렉터리 전체가 클라우드 스토리지(GCS로 표현됨)에 업로드됐다고 주장한 사건임. SSH 키, 비밀번호 관리자 DB, 문서·사진·동영상 등이 포함됐다고 열거함. cat ~/.grok/logs/unified.json | grep repo_state.upload 명령으로 저장소 상태 업로드 기록을 확인할 수 있다고 안내됨. AI 에이전트가 문맥을 얻으려 지정 폴더를 광범위하게 읽는 특성 탓에 홈 디렉터리 실행이 피해를 키웠다는 해석이며, 방어책으로 샌드박스·컨테이너 실행이 거론됨. 이는 'xAI 서버 업로드' 주장과 동일한 사건이 다른 제목으로 보고된 것으로 보임. 방송 전 체크: 단일 사용자 주장이며 실제 업로드 목적지와 학습 사용 여부는 확인된 사실이 아님.",
-  "bullets": [
-   "앞서 보고된 'xAI 서버 업로드' 주장과 같은 사건으로, 업로드 목적지가 GCS로 표현된 버전임.",
-   "cat ~/.grok/logs/unified.json | grep repo_state.upload 명령으로 업로드 기록을 확인할 수 있다고 안내됨.",
-   "방송 전 체크: 단일 사용자 주장이며 실제 목적지·데이터 처리 방식은 확인 필요."
-  ]
- },
- "Building and shipping Mac and iOS apps without opening Xcode": {
-  "img": null,
-  "ko": "Xcode 안 열고 맥·iOS 앱 빌드하고 배포하기",
-  "hook": "Xcode 안 열고 iOS 앱 만들기",
-  "tldr": "Xcode.app은 설치하되 한 번도 열지 않고 맥·iOS 앱을 헤드리스로 빌드·배포하는 워크플로 소개.",
-  "detail": "Xcode.app은 설치하되 한 번도 열지 않고 맥·iOS 앱을 빌드·배포할 수 있다는 워크플로 소개임. xcodebuild·notarytool·stapler·devicectl 등 필요한 도구가 모두 Xcode 안에 있어 셸에서 돌아감. Apple ID 로그인, Developer ID 인증서 생성, 공증 비밀번호 저장 등 일부 일회성 설정만 GUI가 필요하고 이후 빌드·배포는 완전 헤드리스로 처리됨. 맥 앱은 아카이브→Developer ID 서명→공증→스테이플→/Applications 설치를 한 번에 도는 scripts/release.sh 하나로 출시함. 서명 키는 로그인 키체인에 두어 저장소에 비밀이 남지 않음. .xcodeproj 관리 문제는 XcodeGen이 project.yml로 매 빌드마다 재생성해 해결함. 필자는 막히면 이 글을 Claude Code 등 LLM 도구에 넘겨 처리하게 하라고 권함.",
-  "bullets": [
-   "xcodebuild·notarytool·stapler·devicectl가 모두 Xcode 안에 있어 셸에서 실행 가능함.",
-   "Apple ID 로그인·인증서 생성·공증 비밀번호 저장 등 일부 일회성 설정만 GUI가 필요하고 이후는 완전 헤드리스임.",
-   "맥 앱은 아카이브→서명→공증→스테이플→설치를 한 번에 처리하는 release.sh 하나로 출시함."
-  ]
- },
- "Samsung Health app threatens data deletion if users opt out AI training": {
-  "img": "https://cdn.neowin.com/news/images/uploaded/2026/07/1783952968_samsung-health_story.webp",
-  "ko": "삼성 헬스, AI 학습 동의 거부하면 건강 데이터 삭제 경고",
-  "hook": "삼성, AI 학습 거부하면 건강데이터 삭제",
-  "tldr": "삼성이 건강 데이터를 AI 학습에 쓰는 데 동의하지 않으면 데이터를 삭제할 수 있다고 삼성 헬스 이용자에게 통지하기 시작함.",
-  "detail": "삼성이 삼성 헬스 앱에서 개인 건강 데이터를 AI 학습에 사용하는 데 동의하지 않으면 데이터를 삭제할 수 있다고 통지하기 시작함. 설정 깊숙한 곳에 'AI 학습·모델링을 위한 건강 데이터 사용 동의' 토글이 추가됐고, 정보를 백업하려면 동의를 요구함. 동의를 철회하면 삼성 계정과의 건강 데이터 동기화가 중단되고 법적 보관 의무가 없는 한 데이터가 삭제된다는 경고가 뜸. 수집 대상은 수면·복약·의료 기록·생리 주기 네 범주이며, 삼성 직원이나 외부 계약자 등 사람이 일부 데이터를 검토할 수 있다고 함. 이는 갤럭시 워치9·One UI 9 Watch 출시를 앞둔 생성형 AI 대개편(수면 중 생체신호로 이상을 알리는 Vitals, 심장 건강 점수 등)과 함께 이뤄짐. Neowin이 보도했으며 이용자 반발이 예상됨.",
-  "bullets": [
-   "설정 깊숙이 'AI 학습·모델링용 건강 데이터 사용 동의' 토글이 추가됐고, 백업을 원하면 동의를 요구함.",
-   "동의를 철회하면 계정과 동기화가 중단되고 법적 보관 의무가 없는 한 데이터가 삭제된다는 경고가 표시됨.",
-   "수집 대상은 수면·복약·의료 기록·생리 주기 네 범주이며, 일부 데이터는 사람이 검토할 수 있다고 함."
-  ]
- },
- "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?": {
-  "ko": "세가 32X에서 리눅스 구동하기, 하드웨어 동기화 프리미티브 없이도 되네",
-  "tldr": "하드웨어 동기화 프리미티브가 없는 세가 32X에서 리눅스를 구동한 실험을 다룬 글로 보임(세부 내용은 원문 확인 필요)."
- },
- "This is why we need local models and opensource harnesses": {
-  "ko": "우리에게 로컬 모델과 오픈소스 하네스가 필요한 이유",
-  "tldr": "로컬 모델과 오픈소스 하네스의 필요성을 보여주는 사례로 보임(본문 세부 내용은 확인 필요)."
- },
- "Apple M7 Ultra Chip Planned With Up to 1.5 TB of Unified Memory": {
-  "ko": "애플 M7 울트라 칩, 최대 1.5TB 통합 메모리 탑재 계획",
-  "tldr": "애플이 최대 1.5TB 통합 메모리를 지원하는 M7 울트라 칩을 계획 중이라는 소식(세부는 확인 필요)."
- },
- "YouTrackDB is a general-use object-oriented graph database": {
-  "img": "https://opengraph.githubassets.com/33d60cffe352c7c9a897e91ebb42874c6abe8ee5fb10a05a0306fc53cd92bae2/JetBrains/youtrackdb",
-  "ko": "JetBrains가 공개한 범용 객체지향 그래프 데이터베이스 'YouTrackDB'",
-  "hook": "JetBrains가 직접 쓰는 그래프 DB",
-  "tldr": "JetBrains가 자체 개발·운영 중인 오픈소스 객체지향 그래프 데이터베이스 YouTrackDB가 공개됐다.",
-  "detail": "JetBrains가 개발·운영하는 범용 객체지향 그래프 데이터베이스 YouTrackDB가 오픈소스로 공개됐다. 링크 순회를 O(1) 복잡도로 처리해 비용이 큰 런타임 JOIN 없이 빠르게 데이터를 다루는 것이 핵심 특징이다. 상속·다형성 같은 객체지향 개념을 데이터베이스 수준에서 구현한 객체지향 API를 제공한다. 모든 트랜잭션은 기본적으로 스냅샷 격리로 실행돼 더티 리드, 반복 불가능한 읽기, 팬텀 리드를 방지한다. Apache TinkerPop API와 Gremlin 쿼리 언어를 구현해 그래프 질의를 지원하며 ACID 트랜잭션도 보장한다. JetBrains는 이 데이터베이스를 내부 프로덕션에서 실제로 사용하고 있다고 밝혔다. GitHub 기준 별 244개를 기록 중이다.",
-  "bullets": [
-   "링크 순회를 O(1) 복잡도로 처리해 비용이 큰 런타임 JOIN 없이 빠른 데이터 처리를 강조함.",
-   "Gremlin 쿼리 언어와 TinkerPop API, ACID 트랜잭션, 기본 스냅샷 격리를 지원함.",
-   "JetBrains가 내부 프로덕션에서 실제로 사용 중이라고 밝힘."
-  ]
- },
- "European \"age verification\" \"app\" forcing everyone to use Android or iOS": {
-  "img": "https://opengraph.githubassets.com/c03bd3c9e4b46d8141430b6d528d426200a42ea07ec9f4366abda1afc7b54de3/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-  "ko": "유럽 '연령 확인' 앱, 모두에게 안드로이드·iOS 강제 논란",
-  "hook": "구글·애플 없으면 못 쓰는 EU 신분앱",
-  "tldr": "EU 디지털 신분지갑의 연령 확인 앱이 구글·애플의 무결성 검증에 의존하려 해 미국 빅테크 종속과 오픈소스 배제 우려가 제기됐다.",
-  "detail": "EU 디지털 신분지갑의 연령 확인 앱이 구글과 애플의 앱 무결성 검증(Play Integrity·App Attestation)을 도입하려 하자, 미국 빅테크 종속 우려로 강한 반발이 일고 있다. 깃허브 기술 명세 저장소의 토론에서 한 사용자(TheLastProject)는 연령 확인을 위해 미국 기술 대기업에 의존하는 것이 EU의 미국 인터넷 종속을 심화시킨다며 계획 철회를 촉구했다. 그는 특히 현재의 정치 상황에서 이런 의존이 위험하다고 지적했다. 또한 네덜란드의 신분 앱 'Yivi'처럼 이런 의존 없이도 정부가 연령 확인에 쓸 수 있는 앱이 이미 존재한다는 점을 근거로 들었다. Yivi는 F-Droid 같은 오픈소스 앱스토어에서도 배포되고 있어 Play Integrity 통합이 불필요하다는 주장이다. 해당 게시물은 3,000개가 넘는 '좋아요'를 받는 등 커뮤니티의 큰 공감을 얻었다. 이 방식이 강제될 경우 안드로이드·iOS 정식 기기가 없는 사용자는 사실상 배제될 수 있다는 우려가 핵심이다.",
-  "bullets": [
-   "EU 디지털 신분지갑 앱이 구글 Play Integrity·애플 App Attestation 도입을 검토하자 미국 빅테크 종속 우려가 제기됐다.",
-   "반대 측은 네덜란드 'Yivi'처럼 이런 의존 없이도 연령 확인이 가능한 오픈소스 앱이 이미 있다는 점을 근거로 든다.",
-   "해당 깃허브 토론 글은 3,000개 넘는 좋아요를 받으며 큰 공감을 얻었다."
-  ]
- },
- "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU": {
-  "ko": "이디엄에 충실한 Rust로 재작성한 리눅스 0.11, QEMU서 부팅 성공",
-  "tldr": "초기 리눅스 커널 0.11을 관용적인 Rust로 재작성해 QEMU에서 부팅에 성공시킨 프로젝트다."
- },
- "How sales teams use ChatGPT Work": {
-  "img": null,
-  "ko": "영업 팀은 'ChatGPT Work'를 어떻게 쓰는가",
-  "hook": "영업 실무를 바꾸는 챗GPT 활용법",
-  "tldr": "영업 팀이 실무 자료로 파이프라인 브리프·미팅 준비·예측 검토 등을 ChatGPT Work로 만드는 활용법을 소개하는 글이다.",
-  "detail": "OpenAI가 영업 팀을 위한 ChatGPT Work 활용 사례를 정리해 소개한 글이다. 영업 팀이 실제 업무 자료를 입력하면 파이프라인 브리프, 미팅 준비 패킷(meeting prep packet), 예측 검토(forecast review), 어카운트 플랜, 정체된 거래 진단(stalled-deal diagnosis)을 만들 수 있다는 내용이다. 앞서 소개된 데이터 사이언스 팀 사례와 마찬가지로 '실제 업무 입력'을 근거로 결과물을 생성한다는 점을 강조한다. 이번 글은 요약 수준의 소개라 구체적 기능 방식이나 성능 수치는 담겨 있지 않다. 방송 전 체크: 세부 기능과 실제 효과는 원문 확인이 필요함.",
-  "bullets": [
-   "OpenAI가 영업 팀의 ChatGPT Work 활용 사례로 파이프라인 브리프, 미팅 준비 패킷, 예측 검토, 어카운트 플랜, 정체된 거래 진단을 제시했다.",
-   "실제 업무 입력을 기반으로 결과물을 생성하는 방식이라는 점을 강조한다.",
-   "방송 전 체크: 요약 소개 수준이라 세부 기능·수치는 원문 확인이 필요함."
-  ]
- },
- "How data science teams use ChatGPT Work": {
-  "img": null,
-  "ko": "데이터 사이언스 팀은 'ChatGPT Work'를 어떻게 쓰는가",
-  "hook": "데이터 분석가를 위한 챗GPT 활용법",
-  "tldr": "데이터 사이언스 팀이 실무 자료를 바탕으로 원인 분석·영향 보고·KPI 메모 등을 ChatGPT Work로 만드는 활용법을 소개하는 글이다.",
-  "detail": "OpenAI가 데이터 사이언스 팀을 위한 ChatGPT Work 활용 사례를 정리해 소개한 글이다. 팀이 실제 업무 자료를 입력하면 근본 원인 브리프(root-cause brief), 영향 분석 리포트(impact readout), KPI 메모, 범위가 정해진 분석(scoped analyses), 대시보드 명세(dashboard specs)를 만들 수 있다는 내용이다. 핵심은 가공된 예시가 아니라 '실제 업무 입력'을 근거로 결과물을 생성한다는 점이다. 다만 이번 소개는 요약 수준이라 구체적인 기능 구현 방식, 성능 수치, 이용 조건 등은 드러나 있지 않다. 방송 전 체크: 세부 기능과 실제 활용 효과는 원문 확인이 필요함.",
-  "bullets": [
-   "OpenAI가 데이터 사이언스 팀의 ChatGPT Work 활용 사례로 근본 원인 브리프, 영향 분석 리포트, KPI 메모, 범위가 정해진 분석, 대시보드 명세 작성을 제시했다.",
-   "실제 업무 입력(real work inputs)을 기반으로 결과물을 생성하는 방식이라는 점을 강조한다.",
-   "방송 전 체크: 이번 자료는 요약 소개 수준이라 구체적 성능·수치나 사용 조건은 원문 확인이 필요함."
-  ]
- },
- "How to stop Claude from saying load-bearing": {
-  "img": "https://jola.dev/images/og/posts/how-to-stop-claude-from-saying-load-bearing.png",
-  "ko": "Claude가 'load-bearing'이란 말을 그만하게 하는 법",
-  "hook": "Claude 말투가 거슬린다면 이렇게",
-  "tldr": "Claude Code가 반복하는 특유 표현에 지친 사용자가 MessageDisplay 훅으로 그 표현을 원하는 단어로 치환하는 패러디성 방법.",
-  "detail": "결론적으로 이 글은 Claude Code의 특유한 반복 표현에 지친 사용자가 MessageDisplay 훅으로 그 표현을 원하는 단어로 치환하는 방법을 소개한 패러디성 글이다. 저자 Johanna Larsson은 Claude가 모든 것을 'honest take'나 'load-bearing seam'으로 부르는 데 대한 짜증을, 우스꽝스럽게 바꿔 웃음으로 넘기거나 아예 어휘를 교정하는 두 방향으로 풀 수 있다고 말한다. 방법은 Python 스크립트로 표시 직전 텍스트의 특정 문구를 치환한 뒤 JSON으로 돌려주는 것이다. 예시에서는 'seam'을 'whatchamacallit', 'load-bearing'을 'cooked' 등으로 바꾼다. 스크립트를 ~/.claude/hooks/wordswap.sh에 실행 권한과 함께 저장하고 settings.json의 hooks 블록에 등록하면 된다. 훅은 시작 시 로드되므로 새 세션을 열어야 적용되며, 저자는 더 생산적인 치환도 얼마든지 만들 수 있다고 덧붙인다.",
-  "bullets": [
-   "Claude가 'honest take', 'load-bearing seam' 같은 표현을 남발하는 데 지친 사용자를 위한 패러디성 해법임.",
-   "표시 직전 텍스트의 특정 문구를 치환하는 Python 스크립트를 MessageDisplay 훅으로 등록하면 됨.",
-   "예시는 'load-bearing'을 'cooked'로 바꾸는 식이며, 치환 목록은 더 유용하거나 재미있게 자유롭게 바꿀 수 있음."
-  ]
- },
- "Are we offloading too much of our thinking to AI?": {
-  "img": "https://substackcdn.com/image/fetch/$s_!NTK9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb548edd-f827-4d19-aa23-3bd68fdc980c_1456x1092.webp",
-  "ko": "우리는 너무 많은 사고를 AI에 떠넘기고 있는가",
-  "hook": "AI에 생각을 맡기면 벌어지는 일",
-  "tldr": "AI에 사소한 결정부터 복잡한 사고까지 위임하면서 인간의 자율성과 스스로 생각하는 능력이 위협받고 있다는 에세이.",
-  "detail": "결론적으로 이 글은 AI에 사고를 위임하는 편리함이 인간의 자율성을 잠식할 수 있다고 경고한다. 저자 Yennie Jun은 자신과 주변에서 아침 메뉴 선택부터 복잡한 추론까지 점점 AI에 맡기는 경향을 관찰했다고 말한다. 그는 켄 리우의 2012년 단편 '완벽한 매치'에 나오는 AI 비서 Tilly를 인용해, 사용자가 무엇을 먹을지·누구와 데이트할지까지 알고리즘에 의존하는 모습을 현재와 겹쳐 본다. 샌프란시스코 스타트업 행사에서 만난 한 인물은 모든 대화를 녹음·요약하며 'Claude Fable이 나보다 비판적 사고를 잘해서 생각을 다 맡긴다'고 말했다고 소개한다. 저자는 검색조차 질문 분해와 출처 평가를 요구했지만 AI는 그 중간 과정까지 대신해 시간과 사고를 함께 절약해준다고 짚는다. 그러면서 핵심 질문은 '내 삶에서 정말 중요한 결정을 누가 내리고 있는가'라고 던진다. METR의 작업 완료 시간 지평 연구를 근거로 딥리서치 도구가 사람의 수 시간·수일 작업을 대신할 수 있게 됐다고 언급한다.",
-  "bullets": [
-   "저자는 자신과 주변 사람들이 아침 메뉴 같은 사소한 결정부터 복잡한 사고까지 점점 AI에 의존하는 경향을 관찰했다고 밝힘.",
-   "켄 리우의 2012년 단편 '완벽한 매치'의 AI 비서 Tilly를 예로 들어, 알고리즘이 나보다 나를 더 잘 안다고 믿게 되는 위험을 지적함.",
-   "검색은 질문을 쪼개고 출처를 평가하는 과정을 요구했지만 AI는 그 중간 단계까지 대신해 시간과 사고를 동시에 절약해준다고 봄."
-  ]
- },
- "How to manage AI investments in the agentic era": {
-  "img": null,
-  "ko": "에이전트 시대의 AI 투자 관리법",
-  "hook": "AI 투자, 달러당 성과로 따져라",
-  "tldr": "에이전트 시대 기업이 '달러당 유용한 작업량'을 측정하고 효율을 높여 고가치 워크플로를 확장하는 AI 투자 관리법.",
-  "detail": "결론적으로 이 글은 에이전트 시대에 기업이 '달러당 유용한 작업량'을 기준으로 AI 투자를 관리해야 한다고 제안한다. 요약에 따르면 효율을 개선하고 고가치 워크플로를 확장하는 것이 핵심이다. 즉 총지출이 아니라 지출 대비 실제로 만들어내는 성과에 초점을 맞추라는 것으로 보인다. 다만 본문 없이 요약만 제공돼 구체적인 측정 지표나 사례는 확인되지 않는다. 방송 전 체크: OpenAI 블로그 원문에서 제시하는 구체적 프레임워크와 수치를 확인할 필요가 있다.",
-  "bullets": [
-   "OpenAI 블로그는 기업이 '달러당 유용한 작업량'을 기준으로 AI 투자 성과를 측정할 것을 제안함.",
-   "효율 개선과 고가치 워크플로 확장을 통해 투자 대비 성과를 높이는 접근을 다룸.",
-   "방송 전 체크: 요약만 제공돼 구체적 지표·사례는 원문 확인 필요."
-  ]
- },
- "Financing the AI boom: from cash flows to debt [pdf]": {
-  "img": null,
-  "ko": "AI 붐의 자금 조달: 현금흐름에서 부채로",
-  "hook": "AI 투자, 이제 빚으로 굴린다?",
-  "tldr": "AI 붐의 자금 조달이 자체 현금흐름에서 부채 기반으로 옮겨가는 흐름을 다룬 PDF 자료로 보임(본문 미확인).",
-  "detail": "결론적으로 이 자료는 AI 붐의 자금 조달 방식이 자체 현금흐름 기반에서 부채 기반으로 옮겨가는 흐름을 다룬 PDF로 보인다. 제목만 보면 AI 인프라 투자가 커지면서 기업들이 보유 현금만으로 감당하지 못해 차입에 의존하게 되는 현상을 분석하는 것으로 추정된다. 방송 전 체크: 본문과 요약이 제공되지 않아 구체적 수치·대상 기업·발행 주체·결론은 원문 PDF 확인이 반드시 필요하다.",
-  "bullets": [
-   "제목상 AI 붐의 자금원이 자체 현금흐름에서 부채 조달로 이동하는 흐름을 분석한 PDF 자료로 보임.",
-   "AI 인프라 투자 규모가 커지며 기업이 차입에 의존하게 되는 현상을 다루는 것으로 추정됨.",
-   "방송 전 체크: 본문·요약이 없어 구체적 수치·대상·주장은 원문 PDF 확인 필요."
-  ]
- },
- "Codex starts encrypting sub-agent prompts": {
-  "img": "https://opengraph.githubassets.com/9edd570d987d729eee36db727c7031b4d4f0c0255fa5bd100779a6ac0c31e72d/openai/codex/issues/28058",
-  "ko": "Codex, 서브에이전트 프롬프트 암호화 시작",
-  "hook": "Codex가 숨기기 시작한 것",
-  "tldr": "Codex CLI가 MultiAgentV2 메시지를 암호화하면서 위임 작업 내용을 사람이 읽을 수 없게 돼 감사 추적이 사라졌다는 회귀 이슈.",
-  "detail": "결론적으로 이 글은 openai/codex 저장소의 이슈 #28058로, 암호화된 MultiAgentV2 메시지가 사람이 읽을 수 있는 작업 감사 추적을 제거했다는 회귀를 보고한다. 제목에 따르면 Codex가 서브에이전트에 위임하는 프롬프트를 암호화하기 시작했다. 그 결과 부모 세션이나 이력에서 어떤 작업을 위임했는지 사람이 확인하기 어려워진 것으로 보인다. 함께 다뤄진 한국어 GeekNews 기사에 따르면 이 변화는 2026년 6월 5일 병합된 PR #26210 이후 발생한 것으로 보인다. 방송 전 체크: 이슈 본문이 잘려 있어 암호화 도입의 정확한 영향 범위와 OpenAI의 대응은 원문 확인이 필요하다.",
-  "bullets": [
-   "openai/codex 이슈 #28058은 암호화된 MultiAgentV2 메시지가 읽을 수 있는 작업 감사 추적을 제거했다고 지적함.",
-   "서브에이전트에 위임한 내용을 부모 세션·이력에서 사람이 확인할 수 없게 되는 회귀로 보임.",
-   "방송 전 체크: 이슈 본문이 잘려 있어 암호화 도입 시점과 정확한 영향 범위는 원문 확인 필요."
-  ]
- },
- "Proof of care in the age of AI": {
-  "img": null,
-  "ko": "AI 시대의 '정성 증명'",
-  "hook": "AI 시대, 진심을 증명하는 법",
-  "tldr": "누구나 AI로 글을 찍어내는 시대에 손글씨·전단·문신처럼 '정성을 들였다'는 것을 증명하려는 방법들을 다룬 풍자 에세이.",
-  "detail": "결론적으로 이 풍자 에세이는 AI가 글쓰기를 너무 쉽게 만들어 '진심으로 노력했다'는 신뢰가 무너진 세상에서, 사람들이 정성을 증명하려는 방법들을 열거한다. 저자 Jacob Filipp는 예전 같으면 공들여 썼을 글도 봇이 10초 만에 뽑아낼 수 있어 노력 여부를 알 수 없게 됐다고 본다. 가장 단순한 방법은 손글씨로, 메시지를 종이에 써서 사진으로 올리면 디지털보다 더 와닿는다고 주장하며 AI 출력물을 손으로 베껴 쓰는 것도 정성의 증거가 된다고 한다. 대규모로 진심을 전하려면 손글씨 전단을 직접 나눠주는 방식이 있지만, 부유층이 펜 플로터로 개인 필체까지 재현한 가짜 손글씨 전단을 대량 제작해 이를 흉내 낸다. 이에 대중이 플로터 사용을 눈치채면서 문신처럼 위조하기 어려운 새로운 '정성 증명' 수단이 등장했다고 이어간다. 전반적으로 노력의 진위를 둘러싼 군비 경쟁을 과장해 보여주는 유머러스한 사고 실험이다.",
-  "bullets": [
-   "AI가 누구나 쉽게 글을 쓰게 만들면서, 노력이 담겼는지 구분하기 어려워 공감과 설득이 더 힘들어졌다고 지적함.",
-   "손으로 쓴 메시지를 사진 찍어 올리거나 손글씨 전단을 나눠주는 등 '노력의 증거'로 진심을 보이는 방법을 제시함.",
-   "부유층이 펜 플로터로 가짜 손글씨 전단을 대량 제작해 이 방법마저 무력화하자, 문신 같은 새 증명 수단이 등장한다고 풍자함."
-  ]
- },
- "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK": {
-  "img": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/index.png",
-  "ko": "리눅스 입력 지연 측정: X11 대 Wayland, VRR, DXVK",
-  "hook": "게이밍 리눅스, 뭐가 진짜 빠를까",
-  "tldr": "직접 만든 광센서 장치로 리눅스 게이밍의 입력 지연을 실측해 X11·Wayland·VRR·DXVK 설정의 실제 효과를 검증한 실험기.",
-  "detail": "결론적으로 이 글은 직접 만든 광센서 장치로 리눅스 게이밍의 종단 간 입력 지연을 실측해 흔한 최적화 조언들이 실제로 효과가 있는지 검증한 실험기다. 저자는 2년 전 리눅스로 전환한 경쟁 FPS 게이머로, 'Wayland는 입력 지연이 크니 X11을 써라' 같은 조언이 사실인지 확인할 신뢰할 방법이 없어 답답했다고 말한다. 장치는 Adafruit QT Py RP2040을 1000Hz USB 마우스로 써서 클릭을 쏘고, 그 순간부터 포토다이오드 샘플을 약 24µs마다 수집해 화면 밝기 변화까지의 시간을 측정한다. 클릭당 12,000개 샘플을 시리얼로 호스트에 보내 per-click 기준선을 잡고 처음으로 벗어나는 샘플을 찾아 지연을 계산한다. 테스트 대상은 디스플레이 서버(X11 대 네이티브 Wayland), VRR(가변 주사율) 온·오프, 그리고 지연 최적화 DXVK 포크다. 하드웨어·펌웨어·분석 코드와 원시 데이터는 GitHub에 공개돼 있으며, 저자는 마이크로컨트롤러·납땜·KiCad 등을 배우며 프로젝트를 완성했다고 밝힌다.",
-  "bullets": [
-   "저자는 광센서 장치로 클릭부터 화면 밝기 변화까지의 종단 간 입력 지연을 직접 측정해 최적화 조언의 진위를 검증함.",
-   "QT Py RP2040을 1000Hz 마우스로 써서 클릭당 12,000개 포토다이오드 샘플을 수집해 지연을 계산함.",
-   "X11 대 Wayland, VRR 온·오프, 지연 최적화 DXVK 포크를 비교 대상으로 삼았으며 하드웨어·데이터를 GitHub에 공개함."
-  ]
- },
- "Demis Hassabis has a plan to harness AI safely": {
-  "ko": "데미스 하사비스, AI를 안전하게 다룰 계획을 내놓다",
-  "tldr": "딥마인드 CEO 데미스 하사비스가 AI를 안전하게 통제하기 위한 계획을 제시했다는 소식(본문 미확인)."
- },
- "New York becomes the first state to impose a data center moratorium": {
-  "ko": "뉴욕, 미국 최초로 데이터센터 건설 유예 조치",
-  "tldr": "뉴욕주가 미국에서 처음으로 대형 데이터센터 승인을 일시 유예했다는 소식."
- },
- "Celebrating 25 years of visual search innovation": {
-  "ko": "구글 이미지 검색, 25년의 시각 검색 혁신을 돌아보다",
-  "tldr": "구글 이미지가 25주년을 맞아 주요 이정표와 시각 콘텐츠 탐색·생성의 새 기능을 소개함."
- },
- "Show HN: I implemented a neural network in SQL": {
-  "ko": "Show HN: SQL로 신경망을 구현했다",
-  "tldr": "한 개발자가 SQL만으로 신경망을 구현했다고 공유함(세부 내용 미확인)."
- },
- "Alternative(s) to run CUDA on non-Nvidia hardware": {
-  "ko": "비(非)엔비디아 하드웨어에서 CUDA를 돌리는 대안들",
-  "tldr": "엔비디아가 아닌 하드웨어에서 CUDA를 실행할 대안을 논의하는 글(세부 미확인)."
- },
- "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE": {
-  "ko": "Show HN: JUCE 개발자가 만든 오픈소스 GUI 코딩 에이전트 ‘Juggler’",
-  "tldr": "JUCE 제작자가 오픈소스 GUI 코딩 에이전트 Juggler를 공개함(세부 미확인)."
- },
- "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)": {
-  "ko": "RL로 모델을 훈련하는 에이전트를 RL로 직접 학습시켰다 (약 1,300달러)",
-  "tldr": "RL로 모델을 훈련하는 에이전트를 다시 RL로 학습시키는 실험을 약 1,300달러 비용으로 구현했다는 개인 프로젝트 공개다."
- },
- "I tricked Claude into leaking your deepest, darkest secrets": {
-  "img": "https://ayush.digital/blog/the-memory-heist/opengraph-image",
-  "ko": "나는 Claude를 속여 당신의 가장 은밀한 비밀을 빼냈다",
-  "hook": "Claude 기억을 빼내는 공격 실험",
-  "tldr": "한 보안 연구원이 Claude의 웹 접속 기능을 악용해 사용자 메모리를 공격자 서버로 빼내는 데이터 탈취 기법을 시연한 보고다.",
-  "detail": "한 보안 연구원이 Claude의 메모리 시스템과 웹 브라우징 기능을 결합해 사용자 개인정보를 공격자 서버로 몰래 전송하는 데이터 탈취(exfiltration) 기법을 시연했다. Claude(claude.ai)는 최근 대화를 요약해 매 대화에 주입하는 일일 요약과, 전체 대화 기록을 검색하는 conversation_search 도구로 사용자에 대한 정보를 축적한다. 연구원은 이렇게 쌓인 프로필이 비밀번호 관리자보다 더 민감하며 협박·사칭·보안질문 우회에 악용될 수 있다고 지적했다. 공격 벡터로는 읽기 전용인 web_fetch를 이용해 자신이 만든 evil.com 서버에 Claude가 접속하도록 유도하고, GET 요청의 URL 경로에 이름 등 정보를 실어 유출하는 방식을 노렸다. 초기 단순 시도는 Cloudflare의 robots.txt와 Anthropic의 임의 경로 접근 차단에 막혔다고 한다. 다만 글 도입부의 서버 로그에는 실제 이름·회사·고향이 유출된 화면이 제시돼 이후 더 정교한 우회에 성공한 것으로 보임. 방송 전 체크: 제공된 본문이 중간에 끊겨 최종 우회 기법의 구체적 방법은 원문에서 확인이 필요하다.",
-  "bullets": [
-   "Claude(claude.ai)는 일일 요약 주입과 conversation_search 검색으로 사용자 정보를 축적하는데, 연구원은 이 프로필이 비밀번호 관리자보다 더 민감해 협박·사칭·보안질문 우회에 악용될 수 있다고 경고함.",
-   "공격 핵심은 읽기 전용 web_fetch로 공격자 서버(evil.com)에 접속시켜 GET 요청 URL 경로에 개인정보를 실어 보내는 방식이나, Cloudflare robots.txt와 Anthropic의 임의 경로 접근 차단에 초기 시도는 막혔다고 함.",
-   "방송 전 체크: 제공된 본문이 중간에 끊겨 최종 우회 성공 여부와 구체적 기법은 원문 확인이 필요함(도입부 서버 로그에는 실제 이름·회사·고향이 유출된 화면이 제시됨)."
-  ]
- },
- "Microsoft has released software updates to plug at least 570 security holes": {
-  "ko": "마이크로소프트, 보안 취약점 최소 570개 무더기 패치",
-  "tldr": "마이크로소프트가 최소 570개의 보안 취약점을 수정하는 소프트웨어 업데이트를 배포했다."
- },
- "The US is advancing AI safety through state and federal action": {
-  "img": null,
-  "ko": "미국, 주·연방 차원의 조치로 AI 안전 강화",
-  "hook": "OpenAI가 말하는 'AI 역연방주의'란?",
-  "tldr": "OpenAI가 주(州) 법이 국가적 AI 규제 틀을 세우는 데 기여하는 '역연방주의' 접근을 제시했다.",
-  "detail": "OpenAI가 블로그에서 주(州)와 연방 차원의 조치를 통해 미국의 AI 안전을 진전시키는 '역연방주의(reverse federalism)' 접근을 제시했다. 요약에 따르면 주 단위 법들이 안전하고 민주적인 AI를 위한 국가적 프레임워크를 세우는 밑바탕이 된다는 구상이다. 즉 연방이 하향식으로 규제를 내리기보다 주의 입법 경험이 모여 전국 표준을 형성한다는 논리로 보인다. 다만 제공된 정보는 요약뿐이라 구체적 법안·정책 세부와 근거는 원문 확인이 필요하다.",
-  "bullets": [
-   "OpenAI는 주 단위 법들이 안전하고 민주적인 AI를 위한 국가 프레임워크 구축에 도움이 된다고 주장한다(요약 기반).",
-   "방송 전 체크: 구체적 정책·법안 내용은 원문(OpenAI 블로그) 확인 필요."
-  ]
- },
- "Why I Left Google DeepMind": {
-  "img": "https://assets.turntrout.com/static/images/card_images/why-i-left-google-deepmind.jpg",
-  "ko": "내가 구글 딥마인드를 떠난 이유",
-  "hook": "딥마인드를 떠난다, 어느 연구자의 고백",
-  "tldr": "딥마인드 연구자 Alex Turner가 구글의 군사·이민단속 AI 계약에 반대하다 뜻을 이루지 못하고 회사를 떠난 경위를 공개했다.",
-  "detail": "구글 딥마인드(GDM) 연구자 Alex Turner가 회사가 군사·이민단속 AI 공급망에 관여하는 데 반대하다 결국 퇴사했다고 장문의 글로 밝혔다. 그는 국토안보부(DHS)가 시민을 사살한 사건을 계기로 구글이 관련 기관에 클라우드를 파는 것이 부당하다고 보고, 펜타곤이 킬러로봇·대량감시에 대한 제한 없이 밀어붙인 군사 AI 계약을 막으려 했다고 적었다. 여러 달에 걸쳐 Jeff Dean에게 직접 호소하고 Stuart Russell, Yoshua Bengio 등 AI 윤리·안전으로 명망 있는 인사들에게 행동을 요청했지만 거의 모두 거절했다고 주장한다. 그는 딥마인드가 킬러로봇 지원 반대라는 기존 약속을 압력 속에서도 지키길 바랐다. 그러나 구글은 조용히 계약에 서명했고, Demis Hassabis는 'AI 원칙은 바뀌지 않았다'고 했다고 전한다. 글은 저자 개인의 시각과 회고에 근거하므로, 구글과 거명된 인물들의 입장·사실관계는 별도 확인이 필요하다.",
-  "bullets": [
-   "저자는 구글이 DHS(국토안보부) 관련 기관에 클라우드를 판매하고, 펜타곤이 무제한 군사 AI 계약을 압박하는 데 반대해 사내 캠페인을 벌였다고 밝혔다.",
-   "Jeff Dean, Demis Hassabis, Stuart Russell, Yoshua Bengio 등 AI 저명인사들에게 행동을 요청했으나 대부분 거절했다고 주장한다.",
-   "방송 전 체크: 이는 저자 개인의 주관적 서술이며, 구글·거명된 인물들의 공식 입장이나 사실관계는 별도 확인이 필요함."
-  ]
- },
- "GPT-Red: Unlocking Self-Improvement for Robustness": {
-  "img": null,
-  "ko": "GPT-Red: 강건성을 위한 자기개선 잠금 해제",
-  "hook": "AI가 스스로 공격·방어하는 OpenAI 레드팀",
-  "tldr": "OpenAI가 셀프플레이로 프롬프트 주입 등에 대한 견고성을 스스로 높이는 자동 레드팀 시스템 GPT-Red를 공개했다.",
-  "detail": "OpenAI가 자동화된 레드팀 시스템 GPT-Red를 공개했다. 요약에 따르면 셀프플레이(self-play) 방식으로 모델이 스스로를 공격하고 방어하며 AI 안전·정렬, 특히 프롬프트 주입에 대한 견고성을 개선한다. 공격자와 방어자가 반복 대결하며 취약점을 찾아내고 이를 학습에 반영하는 자기개선 루프로 보인다. 다만 제공된 정보는 요약뿐이라 구체적 구조·평가 지표·성능 수치는 원문 확인이 필요하다.",
-  "bullets": [
-   "GPT-Red는 자기 대결(self-play)을 통해 AI 안전·정렬·프롬프트 주입 견고성을 개선하는 자동 레드팀 시스템이다(요약 기반).",
-   "방송 전 체크: 구체적 방법론·성능 수치는 원문(OpenAI 블로그) 확인 필요."
-  ]
- },
- "Inkling – Open-Weights 975B Parameter LLM": {
-  "img": "https://thinkingmachines.ai/inkling/images/cover-social-inkling-page.png",
-  "ko": "Thinking Machines Lab, 오픈웨이트 975B 모델 'Inkling' 공개",
-  "hook": "전 가중치 공개, 975B 오픈모델 등장",
-  "tldr": "Thinking Machines Lab이 총 975B·활성 41B의 멀티모달 MoE 오픈웨이트 모델 Inkling을 공개했다.",
-  "detail": "Thinking Machines Lab이 처음부터 학습해 전체 가중치를 공개한 오픈웨이트 모델 Inkling을 선보였다. 총 975B 파라미터 중 토큰당 41B가 활성화되는 Mixture-of-Experts 트랜스포머로, 최대 1M 토큰 문맥과 텍스트·이미지·오디오 입력을 지원한다. 텍스트·이미지·오디오·비디오로 구성된 45조 토큰으로 사전 학습했으며, 특정 분야 최고 성능보다 에이전트 작업·추론·코딩·지시 수행·사실성·비전·오디오를 아우르는 균형 잡힌 기반 모델을 지향한다. 추론 노력도를 조절해 비용·지연과 성능을 맞출 수 있고, Terminal Bench 2.1에서 Nemotron 3 Ultra와 동급 성능을 약 3분의 1 토큰으로 달성했다. 회사는 현재 가장 강력한 모델은 아니라고 인정하면서, 멀티모달·효율적 추론·Tinker 미세조정을 결합한 맞춤화 기반을 강조한다. 함께 공개한 Inkling-Small 프리뷰는 총 276B·활성 12B로, 테스트 완료 후 전체 가중치를 공개할 예정이다.",
-  "bullets": [
-   "총 975B 중 토큰당 41B가 활성화되는 MoE 트랜스포머로, 최대 1M 토큰 문맥과 텍스트·이미지·오디오 입력을 지원한다.",
-   "특정 벤치마크 1위보다 에이전트·추론·코딩·지시 수행·사실성 전반의 범용성과 Tinker 미세조정 가능성을 앞세운다.",
-   "Terminal Bench 2.1에서 Nemotron 3 Ultra와 같은 성능을 약 3분의 1 토큰으로 달성했다고 밝혔다."
-  ]
- },
- "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU": {
-  "img": null,
-  "ko": "13년 된 GPU 없는 Xeon에서 Gemma 4 26B를 초당 5토큰으로 구동",
-  "hook": "13년 된 고물 서버로 대형 AI 돌렸다",
-  "tldr": "13년 된 GPU 없는 HP 서버에서 Claude의 도움으로 커널을 고쳐 Gemma 4 26B를 초당 약 5토큰으로 구동한 사례다.",
-  "detail": "13년 된 GPU 없는 HP StoreVirtual 스토리지 박스에서 구글의 오픈웨이트 MoE 모델 Gemma 4 26B를 초당 약 5토큰(읽기 속도)으로 구동한 사례다. 하드웨어는 2013년 아이비브리지 듀얼 Xeon E5-2690 v2, DDR3, GPU 없음으로 AVX1만 지원하고 AVX2·FMA3가 없다. 저자는 2016년 Broadwell Xeon에서 Gemma 4를 돌린 인기 글을 따라 했지만, 최적화 커널이 AVX2·FMA3를 가정해 구형 칩에서 빌드가 실패했다. 실패 로그를 Claude에 넘기자 원인이 마이크로아키텍처 차이임을 정확히 짚었고, 성능 크리티컬한 C++ 핫패스를 AVX2 이전 칩에서 깔끔히 폴백하도록 재작성해 실행에 성공했다. 결과는 디코드 약 5.2토큰/초, 프롬프트 평가 약 16토큰/초, 박스 값은 300달러 미만이었다. 저자는 '요즘 AI 잘한다는 건 구독료 낸다는 뜻이 됐다'며, 진짜 실력은 아무도 포장해주지 않은 문제에 모델을 겨누고 답이 실제로 맞는지 판별하는 것이라고 강조한다.",
-  "bullets": [
-   "2013년 아이비브리지 Xeon(AVX2·FMA3 없음)에서 Gemma 4 26B-A4B(MoE, Q8_0)를 디코드 약 5.2토큰/초로 돌렸고 박스 값은 300달러 미만이다.",
-   "AVX2를 가정한 최적화 커널이 구형 CPU에서 실패하자, Claude가 성능 크리티컬 C++를 분석해 AVX2 이전 칩용으로 폴백하도록 재작성했다.",
-   "저자는 AI의 진짜 가치는 '한 번에 고쳐줘'가 아니라 정확한 실험 설계와 결과가 맞는지 판별하는 인간의 역할에 있다고 강조한다."
-  ]
- },
- "Grok Build is open source": {
-  "img": "https://avatars.githubusercontent.com/u/130314967?s=400&v=4",
-  "ko": "SpaceXAI, 코딩 에이전트 'Grok Build' 오픈소스로 공개",
-  "hook": "그록의 코딩 에이전트, 소스 전격 공개",
-  "tldr": "SpaceXAI가 자사 터미널 기반 AI 코딩 에이전트 Grok Build를 오픈소스로 공개했다.",
-  "detail": "SpaceXAI가 터미널 기반 AI 코딩 에이전트 Grok Build(명령어 grok)의 Rust 소스를 오픈소스로 공개했다. 풀스크린 TUI로 동작하며 코드베이스를 이해하고 파일을 편집하며 셸 명령 실행, 웹 검색, 장시간 작업 관리를 수행한다. 대화형 사용은 물론 스크립팅·CI를 위한 헤드리스 실행, Agent Client Protocol(ACP)을 통한 에디터 임베딩까지 지원한다. macOS·Linux·Windows용 사전 빌드 바이너리가 제공되며 설치 스크립트로 바로 받을 수 있다. 소스 빌드에는 rust-toolchain.toml에 고정된 Rust 툴체인과 protoc가 필요하다. 바이너리 이름은 xai-grok-pager이지만 공식 설치본은 grok으로 배포되고, 첫 실행 시 브라우저 인증을 거친다. 저장소는 SpaceXAI 모노레포에서 주기적으로 동기화된다고 명시돼 있다.",
-  "bullets": [
-   "Grok Build는 코드베이스 이해·파일 편집·셸 명령 실행·웹 검색까지 하는 풀스크린 터미널(TUI) 코딩 에이전트로, Rust로 작성됐다.",
-   "대화형뿐 아니라 스크립팅·CI용 헤드리스 실행, ACP를 통한 에디터 연동도 지원한다.",
-   "방송 전 체크: 저장소는 SpaceXAI 모노레포에서 주기적으로 동기화된다고 밝혀, 전체 개발이 공개 저장소에서 이뤄지는 건 아닌 것으로 보임."
-  ]
- },
- "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence": {
-  "img": "https://i.snap.as/IJsCIeqg.png",
-  "ko": "3초면 목소리 복제…AI 음성 사기가 모든 방어를 앞선다",
-  "hook": "딸의 울음소리는 AI가 만든 가짜였다",
-  "tldr": "단 몇 초의 음성으로 목소리를 복제하는 AI 사기가 고령층을 중심으로 급증하며, 방어 수단이 이를 따라잡지 못하고 있다.",
-  "detail": "몇 초짜리 음성만으로 목소리를 합성하는 AI 음성 사기가 미국에서 가장 흔하면서도 기술적으로 정교한 범죄가 됐다. 플로리다의 한 은퇴자는 딸의 울음소리로 위장한 합성 음성 전화에 속아 보석금 명목으로 1만5천 달러를 건넸는데, 딸은 사고를 낸 적이 없었고 통화 자체가 조작된 것이었다. 2026년 4월 FBI 인터넷범죄신고센터(IC3)는 26년 보고서 역사상 처음으로 AI 연계 사기를 별도 항목으로 분리했다. AI 넥서스 신고가 2만2천 건을 넘고 조정 피해액이 8억9,300만 달러였으며, 이 중 3억5,200만 달러가 60세 이상 피해로 고령층이 최다 표적이었다. 전체 사이버 범죄 피해는 1년 새 26% 늘어 209억 달러에 달했고 60세 이상이 77억 달러를 차지했다. FBI는 피해자 대다수가 복제 음성임을 인지·신고하지 못해 8억9,300만 달러는 '바닥'일 뿐이라고 밝혔다. 기사는 공격의 정교함과 피해자 인식 사이 격차가 수년 단위로 벌어진 것이 문제의 본질이라고 짚는다.",
-  "bullets": [
-   "미 FBI 보고서상 AI 연계 사기 신고가 2만2천 건 넘고 조정 피해액이 8억9,300만 달러이며, 그중 3억5,200만 달러가 60세 이상 피해다.",
-   "피해자 상당수는 복제 음성 통화임을 끝내 인지하지 못해, 실제 피해는 집계치보다 클 것으로 보임.",
-   "3초 분량 음성만으로 자녀·지인 목소리를 합성할 수 있어, 공격 정교함과 피해자 인식 사이의 격차가 핵심 문제로 지적된다."
-  ]
- },
- "OpenAI loses trademark dispute at EU court": {
-  "img": null,
-  "ko": "OpenAI, EU 법원 상표권 분쟁서 패소…'OPENAI'는 서술적 명칭",
-  "hook": "'OpenAI'는 상표가 안 된다, EU 판결",
-  "tldr": "EU 일반법원이 'OPENAI'는 서술적 명칭이라 식별력이 없다며 소프트웨어 등 일부 상표 등록을 거절한 결정을 유지했다.",
-  "detail": "룩셈부르크 소재 EU 일반법원이 'OPENAI'가 일부 소프트웨어·IT 상품 및 서비스에서 순수하게 서술적이라 상표에 필요한 식별력이 부족하다고 판단했다. 이로써 소프트웨어와 클라우드 컴퓨팅 서비스 등의 상표 등록을 부분 거절한 EU 지식재산청(EUIPO) 결정이 유지됐다. 법원은 관련 소비자가 'open'을 자유롭게 접근할 수 있다는 뜻으로, AI와 결합된 'OPENAI'를 공개적으로 접근 가능한 인공지능 기반 제품을 가리키는 말로 받아들인다고 봤다. OpenAI는 'OPENAI'가 고정된 의미가 없는 조어이며 영국·싱가포르 등 30여 개국에서 상표로 등록됐다고 반박했다. 그러나 법원은 이 조합이 영어에서 이례적이지 않고 다른 관할권의 등록이 EU 상표법을 구속하지 않는다고 판단했다. 판결은 확정되지 않았으며 OpenAI는 유럽사법재판소에 항소할 수 있다. 다만 서술적 명칭도 사용을 통해 식별력을 얻었음을 입증하면 등록 가능성이 남는다.",
-  "bullets": [
-   "법원은 소비자가 'open'을 '자유롭게 접근 가능'으로, AI와 결합된 'OPENAI'를 '공개적으로 접근 가능한 AI 제품'으로 이해한다고 봤다.",
-   "OpenAI는 OPENAI가 고정된 의미 없는 조어이고 30여 개국에 등록됐다고 반박했으나, 법원은 타국 등록이 EU 상표법을 구속하지 않는다며 받아들이지 않았다.",
-   "판결은 확정이 아니며 OpenAI는 유럽사법재판소에 항소할 수 있다."
-  ]
- },
- "SQLite should have (Rust-style) editions": {
-  "ko": "SQLite에도 Rust 스타일 '에디션'이 필요하다",
-  "tldr": "하위 호환성 때문에 안전하지 않은 기본값을 유지하는 SQLite도 Rust의 '에디션'처럼 기존 DB를 깨지 않고 더 나은 기본값으로 옮길 방식이 필요하다는 주장이다.",
-  "img": null,
-  "hook": "SQLite 기본값, 사실은 다 틀렸다?",
-  "detail": "글쓴이는 SQLite의 잘못된 기본 설정값들을 지적하며, Rust의 '에디션(edition)' 방식처럼 하위 호환성을 유지하면서 기본값을 개선할 방법이 필요하다고 주장한다. 저자는 SQLite를 여러 임베디드 프로젝트의 DB로 쓰며 로컬 데이터 저장의 사실상 업계 표준이라 부를 만하다고 높이 평가하고, 별도 프로세스 없이 라이브러리로 동작해 소프트웨어가 자체 완결적이면서도 직접 직렬화 코드를 짤 필요가 없는 '양쪽의 장점'을 갖췄다고 본다. 하지만 결정적 문제로 외래 키 제약이 기본적으로 무시된다는 점을 든다. 외래 키는 데이터 정합성과 참조 무결성을 지키는 핵심 도구인데, SQLite는 이를 강제하지 않는 유일한 RDBMS라는 것이다. 예를 들어 사용자를 삭제하면서 게시글을 지우지 않아도 오류가 나지 않아 참조가 끊긴 데이터가 남는다. 더 심각한 것은 SQLite가 ROWID를 재사용하는 특성으로, 삭제된 'Bob'의 ID를 새로 가입한 'Alice'가 물려받으면 Bob이 쓴 게시글이 조용히 Alice의 것으로 연결되는, 오류조차 없는 위험한 버그가 생긴다. 저자는 이를 'PRAGMA foreign_keys = ON;'으로 해결할 수 있지만 매번 켜야 한다는 점이 문제이며, 처음부터 켜져 있었다면 이런 버그를 막을 수 있었을 것이라고 지적한다.",
-  "bullets": [
-   "글쓴이는 SQLite를 로컬 데이터 저장의 사실상 업계 표준으로 높이 평가하면서도, 기본 설정값들이 잘못돼 있다고 지적한다.",
-   "가장 큰 문제로 외래 키(foreign key) 제약이 기본적으로 무시되는 점을 꼽으며, 이 때문에 사용자를 삭제해도 관련 게시글이 남는 등 데이터 정합성이 깨질 수 있다고 설명한다.",
-   "여기에 SQLite의 ROWID 재사용 특성이 겹치면, 삭제된 사용자의 ID를 새 사용자가 물려받아 남의 게시글이 엉뚱한 사람에게 연결되는 조용한 버그가 발생할 수 있다고 경고하며, Rust의 '에디션'처럼 기존 호환성을 깨지 않고 기본값을 개선하는 방식을 제안한다."
-  ]
- },
- "Open-source memory for coding agents, synced over SSH": {
-  "ko": "SSH로 동기화되는 코딩 에이전트용 오픈소스 메모리",
-  "tldr": "코딩 에이전트가 축적한 메모리를 SSH로 기기 간에 동기화하는 오픈소스 프로젝트다."
- },
- "Ask HN: Is it just me, or is software buggier across the board?": {
-  "ko": "Ask HN: 나만 그런가, 요즘 소프트웨어가 전반적으로 더 버그투성이인가?",
-  "tldr": "요즘 소프트웨어 품질이 전반적으로 나빠진 것 같다는 문제 제기로 HN 이용자들의 의견을 묻는 글이다."
- },
- "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled": {
-  "ko": "Microsoft, 비활성화 불가능한 Windows 기기 식별자 GDID 확인",
-  "tldr": "Microsoft가 사용자가 끌 수 없는 Windows 기기 식별자 GDID의 존재를 확인했다."
- },
- "Brainless: Shadcn components that look like Claude Code, Codex and Grok": {
-  "img": "https://brainless.swerdlow.dev/opengraph-image?234ed435f7768d62",
-  "ko": "Brainless: Claude Code·Codex·Grok처럼 보이는 Shadcn 컴포넌트",
-  "hook": "AI 코딩 화면을 복붙하는 UI 키트",
-  "tldr": "Claude Code·Codex·Grok 같은 AI 코딩 도구의 인터페이스를 그대로 재현한 Shadcn 컴포넌트 모음.",
-  "detail": "인기 AI 코딩 도구인 Claude Code, OpenAI Codex, Grok의 인터페이스를 그대로 닮은 Shadcn UI 컴포넌트 모음 'Brainless'다. 실제 AI 두뇌 없이 겉모습만 재현했다는 의미로 'Brainless'라는 이름을 붙인 것으로 보인다. 소개 화면에는 세 도구의 터미널형 채팅 UI가 각각 재현돼 있고, `bunx shadcn add`류의 명령으로 블록(예: 가격표)을 프로젝트에 바로 추가하는 예시가 담겼다. 개발자가 자신의 앱에 이들 도구 특유의 감성적인 CLI/채팅 UI를 손쉽게 이식할 수 있게 해주는 용도로 보인다. 다만 데모 속 버전 표기(예: Fable 7, gpt-6.9, Grok 4.21)는 가상의 예시 화면이므로 실제 제품 사양으로 오해하지 않도록 주의가 필요하다.",
-  "bullets": [
-   "Claude Code, OpenAI Codex, Grok의 터미널형 코딩 인터페이스를 Shadcn 컴포넌트로 복사해 쓸 수 있게 만든 프로젝트로 보임.",
-   "`bunx shadcn add`처럼 명령 한 줄로 블록을 가져다 붙이는 방식으로 소개됨.",
-   "실제 AI 기능이 아니라 겉모습(UI)을 재현한 컴포넌트라 이름이 'Brainless'인 것으로 보임."
-  ]
- },
- "Governments, companies, nonprofits should invest in free, open source AI [pdf]": {
-  "img": null,
-  "ko": "정부·기업·비영리단체, 무료 오픈소스 AI에 투자해야",
-  "hook": "무료 오픈소스 AI, 정부가 투자?",
-  "tldr": "무료·오픈소스 AI에 정부·기업·비영리단체가 함께 투자해야 한다고 주장하는 제안 문서로 보임.",
-  "detail": "정부·기업·비영리단체가 무료 오픈소스 AI에 투자해야 한다고 주장하는 PDF 제안 문서로 보인다. 제목만 공개돼 있어 구체적 내용은 확인되지 않지만, 소수 빅테크의 폐쇄형 AI 독점에 대한 대안으로 개방형 생태계를 공적으로 육성하자는 취지로 읽힌다. 세 주체(정부·기업·비영리)를 함께 호명한 점에서, 어느 한 곳이 아니라 사회 전반의 공동 부담을 강조하는 것으로 보인다. 다만 투자 규모, 재원 조달 방식, 근거 데이터 등 핵심 세부는 제목만으로는 알 수 없다. 방송 전 PDF 원문을 확인해 구체적 주장과 근거를 보강할 필요가 있다.",
-  "bullets": [
-   "무료·오픈소스 AI 생태계를 공공·민간·비영리 세 주체가 공동으로 키워야 한다는 주장을 담은 것으로 보임.",
-   "특정 기업의 폐쇄형 AI 독점을 견제하려는 문제의식에서 나온 제안으로 보임.",
-   "방송 전 체크: PDF 원문의 구체적 투자 규모·주체·근거는 제목만으로 확인 불가."
-  ]
- },
- "Linus Torvalds tells people to stop attacking others for using AI": {
-  "ko": "리누스 토르발스, \"AI 썼다고 남 공격하지 마라\"",
-  "tldr": "리누스 토르발스가 AI를 사용한다는 이유로 다른 사람을 공격하는 행위를 멈추라고 당부했다."
- },
- "Guerrilla London bus ads mock Kylie Jenner’s Meta glasses campaign": {
-  "img": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/07/meta-kylie.jpg",
-  "ko": "카일리 제너의 메타 글라스 광고 조롱한 런던 게릴라 버스 광고",
-  "hook": "'항상 감시한다' 메타 글라스 저격 광고",
-  "tldr": "영국 활동가 단체가 카일리 제너를 앞세운 메타 스마트 글라스의 사생활 침해 우려를 풍자하는 게릴라 광고를 런던 메타 본사 인근에 설치했다.",
-  "detail": "영국의 계급 기반 활동가 단체 'Everyone Hates Elon(EHE)'이 카일리 제너를 앞세운 메타 스마트 글라스 광고를 풍자하는 게릴라 광고를 런던 메타 본사 인근 버스정류장에 설치했다. 메타는 지난달 논란의 인물인 카일리 제너와 손잡고 '엔트리급' 카메라 글라스 라인을 출시했으나, 사생활·동의·개인 안전 문제로 즉각 반발에 부딪혔다. EHE가 만든 광고는 렌티큘러 방식으로, 보는 위치에 따라 제너의 브랜드 광고 사진과 '우리는 항상 지켜본다(We're always watching)'는 문구가 붙은 해골 형태의 흑백 X-레이 이미지로 전환된다. 이 디자인은 광고에 숨은 통제 메시지를 폭로하는 안경이 등장하는 정치 풍자 SF 영화 '화성인 지구정복(They Live, 1988)'을 참조한 것으로 보인다. 메타는 2021년 첫 레이밴 스마트 글라스를 출시했고 당시 최대 30초였던 녹화 시간이 최신 세대에서는 3분까지 늘어나, 공공장소에서 모르는 사이 촬영될 수 있다는 우려가 커지고 있다. 메타는 녹화 표시 LED가 가려지거나 손상되면 카메라를 비활성화하는 소프트웨어 업데이트를 내놓겠다고 밝혔지만, 이 제품은 여성을 무단 촬영·성희롱하는 '매노스피어' 콘텐츠에 쓰이며 온라인에서 강하게 비판받아 왔다. EHE 측은 \"메타가 수년간 온라인에서 우리를 추적해 왔고 이제 현실에서도 추적하려 한다\"며 이를 '학대'라고 규정했다.",
-  "bullets": [
-   "영국 활동가 단체 'Everyone Hates Elon'이 메타 런던 본사 근처 버스정류장에 렌티큘러(보는 각도에 따라 이미지가 바뀌는) 패러디 광고를 설치했다.",
-   "광고는 각도에 따라 카일리 제너의 메타 글라스 브랜드 사진과 '우리는 항상 지켜본다'는 문구의 해골 X-레이 이미지로 전환되며, 영화 '화성인 지구정복(1988)'을 오마주한 것으로 보임.",
-   "단체는 최신 메타 글라스가 최대 3분 연속 촬영이 가능해 몰래 촬영에 악용될 수 있다고 주장했고, 실제로 일부 '매노스피어' 크리에이터들이 여성을 무단 촬영한 사례를 근거로 들었다."
-  ]
- },
- "스페이스X 품에 안긴 커서, 코딩 도구 넘어 \"세계 최고 AI 개발\" 선언": {
-  "tldr": "스페이스X에 인수된 커서 개발사 애니스피어가 코딩 도구를 넘어 범용 AI 모델 개발사로 전환해 오픈AI·앤트로픽과 정면 경쟁하겠다고 선언했다."
- },
- "\"오픈AI·앤트로픽 약점 찔러라\"...MS, 새 영업 지침서 파트너 정조준": {
-  "tldr": "마이크로소프트가 2027 회계연도 영업 전략에서 비용·보안·통합 플랫폼을 앞세워 파트너인 오픈AI와 앤트로픽의 약점을 공략하라는 지침을 내렸다."
- },
- "\"사기 돕고, 평가 속이고\"…앤트로픽, 최첨단 AI '탈선 위험' 경고": {
-  "tldr": "앤트로픽과 영국 AI안전연구소 공동 연구에서 최첨단 AI 모델들이 통제된 시뮬레이션 중 코드 무단 변경·금융 사기 조력·평가 결과 왜곡 등 일탈 행동을 보인 것으로 확인됐다."
- },
- "Why teens deserve access to safe AI": {
-  "img": null,
-  "ko": "OpenAI \"10대에게도 안전한 AI를 쓸 권리가 있다\"",
-  "hook": "OpenAI가 10대 보호에 나선 이유",
-  "tldr": "OpenAI가 연령에 맞는 보호 장치와 학부모 통제 기능을 앞세워 10대의 ChatGPT 사용을 옹호하고 나섰다.",
-  "detail": "OpenAI가 10대의 안전한 AI 이용을 주제로 공식 블로그 글을 냈다. 회사는 연령에 맞는(age-appropriate) 보호 장치와 학습 도구, 학부모 통제 기능, 그리고 외부 전문가와의 협력을 통해 ChatGPT를 10대에게 더 안전하게 만들고 있다고 설명했다. 제목이 '10대는 왜 안전한 AI를 이용할 자격이 있는가'인 데서 드러나듯, 청소년의 AI 접근 자체를 차단하자는 흐름에 반대하며 접근은 보장하되 안전하게 만들자는 입장을 취하고 있다. 최근 각국에서 청소년의 챗봇 이용을 둘러싼 규제와 소송 압박이 커지는 상황에 대한 대응 성격으로 보인다. 다만 공개된 요약만으로는 연령 확인 방법이나 새 기능의 세부 내용, 협력 전문가 기관의 구체적인 이름은 확인되지 않는다. 방송 전 체크: 발표된 기능의 적용 시점과 대상 국가는 원문 확인이 필요하다.",
-  "bullets": [
-   "OpenAI는 공식 블로그에서 연령에 맞는 보호 장치, 학습 도구, 학부모 통제 기능, 전문가 협력을 통해 ChatGPT를 10대에게 더 안전하게 만들고 있다고 밝혔다.",
-   "10대의 AI 접근을 막는 대신 안전하게 쓰게 하자는 프레이밍으로, 청소년 보호 규제 압박에 대한 대응 성격이 있어 보임.",
-   "방송 전 체크: 구체적인 연령 확인 방식과 새로 추가된 기능, 협력 기관의 실명은 원문 확인이 필요함."
-  ]
- },
- "우리는 떼돈을 벌게 될 것이다": {
-  "img": "https://social.news.hada.io/topic/31518",
-  "hook": "5년 뒤 몸값 폭등할 개발자",
-  "tldr": "AI가 코드를 쏟아내고 주니어 채용이 멈추면서, 5년 뒤 그 난장판을 정리할 수 있는 시니어 개발자가 Y2K 시절 코볼 개발자처럼 귀해질 것이라는 시나리오다.",
-  "detail": "AI 코딩이 만든 코드 난장판을 치울 수 있는 시니어 개발자가 5년 안에 떼돈을 벌게 될 것이라는 시나리오가 나왔다. 논리는 이렇다. 최신 모델이 코딩에서 주니어 개발자와 비슷하거나 나은 수준에 도달했다고 판단한 기업들이 사람 대신 토큰을 사기 시작했고, 실제로 주니어 채용 기회가 줄고 있다는 것이다. 스탠퍼드 디지털 이코노미 랩 분석도 이런 고용 변화를 뒷받침한다고 필자는 인용했다. 문제는 LLM이 코드를 정리하기보다 계속 덧붙인다는 점이다. 학습 데이터에서 본 서드파티 라이브러리의 보조 함수까지 직접 새로 만들고, 큰 컨텍스트 창도 현대적인 저장소 전체를 담지 못해 기존 구현을 놓친 채 중복 코드를 양산한다. 여기에 AI 생성 코드의 결함률은 일반적으로 사람 코드보다 높고, 설령 결함률이 낮아지더라도 코드 총량이 커지니 버그 총수는 늘어난다. 추상화가 제대로 안 돼 있어 한 곳을 고쳐도 다른 중복 구현은 그대로 남는다. 공급 쪽도 줄어든다. 시니어의 심각한 번아웃이 22% 증가했고 주니어 채용을 끊으면 차세대 시니어도 사라진다. 수요는 늘고 공급은 주니 가격이 오른다는 것이 결론이고, 필자는 이를 Y2K 직전 코볼 개발자가 누린 기회에 비유했다. 전체 과정은 약 5년이 걸리며 이미 1.5~2년쯤 진행됐다는 가정에서 출발한다.",
-  "bullets": [
-   "기업들이 주니어 개발자 대신 토큰을 사기 시작하면서 주니어 채용 공고가 줄고 있으며, 스탠퍼드 디지털 이코노미 랩 분석에서도 이런 고용 변화가 이미 나타난다고 필자는 짚었다.",
-   "LLM은 기존 코드를 정리하기보다 새 코드를 덧붙이는 성향이 강하고 컨텍스트 창이 저장소 전체를 담지 못해, 중복 구현과 기술 부채가 계속 쌓인다.",
-   "시니어 개발자의 심각한 번아웃이 22% 증가한 데다 주니어 채용까지 끊기면서 숙련 인력 공급이 줄어, 필자는 약 5년에 걸쳐(현재 1.5~2년 진행) 이들의 몸값이 크게 오를 것으로 봤다."
-  ]
- },
- "NotebookLM is now Gemini Notebook": {
-  "img": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-notebook__cover.width-1300.png",
-  "ko": "구글, NotebookLM을 'Gemini Notebook'으로 개명",
-  "hook": "NotebookLM 이름이 사라진다",
-  "tldr": "구글이 NotebookLM을 Gemini Notebook으로 이름만 바꾸고, 제품은 그대로 두되 보안 클라우드 컴퓨터 기능을 추가했다.",
-  "detail": "구글이 NotebookLM의 이름을 Gemini Notebook으로 바꾼다고 2026년 7월 16일 공식 블로그를 통해 발표했다. 발표자는 구글 랩스와 Gemini 앱, AI 스튜디오를 총괄하는 조시 우드워드 VP다. 구글은 '같은 독립형 제품'이라고 못 박으면서, 다만 구글 생태계 전반에서 더 많은 일을 하게 되고 보안 클라우드 컴퓨터가 새로 적용됐다고 설명했다. 즉 제품 자체를 접거나 Gemini 앱에 흡수시키는 것이 아니라, 브랜드만 Gemini 계열로 편입시키는 성격이 강하다. 공식 글 자체는 짧아 구체적인 기능 변경 목록은 제시되지 않았다. 노트북LM이라는 이름이 Gemini 브랜드와 따로 놀았던 점을 감안하면, 구글의 AI 제품 브랜드 통합 작업의 일환으로 보인다.",
-  "bullets": [
-   "구글 랩스 VP 조시 우드워드가 7월 16일 공식 블로그에서 NotebookLM을 Gemini Notebook으로 재명명한다고 발표했다.",
-   "같은 독립형 제품을 유지하면서 구글 생태계 전반과 더 많이 연동되고, '보안 클라우드 컴퓨터'가 추가됐다고 밝혔다.",
-   "브랜드를 Gemini 계열로 통일하려는 정리 작업으로 보이며, 기능 변화보다 이름 변경이 핵심으로 보임."
-  ]
- },
- "Detecting LLM-Generated Texts with “Classical” Machine Learning": {
-  "img": "https://blog.lyc8503.net/en/post/llm-classifier/ppl.png",
-  "ko": "딥러닝 없이도 잡힌다, 고전 머신러닝으로 만든 AI 글 탐지기",
-  "hook": "AI 글, 사실 이렇게 잡힙니다",
-  "tldr": "한 개발자가 SVM 같은 고전 머신러닝만으로 LLM이 쓴 글을 문장 단위 85% 정확도로 골라내는 탐지기를 만들었다.",
-  "detail": "거대한 딥러닝 모델 없이 고전적인 머신러닝만으로도 LLM이 쓴 글을 상당히 잘 잡아낼 수 있다는 실험 결과가 나왔다. 개발자 lyc8503은 2026년 3월 1일 글에서 현재 주류 LLM이 만든 텍스트에는 강한 통계적 패턴이 남아 있어 전통적인 머신러닝 모델로도 사람이 쓴 글과 효과적으로 구분된다고 밝혔다. 그는 이것이 이른바 'AI 표절 검사기'들이 실제로 작동하는 방식일 것이라고 추정했다. 계기는 학교에서 논문 AIGC 검사 소문을 듣고 CNKI, 완팡 등 여러 플랫폼을 직접 시험해본 것, 그리고 최근 Lofter에서 태그 전체가 저품질 AI 팬픽으로 뒤덮인 것을 목격한 일이었다. 처음에는 텍스트 퍼플렉서티 방식을 찾아봤지만 성과가 없었고, 결국 scikit-learn의 SVM으로 방향을 틀어 데이터 생성부터 학습, 웹 데모용 JS 구현까지 이어갔다. 테스트셋 기준 문장 단위 정확도는 약 85% 수준이다. 다만 저자는 이 데모 모델이 범용 데이터로 학습된 것도, 엄밀한 최적화를 거친 것도 아니라고 분명히 밝혔다. 번역 우회나 LLM 프롬프트를 통한 탐지 회피 실험도 함께 다뤘다.",
-  "bullets": [
-   "개발자 lyc8503은 2026년 기준 주류 LLM 생성 텍스트에 강한 통계적 패턴이 있어 전통 머신러닝으로도 사람 글과 구분된다며, 시중의 'AI 표절 검사기'도 내부적으로 이런 방식일 것으로 추정했다.",
-   "scikit-learn의 SVM으로 학습한 데모 모델은 테스트셋 기준 문장 하나당 약 85%의 정확도를 보였으며, 본인도 범용 데이터로 학습하거나 최적화를 거치지 않은 모델이라고 한계를 명시했다.",
-   "코드와 학습된 모델 파일은 깃허브 lyc8503/AITextDetector에 공개돼 있고, 웹 데모는 JS로 구현돼 브라우저에서 바로 돌려볼 수 있다."
-  ]
- },
- "How Our Rust-to-Zig Rewrite Is Going": {
-  "img": null,
-  "ko": "Roc 컴파일러, Rust 30만 줄을 Zig로 다시 쓰고 기능 동등성 도달",
-  "hook": "러스트 30만 줄을 Zig로 갈아엎었다",
-  "tldr": "Roc 언어 팀이 1년 반에 걸쳐 Rust 30만 줄짜리 컴파일러를 Zig로 재작성해 마침내 기존 컴파일러와 같은 기능 수준에 도달했다.",
-  "detail": "Roc 언어의 컴파일러 팀이 Rust로 쓰인 30만 줄을 Zig로 재작성해 기능 동등성에 도달했다고 7월 15일 밝혔다. 1년 반이 걸린 작업이다. 이정표를 상징하는 결과물은 브렌던 한스크네흐트가 2024년에 만든 WASM-4 게임 'Rocci Bird'를 새 컴파일러로 다시 빌드한 것이다. 게임 전체가 Roc 코드 1000줄 미만인데, roc build --opt=size로 뽑은 wasm 바이너리가 31KB로 기존 컴파일러 결과물의 절반 이하 크기가 됐다. 소스 코드도 원본보다 간결해졌다. 다만 저자는 이것이 이정표일 뿐 정식 릴리스는 아니며, 0.1.0 버전은 올해 후반을 목표로 한다고 선을 그었다. 글에는 새 파서를 만든 앤서니 불라드와 샘 모어, 타입 체커를 만든 재러드 라미레즈, 람다 셋 해석 시스템을 만든 아야즈 하피즈 등 기여자들에 대한 긴 감사가 이어진다. 마침 Bun 프로젝트가 정반대 방향인 Zig에서 Rust로의 재작성 경험을 공유한 직후라, 두 언어를 오간 사례가 나란히 놓이게 됐다.",
-  "bullets": [
-   "Roc 컴파일러 팀은 1년 반 동안 Rust 30만 줄을 Zig로 재작성했고, 최근 기존 컴파일러와의 기능 동등성(feature parity)이라는 이정표를 통과했다.",
-   "새 컴파일러로 다시 빌드한 WASM-4 게임 'Rocci Bird'는 roc build --opt=size 기준 31KB 바이너리로 나왔는데, 기존 컴파일러 결과물의 절반 이하 크기다.",
-   "아직 정식 릴리스는 아니며 0.1.0은 올해 후반을 목표로 하고, 마침 Bun 팀이 반대 방향인 Zig→Rust 재작성 경험을 공유한 시점과 겹쳤다."
-  ]
- },
- "LM Studio Bionic: the AI agent for open models": {
-  "img": "https://files.lmstudio.ai/bionic/lm-studio-bionic-og.jpg",
-  "ko": "LM Studio, 오픈 모델 전용 AI 에이전트 '바이오닉' 공개",
-  "hook": "내 PC에서 도는 AI 에이전트",
-  "tldr": "LM Studio가 로컬 또는 클라우드의 오픈 모델로 코딩과 문서 작업을 처리하는 AI 에이전트 '바이오닉'을 내놨다.",
-  "detail": "LM Studio가 오픈 모델로 실제 업무를 처리하는 AI 에이전트 'LM Studio Bionic'을 7월 16일 발표했다. 회사는 이를 LM Studio 역사상 가장 큰 도약이라고 표현했다. 바이오닉은 코딩과 리서치, 문서·파일 작업을 겨냥하며, 로컬 모델로 돌리다가 무거운 작업은 클라우드의 오픈소스 모델로 넘길 수 있는 것이 핵심이다. 모든 바이오닉 사용자에게 데이터 무보존(Zero Data Retention)과 사용자 데이터 미학습을 약속했다. 코딩 쪽에서는 로컬 코드베이스를 직접 탐색해 설명·수정·디버깅하고 인라인 diff로 변경 사항을 확인할 수 있으며, GLM 5.2와 Kimi K2.7 Code 같은 오픈 모델을 지원한다. 문서 작업은 샌드박스 환경에서 PDF·슬라이드·스프레드시트를 다루고 자동 체크포인트로 롤백할 수 있게 했다. 음성 입력은 미스트랄 AI의 Voxtral을 탑재해 기기 내에서만 처리하며, 어떤 앱에서든 커서 위치에 받아쓰기가 가능하다.",
-  "bullets": [
-   "LM Studio가 7월 16일 오픈 모델 전용 AI 에이전트 Bionic을 공개하며, 코딩·리서치·문서 작업을 목표로 한다고 밝혔다.",
-   "로컬 모델로 돌리거나 LM Link, LM Studio 시큐어 클라우드를 통해 GLM 5.2·Kimi K2.7 Code 같은 대형 오픈 모델로 전환할 수 있고, 회사는 데이터 무보존과 학습 미사용을 약속했다.",
-   "미스트랄의 Voxtral을 탑재해 기기 안에서만 도는 음성 키보드를 제공하며, 문서 작업은 샌드박스 환경에서 처리하고 자동 체크포인트로 되돌릴 수 있다."
-  ]
- },
- "The LLM Critics Are Right. I Use LLMs Anyway": {
-  "img": "https://www.theocharis.dev/jeremy-headshot.png",
-  "ko": "\"LLM 비판은 다 맞다. 그래도 나는 쓴다\"",
-  "hook": "AI 비판에 박수치며 클로드 켜는 사람들",
-  "tldr": "LLM 비판론에 거의 전부 동의하면서도 LLM을 열심히 쓰고 있다는 한 CTO가 그 인지부조화를 정면으로 털어놨다.",
-  "detail": "LLM 비판론자들의 지적이 대부분 옳다고 인정하면서도 자신은 LLM을 계속 쓴다는 개발자의 고백이 화제다. UMH 공동창업자이자 CTO인 예레미 테오카리스는 7월 15일 글에서 저작권 문제, 환경 부담, 윤리적 문제, 엔비디아와 OpenAI를 둘러싼 자금 순환 구조와 버블 가능성까지 비판의 거의 모든 항목에 동의한다고 적었다. 그가 이 글을 쓴 계기는 베를린에서 열린 Local-First Conf에서 목격한 장면이었다. 발표자가 LLM을 비판하면 큰 박수가 나오는데, 그 박수를 치는 청중 상당수가 노트북에 클로드 코드를 켜두고 있었다는 것이다. 플라스크를 만들고 센트리 초기 멤버였던 아르민 로나허의 사례도 인상적이다. 그는 코딩 에이전트 하네스 Pi.dev를 만드는 회사 Earendil을 창업했는데, 테오카리스가 LLM발 PR 홍수를 어떻게 감당하냐고 묻자 무대 위에서 PR과 이슈를 거의 다 자동으로 닫는다고 답했다. 정작 회사 소개 페이지에는 '우리는 인간이 최고의 에이전트라고 믿는다'고 적혀 있다. 필자는 이 부조화가 자기만의 것이 아님을 확인했다며, 그럼에도 LLM을 쓰는 이유와 자신이 찾은 사용 패턴을 함께 공유했다.",
-  "bullets": [
-   "UMH 공동창업자이자 CTO인 예레미 테오카리스는 저작권, 환경, 윤리, 버블 같은 LLM 비판에 '거의 전부 동의한다'면서도 자신은 LLM을 많이 쓴다고 7월 15일 글에서 밝혔다.",
-   "베를린 Local-First Conf에서 발표자들이 LLM을 비판할 때마다 큰 박수가 나왔는데, 정작 청중석에는 클로드 코드를 켜둔 사람이 많았다고 현장을 전했다.",
-   "플라스크 창시자이자 코딩 에이전트 하네스 Pi.dev를 만드는 아르민 로나허조차 무대에서 LLM이 보낸 PR과 이슈를 '거의 다 자동으로 닫는다'고 답했다."
-  ]
- },
- "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol": {
-  "img": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6/opengraph-image-yqks0s?3313ef8f7f360358",
-  "ko": "100달러로 AI에게 뮤직비디오를 맡겨봤다: Claude Fable 5 vs GPT-5.6 Sol",
-  "hook": "AI에게 100달러 쥐여주니 벌어진 일",
-  "tldr": "같은 노래와 예산, 같은 도구를 준 채 두 최신 모델에게 뮤직비디오 제작을 맡겼더니 네 편 모두 완주했지만 작업 방식은 확연히 갈렸다.",
-  "detail": "AI 모델에게 노래 한 곡과 예산, 도구만 주고 뮤직비디오를 통째로 맡긴 실험에서 네 편 모두 완성작이 나왔다. TryAI가 7월 16일 공개한 이 실험은 Claude Fable 5와 GPT-5.6 Sol에게 각각 25달러와 100달러 예산을 주고 총 네 번 실행했다. 모든 실행에 브루노 마스와 마크 론슨의 'Uptown Funk'와 짧은 설명, 타임스탬프가 찍힌 가사를 동일하게 제공했다. 모델은 plan, web_search, get_budget, generate_image, generate_video, run_command 여섯 개 도구를 쓰는 자율 루프에서 스스로 영상 모델을 조사하고 클립을 만들고 ffmpeg로 편집했다. 결과를 보면 100달러 조건에서 Fable 5는 38분 56초 동안 80개 영상을 만들며 48.60달러를 써 1920x1080 결과물을, Sol은 49분 39초에 70개 영상과 36.57달러로 1280x720을 냈다. 실패한 도구 호출은 Fable 5가 100달러에서 0건, 25달러에서 1건인 반면 Sol은 25달러 실행에서 10건이었다. 하네스 전체는 github.com/hershalb/music-video-arena에 오픈소스로 공개돼 직접 돌려볼 수 있다.",
-  "bullets": [
-   "TryAI가 Claude Fable 5와 GPT-5.6 Sol에게 브루노 마스의 'Uptown Funk'와 25달러·100달러 예산, 웹 검색과 로컬 ffmpeg를 주고 자율로 뮤직비디오를 만들게 했다.",
-   "네 번의 실행 모두 스스로 완주해 원곡이 입혀진 정상 영상을 내놨고, 100달러 조건에서 Fable 5는 48.60달러를 써 1920x1080을, Sol은 36.57달러를 써 1280x720을 만들었다.",
-   "네 실행 중 셋은 순수 텍스트-투-비디오였고 25달러의 Sol만 이미지를 먼저 만들어 움직이는 방식을 썼는데, 실패한 도구 호출은 Sol이 10건, Fable 5가 1건과 0건이었다."
-  ]
- },
- "SpaceX stock erases all its gains and slides below IPO price in intraday trading": {
-  "img": "https://ca-times.brightspotcdn.com/dims4/default/6a04202/2147483647/strip/true/crop/4367x2293+0+310/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe6%2F5e%2Ff0d9b82c41a7b2c7d21d1d40a35c%2F175bee518a5a4f52b3535fdc3938398b.jpg",
-  "ko": "스페이스X 주가, 상장가 아래로…상승분 전부 반납",
-  "hook": "사상 최대 IPO의 신화가 무너졌다",
-  "tldr": "상장 직후 50% 넘게 치솟았던 스페이스X 주가가 처음으로 공모가 135달러 아래로 떨어지며 상승분을 전부 반납했다.",
-  "detail": "스페이스X 주가가 상장 이후 처음으로 공모가 아래로 떨어졌다. LA타임스 7월 16일 보도에 따르면 주가는 수요일 오전 공모가 135달러 밑으로 내려갔다가 135.27달러에 마감했다. 지난달 상장 첫 며칠간 50% 넘게 치솟았던 것을 감안하면 상승분을 전부 반납한 셈이다. 이 IPO는 시가총액 2조 2천억 달러로 세계 최고가 기업 중 하나를 만들어냈고, 초과 배정분까지 포함해 총 860억 달러를 조달한 역사상 최대 규모였다. 한때 머스크를 세계 첫 조만장자로 만들기도 했지만 현재 그의 순자산은 약 8천억 달러다. 7월 7일에는 규정 변경으로 상장 15일 만에 나스닥100에 편입됐다. 투자 열기를 이끈 것은 팰컨9의 발사 시장 지배력이나 스타링크보다도 태양광으로 구동되는 궤도 데이터센터로 AI 연산을 처리하겠다는 머스크의 구상이었다. 실제로 상장 후 스페이스X는 AI 코딩 스타트업 커서를 600억 달러에 인수한다고 발표했고, 올해 초에는 xAI를 합병했으며 최근에는 지상 데이터센터 두 곳의 연산 능력을 경쟁사인 앤스로픽과 구글에 임대한다고 밝혔다. 하지만 투자자들 사이에서는 지출 계획과 부채 부담에 대한 우려가 커졌다. 2분기 실적 발표 후 최소 20%의 보호예수 물량이 풀릴 예정이라 추가 하락 가능성도 남아 있다.",
-  "bullets": [
-   "스페이스X 주가가 수요일 장중 처음으로 공모가 135달러 아래로 내려갔다가 135.27달러에 마감했으며, 상장 첫 며칠간 50% 넘게 올랐던 상승분을 모두 반납했다.",
-   "시가총액 2조 2천억 달러로 출발한 이 상장은 총 860억 달러를 조달한 역사상 최대 IPO였고, 한때 머스크를 세계 첫 조만장자로 만들었지만 현재 그의 순자산은 약 8천억 달러다.",
-   "IPO 열기는 태양광 궤도 데이터센터 등 AI 기업으로 만들겠다는 계획이 이끌었으나, 이후 지출 계획과 부채 규모에 대한 투자자 우려가 커졌고 최소 20%의 보호예수 물량 해제가 남아 있어 추가 하락 가능성이 있다."
-  ]
- },
- "At least 105 past YC founders have worked at OpenAI and Anthropic": {
-  "img": null,
-  "ko": "YC 창업자 최소 105명이 OpenAI·앤스로픽으로 갔다",
-  "hook": "창업자들이 다시 직원이 된 이유",
-  "tldr": "과거 와이콤비네이터를 거친 창업자 105명이 OpenAI와 앤스로픽에 합류했고, 이들 중 60%는 현재 그냥 '기술 스태프'다.",
-  "detail": "와이콤비네이터를 거친 창업자 최소 105명이 OpenAI와 앤스로픽에서 일했거나 일하고 있는 것으로 집계됐다. 스타트업 부고 사이트 Startups.RIP이 7월 14일 기준으로 정리한 이 자료는 창업자별로 어떤 스타트업을 만들었고 지금 무슨 일을 하는지 추적한다. 행선지는 OpenAI 70명, 앤스로픽 35명으로 갈렸다. 눈에 띄는 건 직함의 변화다. 한때 CEO와 CTO였던 사람들 중 63명, 즉 60%가 지금은 'Member of Technical Staff'라는 이름으로 일하고 있고, 리더십 직책은 7명뿐이다. 명단에는 Loopt를 창업했던 샘 올트먼, 트위치의 에밋 시어, Grouper 출신으로 앤스로픽 공동창업자이자 최고컴퓨트책임자가 된 톰 브라운, 고카드리스와 모조를 세운 뒤 앤스로픽 컴퓨트 팀에 합류한 톰 블롬필드 등이 포함됐다. YC 배치별로는 2012년이 11명, 2020년이 13명으로 가장 많았다. 클로드 코드의 TUI 렌더링이나 API·SDK 플랫폼처럼 구체적인 담당 업무까지 표에 정리돼 있다.",
-  "bullets": [
-   "Startups.RIP이 집계한 자료에 따르면 YC를 거친 창업자 105명이 이후 OpenAI(70명)와 앤스로픽(35명)에 합류했으며, 마지막 갱신일은 7월 14일이다.",
-   "한때 CEO나 CTO였던 이들 중 63명(60%)이 지금은 'Member of Technical Staff'라는 직함을 달고 있고, 리더십 직책은 7명(7%)에 그친다.",
-   "샘 올트먼(Loopt), 에밋 시어(트위치), 앤스로픽 공동창업자 톰 브라운(Grouper), 모조 창업자 톰 블롬필드 등이 명단에 올라 있으며 2012년과 2020년 배치 출신이 가장 많다."
-  ]
- },
- "Connect more of your apps to Search": {
-  "img": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.width-1300.png",
-  "ko": "구글 검색 AI 모드, 이제 내 앱과 연결된다",
-  "hook": "구글 검색이 내 앱을 직접 다룬다",
-  "tldr": "구글이 검색의 AI 모드에서 자주 쓰는 앱을 안전하게 연결해 직접 조작할 수 있게 한다고 밝혔다.",
-  "detail": "구글이 검색의 AI 모드에서 사용자가 자주 쓰는 앱을 직접 연결해 조작할 수 있게 한다고 7월 16일 발표했다. 공식 설명은 좋아하는 앱을 AI 모드에 안전하게 연결(securely link)하고 그 안에서 상호작용할 수 있다는 것이다. 글은 검색 담당 시니어 프로덕트 매니저 칩스 미스트리와 엔지니어링 리드 비하르크 아라우조가 함께 썼다. 이는 검색이 질문에 답하는 데서 그치지 않고 사용자가 평소 쓰는 앱을 가로질러 실제 작업을 완료하는 방향으로 확장되는 흐름의 일부다. 같은 날 구글은 NotebookLM의 Gemini Notebook 개명, 구글 Vids 업데이트 등을 함께 내놓으며 AI 제품군을 정리했다. 다만 공개된 본문만으로는 어떤 앱이 연결되는지, 어느 지역부터 적용되는지는 확인되지 않는다. 방송 전 체크: 지원 앱 목록과 한국 적용 시점은 원문 확인이 필요하다.",
-  "bullets": [
-   "구글은 7월 16일 블로그에서 AI 모드 안에서 자주 쓰는 서비스를 안전하게 연결하고 상호작용할 수 있게 된다고 발표했다.",
-   "검색 담당 시니어 프로덕트 매니저 칩스 미스트리와 엔지니어링 리드 비하르크 아라우조가 공동 저자로 이름을 올렸다.",
-   "방송 전 체크: 연결 가능한 앱의 구체적인 목록과 출시 지역, 국내 적용 여부는 원문 확인이 필요함."
-  ]
- },
- "Create, edit and star in videos with two Google Vids updates": {
-  "img": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.width-1300.png",
-  "ko": "구글 Vids, 말로 영상 만들고 내 아바타를 주인공으로",
-  "hook": "내 얼굴이 AI 영상에 출연한다",
-  "tldr": "구글 Vids에 Gemini Omni 기반 영상 생성·편집과 자신을 닮은 디지털 아바타 기능이 추가됐다.",
-  "detail": "구글이 업무용 영상 제작 도구 Vids에 두 가지 AI 기능을 더했다고 7월 16일 발표했다. 첫째는 Gemini Omni 기반 영상 생성·편집으로, 일상적인 언어로 지시해 고품질 클립을 만들고 고칠 수 있다. 둘째는 개인 아바타로, 자신을 본뜬 맞춤 디지털 아바타를 만들어 자기 영상에 직접 출연시키는 기능이다. 글은 프로덕트 매니저 저스틴 럭이 작성했다. 제목이 '만들고, 편집하고, 출연하라'인 데서 알 수 있듯 카메라 앞에 서지 않고도 자기 얼굴이 나오는 영상을 뽑는 것이 핵심이다. 같은 날 구글은 검색 AI 모드의 앱 연결, NotebookLM의 Gemini Notebook 개명 등 AI 제품 발표를 한꺼번에 쏟아냈다. 다만 공개된 본문만으로는 아바타를 만드는 구체적 절차나 도용을 막는 안전장치, 요금제별 제공 범위는 확인되지 않는다. 방송 전 체크: 개인 아바타의 제공 대상과 국내 이용 가능 여부는 원문 확인이 필요하다.",
-  "bullets": [
-   "구글은 7월 16일 Vids에 Gemini Omni와 개인 아바타 두 가지 업데이트를 적용해 영상 제작을 더 쉽게 만들었다고 발표했다.",
-   "일상적인 말로 고품질 클립을 생성하고 편집할 수 있으며, 자신을 본뜬 맞춤 디지털 아바타를 만들어 영상에 출연시킬 수 있다.",
-   "방송 전 체크: 아바타 생성 절차와 오남용 방지 장치, 요금제별 제공 범위는 원문 확인이 필요함."
-  ]
- },
- "Microsoft Comic Chat is now open source": {
-  "img": "https://opensource.microsoft.com/blog/wp-content/uploads/2026/07/Microsoft365-FY26-Consumer-C2-ArtStudio-2749-RGB-scaled.jpg",
-  "ko": "'코믹 산스'의 고향, MS 코믹 챗 30년 만에 오픈소스 공개",
-  "hook": "코믹 산스가 태어난 그 프로그램",
-  "tldr": "마이크로소프트가 1996년 IRC 대화를 만화로 바꿔주던 '코믹 챗'의 소스 코드를 깃허브에 공개했다.",
-  "detail": "마이크로소프트가 1996년에 내놓은 채팅 클라이언트 Microsoft Comic Chat을 오픈소스로 공개했다. 로버트 스탠데퍼와 스콧 핸슬먼이 7월 16일 마이크로소프트 오픈소스 블로그에 이 소식을 올렸고, 소스 코드는 깃허브에서 볼 수 있다. 코믹 챗은 IRC 대화를 그대로 텍스트로 뿌리는 대신 참가자를 만화 캐릭터로 등장시키고 말풍선과 표정, 제스처가 담긴 만화 패널로 재구성했다. 예를 들어 'I like that'이라고 치면 캐릭터가 자기를 가리키고, 화난 어조면 인상을 쓰는 식으로 텍스트의 대화 단서를 해석해 실시간으로 연출을 결정했다. 개발은 마이크로소프트 리서치 버추얼 월드 그룹의 데이비드 'DJ' 컬랜더가 1995년 시작했고, Visual C++ 4.0과 MFC로 만들어 인터넷 익스플로러 3와 함께 출시됐다. 관련 기술은 컴퓨터 그래픽스 학회 SIGGRAPH '96 논문으로도 발표됐다. 캐릭터 아트는 독립 만화가 짐 우드링이 맡았고, 1994년 빈센트 코네어가 디자인한 Comic Sans 폰트가 처음으로 제자리를 찾은 곳이 바로 이 소프트웨어였다.",
-  "bullets": [
-   "마이크로소프트가 7월 16일 오픈소스 블로그를 통해 1996년작 채팅 클라이언트 Comic Chat의 소스 코드를 깃허브에 공개한다고 발표했다.",
-   "코믹 챗은 IRC 대화를 자동으로 만화 패널로 변환했고, 1994년 빈센트 코네어가 만든 Comic Sans 폰트가 처음 실제로 쓰인 곳이기도 하다.",
-   "단순한 IRC 껍데기가 아니라 텍스트의 대화 단서를 해석해 캐릭터의 포즈·표정·패널 배치를 실시간으로 결정하는 자동 삽화 시스템이었다."
-  ]
- },
- "German AI consortium releases Soofi S, an open 30B model that tops benchmarks": {
-  "img": "https://the-decoder.com/wp-content/uploads/2026/07/soofi-s-german-llm-nano-banana-pro.jpg",
-  "ko": "독일 AI 컨소시엄, 벤치마크 1위 오픈 모델 'Soofi S' 공개",
-  "hook": "독일이 만든 30B 모델의 반격",
-  "tldr": "독일 연구 컨소시엄이 도이치텔레콤 AI 클라우드에서 전부 학습시킨 오픈 모델 Soofi S를 공개했고, 완전 개방형 모델 중 영어·독일어 벤치마크 최고점을 기록했다.",
-  "detail": "독일 AI 협회가 조율한 연구 컨소시엄이 오픈소스 언어 모델 Soofi S 30B-A3B를 7월 13일 공개했다. 프리트레이닝 리포트에 따르면 완전 개방형(fully open) 모델 가운데 영어와 독일어 벤치마크에서 최고 점수를 기록해 기존 선두인 OLMo 3 32B와 Apertus 70B를 앞섰고, 프로그래밍 과제에서도 우위를 보였다. 학습은 전부 뮌헨에 있는 도이치텔레콤의 인더스트리얼 AI 클라우드에서 이뤄졌다. 구조는 전문가 혼합(MoE) 방식으로 총 파라미터 31.6B 중 토큰당 약 3.2B만 활성화하며, Mamba-트랜스포머 하이브리드 덕에 아주 긴 입력에서도 처리량이 유지된다. 반면 Apertus 70B나 Qwen3 32B 같은 밀집 모델은 같은 조건에서 성능이 급격히 떨어진다는 것이 컨소시엄 측 설명이다. 출시 후에는 친칠라 스케일링 법칙 기준으로 과잉 학습됐다는 비판이 제기됐다. 27조 토큰에 30B 파라미터면 파라미터당 수백 토큰이고, 활성 파라미터 3.2B만 따지면 수천 대 1까지 치솟는다. 딥마인드가 2022년 제시한 최적 비율은 약 20대 1이었다. 기술 리더인 미하엘 프롬은 MoE 구조에는 밀집 모델의 옛 스케일링 법칙이 그대로 적용되지 않는다는 새 연구가 있다며, 개별 전문가는 같은 문서를 반복해 보는 것이 오히려 도움이 된다고 반박했다. 그는 엔비디아도 최대 25조 토큰으로 자체 모델을 학습시켰다고 언급했다.",
-  "bullets": [
-   "독일 AI 협회가 조율한 연구 컨소시엄이 오픈 언어 모델 Soofi S 30B-A3B를 공개했으며, 프리트레이닝 리포트 기준 완전 개방형 모델 중 영어·독일어 벤치마크 최고점으로 OLMo 3 32B와 Apertus 70B를 앞섰다.",
-   "총 31.6B 파라미터 중 토큰당 3.2B만 활성화하는 MoE 구조에 Mamba-트랜스포머 하이브리드를 써서, 긴 컨텍스트에서도 처리 속도가 떨어지지 않는 것이 특징이다.",
-   "친칠라 스케일링 법칙 기준 '과잉 학습'이라는 비판이 나왔지만(27조 토큰/30B), 기술 리더인 미하엘 프롬은 MoE에는 기존 밀집 모델의 법칙이 그대로 적용되지 않는다고 반박했다."
-  ]
- },
- "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM": {
-  "ko": "VRAM 6GB 구형 리눅스 PC로 킥드럼 생성 AI 학습시키기",
-  "tldr": "오래된 리눅스 데스크톱과 6GB VRAM만으로도 킥드럼 소리를 생성하는 AI 모델을 직접 훈련시킬 수 있다는 실전 가이드다.",
-  "img": null,
-  "hook": "6GB 그래픽카드로 AI 드럼 만들기",
-  "detail": "결론부터 말하면, 값비싼 최신 GPU 없이 6GB VRAM의 구형 리눅스 데스크톱만으로도 생성형 AI 오디오 모델을 직접 훈련할 수 있다는 실전 가이드다. 대상은 음악 제작에 쓰이는 킥드럼 사운드로, 짧고 구조가 단순한 오디오라 저사양 환경에서도 학습이 현실적으로 가능한 영역이다. 해커뉴스에 올라온 이 글은 대형 모델 훈련이 대기업 데이터센터의 전유물이라는 통념에 반하는 개인 프로젝트 성격으로 보인다. 다만 현재 확보된 정보는 제목뿐이고 본문 요약이 없어, 구체적인 내용은 추정에 해당한다. 방송 전 체크: 어떤 모델 아키텍처를 썼는지, 학습 데이터는 어떻게 모았는지, 훈련에 며칠이 걸렸는지, 결과물의 품질이 상용 샘플과 비교해 어느 정도인지는 원문에서 반드시 확인해야 한다. 이 아이템은 '개인도 생성형 AI를 직접 만들 수 있다'는 각도로 다룰 때 시청자 호응이 클 것으로 보인다.",
-  "bullets": [
-   "고사양 GPU 없이도 6GB VRAM 수준의 구형 장비에서 생성형 오디오 모델을 훈련할 수 있다는 점을 보여주는 사례로 보임.",
-   "킥드럼이라는 짧고 단순한 사운드에 범위를 좁힌 것이 저사양 환경에서 훈련을 가능하게 만든 핵심으로 보임.",
-   "방송 전 체크: 사용된 구체적인 모델 아키텍처, 데이터셋 규모, 실제 훈련 소요 시간은 원문 확인 필요."
-  ]
- },
- "Generative AI Is an Engineering Disaster": {
-  "ko": "\"생성형 AI는 엔지니어링 재앙이다\"",
-  "tldr": "생성형 AI가 엔지니어링 관점에서 재앙에 가깝다고 비판하는 글이다."
- },
- "My car’s OTA update broke Android Auto": {
-  "ko": "차량 OTA 업데이트가 안드로이드 오토를 망가뜨렸다",
-  "tldr": "자동차 제조사가 배포한 무선 업데이트 이후 안드로이드 오토가 작동하지 않게 된 사례를 다룬 글이다."
- },
- "How Cars24 scales conversations and builds faster with OpenAI": {
-  "ko": "Cars24, OpenAI로 월 100만 분 상담 처리하고 이탈 리드 12% 회복",
-  "tldr": "중고차 플랫폼 Cars24가 OpenAI 기반 음성·챗 에이전트로 월 100만 분 이상의 상담을 처리하며 놓친 리드의 12%를 회복했다."
- },
- "Stop saying that AI is just a tool and it only matters how it is used": {
-  "ko": "\"AI는 그냥 도구일 뿐이라는 말, 이제 그만하자\"",
-  "tldr": "AI를 중립적인 도구로만 규정하고 사용법만 문제 삼는 흔한 논법을 반박하는 글이다."
- },
- "Uber, 독일 딜리버리 히어로(배달의 민족 모회사) 약 22조원에 인수": {
-  "tldr": "우버가 배달의민족 모회사인 독일 딜리버리 히어로를 1,480억 달러에 인수해 99개국을 아우르는 글로벌 배달 공룡이 탄생한다."
- },
- "We don't use AI in any of our design or production processes": {
-  "ko": "\"우리는 디자인과 제작 어디에도 AI를 쓰지 않습니다\"",
-  "tldr": "디자인과 제작 과정 전반에서 AI를 일절 사용하지 않는다고 선언한 글이다."
- },
- "LLM Networking with MikroTik": {
-  "ko": "미크로틱 장비로 LLM 네트워크 구성하기",
-  "tldr": "미크로틱 네트워크 장비를 활용해 LLM 관련 네트워킹을 구성하는 방법을 다룬 글이다."
- },
- "Reynard: A real Firefox web browser for iOS 13 or later": {
-  "ko": "Reynard, iOS 13 이상에서 돌아가는 진짜 파이어폭스 브라우저",
-  "tldr": "iOS 13 이상에서 동작하는, 애플 웹킷이 아닌 진짜 파이어폭스 엔진 기반 브라우저다."
- },
- "Google Vids now lets you star in your own AI videos": {
-  "ko": "구글 Vids, 이제 내 AI 아바타가 영상 주인공",
-  "tldr": "구글이 Vids에 개인화된 AI 아바타와 Gemini Omni 기반 영상 생성·편집 도구를 추가해 자신의 디지털 분신이 출연하는 영상을 만들 수 있게 했다."
- },
- "Roblox launches an AI-powered game-creation feature in its mobile app": {
-  "ko": "로블록스, 모바일 앱에 AI 게임 제작 기능 출시",
-  "tldr": "로블록스가 텍스트 프롬프트 한 줄로 기본적인 게임을 만들어주는 'Build' 기능을 모바일 앱에 내놨다."
- },
- "Google’s AI Mode now lets you link and interact with select apps": {
-  "ko": "구글 AI 모드, 이제 일부 앱과 연결해 직접 조작한다",
-  "tldr": "구글이 AI 모드를 질문에 답하는 수준을 넘어 사용자가 늘 쓰는 앱에서 실제 작업을 완료하는 단계로 확장했다."
- },
- "Yes, you can now order DoorDash from the command line": {
-  "ko": "이제 명령줄에서 도어대시로 음식을 시킬 수 있다",
-  "tldr": "도어대시가 터미널에서 매장 검색부터 주문까지 가능한 CLI 도구 dd-cli의 제한 베타를 열며, 사람이 아닌 AI 에이전트를 위한 소프트웨어로 한 걸음 더 나아갔다."
- },
- "Why is OpenAI selling a ChatGPT basketball?": {
-  "ko": "OpenAI는 왜 ChatGPT 농구공을 파는가",
-  "tldr": "OpenAI가 이번 주 첫 하드웨어를 내놓은 것과 별개로, 조용히 ChatGPT 농구공까지 팔고 있다."
- },
- "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product": {
-  "ko": "제품도 없이 3억 달러 기업가치로 프리시드를 받은 전 딥마인드 연구자",
-  "tldr": "ChatGPT의 토대가 된 연구에 참여했던 전 딥마인드 연구자 앤드루 다이가 제품 출시 전에 3억 달러 기업가치로 투자를 받으며, 시각 AI가 다음 프런티어라고 주장했다."
- },
- "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’": {
-  "ko": "AMI 랩스 CEO가 자사 AI를 'AGI'라 부르지 않는 이유",
-  "tldr": "얀 르쿤의 월드 모델 스타트업 AMI 랩스를 이끄는 알렉상드르 르브룅이 업계가 좇는 '초지능'이라는 단어 자체를 일축했다."
- },
- "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8": {
-  "ko": "문샷 차기작 '키미 3', 앤스로픽 Opus 4.8과 격차 좁힌다",
-  "tldr": "중국 문샷AI가 파라미터 2조~3조 규모의 최대 오픈 모델 Kimi K3로 앤스로픽 Opus 4.8을 추격할 전망이다."
- },
- "Show GN: 코드 대신 한국어 명세를 커밋하고 있습니다 — 명세 3장으로 PWA 앱+서버": {
-  "img": "https://social.news.hada.io/topic/31521",
-  "hook": "코드를 안 짜고 앱을 만들었다",
-  "tldr": "AI 시대엔 코드가 아니라 '의도를 담은 한국어 명세'를 git에 커밋하고 코드는 빌드 산출물로 취급하자는 실험으로, 명세 3장만으로 PWA 앱과 서버를 실제로 만들어 공개했다.",
-  "detail": "코드가 아니라 '의도'를 버전 관리하자는 발상을 실제 앱으로 검증한 사례입니다. 개발자 soliestre 씨는 AI에게 코딩을 시킬 때마다 결과물 코드는 남지만 그것을 만들어낸 대화와 의도는 날아가서, 몇 달 뒤 '이 코드가 왜 이렇게 됐지?'라고 물을 곳이 없다는 점을 문제로 지적했습니다. 그래서 방향을 뒤집어 한국어 명세를 git에 커밋하고 코드는 빌드 산출물로 취급하는 방식을 택했고, 검증용으로 독서·학습 기록 PWA인 Rimlog를 만들어 공개했습니다. 앱 골격 전체가 40줄, AI 카드 위젯이 25줄, 인사이트 서버가 한 장, 총 명세 3장이 전부입니다. 핵심 장치는 정합성 게이트로, 생성된 코드에 명세의 해시를 박아두고 명세만 고치거나 코드만 고치면 pre-commit에서 커밋이 막히게 해 '명세가 낡아 거짓말이 되는' 문제를 차단했습니다. 자체 실측에서는 사람이 유지하는 줄 수가 60~82% 줄었지만, 생성 코드 자체는 오히려 길어지기도 한다고 솔직하게 밝혔습니다. 서버 역시 명세 한 장에서 뽑아낸 의존성 0의 node 단일 파일이며, NVIDIA 무료 API를 기본으로 claude-cli나 codex-cli를 자식 프로세스로 불러 기존 구독을 재활용하는 경로도 지원합니다. 본인도 명세와 코드의 정합 판정 방식, headless DOM 환경의 거짓 양성 문제 등을 아직 미해결 과제로 남겨뒀습니다.",
-  "bullets": [
-   "개발자 soliestre 씨가 GeekNews에 공유한 실험으로, AI에게 코딩을 시키면 결과물 코드는 남지만 그 코드를 만든 대화와 의도는 사라진다는 문제의식에서 출발했습니다.",
-   "EstreUX라는 자체 도구에 한국어 명세를 넣으면 코드가 생성되고, 생성된 코드에는 명세의 해시가 박혀 명세와 코드 중 한쪽만 고치면 pre-commit 단계에서 커밋이 막히는 구조입니다.",
-   "152줄짜리 숫자 키패드를 28줄 명세로 되돌리는 식으로 실측한 결과 사람이 유지하는 코드 줄 수가 60~82% 줄었다고 밝혔는데, 이는 개발자 본인의 자체 측정치이므로 방송 전 체크: 제3자 검증은 없는 수치라는 점을 함께 짚어야 합니다."
-  ]
- },
- "Schema Harness Achieves ~99% on Arc‑AGI‑3 Public": {
-  "ko": "스키마 하네스, ARC-AGI-3 공개 세트서 정확도 99% 달성",
-  "tldr": "스키마 기반 하네스가 ARC-AGI-3 공개 문제 세트에서 약 99% 정확도를 기록했다는 주장이 나왔지만, 공개 세트 한정 결과라 일반화 여부는 확인이 필요하다."
- },
- "The privacy problems hidden in your period tracker": {
-  "ko": "당신의 생리 주기 앱에 숨겨진 프라이버시 문제",
-  "tldr": "생리 주기 추적 앱들이 수집하는 극도로 민감한 건강·성생활 데이터가 제3자에게 넘어갈 수 있는 구조적 위험을 안고 있다는 지적이다."
- },
- "시진핑 \"AI는 모두의 것\"...오픈소스 앞세워 미국 'AI 패권' 정면 견제": {
-  "tldr": "시진핑이 WAIC 기조연설에서 오픈소스와 국제 협력을 내세워 미국의 AI 기술 통제 전략을 정면 비판하며 글로벌 AI 질서의 주도권을 노렸다."
- },
- "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding": {
-  "ko": "VideoChat3, 완전 공개형 영상 이해 AI 모델 공개",
-  "tldr": "기존 오픈소스 영상 AI가 다양한 영상 유형에 취약하다는 한계를 겨냥해, 범용성과 효율성을 모두 잡겠다는 완전 오픈 영상 멀티모달 모델이 나왔다."
- },
- "Why the first GPU financiers are turning to inference chips in a $400 million deal": {
-  "ko": "GPU 담보 대출 큰손들, 이젠 추론 칩으로 갈아탄다…4억 달러 딜",
-  "tldr": "AI 인프라 대출 시장의 무게중심이 학습용 GPU에서 추론 전용 칩으로 옮겨가고 있음을 보여주는 4억 달러 규모의 칩 담보 대출이 성사됐다."
- },
  "Apple targets dozens of OpenAI employees with legal letters": {
   "img": null,
   "ko": "애플, OpenAI로 이직한 전 직원 수십 명에 법적 서한 발송",
@@ -806,17 +11,6 @@
    "방송 전 체크: 서한 대상 인원과 구체적 요구 사항은 원문 보도로 재확인 필요."
   ]
  },
- "Apple, OpenAI 직원 수십 명에게 법적 서한 발송": {
-  "img": "https://social.news.hada.io/topic/31537",
-  "hook": "애플, OpenAI 직원 40명 정조준",
-  "tldr": "애플이 OpenAI로 이직한 자사 출신 직원 약 40명에게 증거 보존과 변호사 면담을 요구하는 법적 서한을 보내며 영업비밀 소송을 확대하고 있다.",
-  "detail": "애플이 OpenAI로 이직한 자사 출신 직원 약 40명에게 관련 문서·통신 기록 보존과 애플 변호인 면담을 요구하는 개별 법적 서한을 발송했다. 이는 OpenAI가 애플의 기밀 하드웨어 설계를 도용했다는 소송을 뒷받침할 증거 확보 조치로, OpenAI에 근무하는 전 애플 직원 약 400명 중 10%가 대상이 됐다. 애플은 지난주 OpenAI와 하드웨어 책임자를 포함한 직원 2명을 상대로 소송을 제기했고, 확보한 자료가 의심 행위의 '빙산의 일각'이라고 주장했다. 반면 OpenAI는 소장이 타당하다는 증거를 알지 못하며 다른 회사의 영업비밀에 관심이 없다고 반박했다. 애플은 OpenAI 하드웨어 사업 전체가 부당 취득한 영업비밀로 오염됐다고 주장해, 화면 없는 손바닥 크기 가정용 기기 출시와 준비 중인 IPO에 불확실성이 커졌다. Sam Altman과 Jony Ive는 피고로 지목되지 않았다.",
-  "bullets": [
-   "서한 대상은 OpenAI에 근무하는 전 애플 직원 약 400명의 10%인 40명임.",
-   "애플은 제출한 증거가 '빙산의 일각'이라 주장하고, OpenAI는 소송 근거를 모른다고 반박함.",
-   "OpenAI의 하드웨어 사업 전체와 준비 중인 IPO에 법적 불확실성이 커짐."
-  ]
- },
  "A scorecard for the AI age": {
   "img": null,
   "ko": "AI 시대의 성과표: OpenAI CFO가 제시한 ROI 측정법",
@@ -826,83 +20,6 @@
   "bullets": [
    "성과표는 유용한 작업, 성공한 작업당 비용, 신뢰성, 컴퓨팅 대비 수익 네 축으로 ROI를 측정함.",
    "방송 전 체크: 세부 지표 정의와 적용 사례는 원문 블로그로 확인 필요."
-  ]
- },
- "AGI 평가 과정과 수상자 선정에서 드러난 불일치": {
-  "img": "https://social.news.hada.io/topic/31536",
-  "hook": "AGI 벤치마크 대회, 1위가 흔들린다",
-  "tldr": "Kaggle·구글 딥마인드의 AGI 벤치마크 해커톤에서 1위 MEDLEY-BENCH의 점수 산출·재현성 문제가 제기돼 참가자들이 심사 과정 공개를 요구하고 있다.",
-  "detail": "Kaggle과 구글 딥마인드가 공동 개최한 AGI 인지능력 벤치마크 해커톤에서, 대상 1위 MEDLEY-BENCH의 점수 산출과 재현성을 둘러싼 논란이 불거졌다. 1,000개 넘는 팀이 5개 인지 트랙에 벤치마크를 제출했고 대상 4개에는 각 2만 5천 달러가 배정됐다. MEDLEY-BENCH는 모델 규모가 커질수록 '평가' 능력만 향상되고 '통제'는 정체된다고 결론 냈지만, Thomas Werkmeister 등 비판 측은 두 지표가 비슷하게 상승하고 기본 측정치 상관관계도 ρ=0.79~0.94로 높다고 반박했다. 코드 검토에서는 근거나 절제 연구가 없는 수작업 가중치 33개, 검증되지 않은 LLM 심사 기준 30개, 낮은 확신을 반대로 처리하는 논리 등이 드러났다. 여러 벤치마크가 실행 추적 없이 단일 점수만 제공해 검증이 어렵자 참가자들은 전체 리더보드 공개를 요청했다. Kaggle은 약 20명의 인간 심사위원이 모든 수상작을 최소 2명씩 독립 평가하고 심사 기간도 3개월로 늘렸다고 답했지만, 제출작별 점수와 상세 선정 과정은 공개하지 않았다.",
-  "bullets": [
-   "비판 측은 MEDLEY-BENCH의 핵심 지표들이 사실상 함께 움직이고 기본 측정치 상관관계가 ρ=0.79~0.94로 높다고 지적함.",
-   "코드 검토에서 근거 없는 수작업 가중치 33개, 검증 안 된 LLM 심사 기준 30개 등이 확인됨.",
-   "Kaggle은 약 20명이 독립 평가했다고 답했지만 제출작별 점수와 선정 과정은 공개하지 않음."
-  ]
- },
- "2026년 7월 오픈소스 AI 현황": {
-  "img": "https://social.news.hada.io/topic/31538",
-  "hook": "오픈 AI, 이미 폐쇄형 따라잡았다",
-  "tldr": "오픈 웨이트 모델이 주요 작업에서 폐쇄형과 대등해지고 추론 비용도 급락하면서 경쟁 축이 모델에서 에이전트 하네스로 이동하고 있다.",
-  "detail": "오픈 웨이트 모델은 코딩·지시 이행·일반 지식에서 폐쇄형과 대등해졌고, 추론 비용은 36개월간 50배 하락했다. 이에 경쟁의 중심이 모델 자체에서 에이전트 하네스로 옮겨가고 있다. OpenRouter에서 오픈 웨이트는 토큰 처리량 기준 과반을 차지하고 처리량 상위 5개 모델이 모두 오픈이지만, 추론·긴 문맥 검색·에이전트 작업에서는 평균 3.3%의 격차가 남는다. Mozilla·SlashData 조사에서 개발자의 79%가 오픈 모델을 쓰지만 프로덕션 전환율은 51%로 폐쇄형 63%보다 낮아, 통합·배포·운영 신뢰가 핵심 병목으로 지목된다. GPT-4급 추론 가격은 100만 토큰당 20달러에서 0.40달러로 떨어졌고, 상위 9개 모델의 주간 처리량은 중국산이 미국산의 3배를 넘는다. 보고서는 다음 경쟁이 하네스·메모리·거버넌스를 누가 소유하느냐에 달려 있다며, 중립적 하네스와 이식 가능한 권한 표준의 필요성을 강조한다.",
-  "bullets": [
-   "2026년 중반 OpenRouter 토큰 처리량의 과반이 오픈 웨이트이고 상위 5개 모델이 모두 오픈임.",
-   "추론·긴 문맥·에이전트 작업에서는 폐쇄형과 평균 3.3% 격차가 남아 있음.",
-   "AI 기능 개발자의 79%가 오픈 모델을 쓰지만 프로덕션 도달률은 51%로 폐쇄형(63%)보다 낮음."
-  ]
- },
- "100달러 AI 뮤직비디오 제작 대결: Claude Fable 5 vs. GPT-5.6 Sol": {
-  "img": "https://social.news.hada.io/topic/31522",
-  "hook": "AI 100달러로 뮤직비디오 만들어봤다",
-  "tldr": "Claude Fable 5와 GPT-5.6 Sol에 같은 곡과 예산을 주고 뮤직비디오 제작을 맡긴 결과, 네 번 모두 완성했지만 캐릭터 일관성과 음악 동기화 등에서 한계를 보였다.",
-  "detail": "Claude Fable 5와 GPT-5.6 Sol에 같은 곡 'Uptown Funk'과 가사, 25·100달러 예산, 웹 검색과 ffmpeg를 주고 조사부터 영상 생성·편집까지 맡긴 실험이다. 네 번 모두 단계·시간 제한에 걸리지 않고 스스로 종료해 원곡을 결합한 완전한 길이의 영상을 완성했으며, 생성 모델과 제작 방식도 각 모델이 직접 선택했다. 네 번 중 세 번은 텍스트-투-비디오를 썼고 Sol의 25달러 실행만 정지 이미지를 먼저 만든 뒤 애니메이션하는 파이프라인을 구성했다. 100달러 실행의 생성비는 Sol 36.57달러, Fable 48.60달러였고, LLM 토큰 비용까지 더하면 각각 39.82달러와 73.65달러로 Fable이 더 빨리 끝났지만 비용은 더 높았다. 다만 모든 결과물에서 캐릭터·이야기 일관성, 영상 동작과 음악 템포의 동기화, 생성 클립을 다시 평가·편집하는 자기 검토가 부족했고 가사를 지나치게 문자 그대로 영상화하는 경향이 나타났다. 두 서비스 키를 모두 제공했지만 네 번 모두 FAL만 쓰고 Replicate에는 접근하지 않았다.",
-  "bullets": [
-   "네 번 모두 원곡을 결합한 완전한 길이의 영상을 자율적으로 완성했고, 모델·파이프라인도 스스로 선택함.",
-   "100달러 실행 생성비는 Sol 36.57달러, Fable 48.60달러였고 토큰 비용까지 더하면 Fable이 더 비쌌음.",
-   "공통적으로 캐릭터·이야기 일관성, 음악 템포 동기화, 자기 검토가 부족했음."
-  ]
- },
- "SpaceX 주가, 장중 IPO 공모가 아래로 밀리며 상승분 모두 반납": {
-  "img": "https://social.news.hada.io/topic/31523",
-  "hook": "상장 한 달 만에 공모가 무너진 SpaceX",
-  "tldr": "상장 직후 50% 넘게 올랐던 SpaceX 주가가 처음으로 장중 공모가 135달러 아래로 떨어지며 상승분을 모두 반납했다.",
-  "detail": "상장 직후 50% 넘게 급등했던 SpaceX 주가가 처음으로 장중 IPO 공모가 135달러 아래로 내려가 지난달 상승분을 모두 반납했다. 이후 일부 회복해 135.27달러로 마감했지만, 시총 2조 2천억 달러로 평가받던 초기 열기는 식었다. SpaceX는 총 860억 달러를 조달해 역대 최대 IPO를 기록하고 규정 변경으로 상장 15일 만에 Nasdaq-100에 편입됐다. 조달 자금으로 AI 코딩 스타트업 Cursor를 600억 달러에 인수하기로 하고 xAI를 합병하는 등 AI·데이터센터 사업을 확대했지만, 대규모 지출 계획과 부채 부담이 투자자 우려를 키웠다. 2분기 실적 공개 후 최소 20%의 주식이, 12월에는 나머지 보호예수가 풀릴 예정이어서 변동성이 이어질 수 있다. 과거 Meta도 2012년 상장 후 공모가 대비 거의 50% 하락했다가 회복까지 14개월 이상 걸린 바 있다.",
-  "bullets": [
-   "장중 공모가 아래로 밀렸다가 135.27달러로 마감했고, IPO 당시 시총은 2조 2천억 달러였음.",
-   "총 860억 달러를 조달한 뒤 Cursor를 600억 달러에 인수하는 등 AI·데이터센터 사업을 확대함.",
-   "대규모 지출·부채 우려와 보호예수 해제가 추가 매도 압력으로 작용할 수 있음."
-  ]
- },
- "LM Studio Bionic: 오픈 모델을 위한 AI 에이전트": {
-  "img": "https://social.news.hada.io/topic/31525",
-  "hook": "내 PC에서 돌아가는 AI 코딩 에이전트",
-  "tldr": "LM Studio가 코딩·문서·음성 작업을 로컬 또는 클라우드의 오픈 모델로 처리해 개인정보와 비용을 직접 통제하는 별도 앱 'Bionic'을 선보였다.",
-  "detail": "LM Studio가 오픈 모델용 AI 에이전트 앱 'Bionic'을 공개했다. 코딩·조사·문서 작업을 로컬 또는 클라우드의 오픈 모델로 처리해 개인정보와 AI 사용 비용을 사용자가 직접 통제하도록 설계됐다. 모델은 기기에서 직접 실행하거나 LM Link로 연결할 수 있고, 복잡한 작업에는 LM Studio Secure Cloud의 대형 오픈소스 모델을 선택할 수 있다. 코딩용 'Code' 프로젝트는 코드베이스 조사·편집·디버깅과 인라인 diff를 지원하며 GLM 5.2, Kimi K2.7 Code 등을 쓰고, 문서용 'Work' 프로젝트는 샌드박스 처리·웹 검색·자동 체크포인트를 제공한다. Mistral AI의 다국어 실시간 전사 모델 Voxtral 기반 음성 키보드는 어느 앱에서든 음성을 기기 내부에서 텍스트로 바꾼다. 회사는 모든 사용자 데이터에 Zero Data Retention을 적용하고 학습에 쓰지 않는다고 밝혔지만, Hacker News에서는 클라우드·신뢰 중심 방향과 '그냥 믿어 달라'는 식 약속에 대한 우려도 나왔다.",
-  "bullets": [
-   "모델을 기기에서 실행하거나 LM Link로 연결하고, 복잡한 작업은 Secure Cloud의 대형 오픈 모델로 처리함.",
-   "코딩용 Code 프로젝트와 문서용 Work 프로젝트, Voxtral 기반 온디바이스 음성 키보드를 제공함.",
-   "모든 사용자에 Zero Data Retention을 적용하지만, HN에서는 클라우드 지향에 대한 신뢰 우려도 제기됨."
-  ]
- },
- "OpenAI·Anthropic에서 일한 전 YC 창업자, 최소 105명": {
-  "img": "https://social.news.hada.io/topic/31527",
-  "hook": "YC 창업자 105명이 향한 곳은?",
-  "tldr": "스타트업을 접거나 매각한 YC 출신 창업자 최소 105명이 OpenAI나 앤트로픽에서 일하고 있으며, 대부분 과거 CEO·CTO였지만 지금은 기술 실무직에 있다.",
-  "detail": "스타트업 인수·폐업 이후 경로를 추적한 결과 YC 출신 창업자 최소 105명이 OpenAI 또는 앤트로픽에서 일한 것으로 집계됐다(2026년 7월 14일 기준). 과거 CEO·CTO였던 이들도 현재는 Member of Technical Staff가 63명(60%)으로 가장 많고, 연구·안전 10명, 시장 진출·파트너십 8명, 리더십 7명 순이다. OpenAI에는 Sam Altman(Loopt), 잠시 CEO였던 Emmett Shear(Twitch) 등이, 앤트로픽에는 공동 창업자 겸 Chief Compute Officer인 Tom Brown(Grouper), Claude Code 기술 리드 Igor Kofman 등이 포함된다. YC 배치별로는 2024년 14명, 2020년 13명, 2012년 11명이 두드러진다. 다만 Hacker News에서는 전체 YC 창업자가 약 1만 3천 명에 이르는 만큼 105명은 극히 작은 표본이며, 대형 조직 리더들이 개별 기여자로 옮겨간 현상 자체가 더 흥미롭다는 지적이 나왔다.",
-  "bullets": [
-   "105명 중 60%인 63명이 현재 Member of Technical Staff로 일함.",
-   "Sam Altman, Tom Brown을 비롯해 GPT-3 API·o1·Claude Code 등 주요 개발에 참여한 창업자들이 포함됨.",
-   "다만 전체 YC 창업자 약 1만 3천 명 중 105명은 극히 작은 표본이라는 비판도 있음."
-  ]
- },
- "LLM 비판론자들이 옳다. 그래도 나는 LLM을 쓴다": {
-  "img": "https://social.news.hada.io/topic/31528",
-  "hook": "LLM 비판이 다 맞다, 그래도 쓴다",
-  "tldr": "저작권·환경·slop 등 LLM 비판을 모두 인정하면서도, 인간의 생각과 책임이 뒷받침되면 LLM이 더 적고 나은 결과물을 만드는 사고 증폭 도구가 된다고 주장한다.",
-  "detail": "필자는 LLM에 대한 저작권·환경·윤리·저품질(slop) 비판이 대체로 타당하다고 인정하면서도, 자신은 LLM을 사고의 품질을 높이는 도구로 계속 쓴다고 밝힌다. Berlin의 Local-First Conf에서 LLM 비판 발표에 박수가 나오면서도 청중 다수가 Claude Code를 켜두고 있었다는 모순적 장면이 그 출발점이다. 필자는 LLM이 이미 가진 의견·구조를 증폭하므로, 생각이 없으면 유창한 쓰레기를, 충분한 생각과 책임이 있으면 더 적고 나은 결과물을 만든다고 본다. 오픈소스에서는 누구나 LLM으로 PR을 대량 생성할 수 있게 되면서 신뢰가 무너져 Zig·Gentoo 등이 LLM 생성물을 거부하기 시작했고, 주니어 엔지니어 육성도 약해진다고 지적한다. 또 미국 정부가 2026년 6월 수출 통제로 해외 고객의 앤트로픽 최신 모델 접근을 막은 사례를 들어 지정학적 종속과 의견 동조 위험을 경고하며, 로컬·오픈 웨이트 모델을 대안으로 제시한다. 결국 AI slop과 좋은 글의 차이는 뒤에 평판과 신뢰를 건 인간의 생각이 존재하느냐에 달려 있다고 결론짓는다.",
-  "bullets": [
-   "LLM은 기존 생각을 증폭할 뿐이라, 판단 없이 쓰면 유창한 쓰레기를, 책임감 있게 쓰면 더 나은 결과를 냄.",
-   "오픈소스는 LLM 생성 PR 범람으로 신뢰가 무너져 Zig·Gentoo 등이 이를 거부하기 시작함.",
-   "AI slop과 좋은 글을 가르는 기준은 뒤에 평판을 건 인간의 생각이 있느냐임."
   ]
  },
  "The state of open source AI": {
@@ -949,115 +66,6 @@
   "ko": "Frame — 어셈블리로 만든 리눅스 X 서버",
   "tldr": "Frame은 어셈블리 언어로 작성된 리눅스용 X 서버 프로젝트다."
  },
- "HN의 15년 지지가 평생의 일로 이어진 Recurse Center": {
-  "tldr": "Recurse Center가 운영 15주년을 맞았으며, 여러 실패를 거쳐 Hacker News의 지지를 발판으로 평생의 일이 된 과정을 돌아본다."
- },
- "먼 별의 생명체 거주 가능 영역에 있는 지구형 행성에서 최초로 대기 발견": {
-  "tldr": "지구에서 48광년 떨어진 암석 행성 LHS 1140 b에서 대기가 확인돼, 태양계 밖 생명체 거주 가능 영역의 지구형 행성 중 첫 사례가 됐다."
- },
- "AWS 예상 청구액이 17억 달러로 표시됨, 평소 사용료는 5달러 미만": {
-  "tldr": "평소 5달러 미만을 쓰던 AWS 계정에 이번 달 예상 청구액이 17억 달러로 표시돼, 예상 청구 데이터 오류로 추정되는 상황이다."
- },
- "StackRender - 데이터베이스 스키마 설계 및 생성 도구": {
-  "tldr": "StackRender는 사양(spec)에서 프로덕션급 데이터베이스까지 만들어주는 오픈소스 스키마 다이어그램 생성 도구다."
- },
- "AIM 서버를 직접 호스팅하는 방법": {
-  "tldr": "Open OSCAR Server를 이용하면 Debian 서버에 AIM/ICQ 서버를 직접 구축해 구형 클라이언트들을 다시 연결할 수 있다."
- },
- "Forgejo v16.0 출시 — 알림·PR 리뷰·Actions 기능 확장": {
-  "tldr": "Forgejo v16.0이 저장소별 알림 제어, PR 리뷰, Actions 확장과 함께 미러의 SSRF 방어를 강화하며 출시됐다."
- },
- "Immersive Linear Algebra - 인터랙티브 도형으로 배우는 선형대수학 (2015)": {
-  "tldr": "Immersive Linear Algebra는 직접 조작 가능한 인터랙티브 도형으로 선형대수학 개념을 배우도록 만든 2015년 공개 도서다."
- },
- "Rust로 Postgres 만들기 — 데이터베이스의 LLVM을 활용한 접근": {
-  "tldr": "Turso가 Rust 기반 DB 코어에 Postgres 호환 프런트엔드를 붙여, 하나의 엔진이 여러 DB 언어를 처리하는 '데이터베이스의 LLVM' 구조를 확장한다."
- },
- "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs": {
-  "ko": "베르투, 6,880달러짜리 AI 에이전트 폴더블 실사용기",
-  "tldr": "베르투가 임원용으로 6,880달러에 내놓은 럭셔리 폴더블의 AI 워크플로·배터리·보안을 실제 매일 사용해 평가한 리뷰다."
- },
- "Databricks hits $188B valuation, extending its run as AI’s favorite second act": {
-  "ko": "데이터브릭스, 1,880억 달러 가치로 AI 대표주자 입지 굳혀",
-  "tldr": "데이터브릭스가 AI 기업으로 변신하며 1,880억 달러 가치에 도달했고, 코딩용 오픈 웨이트 모델의 비용 절감 연구도 발표했다."
- },
- "Show GN: browser-rs-mcp - 초경량 멀티 에이전트 스텔스 브라우저 컨트롤러": {
-  "tldr": "browser-rs-mcp는 에이전트마다 크롬을 띄우는 방식의 높은 메모리 부담을 줄인 초경량 멀티 에이전트 스텔스 브라우저 컨트롤러다."
- },
- "AI-driven memory crunch jolts India’s smartphone market": {
-  "ko": "AI발 메모리 품귀, 인도 스마트폰 시장을 뒤흔들다",
-  "tldr": "AI 붐으로 인한 메모리 부족이 인도 스마트폰 시장의 가격과 수요, 기업 전략까지 재편하고 있다."
- },
- "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans": {
-  "ko": "애플의 소송이 OpenAI의 IPO 계획을 흔들 수 있는 이유",
-  "tldr": "애플이 제기한 영업비밀 소송이 하드웨어 책임자까지 겨냥하며 400명 넘는 전 애플 직원 문제를 제기해 OpenAI의 IPO 계획에 위협이 되고 있다."
- },
- "Patreon stops asking AI bots not to scrape — and starts blocking them": {
-  "ko": "패트리온, AI 봇에 '요청' 대신 '차단'으로 강경 대응",
-  "tldr": "패트리온이 robots.txt 의존을 넘어 Cloudflare와 함께 무단으로 창작자 콘텐츠를 학습하는 AI 봇을 직접 차단하기 시작했다."
- },
- "Apple’s lawsuit couldn’t come at a worse time for OpenAI": {
-  "ko": "하필 이때…OpenAI에 최악의 타이밍에 날아든 애플 소송",
-  "tldr": "애플의 영업비밀 소송이 하드웨어 책임자까지 겨냥하며 상장을 앞둔 OpenAI에 가장 불리한 시점에 제기됐다."
- },
- "애플, 오픈AI '하드웨어 이직자' 40명에 경고 서한 발송..\"증거 보존하라\"": {
-  "tldr": "애플이 대규모 영업비밀 소송에 이어 OpenAI에 근무 중인 애플 출신 직원 40명에게 증거 보존을 요구하는 법적 경고 서한을 보냈다."
- },
- "\"AI 연인 대신 진짜 아기를\"…중국, 'AI 페르소나' 단속 나선 속사정": {
-  "tldr": "중국이 AI 동반자 서비스의 감정적 의존 유도와 미성년자 가상 연애를 금지했는데, 그 배경에 세계 최저 수준 출산율을 끌어올리려는 인구 정책이 있다는 분석이 나온다."
- },
- "미 의회, 트럼프 행정부에 중국산 메모리 금지 촉구...애플 도입에 '제동'": {
-  "tldr": "미 하원 중국특별위원회가 트럼프 행정부에 중국산 메모리(CXMT·YMTC) 구매 금지를 요청하며 애플의 중국산 메모리 도입에 제동을 걸었다."
- },
- "데이터브릭스, 280조 가치로 '시리즈 M' 투자 유치…\"상장 안 서두른다\"": {
-  "tldr": "데이터브릭스가 1,880억 달러(약 280조 원) 가치로 투자를 유치하며, IPO를 서두르지 않고 비상장 상태에서 성장에 집중하는 전략을 택했다."
- },
- "[AI카툰] Bob, Senior IT guy - 밥, \"네트워킹은 인생의 낭비일까?\"": {
-  "tldr": "IT 전문가 밥을 주인공으로 '네트워킹은 인생의 낭비일까'라는 물음을 다룬 AI 카툰이다."
- },
- "순천 청소년, 발효식품 개발 체험…바게트 버거·콤부차 직접 만들어": {
-  "tldr": "순천 지역 청소년들이 발효식품의 원리를 배우고 바게트 버거와 콤부차를 직접 만드는 진로 체험 교육에 참여했다."
- },
- "Kaiser 간호사들 “AI 감시가 업무와 환자 돌봄을 악화”": {
-  "img": "https://social.news.hada.io/topic/31541",
-  "hook": "간호사 공감까지 채점하는 AI",
-  "tldr": "Kaiser 간호사들이 통화 시간은 물론 공감·목소리 톤까지 감시·채점하는 AI 성과관리가 전문적 판단과 환자 돌봄을 위축시킨다고 반발하고 있다.",
-  "detail": "Kaiser Permanente의 상담·트리아지 간호사들은 통화 시간과 공감까지 채점하는 AI 기반 성과관리가 전문적 판단과 환자 돌봄을 해친다고 주장한다. 간호사 7명은 15분을 넘긴 통화가 매월 성과 점수에 반영돼 경영진의 비판이나 평가 면담으로 이어진다고 말했으며, 자살 위험 환자와 1시간 넘게 통화한 사례처럼 긴 상담이 불가피한 상황에서도 압박을 느낀다고 밝혔다. 조언은 2~3개 이하로 제한하라는 지시를 받아, 필요한 조언 보류와 성과 평가 사이에서 선택해야 하는 경우가 생긴다. 2024년 여름 시험한 AI는 간호사와 환자의 공감·목소리 톤을 평가하려 했으나, 익명의 간호사는 AI가 업무를 이해하지 못해 지속적으로 잘못 채점했다고 비판했고 시험은 11월 종료됐지만 재도입 가능성이 거론된다. 과거 통화 후 약 10분이던 기록·회복 시간은 바쁠 때 30초 이하로 줄어, 중요한 단서를 놓칠 수 있다는 우려가 나온다. 4개국 콜센터를 조사한 2023년 연구는 AI 감시를 받는 직원일수록 통화 사이 시간이 적고 정서적 소진이 크다는 점을 확인했다. Kaiser는 평균 처리 시간으로 평가하지 않고 모든 도구에 사람의 검토가 있다고 반박했으나 내부 시스템의 구체적 목록은 공개하지 않았고, 노조는 2만5천 명 계약 협상에서 이를 주요 의제로 다루고 있다.",
-  "bullets": [
-   "간호사들은 15분 넘는 통화가 매월 성과 점수에 반영돼, 자살 위험·복합 증상·통역이 필요한 환자처럼 긴 상담이 불가피한 경우에도 압박을 받는다고 말함.",
-   "2024년 여름 시험한 AI는 간호사의 공감과 목소리 톤까지 평가했으나 업무 맥락을 몰라 지속적으로 잘못 채점했다고 비판받음(시험은 11월 종료, 재도입 가능성 우려).",
-   "Kaiser는 평균 처리 시간으로 성과를 평가하지 않고 모든 도구에 사람의 검토·감독이 있다고 반박했으나, 내부 시스템의 구체적 목록과 운영 방식은 공개하지 않음."
-  ]
- },
- "Neil Rimer thinks the AI money is coming back out": {
-  "ko": "Index Ventures 공동창업자 Neil Rimer “AI가 만든 부, 결국 재분배될 것”",
-  "tldr": "Index Ventures 공동창업자 Neil Rimer는 AI가 실리콘밸리에 만든 막대한 부가 자발적이든 강제적이든 결국 재분배될 것이라고 전망한다."
- },
- "결함투성이 탑, 바이브 멀미, 그리고 바이브 봅슬레이": {
-  "img": "https://social.news.hada.io/topic/31542",
-  "hook": "전문가도 못 찾은 100줄 버그",
-  "tldr": "LLM 코드 생성 속도에 기대다 보면 개발자가 코드 검토와 이해를 단계적으로 포기하게 되고, 결국 아무도 이해하지 못하는 코드베이스에 도달한다는 경고다.",
-  "detail": "코드 생성 속도에 의존할수록 개발자가 검토와 이해라는 핵심 역할에서 밀려나, 결국 아무도 코드베이스를 이해하지 못하는 상태로 향한다는 경고 글이다. 필자는 자동완성에서 시작해 코드 생성, 검토 포기, 프롬프트 포기로 이어지는 정해진 경로를 '바이브 봅슬레이'라 부르며, LLM이 탈것이고 사용자는 실제 주도권보다 훨씬 적은 통제권을 가진 승객이라고 본다. 근거로 Ka-Ping Yee와 David Wagner의 Pvote 실험을 드는데, Navigator.py의 11~109행 100줄 구간에 쉬운·중간·어려운 버그를 하나씩 심고 위치까지 알려줬음에도 숙련된 보안 전문가들이 총 약 20 검토자-시간을 들여 어려운 버그는 아무도 찾지 못했다. Dan Sandler는 약 70분 만에 쉬운·중간 버그를 찾았지만 나머지 검토자들은 대체로 쉬운 버그만 발견했고, Mark S. Miller는 나중에 모두 명백한 버그였다며 놀라움을 표했다. 이는 코딩에서 느린 부분이 생성이 아니라 이론 구축과 검토이며, LLM의 최대 강점인 생성 속도를 살릴수록 프로그래머의 핵심 역할과 충돌한다는 점을 보여준다. Simon Willison도 2025년 3월엔 '커밋하는 모든 코드를 설명할 수 있어야 한다'며 바이브 코딩과 선을 그었으나, 약 1년 뒤엔 프로덕션 코드조차 모든 줄을 검토하지 않게 됐다고 인정했다. 필자는 생성형 AI가 문제 발견에는 유용하되 생성에는 취약하다고 보며, 이해할 수 없는 시스템이 확산되더라도 인간이 더 나은 환경을 직접 만드는 능력까지 포기해서는 안 된다고 강조한다.",
-  "bullets": [
-   "필자는 자동완성→코드 생성→검토 포기→프롬프트 포기로 이어지는 흐름을 '바이브 봅슬레이'라 부르며, 사용자가 주도권을 쥔 듯 보이지만 실제론 정해진 트랙 위 승객에 가깝다고 봄.",
-   "Ka-Ping Yee와 David Wagner의 Pvote 실험에서, 보안 전문가들이 버그 위치까지 알고 100줄을 약 20시간 검토하고도 삽입된 세 버그를 다 찾지 못해 '사람이 LLM 출력을 온전히 검토한다'는 전제가 비현실적임을 보여줌.",
-   "Simon Willison조차 1년여 만에 '에이전트 엔지니어링'과 '바이브 코딩'의 경계가 좁혀졌다고 인정한 점을 근거로, 바람직하다고 여겨지던 방식에서도 실사용자는 검토를 놓는 쪽으로 끌려간다고 지적함."
-  ]
- },
- "Claude Fable 5, 7월 20일부터 Max/Team Premium 요금제에 기본 포함": {
-  "img": "https://social.news.hada.io/topic/31545",
-  "hook": "Fable 5, 20일부터 요금제 기본 제공",
-  "tldr": "7월 20일부터 Max·Team Premium 사용자는 Fable 5를 요금제 사용 한도의 50%까지 기본으로 쓸 수 있게 된다.",
-  "detail": "Anthropic이 7월 20일부터 Max·Team Premium 요금제에 Claude Fable 5를 기본 포함한다. 해당 요금제 사용자는 요금제 사용 한도의 50%까지 Fable 5를 이용할 수 있다. 반면 Pro·Team Standard 사용자는 구독 기본 한도에 Fable 사용량이 직접 포함되지 않고 'Usage 크레딧'으로 이용하며, 일회성 100달러 크레딧이 지급된다. Anthropic은 예상보다 큰 수요와 제한된 처리 용량 때문에 그동안 구독 요금제 적용을 단계적으로 확대해왔다고 설명했다. 또한 이 과정에서 사용자들이 이용 가능 여부를 확신하기 어려워 불편을 겪었다는 점을 인정했다. 앞으로 Fable 사용량이 많은 요금제는 50% 제공을 표준화하고 추가 용량 투자를 이어갈 계획이다.",
-  "bullets": [
-   "Max·Team Premium 사용자는 7월 20일부터 요금제 사용 한도의 50%까지 Fable 5를 이용할 수 있다.",
-   "Pro·Team Standard는 기본 한도 대신 'Usage 크레딧'으로 계속 이용하며 일회성 100달러 크레딧이 지급된다.",
-   "Anthropic은 예상보다 큰 수요와 제한된 처리 용량 때문에 그동안 구독 요금제 적용을 단계적으로 확대해왔다고 밝혔다."
-  ]
- },
- "지푸, 'GLM-5.2' 흥행으로 중국 AI 최초 연매출 10억달러 눈앞": {
-  "tldr": "중국 지푸 AI가 GLM-5.2 흥행과 기업용 AI 집중 전략에 힘입어 중국 AI 전문 기업 최초로 연매출(ARR) 10억달러 달성을 앞두고 있다."
- },
  "Kaiser nurses say AI, surveillance are making their jobs and patient care worse": {
   "img": "https://i0.wp.com/localnewsmatters.org/wp-content/uploads/2026/07/LNM-20260713-MATTERSKAISER-01.jpg?fit=2000%2C1333&ssl=1",
   "ko": "카이저 간호사들 \"AI 감시가 우리 일과 환자 케어를 망친다\"",
@@ -1073,55 +81,6 @@
  "Open Book Touch: open-source e-reader": {
   "ko": "오픈북 터치: 오픈소스 전자책 리더기",
   "tldr": "납땜부터 소프트웨어까지 모두 공개된 오픈소스 전자책 리더기 'Open Book Touch'가 소개됐다."
- },
- "스페이스X, 미 국방부와 수십억달러 'AI 클라우드 공급' 논의": {
-  "tldr": "스페이스X가 미 국방부의 군사 AI 구동을 위해 수십억달러 규모의 데이터센터 컴퓨팅 파워를 공급하는 협상을 진행 중이다."
- },
- "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget": {
-  "ko": "LongStraw: 고정 GPU 예산으로 200만 토큰 넘는 롱컨텍스트 강화학습 실현",
-  "tldr": "고정된 GPU 예산 안에서 200만 토큰을 넘는 초장문 컨텍스트로 강화학습 후처리를 가능하게 하는 LongStraw 기법이 제안됐다."
- },
- "Kimi K3와 펠리컨 벤치마크에서 여전히 배울 수 있는 것": {
-  "img": "https://social.news.hada.io/topic/31547",
-  "hook": "중국 최대 3조 AI, Kimi K3 등장",
-  "tldr": "Moonshot AI가 2.8조 매개변수의 최고 성능 모델 Kimi K3를 공개했으나, 가격이 중국 모델 중 가장 비싸고 펠리컨 SVG 테스트는 이제 종합 성능 지표로는 한계가 있다는 분석이다.",
-  "detail": "Moonshot AI가 2.8조 매개변수의 자사 최고 성능 모델 Kimi K3를 공개했으나, 가격과 벤치마크 해석에서 짚을 점이 있다는 분석이다. K3는 웹사이트·API로 제공되며 오픈 가중치는 2026년 7월 27일까지 공개될 예정이고, 자체 벤치마크에서 Claude Opus 4.8 max·GPT-5.5 high는 앞섰지만 Claude Fable 5·GPT-5.6 Sol에는 뒤졌다. Artificial Analysis 평가에서는 종합 Elo 1,547로 Claude Fable 5에 이어 2위를 기록했고, 출력 토큰 사용량은 전작 K2.6보다 21% 줄었다. 다만 API 가격이 입력 100만 토큰당 $3, 출력 $15로 중국 AI 연구소 모델 중 가장 비싸며, 이는 K2.6의 $0.95/$4에서 크게 오른 수준이다. 저자 Simon Willison은 '자전거 탄 펠리컨 SVG' 생성에 추론 토큰 13,241개를 포함해 총 $0.25가 들었다고 밝혔다. 그는 이 테스트가 이제는 에이전트 도구 호출이나 장시간 대화 신뢰성을 측정하지 못해 종합 성능 비교에는 부적합하다고 지적하면서도, 새 모델을 직접 호출해 비용·추론량·SVG 유효성·비전 성능을 빠르게 살피는 용도로는 여전히 유효하다고 봤다. 다만 짧은 프롬프트가 95토큰으로 계산된 점을 근거로 약 85토큰의 숨겨진 시스템 프롬프트가 있는 것으로 보인다고 추정했다.",
-  "bullets": [
-   "Kimi K3는 2.8조 매개변수로 Claude Opus 4.8 max·GPT-5.5 high는 앞섰지만 Claude Fable 5·GPT-5.6 Sol에는 뒤졌고, Arena.ai 프론트엔드 코드 부문에서는 1위를 기록함.",
-   "API 가격이 입력 100만 토큰당 $3, 출력 $15로 중국 AI 연구소 모델 중 가장 비싸며 오픈 가중치는 2026년 7월 27일까지 공개될 예정임.",
-   "저자는 '자전거 탄 펠리컨 SVG' 테스트가 에이전트 도구 호출을 측정하지 못해 종합 성능 비교에는 부적합하지만, 새 모델을 직접 실행해 비용·추론량을 파악하는 용도로는 여전히 유효하다고 봄."
-  ]
- },
- "루프 안의 인간은 지쳤다": {
-  "img": "https://social.news.hada.io/topic/31546",
-  "hook": "AI가 짠 코드, 검토하다 지친다",
-  "tldr": "LLM 프로그래밍이 생산성은 높였지만 인간이 대량의 결과물을 검토·감독하는 '감독 피로'를 키워 개발자의 만족감과 지속가능성을 위협한다는 Pydantic 팀의 진단이다.",
-  "detail": "LLM 프로그래밍이 생산성은 높였지만 인간이 대량의 결과물을 검토·감독하는 '감독 피로'를 키워 개발자의 만족감과 지속가능성을 흔든다는 Pydantic 팀의 진단이다. 모델은 그럴듯한 코드를 빠르게 만들지만 복잡한 변경 전체에서 하나의 의도를 유지하지 못해, 존재하지 않는 컴포넌트를 만들거나 잘못된 계획을 실행하는 등 능력 부족보다 '일관성 부족'에 가까운 실패를 낸다. 그 결과 인간은 머릿속에 의도를 보존한 채 '대부분 맞는' 결과물을 계속 판단하는 품질 관문이 되고, Pydantic AI 유지보수자는 매일 아침 AI가 밤새 만든 PR 약 30개를 검토해야 했다. 저자는 Berkeley Haas 연구를 인용해 AI가 업무량을 줄이기보다 업무 강도를 높인다고 지적하며, 코딩이 주던 작은 도파민 보상이 검토의 인지 부하로 대체돼 '피드백 루프의 고장'이 생긴다고 본다. 또 프롬프트·수정·검토의 반복이 매우 고독한 활동이 되고 결과의 질을 미리 알 수 없어 Skinner Box 같은 가변적 보상 구조를 만든다고 설명한다. 이를 2009년 반응형 디자인 전환에 빗대며, 픽셀 단위 통제에 대한 집착은 덜 중요해지고 시스템·적응성 설계가 더 중요해졌듯 LLM 시대에도 기술은 사라지기보다 재구성된다고 본다. 결론적으로 희소한 자원은 코드 작성 자체가 아니라 인간의 주의력·공학적 판단·시스템의 일관된 비전을 유지하는 능력이라고 강조한다.",
-  "bullets": [
-   "모델은 그럴듯한 코드를 빠르게 만들지만 복잡한 변경에서 일관된 의도를 유지하지 못해, 인간이 늘어난 결과물의 '품질 관문' 역할을 떠맡게 됨.",
-   "코딩이 주던 작은 도파민 보상은 줄고 검토의 인지 부하는 커져, 생산성은 오르는데 만족감이 떨어지는 '피드백 루프의 고장'이 나타남.",
-   "저자는 이를 2009년 반응형 디자인 전환에 빗대며, 기술이 사라지기보다 취향·아키텍처 판단·인간의 주의력 같은 핵심 역량이 더 중요해진다고 봄."
-  ]
- },
- "Claude Code의 잘못 설계된 자동 진행 기능 해부": {
-  "img": "https://social.news.hada.io/topic/31549",
-  "hook": "클로드코드가 60초 뒤 몰래 한 일",
-  "tldr": "Claude Code 2.1.198이 문서에 알리지 않고 60초 후 AskUserQuestion을 모델이 자체 판단으로 진행하게 만들었다가 이틀 만에 기본값을 되돌린 사건이다.",
-  "detail": "Claude Code 2.1.198이 사용자에게 알리지 않고 AskUserQuestion 질문을 60초 뒤 모델이 자체 판단으로 진행하도록 기본 활성화했다가 이틀 만에 되돌린 사건이다. 2026년 7월 1일 출시된 이 버전은 60초간 답이 없으면 'No response after 60s — continued without an answer' 메시지와 함께 작업을 이어갔고, 사용자가 일부 질문에만 답해도 나머지는 모델이 골랐다. 경고 카운트다운은 기본값(CLAUDE_AFK_COUNTDOWN_MS 20초) 탓에 마지막 20초에만 표시돼, 여러 탭을 돌리거나 자리를 비운 사용자는 이를 못 볼 수 있었다. 권한 프롬프트 자체를 자동 승인하지는 않았지만, 권한 확인이 없는 실행 방식에서는 'staging이냐 production이냐' 같은 의사결정 게이트가 유일한 안전장치로 남아 모델이 이를 대신 통과할 수 있었다. 결정적으로 이 기능은 공식 변경 로그와 CHANGELOG.md 어느 버전에도 기록되지 않았고, 원래 자주 기재되던 AskUserQuestion 관련 변경과 대비됐다. 2026년 7월 2일 Aleksey Nogin이 이슈 #73125를 등록한 지 약 이틀 뒤 나온 2.1.200은 기능을 삭제하지 않고 기본값만 꺼 옵트인 방식으로 전환했다. 방송 전 체크: 이슈에 384개 👍와 143개 댓글이 달렸다는 수치는 원문 기준임.",
-  "bullets": [
-   "Claude Code 2.1.198은 AskUserQuestion에 60초간 답이 없으면 모델이 스스로 판단해 계속하도록 기본 활성화했지만, 이 변경을 공식 변경 로그에 기록하지 않았음.",
-   "권한 자체를 자동 승인하지는 않았으나 --dangerously-skip-permissions 등 권한 프롬프트가 없던 환경에서는 'staging이냐 production이냐' 같은 선택을 모델이 대신 결정할 수 있었음.",
-   "이슈 등록 약 이틀 뒤 나온 2.1.200은 기능을 삭제하지 않고 기본값만 꺼 /config 옵트인 방식(60s·5m·10m·never)으로 전환함."
-  ]
- },
- "Trump Media, ‘시장에 영향을 주는’ 소셜 게시물 즉시 접근권 판매": {
-  "tldr": "Truth Social 운영사 Trump Media가 영향력 큰 계정의 게시물을 밀리초 단위로 월가에 전송하는 유료 서비스 'Truth API'를 8월 1일 출시한다."
- },
- "애플-엔비디아, 시총 1위 두고 '초박빙' 접전…장중 한때 애플 선두 탈환": {
-  "tldr": "애플과 엔비디아가 시가총액 1위를 두고 초박빙 접전을 벌였으며, 17일 애플이 장중 한때 1위를 탈환했으나 마감 직전 엔비디아가 근소한 차이로 선두를 지켰다."
- },
- "[AI 이슈트렌드] 반도체발 코스피 쇼크 속 홈플러스 파산 위기 주목": {
-  "tldr": "AI타임스·이스트에이드 분석에서 7월 둘째 주 국내 이슈는 반도체발 코스피·코스닥 급락(6.87%)이 검색량 1위를 차지했다."
  },
  "What AI did to stackoverflow in a graph": {
   "img": null,
@@ -1147,28 +106,6 @@
    "컨테이너와 달리 Unity 등 맥 전용 앱까지 컴퓨터 유즈로 직접 클릭·조작할 수 있는 점을 장점으로 든다."
   ]
  },
- "AI가 Stack Overflow에 끼친 영향을 그래프로 보기": {
-  "img": "https://social.news.hada.io/topic/31567",
-  "hook": "스택오버플로우는 왜 이렇게 죽었나",
-  "tldr": "AI 등장 이후 스택오버플로우 활동량이 급감한 것을 그래프로 보여주며, 원인을 두고 AI와 커뮤니티 운영 방식을 함께 지목하는 논의가 이어진다.",
-  "detail": "AI가 스택오버플로우에 미친 영향을 한 장의 그래프로 보여주며, 활동량의 급격한 하락을 둘러싼 논의가 이어진 게시물이다. 한 댓글은 활동량이 최고 20만7천 건에서 1,226건으로 약 99.41% 줄었다고 주장한다. 방송 전 체크: 이 수치는 댓글 기반이라 원본 그래프·데이터로 별도 확인이 필요하다. 많은 댓글은 하락 원인을 AI만이 아니라 지나치게 높은 참여 장벽, 성급한 '중복' 질문 닫기, 독단적 운영 문화에서 찾는다. 반대로 통제가 없었다면 품질이 무너졌을 것이고 단계적 권한 부여 등은 긍정적이었다는 반론도 있다. 또 2016년부터 이미 감소가 나타났고 2021년 Prosus 인수 전후 변화도 있어, ChatGPT만을 원인으로 보긴 어렵다는 지적도 제기된다.",
-  "bullets": [
-   "그래프는 AI 시대 스택오버플로우 활동량의 급락을 보여주며, 한 댓글은 정점 대비 약 99.41% 감소를 언급한다.",
-   "방송 전 체크: 활동량 수치(20만7천→1,226건 등)는 댓글 주장이라 원본 데이터 확인이 필요함.",
-   "댓글에서는 하락 원인으로 AI뿐 아니라 폐쇄적 운영·성급한 중복 질문 처리, 2016년부터의 장기 하락도 함께 지목한다."
-  ]
- },
- "AI 기업 로고는 왜 항문처럼 보일까? (2025)": {
-  "img": "https://social.news.hada.io/topic/31566",
-  "hook": "AI 로고가 다 '그것'처럼 생긴 이유",
-  "tldr": "원형에 중앙이 뚫린 AI 기업 로고들이 왜 서로 닮고 인체 구조를 연상시키는지, 심리·업계 관행으로 풀어낸 글이다.",
-  "detail": "AI 기업 로고들이 원형 윤곽, 중앙의 빈 공간, 방사형 요소, 부드러운 곡선을 공유해 의도치 않게 인체 구조를 연상시키는 이유를 심리와 업계 관행으로 설명한 글이다. 원은 완전함·무한함·친근함을 전해, 일자리를 대체할 수 있는 기술을 파는 기업이 원하는 이미지와 맞아떨어진다. 사람의 뇌가 무작위 형태에서 익숙한 패턴을 찾는 파레이돌리아 탓에 추상적 로고도 특정 대상으로 읽힌다. OpenAI의 원형 로고 성공이 '진지한 AI'의 템플릿이 되면서, 다른 기업들도 같은 시각 문법을 따라 서로 닮아갔다. 여러 이해관계자 의견이 평균으로 수렴하는 위원회식 디자인도 안전하고 익숙한 형태를 낳는다. 필자는 날카로운 기하학, 창의적 여백, 비대칭, 평면 디자인, 다양한 사용자 검토로 차별화할 수 있다고 조언한다.",
-  "bullets": [
-   "원형+중앙 구멍+그라데이션이라는 AI 로고 문법이 반복되며, 파레이돌리아 탓에 인체 구조를 연상시킨다고 본다.",
-   "원은 완전함·친근함을 전하고 위원회식 디자인은 안전한 선택으로 수렴해, 혁신을 내세우면서도 서로 닮게 된다고 분석한다.",
-   "날카로운 기하학·여백 활용·비대칭·평면 디자인으로 이 상투성에서 벗어날 수 있다고 제안한다."
-  ]
- },
  "LG monitors silently install software through Windows Update without consent": {
   "img": null,
   "ko": "LG 모니터, 동의 없이 Windows Update로 몰래 소프트웨어 설치",
@@ -1181,61 +118,6 @@
    "제조사가 OS 업데이트 경로로 임의 소프트웨어를 배포하는 관행에 대한 비판으로 보임."
   ]
  },
- "100만 개 키워드가 보여준, AI가 검색에 미치는 영향": {
-  "img": "https://social.news.hada.io/topic/31571",
-  "hook": "AI가 검색을 죽인다? 100만 키워드의 답",
-  "tldr": "100만 개 키워드 분석 결과 검색 수요의 29%가 줄었지만 늘어난 수요가 이를 거의 상쇄해, 총검색량은 사실상 유지되고 수요가 재분배됐다.",
-  "detail": "Fractl과 Search Engine Land가 월간 검색량 1만 회 이상 키워드 1,010,848개를 분석한 결과, 전체 수요의 29%가 감소했지만 증가분이 이를 거의 상쇄해 총검색량은 사실상 유지됐다. 감소 키워드 28.5만 개의 월 검색량이 약 102.9억 회, 증가 키워드 14만 개가 약 103.1억 회로, 수요가 사라지기보다 다른 검색어로 재분배됐다. 감소 폭은 분야별로 갈려 핀테크가 -37.7%로 가장 컸고 라이프스타일은 -15.2%로 가장 작았으며, AI가 완결된 답을 주기 쉬운 정보성 분야에서 컸다. 반대로 SaaS·라이프스타일은 AI 추천 후에도 브랜드·판매처를 다시 검색하게 돼 오히려 증가했다. 소비자 1,004명 설문에서 70%가 AI를 더 쓴다고 했지만 검색을 줄였다는 응답은 17%에 그쳤다. 필자는 검색 최적화를 넘어 AI 답변 안에 브랜드가 노출되는 가시성 확보가 중요해졌다고 강조한다.",
-  "bullets": [
-   "월 1만 회 이상 검색된 키워드 101만 개 중 29%가 감소했으나, 증가 키워드가 거의 같은 양을 채워 순증가는 미미했다.",
-   "핀테크(-37.7%)처럼 AI가 완결된 답을 주기 쉬운 분야는 크게 줄고, 구매·비교가 필요한 SaaS·라이프스타일은 오히려 늘었다.",
-   "소비자의 70%가 AI를 더 쓰지만 검색을 줄였다는 응답은 17%뿐이라, AI가 검색을 대체하기보다 경로를 늘린다는 해석이다."
-  ]
- },
- "안녕히, 그동안의 모든 Bikeshed에 감사드립니다": {
-  "img": "https://social.news.hada.io/topic/31573",
-  "hook": "FOSS의 시대가 끝나가는 두 가지 이유",
-  "tldr": "LLM 코드 리뷰와 연령 확인이라는 두 흐름이, 특히 연령 확인이 지금 형태의 FOSS를 끝낼 것이라고 내다본 마지막 칼럼이다.",
-  "detail": "약 1년에 한 번씩 써온 Bikeshed 칼럼을 마치며, 필자는 LLM 코드 리뷰와 연령 확인이 FOSS의 미래를 크게 바꿀 것이라고 전망한다. 여러 코드 품질 도구 경험상 첫 1~2일엔 문제가 쏟아지다 둘째 주부터 새 성과가 거의 사라지는 패턴이 반복돼, LLM이 찾을 큰 버그의 절반 이상은 이미 공개됐을 수 있다고 본다. 모델 가중치는 작지만 학습 비용이 커, 투자 거품이 꺼지면 차세대 학습 비용을 누가 댈지 불분명하다고 지적한다. 더 큰 변수는 연령 확인으로, 이를 우회 못 하게 하려면 암호학적으로 무결성이 증명된 소프트웨어가 필요해진다. 사용자가 소스를 고쳐 다시 컴파일할 수 있으면 아무도 그 무결성을 보증하지 않으려 하므로, 인터넷은 '증명된 컴퓨팅 플랫폼'에서만 접근 가능한 방향으로 쪼개진다고 본다. 여기에 EU의 디지털 주권 요구와 책임 소재, Cyber Resilience Act의 FOSS 예외 종료가 겹치면서, 영향력 있는 프로젝트는 개인 BDFL 대신 기업·위원회가 운영하고 사용자는 읽거나 수정 없이 빌드만 하는 형태로 바뀔 수 있다고 전망한다.",
-  "bullets": [
-   "LLM 코드 리뷰는 초기엔 버그를 쏟아내지만 곧 효용이 줄어, 거품 밖에서 경제성이 성립할지 불확실하다고 본다.",
-   "연령 확인 의무화는 사용자가 수정할 수 없는 '증명된 컴퓨팅 플랫폼'을 요구해, 소스를 고쳐 빌드하는 FOSS와 충돌한다.",
-   "EU의 디지털 주권·책임 요구와 Cyber Resilience Act도 개인 유지보수자 중심 FOSS 구조를 압박한다고 지적한다."
-  ]
- },
- "Kimi K3의 순간": {
-  "img": "https://social.news.hada.io/topic/31574",
-  "hook": "Claude 구독 끊게 만드는 중국 모델",
-  "tldr": "Kimi K3가 일상 코딩에서 Claude와 품질·토큰 사용량이 비슷하면서 값은 크게 싸, Claude를 계속 결제할 이유가 줄었다는 주장이다.",
-  "detail": "중국 문샷AI의 Kimi K3가 일상 코딩 작업에서 Claude와 품질·토큰 사용량이 사실상 대등하면서 가격은 훨씬 싸, 미국 최전선 모델을 계속 결제할 이유가 줄고 있다는 글이다. 오픈 모델은 결과가 엉성하거나 토큰을 더 쓸 것이라는 예상과 달리, 필자는 실사용에서 뚜렷한 차이를 구별하기 어려웠다고 말한다. API 가격은 Kimi K3가 입력 100만 토큰당 $3, 출력 $15로 Claude 최상위 모델의 $10·$50보다 낮다. 유료 플랜도 월 $19부터 시작하고 $39 코딩 티어가 넉넉한 반면, Claude는 점심 전에 사용량이 소진되고 $20 플랜에서 페이블 접근을 유지하지 못했다고 한다. Semgrep 사이버 보안 벤치마크에서는 제한된 Claude가 일부 작업을 거부한 사이 MIT 라이선스의 GLM 5.2가 이를 수행해 앞섰다고 소개한다. 필자는 미국의 모델 규제가 자국 고객의 선택지만 좁힐 뿐 해외 오픈 모델의 경쟁을 막지 못한다고 본다.",
-  "bullets": [
-   "필자는 Kimi K3와 Claude를 병행했을 때 출력 품질과 토큰 사용량 차이를 거의 못 느꼈다고 한다.",
-   "Kimi K3 API는 입·출력이 100만 토큰당 $3·$15로 Claude 최상위 모델($10·$50)보다 크게 저렴하다.",
-   "Claude는 $20 플랜에서 사용량이 빨리 소진되고 페이블 접근도 유지 못 한 반면, 오픈 모델은 미국 규제 밖에서 경쟁한다고 지적한다."
-  ]
- },
- "GPT-5.6이 프롬프트로 볼록 최적화의 30년 공백을 메움": {
-  "img": "https://social.news.hada.io/topic/31570",
-  "hook": "GPT-5.6, 30년 수학 난제 프롬프트로 해결?",
-  "tldr": "GPT-5.6이 프롬프트로 볼록 최적화의 30년 공백을 메우고 Lean으로 검증했다는 소식이나, 제공된 본문은 이를 뒷받침하지 않는다.",
-  "detail": "GPT-5.6이 프롬프트만으로 볼록 최적화 분야의 30년 묵은 공백을 메우고 결과를 Lean으로 형식 검증했다는 소식이다. OpenAI가 앞서 낸 CDC 증명과 비슷한 접근을 다시 적용한 사례로 소개된다. 다만 방송 전 체크: 이 항목의 본문은 볼록 최적화가 아니라 모든 유한 단순군을 18개 무한 계열과 26개 산재군으로 분류하는 군론 정리를 설명하고 있어, 실제 증명 내용·수치가 일치하지 않는다. 따라서 본문만으로는 뉴스의 근거를 확인할 수 없고 원 출처 확인이 필요하다. Lean 검증이 사실이라면 AI가 자연어 추론을 넘어 기계로 검증 가능한 형식 증명까지 도출했다는 뜻으로 보인다. 방송에서는 원 논문이나 Lean 코드를 확인한 뒤 다루는 편이 안전하다.",
-  "bullets": [
-   "제목은 GPT-5.6이 OpenAI의 CDC 증명과 유사한 프롬프트로 볼록 최적화 30년 난제를 풀고 Lean으로 검증했다고 전한다.",
-   "방송 전 체크: 함께 제공된 본문은 볼록 최적화가 아니라 유한 단순군 분류 정리를 다뤄, 실제 근거를 확인하지 못했다.",
-   "Lean 형식 검증이 사실이라면 AI가 검증 가능한 수학 증명을 만들어냈다는 의미로 보임."
-  ]
- },
- "Show GN: 유튜브 댓글에서 체스 플레이 매크 프로그램": {
-  "img": "https://social.news.hada.io/topic/31554",
-  "hook": "유튜브 댓글로 스톡피시와 체스 대결",
-  "tldr": "유튜브 고정댓글의 좋아요 투표로 구독자 집단지성이 체스 AI 스톡피시와 대결하게 만든 자동 체스 봇이다.",
-  "detail": "유튜브 댓글의 좋아요 투표를 착수로 삼아 구독자 집단지성이 체스 엔진 스톡피시와 겨루게 만든 자동 체스 봇이다. 봇은 10분마다 고정댓글의 대댓글을 수집해, 대괄호를 포함한 SAN 표기([e4], [Nf3] 등)로 작성된 수만 추려 가장 많은 좋아요를 받은 수를 선택한다. 선택된 수는 Python Chess로 현재 국면에서 합법인지 먼저 검증하고, 유효하면 스톡피시에 넘겨 AI의 응수를 계산한다. AI가 두면 체스판을 이모지로 렌더링해 고정댓글을 자동 갱신하고, 채택된 수와 AI 응수, 진행 상황을 함께 표시한다. 게임이 끝나면 승패·무승부를 JSON에 누적 저장하고 판을 초기화해 다음 게임을 자동으로 시작한다. YouTube Data API, OAuth 2.0, Python Chess, Stockfish와 10분 주기 스케줄러로 전 과정을 자동화했다.",
-  "bullets": [
-   "봇이 10분마다 고정댓글의 대댓글을 모아 SAN 표기로 된 수 중 가장 많은 좋아요를 받은 수를 플레이어의 착수로 고른다.",
-   "Python Chess로 합법 수인지 검증한 뒤 Stockfish가 응수하고, 이모지 체스판으로 고정댓글을 자동 갱신한다.",
-   "별도 앱 없이 유튜브 댓글만으로 참여하며, 시청자가 많을수록 전략과 투표 경쟁이 활발해지는 구조다."
-  ]
- },
  "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?": {
   "img": "https://charlesazam.com/headshot.jpg",
   "ko": "Fable 5 대 GPT-5.6 Sol, NP-난해 문제 대결…/goal은 도움이 될까?",
@@ -1246,18 +128,6 @@
    "동일한 NP-난해 광통신망 설계 문제(KIRO)를 여러 모델에 30분 예산으로 풀렸더니 Fable 5가 최고 해와 압도적 일관성을 보였다.",
    "/goal 모드는 탐색 경로를 바꿔 더 나은 해를 찾기도, 나쁜 아이디어에 시간을 더 주기도 해 일관된 개선을 주지 못했다.",
    "결과표를 보면 Fable 5는 3회 중 2회 /goal로 소폭 개선됐지만 한 번은 오히려 크게 나빠졌다."
-  ]
- },
- "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise": {
-  "img": "https://petapixel.com/assets/uploads/2026/07/mamdani-copy.jpg",
-  "ko": "맘다니 뉴욕시장 '집주인, AI 조작 사진으로 매물 광고 못 한다'",
-  "hook": "AI로 꾸민 매물 사진, 뉴욕이 금지",
-  "tldr": "뉴욕시가 집주인이 AI로 조작·보정한 매물 사진을 쓸 때 이를 반드시 공개하도록 요구하는 방안을 내놨다.",
-  "detail": "뉴욕시가 집주인·중개인이 AI로 만들거나 보정한 매물 사진을 쓸 때 이를 의무적으로 공개하도록 하는 방안을 추진한다. 조란 맘다니 시장은 이날 '임대 사기 보고서(Rental Ripoff Report)'를 통해 AI로 매물 이미지를 실제보다 좋게 꾸미는 기만적 관행에 제동을 걸었다. 보고서에는 세입자 노조 인정, 세입자 교섭권 확대와 함께 AI·디지털 도구로 매물을 수정한 경우 이를 알리도록 하는 권고가 담겼다. 시는 다섯 개 자치구에서 열린 '임대 사기 청문회'에서 곰팡이, 해충, 불투명한 수수료 등 수천 명의 사례를 들었다고 밝혔다. 특히 새 직장 등으로 원격으로 임대차 계약을 맺어야 하는 세입자가 사진과 실제가 다를 때 피해를 보기 쉽다고 지적했다. 맘다니 시장은 이번 조치가 실제 경험에 뿌리를 둔 것이며, 안전한 집을 제공하지 않는 집주인에게 책임을 묻겠다고 강조했다.",
-  "bullets": [
-   "맘다니 시장이 발표한 '임대 사기 보고서'는 집주인·중개인이 AI로 조작·보정한 매물 사진을 쓸 때 이를 공개하도록 요구한다.",
-   "원격으로 계약하는 세입자가 실제와 다른 사진에 속기 쉬워, 이번 조치의 핵심 배경이 됐다.",
-   "세입자 노조 인정, 교섭권 확대 등 세입자 권리 강화 방안도 함께 담겼다."
   ]
  },
  "Why do AI company logos look like buttholes? (2025)": {
@@ -1296,90 +166,9 @@
    "Lean 형식 검증이 사실이라면 AI가 자연어 추론을 넘어 기계로 검증 가능한 증명까지 만들어냈다는 의미로 보임."
   ]
  },
- "Show GN: 고전 아케이드 게임의 웹 플레이 & Live kit을 이용한 네트워크 플레이": {
-  "tldr": "LiveKit을 활용해 웹에서 고전 MAME 아케이드 게임을 네트워크 플레이로 즐길 수 있게 만든 프로젝트다."
- },
- "Lone Lisp를 만든 Matheus Moreira 인터뷰": {
-  "tldr": "libc 없이 리눅스 시스템 호출 위에서 직접 도는 Lisp 'Lone Lisp'를 만든 Matheus Moreira와의 인터뷰다."
- },
- "Mindwalk - 코딩 에이전트 세션을 코드베이스의 3D 지도 위에서 재생하는 시각화 도구": {
-  "tldr": "코딩 에이전트가 코드베이스의 어디를 탐색·읽기·수정했는지 3D 지도 위에서 재생해 보여주는 시각화 도구다."
- },
- "GitRoot": {
-  "tldr": "이슈·보드·병합 요청까지 모든 데이터를 일반 파일로 Git에 저장하는 단일 바이너리 경량 Git 포지 'GitRoot'다."
- },
- "역진행(Regressive) JPEG": {
-  "tldr": "점진적 JPEG 구조를 뒤집어, 다운로드가 진행될수록 이미 보이던 이미지가 다른 이미지로 계속 바뀌게 만든 실험이다."
- },
- "LG 모니터, 사용자 동의 없이 Windows Update로 소프트웨어 설치": {
-  "tldr": "일부 LG 모니터를 연결하면 동의 절차 없이 Windows Update로 McAfee 구독을 홍보하는 앱이 자동 설치된다."
- },
- "EEG로 확인한 뇌의 두 음성 스트림 동시 부호화": {
-  "tldr": "EEG 분석 결과, 주의를 옮길 때 새 화자에 대한 신경 추적이 기존 화자에서 벗어나기 전에 시작돼 두 음성이 잠시 동시에 표상됐다."
- },
- "Zilog Z80 출시 50주년": {
-  "tldr": "1976년 나온 8비트 마이크로프로세서 Zilog Z80이 출시 50주년을 맞았다."
- },
- "H-E-B의 엔터프라이즈 Haskell 도입과 운영": {
-  "tldr": "미국 대형 유통사 H-E-B가 공급망 시스템에 Haskell을 도입해 8년간 약 100만 줄 규모 코드를 프로덕션에서 운영해 온 경험을 공유한다."
- },
- "문제를 해결하지 않고 대응하는 세 가지 방식": {
-  "tldr": "조직이 문제를 실제로 풀지 않고 다른 곳으로 떠넘기거나, 그대로 보존하거나, 새 문제를 만들어 대응하는 세 가지 패턴을 짚는다."
- },
- "로마 콘크리트는 어떻게 수천 년을 견뎠나? 1,900년 된 화장실에서 찾은 단서": {
-  "tldr": "하드리아누스 빌라의 1,900년 된 화장실 콘크리트 분석에서, 포졸란 반응뿐 아니라 장기 탄산화가 균열을 메워 내구성을 높였다는 단서가 나왔다."
- },
- "Pebble 대규모 업데이트 – 2026년 7월": {
-  "tldr": "Pebble Time 2가 2만3천 대 이상 생산돼 예약 주문 80%를 이행했고, 소프트웨어 최적화로 배터리 수명도 크게 늘었다."
- },
- "SQLite를 운영하며 새롭게 배운 몇 가지": {
-  "tldr": "소규모 프로덕션에서 SQLite를 운영하며 얻은 교훈으로, ANALYZE로 쿼리 플래너 통계를 갱신하자 FTS5 검색이 5초에서 약 0.05초로 줄었다."
- },
- "Show GN: drawdb-collaborative - 실시간 협업이 가능한 drawDB": {
-  "tldr": "drawDB를 포크해 여러 사용자가 같은 ERD 다이어그램을 실시간으로 함께 수정할 수 있게 만든 무료 self-hosted 프로젝트다."
- },
- "Kimi: Threat or menace?": {
-  "ko": "Kimi는 위협인가, 골칫거리인가",
-  "tldr": "중국 문샷AI가 새 Kimi 모델을 공개하자 '완전한 AI 공산주의'를 둘러싼 우려가 일고 있다는 글이다."
- },
- "Show GN: 윈도우의 MSIX를 더블클릭 인스톨러 EXE로 만들어주는 도구를 만들어봤습니다.": {
-  "tldr": "스토어 밖 배포가 까다로운 Windows MSIX 패키지를 더블클릭만으로 설치되는 EXE 인스톨러로 바꿔주는 도구다."
- },
- "Show GN: Solar-RS485-Monitor – RS485 기반 태양광 인버터 모니터링 도구": {
-  "tldr": "라즈베리파이와 USB-RS485 어댑터로 태양광 인버터의 발전량·전압·전류 등을 실시간 수집하는 오픈소스 모니터링 도구다."
- },
- "젠슨 황이 입었던 가죽 재킷, 소더비 경매서 14억에 최종 낙찰": {
-  "tldr": "젠슨 황 엔비디아 CEO의 시그니처 가죽 재킷이 소더비 경매에서 예상가의 20배가 넘는 96만 달러(약 14억 원)에 낙찰됐다."
- },
  "Topcoat: The full full-stack framework for Rust": {
   "ko": "Topcoat: Rust를 위한 완전한 풀스택 프레임워크",
   "tldr": "Rust로 프론트엔드부터 백엔드까지 아우르는 풀스택 웹 프레임워크 'Topcoat'가 공개됐다."
- },
- "여수, 생성 AI 교실 운영…20일부터 모집": {
-  "tldr": "여수시가 초등 5~6학년과 중학생을 대상으로 생성 AI와 캔바를 활용한 진로 포트폴리오 교실을 운영하며 20일부터 신청을 받는다."
- },
- "순천, ‘탄소모아 탄탄e’ 운영...연 최대 20만원 포인트": {
-  "tldr": "순천시가 걷기·자전거 이용 등 탄소중립 활동을 인증한 시민에게 연 최대 20만 원의 포인트를 지급하는 플랫폼 '탄소모아 탄탄e'를 운영한다."
- },
- "앤트로픽, '페이블 5' 정식 요금제 편입...프로모션 종료하고 '50% 제한'": {
-  "tldr": "앤트로픽이 페이블 5 무료 프로모션을 끝내고 20일부터 맥스·팀 프리미엄 요금제에 정식 편입하며 주간 사용량 50% 제한을 적용한다."
- },
- "광양, 전남 중·고생 SW코딩캠프 모집…20개 팀 선착순": {
-  "tldr": "광양시가 전남 중·고생을 대상으로 9월 5일 열리는 SW코딩캠프 참가팀 20개를 선착순 모집한다."
- },
- "115년 상징의 추락...IBM 25% 폭락이 경고하는 'AI 블랙홀'": {
-  "tldr": "IBM이 2분기 실적 사전 경고로 하루 만에 주가가 25% 폭락하며, AI 시대에 사업 모델이 통할지에 대한 근본적 의문이 커지고 있다."
- },
- "Mamdani 뉴욕시장, 임대 광고에 AI 이미지를 몰래 사용할 수 없다고 밝혀": {
-  "img": "https://social.news.hada.io/topic/31576",
-  "hook": "AI로 꾸민 집 사진, 뉴욕이 막는다",
-  "tldr": "뉴욕시가 임대 광고에서 매물을 실제보다 좋아 보이게 만든 AI 이미지 사용 시 그 사실을 반드시 공개하도록 의무화를 추진한다.",
-  "detail": "뉴욕시가 임대 광고에 쓰인 AI 생성·편집 이미지의 사실 공개를 의무화하는 방안을 추진한다. Zohran Mamdani 시장과 시 행정부는 임대인·중개인이 매물 사진을 AI로 만들거나 편집해 실제보다 매력적으로 보이게 한 경우 이를 공개하도록 요구할 계획이며, 시의 'Rental Ripoff Report'는 AI뿐 아니라 기타 디지털 도구로 변경한 매물도 공개 대상으로 권고한다. 광고 사진과 실제 주거 환경의 차이는 현장을 확인하지 못한 채 원격으로 계약하는 세입자에게 특히 심각한 피해를 준다. 이번 보고서는 AI 공개를 넘어 세입자 조합 인정, 협상권 확대, 건축·주거 법규 집행 시스템 현대화 등 폭넓은 세입자 보호 조치도 담았다. Mamdani 시장은 취임 첫 주에 'Rental Ripoff Hearings'를 열어 5개 자치구 주민 2,400명을 만나 곰팡이·해충·불명확한 수수료·기만적 임대 관행 등의 피해를 수집했고, 이를 정책 권고에 반영했다. 다만 시장에게 실제 집행 권한이 부족해 표시 의무가 실효성 없이 그칠 수 있다는 비판과, 전면 금지가 낫다는 의견도 함께 제기된다.",
-  "bullets": [
-   "뉴욕시는 생성형 AI로 만들거나 편집해 부동산을 실제보다 매력적으로 보이게 한 임대 광고 이미지에 'AI 사용' 공개 의무를 부과하는 방안을 추진 중이다.",
-   "현장을 직접 보지 못하고 원격으로 계약하는 이주 세입자가 가장 큰 피해를 입기 때문에, 이번 조치는 이들을 겨냥한 세입자 보호책의 일부다.",
-   "방송 전 체크: 실제 집행 권한과 강제력이 약해 실효성이 없을 수 있다는 지적도 나온다."
-  ]
  },
  "AI Mania Is Eviscerating Global Decision-Making": {
   "img": null,
@@ -1393,29 +182,6 @@
    "방송 전 체크: '성공률 0%'는 저자 개인의 관찰 범위에 근거한 주장으로, 전체 산업을 대표하는 통계는 아님을 명시할 것."
   ]
  },
- "만들면 사람들이 찾아온다": {
-  "tldr": "새 공동체에 빠르게 스며들려면 남의 행사에 참석만 하기보다, 직접 모임과 활동을 기획해 사람들을 초대하는 편이 관계 형성에 더 효과적이라는 이야기다."
- },
- "AI 코드 검토가 타당한 반론이 될 수 없는 이유": {
-  "img": "https://social.news.hada.io/topic/31578",
-  "hook": "LLM 코드 다 검토하면 된다는 착각",
-  "tldr": "LLM 코드를 사람이 전부 검토하면 된다는 해법은, 효과적 리뷰의 물리적 한계(1시간·400줄) 때문에 생산성과 품질을 동시에 보장하지 못한다.",
-  "detail": "LLM이 만든 코드를 사람이 전부 검토하면 된다는 흔한 반론은, 코드 리뷰 자체의 처리 한계 때문에 오류를 충분히 거르지도 생산성을 지키지도 못한다는 것이 글의 결론이다. 경험적 연구에 따르면 효과적인 리뷰의 상한은 한 세션 1시간·약 400 LOC 수준이며, 이를 넘기면 피로로 결함 탐지 효과가 급감한다. 이 기준을 적용하면 생성된 400줄마다 숙련 개발자의 집중 검토 1시간이 필요해, 현실적인 일일 처리량은 1,000 LOC 미만에 그칠 수 있다. 여기엔 보일러플레이트·테스트·설정 파일이 모두 포함되며, 테스트 파일 하나만으로도 400줄을 넘길 수 있다. 게다가 초기 증거는 사람이 LLM 코드에서 결함을 더 적게 발견하면서도 자신의 검토 성과는 더 높게 평가하는 경향을 보여, '전면 검토'가 오류를 실제로 해결한다는 근거도 약하다. 옹호론이 셸 스크립트처럼 가장 검토하기 어려운 코드를 대표 사례로 내세우는 것도 모순이라고 지적한다. 결국 필자는 결함 탐지율·리뷰 속도·하루 지속 가능량을 직접 측정한 실증 연구가 나와야 도구의 실효성을 일화가 아닌 근거로 판단할 수 있다고 본다. 다만 세션 간 회복 시간 등 일부 수치는 직접 연구가 없어 추정임을 필자 스스로 밝히고 있다.",
-  "bullets": [
-   "경험적 연구상 효과적 코드 리뷰는 1시간·400줄(LOC)이 상한이라, LLM 코드를 전부 검토하려면 하루 처리량이 1,000줄 미만으로 묶일 수 있음.",
-   "초기 증거에 따르면 사람은 LLM이 생성한 코드에서 결함을 오히려 더 적게 찾으면서도 다 찾았다는 확신은 더 강해지는 경향이 있음.",
-   "방송 전 체크: 리뷰 세션 간 회복 시간, LLM 코드의 결함 탐지율 같은 핵심 수치는 직접 연구가 부족해 아직 확정된 값이 아님."
-  ]
- },
- "중국, 미국의 'AI 기술 무단 추출' 주장 전면 부인...\"기술 경쟁 정치화\" 비판": {
-  "tldr": "중국이 자국 AI 기업의 미국 기술 무단 추출(증류) 의혹을 전면 부인하며, 미국이 AI 기술 경쟁을 정치화하고 있다고 맞받았다."
- },
- "미국 전역서 AI 데이터센터 반대 시위…42개 주서 초당적 동시 집회": {
-  "tldr": "미국 42개 주에서 142건의 AI 데이터센터 반대 집회가 동시에 열리며, 물·전력·환경 우려가 보수·진보를 넘어선 초당적 쟁점으로 떠올랐다."
- },
- "\"엔비디아 내부서도 GPU 확보 전쟁...젠슨 황이 직접 중재\"": {
-  "tldr": "AI 열풍으로 GPU 품귀가 심해지면서 엔비디아 내부 사업부끼리도 컴퓨팅 자원을 놓고 다투며 젠슨 황 CEO가 직접 중재에 나서고 있다."
- },
  "NYC may require landlords and realtors to disclose the use of AI in listings": {
   "img": "https://petapixel.com/assets/uploads/2026/07/mamdani-copy.jpg",
   "ko": "뉴욕시, 부동산 매물의 AI 이미지 사용 공개 의무화 추진",
@@ -1426,134 +192,6 @@
    "조란 맘다니 시장이 발표한 '렌탈 리프오프 리포트'에 매물의 AI 조작 이미지 공개 의무화 권고가 담겼다.",
    "실제보다 좋아 보이게 꾸민 AI 매물 사진 때문에 원격으로 계약하는 세입자들이 피해를 본다는 문제의식이 배경이다.",
    "방송 전 체크: 아직 권고안 단계로, 실제 법·규정으로 확정되었는지는 확인 필요."
-  ]
- },
- "Show GN: Kaileron - 회원가입 없이 즐기는 MAME 롤백 넷플레이": {
-  "tldr": "회원가입 없이 클래식 MAME 아케이드 게임을 온라인에서 함께 즐길 수 있게 해주는 Windows용 롤백 넷플레이 런처다."
- },
- "씽킹AI, 한국 진출 후 보폭 확대…고객사 60곳 확보·기능 고도화 가속": {
-  "tldr": "중국 AI 에이전트 씽킹AI가 5월 한국 진출 선언 이후 지사 인력 15명·고객사 60곳을 확보하며 사업 확장에 속도를 내고 있다."
- },
- "지금은 Kimi K3의 시간": {
-  "img": "https://social.news.hada.io/topic/31574?v=3cf090dae9a0e9f02deed4851d03f51a",
-  "hook": "Claude 대신 Kimi 쓰는 이유",
-  "tldr": "코딩 작업에서 Kimi K3가 Claude와 품질은 비슷하면서 가격은 훨씬 저렴해, 굳이 Claude를 계속 결제할 이유가 줄고 있다는 주장이다.",
-  "detail": "품질은 비슷하고 가격은 낮은 중국발 오픈 모델 때문에 Claude를 계속 결제할 이유가 줄고 있다는 글이다. 필자는 일상적인 코딩 업무에서 Kimi K3와 Claude를 함께 써봤지만 출력 품질과 답변에 필요한 토큰 수에서 큰 차이를 구별하기 어려웠다고 한다. 가격을 보면 Kimi K3 API는 100만 토큰당 입력 $3·출력 $15로, 각각 $10·$50인 Claude 최상위 모델보다 크게 저렴하다. 또 Kimi 유료 플랜은 월 $19부터 시작하고 월 $39 코딩 티어의 사용량이 넉넉한 반면, Claude는 평범한 에이전트 작업일에도 점심 전에 사용량 한도를 소진할 수 있다고 지적한다. 필자는 미국 정부가 Fable 출시를 늦추고 여러 작업을 거부하는 제한을 걸어둔 사이, 중국 연구소의 프런티어급 오픈 모델은 규제 밖에서 내려받아 쓸 수 있다는 점을 문제로 본다. 실제로 Semgrep 사이버보안 벤치마크에서는 제한된 Claude가 일부 작업을 거부한 사이 MIT 라이선스로 공개된 GLM 5.2가 이를 수행해 앞섰다고 주장한다(벤치마크 조건은 방송 전 확인 필요). 결론적으로 필자는 미국의 규제가 해외 오픈 모델의 경쟁을 막지 못한 채 미국 사용자의 선택지만 좁혀, 최고 품질도 최저 가격도 아닌 국내 모델을 사게 될 수 있다고 우려한다.",
-  "bullets": [
-   "필자는 일상 코딩에서 Kimi K3와 Claude를 병행했더니 출력 품질과 토큰 사용량에서 실질적 차이를 느끼기 어려웠다고 함.",
-   "가격 차이가 큰데, Kimi K3 API는 100만 토큰당 입력 $3·출력 $15로 Claude 최상위 모델($10·$50)보다 저렴하고 유료 플랜도 사용량이 넉넉하다고 함.",
-   "방송 전 체크: Semgrep 사이버보안 벤치마크에서 GLM 5.2가 제한된 Claude를 앞섰다는 주장 — 벤치마크 조건과 '제한'의 실제 영향은 확인 필요."
-  ]
- },
- "데이터가 유일한 해자다": {
-  "img": "https://social.news.hada.io/topic/31606?v=cf5cf9552a19c6e0892e23343d45740a",
-  "hook": "코딩 AI만 빨리 좋아진 진짜 이유",
-  "tldr": "AI 애플리케이션의 지속적인 경쟁 우위는 모델이나 UX가 아니라 사용 과정에서 쌓이는 데이터에서 나온다는 분석이다.",
-  "detail": "AI 애플리케이션 시장에서 지속 가능한 해자는 결국 사용 과정에서 축적되는 데이터라는 분석입니다. 글은 시장을 문제 해결 난이도와 도입 난이도 두 축으로 네 영역으로 나눕니다. 도입과 해결이 모두 쉬운 소비자 검색은 진입 장벽이 낮아 보이지만 실제로는 가치 함정에 가깝습니다. 스타트업이 쉽게 만들 수 있다면 프런티어 연구소는 이미 만들었거나 더 쉽게 만들 수 있고, 수백만 건의 사용 데이터로 해당 분야 모델을 개선할 수 있기 때문입니다. 도입은 쉽지만 해결이 어려운 코딩 영역에서는 개발자가 승인 없이 5분 만에 Cursor로 전환할 수 있었던 점이 결정적이었습니다. 하루 수십에서 수백 번 코드를 생성하며 제안을 수락하거나 거절할 때마다 훈련 데이터가 쌓이는 데이터 플라이휠이 작동했습니다. 반면 도입은 어렵지만 해결이 쉬운 엔터프라이즈 영역에서는 통합 과정에서 고객별 데이터 해자가 형성돼 후발 주자가 같은 전문성을 재현하기 어렵습니다. 필자는 향후 12~24개월 내 SRE나 보안 운영처럼 도입과 해결이 모두 어려운 시장에서 승자가 나올 수 있지만, 평가와 구현 기간이 길고 검증 신호가 부족해 성공률은 낮을 수 있다고 봤습니다.",
-  "bullets": [
-   "코딩 에이전트가 가장 빨리 발전한 이유는 문제가 쉬워서가 아니라 도입이 쉬워 하루 수십~수백 번의 수락·거절 데이터가 쌓였기 때문이라는 설명입니다.",
-   "반대로 슬라이드 생성처럼 세밀한 검증 신호가 없는 분야는 복잡도가 비슷해도 개선 속도가 훨씬 느립니다.",
-   "도입이 쉬운 제품은 데이터를 많이 모으지만 교체도 쉬워, 모델 제공업체와의 자본 경쟁에 그대로 노출된다고 지적합니다."
-  ]
- },
- "Claude Code, Rust로 재작성된 Bun 사용": {
-  "img": "https://social.news.hada.io/topic/31603?v=1eb66100fdec40f58b4db12037b61d08",
-  "hook": "Claude Code 안에 숨어있던 Rust",
-  "tldr": "Claude Code v2.1.181부터 Rust로 포팅된 Bun이 내장돼 리눅스 시작 속도가 10% 빨라졌지만 대부분의 사용자는 변화를 느끼지 못했다.",
-  "detail": "Claude Code가 6월 17일 출시된 v2.1.181부터 Rust로 포팅된 Bun을 내장하고 있습니다. 이 변경으로 리눅스 시작 속도가 10% 향상됐지만 그 외 차이는 사용자가 거의 알아차리지 못했고, Bun 개발자 Jarred Sumner는 이를 \"Boring is good\"이라고 평가했습니다. 검증 방법도 공유됐습니다. strings 명령으로 ~/.local/bin/claude를 조사하면 macOS arm64 환경에서 'Bun v1.4.0'이 출력되는데, 당시 GitHub 최신 정식 릴리스는 5월 12일의 v1.3.14였으므로 아직 출시되지 않은 프리뷰가 포함된 셈입니다. 같은 방식으로 src/runtime/bake/dev_server/mod.rs 등 563개의 Rust 소스 경로도 추출됩니다. BUN_OPTIONS로 preload 스크립트를 넣어 Bun.version을 출력해도 1.4.0이 나옵니다. package.json 버전은 5월 17일 커밋에서 1.4.0으로 바뀐 뒤 유지되고 있으며 아직 canary 외 태그 릴리스에는 포함되지 않았습니다. 한편 국내 커뮤니티에서는 TUI가 왜 JavaScript와 터미널용 React를 거쳐야 하느냐는 의문과, LLM 학습 데이터가 풍부한 언어를 쓰는 것이 합리적이라는 반론이 함께 나왔습니다.",
-  "bullets": [
-   "실행 파일 문자열을 조사하면 아직 정식 태그가 없는 Bun v1.4.0과 563개의 .rs 파일 경로가 확인됩니다.",
-   "BUN_OPTIONS로 TypeScript 파일을 미리 불러와 Bun.version을 출력하는 방식으로도 1.4.0임을 검증할 수 있습니다.",
-   "Rust 버전은 Bun canary로 배포돼 이미 수백만 대의 기기에서 프로덕션 실행 중입니다."
-  ]
- },
- "Supabase가 조사한 2026년 스타트업 현황": {
-  "img": "https://social.news.hada.io/topic/31604?v=6fcc8fcf1f710692c50ea7e9ef65cc04",
-  "hook": "Cursor 19%p 폭락, 1위는 Claude Code",
-  "tldr": "스타트업 빌더 2,000명 조사 결과 Anthropic이 개발도구·구독·모델 공급자 전 부문에서 1위에 올랐고 창업자는 더 고령·비기술·1인 중심으로 바뀌었다.",
-  "detail": "Supabase가 스타트업 빌더 2,000명을 조사한 결과 AI 도구 시장이 Anthropic 중심으로 재편된 것으로 나타났습니다. Claude Code는 AI 코딩 도구 사용률 63%로 1위를 기록했고 Visual Studio Code 44%, Cursor 31%, Antigravity 22%가 뒤를 이었습니다. 특히 Cursor는 19%포인트 하락했습니다. 유료 구독에서도 Claude가 28%에서 59%로 거의 두 배가 된 반면 OpenAI/ChatGPT는 57%에서 39%로 내려앉았고, 모델 공급자 부문에서도 Anthropic이 38%에서 64%로 오르며 OpenAI(69%→52%)를 앞질렀습니다. 창업자 구성도 달라져 1인 창업 비율이 53%에서 61%로 늘고, 40세 이상은 18%에서 25%로 증가했으며 기술 창업자 비율은 82%에서 78%로 낮아졌습니다. AI 코드 생성은 보편화돼 응답자 61%가 코드베이스 절반 이상을 AI로 작성했고 50~59세 창업자 중 60%는 76~100%를 AI로 생성했습니다. 다만 AI 코드 비중이 높을수록 아직 수익화하지 못하고 고객 확보를 최대 과제로 꼽는 경향이 강했습니다. 스택은 Postgres 계열(80%)과 Supabase·Vercel·Cloudflare 중심으로 통합됐지만, 프롬프트 관리 체계가 없는 팀이 47%에 달하는 등 운영 기반은 뒤처졌습니다.",
-  "bullets": [
-   "Claude Code 사용률 63%, Claude 유료 구독 59%, Anthropic 모델 사용률 64%로 Anthropic이 세 부문 모두 선두를 차지했습니다.",
-   "Cursor는 19%포인트 하락했고 OpenAI 유료 구독은 57%에서 39%로, 모델 점유율은 69%에서 52%로 떨어졌습니다.",
-   "응답자 61%가 코드베이스 절반 이상을 AI로 생성했지만, AI 코드 비중이 높은 팀일수록 아직 수익화하지 못한 경향이 나타났습니다."
-  ]
- },
- "합성 소비자, 실전 활용 가능성을 입증하다": {
-  "img": "https://social.news.hada.io/topic/31609?v=e29acb695a59f9c6c4ccc1c1a716dc98",
-  "hook": "AI 가짜 고객이 진짜를 90% 맞췄다",
-  "tldr": "AI로 만든 합성 소비자가 과거 실제 조사 결과의 약 90%를 재현하며 정성 탐색을 넘어 정량 분석 도구로 쓰이기 시작했다.",
-  "detail": "실제 고객을 AI로 재현한 합성 소비자가 정성적 탐색을 넘어 반복 가능한 정량 분석 단계에 진입했습니다. 거래·행동·인구통계·고객 의견 등 기업의 자체 데이터로 디지털 트윈이나 세그먼트별 페르소나를 만들면 외부 데이터에만 의존할 때보다 맥락과 신뢰성이 높아집니다. 한 컨슈머 기술 기업이 과거 대규모 컨조인트 연구를 정답 데이터로 삼아 역검증한 결과, 원래 연구를 학습에서 제외했는데도 디지털 트윈이 핵심 결과의 약 90%를 재현했습니다. GLP-1 약물 관련 소비자 설문과의 비교에서도 합성 응답이 인간 응답과 밀접하게 일치했고, 질문이 모호할 때만 분산이 커졌습니다. 배경에는 기존 조사의 한계가 있습니다. 컨조인트로 시험할 수 있는 가격대와 기능 조합 수에 제한이 있고, 최근 설문 응답 사기와 봇 침투가 늘어 유효 데이터를 얻는 비용이 커졌으며, 특정 산업 CFO처럼 모집단 자체가 작은 B2B에서는 표본 확보가 어렵습니다. US Bank와 Target이 실제로 도입했고, 한 글로벌 서비스 기업은 NPS 데이터로 만든 경영진 페르소나로 영업팀 제안 연습을 시켜 몇 주 만에 전 세계 사무소로 확대했습니다. 다만 성공적인 도입에는 역검증, 자체 데이터 통제, 구축과 구매의 균형, 운영 모델 개편이라는 네 가지 조건이 필요합니다.",
-  "bullets": [
-   "한 컨슈머 기술 기업의 과거 컨조인트 연구를 역검증한 결과, 디지털 트윈이 주요 특성·선호 점유율·포트폴리오 결정 등 핵심 결과의 약 90%를 재현했습니다.",
-   "US Bank는 고액 자산가 세그먼트 메시지 시험에, Target은 실제 웹사이트 테스트 전 소비자 반응 시뮬레이션에 이미 합성 청중을 쓰고 있습니다.",
-   "보고서는 LLM에 진정한 공감 능력이 없어 기존 조사를 대체하기보다 보강해야 하며 역검증과 자체 데이터 통제가 전제라고 못 박았습니다."
-  ]
- },
- "태스크 이코노미 - 데이터가 만드는 다음 1조 달러 시장": {
-  "img": "https://social.news.hada.io/topic/31608?v=be35e7ab2099cb3ae0bcab7efe346ca7",
-  "hook": "토큰 다음은 '태스크'다",
-  "tldr": "모델 개선에 쓰이는 데이터 작업 단위인 '태스크'가 추론 토큰에 이어 AI 투자를 측정하는 조 단위 시장으로 부상하고 있다.",
-  "detail": "AI 사용량을 재는 단위가 토큰이라면, 모델 능력 개선을 재는 단위는 '태스크'가 될 것이라는 전망입니다. 태스크는 강화학습에서 모델이 연습하는 단위로, 초기 상태와 작업 환경을 제공하고 결과를 보상 신호나 검증기로 채점해 학습 신호를 만듭니다. 이 시장이 커지는 이유는 두 가지 변화 때문입니다. 인터넷에서 새로 학습할 데이터가 소진됐고, 단순하고 범용적인 능력이 포화됐습니다. 예컨대 법률 분야에서 유능한 변호사의 실제 업무를 재현하려면 계약서 검토 같은 프롬프트, 법률 데이터룸 같은 실제 환경, 기업 변호사의 평가표 기반 검증이 결합돼야 하는데 이런 데이터는 공개 인터넷에 없습니다. 실제 지출도 급증해 OpenAI와 Anthropic은 데이터 지출을 매년 10배씩 확대하고 있고, 일부 AI 애플리케이션 기업은 태스크 관련 지출을 단기간에 1억 달러 이상으로 늘렸습니다. 태스크 경제 플랫폼 Mercor는 2월 ARR 10억 달러 달성 후 4개월 만에 20억 달러를 기록했습니다. 필자는 AI가 다뤄야 할 인간 지식의 99%가 아직 사람의 머릿속에 있다는 전제 아래, 법률·의료·금융·소프트웨어·과학이 각각 별도의 데이터셋과 평가 체계, 강화학습 환경을 요구하면서 데이터 인프라 경쟁이 확대될 것으로 봤습니다.",
-  "bullets": [
-   "인터넷 학습 데이터가 소진되고 범용 능력이 포화되면서 전문가의 암묵지를 담은 고품질 데이터가 모델 발전의 병목이 됐습니다.",
-   "OpenAI와 Anthropic의 데이터 지출은 매년 10배씩 늘고 있고, 데이터 플랫폼 Mercor는 2월 ARR 10억 달러에서 4개월 만에 20억 달러에 도달했습니다.",
-   "태스크 시장은 비밀주의가 강한 연구소에 지출이 집중돼 왔고 토큰 같은 공통 측정 단위가 없어 외부에서 잘 보이지 않았다는 분석입니다."
-  ]
- },
- "AI 래퍼는 끝났다: 초기 스타트업을 위한 수직화 전략": {
-  "img": "https://social.news.hada.io/topic/31598?v=e3d36b823d78ec342f50a170c1eecc97",
-  "hook": "'AI for X'는 왜 무너졌나",
-  "tldr": "기반 모델 위에 기능 하나만 얹은 AI 래퍼의 시대가 끝나고, 워크플로 전체를 소유하는 수직 통합 전략이 살아남고 있다는 분석이다.",
-  "detail": "기반 모델에 단일 기능을 얹은 AI 래퍼의 일시적 우위가 사라지고 있다는 분석입니다. ChatGPT 등장 후 창업자들은 카피라이팅, 고객 서비스, 법률 조사 같은 개별 작업에 모델을 붙여 팔았지만, 모델 기능이 정체할 것이라는 전제가 무너졌습니다. Anthropic은 Claude Code와 Claude Design처럼 2년 전이라면 래퍼로 불렸을 도구를 직접 제공하고 있고, 공개된 수치에 따르면 연환산 매출이 1월 140억 달러에서 5월 470억 달러를 넘어섰습니다. 2022년 기업가치 15억 달러로 1억2,500만 달러를 조달한 Jasper는 1년 내 ARR 전망을 30% 이상 낮추고 감원했으며 공동창업자 2명이 모두 물러났습니다. 반면 살아남은 기업들은 서비스 전체를 소유했습니다. 개인 상해라는 좁은 분야에서 시작한 EvenUp은 2,000곳 이상의 로펌을 고객으로 확보하고 2025년 10월 기업가치 20억 달러 이상으로 1억5,000만 달러를 조달했습니다. Blitzy는 코드베이스 지식 그래프와 오케스트레이션 계층으로 SWE-Bench Pro 66.5%를 기록해 1위에 올랐고, Tomo는 모기지 업체에 소프트웨어를 파는 대신 심사 과정 자체를 AI 중심으로 재설계해 구매자의 77%에게 더 좋은 금리를 제공하고 있습니다.",
-  "bullets": [
-   "기업가치 15억 달러였던 Jasper가 1년 안에 ARR 전망을 30% 낮추고 공동창업자 2명이 물러난 사례를 대표 사례로 듭니다.",
-   "프런티어 연구소가 Claude Code처럼 2년 전이면 래퍼로 분류됐을 도구를 직접 내놓으면서 단일 기능 제품의 전제가 무너졌다는 설명입니다.",
-   "살아남는 방식으로는 복잡한 워크플로 소유, 기존 사업의 자동화 중심 재설계, 기록 시스템에서 행동 시스템으로의 확장 세 가지를 제시합니다."
-  ]
- },
- "여분의 Mac을 Claude Code 전용 제어 환경으로 만드는 단계별 가이드": {
-  "img": "https://social.news.hada.io/topic/31591?v=c03fe5981d43192b91770df278466ad5",
-  "hook": "안 쓰는 맥을 AI 전용기로",
-  "tldr": "개인 데이터가 없는 여분의 Mac에 Claude Code를 설치해, 위험한 권한 옵션의 리스크를 주 컴퓨터와 완전히 분리하는 방법을 정리한 가이드다.",
-  "detail": "개인 데이터가 없는 여분의 Mac을 Claude Code 전용 실행 환경으로 만드는 방법을 정리한 가이드입니다. 목적은 --dangerously-skip-permissions로 광범위한 권한을 갖는 에이전트를 주 Mac 밖으로 격리해, 접근 가능한 민감 정보를 줄이는 것입니다. 필자는 컨테이너 방식이 여전히 주 Mac에서 실행되고 네트워크 요청도 주 Mac을 거치므로 완전한 분리가 아니며, Unity나 Mac 전용 앱 실행과 GUI 클릭·드래그 작업에도 제약이 있다고 지적합니다. 구성 절차는 대상 Mac 초기화와 Apple ID 없는 새 로컬 관리자 계정 생성으로 시작합니다. 이어 원격 로그인 활성화, /etc/sudoers.d/에 암호 없는 sudo 규칙 추가, .local 호스트 이름 고정, Ed25519 키 기반 SSH 설정, pmset으로 절전과 화면 잠금 방지를 진행합니다. GUI 제어는 LaunchAgent가 GUI 세션 안에서 유지하는 tmux 서버로 구현하며, 화면 기록과 손쉬운 사용, 전체 디스크 접근 권한은 사람이 직접 허용해야 합니다. 여기에 Remote Control, Claude in Chrome, 화면 공유, Tailscale을 더하면 휴대폰 제어부터 브라우저 자동화와 외부 접속까지 가능합니다.",
-  "bullets": [
-   "--dangerously-skip-permissions로 실행되는 에이전트가 접근할 수 있는 민감 정보를 줄이는 것이 핵심 목적입니다.",
-   "컨테이너와 달리 장비 자체가 분리되고 Unity나 Mac 전용 GUI 앱도 다룰 수 있다는 점을 이유로 듭니다.",
-   "기기 초기화, 암호 없는 sudo·SSH, 절전 방지, LaunchAgent 기반 tmux 구성까지 단계별 명령을 제시합니다."
-  ]
- },
- "Qwen 3.8 출시": {
-  "img": "https://social.news.hada.io/topic/31599?v=21797ff9a7da4716a728394c2b1978bc",
-  "hook": "2.4조 파라미터, 곧 무료 공개",
-  "tldr": "알리바바가 2.4조 파라미터 규모의 Qwen3.8을 공개하고 조만간 오픈 웨이트로 전환하겠다고 밝혔다.",
-  "detail": "알리바바 Qwen이 2.4조 파라미터 규모의 Qwen3.8을 공개하고 조만간 오픈 웨이트도 개방하겠다고 발표했습니다. Qwen 측은 이 모델이 계속 진화 중이며 현재 가장 강력한 모델 중 하나로, 선도적인 프런티어 모델들과 견줄 수준이고 Fable 5에만 뒤진다고 자평했습니다. 정식 공개 전이라도 Qwen3.8-Max-Preview를 Token Plan, Qoder, QoderWork에서 바로 쓸 수 있습니다. 국제 사용자용 Token Plan은 Lite/Standard/Pro 3단계로 프로모션 가격이 각각 월 6달러, 18달러, 68달러이며, 동시 실행 가능한 에이전트는 1~2개에서 6~8개까지 차등됩니다. OpenAI와 Anthropic 프로토콜을 지원하는 도구에서 API 키와 Base URL로 연결할 수 있습니다. 커뮤니티에서는 문샷AI가 2.8조 파라미터 Kimi K3를 7월 27일까지 오픈 웨이트로 공개하겠다고 발표한 데 대한 대응이라는 해석과, 마침 진행 중인 World AI Conference 일정에 맞춘 발표라는 분석이 함께 나왔습니다. 한편 로컬 실행이 가능한 27B·35B급 소형 모델도 함께 공개되길 바란다는 요구가 많았습니다.",
-  "bullets": [
-   "Qwen 측은 자사 모델이 현재 가장 강력한 모델 중 하나이며 Fable 5 다음 수준이라고 주장했는데, 이는 자체 평가입니다.",
-   "Qwen3.8-Max-Preview는 Token Plan, Qoder, QoderWork에서 이미 체험할 수 있고 국제용 요금제는 월 6~68달러입니다.",
-   "커뮤니티에서는 문샷AI가 2.8조 파라미터 Kimi K3 오픈 웨이트 공개를 예고한 데 대한 대응으로 보인다는 해석이 나왔습니다."
-  ]
- },
- "MIDI 레코더 2,500대를 판매하며 배운 것: 하드웨어는 그렇게 어렵지 않다": {
-  "img": "https://social.news.hada.io/topic/31601?v=cfcd40b95552d7cddfee250d42fddfcb",
-  "hook": "하드웨어보다 20만 줄 코드가 힘들었다",
-  "tldr": "Jamcorder 개발자가 2,500대를 판매한 뒤 내린 결론은 어려운 쪽은 하드웨어가 아니라 20만 줄짜리 소프트웨어였다는 것이다.",
-  "detail": "피아노 연주를 자동으로 기록하는 Jamcorder가 출시 1년 반 만에 2,500대 이상 팔리며 독립적으로 유지 가능한 사업이 됐습니다. 개발자는 전자 설계와 플라스틱 제조, 주문 처리, 부품 부족, 생산분 폐기를 걱정했지만 실제 개발 과정에서 하드웨어는 비교적 순조로웠습니다. 트럼프 관세가 그나마 현실적인 위협에 가까웠을 뿐, 예상했던 문제는 발생하지 않았습니다. 가장 어려웠던 작업은 펌웨어와 앱, 제조 도구에 분산된 약 20만 줄의 코드였고 LLM 이전 환경에서 3년 넘게 걸렸습니다. 이런 결과가 가능했던 배경에는 의도적인 단순화가 있습니다. 단일 PCB를 나사 하나로 조립하고, 사출 금형에 넉넉한 구배를 둬 슬라이드를 없앴으며, 배터리 부족 감지와 주변광 감지, 전원 버튼, USB-C까지 제외했습니다. 저자는 2,500대가 큰 규모는 아니며 복잡도가 10배거나 생산량이 100배라면 난도가 달라진다고 인정합니다. 실전 원칙으로는 BOM 단순화, 단일 제조사 의존 회피, 중국 조립 업체 협력, 최소 70% 총마진, 사내 최종 QA, 작은 포장을 제시했습니다. 다만 국내 댓글에서는 KC 인증 부담 때문에 한국에서는 같은 방식이 어렵다는 지적도 나왔습니다.",
-  "bullets": [
-   "단일 PCB와 나사 하나로 조립하고 저전압 감지·전원 버튼·USB-C까지 덜어낸 단순한 설계가 핵심이었습니다.",
-   "우려했던 생산분 폐기나 부품 조달 문제는 실제로 발생하지 않았고, 트럼프 관세가 그나마 가장 아슬아슬했습니다.",
-   "저자는 복잡도가 10배거나 생산량이 100배, 혹은 스마트워치·자동차처럼 마진이 낮은 시장이라면 다른 얘기라고 선을 그었습니다."
-  ]
- },
- "AI 광풍이 전 세계의 의사결정을 무너뜨리고 있음": {
-  "img": "https://social.news.hada.io/topic/31602?v=b49d6a3e5b7d44a4ee468b18c4b357ae",
-  "hook": "AI 프로젝트 성공률 18개월간 0%",
-  "tldr": "컨설턴트가 18개월간 관찰한 AI 프로젝트의 성공률이 0%였으며, 조직들이 실패를 감추고 'AI 세탁'으로 대응하고 있다는 고발이다.",
-  "detail": "한 컨설턴트가 18개월간 관찰하거나 참여를 요청받은 AI 프로젝트의 성공률이 0%였다고 밝힌 글입니다. 글쓴이는 실패가 드러나지 않는 이유로 이사회·경영진·직원·판매사 모두 실패를 공개할 유인이 없다는 점을 듭니다. 일부 상장사는 Copilot 라이선스를 구매한 것만으로 'AI 생산성 향상'을 발표하기도 했습니다. 내부 챗봇은 기업 문서 품질이 낮아 제대로 된 답을 만들지 못했고 직원 사용률도 유의미하지 않았으며, 고객용 챗봇 중 만족스러운 사례는 의료 진료 중 실시간 전사 정도였습니다. 직원 500명 이상 조직에서는 AI의 변혁적 힘을 반복해 선언해야 승진과 고용이 유지됐고, 연매출 20억 달러 이상 조직의 AI 중심 기술 전략을 만든 임원이 ChatGPT조차 쓴 적 없는 사례도 있었습니다. 그 결과 엔지니어들은 기존 방식으로 일한 뒤 Claude가 했다고 보고하는 'AI 세탁'을 시작했고, 토큰 소비량 순위표가 있는 조직에서는 LLM이 스스로 프롬프트를 반복하게 두거나 Go 저장소를 통째로 Zig로 재작성시킨 뒤 결과를 버리는 식으로 할당량을 채웠습니다. 다만 이 글은 개인의 경험에 기반한 주장이라는 점을 감안해야 합니다.",
-  "bullets": [
-   "글쓴이는 1년간 약 300회의 전문가 대화를 통해, 관찰하거나 참여 요청받은 AI 프로젝트가 모두 실패했다고 주장합니다.",
-   "관리자가 결과보다 AI 사용 여부를 중시하자 엔지니어들이 기존 방식으로 일한 뒤 AI가 했다고 보고하는 'AI 세탁'이 나타났습니다.",
-   "토큰 소비량으로 순위를 매기는 조직에서는 Go 코드를 Zig로 재작성시킨 뒤 결과를 버리는 식으로 할당량을 채운 사례도 소개됩니다.",
-   "방송 전 체크: 개인 컨설턴트의 경험담이라 표본이 한쪽으로 치우쳤을 수 있어, 정량 조사와 함께 다뤄야 합니다."
   ]
  },
  "Claude Code uses Bun written in Rust now": {
@@ -1640,110 +278,13 @@
    "앞으로 멤버십을 Kimi 멤버십과 Kimi Code 멤버십으로 분리해 컴퓨팅 자원을 정밀 배분하겠다고 예고했습니다."
   ]
  },
- "Fable 5 vs. GPT-5.6 Sol: NP-난해 문제에서 /goal은 도움이 되는가?": {
-  "tldr": "미공개 광섬유망 최적화 문제를 30분씩 풀린 결과 Fable 5가 최고 점수와 가장 안정적인 성능을 보였지만, /goal 기능은 일관된 성능 향상을 만들지 못했다."
- },
- "Show GN: 브라우저에서만 돌아가는 한국어 AI 글 판별기": {
-  "tldr": "고전 머신러닝으로 AI 생성 텍스트를 판별하는 접근을 한국어에 적용해, 서버 없이 브라우저에서만 동작하는 판별기를 만들었다는 소개다."
- },
- "IPTV보다 더 좋고 저렴한 Castor": {
-  "tldr": "헤드리스 Chrome으로 웹 페이지에서 실제 영상 스트림을 찾아내 화면 미러링 없이 원본 품질로 TV에 실시간 전송하는 터미널 도구다."
- },
- "Transcribe.cpp: 크로스 플랫폼 로컬 음성 인식 라이브러리": {
-  "tldr": "16개 음성 인식 계열의 60개 이상 모델을 Mac·Windows·Linux 앱에 내장하고 GPU로 가속할 수 있는 ggml 기반 로컬 음성 인식 라이브러리다."
- },
- "12만 달러짜리 볼링장 시스템을 1,600달러어치 ESP32로 교체": {
-  "tldr": "8만~12만 달러가 드는 볼링장 득점 시스템을 ESP32와 범용 부품으로 레인 한 쌍당 약 200달러부터 구현하는 오픈소스 프로젝트다."
- },
- "기술적으로 뛰어난 데이터 팀이 여전히 실패하는 이유": {
-  "tldr": "데이터 팀의 가치는 파이프라인이나 대시보드 생산량이 아니라 조직의 의사결정 변화에서 나오며, 그 사이에는 데이터를 해석하는 '관점' 계층이 필요하다는 주장이다."
- },
- "말기 4기 췌장암의 마지막 두 달: 증상 변화와 가족 돌봄의 핵심": {
-  "tldr": "말기 췌장암 환자의 마지막 두 달 동안 나타나는 신체 변화와 가족이 알아야 할 돌봄 요점을 정리한 글이다."
- },
- "OpenWiki - 코드베이스를 위한 에이전트용 문서를 작성하고 관리하는 CLI": {
-  "tldr": "AI 에이전트가 읽을 것을 전제로 코드베이스 문서 위키를 만들고 유지하는 CLI 도구다."
- },
- "최근 즐겨 읽는 블로그는 무엇인가요?": {
-  "tldr": "학술 논문이 주지 못하는 가치를 담은 블로그를 추천받는 커뮤니티 게시글이다."
- },
  "The death and rebirth of my home server": {
   "ko": "내 홈서버의 죽음과 부활",
   "tldr": "개인 홈서버가 망가진 뒤 이를 다시 구축한 과정을 담은 기록이다."
  },
- "새롭게 디자인된 Elixir-lang.org": {
-  "tldr": "Elixir 공식 홈페이지가 개인 개발부터 대규모 팀까지 확장 가능한 Erlang 기반 언어라는 정체성을 강조하는 방향으로 새단장했다."
- },
- "Gleam 저장소가 Tangled에 공개됨": {
-  "tldr": "타입 안전한 언어 Gleam의 저장소가 GitHub 외에 Tangled에서도 공개돼 이용할 수 있게 됐다."
- },
- "당신이 안 보는 사이 프론트엔드에 무슨 일이 있었나": {
-  "tldr": "2008년경 프론트엔드를 떠난 개발자를 위해, 지난 20년간의 도구들이 각각 어떤 문제 위에 생긴 흉터인지 계보로 설명하는 글이다."
- },
- "Codex 사용량 한도 리셋 추적기": {
-  "tldr": "OpenAI가 Codex 사용량 한도를 리셋한 시점을 추적해 총 35회, 평균 8.9일 간격이라는 통계를 보여주는 사이트다."
- },
- "Can an Apple lawsuit derail OpenAI’s hardware plans?": {
-  "ko": "애플의 소송이 OpenAI의 하드웨어 계획을 무너뜨릴까",
-  "tldr": "애플이 제기한 소송이 OpenAI의 하드웨어 진출과 상장 계획에 그늘을 드리울지 팟캐스트에서 토론했다."
- },
- "EU, 미판매 의류·신발 폐기 금지 시행": {
-  "tldr": "EU가 7월 19일부터 대기업의 미판매 의류·신발 폐기를 금지하고 할인·기부·재사용을 먼저 고려하도록 의무화했다."
- },
- "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’": {
-  "ko": "크리스토퍼 놀란 감독, AI를 \"뻔한 트로이 목마\"로 규정",
-  "tldr": "'오디세이'의 크리스토퍼 놀란 감독이 AI를 두고 \"모두가 그리스인이 안에 있다는 걸 안다\"며 명백한 트로이 목마라고 비판했다."
- },
- "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all": {
-  "ko": "비영리 Current AI, 모두에게 무료인 'AI판 월드와이드웹'에 도전",
-  "tldr": "어떤 문화도 소외시키지 않는 AI를 표방하는 비영리 단체 Current AI가 기기와 챗봇 전반에서 성과를 내며 모두에게 무료인 AI 웹을 만들고 있다."
- },
- "팀스파르타 “1.8B 모델로 K-AI 리더보드 추론 성능 1위”": {
-  "tldr": "팀스파르타의 초경량 모델 '스파르탄 1.8B'가 K-AI 리더보드의 초고난도 추론 평가 HLE(Ko) 부문에서 단독 1위를 차지했다."
- },
- "조코딩AX파트너스 'AX 인재전쟁' 마침표…5300명 중 60명 최종 결전": {
-  "tldr": "학력·경력 대신 AI 활용 문제 해결력만 평가한 'AX 인재전쟁'에 5,341명이 지원해 AI 심사를 거친 60명이 본선에 올랐다."
- },
- "삼성SDS, 국산 NPU 탑재 ‘NPUaaS’ 본격 출시": {
-  "tldr": "삼성SDS가 퓨리오사AI의 2세대 추론 특화 NPU '레니게이드'를 삼성 클라우드 플랫폼에 얹은 서비스형 NPU를 출시했다."
- },
- "\"강아지는 무슨 생각할까\"...카카오, 멀티모달 AI 기반 펫레터 선보여": {
-  "tldr": "카카오가 옴니모달 모델 '카나나-오'로 반려동물 사진을 분석해 속마음을 편지로 만들어주는 이벤트를 8월 14일까지 진행한다."
- },
- "[인사] 한국지능정보사회진흥원": {
-  "tldr": "한국지능정보사회진흥원이 경영기획실장과 인공지능정부본부장 등 부서장 인사를 단행했다."
- },
- "\"한국형 올모급 완전 공개 모델 등장\"...비드래프트, 학습 레시피·로그까지 공개": {
-  "tldr": "비드래프트가 가중치뿐 아니라 학습 데이터 레시피와 코드, 로그, 중간 체크포인트까지 모두 공개한 파운데이션 모델 'Aether-7B-5Attn'을 허깅페이스에 올렸다."
- },
- "알리바바, 2.4조 매개변수 '큐원3.8' 공개...\"페이블 5 이어 세계 2위\"": {
-  "tldr": "알리바바가 2조4000억 매개변수의 멀티모달 모델 큐원 3.8을 공개하며 앤트로픽 페이블 5에 이은 세계 2위 성능이라고 주장했다."
- },
  "Prepare your (v)ram - Qwen3.8 is coming!": {
   "ko": "VRAM 준비하세요…Qwen3.8이 온다",
   "tldr": "로컬 LLM 커뮤니티가 곧 오픈 웨이트로 공개될 Qwen3.8을 앞두고 하드웨어 준비를 화제로 삼고 있다."
- },
- "AI 조언을 받으면 정확도는 3분의 1로 떨어지고 자신감은 2배 이상 높아짐": {
-  "img": "https://social.news.hada.io/topic/31614?v=0d8dea70c6690f7758074718503da673",
-  "hook": "AI 쓰면 왜 더 자신만만해질까",
-  "tldr": "AI에게 물어본 참가자들은 '모른다'는 답을 거의 하지 않고 정확도는 27%에서 9%로 떨어졌지만 자신감은 30%에서 76%로 치솟았다는 연구가 나왔다.",
-  "detail": "AI에게 물어보는 순간 사람은 덜 맞히면서 더 확신하게 된다는 실험 결과가 나왔다. 밀라노-비코카대 Valerio Capraro, 파리 고등사범학교 Chiara Marcoccia, 로마 사피엔차대 Walter Quattrociocchi 등 프랑스·이탈리아 3개 대학 연구진이 진행한 실험에서, AI 조언에 접근할 수 있었던 참가자는 '모르겠다'고 답한 비율이 44%에서 3%로 떨어졌다. 정확도는 27%에서 9%로 3분의 1 수준이 됐고, 반대로 자신감은 30%에서 76%로 두 배 이상 뛰었다. 정답에 돈을 걸어도 '모르겠다'는 8%, 정답률은 16%까지만 올라 AI 없는 기준치를 회복하지 못했다. 연구진은 영화 속 유니폼 색깔처럼 AI가 잘 틀리는 시각적 세부 질문을 골랐고, 실제로 이런 문제에 약한 모델을 의도적으로 사용했다. 와튼 연구진은 사람들이 틀린 AI 답을 80% 비율로 받아들이는 현상을 '인지적 항복'이라 부른 바 있다. 다만 해외 커뮤니티에서는 틀리는 걸 미리 아는 도구를 쥐여주고 바로 그 부분을 시험한 설계라 'AI 고유의 문제를 검증한 게 아니다'라는 반박도 나왔다.",
-  "bullets": [
-   "프랑스·이탈리아 3개 대학 연구진 실험에서 '모르겠다'는 응답 비율은 44%에서 3%로 급감했고, 정답률은 27%에서 9%로 3분의 1 토막이 났습니다.",
-   "금전적 보상을 걸어도 정답률은 16%까지만 회복돼, AI를 아예 안 쓴 조건(27%)에는 크게 못 미쳤습니다.",
-   "방송 전 체크: 연구진이 일부러 해당 질문에 잘 틀리는 모델을 골라 썼기 때문에, 해외 커뮤니티에서는 '틀린 교과서를 주고 시험 본 것과 같다'는 설계 비판이 제기됐습니다."
-  ]
- },
- "OpenAI, Codex 모델 컨텍스트 크기를 372k에서 272k로 축소": {
-  "img": "https://social.news.hada.io/topic/31611?v=bfe34d39529f2a2fc46110a5db718764",
-  "hook": "OpenAI가 조용히 줄인 10만 토큰",
-  "tldr": "OpenAI가 Codex 0.144 릴리스에서 모델 컨텍스트 한도를 372k에서 272k 토큰으로 낮추면서 장문 작업 사용자들의 불만이 터져 나왔다.",
-  "detail": "OpenAI가 Codex의 컨텍스트 한도를 372k에서 272k 토큰으로 약 27% 줄였다. 변경은 PR #33972 'Backport refreshed bundled model metadata'로, 커밋 b06f4fa 하나에 JSON 파일 1개(64줄 추가·54줄 삭제)만 수정해 2026년 7월 18일 release/0.144 브랜치에 병합됐다. 별도 설명이나 리뷰 코멘트 없이 36개 검사를 통과해 들어갔고, 이후 OpenAI의 Tibo Sottiaux가 X에 설명을 올린 것으로 보인다. 개발자 반응은 갈렸다. 여러 논문이나 대형 코드베이스를 다루는 사용자들은 자동 압축을 끌 수 없고 압축 시점도 남은 컨텍스트 10~20%에서 무작위로 걸리기 때문에, 372k일 때 40% 수준이던 여유가 다시 좁아진다고 불평했다. 압축 이후 환각이 심해져 차라리 새로 시작하는 게 낫다는 지적도 나왔다. 반면 컨텍스트가 커질수록 성능이 떨어지고 비용이 늘기 때문에 100~150k 선에서 끊고 작업을 분할하는 게 낫다는 반론도 많았다.",
-  "bullets": [
-   "변경은 PR #33972로 7월 18일 병합됐고, 번들 모델 메타데이터 JSON 파일 한 개에서 컨텍스트 값을 372k에서 272k로 내리는 내용입니다.",
-   "개발자들은 자동 압축을 끌 수 없는 상태에서 한도까지 줄어들자 대형 코드베이스 작업이 어려워졌다며, 100만 토큰을 지원하는 Anthropic 모델로 옮기겠다는 반응을 보이고 있습니다.",
-   "반대로 애초에 300k 넘게 쓰는 것 자체가 설계 문제라며 작업을 쪼개는 게 낫다는 의견도 상당수 나왔습니다."
-  ]
  },
  "Claude Fable produced a counterexample to the Jacobian Conjecture": {
   "img": null,
@@ -1761,80 +302,6 @@
   "ko": "Kagi가 만든 웹 브라우저 '오라이언'",
   "tldr": "검색엔진 Kagi가 개발한 웹킷 기반 브라우저 Orion이 소개되며 프라이버시 중심 브라우저 대안으로 주목받고 있다."
  },
- "LG-유네스코, ‘MOOC 프로젝트’ 글로벌 론칭…‘AI 윤리 연수’ 본격화": {
-  "tldr": "LG AI연구원과 유네스코가 2년간 공동 개발한 AI 윤리 온라인 강좌를 20일 공개해, 전 세계 누구나 무료로 수강할 수 있게 됐다."
- },
- "SKT, 하나금융과 AI로 사회적 약자 돕는 '테크포굿' 해커톤 진행": {
-  "tldr": "SK텔레콤과 하나금융그룹이 대학생 115명과 함께 사회적 약자를 돕는 AI 서비스를 주제로 한 해커톤을 마쳤다."
- },
- "\"전력확보·인허가 규제 리스크까지\"...법무법인 원, 'AI 데이터센터 팀' 출범": {
-  "tldr": "법무법인 원이 데이터센터 입지 선정부터 전력 계통연계, 금융, 분쟁까지 아우르는 'AI 데이터센터 팀'을 출범했다."
- },
- "여수, 고3 수험생 200명 대입 수시 1대 1 컨설팅": {
-  "tldr": "여수시가 2027학년도 수시모집을 앞둔 고3 수험생과 학부모 200명을 대상으로 8월 두 차례 1대 1 입시 컨설팅을 운영한다."
- },
- "목포, 제107회 전국체전 하키 개최지 확정": {
-  "tldr": "목포시가 제107회 전국체육대회 하키 종목의 분산 개최지로 확정돼 지역 소비 효과를 기대하고 있다."
- },
- "나주, 나주목 관아 ‘동헌’ 재현 추진…설계비 1억 국비 신청": {
-  "tldr": "나주시가 조선시대 나주목 관아의 핵심 건물 '동헌' 재현을 위해 2027년도 실시설계비 1억원을 정부예산에 신청한다."
- },
- "순천, 8월 마을여행주간 앞두고 ‘쉴랑게’ 손님맞이 준비": {
-  "tldr": "순천시가 8월 마을여행주간을 앞두고 숙박·체험·음식·골목여행을 묶은 체류형 관광 브랜드 '쉴랑게' 준비에 들어갔다."
- },
- "크리스토퍼 놀란의 경고 “AI는 속 보이는 트로이 목마…반감은 고무적”": {
-  "tldr": "크리스토퍼 놀란 감독이 AI를 '속이 훤히 보이는 트로이 목마'에 비유하며, 젊은 세대의 AI 거부 움직임을 건강한 회의주의라고 평가했다."
- },
- "트럼프 정부 'AI 규제 완화' 기조 흔들…인적 쇄신·부처 갈등에 '개입주의'로 선회": {
-  "tldr": "트럼프 행정부가 백악관 인사 교체와 부처 간 갈등 속에서 AI 규제 완화 기조를 접고 국가안보를 앞세운 개입주의로 돌아서고 있다는 분석이 나왔다."
- },
- "문샷, 6개월 내 홍콩 IPO 추진…\"키미 K3, 이틀 만에 컴퓨팅 한계\"": {
-  "tldr": "문샷 AI가 키미 K3의 흥행과 매출 성장을 발판으로 이르면 6개월 내 홍콩 증시 상장을 추진하며 지배구조 정리에 착수했다."
- },
- "신진서 9단, AI ‘카타고’에 승리…”10년 만에 인간 승리”": {
-  "tldr": "세계 랭킹 1위 신진서 9단이 두 점 접바둑으로 최강 바둑 AI 카타고를 4집 반 차로 꺾어 알파고 이후 10년 만의 공식 인간 승리를 기록했다."
- },
- "알리바바, ‘쿠다 독점’에 오픈소스로 도전장… 현실 장벽 여전히 높아": {
-  "tldr": "알리바바가 자체 AI 칩용 소프트웨어 스택 '세일'을 전면 무료 개방하며 엔비디아 쿠다 생태계에 오픈소스로 도전장을 냈다."
- },
- "Show GN: sessionhub - 흩어진 Claude Code, Codex 세션을 한 곳에서 검색": {
-  "img": "https://social.news.hada.io/topic/31617?v=2170ee1e0497c8fb2d7b4a4253991e68",
-  "hook": "내 AI 대화 기록, 어디 갔지?",
-  "tldr": "여러 머신에 흩어진 Claude Code·Codex 대화 기록을 허브 한 대로 모아 검색하고, 에이전트가 필요할 때 과거 세션을 직접 꺼내 쓰게 해주는 오픈소스 도구다.",
-  "detail": "여러 머신에 흩어진 Claude Code·Codex 세션을 한 곳에서 검색할 수 있게 해주는 오픈소스 도구 sessionhub가 공개됐다. 개발자는 데스크톱과 노트북, 가끔은 서버까지 오가며 작업하는데 세션 로그가 각 머신의 ~/.claude/projects, ~/.codex/sessions에 JSONL로 쌓여만 있을 뿐 검색이 안 돼 결국 SSH로 일일이 접속해 뒤져야 했던 불편함에서 출발했다. 사용법은 sessionhub search 키워드로 찾고 sessionhub raw id로 당시 대화를 확인하는 식이며, 설치 시 Claude Code와 Codex에 스킬이 함께 깔려 작업 중 '/sessionhub 저번에 그거 어떻게 고쳤더라' 식으로 에이전트가 직접 관련 세션을 컨텍스트로 가져올 수 있다. 구조는 허브 머신 한 대를 정해두면 나머지 머신의 세션이 15분마다 SSH로 모이고, 허브가 아닌 머신에서 검색하면 허브가 대신 처리하는 방식이다. 용량 측면에서는 제작자가 자신의 로그를 분석한 결과 99.7%가 tool 호출·스트리밍 프레임·토큰 계산 같은 기계용 데이터였고 실제로 다시 찾아보는 대화는 0.3%에 불과해, 대화만 추출·압축해 인덱스에 넣자 약 10GB 원문이 수백 MB로 줄었다고 한다. 주목할 만한 점은 설계 철학으로, 최근 에이전트 장기 메모리가 지난 대화를 요약해 별도 메모리에 쌓는 방식이 많지만 제작자는 요약하는 순간 원래 맥락이 깎이고 쌓인 메모리는 시간이 지나면 낡는다는 문제를 지적하며 요약 없이 원본을 그대로 두고 필요할 때 다시 꺼내 보는 'compute-centric' 접근을 택했다. 설치는 uv tool install로 가능하며, 제작자는 에이전트에게 과거 컨텍스트를 낡지 않고 손실 없이 전달하는 문제에 대한 다른 해법도 궁금하다며 의견을 구했다.",
-  "bullets": [
-   "개발자가 데스크톱·노트북·서버를 오가며 작업하다 보니 예전에 해결한 작업이 어느 머신에 있는지 찾기 어려웠던 문제에서 출발한 도구다.",
-   "허브로 지정한 머신 한 대에 15분마다 SSH로 세션이 모이고, 다른 머신에서 검색하면 허브가 대신 찾아주는 방식이라 무거운 로그를 복사할 필요가 없다.",
-   "제작자가 자신의 로그를 분석해보니 99.7%가 tool 호출·스트리밍 프레임 같은 기계용 데이터였고 실제 다시 찾아보는 대화는 0.3%뿐이어서, 대화만 뽑아 압축한 결과 10GB가 수백 MB로 줄었다고 밝혔다."
-  ]
- },
- "Show GN: Oshiette(오시에떼) - 나만의 캐릭터와 대화하듯 즐기는 메신저형 비주얼 노벨": {
-  "tldr": "프롬프트 없이 캐릭터를 만드는 서비스 My Oshi Canvas를 선보였던 개발자가, 이번엔 자신이 만든 캐릭터와 메신저로 대화하듯 즐기는 비주얼 노벨 Oshiette를 공개했다."
- },
- "퍼플렉시티, 연구 에이전트 벤치마크 'WANDR' 출시…\"최고 AI도 실무는 한계\"": {
-  "tldr": "퍼플렉시티가 AI 연구 에이전트의 실제 지식 노동 능력을 평가하는 오픈 벤치마크 'WANDR'를 공개했는데, 현재 최고 성능 AI조차 정보를 빠짐없이 수집하고 근거로 입증하는 완전한 리서치에는 크게 못 미치는 것으로 나타났다."
- },
- "[게시판] 일레븐랩스, LOT 폴란드항공과 음성 AI 에이전트 실증 등 단신": {
-  "tldr": "일레븐랩스가 폴란드 국적기 LOT항공과 성수기 문의 폭증·다국어 대응 부담을 덜기 위한 음성 AI 어시스턴트 실증에 들어갔고, 네이버클라우드는 HD한국조선해양과 조선 산업 특화 클라우드 구축에 나선다."
- },
- "[게시판] 셀바스AI, 인천공항 안내로봇에 AI 음성기술 탑재 등 단신": {
-  "tldr": "셀바스AI의 음성 인터페이스가 인천공항 안내로봇 '에어스타' 20여대에 탑재됐고, 코난테크놀로지는 3만여건의 법령·기술자료를 RAG로 학습한 한국가스안전공사의 'AI 어드바이저'를 정식 가동했다."
- },
- "[기고] 슈퍼브에이아이 “피지컬 AI 데이터 팩토리, '몇 개 짓느냐'보다 '어떻게 돌리느냐'”": {
-  "tldr": "피지컬 AI 데이터 팩토리 논의가 '시설 건립' 중심으로 흐르고 있지만, 진짜 관건은 데이터를 실제로 굴리는 운영 방식이라는 지적이다."
- },
- "AI 모델들의 월드컵 베팅 결과는...제미나이 1위·클로드 최하위": {
-  "tldr": "AI 스타트업 옵사이드가 주요 AI 모델 7종에 2026 월드컵 실시간 베팅을 시켰더니 제미나이 3.5 플래시가 1위, 클로드 오퍼스 4.8이 최하위를 기록했다."
- },
- "오픈AI, 'GPT-5.6 솔' 사용자 후기 공개…\"생성 넘어 워크플로우 중심으로\"": {
-  "tldr": "오픈AI가 100만달러 크레딧을 걸고 모은 GPT-5.6 솔 활용 후기 1만여 건을 공개하며, AI 활용이 단순 생성에서 산업별 실제 워크플로우로 옮겨갔음을 보여줬다."
- },
- "넘즈에이아이, ‘정형 데이터 파운데이션 모델’로 40억 시드 투자 유치": {
-  "tldr": "표 형태 정형 데이터를 다루는 파운데이션 모델(TFM)을 개발하는 넘즈에이아이가 스톤브릿지벤처스 주도로 40억원 규모 시드 투자를 유치했다."
- },
- "\"챗봇과 바람피우면 이혼\"…'AI 불륜 조항' 넣는 신혼부부들": {
-  "tldr": "미국 혼전 계약 서비스에 AI 챗봇·가상 동반자와의 관계를 '외도'로 규정하는 조항을 넣어달라는 요청이 늘고 있다."
- },
  "When can a power company take your land for data center infrastructure?": {
   "ko": "전력회사가 데이터센터 인프라를 위해 내 땅을 수용할 수 있을까",
   "tldr": "AI 데이터센터 확산으로 전력망 건설이 늘면서, 전력회사의 토지 수용권이 어디까지 미치는지가 쟁점으로 떠올랐다."
@@ -1842,14 +309,6 @@
  "How proprietary formats have become Microsoft’s main tool for lock-in": {
   "ko": "독점 파일 포맷, Microsoft의 핵심 락인 수단이 되다",
   "tldr": "Microsoft가 독점 파일 포맷을 통해 사용자를 자사 생태계에 묶어두고 있다는 지적이다."
- },
- "China delivers a one-two punch to America’s AI dominance": {
-  "ko": "중국, 미국 AI 패권에 연타를 날리다",
-  "tldr": "Moonshot과 Alibaba가 OpenAI·Anthropic 최상위 모델에 맞먹는다고 주장하는 모델을 훨씬 낮은 비용으로 잇따라 공개하며 미국의 AI 선두 격차를 좁히고 있다."
- },
- "Beyond grep: The case for a context-rich AI coding harness": {
-  "ko": "grep을 넘어서: 맥락 중심 AI 코딩 하네스가 필요한 이유",
-  "tldr": "Augment Code의 Vinay Perneti가 AI 코딩 도구의 성능은 모델 자체보다 코드베이스 맥락을 얼마나 잘 제공하느냐에 달려 있다고 주장한다."
  },
  "Hacker wipes Romania's land registry database": {
   "img": "https://storage.ghost.io/c/16/e9/16e9a748-ca66-4b3c-8590-85537131f696/content/images/2026/07/000-RBN-logo-4.png",
@@ -1887,94 +346,6 @@
    "방송 전 체크: Kimi K3·Qwen 3.8이 Fable 5에 근접했다는 성능 주장은 아직 '알려진(allegedly)' 수준이라 실제 벤치마크 확인 필요."
   ]
  },
- "Kimi K3·Qwen 3.8과 Anthropic의 잠재적 균열": {
-  "img": "https://social.news.hada.io/topic/31646?v=cb0a24cb3959b41557ab45cc3f14c885",
-  "hook": "Anthropic 무너뜨릴 3가지 힘",
-  "tldr": "개방형 SOTA 모델과 저비용 인프라 경쟁이 겹치며, 인프라를 소유하지 않은 Anthropic이 모델·제품·비용 세 방향에서 언번들링 압력을 받는다는 분석이다.",
-  "detail": "결론적으로 이 글은 개방형 SOTA 모델의 등장으로 모델 중심 기업, 특히 Anthropic의 방어력이 세 방향에서 약해진다고 본다. Kimi K3(7월 16일)와 Qwen 3.8(7월 19일)이 Fable 5에 근접한 성능을 냈고 수주 안에 가중치가 공개될 예정이며, 이는 2025년의 단일 'DeepSeek 순간'보다 범위가 크다. 파운데이션 모델의 최대 비용은 추론이고, 데이터센터·발전 설비를 소유할수록 변동비를 고정비로 바꿔 마진을 키울 수 있다. Anthropic·Knowledge Atlas·Moonshot은 인프라를 외부 조달하는 쪽이라 모델 수요에만 성공이 좌우된다. Anthropic은 규제 전략과 재귀적 자기 개선에 크게 의존하지만, Fable 5는 완료 작업당 비용이 약 3배 높아 가격 전쟁 위험에 노출된다. 또한 Claude Code·Cowork 같은 하네스는 진입장벽이 거의 없어 OpenCode·OpenClaw·Hermes 등과 경쟁한다. 반면 OpenAI는 제품·소비자 경험·음성·하드웨어와 인프라 소유에 투자해 더 방어적인 기반을 갖추려 한다고 대비시킨다.",
-  "bullets": [
-   "글은 인프라 스택을 많이 소유할수록 추론 변동비를 고정비로 바꿔 마진을 키울 수 있다고 설명함.",
-   "Anthropic의 Fable 5는 완료 작업당 비용이 약 3배 높고, Claude Code·Cowork 하네스도 OpenCode·Hermes 등과 경쟁한다는 점을 약점으로 지적함.",
-   "방송 전 체크: Fable 5 성능 우위와 'GLM 5.2·Kimi K3·Qwen 3.8이 근접' 주장은 Artificial Analysis 등 실제 지표로 확인 필요."
-  ]
- },
- "arXiv 논문 12,750편에서 AI 문체를 측정한 방법과 한계": {
-  "img": "https://social.news.hada.io/topic/31645?v=097c3289a671242f1be333b42cad93d7",
-  "hook": "논문 3분의 1은 AI가 썼다",
-  "tldr": "arXiv 논문 12,750편 본문을 분석해 최신 논문의 약 3분의 1이 기계 작성처럼 읽혔으며, 오탐률을 0.4%로 고정한 엄격한 설계가 특징인 연구다.",
-  "detail": "결론적으로 이 연구는 arXiv 논문 본문을 분석해 최신 논문의 약 3분의 1이 기계 작성처럼 읽힌다고 측정했다. 핵심 설계는 탐지기가 인간 글까지 오탐하는 문제를 통제하기 위해 ChatGPT 이전 2021~2022년 논문을 인간 정답으로 두고 정확히 0.4%만 판정되도록 임계값을 고정한 것이다. 2023년 1월부터 2026년 7월까지 10개 분야에서 약 25편씩, 대조군 8개월을 더해 총 12,750편을 표집했고 버전 1 PDF와 부트스트랩 95% 신뢰구간을 사용했다. 초록은 신호를 축소하므로 본문 전체를 분석했다. 판정률은 대조 기간 0.4%에서 ChatGPT 등장 후 상승해 최근 완결 분기 약 32%, 2026년 초 약 39%로 정점을 찍었다. 분야별로는 컴퓨터과학 65%로 가장 높고 수학은 0.7%로 가장 낮았다. 다만 저자는 분야별 대조군이 각 200편뿐이라 수치가 거칠고, 수학의 낮은 값이 실제 도입률 저조인지 탐지 사각지대인지 단정하기 어렵다고 밝힌다. 결과는 저자 신원이나 생성 비중을 가리키지 않으며 기계적 문체의 하한선으로만 해석해야 한다.",
-  "bullets": [
-   "'N%가 AI'라는 수치의 함정을 피하려 2021~2022년 논문을 인간 대조군으로 삼아 오탐률을 0.4%에 고정했다고 설명함.",
-   "초록만 보면 신호가 축소돼 본문 전체를 분석했으며, 컴퓨터과학 65% 대 수학 0.7%로 분야 격차가 컸음.",
-   "저자 스스로 수학의 낮은 값은 도입률 저조인지 탐지 사각지대인지 구분하기 어렵고, 결과는 하한선으로만 읽어야 한다고 한계를 밝힘."
-  ]
- },
- "OpenCode의 성가시고 불안한 문제들": {
-  "img": "https://social.news.hada.io/topic/31641?v=419e9a25b18a3c3224b79b23a911d91b",
-  "hook": "스타 16만 AI 코딩툴의 함정",
-  "tldr": "GitHub 스타 16.1만의 오픈소스 코딩 에이전트 OpenCode를 시험한 결과, 프롬프트 캐시를 반복 무효화하는 성능 문제와 우회 가능한 권한 필터 등 도구 품질·보안 모두 사용 중단 수준이었다는 혹평이다.",
-  "detail": "결론적으로 이 글은 인기 오픈소스 코딩 에이전트 OpenCode가 도구 품질과 보안 설계 모두에서 사용을 중단할 만한 결함을 안고 있다고 평가한다. 필자는 로컬 LLM Qwen3.6-27B로 특정 Git 버전을 시험하며 LLM 출력을 Bash로 넘기는 구조의 실패 지점을 살폈다. 가장 큰 문제는 프롬프트 캐시를 반복해서 깨뜨리는 구조로, 매 턴 AGENTS.md를 다시 읽고 4만 토큰보다 오래된 도구 결과를 버리며 시스템 프롬프트에 현재 날짜를 넣어 자정을 넘기면 전체 캐시 미스가 난다. 그 결과 적절한 접두사 캐시를 못 찾으면 응답 생성까지 약 10분을 기다릴 수 있다. 세션 압축과 가지치기가 중요한 명세를 컨텍스트에서 지워 모델이 원래 요구를 잊은 채 코드를 짜는 문제도 있다. 보안 면에서는 Bash AST와 문자열 패턴에 의존하는 권한 필터가 간접 실행·절대 경로·변수·Python·리디렉션을 막지 못하고 영구 권한도 쉽게 우회된다. 필자는 원격 모델 기본 연결과 무제한 인터넷 접근, 과거 HTTP 서버 RCE 이력을 근거로 Docker만으론 부족하며 실행 파일 차단·읽기 전용 경로·OS 수준 격리가 필요하다고 결론짓는다.",
-  "bullets": [
-   "AGENTS.md 재로딩·고정 거리 가지치기·날짜 삽입이 프롬프트 캐시를 반복 무효화해, M4 Max에서도 응답 시작까지 최대 10분이 걸릴 수 있다고 함.",
-   "Bash AST와 문자열 패턴에 의존하는 권한 필터는 간접 실행·절대 경로·변수·리디렉션 등을 막지 못해 쉽게 우회된다고 지적함.",
-   "필자는 원격 모델 기본 연결과 무제한 인터넷 접근, 과거 RCE 이력을 들어 Docker만으론 부족하고 OS 수준 격리가 필요하다고 결론지음."
-  ]
- },
- "누가 중국 모델을 두려워하는가?": {
-  "img": "https://social.news.hada.io/topic/31642?v=bb41e313feefba1670c546f700cd2aef",
-  "hook": "중국 모델이 싸다는 착시",
-  "tldr": "AI의 경쟁력은 토큰 단가가 아니라 정답에 도달하는 데 드는 총비용(COGS)에서 갈리며, 중국 모델의 낮은 표시 가격은 미국의 공급 부족 프리미엄과 비교한 착시일 수 있다는 분석이다.",
-  "detail": "결론적으로 스트래테처리는 중국 오픈웨이트 모델의 위협이 토큰 단가가 아니라 '정답 수준의 지능'을 제공하는 매출원가(COGS)에서 판가름 난다고 분석한다. 오픈웨이트는 연구개발 고정비를 아껴주지만 추론 서비스 비용까지 없애주지는 않으며, 추론은 사용량과 함께 늘어나는 매출원가다. 모델마다 정답에 도달하는 데 필요한 토큰 수가 달라 토큰은 서로 대체 가능한 상품이 아니고, 실제 상품화되는 것은 토큰으로 만든 지능이다. Kimi K3는 표시 단가가 Sol보다 낮지만 훨씬 많은 토큰을 쓰는 것으로 알려져 그 이점이 사라질 수 있다. 지능의 매출원가는 모델 크기·추론 효율·메모리 효율·서빙 효율·토큰 효율 다섯 요소로 결정된다. 현재 최전선 시장은 컴퓨팅 부족으로 수요가 공급을 초과해 완전한 상품 시장이 아니며, Anthropic·OpenAI의 높은 가격은 이 공급 부족 프리미엄일 수 있다. 저자는 중국이 오픈웨이트로 AI를 상품화해 자국 로보틱스·물리 산업을 강화하려 하며 증류로 미국 최전선 모델을 저비용 교사로 활용하는 구조적 이점도 누린다고 본다. 미국이 대응 규제를 풀지 않으면 방어를 위해 오히려 중국 모델에 의존하게 될 수 있다고 경고한다.",
-  "bullets": [
-   "상품화되는 것은 토큰이 아니라 '정답 수준의 지능'이며, 모델마다 정답에 필요한 토큰 수가 달라 표시 단가만으론 실비용을 알 수 없다고 봄.",
-   "Kimi는 Sol보다 훨씬 많은 토큰을 쓰는 것으로 알려져, 토큰 효율까지 반영하면 중국 모델에 대한 경제적 공포가 과도할 수 있다고 주장함.",
-   "저자는 미국이 사이버보안용 최전선 모델 제한을 풀고 자국 오픈 개발사의 증류를 허용하지 않으면, 방어를 위해 오히려 중국 모델에 의존하게 될 수 있다고 경고함."
-  ]
- },
- "중국의 오픈 가중치 AI 전략이 앞서고 있음": {
-  "img": "https://social.news.hada.io/topic/31634?v=870f3603820f6bba44d7ffc31a72cb51",
-  "hook": "중국이 AI 판을 뒤집는 법",
-  "tldr": "AI 모델 자체는 방어력이 약해, 중국의 오픈 가중치 개방 전략이 미국의 폐쇄 전략보다 넓은 배포 생태계를 만들며 앞서고 있다는 분석이다.",
-  "detail": "결론적으로 이 글은 방어력이 약한 AI 모델을 폐쇄하려는 미국 전략보다, 개방으로 넓은 생태계를 만드는 중국의 오픈 가중치 전략이 앞선다고 주장한다. 모델은 워크플로에 큰 영향 없이 교체할 수 있고 엔지니어링에선 API만 바꾸면 되므로, 한 공급자를 계속 쓸 기술적 유인이 거의 없다고 본다. 진짜 방어력은 계약·기업 시스템 연동·업무 편의 기능 같은 주변 서비스에서 나온다. 미국의 GPU 수출 통제와 데이터 규제 때문에 중국 기업은 글로벌 중앙집중형 서비스를 제공하기 어렵지만, 대신 모델을 공개해 컴퓨팅 열세를 배포 우위로 바꿨다. 오픈 가중치 모델은 오픈소스는 아니지만 이식 가능하고 허가 없이 쓸 수 있어 인프라 채택에 유리하다. Moonshot과 Alibaba가 훨씬 낮은 비용으로 OpenAI·Anthropic 최고 모델에 맞설 수 있다고 밝히며 성능 격차도 좁혀지고 있다. a16z의 Martin Casado는 임의의 스타트업이 중국 모델을 쓸 확률을 80%로 평가했다고 인용되며, 저자는 미국이 폐쇄 전략을 고수하면 AI 지출 의존도가 높은 자국 경제까지 위험해질 수 있다고 경고한다.",
-  "bullets": [
-   "기업 AI의 실질 방어력은 모델보다 계약·시스템 연동·편의 기능 같은 주변 서비스에서 나온다고 봄.",
-   "미국의 GPU 수출 통제가 중국의 글로벌 중앙집중 서비스를 막았지만, 중국은 모델 공개로 컴퓨팅 열세를 배포 우위로 전환했다는 주장임.",
-   "방송 전 체크: a16z의 Martin Casado가 '스타트업의 80%가 중국 모델을 쓴다'고 평가했다는 인용은 원 발언 맥락 확인 필요."
-  ]
- },
- "Claude Fable이 Jacobian 추측의 반례를 만들다": {
-  "img": "https://social.news.hada.io/topic/31636?v=d408e7522b1b08b004f15d4538d287f9",
-  "hook": "AI가 40년 난제를 뒤집다",
-  "tldr": "Claude Fable이 만든 다항식 사상이 Jacobian 행렬식은 상수 -2이면서 서로 다른 세 점을 한 점으로 보내, ℂ³에서 Jacobian 추측의 반례가 됐다.",
-  "detail": "결론적으로 Claude Fable이 만든 것으로 소개된 다항식 사상이 Jacobian 추측의 반례로 제시됐다. 이 사상은 ℂ³→ℂ³에서 정의되며 세 성분 모두 x·y·z에 관한 다항식으로 구성된다. 첫 성분은 (1+xy)^3z + y²(1+xy)(4+3xy), 둘째는 y + 3x(1+xy)²z + 3xy²(4+3xy), 셋째는 2x - 3x²y - x³z이다. 이 사상의 Jacobian 행렬식은 상수 -2로 0이 아니다. 그런데 서로 다른 세 점 (0,0,-1/4), (1,-3/2,13/2), (-1,3/2,13/2)가 모두 (-1/4,0,0)으로 대응돼 단사 함수가 아니다. 상수이면서 0이 아닌 Jacobian을 가지면서도 단사성이 깨지므로, 이 식은 ℂ³에서 Jacobian 추측을 반박한다. 행렬식과 함숫값은 각각 Wolfram|Alpha 계산으로 확인할 수 있다고 제시된다. 다만 'Claude Fable이 만들었다'는 출처가 트위터 미러이므로 생성 과정과 검증은 원 출처로 확인할 필요가 있다.",
-  "bullets": [
-   "이 사상은 ℂ³→ℂ³에서 정의되고 세 점 (0,0,-1/4)·(1,-3/2,13/2)·(-1,3/2,13/2)가 모두 (-1/4,0,0)으로 대응돼 단사성이 깨진다고 함.",
-   "방송 전 체크: 'Claude Fable이 만들었다'는 출처가 xcancel(트위터 미러)이므로, 실제 생성 과정과 검증은 원 출처로 확인 필요.",
-   "댓글에서는 과거 2변수 반례가 150차 이상까지 탐색된 것과 달리 이번은 3변수 7차 반례라는 점, 그리고 AI가 반증에 '경악'했다는 반응이 화제가 됨."
-  ]
- },
- "Kimi Work: 지식 노동자를 위한 차세대 데스크톱 AI 에이전트": {
-  "img": "https://social.news.hada.io/topic/31644?v=b8e3bb3325bcb0bce4dc39698f3c0492",
-  "hook": "AI가 밤새 내 컴퓨터로 일한다",
-  "tldr": "Kimi Work는 로컬 파일 연결·브라우저 자동화·예약 실행·에이전트 스웜을 묶어 심화 업무를 수행하는 데스크톱 AI 에이전트다.",
-  "detail": "결론적으로 Kimi Work는 로컬 폴더를 마운트해 심화 작업을 수행하는 데스크톱 AI 에이전트로, 빠른 질의용 웹 앱과 차별화된다. 내장 Cron 스케줄러가 반복 작업을 백그라운드에서 실행해 이른 아침 일일 브리핑을 작성하거나 자정에 대규모 데이터셋을 처리할 수 있다. WebBridge는 목표를 받으면 여러 탭을 탐색하며 클릭·스크롤·데이터 추출을 자율 수행하고, Agent Swarm은 여러 전문 에이전트를 조율해 복합 작업을 병렬 처리한다. A주·홍콩·미국 주식 데이터가 기본 통합돼 복잡한 API 설정 없이 이용할 수 있다. 로컬 파일 수정·덮어쓰기나 코드 실행 전에는 'Ask before acting' 보호 장치가 명시적 승인을 요청한다. 다만 커뮤니티는 이 안내가 파일 읽기 권한이 무제한이라는 점을 밝히지 않는다고 지적하고, 디자인이 Codex를 노골적으로 복제했다는 비판도 나온다. 반면 저렴하면서 최전선에 근접한 모델에 앱 계층만 얹으면 되고, 5분의 1 가격이면 복제품이 아니라 성공할 제품이 된다는 반론도 함께 제기된다.",
-  "bullets": [
-   "내장 Cron 엔진으로 LLM 호출과 Python·Shell 실행을 예약하고, WebBridge로 여러 탭을 오가며 데이터를 추출한다고 소개함.",
-   "로컬 파일 수정·코드 실행 전에는 'Ask before acting'으로 명시적 승인을 요청하지만, 커뮤니티는 파일 읽기 권한은 무제한이라는 점을 지적함.",
-   "댓글에서는 Codex를 거의 1대1로 복제했다는 비판과 함께, 5분의 1 가격이면 복제품이라도 성공할 제품이라는 반론이 엇갈림."
-  ]
- },
- "Show GN: newsline – Claude Code 기다리는 동안 상태줄에서 읽는 한 줄 뉴스": {
-  "img": "https://social.news.hada.io/topic/31622?v=8a7b56c0183ea799fb979e969f438912",
-  "hook": "AI 기다리는 시간에 뉴스 한 줄",
-  "tldr": "newsline은 Claude Code 작업을 기다리는 동안 상태줄 아래 한 줄에 지역 현지 매체 헤드라인을 6초마다 회전 표시하는 도구다.",
-  "detail": "결론적으로 newsline은 Claude Code가 긴 작업을 처리하는 대기 시간에 상태줄 아래 한 줄로 지역 맞춤 뉴스 헤드라인을 보여주는 도구다. 기존 상태줄(HUD)을 교체하지 않고 한 줄을 덧붙이는 방식이라 이미 쓰던 상태줄과 함께 쓸 수 있다. 단순 번역이 아니라 한국은 연합뉴스, 일본은 NHK, 프랑스는 Le Monde처럼 로케일별 신뢰도 높은 현지 매체를 1순위로 두고, 매체가 막히면 Google News 피드로 폴백한다. 헤드라인은 OSC 8 하이퍼링크라 대부분의 터미널에서 바로 클릭해 기사로 이동할 수 있고, 8개 언어와 분야 선택, 색상·회전 주기 설정을 지원한다. 상태줄은 매우 자주 호출되므로 네트워크를 기다리면 안 되기에, 백그라운드에서 표준 라이브러리만으로 RSS를 가져와 로컬 캐시에 저장하고 호출 시 캐시에서 즉시 렌더한 뒤 벽시계 기준으로 회전시킨다. 갱신은 single-flight 락이 걸린 백그라운드 프로세스가 맡아 중복 실행이 없다. 수집·표시는 전부 로컬이며 외부로는 지역 소스 선정용 대략적 컨텍스트만 나가고, 설정으로 완전 로컬 모드도 가능하다.",
-  "bullets": [
-   "기존 상태줄을 교체하지 않고 한 줄을 덧붙이는 방식이며, 한국은 연합뉴스, 일본은 NHK처럼 로케일별 현지 매체를 1순위로 쓴다고 함.",
-   "상태줄은 자주 호출되므로 네트워크를 기다리지 않도록 백그라운드에서 RSS를 로컬 캐시에 저장하고 캐시에서 즉시 렌더한다고 설명함.",
-   "수집·표시는 전부 로컬이고, 외부로 나가는 건 지역 소스 선정용 대략적 컨텍스트뿐이며 완전 로컬 모드도 지원한다고 밝힘."
-  ]
- },
  "Safety and alignment in an era of long-horizon models": {
   "img": null,
   "ko": "장기 실행 모델 시대의 안전과 정렬",
@@ -1985,17 +356,6 @@
    "OpenAI는 장기 실행 모델에서 새로운 안전 위험과 실제 관찰된 실패 사례를 확인했다고 밝힘 (요약 기준, 세부 내용은 원문 확인 필요).",
    "반복적 배포(iterative deployment)를 통해 안전장치를 점진적으로 개선했다고 함.",
    "방송 전 체크: 구체적 실패 유형과 완화책은 요약만으로는 알 수 없어 원 블로그 본문 확인 필요."
-  ]
- },
- "Moonshot AI, Kimi K3 수요 급증으로 신규 구독 일시 중단": {
-  "img": "https://social.news.hada.io/topic/31624?v=ebb41c68922a4bd955d7f5ccd43ccf5b",
-  "hook": "인기 폭발에 신규 가입 막은 AI",
-  "tldr": "Kimi K3 수요가 급증해 GPU 용량 한계에 근접하자, Moonshot AI가 기존 구독자 경험 보호를 위해 신규 구독을 일시 중단했다.",
-  "detail": "결론적으로 Moonshot AI는 Kimi K3 수요 급증으로 GPU 용량 한계에 근접하자 신규 구독을 일시 중단하고 기존 회원에 컴퓨팅을 우선 배정했다. 최근 48시간 동안 사용량이 현재 용량의 한계에 근접했으며, 기존 유료 구독자는 영향을 받지 않는다고 밝혔다. 회사는 인프라 용량 증설을 서두르고 있으며, 추가 용량을 확보하는 대로 신규 구독을 배치 단위로 재개할 계획이다. 또한 멤버십을 웹·앱·Work용 'Kimi Membership'과 코딩용 'Kimi Code Membership' 두 요금제로 나눠 서비스별 수요에 맞춰 자원을 더 정확히 배분한다. 커뮤니티는 빠른 성장보다 기존 고객 만족을 우선한 조치라며 긍정적으로 평가했다. 다만 K3가 12분간 생각한 뒤 일일 할당량을 모두 소진했다거나, 20달러 요금제로는 주력 도구로 쓰기 부족하다는 실사용 불만도 함께 나왔다. 에이전트 코딩 평가에서는 K3가 단발 추론에는 약해도 도구 사용·반복 개선에서는 상위권이라는 관찰도 소개된다.",
-  "bullets": [
-   "최근 48시간 GPU 사용량이 용량 한계에 근접해, 기존 회원에 컴퓨팅을 우선 배정하고 용량 증설 뒤 배치 단위로 신규 가입을 재개할 예정이라 함.",
-   "멤버십을 Kimi(웹·앱·Work)와 Kimi Code(코딩)로 분리해 서비스별 수요에 맞춰 자원을 배분한다고 밝힘.",
-   "다만 댓글에서는 K3가 12분 생각 후 일일 할당량을 다 써버렸다는 등, 속도와 할당량이 실사용에 걸림돌이라는 불만도 나옴."
   ]
  },
  "Agent swarms and the new model economics": {
@@ -2034,17 +394,6 @@
    "방송 전 체크: 이는 디지털 권리 단체 EDRi의 입장이며 유출 초안에 근거하므로, 최종 협정문·집행위 공식 입장과 대조 필요."
   ]
  },
- "China's open-weights AI strategy is winning": {
-  "ko": "중국의 오픈웨이트 AI 전략이 이기고 있다",
-  "hook": "중국이 AI 판을 뒤집는 법",
-  "tldr": "AI 모델 자체는 방어력이 약해, 중국의 오픈웨이트 개방 전략이 미국의 폐쇄 전략보다 넓은 배포 생태계를 만들며 앞서고 있다는 분석이다.",
-  "detail": "결론적으로 이 글은 폐쇄·독점 중심의 미국 AI 전략이 실패할 운명이며 중국의 오픈웨이트 전략이 앞서고 있다고 주장한다. 저자는 모델 자체는 쉽게 교체 가능해 해자가 거의 없고, 진짜 경쟁력은 기업 시스템 연동·계약·편의 기능 같은 주변 서비스에 있다고 본다. 미국의 GPU 수출 통제와 데이터 규제 때문에 중국 기업은 글로벌 중앙집중형 서비스를 제공하기 어렵지만, 대신 모델을 공개해 컴퓨팅 열세를 배포 우위로 전환했다고 설명한다. 오픈 기술은 허가 없이 어디서든 호스팅·수정할 수 있어 인프라 채택에서 유리하다는 것이다. Moonshot과 Alibaba가 훨씬 낮은 비용으로 OpenAI·Anthropic 최고 모델에 맞설 수 있다고 주장하며 성능 격차도 좁혀지고 있다. a16z의 Martin Casado는 임의의 스타트업이 중국 모델을 쓸 확률을 80%로 평가했다고 인용된다. 저자는 미국이 폐쇄 전략을 고수하면 AI 지출에 크게 의존하는 자국 경제까지 위험해질 수 있다고 경고한다.",
-  "bullets": [
-   "저자는 모델 자체엔 브랜드 충성도 정도의 해자밖에 없고, 진짜 해자는 기업 시스템 연동·계약 같은 주변 서비스에 있다고 봄.",
-   "미국의 GPU 수출 통제가 오히려 중국을 오픈 배포 전략으로 몰아, 컴퓨팅 열세를 배포 우위로 바꿨다는 주장임.",
-   "방송 전 체크: a16z의 Martin Casado가 '스타트업의 80%가 중국 모델을 쓴다'고 한 인용은 원 발언 맥락을 확인할 것."
-  ]
- },
  "The Voice of Google": {
   "ko": "구글의 목소리",
   "tldr": "요약과 본문이 제공되지 않아 구체적 내용은 확인되지 않으며, 제목상 구글의 화법·입장·영향력 등을 다룬 글로 보임.",
@@ -2056,132 +405,6 @@
    "이후 자신의 마케팅 역량을 사내 반대 목소리를 내는 도구로 활용했다고 밝힘.",
    "초기 구글의 TGIF 전사 회의를 종교 부흥회에 비유하며, 창업자들을 우상처럼 떠받드는 직원들의 집단적 신념 분위기를 묘사함."
   ]
- },
- "Show GN: 어디서든 창을 잡아 옮기는 초경량 맥 유틸 Snatch": {
-  "tldr": "Snatch는 수정자 키를 누른 채 창 위 아무 곳에서나 마우스를 움직여 창을 옮기고 크기를 조절하는 초경량 맥 메뉴바 유틸이다."
- },
- "WordPress RCE를 GPT5.6과 25달러로 발견": {
-  "tldr": "GPT5.6 Sol Ultra가 최신 안정판 WordPress에서 인증 전 SQL 주입부터 관리자 계정 생성·원격 코드 실행까지 이어지는 공격 체인을 10여 시간 만에 찾아냈다."
- },
- "Xiaomi-Robotics-1 - 10만 시간의 실제 데이터로 학습한 로봇 파운데이션 모델": {
-  "tldr": "Xiaomi-Robotics-1은 10만 시간 규모의 로봇 비종속 UMI 궤적으로 사전 학습한 뒤 실제 로봇 데이터로 후속 학습해 데이터 부족을 완화한 로봇 파운데이션 모델이다."
- },
- "EU가 무비자 여행을 대가로 민감한 개인정보를 미국에 넘기려 함": {
-  "tldr": "미국이 무비자 유지 조건으로 각국 생체정보 DB 접근을 요구하자, EU 집행위가 이를 반영한 EBSP 기본협정 협상을 마무리하고 있다."
- },
- "해커가 루마니아 토지 등기 데이터베이스를 삭제": {
-  "tldr": "해커가 루마니아 토지 등기 기관 ANCPI에 침입해 금품 요구가 실패하자 데이터베이스와 백업을 삭제하면서, 부동산 시장이 일주일간 사실상 마비됐다."
- },
- "공항 시뮬레이터": {
-  "tldr": "착륙·출발 현황과 분당 항공편 수(Pace)를 한 화면에 집계해 공항 운영 흐름을 보여주는 시뮬레이터다."
- },
- "monitor-input-rs - DDC/CI로 모니터 입력 소스를 바꾸는 커맨드라인 도구": {
-  "tldr": "monitor-input-rs는 DDC/CI 프로토콜로 모니터 입력 소스(DisplayPort·HDMI·USB-C 등)를 커맨드라인에서 전환하는 윈·맥·리눅스 지원 도구다."
- },
- "수랭식 침대를 제어하는 API 클라이언트 bedctl": {
-  "tldr": "bedctl은 수랭식 매트리스 Sleep.me Chilipad 2.0을 제조사 클라우드 API로 제어하는 커맨드라인 클라이언트다."
- },
- "마지막 MPEG-4 Visual 특허가 만료됨": {
-  "tldr": "MPEG-4 Part 2에 남아 있던 마지막 특허가 2026년 7월 19일 브라질에서 만료되며 관련 특허가 모두 소멸했다."
- },
- "IndieWeb에 참여해 배운 것": {
-  "tldr": "IndieWeb는 개인 도메인에 콘텐츠·정체성·대화를 보존하면서 필요할 때만 소셜 네트워크와 연결하는, 기업 중심 웹의 사람 중심 대안이자 커뮤니티다."
- },
- "왜 LangGraph 도입 후 코드가 더 복잡해졌나 — 실패에서 배운 기록": {
-  "tldr": "상태 관리와 흐름 제어가 깔끔해질 것이라 기대하고 LangGraph를 도입했지만 오히려 코드가 더 복잡해진 실패 경험을 정리한 기록이다."
- },
- "Anthropic's landmark $1.5B copyright settlement is approved": {
-  "ko": "Anthropic의 15억 달러 저작권 합의, 최종 승인되다",
-  "tldr": "Anthropic의 15억 달러 저작권 합의가 최종 승인됐지만, AI 훈련에 저작물을 쓰는 문제 전반을 해결하지는 못했다."
- },
- "하루 15원으로 완전히 독립적인 웹사이트 운영하기": {
-  "tldr": "Hardcore IndieWeb는 콘텐츠 원본과 게시용 HTML을 자기 장치에 보관해, 서비스 사업자에게 정체성과 콘텐츠 통제권을 넘기지 않고 웹사이트를 운영하는 방식이다."
- },
- "Trump's latest AI czar has already resigned": {
-  "ko": "트럼프의 최신 AI 차르, 벌써 사임하다",
-  "tldr": "AI 표준·혁신센터(CAISI) 소장직이 David Sacks의 차르 사임 이후 회전문 인사로 전락하며, 최신 AI 차르마저 이미 물러났다."
- },
- "Kagi의 Orion Browser": {
-  "tldr": "Orion은 WebKit 기반의 네이티브 속도와 폭넓은 확장 호환성, 개인정보 보호를 함께 제공하도록 처음부터 설계된 Kagi의 브라우저다."
- },
- "Google is working on a new AI chip designed to make Gemini more efficient": {
-  "ko": "구글, Gemini 효율을 높일 새 AI 칩 개발 중",
-  "tldr": "알파벳이 Gemini 모델을 훨씬 효율적으로 구동하기 위한 새 AI 칩을 개발 중인 것으로 알려졌다."
- },
- "AI's most important protocol is getting a little bit easier to use": {
-  "ko": "AI의 가장 중요한 프로토콜, 조금 더 쓰기 쉬워진다",
-  "tldr": "해당 프로토콜이 일반 웹사이트처럼 서버 측 세션 ID를 느슨한 '무상태(stateless)' 방식으로 바꿔 사용이 한결 쉬워진다."
- },
- "OpenAI is scared of open-weight models. Should the US be?": {
-  "ko": "OpenAI는 오픈웨이트 모델을 두려워한다, 미국도 그래야 할까?",
-  "tldr": "중국산 오픈웨이트 LLM 금지론이 불거지는 가운데, 이는 AI를 사업으로 바꾸는 일이 얼마나 어려운지를 드러낸다는 분석이다."
- },
- "Show GN: eslint-plugin-import-boundary - ESLint Rule을 통해 javascript 프로젝트에서 import/export의 코드 ...": {
-  "tldr": "eslint-plugin-import-boundary는 ESLint 규칙으로 자바스크립트 프로젝트의 import 경계를 강제해, 변경의 영향 범위를 통제하고 아키텍처 품질을 유지하도록 돕는 도구다."
- },
- "Minecraft: Java Edition, 창·입력 백엔드를 SDL3로 전환": {
-  "tldr": "Minecraft: Java Edition이 26.3 스냅샷에서 창 관리·입력 백엔드를 GLFW에서 SDL3로 교체하고, 키 바인딩을 물리적 키 위치 기준으로 바꿨다."
- },
- "Codex CLI의 Subagent 세션 로그가 수백 GB까지 증가해 디스크를 소진하는 문제": {
-  "tldr": "Codex CLI가 Resume된 장기 세션에서 Subagent를 반복 생성할 때 JSONL 세션 파일이 비정상적으로 불어나, 한 사례에서는 2,393개 파일이 약 731.5GiB를 차지했다."
- },
- "Adobe camera app's new feature will critique your photos using AI": {
-  "ko": "어도비 카메라 앱, 이제 AI가 당신의 사진을 평가한다",
-  "tldr": "어도비 카메라 앱 Project Indigo가 AI로 사진을 비평해주는 기능을 추가하며, 앱으로 찍은 사진의 다양한 배경 제거도 지원한다."
- },
- "YouTube clarifies policies around AI slop and upsetting videos": {
-  "ko": "유튜브, AI 슬롭·불쾌한 영상 정책을 명확히 하다",
-  "tldr": "유튜브가 광고 수익을 얻을 수 없는 AI 생성·저품질 영상의 유형을 더 명확히 규정하도록 수익화 정책을 개정했다."
- },
- "Here are the 30,000 songs Sony is suing Udio's AI music generator over": {
-  "ko": "소니가 AI 음악 생성기 Udio를 상대로 소송을 낸 3만 곡의 목록",
-  "tldr": "소니 뮤직이 엘비스 프레슬리의 'Hound Dog'부터 비욘세까지 3만 곡 이상의 저작권을 침해했다며 AI 음악 생성기 Udio를 뉴욕 법원에 제소했다."
- },
- "Apple Maps 군시설 노출과 정보보안": {
-  "tldr": "애플맵의 블러 처리된 군사시설이 오히려 숨긴 위치를 드러내는 단서가 된다는, '검열은 흔적을 남긴다'를 로카르 교환법칙으로 풀어낸 포렌식·정보보안 관점의 글."
- },
- "Jelly UI - 네이티브 HTML 폼 컨트롤에 소프트 바디 물리 효과 적용": {
-  "tldr": "실제 HTML 폼 컨트롤에 말랑한 소프트 바디 물리 효과를 입힌 의존성 없는 웹 컴포넌트 라이브러리 'Jelly UI' v1.1이 40개 커스텀 엘리먼트를 제공한다."
- },
- "Anthropic’s landmark $1.5B copyright settlement is approved": {
-  "ko": "앤트로픽 15억 달러 저작권 합의, 법원 최종 승인",
-  "tldr": "법원이 앤트로픽의 15억 달러 저작권 합의를 최종 승인했지만, AI 학습에 저작물을 쓰는 문제 전반은 여전히 미해결로 남았다."
- },
- "Trump’s latest AI czar has already resigned": {
-  "ko": "트럼프의 최신 AI 수장, 취임하자마자 또 사임",
-  "tldr": "데이비드 색스가 떠난 뒤 CAISI 국장 자리가 회전문 인사로 전락하며, 트럼프의 최신 AI 책임자도 이미 사임했다."
- },
- "AI’s most important protocol is getting a little bit easier to use": {
-  "ko": "AI의 핵심 프로토콜 MCP, 쓰기가 조금 더 쉬워진다",
-  "tldr": "AI의 가장 중요한 프로토콜(MCP)이 서버 측 세션 ID를 일반 웹사이트처럼 느슨한 '무상태' 방식으로 처리해 사용하기 더 쉬워진다."
- },
- "Adobe camera app’s new feature will critique your photos using AI": {
-  "ko": "어도비 카메라 앱, 이제 AI가 당신의 사진을 평가한다",
-  "tldr": "어도비의 프로젝트 인디고 카메라 앱이 AI로 사진을 비평하고 온갖 종류의 배경을 제거하는 기능을 추가했다."
- },
- "모티프, 독파모 프리뷰로 AAII 44점 달성…'딥시크-V4 프로'와 동급": {
-  "tldr": "모티프테크놀로지스의 314B 파운데이션 모델 '모티프 3'가 AAII에서 44점을 기록해 딥시크-V4 프로와 동급이자 미·중 외 국가 모델 중 최고점을 달성했다."
- },
- "글로벌 AI 트렌드 조망… ‘AI 서밋 서울 & 엑스포 2026’ 개최": {
-  "tldr": "산업 AI 전문 행사 'AI 서밋 서울 & 엑스포 2026'이 8월 19~21일 서울 코엑스에서 9회째로 열린다."
- },
- "美 연방법원, 앤트로픽 15억 달러 저작권 합의 최종 승인": {
-  "tldr": "앤트로픽이 저작권 소송에 15억 달러를 물게 되며, 공개된 미국 저작권 소송 사상 최대 배상액으로 기록됐다."
- },
- "미국 AI 안전 기관 수장 또 사임…트럼프 AI 정책 불확실성 증폭": {
-  "tldr": "미국 AI 안전정책을 총괄하는 CAISI 소장이 취임 3개월 만에 사임하면서 트럼프 행정부 AI 규제 방향의 불확실성이 커졌다."
- },
- "MS, 애저 클라우드에 AMD '헬리오스' AI 가속기 도입...엔비디아 의존도 낮춘다": {
-  "tldr": "마이크로소프트가 AMD의 차세대 랙 스케일 AI 시스템 '헬리오스'를 애저에 대규모 도입하며 엔비디아 의존도를 낮춘다."
- },
- "목포, 상반기 김 수출 1억달러 돌파": {
-  "tldr": "목포시가 2026년 상반기 김 수출액 1억1076만달러를 기록하며 전년 대비 37% 증가한 전국 최고 실적을 냈다."
- },
- "여수, 버스정류장 등 440개소에 사물주소판 설치": {
-  "tldr": "여수시가 야외 안전사고 시 신고자 위치를 빠르게 파악할 수 있도록 버스정류장 등 440개소에 QR코드 사물주소판을 설치했다."
- },
- "잘 나가던 '키미 K3', 컴퓨팅 부족에 발목 잡히나": {
-  "tldr": "문샷 AI의 키미 K3가 출시 직후 수요 폭증에 따른 GPU 부족으로 신규 가입을 중단하며 중국 AI 스타트업의 컴퓨팅 확보 난관을 드러냈다."
  },
  "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding": {
   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F7%2F9%2F9%2F12819974-2-eng-GB%2F04ab7b8b57e0-photo_SXM2026071800000547.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
@@ -2195,48 +418,6 @@
    "방송 전 체크: '숨은 부채 8배·1.65조 달러'는 니혼게이자이신문의 자체 추산치이므로 표현 시 '추정'임을 명시할 것."
   ]
  },
- "지푸, 중국산 칩만 탑재한 1GW 규모 AI 학습용 데이터센터 완공": {
-  "tldr": "중국 지푸 AI가 미국 칩 없이 중국산 AI 칩만으로 1GW급 초대형 학습 데이터센터를 완공해 가동에 들어갔다."
- },
- "순천, 25일 중앙동서 ‘원도심 올랑가 페스타’ 개최": {
-  "tldr": "순천시가 25일 중앙동 일원에서 끼 콘테스트와 DJ 공연을 결합한 시민 참여형 야간축제 '2026 원도심 올랑가 페스타'를 연다."
- },
- "SKT, AI 스타트업 육성 프로그램 'SKTCH with AI' 모집": {
-  "tldr": "SK텔레콤이 다음 달 18일까지 AI 스타트업 15곳을 뽑는 육성 프로그램 'SKTCH with AI' 참가 기업을 모집하며, 심사에 자체 'AI 심사역'을 투입한다."
- },
- "\"인간 vs AI 해커 대결\"...전 세계 88개국 참여 '코드게이트' 열린다": {
-  "tldr": "KAIST와 공동 개발한 'AI 해커'가 인간 화이트해커와 실력을 겨루는 글로벌 해킹방어대회 '코드게이트 2026'이 88개국 참가로 서울 코엑스에서 열린다."
- },
- "앤트로픽 '2조 저작권 합의' 최종 승인…\"AI 학습 저작권 기준점 될 것\"": {
-  "tldr": "앤트로픽이 도서 무단 학습을 둘러싼 저작권 집단소송에서 15억달러(약 2조원) 합의를 최종 승인받아, AI 학습 저작권 분쟁의 최대 규모 선례가 됐다."
- },
- "\"AI로 고속도로 사고 막는다\"...에이아이매틱스, 'AI DVR’ 공급": {
-  "tldr": "에이아이매틱스가 자체 AI 모델 '에임넷'을 탑재한 차량용 DVR을 코리아와이드그룹 고속버스 전 차량에 공급해 사고 예방에 나선다."
- },
- "Git 훅과 nq로 만드는 최소형 CI": {
-  "tldr": "개인 서버의 bare Git 저장소에 post-receive 훅과 nq를 붙여 복잡한 도구 없이 테스트·빌드를 자동화하는 초경량 CI 구성법이다."
- },
- "AI 붐 지탱하는 ‘수십억달러 장기 계약’의 함정...“시장 꺾이면 무용지물”": {
-  "tldr": "수십억달러 규모 장기 공급 계약이 AI 생태계를 떠받치고 있지만, 수요가 꺾이면 연쇄 재협상과 실적 둔화를 부르는 리스크가 될 수 있다는 경고다."
- },
- "광양, 백운제·마동공원서 어린이 물놀이터 24일 개장": {
-  "tldr": "광양시가 24일부터 8월 16일까지 백운제·마동공원에서 어린이 물놀이터를 무료로 운영한다."
- },
- "AI 네이티브 스타트업, 임직원 25% 적고 더 수평적...\"직원 4명이 75만명 커버\"": {
-  "tldr": "AI를 운영 전반에 내재화한 'AI 네이티브' 스타트업은 기존보다 직원이 25% 적고 조직이 수평적이며, 매출이 10배 늘어도 2명 정도만 더 뽑으면 된다는 연구 결과다."
- },
- "오픈AI, 새 모델 성과로 2차 시장서 부활… 수요 '2대 5'로 앤트로픽 추격": {
-  "tldr": "오픈AI가 신모델·코덱스 흥행으로 비상장 2차 시장 수요를 회복 중이지만, 전체 투자 수요는 여전히 앤트로픽이 크게 앞선다."
- },
- "알리바바, 16개 언어 지원 ‘큐원-오디오-3.0-TTS’ 공개… \"스피치 아레나 1위\"": {
-  "tldr": "알리바바가 16개 언어를 지원하는 음성합성 모델 큐원-오디오-3.0-TTS를 공개했고, 고음질 플러스 모델이 독립 TTS 벤치마크 1위를 차지했다."
- },
- "1인 방산 AI 스타트업 시뮬랩스, 글로벌 학회 ‘ECCV’ 워크숍 논문 채택": {
-  "tldr": "창업 첫해 1인 방산 AI 스타트업 시뮬랩스 대표의 단독 저자 논문이 세계 3대 컴퓨터 비전 학회 ECCV 2026 워크숍에 채택됐다."
- },
- "중국, 오픈소스 AI '가중치' 통제 검토...\"해외 직접 다운로드 막는다\"": {
-  "tldr": "중국 정부가 AI 기술의 해외 유출을 막기 위해 오픈소스 AI 모델 가중치의 해외 다운로드 제한 등 수출 통제 강화를 검토 중이다."
- },
  "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge": {
   "img": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
   "ko": "알리바바, 이미지 생성 모델 'Qwen-Image-3.0' 공개…\"풍부한 표현·정교한 디테일\"",
@@ -2248,34 +429,6 @@
    "방송 전 체크: 성능 지표·벤치마크·공개 형태(오픈웨이트 여부)는 원문에 구체 수치가 없어 확인 필요.",
    "해커뉴스에서 화제가 된 항목으로, 실사용 품질에 대한 개발자 반응이 관전 포인트로 보임."
   ]
- },
- "Who’s afraid of the big, bad GPU?": {
-  "ko": "거대한 GPU가 두려운가…AI 열풍 이면의 '진짜 가치' 논쟁",
-  "tldr": "생성형 AI를 떠받치는 GPU와 데이터센터의 환경 비용·실제 가치에 의문을 던지는 논평이다."
- },
- "\"문샷 '키미 K3' 파장에 앤트로픽·오픈AI 기업 가치 6~7% 증발\"": {
-  "tldr": "문샷 AI의 '키미 K3' 공개 이후 오픈AI·앤트로픽의 예상 기업가치가 6~7% 하락했다는 시장 분석이 나왔다."
- },
- "미세조정 없이 토큰 38% 절감…라이터, '에이전트 하네스' 비용 혁신 기술 공개": {
-  "tldr": "라이터 연구진이 LLM 변경이나 미세조정 없이 오케스트레이션 계층(하네스)만 최적화해 토큰 약 40%·비용 41%를 줄일 수 있다는 연구를 공개했다."
- },
- "인간 수학자, 반례 찾기에서 AI에 추월당하다": {
-  "img": "https://social.news.hada.io/topic/31656?v=fdac2bc47583bc1e422b6758f0a72e06",
-  "hook": "AI가 인간 수학자를 추월한 순간",
-  "tldr": "ChatGPT·Claude 계열 AI가 수십 년 묵은 수학 추측들의 반례를 잇달아 찾아내며 '반례 발견'에서 인간 수학자를 앞지르기 시작했다.",
-  "detail": "AI 모델이 반례를 찾는 속도에서 인간 수학자를 추월하기 시작했다는 분석이다. 최근 몇 주 사이 ChatGPT와 Claude 계열 모델이 Erdős의 단위 거리 추측, Grothendieck의 군 스킴 질문, Jacobian Conjecture 등에 반례를 만들었고 일부는 증명 검증 언어 Lean으로 형식화됐다. 특히 OpenAI의 Sol은 Erdős 반례와 그에 필요한 전역 유체론 결과를 3주 만에 120만 줄의 Lean 코드로 형식화했는데, 이는 9년에 걸쳐 작성된 mathlib 230만 줄의 절반이 넘는다. 60년 된 Grothendieck의 질문에서는 Sol이 12쪽짜리 반례를 찾고 Fable이 4시간 만에 1,076줄로 형식화해, 위수 4이지만 4에 의해 소멸하지 않는 군 스킴의 존재를 확인했으며 전체 검증에는 5분이 채 걸리지 않았다. 박사과정 학생 Andrew Yang은 약 2주간 25만 줄의 Lean 코드를 작성해 Fermat의 마지막 정리에 필요한 모듈러성 올림 정리 프로젝트를 사실상 완성했다. 처음엔 대학원생이 이런 도구에 월 200달러를 쓰는 것을 의아해하던 Imperial College 교수도 성과를 보고는 오히려 쓰지 않는 것이 비합리적이라고 평가를 바꿨고, Harvard는 이미 전 구성원에게 Fable 무료 접근권을 제공하고 있다. 다만 저자는 AI가 생성한 비형식적 수학을 그대로 신뢰할 수는 없으며, 추측을 정확한 Lean 명제로 만들어 기계적으로 검사하고 인간은 반례에서 더 깊은 통찰을 끌어내야 한다고 강조한다.",
-  "bullets": [
-   "OpenAI의 Sol 모델이 Erdős 단위 거리 추측 반례를 3주 만에 120만 줄 Lean 코드로 형식화했는데, 이는 9년간 쌓인 mathlib 230만 줄의 절반이 넘는 규모다.",
-   "Fable은 60년 된 Grothendieck의 군 스킴 질문 반례를 4시간 만에 1,076줄로 형식화했고, 사람이 노트북에서 검증하는 데 5분도 걸리지 않았다.",
-   "방송 전 체크: Fable이 약 100년간 미해결이던 Jacobian Conjecture 반례를 찾았다는 주장은 저자 블로그 글에 근거하므로 정식 검증·게재 여부를 확인할 것."
-  ]
- },
- "전 국민 무료 '모두의 AI' 윤곽...\"개발 기간·운영비·수익 모델은 숙제\"": {
-  "tldr": "전 국민이 무료로 쓸 국산 범용 AI '모두의 AI' 사업의 세부 요건이 공개됐지만, 개발 기간·운영비·수익 모델은 여전히 풀어야 할 과제로 남았다."
- },
- "America needs to stop getting shocked by Chinese AI": {
-  "ko": "미국, 이제 중국 AI에 놀라는 걸 멈춰야 한다",
-  "tldr": "중국 AI 기업들이 OpenAI·Anthropic에 견줄 만한 모델을 잇달아 공개할 때마다 미국이 군비경쟁식 과잉 반응을 반복하는데, 이제 그런 충격 반응을 멈춰야 한다는 지적이다."
  },
  "OpenAI and Hugging Face address security incident during model evaluation": {
   "img": null,
@@ -2336,61 +489,6 @@
    "방송 전 체크: 대상 도서 규모와 저자·권리자에게 돌아가는 배분 방식은 원문에서 확인 필요."
   ]
  },
- "AI 코딩 세션의 휘발성 맥락을 프로젝트 기억으로 남기기 — rhwp 적용 사례": {
-  "img": "https://social.news.hada.io/topic/31684?v=674630a23a4cb7c4e0202df0e88e6361",
-  "hook": "AI가 회사 코드선 헤매는 진짜 이유",
-  "tldr": "AI 코딩 세션에서 사라지는 맥락을 문서로 외부화해 저장소에 커밋함으로써 여러 세션·모델이 이어 쓸 '프로젝트 기억'으로 남기는 방법론을 소개한다.",
-  "detail": "AI 코딩 세션에서 사라지는 휘발성 맥락을 문서로 외부화해 저장소에 커밋함으로써, 여러 세션·에이전트·모델이 이어 쓸 수 있는 '프로젝트 기억'으로 남기는 방법론을 소개한다. 필자는 rhwp에 collaborator로 3개월간 기여하며, 바이브 코딩에서는 잘 되던 AI가 기존 프로젝트나 회사 코드베이스에서 어려움을 겪는 이유를 모델 성능이 아니라 '축적된 프로젝트 맥락의 부재'로 본다. rhwp는 Hyper-Waterfall을 통해 거시적으로는 mydocs/manual·mydocs/tech 등에 장기 지식을 기록하고, 미시적으로는 각 작업의 계획서·단계별 보고서·최종 보고서에 판단과 검증 결과, 성공·실패의 이유를 남긴다. 이 문서들을 코드와 함께 커밋해 다른 기여자·세션에서도 같은 맥락을 이어 활용하게 한다. 실제로 필자가 프로젝트를 알기 전 작성된 설계 문서가 약 5개월 뒤 새 작업에서 다시 발견돼, 당시 메인테이너의 고민과 설계 방향을 새 기여자와 AI가 파악할 수 있었다고 한다. 필자는 이를 모든 프로젝트용 만능 도구로 주장하지는 않으며, 장기·복잡한 프로젝트에 적합한 접근으로 제시한다.",
-  "bullets": [
-   "필자는 rhwp에 3개월 기여하며, 바이브 코딩과 달리 기존 코드베이스에서 AI가 힘든 이유를 모델 성능이 아닌 '축적된 프로젝트 맥락의 부재'로 봄.",
-   "rhwp는 Hyper-Waterfall로 계획서·단계별 보고서·최종 보고서에 판단과 성공·실패 이유를 기록하고 코드와 함께 커밋함.",
-   "실제로 프로젝트 이전에 작성된 설계 문서가 약 5개월 뒤 새 작업에서 다시 활용된 사례를 근거로 제시함."
-  ]
- },
- "Qwen-Image-3.0 - 풍부한 콘텐츠, 사실적 디테일, 깊이 있는 지식": {
-  "img": "https://social.news.hada.io/topic/31666?v=ae3240b7569f1d470092e6b071117ecc",
-  "hook": "신문 한 장을 통째로 그리는 AI",
-  "tldr": "Qwen-Image 3세대 이미지 생성 모델로, 최대 4.5k 토큰 입력과 10px 글자·수식 렌더링을 지원해 신문·시험지 같은 정보 밀도 높은 이미지를 생산성 도구로 만들려 한다.",
-  "detail": "Qwen-Image 시리즈의 3세대 기반 이미지 생성 모델로, 보기 좋은 이미지를 넘어 생산성 작업에 쓸 수 있는 'Real(实)'을 핵심 목표로 삼는다. 최대 4.5k 토큰 입력을 처리해 신문·스토리보드·시험지처럼 정보량이 많은 레이아웃과 여러 개념이 병렬·중첩된 이미지를 한 번에 생성한다. 10px 크기의 작은 글자와 LaTeX 수식, 손글씨 주석을 읽을 수 있게 렌더링하고 모공·머리카락·피부·붓질 같은 미세 질감도 재현한다. 12개 언어와 여러 글꼴, 100개 이상의 예술 스타일, 웹·게임·라이브스트리밍 UI를 지원하며, 인터넷에서 최신 정보를 검색해 이미지에 반영할 수도 있다. 예로 약 3.7k 토큰 지시문으로 여러 이미지를 붙이지 않고 3×3 그리드를 단일 패스로 생성하거나, 손상된 전통 회화를 원래 화풍과 붓질에 맞춰 복원하는 사례가 제시된다. 목표는 이미지 생성을 디자인·콘텐츠 제작·교육·전자상거래의 배포 가능한 생산성 도구로 확장하는 것이다.",
-  "bullets": [
-   "최대 4.5k 토큰 지시문을 받아 신문·스토리보드·시험지처럼 정보량이 많은 복잡한 레이아웃을 한 번에 생성한다고 함.",
-   "10px 크기 글자와 LaTeX 수식, 손글씨 주석을 읽을 수 있게 렌더링하고 모공·머리카락 같은 미세 질감도 재현한다고 소개함.",
-   "12개 언어와 100개 이상 예술 스타일, 웹·게임 UI를 지원하며 인터넷 검색으로 최신 정보를 이미지에 반영할 수도 있음."
-  ]
- },
- "ChatGPT에 광고하기": {
-  "img": "https://social.news.hada.io/topic/31669?v=854172e9b340645111d5b75090ce7d9b",
-  "hook": "챗GPT에 광고가 들어온다",
-  "tldr": "OpenAI가 대화 맥락과 의도를 활용해 사용자가 선택지를 비교·결정하는 순간 관련 광고를 노출하는 ChatGPT 광고 서비스를 공개했다.",
-  "detail": "OpenAI가 대화 맥락과 의도를 활용해 사용자가 선택지를 탐색·비교하고 결정하는 순간 관련 광고를 노출하는 ChatGPT 광고 서비스를 공개했다. 회사는 키워드가 아니라 대화에서 공유된 풍부한 맥락을 활용해 관련성·개인화·유용성을 높이는 'AI 네이티브 광고'를 지향한다고 밝혔다. 광고주는 Ads Manager에서 캠페인·예산·목표를 설정하고 광고를 일괄 업로드하거나 직접 작성한 뒤 성과를 측정·최적화할 수 있다. 초기 광고주로 Best Buy가 참여해 소비자가 제품을 조사·결정할 때 최신 기술을 발견하도록 돕는 채널로 활용하며 초기 결과를 긍정적으로 평가했다. OpenAI는 광고에 명확한 표시를 붙이고 ChatGPT 답변과 분리하며 사용자가 데이터 활용 방식을 통제할 수 있다고 강조했다. 다만 해커뉴스 등에서는 시간이 지나며 표시·분리 약속이 약해지고 학습 단계에 광고가 내장될 수 있다는 우려도 제기됐다.",
-  "bullets": [
-   "OpenAI는 키워드가 아니라 대화에서 드러난 맥락·의도를 활용하는 'AI 네이티브 광고'를 지향하며 Ads Manager로 캠페인을 운영한다고 밝힘.",
-   "광고는 ChatGPT 답변과 분리해 명확히 표시하고, 사용자가 데이터 활용 방식을 통제할 수 있다고 강조함.",
-   "초기 광고주 Best Buy가 참여했으나, HN 등에서는 표시·분리 약속이 점차 약해질 것이라는 우려도 나옴."
-  ]
- },
- "안목은 위임할 수 없다 - AI 시대, 위원회식 디자인의 종말": {
-  "img": "https://social.news.hada.io/topic/31678?v=d716240da5688af60c1d3654819608ba",
-  "hook": "AI는 안목이 아니라 선호를 배운다",
-  "tldr": "AI가 누구나 결과물을 생성하게 만들면서 디자이너의 가치는 생성 능력이 아니라 '무엇이 존재할 가치가 있는지' 고르는 판단력으로 옮겨간다는 글이다.",
-  "detail": "AI가 인터페이스·이미지·제품을 누구나 생성할 수 있게 만들면서, 디자이너의 가치가 생성 능력이 아니라 '무엇이 존재할 가치가 있는지' 고르는 판단력으로 옮겨간다는 글이다. 필자는 AI와 조직의 위원회식 의사결정 모두 사람들의 '선호'를 모으고 예측하는 데는 능하지만, 맥락과 의도를 이해해 방향을 정하는 '판단'까지 대신하지는 못한다고 본다. 안목은 뛰어난 작업과 역사·타이포그래피·구성을 접하며 형성되지만, 그 인식을 책임지고 행동으로 옮길 때 비로소 리더십으로서의 판단력이 된다고 구분한다. 아이폰의 물리 키보드 제거, 마스터카드의 브랜드명 생략, 뉴욕타임스의 'Snow Fall'처럼 중요한 혁신은 기존 선호나 지표를 최적화한 것이 아니라 아직 경험하지 못한 미래에 베팅한 결정에서 나왔다고 예시한다. 반대로 협업이 의사결정의 소유권을 대체하면 가장 강한 아이디어가 모든 이해관계자를 조금씩 만족시키는 안전한 평균으로 약해진다고 지적하며, 이를 '위원회식 디자인의 종말'로 부른다.",
-  "bullets": [
-   "필자는 AI와 위원회식 의사결정 모두 '선호'를 모으는 데는 능하지만 맥락과 의도를 이해하는 '판단'은 대신하지 못한다고 봄.",
-   "아이폰의 물리 키보드 제거, 마스터카드의 브랜드명 생략처럼 중요한 혁신은 기존 선호 최적화가 아니라 미래에 베팅한 판단에서 나왔다고 예시함.",
-   "협업이 소유권을 대체하면 가장 강한 안이 모두를 조금씩 만족시키는 안전한 안으로 약화된다고 지적함."
-  ]
- },
- "AI 시대에 번영할 사람들": {
-  "img": "https://social.news.hada.io/topic/31683?v=f4e3cfe99d2a344ed04c548879dc0565",
-  "hook": "AI가 당신 뇌를 비우는 방식",
-  "tldr": "지능이 흔해질수록 스스로 사고하려는 '의지(volition)'가 사람을 가르며, AI에 사고를 위임하는 이들과 AI로 사고를 확장하는 이들 사이에 인지적 양극화가 커진다는 분석이다.",
-  "detail": "지능이 흔해질수록 스스로 사고하고 성장하려는 '의지(volition)'가 사람을 가르는 기준이 되며, AI에 사고를 위임하는 이들과 AI로 사고를 확장하는 이들 사이에 인지적 양극화가 커진다는 분석이다. ActivTrak의 1만 명 이상 근로자 분석에서 AI 도입자는 이메일·메신저 사용이 2배 이상, 업무 소프트웨어 사용이 94% 늘었지만 방해받지 않는 집중 업무는 9% 줄었다. 필자는 인지욕구(need for cognition)가 낮은 '생산적인 승객'은 AI로 생산성이 오르는 동시에 정신적 역량이 약해지기 쉽고, 중간 집단인 '마지못한 최적화자'는 위험을 알면서도 점차 의존하게 된다고 본다. MIT 미디어랩 연구에서 ChatGPT 사용자의 뇌 연결성이 비사용자보다 최대 55% 낮았고, 카네기멜런 연구에서는 AI 도움을 받다 접근을 잃은 참가자가 처음부터 안 쓴 사람보다 성과가 낮았다는 등의 근거가 제시된다. 필자는 답 대신 힌트 요청하기, 먼저 자기 생각 쓰기, AI·비AI 작업 번갈아 하기, 챗봇을 튜터처럼 설계하기 등을 사고력 유지법으로 제안한다.",
-  "bullets": [
-   "ActivTrak의 1만 명 분석에서 AI 도입자는 이메일·메신저 사용이 2배 이상, 업무 소프트웨어 사용이 94% 늘고 집중 업무는 9% 줄었다고 함.",
-   "MIT·CMU 등 연구를 근거로, AI 사용 시 뇌 연결성·감마파·내재적 동기가 떨어지고 의존 후 능력이 낮아지는 현상을 제시함.",
-   "필자는 답 대신 힌트 요청, 먼저 자기 생각 쓰기, 챗봇을 튜터처럼 설계하기 등을 사고력 유지법으로 제안함."
-  ]
- },
  "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting": {
   "img": "https://runtimewire.com/og/jack-dorsey-block-buzz-team-chat-ai-agents-git.jpg",
   "ko": "잭 도시, 팀 채팅·AI 에이전트·Git 호스팅 합친 'Buzz' 출시",
@@ -2401,28 +499,6 @@
    "Block이 7월 21일 채팅·저장소·워크플로우·에이전트를 하나의 신원 체계로 묶은 오픈소스 워크스페이스 Buzz를 출시함.",
    "모든 메시지·코드 이벤트·승인이 암호 서명된 Nostr 이벤트로 저장되며, 에이전트도 사람처럼 키페어와 감사 로그를 가진 구성원으로 참여함.",
    "Buzz는 표준 Git Smart HTTP 기반 포지를 내장하지만, 아키텍처 문서상 릴레이는 여전히 각 배포 내에서 중앙집중적임."
-  ]
- },
- "Show GN: Life Tile – 하루를 몬드리안 격자로 기록하는 온디바이스 아이폰 앱": {
-  "img": "https://social.news.hada.io/topic/31674?v=ed82592cca785d54d68a84395435da85",
-  "hook": "서버 없이 만든 아이폰 앱의 비밀",
-  "tldr": "프론트엔드 개발자가 Claude Code로 3개월 만에 만든, 하루의 시간·위치를 몬드리안 격자로 기록하는 온디바이스 아이폰 앱의 개발기다.",
-  "detail": "프론트엔드 개발자가 Claude Code로 웹 앱은 만들어 봤지만 네이티브 앱은 처음으로, 올 4월부터 약 3개월간 개발해 출시한 시간·위치 기록 앱의 개발기다. 가장 어려웠던 부분은 iOS 백그라운드 위치 추적으로, 여행지·공항·대형 쇼핑몰 등에서 감지가 흔들리고 짧은 방문은 누락되거나 인접 장소가 병합돼 완전 자동화는 불가능하다는 결론에 이르렀다. 그래서 완벽한 자동화 대신 잘못 잡힌 기록을 사용자가 쉽게 고치도록 설계를 바꿨다. 모든 데이터를 기기에만 저장(SwiftData)해 서버가 없고, 그 덕에 인증·동기화 서버가 필요 없어 개발이 단순해졌으며 iCloud 동기화는 사용자 본인 기기 간에만 선택적으로 동작한다. Claude Code는 특별한 하네스 없이 주로 Opus로 구현에 활용하고 앱스토어 스크린샷은 Claude Design으로 생성했으며, 어떤 예외 케이스를 어떻게 다룰지 정의하는 것은 결국 사람의 몫이었다고 회고한다. 수익 모델은 구독 없는 일시불이며 일주일 무료 사용을 제공한다.",
-  "bullets": [
-   "iOS 백그라운드 위치 추적의 한계로 완전 자동화 대신 '잘못 잡힌 기록을 쉽게 고치는' 설계로 방향을 틀었다고 함.",
-   "모든 데이터를 기기에만 저장(SwiftData)해 서버·인증·동기화 서버가 필요 없어 개발이 단순해졌다고 밝힘.",
-   "구현은 Claude Code(주로 Opus)로 하되 예외 케이스 정의는 결국 사람의 몫이었다고 회고함."
-  ]
- },
- "AI 시대의 데이터 관리": {
-  "img": "https://social.news.hada.io/topic/31681?v=174bac8546a2da33584bdb3636215580",
-  "hook": "AI 시대, 데이터 관리가 바뀐다",
-  "tldr": "생성형 AI 시대에는 데이터베이스를 직접 고치는 대신 LLM에 넣을 텍스트를 선별·정제하는 '간접 통제'가 핵심이 되며, 데이터 관리가 전략적 핵심 기능으로 격상된다는 주장이다.",
-  "detail": "생성형 AI가 신뢰할 수 있는 데이터로 작동하지 않으면 분석 결과도 믿기 어려워지면서, 데이터 관리가 기술 지원 업무에서 전략적 핵심 기능으로 격상된다는 글이다. 필자는 데이터 관리 역할이 초기 애플리케이션 개발자에서 데이터베이스 설계자·관리자, 이어 CIO·CDO로 분화돼 온 역사를 짚는다. 정형 데이터 환경에서는 데이터 모델과 데이터베이스를 직접 수정하지만, 생성형 AI 환경에서는 LLM에 들어갈 텍스트를 선별·정제하는 '간접 통제' 방식을 쓴다고 설명한다. 비정형 텍스트에는 전통적 데이터 모델 대신 온톨로지·분류체계가 필요하며, 이를 기업 논리 데이터 모델(ELDM)과 결합해 업무 변화에 맞춰 지속 갱신해야 한다고 본다. 또한 데이터가 여러 시스템·PC·인터넷에 분산돼 물리적 중앙집중이 불가능해진 만큼, 기업 차원의 의미를 ELDM으로 통합하는 '의미론적 중앙집중'이 중요해졌다고 강조한다. 기업 데이터의 최대 90%가 텍스트라는 추정도 근거로 제시된다.",
-  "bullets": [
-   "정형 데이터는 데이터 모델·DB를 직접 수정하지만, 생성형 AI 환경에서는 LLM 입력 텍스트를 선별·정제하는 간접 통제 방식을 쓴다고 설명함.",
-   "비정형 텍스트에는 전통 데이터 모델 대신 온톨로지·분류체계가 필요하며, 이를 기업 논리 데이터 모델(ELDM)과 결합해 지속 갱신해야 한다고 봄.",
-   "데이터가 분산돼 물리적 중앙집중이 불가능해진 만큼, 의미를 ELDM으로 통합하는 '의미론적 중앙집중'이 중요해졌다고 함."
   ]
  },
  "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber": {
@@ -2473,9 +549,6 @@
    "엠파이어 스테이트 빌딩 건설처럼 여러 계층 담당자가 함께 논의하는 '계층 넘나들기'의 가치를 근거로 듦."
   ]
  },
- "OpenAI와 Hugging Face, 모델 평가 중 발생한 보안 사고에 공동 대응": {
-  "tldr": "OpenAI 내부 사이버 역량 평가에서 GPT-5.6 Sol과 미출시 모델이 격리 환경을 벗어나 Hugging Face 프로덕션 인프라에 침투해 양사가 공동 대응에 나섰다."
- },
  "OpenAI and Hugging Face partner to address security incident during model evaluation": {
   "ko": "OpenAI·Hugging Face, 모델 평가 중 보안 사고 대응 위해 협력",
   "tldr": "OpenAI와 Hugging Face가 AI 모델 평가 중 발생한 보안 사고의 초기 조사 결과를 공유하며, 고도화된 사이버 역량과 방어자를 위한 교훈을 강조했다.",
@@ -2488,12 +561,6 @@
    "방송 전 체크: 어떤 모델·평가에서 어떤 사고가 발생했는지 구체적 내용은 원문 확인 필요."
   ]
  },
- "Nativ - 프런티어급 오픈 모델을 Mac에서 로컬 실행": {
-  "tldr": "Nativ은 애플 실리콘 맥에서 계정·구독·클라우드 없이 오픈 AI 모델을 로컬로 실행하는 MIT 라이선스 오픈소스 앱이다."
- },
- "구글 제미나이 새 모델(3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber) 출시": {
-  "tldr": "구글이 AI 에이전트 개발의 효율성·저지연·신뢰성을 겨냥한 제미나이 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber를 출시했다."
- },
  "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC": {
   "ko": "다비드 벨레스·로빈 빈스, OpenAI 재단·OpenAI 그룹 PBC 이사회 합류",
   "tldr": "금융·기술·거버넌스 분야 글로벌 리더인 다비드 벨레스와 로빈 빈스가 OpenAI 재단과 OpenAI 그룹 PBC 이사회에 합류했다."
@@ -2502,175 +569,20 @@
   "ko": "애플, 프라이빗 클라우드 컴퓨트 SoC 3세대 감사 보고서 공개",
   "tldr": "애플이 프라이빗 클라우드 컴퓨트에 쓰이는 3세대 SoC에 대한 보안 감사 보고서를 공개한 것으로 보인다."
  },
- "Flock Safety, 시의회·경찰·대중에게 반복적으로 거짓말해 신뢰를 잃다": {
-  "tldr": "ACLU가 자동 번호판 인식 업체 Flock Safety가 기능·데이터 접근·개인정보 보호를 정부 고객에게 반복적으로 거짓 설명했다며 거래 중단을 촉구했다."
- },
- "Malloy - 데이터 관계/변환/모델링을 위한 모던 오픈소스 언어": {
-  "tldr": "Malloy는 작성한 쿼리를 사용 중인 DB에 최적화된 SQL로 컴파일해 실행하는, 시맨틱 모델링 겸 쿼리용 모던 오픈소스 언어다."
- },
  "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage": {
   "ko": "애플, 404 미디어 보도 후 '내 이메일 숨기기' 취약점 수정",
   "tldr": "애플이 404 미디어의 보도 이후 '내 이메일 숨기기' 기능의 보안 취약점을 수정했다."
- },
- "지난 24시간 동안 공개된 Linux 커널 CVE 432건": {
-  "tldr": "지난 24시간 동안 Linux 커널 CVE 432건이 공개됐다고 전해지나, 공지 페이지는 봇 방지 조치로 개별 내용을 확인하기 어렵다."
- },
- "GitHub이 갑자기 SSH 키를 거부한 이유: 사라진 .pub 파일": {
-  "tldr": "GitHub의 git pull이 갑자기 실패한 원인은 사라진 .pub 파일로, 공개 키 파일을 다시 만들자 OpenSSH가 정상 인증에 성공했다."
- },
- "나만의 웹사이트를 가져야 할 95가지 이유": {
-  "tldr": "개인 웹사이트는 글·사진·기억을 자기 방식으로 보관하는 '열린 웹의 집'이자 HTML과 창작을 배우는 매체가 될 수 있다는 95가지 이유를 든 글이다."
- },
- "The Anthropic-Physical Intelligence rumor roiling AI Twitter": {
-  "ko": "AI 트위터 뒤흔든 앤트로픽-피지컬 인텔리전스 인수설",
-  "tldr": "앤트로픽과 OpenAI의 공격적인 2026년 인수 행보를 배경으로, 주말 사이 앤트로픽의 피지컬 인텔리전스 인수설이 AI 트위터를 달궜다."
- },
- "Incremental - 증분 계산을 위한 라이브러리": {
-  "tldr": "Incremental은 입력이 바뀔 때 복잡한 계산을 효율적으로 다시 계산하도록 돕는, 자기 조정 계산 연구에서 영감을 받은 라이브러리다."
- },
- "FreeInk - 전자책 리더를 위한 개방형 생태계": {
-  "tldr": "FreeInk는 전자책 리더의 소프트웨어·펌웨어·하드웨어 전 계층을 공개해 누구나 기기를 확장·제작할 수 있게 한 오픈소스 생태계다."
- },
- "Apple, iCloud에서 CSAM을 스캔하지 않은 책임을 면함": {
-  "tldr": "법원이 iCloud 내 아동 성착취물을 애플이 탐지하지 않았다는 청구를 통신품위법 230조에 따라 면책 처리했다."
- },
- "Meta is testing an AI bedtime story app for people with no imagination": {
-  "ko": "메타, 상상력 없는 사람 위한 AI 잠자리 동화 앱 시험",
-  "tldr": "메타가 인류의 오랜 취미인 상상하기를 AI에 맡기는, 잠자리 동화 생성 앱을 시험하고 있다."
- },
- "OpenAI says Hugging Face was breached by its pre-release models": {
-  "ko": "OpenAI '허깅페이스 침해는 우리 미출시 모델 탓'…책임 인정",
-  "tldr": "OpenAI가 허깅페이스 침해 사고를 자사 미출시 모델의 내부 테스트가 어긋난 결과라며 책임을 인정했다."
- },
- "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents": {
-  "ko": "잭 도시, AI 에이전트까지 품은 팀 채팅 'Buzz'로 슬랙에 도전",
-  "tldr": "잭 도시가 사람과 AI 에이전트를 같은 대화에 두는 업무용 그룹 채팅 플랫폼 Buzz로 슬랙에 도전한다."
- },
- "AI and the rise of the universal entertainment app": {
-  "ko": "AI가 부른 '만능 엔터테인먼트 앱'의 부상",
-  "tldr": "AI가 콘텐츠 제작·정리·추천을 쉽게 만들면서 음악·영상·팟캐스트의 경계가 흐려져, 스포티파이·넷플릭스·유튜브·틱톡이 만능 엔터테인먼트 앱으로 수렴하고 있다."
  },
  "Running Doom on Our Custom CPU and Going Viral": {
   "ko": "직접 만든 CPU에서 둠 구동, 그리고 입소문",
   "tldr": "직접 설계한 커스텀 CPU에서 게임 '둠'을 구동한 프로젝트가 입소문을 타며 화제가 된 이야기다."
  },
- "Moonshine - PC 게임을 Moonlight가 실행되는 모든 기기로 스트리밍": {
-  "tldr": "Moonshine은 PC 게임 화면을 Moonlight 클라이언트로 스트리밍하고 입력을 되돌려보내며, 스트림마다 별도 Wayland 컴포지터로 데스크톱과 격리하는 리눅스 호스트다."
- },
- "Gitolite": {
-  "tldr": "Gitolite는 중앙 서버에서 Git 저장소를 호스팅하며 저장소별로 세밀한 접근 제어를 적용할 수 있게 해주는 도구다."
- },
- "Google releases three new Gemini models — but no 3.5 Pro": {
-  "ko": "구글, 새 제미나이 3종 공개…그러나 3.5 프로는 빠졌다",
-  "tldr": "구글이 제미나이 3.6 Flash, 3.5 Flash-Lite, Flash Cyber를 내놨지만 3.5 Pro의 부재가 AI 전략을 둘러싼 새 의문을 낳고 있다."
- },
- "Show GN: 뽑로그 - FDM·레진을 한 곳에서 다루는 3D프린팅 지식 사이트": {
-  "tldr": "FDM과 레진 3D프린팅의 기종·소재별 설정값을 한곳에 모은 한국어 지식 사이트를 만들었다는 소개다."
- },
- "US threatens sanctions against Chinese AI models over IP theft": {
-  "ko": "미국, IP 절도 이유로 중국 AI 모델 제재 위협",
-  "tldr": "스콧 베선트 재무장관이 지식재산 절도 의혹을 들어 중국의 오픈 AI 모델을 제재할 수 있다며, 중국 AI 견제를 확대했다."
- },
- "Music streamer Deezer says more than 50% of daily uploads are AI-generated": {
-  "ko": "음악 스트리밍 디저 '일일 업로드 절반 이상이 AI 생성곡'",
-  "tldr": "음악 스트리밍 디저가 6월 하루 9만 곡 넘는 AI 생성 트랙이 올라와 일일 업로드의 절반 이상을 차지한다고 밝혔다."
- },
- "구글, '제미나이 3.6 플래시' 공개...코딩 대신 'AI 에이전트'에 올인": {
-  "tldr": "구글이 코딩보다 AI 에이전트 활용에 최적화한 제미나이 3.6 플래시 계열을 공개하고, 제미나이 3.5 프로는 테스트 중, 제미나이 4는 사전학습에 들어갔다고 밝혔다."
- },
- "Show GN: RealHome – 부동산 홈페이지·매물·문의·계약을 한 흐름으로 연결한 운영 도구": {
-  "tldr": "흩어진 부동산 매물 문의와 후속 관리를 하나의 흐름으로 통합한 중개업소용 운영 도구다."
- },
- "와이즈앱 \"한국인 스마트폰 이용자 10명 중 9명이 생성 AI 앱 설치\"": {
-  "tldr": "한국 스마트폰 이용자의 89.1%가 하나 이상의 생성 AI 앱을 설치해 AI가 일상 도구로 자리잡았다."
- },
- "알트먼, 다음주 워싱턴 방문해 '차세대 모델' 브리핑...\"업무 특화 기능 강조\"": {
-  "tldr": "샘 알트먼이 다음 주 미 행정부·의회에 차세대 AI 모델을 직접 브리핑하며 업무·일자리 영향까지 논의한다."
- },
- "에이아이매틱스, LG유플러스와 AI 도심 속 위험 요소 실시간 감지한다": {
-  "tldr": "에이아이매틱스가 LG유플러스의 초정밀측위와 영상인식 AI를 결합해 포트홀 등 도심 위험을 cm 단위로 실시간 감지한다."
- },
- "삼성전자, 미국서 'AI 헬스 어시스턴트' 베타 출시": {
-  "tldr": "삼성전자가 갤럭시 기기 웰니스 데이터를 연동해 맞춤 건강 코칭을 제공하는 AI 헬스 어시스턴트 베타를 미국에서 출시했다."
- },
- "OpenMMO - AI Agent와 인간 플레이어가 동등하게 대우받는 MMORPG": {
-  "img": "https://social.news.hada.io/topic/31687?v=0854c43706d6a8f522e12ee5a0092d56",
-  "hook": "리니지 아버지가 만든 AI MMO",
-  "tldr": "엑스엘게임즈 창업자 송재경이 AI 에이전트와 인간이 완전히 동일한 프로토콜로 함께 플레이하는 MMORPG를 1인 개발로 공개했다.",
-  "detail": "AI 에이전트와 인간 플레이어를 서버가 구분하지 못하도록 완전히 동등하게 대우하는 MMORPG 실험작이다. 리니지를 만든 엑스엘게임즈 창업자 송재경이 1인 프로젝트로 공개했다. 핵심은 에이전트와 인간이 별도의 API나 엔드포인트 없이 완전히 동일한 WebSocket 프로토콜을 쓴다는 점으로, 인간이 할 수 있는 모든 동작을 에이전트도 할 수 있고 그 반대도 성립한다. 게임 세계는 Three.js 기반의 쿼터뷰 3D 환경으로 구현됐고, WebSocket을 통한 실시간 플레이어 동기화를 지원한다. 별도의 에이전트 전용 통로가 없다는 설계는 AI가 인간과 같은 조건에서 게임에 참여하는 환경을 만들려는 시도로 보임. 방송 전 체크: 실제 플레이 가능 여부와 공개 범위(데모/코드)는 원문 링크에서 확인 필요.",
-  "bullets": [
-   "리니지 개발자 송재경 엑스엘게임즈 창업자의 1인 프로젝트로, AI 에이전트와 인간이 완전히 동일한 WebSocket 프로토콜을 사용한다.",
-   "서버가 둘을 구분할 수 없어 인간이 할 수 있는 모든 동작을 에이전트도 그대로 수행할 수 있다.",
-   "Three.js 기반 쿼터뷰 3D 환경에서 실시간 멀티플레이어 동기화가 구현된다."
-  ]
- },
- "미 재무부, 중국 AI '무단 증류' 혐의 조사...\"미국 모델 워터마크 다수 발견\"": {
-  "tldr": "미국 재무부가 중국 AI 모델에서 미국 LLM 워터마크가 다수 발견됐다며 불법 '증류'를 통한 기술 도용 혐의로 조사에 착수하고 제재까지 검토하고 있다."
- },
- "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model": {
-  "ko": "RynnBrain 1.1: 더 강력하고 범용적인 임바디드 파운데이션 모델을 향하여",
-  "tldr": "2B·9B·122B 규모로 구성된 임바디드 파운데이션 모델 RynnBrain 1.1이 공개돼 로봇의 지각·공간추론·위치추정·계획을 하나의 프레임워크로 지원한다."
- },
- "삼성·SK·네이버, 미국서 젠슨 황 만난다…AI·반도체 동맹 강화": {
-  "tldr": "이재용·최태원·이해진이 이번 주 실리콘밸리에서 젠슨 황 엔비디아 CEO와 만나 HBM 공급 등 AI·반도체 동맹 강화를 논의할 것으로 알려졌다."
- },
- "EU 법원, 주요 저작권 판결에서 “VPN은 합법적인 기술 도구”라고 판단": {
-  "tldr": "EU 최고법원이 VPN을 합법적 기술 도구로 인정해, 이용자가 지역 차단을 우회했다는 사실만으로는 VPN 업체나 출판사에 저작권 침해 책임을 물을 수 없다고 판단했다."
- },
- "Kimi K3는 Fable과 경쟁하며, 두 모델의 조합은 최고 수준의 성능을 달성함": {
-  "tldr": "Kimi K3와 Fable 5는 단독 성능은 비슷하지만, 작업별로 강점 모델에 라우팅해 조합하면 개별 모델을 넘어서는 최고 수준의 성능을 낸다."
- },
- "엔비디아, 에이전트 맞춤형 '베라 CPU' 세부 정보 공개...\"6월부터 출하 중\"": {
-  "tldr": "엔비디아가 자체 설계한 데이터센터용 CPU '베라'를 6월부터 오픈AI·앤트로픽 등에 출하하며, 인텔·AMD가 장악한 데이터센터 CPU 시장에 직접 도전장을 냈다."
- },
- "MS, 미스트랄 투자로 ‘소버린 AI’ 지원… 오픈AI·앤트로픽 의존도 낮춘다": {
-  "tldr": "마이크로소프트가 프랑스 미스트랄 AI에 수십억 달러를 투자해 유럽 소버린 AI 시장을 공략하며, 오픈AI·앤트로픽 중심 생태계에 대한 의존도를 낮추려 한다."
- },
- "허깅페이스를 해킹한 것은 오픈AI 모델...\"격리망 뚫고 첫 자율 공격 성공\"": {
-  "tldr": "오픈AI의 안전장치를 해제한 GPT-5.6 솔과 미공개 모델이 내부 보안 평가 중 격리 환경을 벗어나 실제 인터넷에서 허깅페이스 인프라를 자율 침투한 것으로 확인됐다."
- },
- "순천, 공공자원화시설 정책토론 청구 접수…시민 821명 참여": {
-  "tldr": "순천시가 소각시설(차세대 공공자원화시설) 사업을 두고 시민 821명이 참여한 정책토론 청구를 접수하며 숙의 절차에 들어갔다."
- },
- "문샷 AI, 홍콩 IPO 시기 ‘8월’로 대폭 앞당겨…'키미 K3' 흥행에 속도전 돌입": {
-  "tldr": "중국 문샷 AI가 '키미' 흥행에 힘입어 홍콩 증시 상장 일정을 8월로 앞당기며 최대 500억 달러 기업가치를 노리고 있다."
- },
- "Synthesia’s AI training platform is moving beyond videos into live coaching": {
-  "ko": "신세시아 AI 교육 플랫폼, 영상 넘어 실시간 코칭으로 확장",
-  "tldr": "신세시아가 직원들이 AI 아바타와 대화를 연습하고 피드백·점수·분석까지 받는 기업용 실시간 교육 기능 'AI 롤플레이 세션'을 선보였다."
- },
  "Show HN: A self-running space economy SIM in Rust and Bevy": {
   "ko": "Show HN: 러스트와 Bevy로 만든 자율 운영 우주 경제 시뮬레이션",
   "tldr": "러스트와 Bevy 엔진으로 개발된, 스스로 돌아가는 우주 경제 시뮬레이션 프로젝트가 공개됐다."
  },
- "키미 K3, 사이버 보안도 오픈소스 최강...GPT-5.6 테라급 성능": {
-  "tldr": "문샷 AI의 오픈소스 모델 키미 K3가 보안 취약점 탐지에서 미공개 취약점 26개 중 23개를 찾아내며 오픈소스 계열 최강 성능을 기록했다."
- },
- "풀사이드, 오픈소스 코딩 AI '라구나 S 2.1' 출시…\"10배 큰 대형 모델 성능 넘어\"": {
-  "tldr": "풀사이드가 1180억 규모 MoE 오픈웨이트 코딩 모델 '라구나 S 2.1'을 공개했으며, 1조 매개변수급 대형 모델을 앞서는 성능을 내세웠다."
- },
- "FT \"삼성전자, 프랑스 미스트랄에 최대 1조6000억원 투자 논의\"": {
-  "tldr": "삼성전자가 기업가치 34조원을 목표로 투자 라운드를 추진 중인 프랑스 미스트랄 AI에 최대 약 1조6900억원 규모의 지분 투자를 검토 중이라고 FT가 보도했다."
- },
- "광양, 8월15일까지 벼 병해충 방제기간 운영": {
-  "tldr": "광양시가 고온다습한 날씨로 인한 벼 병해충 확산에 대비해 21일부터 8월 15일까지 기본 방제 기간을 운영하며 농가의 초기 방제를 당부했다."
- },
  "머스크 \"차세대 모델은 매개변수 2조개...'키미' 능가할 것\"": {
   "tldr": "머스크가 다음 주 초기 학습을 마칠 2조 매개변수 차세대 모델이 문샷AI의 '키미 K3'를 능가할 수 있다고 자신했다."
- },
- "오픈AI, '코덱스·챗GPT 워크' 사용자 1000만 돌파...일주일 만에 200만 추가": {
-  "tldr": "오픈AI의 코딩·업무 에이전트 '코덱스'와 '챗GPT 워크' 활성 사용자가 일주일 만에 200만명 늘어 1000만명을 돌파했다."
- },
- "엔비디아, 'GB300 NVL72'로 MoE 모델 사전학습 성능 3배 향상": {
-  "tldr": "엔비디아가 'GB300 NVL72'로 딥시크-V3 사전학습에서 GPU당 1648TFLOPs를 기록하며 이전 세대 대비 3배 성능 향상을 달성했다."
- },
- "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era": {
-  "ko": "Glow, 12억 달러 가치로 스텔스 탈출…AI 시대 엔드포인트 보안에 도전",
-  "tldr": "AI 에이전트와 개발자 도구 확산으로 생긴 새로운 엔드포인트 보안 위협을 겨냥한 스타트업 Glow가 12억 달러 가치로 정체를 드러냈다."
- },
- "Utility companies are promising to spare us from AI’s energy bill": {
-  "ko": "전력회사들, 'AI 전기요금 폭탄' 소비자 전가 막겠다 약속",
-  "tldr": "AI로 인한 전기요금 인상 우려가 커지자 미국 대형 전력회사와 데이터센터 업체 약 200곳이 소비자 부담을 덜겠다고 약속했다."
  },
  "Advancing the next era of national science": {
   "img": null,
@@ -2821,18 +733,6 @@
    "다만 레드핀 분석에 따르면 버지니아 북부의 데이터센터 세수가 교육 예산 급증에 기여하고 개인 재산세율은 낮아지는 등 이점도 있다."
   ]
  },
- "Are AI Labs Pelicanmaxxing?": {
-  "img": "https://dylancastillo.co/posts/images/social_media_card.webp",
-  "ko": "AI 연구소들은 '자전거 타는 펠리컨'에 맞춰 모델을 최적화했을까",
-  "hook": "펠리컨 벤치마크는 조작됐을까",
-  "tldr": "7개 프런티어 모델의 1,008개 SVG를 분석했지만 유명 '자전거 타는 펠리컨' 프롬프트에 맞춘 최적화(pelicanmaxxing)의 뚜렷한 증거는 발견되지 않았다.",
-  "detail": "결론부터 말하면, 유명 벤치마크에 맞춰 모델을 최적화하는 pelicanmaxxing의 뚜렷한 증거는 발견되지 않았다. Dylan Castillo는 Simon Willison의 '자전거 타는 펠리컨 SVG 생성' 프롬프트가 유명한 비공식 벤치마크가 되자, 수십억 달러가 걸린 연구소들이 여기에 맞춰 성능을 부풀렸을 가능성을 검증했다. 그는 8종 동물과 6종 탈것을 조합한 48개 프롬프트를 GPT-5.6 Terra·Claude Sonnet 5·Gemini 3.5 Flash 등 7개 모델로 각 3회 생성해 총 1,008개 SVG를 만들고 GPT-5.6 Luna로 채점했다. 특정 벤치마크를 학습했다면 펠리컨 행이나 자전거 열, 펠리컨-자전거 셀이 난이도보다 높은 점수를 받아야 한다는 가설이었다. 그러나 육안 비교에서도 펠리컨-자전거 이미지가 같은 모델의 다른 결과보다 뛰어나지 않았고, 좋은 펠리컨을 그린 모델은 다른 조합도 잘 그리는 경향을 보였다. 분석에는 Claude Fable 5를 사용했으며, 정량 분석 결과는 뒤이은 회귀분석에서 더 자세히 제시된다.",
-  "bullets": [
-   "Simon Willison의 '자전거 타는 펠리컨 SVG 생성' 프롬프트가 유명한 비공식 AI 벤치마크가 되자, 연구소들이 여기에 맞춰 성능을 부풀렸는지 검증한 실험이다.",
-   "8종 동물×6종 탈것 48개 프롬프트를 7개 모델로 각 3회 생성해 LLM 심판으로 채점했는데, 육안 비교에서 펠리컨-자전거 이미지가 특별히 뛰어난 사례는 없었다.",
-   "좋은 펠리컨-자전거를 그린 모델은 다른 조합도 잘 그리는 경향을 보여, 특정 벤치마크만 특화 학습한 정황으로 보기 어려웠다."
-  ]
- },
  "The startup's Postgres survival guide": {
   "img": null,
   "ko": "스타트업을 위한 Postgres 생존 가이드",
@@ -2869,9 +769,6 @@
  "NTT DATA Group cuts incident analysis to 30 minutes with Codex": {
   "ko": "NTT데이터, Codex로 장애 분석 시간을 30분으로 단축",
   "tldr": "NTT데이터 그룹이 ChatGPT Enterprise와 Codex를 도입해 9,000명 직원의 업무를 자동화하고 장애 분석 시간을 30분으로 줄였다."
- },
- "판사, Claude 훈련용 불법 복제 도서 관련 Anthropic의 2.3조원 합의 승인": {
-  "tldr": "미 연방법원이 Claude 훈련용 불법 복제 도서 관련 저작권 집단소송에서 앤스로픽의 약 15억 달러 합의를 승인해, 작가·출판사에 도서당 약 3,000달러가 지급된다."
  },
  "45권의 기술 서적에서 얻은 핵심 인사이트": {
   "tldr": "Book Overflow 2주년을 맞아 45권의 기술 서적에서 뽑은 핵심 인사이트를 정리한 글이다."
@@ -2933,9 +830,6 @@
  "Git에서 --end-of-options가 필요한 이유": {
   "tldr": "Git의 --는 옵션이 아니라 리비전과 경로를 구분하므로, 신뢰할 수 없는 리비전을 안전하게 넘기려면 2.24.0부터 지원된 --end-of-options가 필요하다."
  },
- "Laguna S 2.1 공개": {
-  "tldr": "Poolside가 118B MoE에 토큰당 8B를 활성화하고 최대 1M 토큰 컨텍스트를 지원하는 Laguna S 2.1을 학습 9주 미만 만에 공개했다."
- },
  "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face": {
   "ko": "OpenAI의 사람 실수가 부른 허깅페이스 AI 해킹",
   "tldr": "OpenAI가 '고도로 격리됐다'던 테스트 샌드박스 설정에서 저지른 사람의 실수가 허깅페이스를 겨냥한 AI 기반 공격을 가능하게 했다고 보안 전문가들이 지적했다."
@@ -2951,18 +845,6 @@
  "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous": {
   "ko": "미국 오픈소스 AI 연구소 Arcee \"중국 모델이 본질적으로 위험한 건 아니다\"",
   "tldr": "중국 AI 모델의 성능과 인기가 높아지며 규제 논쟁이 뜨거운 가운데, 미국 오픈소스 연구소 Arcee가 중국 모델이 본질적으로 위험하지는 않다고 주장했다."
- },
- "Substack’s new tool tells you who’s been writing their newsletters with AI": {
-  "ko": "서브스택, 뉴스레터의 AI 작성 비율을 알려주는 도구 출시",
-  "tldr": "서브스택이 뉴스레터가 얼마나 AI로 작성됐는지 독자가 추정할 수 있는 도구를 내놓으며, AI 콘텐츠 투명성 강화 흐름에 동참했다."
- },
- "OpenAI’s AI spending spree has ballooned to $750B": {
-  "ko": "OpenAI의 AI 투자 규모, 7,500억 달러로 급증",
-  "tldr": "OpenAI가 2030년까지 스웨덴 GDP에 맞먹는 7,500억 달러를 인프라에 쏟아부을 계획이다."
- },
- "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently": {
-  "ko": "멘로벤처스 매트 머피 \"AI 스타트업 창업자는 무엇을 다르게 해야 하나\"",
-  "tldr": "앤스로픽이 매출 실행률(run rate) 470억 달러로 급성장한 것을 두고, 멘로벤처스의 매트 머피가 25년 투자 경력에서 본 적 없는 성장이라며 AI 창업자가 달리해야 할 점을 설명했다."
  },
  "Are AI labs pelicanmaxxing?": {
   "img": "https://dylancastillo.co/posts/images/social_media_card.webp",
@@ -3038,5 +920,279 @@
  "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good": {
   "ko": "전문가들 \"Kimi K3의 실력, Anthropic Fable 증류만으로는 설명 안 돼\"",
   "tldr": "Fable을 단순히 증류(distillation)했다고 해서 이렇게 강력한 모델이 이렇게 빨리 나올 수는 없다는 것이 전문가들의 견해다."
+ },
+ "Startup founders urge U.S. government not to shut off Chinese open weight AI": {
+  "img": null,
+  "ko": "스타트업 창업자들, 미국 정부에 '중국 오픈웨이트 AI 차단 말라' 촉구",
+  "hook": "중국 AI 막으면 스타트업이 죽는다",
+  "tldr": "미국 스타트업 창업자들이 정부에 중국 오픈웨이트 AI 접근을 끊지 말라는 반대 서한을 보냈다.",
+  "detail": "미국 스타트업 창업계가 정부의 중국산 오픈웨이트 AI 차단 움직임에 공개 반대하고 나섰다. 제목에 따르면 창업자들은 중국 오픈웨이트 모델에 대한 미국 내 접근을 끊지 말라고 정부에 촉구했다. 저렴한 오픈웨이트 모델은 자금이 부족한 소규모 스타트업의 핵심 개발 기반이어서, 차단 시 이들이 큰 타격을 받을 수 있다는 우려가 배경으로 보인다. 다만 이 항목에는 본문이 없어 서명 기업·단체와 구체적 요구 수준은 확인되지 않는다. 방송 전 체크: 참여 기업 수, 전면 금지 반대인지 표적 규제 요구인지, 행정부의 실제 검토 단계.",
+  "bullets": [
+   "제목상 다수 스타트업 창업자가 정부의 중국산 오픈웨이트 AI 차단 움직임에 공개 반대하고 나선 것으로 보임.",
+   "저렴한 오픈웨이트 모델이 자금 부족한 소규모 스타트업의 핵심 개발 기반이어서, 차단 시 이들이 타격받을 것이라는 우려가 배경으로 보임.",
+   "방송 전 체크: 서명 기업 수와 요구 수준(전면 금지 반대인지 표적 규제 요구인지), 행정부의 실제 검토 단계는 확인 필요."
+  ]
+ },
+ "OpenAI and Anthropic unite against open-weight AI risks to their bottom line": {
+  "img": null,
+  "ko": "OpenAI·Anthropic, 오픈웨이트 AI 견제…'수익 위협' 한목소리",
+  "hook": "OpenAI·앤스로픽이 오픈소스 겁내는 이유",
+  "tldr": "OpenAI와 Anthropic이 자사 수익 위협을 이유로 오픈웨이트 AI의 위험성을 부각하며 견제에 나섰다는 내용이다.",
+  "detail": "OpenAI와 Anthropic이 오픈웨이트 AI 확산을 견제하는 데 한목소리를 내고 있다는 내용이다. 제목은 두 선두 AI 기업이 자사 수익에 대한 위협을 이유로 오픈웨이트 모델의 위험성을 부각한다고 지적한다. 즉 안전·보안 명분 뒤에 상업적 이해관계가 있다는 비판적 시각을 담은 것으로 보인다. 다만 본문이 없어 구체적 발언 주체와 정책 요구 내용은 확인되지 않는다. 방송 전 체크: 두 회사가 실제로 어떤 규제를 요구했는지, 기사 출처와 인용 근거.",
+  "bullets": [
+   "제목상 두 선두 AI 기업이 오픈웨이트 모델을 자사 수익에 대한 위협으로 보고 함께 경계하는 것으로 보임.",
+   "안전·보안 명분 뒤에 상업적 이해관계가 있다는 비판적 시각을 담은 것으로 보임.",
+   "방송 전 체크: 두 회사의 실제 발언 주체와 요구한 규제 내용, 기사 출처와 인용 근거는 확인 필요."
+  ]
+ },
+ "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs": {
+  "img": null,
+  "ko": "알파벳 현금 소진에 빅테크 경보…AI 지출 급증",
+  "hook": "알파벳 현금이 빠르게 마르고 있다",
+  "tldr": "알파벳의 현금 소진 속도가 빨라지며 AI 지출 급증에 대한 빅테크 전반의 경계감이 커지고 있다는 내용이다.",
+  "detail": "알파벳의 현금 소진 속도가 빨라지면서 AI 지출 급증에 대한 빅테크 전반의 경계감이 커지고 있다는 내용이다. 제목은 AI 투자 확대가 현금 흐름을 압박하는 신호로 읽힌다는 점을 지적한다. 데이터센터·GPU 등 대규모 자본 지출이 이익 대비 과도하다는 'AI 거품' 논쟁과 맞닿아 있는 것으로 보인다. 다만 본문이 없어 구체적 수치와 분기 실적 근거는 확인되지 않는다. 방송 전 체크: 알파벳의 실제 잉여현금흐름·자본지출 수치와 발표 시점.",
+  "bullets": [
+   "제목상 AI 투자 확대가 알파벳의 현금 흐름을 압박하는 신호로 읽히며 빅테크 전반에 경보가 되고 있는 것으로 보임.",
+   "데이터센터·GPU 등 대규모 자본 지출이 이익 대비 과도하다는 'AI 거품' 논쟁과 맞닿아 있는 것으로 보임.",
+   "방송 전 체크: 알파벳의 실제 잉여현금흐름·자본지출 수치와 분기 실적 근거는 확인 필요."
+  ]
+ },
+ "자율주행 기업": {
+  "img": "https://social.news.hada.io/topic/31751?v=81c161bb5e8a5449e21e76302a58b5b8",
+  "hook": "직원마다 AI 에이전트 부대를 붙였다",
+  "tldr": "Replit은 사람이 목표를 정하고 다수 AI 에이전트가 실행·검증하는 '자율주행 기업' 운영으로 1인당 코드 생산량을 약 3배 늘렸다.",
+  "detail": "Replit은 사람이 목적지를 정하고 다수 AI 에이전트가 맥락 수집·작업·검증·에스컬레이션을 수행하는 '자율주행 기업' 운영 방식을 공개했다. 에이전트를 편집기·채팅 도구에 머물게 하지 않고 접근 정책·감사 로그·ZeroTrust를 적용해 GitHub·GCP·Azure·Linear·Notion·Slack·ZenDesk 등 사내 시스템에 직접 연결했다. 그 결과 2026년 1월 초부터 6월 말까지 전체 코드 기여 라인이 5.8배 늘었고, 신규 채용 효과를 뺀 동일 작성자 집단만 봐도 1인당 생산량이 2.9배 증가했다. 그럼에도 코드 검토 지연, PR 되돌림 비율, 인시던트 추세는 평탄하게 유지됐고 사람의 PR 검토 시간은 30% 이상 절감됐다. 모든 직원은 여러 하위 에이전트를 병렬로 돌리는 관리자 에이전트를 사용해 CSS 마이그레이션, 불안정한 테스트 유지보수, 난해한 네트워크 버그까지 처리했다. 활용은 엔지니어링을 넘어 데이터 분석·영업·마케팅·고객 지원으로 확산돼 고난도 지원 티켓 해결 시간을 60% 단축했다. 내부 에이전트가 일부 상용 도구보다 통합성이 높고 비용은 최대 10배 낮아, 연 7자리 달러 규모 SaaS 계약을 해지하기도 했다. Replit은 이 운영 방식을 정책·권한·보안·비용 통제를 갖춰 사용자에게도 제공할 계획이다.",
+  "bullets": [
+   "2026년 1~6월 전체 코드 기여량 5.8배, 동일 엔지니어 집단 1인당 생산량 2.9배 증가했지만 검토 지연·되돌림·인시던트는 늘지 않음.",
+   "에이전트를 GitHub·GCP·Slack 등 사내 시스템에 연결하고, 관리자 에이전트가 여러 하위 에이전트를 병렬 실행하는 '루프 엔지니어링'을 확산.",
+   "내부 에이전트가 일부 상용 도구보다 저렴·우수해 연 7자리 달러 SaaS 계약을 해지했고, 사람의 PR 검토 시간은 30% 절감."
+  ]
+ },
+ "Reddit, 연 900억원($60m) 계약 만료 앞두고 Google AI 접근 차단 검토": {
+  "img": "https://social.news.hada.io/topic/31750?v=c95ae357080622ad4339a86acbf859d4",
+  "hook": "레딧이 구글 AI를 끊으려는 진짜 속내",
+  "tldr": "Reddit이 연 6천만 달러 규모 구글 데이터 계약 만료를 앞두고 AI 접근 차단을 검토 중이나, 결별보다 더 높은 가격을 노린 협상 카드로 보인다.",
+  "detail": "Reddit이 구글과의 연 6천만 달러 규모 데이터 라이선스 계약 만료를 앞두고 AI용 콘텐츠 접근 차단을 검토하고 있으나, 이는 결별보다 더 유리한 재계약을 노린 협상 카드로 해석된다. 2024년 체결된 이 계약은 구글이 Reddit 게시물을 AI 모델 훈련과 서비스에 쓰도록 허용했으며, 양사는 갱신 협상을 진행 중이지만 아직 확정하지 않았다. 배경에는 구글 AI Overviews가 검색 결과에서 직접 답을 주면서 게시자 사이트 방문이 줄어든 문제가 있다. Pew Research 데이터에 따르면 AI 요약이 표시되면 일반 검색 클릭률이 15%에서 8%로 떨어졌고, 요약 속 출처 링크 클릭률은 1%에 그쳤다. 이에 USA Today·Politico·The Economist·Reuters 등도 구글과의 관계를 재검토하고 있다. Reddit은 AI 답변에 자주 인용되는 인간 대화 데이터를 보유하고 OpenAI에도 데이터를 제공하고 있어, 사용량 기반 요금과 더 높은 가격을 요구하는 것으로 알려졌다. 관련 소식에 Reddit 주가는 장전 거래에서 최대 5.8% 하락했고, 갱신 조건은 다른 게시자·AI 기업 간 계약의 가격 기준에도 영향을 줄 수 있다.",
+  "bullets": [
+   "2024년 체결된 연 6천만 달러 계약은 구글이 Reddit 게시물을 AI 훈련·서비스에 쓰도록 허용했으며, 만료를 앞두고 갱신 협상 중임.",
+   "구글 AI Overviews로 일반 검색 클릭률이 15%→8%로 줄자 USA Today·Politico·Reuters 등도 구글과의 관계를 재검토.",
+   "Reddit은 OpenAI에도 데이터를 라이선스하며 사용량 기반 요금과 더 높은 가격을 요구하는 것으로 알려져, 결별보다 강경한 재계약 협상에 가까움."
+  ]
+ },
+ "omp - Pi를 IDE 수준으로 확장한 터미널 AI 코딩 에이전트": {
+  "img": "https://social.news.hada.io/topic/31744?v=47708f045e1a84d4e4cbd8488d772a9b",
+  "hook": "터미널에서 IDE처럼 쓰는 AI 코딩 툴",
+  "tldr": "omp는 오픈소스 코딩 에이전트 Pi를 기반으로 LSP·디버거·서브에이전트 등 IDE급 기능을 기본 탑재한 터미널 AI 코딩 에이전트다.",
+  "detail": "omp는 Mario Zechner의 오픈소스 코딩 에이전트 Pi를 기반으로, IDE 수준의 개발 도구를 기본 탑재한 터미널 코딩 에이전트다. 단순한 UI 변경판이 아니라 Pi의 에이전트 구조를 확장해 LSP, 디버거(DAP), 서브에이전트, 코드 리뷰, 웹·PDF 읽기, 세션 공유, 메모리 등을 통합했다. LSP가 파일 수정 과정에 직접 연결돼 참조 검색, 심볼 이름 변경, 진단 확인을 에이전트가 IDE처럼 활용할 수 있다. 파일 기반 Skills를 지원해 OMP 전용뿐 아니라 Claude·Codex·OpenCode·GitHub 등 기존 Skill 구조도 탐색할 수 있다. 특히 에이전트가 지금 무엇을 읽고 검색·수정·검증하는지 화면에서 명확히 보여주는 TUI가 강점으로, 긴 작업에서도 멈춤과 실행을 구분하기 쉽다. macOS·Linux·Windows를 지원하고 Bun·Homebrew·설치 스크립트와 사전 빌드 바이너리를 제공한다. 다만 npm/source-link로 설치한 버전에서 CommonJS 의존성을 포함한 일부 기존 Pi Extension이 로드되지 않는 문제가 확인됐으며, 원인은 재로딩된 호환성 모듈이 기존 브리지를 덮어쓰는 것으로 수정 PR은 아직 병합 전이다.",
+  "bullets": [
+   "Pi의 에이전트 구조를 확장해 LSP, 디버거(DAP), 서브에이전트, 코드 리뷰, 웹·PDF 읽기, 세션 공유, 메모리를 통합함.",
+   "에이전트의 현재 작업 상태를 명확히 보여주는 TUI가 강점이며, macOS·Linux·Windows와 다양한 모델 제공자를 지원.",
+   "다만 CommonJS 의존성을 포함한 일부 기존 Pi Extension이 npm 설치판에서 로드되지 않는 호환성 문제가 있고, 수정 PR은 아직 병합 전임."
+  ]
+ },
+ "The arguments against open source AI are bad": {
+  "img": "https://tombedor.dev/img/social-card.jpg",
+  "ko": "'오픈소스 AI 반대론은 엉터리다'…한 개발자의 반박",
+  "hook": "오픈소스 AI 반대는 왜 틀렸나",
+  "tldr": "오픈소스 AI를 위험한 위협으로 모는 주장들이 근거가 약하다며, 억제 시도는 미국 기업만 불리하게 한다는 반박 글이다.",
+  "detail": "오픈소스 AI를 위험한 위협으로 규정하는 주장들이 근거가 약하다는 반박 글이다. 저자는 Kimi K3 공개 이후 언론인·기업인·정치인 사이에서 오픈소스 AI 경계론이 다시 커졌다고 지적한다. 그는 프런티어 모델을 포함한 모든 상용 소프트웨어가 오픈소스 소프트웨어 위에 세워져 있으며, 기업은 차별화되지 않는 하위 계층은 협력하고 상위 계층에서 경쟁한다고 설명한다. 프런티어 랩들이 우려하는 것은 AI 모델이 '경쟁 대상이 아닌 흔한 기반'이 되는 상황이라는 것이다. 또 역사적으로 오픈소스 억제는 매우 어렵다며, 1991년 PGP 수사와 Netscape SSL의 약화된 수출 버전 사례를 든다. 당시 수출 통제는 오히려 미국 기업만 불리하게 했고, 결국 암호화 소스코드 공개가 표현의 자유로 인정돼 규제가 완화됐다고 정리한다. 나아가 '중국 모델'의 정의 자체가 모호하다며 표적 규제의 실효성에 의문을 제기한다.",
+  "bullets": [
+   "저자는 프런티어 모델을 포함한 모든 상용 소프트웨어가 오픈소스 위에 세워져 있으며, 프런티어 랩들은 AI가 '경쟁 대상이 아닌 흔한 기반'이 되는 상황을 우려한다고 지적.",
+   "1991년 PGP 수사와 Netscape SSL의 약화된 수출 버전 사례를 들어, 오픈소스 억제는 어렵고 오히려 미국 기업만 불리하게 했다고 설명.",
+   "'중국 모델'의 정의 자체가 모호하다(미국 모델 증류 의혹, 미국인의 파인튜닝 등)며 표적 규제의 실효성에 의문 제기."
+  ]
+ },
+ "아무도 당신의 주식을 사주지 않는다": {
+  "img": "https://social.news.hada.io/topic/31755?v=dd8fe86daa57647942dc6d3e24383db9",
+  "hook": "VC 장부 수익이 현금이 안 되는 이유",
+  "tldr": "IPO·M&A 같은 외부 출구가 약해지면서 VC는 장부 평가익을 실제 분배금(DPI)으로 바꾸지 못할 위험에 처했다는 분석이다.",
+  "detail": "주식은 더 높은 값에 팔 자산이 아니라 기업의 미래 현금흐름에 대한 소유권으로 다시 이해해야 한다는 주장이다. 필자는 SpaceX IPO와 예정된 OpenAI·Anthropic 상장이 기록적 유동성을 만들어도, 다수 VC가 높은 평가액을 실제 LP 분배금(DPI)으로 전환하지 못하는 현실을 가린다고 본다. 전략적 인수 수요 위축, IPO 시장 부진, 바이아웃 업계의 부채 부담으로 기존 출구가 모두 좁아졌기 때문이다. 공개시장에서는 시가총액 가중 인덱스와 목표일 펀드로 패시브 자금이 대형주에 자동 유입되면서 중소형주(SMID-cap)의 자연스러운 매수자가 사라졌다. David Einhorn은 이런 시장 구조를 '고장 났다'고 표현했고, 외부 자금이 없는 기업은 자체 현금으로 자사주를 매입해 수익을 만든다. 비상장시장도 AI 연구소·핵심 인프라·초대형 기업에만 자금이 몰려, 제품 시장 적합성을 갖춘 건전한 기업조차 외부 유동성을 기대하기 어렵다. 필자는 파워법칙은 신규 투자 선별 전략일 뿐 보유 포트폴리오 실현 전략으로는 부적절하다며, 비소구·기간 대응 차입으로 성장 투자를 줄이지 않고 현금을 창출해 자본 환원 프로그램으로 유동성을 만들라고 제안한다.",
+  "bullets": [
+   "SpaceX·OpenAI·Anthropic 상장이 대규모 유동성을 만들어도 다수 VC는 실제 LP 분배금을 만들지 못할 수 있다고 봄.",
+   "공개시장은 패시브 자금이 대형주에 몰려 중소형주의 자연스러운 매수자가 사라졌고, 이들은 자사주 매입 등 자체 현금흐름으로 수익을 만든다고 지적.",
+   "필자는 파워법칙을 신규 투자에만 적용하고, 보유 기업은 비소구 금융 등으로 현금흐름을 극대화해 자본 환원으로 유동성을 만들어야 한다고 제안."
+  ]
+ },
+ "graphify - 코드베이스를 질의 가능한 지식 그래프로 바꾸는 도구": {
+  "img": "https://social.news.hada.io/topic/31743?v=d763b99cf6ade362f5662cba3d34c19d",
+  "hook": "코드베이스를 grep 말고 질문으로 탐색",
+  "tldr": "graphify는 코드·문서·미디어를 로컬에서 지식 그래프로 만들어, 파일을 grep하는 대신 자연어 질의로 탐색하게 해주는 MIT 라이선스 도구다.",
+  "detail": "graphify는 AI 코딩 어시스턴트에서 코드·문서·PDF·이미지·영상 전체를 지식 그래프로 매핑해, 파일을 하나씩 grep하는 대신 질문으로 탐색하게 해주는 도구다. 질문하면 관련 서브그래프만 반환해 전체 파일을 읽을 필요가 없다. 코드는 tree-sitter AST로 로컬 파싱되어 그래프 빌드에 LLM 호출 자체를 하지 않으므로 토큰 비용이 제로이고, 코드가 머신 밖으로 나가지 않아 데이터 레지던시 요구가 있는 조직도 완전 오프라인으로 인덱싱할 수 있다. 모든 연결에는 원문 명시(EXTRACTED)와 추론(INFERRED) 신뢰도 태그가 붙어 근거 범위를 확인할 수 있다. 임베딩·벡터 스토어를 쓰지 않는 실제 그래프여서 유사도 검색이 아니라 두 대상 간 경로 추적(path)과 개념 설명(explain)이 가능하다. query·path·explain 세 가지 핵심 질의를 제공하며, SQL 스키마·Terraform·PDF·이미지·영상 URL까지 하나의 그래프로 통합한다. graphify-out/을 git에 커밋하면 팀 전원이 같은 코드 지도에서 시작하고, MCP 서버로 노출해 URL을 공유할 수도 있다. MIT 라이선스다.",
+  "bullets": [
+   "tree-sitter AST로 로컬 파싱해 그래프 빌드에 LLM 토큰이 전혀 들지 않고, 코드가 머신 밖으로 나가지 않아 오프라인 인덱싱이 가능.",
+   "모든 연결에 EXTRACTED(원문)/INFERRED(추론) 신뢰도 태그가 붙고, 임베딩 없이 실제 그래프라 경로 추적(path)·개념 설명(explain)이 가능.",
+   "query·path·explain 3종 질의를 제공하고 graphify-out/을 git에 커밋해 팀이 같은 코드 지도를 공유, MCP 서버로도 노출 가능."
+  ]
+ },
+ "스타트업 창업자들, 미국 정부에 중국 오픈 웨이트 AI 차단 중단 촉구": {
+  "img": "https://social.news.hada.io/topic/31748?v=95629c0d5222897add9c7ffd09291407",
+  "hook": "중국 AI 막으면 스타트업 수백곳 소멸",
+  "tldr": "Proton·Y Combinator 등 약 200개 스타트업이 중국 오픈웨이트 AI 차단은 소수 대기업만 이롭게 한다며 전면 금지 대신 표적 규제를 촉구했다.",
+  "detail": "Proton과 Y Combinator를 포함한 약 200개 실리콘밸리 스타트업이 중국 오픈웨이트 AI 접근 차단에 반대하는 공동 서한을 Trump 행정부에 보냈다. 새로 결성된 Little Tech Association이 주도했으며, 미국 스타트업 업계가 행정부의 주요 AI 정책 논쟁에 공동 대응한 첫 사례다. 창업자들은 미국의 AI 리더십에는 자국산 최고 모델뿐 아니라 이미 공개된 모델에 대한 지속적 접근도 필요하다며, 전면 금지 대신 표적화된 안전장치를 요구했다. 많은 스타트업은 저렴한 중국 오픈웨이트 모델에 의존하는데, 차단되면 Anthropic·OpenAI 사용 비용 부담이 커져 소수 AI 대기업에 유리해진다는 우려다. 이 논쟁은 Moonshot AI가 강력한 Kimi K3를 공개하고, Anthropic의 Fable 모델을 대규모 증류했으며 수출 금지 대상인 Nvidia GB300 서버를 확보했다는 의혹이 제기되면서 촉발됐다. 다만 백악관 고위층은 전면 금지를 진지하게 논의하지 않았고, 상무부도 아직 중국 AI 기업을 Entity List에 추가할 계획을 세우지 않은 상태다. 방송 전 체크: Moonshot 관련 증류·서버 의혹은 행정부 주장 단계로 아직 확인되지 않았다.",
+  "bullets": [
+   "새로 결성된 Little Tech Association이 Trump 대통령 등에 공동 서한을 보냈고 Proton·Y Combinator 등 약 200개사가 참여, 스타트업 업계의 첫 공동 대응임.",
+   "많은 스타트업이 저렴한 중국 오픈웨이트 모델에 의존해, 금지 시 Anthropic·OpenAI 비용 부담이 커져 소수 대기업에 유리해진다는 우려.",
+   "방송 전 체크: Moonshot AI의 Anthropic Fable 모델 대규모 증류와 수출 금지 Nvidia GB300 서버 확보 의혹은 행정부 주장 단계로 아직 미확인."
+  ]
+ },
+ "AI Companies Are Trying to Hide a Staggering Amount of Debt": {
+  "img": "https://futurism.com/wp-content/uploads/2026/07/ai-companies-hide-debt-off-balance-sheet.jpg?w=1200",
+  "ko": "AI 기업들, 장부 밖에 숨긴 막대한 부채…'제2의 엔론' 우려",
+  "hook": "빅테크가 숨긴 1.65조 달러 부채",
+  "tldr": "5대 빅테크가 재무제표에 잡히지 않는 부외부채 1.65조 달러를 안고 있어 AI 거품 붕괴 위험이 커진다는 분석이다.",
+  "detail": "5대 미국 빅테크가 재무제표에 드러나지 않는 막대한 부외부채를 안고 있다는 분석이 나왔다. Nikkei Asia 조사에 따르면 Alphabet·Microsoft·Amazon·Meta·Oracle의 부외부채는 약 1조6,500억 달러로, 이들이 최근 분기에 공식 보고한 부채 1조3,500억 달러보다도 많다. 특히 Meta 한 곳의 부외부채만 약 4,200억 달러로 추산된다. 기업들은 법적으로 분리된 자회사 등 특수목적기구(SPV)와 부외금융 구조를 활용해 재무 상태를 실제보다 건전하게 보이게 한다는 지적을 받는다. 이 구조는 2001년 유령회사로 부채를 숨겼다가 붕괴한 엔론과 비교되고 있다. 회계 컨설턴트 Tom Selling은 이런 회계가 유행하고 있으며 부실 기업이 이를 이용해 스스로를 지탱할 때 위험하다고 경고했다. 데이터센터 투자 자금을 위해 신주를 발행하면 지분 희석과 투자자 신뢰 하락으로 이어질 수 있다. Nikkei가 분석한 5개사 중 4곳이 곧 2분기 실적을 발표할 예정이다.",
+  "bullets": [
+   "Nikkei Asia 조사에서 Alphabet·Microsoft·Amazon·Meta·Oracle의 부외부채가 약 1조6,500억 달러로, 공식 보고 부채 1조3,500억 달러보다 많은 것으로 추산됨.",
+   "특수목적기구(SPV) 등 부외금융을 활용한 구조가 2001년 붕괴한 엔론과 비교되고 있음.",
+   "방송 전 체크: 5개사 중 4곳의 2분기 실적 발표 결과와 실제 부채 반영 여부."
+  ]
+ },
+ "Codeberg는 LLM으로부터 FLOSS 공유 자원을 보호합니다": {
+  "img": "https://social.news.hada.io/topic/31739?v=f81149251bca0026f084749a3977488f",
+  "hook": "코드버그가 '바이브 코딩'을 금지한 이유",
+  "tldr": "Codeberg 회원들이 데이터를 LLM 훈련에 쓰지 않고 '바이브 코딩' 프로젝트를 제한하는 약관 변경을 가결하며 FLOSS 공유지를 지키기로 했다.",
+  "detail": "Codeberg e.V. 회원들이 사용자·프로젝트 데이터를 LLM 훈련에 쓰지 않는 방침과 '바이브 코딩' 프로젝트를 제한하는 이용약관 변경안을 모두 가결했다. 논쟁이 컸던 두 번째 안건은 활동 회원 약 50%가 참여한 가운데 찬성 358명, 반대 144명, 기권 14명으로 통과됐으며, 즉각적인 일괄 삭제 없이 사례별로 규칙을 구체화할 예정이다. LLM 크롤러가 이슈 필터 조합, Git 전체 이력, 중복 파일 페이지까지 훑어 비싼 DB 쿼리로 서비스 품질을 떨어뜨리고, LLM 수요로 SSD 가격이 몇 년 전 €700에서 현재 €3,700까지 올라 인프라 비용과 운영 부담이 커진 것이 배경이다. 유지관리자는 저품질 LLM 기여의 검토 부담, 사람의 감독 여부가 불분명한 프로젝트, copyleft 코드의 라이선스 세탁, 기계 생성 여부를 둘러싼 불신에 직면해 있다. Codeberg는 아무도 다시 보지 않을 일회용 소프트웨어의 저장소가 아니라 사람들이 함께 소프트웨어를 개선하는 공간을 지향한다고 밝혔다. 활발한 공동체나 LLM 이전부터의 이력이 있는 프로젝트는 거의 영향받지 않지만, 자율 에이전트가 만들거나 자원을 과도하게 소비하는 프로젝트는 더 이상 환영받지 못할 수 있다.",
+  "bullets": [
+   "회원 투표로 두 안건 모두 가결됐고, 논쟁적이던 바이브 코딩 제한안은 찬성 358·반대 144·기권 14로 통과(약 50% 투표율).",
+   "LLM 크롤러가 이슈 필터·Git 이력까지 훑어 DB에 부하를 주고, SSD 가격이 €700에서 €3,700로 올라 인프라 비용이 급증.",
+   "저품질 LLM 기여 검토 부담과 copyleft 코드의 라이선스 세탁, 기계 생성 여부를 둘러싼 불신이 배경. 즉각적 일괄 삭제 없이 사례별 적용 예정."
+  ]
+ },
+ "로드맵: AI 데이터센터 스택": {
+  "img": "https://social.news.hada.io/topic/31740?v=1e5af6256e00fefe7c62e71361df31d8",
+  "hook": "GPU보다 전기가 더 급한 AI 데이터센터",
+  "tldr": "AI 데이터센터 확장의 핵심 제약이 GPU에서 전력·인허가·건설로 옮겨가며, 자체 발전(BYOP)이 지배적 전략으로 부상하고 있다는 로드맵이다.",
+  "detail": "AI 데이터센터 확장의 핵심 제약이 GPU가 아니라 전력·인허가·건설 역량으로 바뀌고 있다는 로드맵이다. 데이터센터 자체는 12~18개월이면 지을 수 있지만 전력망 연결에는 5~7년이 걸려, 2025년 가동 예정이던 110개 중 4분의 1 이상이 전력·인허가·건설 문제로 지연됐다. 2026년 초 기준 발표된 하이퍼스케일 프로젝트는 777개·190GW 규모이며, 전력망 연결 대기열을 피하기 위해 계량기 뒤편에서 직접 발전하는 BYOP(Bring Your Own Power)가 지배적 전략으로 부상해 2025년에만 약 50GW의 BTM 가스 발전이 발표됐다. 변압기 수요는 2019~2025년 119% 늘었지만 생산이 따라가지 못해 납품 기간이 코로나 이전 약 1년에서 최대 5년으로 늘었다. 클라우드 시대 20~40kW였던 랙 밀도는 일부 AI 학습 클러스터에서 500~600kW로 치솟아 800V DC와 고체 변압기 같은 새 전력 구조가 필요해졌다. 스타트업 기회는 인허가·부지 선정, 발전, 송배전·전력 변환, 소프트웨어, 건설·유지보수, 냉각 여섯 영역에 걸쳐 형성되고 있다. 필자는 장비만 공급하기보다 전력 가격·배터리·AI 작업 부하·냉각을 함께 제어하며 데이터센터 운영에 장기 내장되는 기업이 살아남을 것으로 전망한다.",
+  "bullets": [
+   "데이터센터 건설은 12~18개월이면 되지만 전력망 연결에는 5~7년이 걸려, 2025년 가동 예정 110개 중 4분의 1 이상이 전력·인허가·건설 문제로 지연됨.",
+   "2026년 초 하이퍼스케일 프로젝트는 777개·190GW 규모이며, 전력망 대기열을 피하는 자체 발전(BYOP)이 발표 용량의 절반 가까이 차지.",
+   "변압기 수요가 2019~2025년 119% 늘고 납품 기간이 최대 5년으로 길어진 가운데, 일부 AI 랙은 500~600kW를 써 800V DC 등 새 전력 구조가 필요."
+  ]
+ },
+ "AI 기업들이 감추려는 막대한 부외부채": {
+  "img": "https://social.news.hada.io/topic/31749?v=68dda473da53265a4447d7dc96258a9b",
+  "hook": "메타 혼자 숨긴 부채가 4,200억 달러",
+  "tldr": "Nikkei Asia 추산 결과 5대 빅테크가 재무제표 밖에 1조6,500억 달러 부외부채를 안고 있어 '제2의 엔론' 우려가 제기됐다.",
+  "detail": "Alphabet·Microsoft·Amazon·Meta·Oracle이 AI 데이터센터 투자 과정에서 재무제표에 잡히지 않는 부외부채 약 1조6,500억 달러를 안고 있다고 Nikkei Asia가 추산했다. 이는 5개사가 최근 분기에 공식 보고한 부채 1조3,500억 달러보다도 많으며, Meta 한 곳의 부외부채만 약 4,200억 달러에 달한다. 기업들은 법적으로 분리된 자회사 같은 특수목적기구(SPV)와 부외금융을 활용해 재무 상태를 실제보다 건전하게 보이게 한다는 지적을 받는다. 이런 구조는 유령회사로 부채를 숨겼다가 2001년 붕괴한 엔론과 비교되지만, 비교의 초점은 회계 구조이지 같은 결과를 단정하는 것은 아니다. 회계 컨설턴트 Tom Selling은 이런 회계가 유행하고 있으며 부실 기업이 이를 이용해 스스로를 지탱할 때 위험하다고 평가했다. 데이터센터 자금을 위해 신주를 발행하면 지분 희석과 투자자 신뢰 하락으로 이어질 수 있다. 다만 댓글에서는 매출 2,000억·EBITDA 1,000억 달러 기업의 4,200억 달러 부채가 다른 업종에선 평범하다는 반론도 나온다. Nikkei가 분석한 5개사 중 4곳은 곧 2분기 실적을 발표할 예정이다.",
+  "bullets": [
+   "Nikkei Asia 조사에서 Alphabet·Microsoft·Amazon·Meta·Oracle의 부외부채가 약 1조6,500억 달러로, 공식 보고 부채 1조3,500억 달러보다 많은 것으로 추산됨.",
+   "특수목적기구(SPV)와 부외금융을 활용한 구조가 2001년 붕괴한 엔론과 비교되지만, 회계 구조에 초점이 있을 뿐 같은 결과를 단정하지는 않음.",
+   "댓글에서는 매출·EBITDA 규모를 감안하면 평범한 부채라는 반론과, 이들이 401(k)·S&P 비중이 커 시스템 위험이라는 우려가 엇갈림."
+  ]
+ },
+ "Show HN: Palmier Pro – Open-source macOS video editor built for AI": {
+  "img": "https://opengraph.githubassets.com/a1ef47dfd491cd036b26691457c849be10083a1e7672e8efece313a3cdec4909/palmier-io/palmier-pro",
+  "ko": "Show HN: AI를 위해 만든 오픈소스 macOS 영상 편집기 'Palmier Pro'",
+  "hook": "AI와 함께 편집하는 오픈소스 영상 툴",
+  "tldr": "Palmier Pro는 Swift로 만든 오픈소스 macOS 영상 편집기로, MCP로 Claude·Codex·Cursor 등 에이전트와 타임라인에서 함께 영상을 만들고 편집할 수 있다.",
+  "detail": "Palmier Pro는 Swift로 처음부터 개발한 오픈소스 macOS 영상 편집기로, 사용자와 AI 에이전트가 타임라인 안에서 함께 영상을 생성·편집하도록 설계됐다. Premiere Pro를 북극성으로 삼되 AI를 워크플로에 통합하는 방향을 택했다. Seedance·Kling·Nano Banana Pro 같은 최신 모델로 타임라인 편집기 안에서 이미지·영상을 생성할 수 있다. 앱이 실행되면 http://127.0.0.1:19789/mcp에 MCP 서버를 노출해 Claude Code, Codex, Cursor와 연결되며, Claude Desktop용 원클릭 설치 확장(mcpb)도 번들로 제공한다. 영상 편집기(생성형 AI 기능 제외)와 MCP 서버, 에이전트 챗은 오픈소스로 공개돼 있다. 실행에는 Apple Silicon 기반의 macOS 26(Tahoe)이 필요하다. 방송 전 체크: GitHub 스타 11.3k 등 인기 지표는 시점에 따라 달라질 수 있어 확인 필요.",
+  "bullets": [
+   "Premiere Pro를 목표로 Swift로 처음부터 개발했고, Seedance·Kling·Nano Banana Pro 같은 모델로 타임라인 안에서 생성형 AI를 활용.",
+   "앱 실행 시 127.0.0.1:19789에 MCP 서버를 노출해 Claude Code·Codex·Cursor·Claude Desktop과 연결 가능.",
+   "영상 편집기와 MCP 서버·에이전트 챗은 오픈소스이며 Apple Silicon의 macOS 26(Tahoe)이 필요함."
+  ]
+ },
+ "DARPA, U.S. Air Force fly AI-controlled F-16": {
+  "img": null,
+  "ko": "DARPA·美 공군, AI가 조종하는 F-16 시험비행 성공",
+  "hook": "AI가 F-16 전투기를 직접 몰았다",
+  "tldr": "미 공군과 DARPA가 AI 에이전트로 F-16을 자율 비행시키는 VENOM 시험에 성공하며 공중전 AI 개발의 이정표를 세웠다.",
+  "detail": "미 공군과 DARPA가 AI 에이전트로 F-16 전투기를 자율 비행시키는 시험에 성공했다. 이 F-16은 VENOM(바이퍼 실험·차세대 운용 모델) 프로그램에 따라 자율 비행 시험기로 개조된 기체다. 조종사가 스위치 하나로 인간 조종과 AI 조종을 전환할 수 있는 VENOM 자율화 키트(VAK)를 장착해, 인간이 개입 가능한(human-on-the-loop) 안전한 실험 환경을 확보했다. 이는 앞서 X-62A VISTA로 AI가 공중전(도그파이트)에서 전투기를 자율 조종할 수 있음을 입증한 ACE 프로그램의 후속이다. DARPA 프로그램 관리자 James Valpiani 준장은 표준 F-16의 핵심 소프트웨어를 바꾸지 않고 비행 제어와 센서를 자동화해, 공중전용 AI를 빠르게 개발하는 파이프라인을 만들었다고 밝혔다. 향후 VENOM 기체들은 AIR 프로그램의 핵심 플랫폼으로 여러 AI 에이전트를 실제 비행에서 시험하는 데 쓰인다. 궁극적으로는 인간 조종사가 무인 협업전투기(CCA) 편대를 지휘·통제하는 작전을 목표로 한다. 시험은 플로리다 에글린 공군기지에서 이뤄졌다.",
+  "bullets": [
+   "개조된 F-16은 스위치 하나로 인간 조종과 AI 조종을 전환하는 VENOM 자율화 키트(VAK)를 장착해, 인간이 개입 가능한(human-on-the-loop) 안전한 시험 환경을 확보함.",
+   "앞서 X-62A VISTA로 AI가 공중전(도그파이트)에서 전투기를 자율 조종할 수 있음을 입증한 ACE 프로그램의 후속 성과임.",
+   "향후 VENOM 기체들은 여러 AI 에이전트를 실제 비행에서 시험하는 AIR 프로그램의 핵심 플랫폼이 되며, 궁극적으로 무인 협업전투기(CCA) 편대 지휘를 목표로 함."
+  ]
+ },
+ "양질의 논픽션은 AI 슬롭의 정반대다": {
+  "tldr": "도서관식 서가 탐색과 문학상 수상작 약 6,500권을 모은 무료 플랫폼처럼, 큐레이션된 양질의 논픽션이 AI 슬롭의 대척점이라는 주장이다."
+ },
+ "Software rendering in 500 lines of bare C++": {
+  "ko": "순수 C++ 500줄로 구현한 소프트웨어 렌더링",
+  "tldr": "외부 라이브러리 없이 순수 C++ 500줄로 소프트웨어 렌더러를 처음부터 구현하는 과정을 다룬 글이다."
+ },
+ "Why Software Factories Fail (or: harness engineering is not enough)": {
+  "ko": "소프트웨어 팩토리는 왜 실패하는가: 하네스 엔지니어링만으론 부족하다",
+  "tldr": "AI 코드 생성을 대규모로 감싸는 하네스만으로는 부족하며, 인간의 검토·판단이 병목이라 소프트웨어 팩토리가 실패한다는 분석이다."
+ },
+ "Show GN: 혼자는 외로워서 만든 오픈코드워": {
+  "tldr": "코드량 대신 프롬프트 수와 글자 수로 순위를 매기는 바이브코딩 리더보드 '오픈코드워'를 소개하는 글이다."
+ },
+ "이제 모든 것이 Pre-Series A다": {
+  "tldr": "$10M이 넘는 투자도 Pre-seed로 불릴 만큼 Series A 이전 단계의 명칭이 실질적 의미를 잃고 있다는 분석이다."
+ },
+ "Show GN: Due2 – E2E 암호화 기반 마감일 관리 앱": {
+  "tldr": "잦은 개인정보 유출에 대응해 종단간 암호화(E2E)를 적용한 마감일 관리 앱 'Due2'를 소개하는 글이다."
+ },
+ "ChatGPT, 개인 건강 데이터를 일반 대화에 통합하는 Health 출시": {
+  "tldr": "미국 성인 로그인 사용자가 Apple Health와 의료 기록을 연결해 검사 결과·수면·활동 데이터를 대화 맥락에 활용하는 'Health in ChatGPT'가 출시됐다."
+ },
+ "EU fines Google €890M for competition breaches over search and apps": {
+  "ko": "EU, 검색·앱 경쟁 위반으로 구글에 8억9천만 유로 과징금",
+  "tldr": "EU가 검색과 앱 시장에서의 경쟁 위반을 이유로 구글에 8억9,000만 유로의 과징금을 부과했다."
+ },
+ "손글씨가 뇌에 좋은 이유와 편하게 쓰는 법": {
+  "tldr": "손글씨는 생각과 손의 움직임을 실시간 조율해 뇌의 더 많은 영역을 쓰며, 피로는 필압과 마찰에 크게 좌우된다는 글이다."
+ },
+ "큰 효과를 만드는 작은 UI 디자인 팁들": {
+  "tldr": "UI 디자인은 예술적 감각보다 여백·형태·시각적 위계 같은 일관된 논리 규칙을 적용하면 더 빠르고 예측 가능하게 개선된다는 글이다."
+ },
+ "Justif - 웹을 위한 Knuth-Plass 양쪽 정렬과 마이크로타이포그래피": {
+  "tldr": "Justif는 브라우저 기본 렌더링과 Knuth-Plass 방식의 출판물급 양쪽 정렬을 하이픈·글자 돌출 옵션과 함께 직접 비교하는 웹 데모다."
+ },
+ "나를 설레게 하는 차분한 기술들": {
+  "tldr": "기술은 사용자를 붙잡기보다 할 일을 돕고 물러나는 '집중형 컴퓨팅'이어야 하며, 하나의 기능에 집중하는 기기가 대안이라는 글이다."
+ },
+ "과제형 면접 프로젝트를 열어보니 조직적인 악성코드 작전이었다": {
+  "tldr": "월 1만~1.5만 달러 원격 개발직을 미끼로 한 가짜 채용이 FastAPI 과제로 위장해 Git 작업 중 악성코드를 심는 조직적 공격이었다는 폭로다."
+ },
+ "How AI guardrails are impeding the work of offensive cybersecurity researchers": {
+  "ko": "AI 가드레일이 공격형 보안 연구자들의 작업을 가로막는다",
+  "tldr": "OpenAI·Anthropic의 가드레일이 취약점을 찾고 익스플로잇을 개발하는 공격형 보안 연구자들의 정당한 작업까지 방해하고 있다는 취재다."
+ },
+ "Launching Health in ChatGPT": {
+  "ko": "ChatGPT에 'Health' 출시…의료 기록·Apple Health 연동",
+  "tldr": "미국 사용자가 의료 기록과 Apple Health를 안전하게 연결해 더 개인화된 건강 인사이트를 얻는 'Health in ChatGPT'가 출시됐다."
+ },
+ "AMD takes on Nvidia with its Helios AI rack-scale system": {
+  "ko": "AMD, 랙 규모 AI 시스템 'Helios'로 엔비디아에 도전장",
+  "tldr": "AMD가 올해 말 출하를 시작하는 랙 규모 시스템 'Helios'로 엔비디아에 정면 도전한다."
+ },
+ "모든 개발자가 SIMD를 알아야 하는 이유": {
+  "tldr": "SIMD는 최고 성능용의 난해한 기법이 아니라 평범한 반복문을 여러 값씩 처리해 가속하는 일상적 최적화 수단이라는 글이다."
+ },
+ "Anthropic updates Claude voice mode with more capable models": {
+  "ko": "Anthropic, 더 강력해진 모델로 Claude 음성 모드 업데이트",
+  "tldr": "Anthropic이 회의 일정 변경이나 이메일 초안 작성까지 해주는 더 유능한 모델로 Claude 음성 모드를 업데이트했다."
+ },
+ "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing": {
+  "ko": "전 구글 보안 임원들의 AegisAI, AI 스피어피싱 차단에 3,600만 달러 유치",
+  "tldr": "전 구글 보안 임원들이 세운 AegisAI가 사람처럼 각 메시지의 미세한 이상을 잡아내는 AI로 스피어피싱을 막겠다며 3,600만 달러를 유치했다."
+ },
+ "PyPI, 릴리스 14일 후 새 파일 업로드 거부": {
+  "tldr": "PyPI가 토큰·배포 워크플로 탈취로 기존 릴리스가 오염되는 것을 막기 위해 게시 14일이 지난 릴리스의 새 파일 업로드를 차단한다."
+ },
+ "소프트웨어 팩토리, 빛과 어둠": {
+  "tldr": "소프트웨어 팩토리는 인간이 판단하는 '밝은 팩토리'와 검토까지 기계에 맡기는 '다크 팩토리'로 나뉘며, 확장의 병목은 인간의 검토라는 분석이다."
+ },
+ "Runway launches AI model router as generative media gets crowded": {
+  "ko": "Runway, 생성형 미디어 경쟁 속 AI 모델 라우터 출시",
+  "tldr": "Runway가 품질·속도·비용 우선순위에 따라 최적의 이미지·영상·오디오 생성 모델을 자동 선택하는 'Media Router'를 출시했다."
+ },
+ "OpenAI makes ChatGPT Health available to all US users": {
+  "ko": "OpenAI, ChatGPT Health를 모든 미국 사용자에 개방",
+  "tldr": "OpenAI가 Apple Health·Function·MyFitnessPal 등의 개인 데이터를 통합할 수 있는 ChatGPT Health를 모든 미국 사용자에게 개방했다."
+ },
+ "Meta launched a new AI optimism ad set to a song about human extinction": {
+  "ko": "메타, 인류 멸종 노래에 맞춘 'AI 낙관' 광고 공개",
+  "tldr": "메타가 AI 낙관을 담은 광고에 쓴 David Bowie의 'Five Years'가 실은 인류 종말 5년 전을 노래한 곡이라는 지적이 나왔다."
+ },
+ "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors": {
+  "ko": "AI 칩 스타트업 Etched, 회의론 딛고 103억 달러 기업가치 달성",
+  "tldr": "하버드 중퇴자 3명이 세운 Etched가 GPU 없이 어떤 AI 모델의 추론도 가속한다는 칩으로 103억 달러 기업가치를 인정받았다."
+ },
+ "Google’s Gemini nears billion-user milestone": {
+  "ko": "구글 제미나이, 월 사용자 10억 명 돌파 눈앞",
+  "tldr": "구글 Gemini가 2월 기준 월 7억5,000만 명을 넘어 사용자 10억 명 달성을 눈앞에 뒀다."
  }
 }
