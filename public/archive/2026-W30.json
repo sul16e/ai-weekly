@@ -1,5 +1,5 @@
 {
- "updatedAt": 1785041545543,
+ "updatedAt": 1785045193221,
  "week": "2026-W30",
  "items": [
   {
@@ -9,26 +9,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1741,
-   "comments": 1276,
+   "engagement": 1747,
+   "comments": 1277,
    "publishedAt": 1784912261000,
    "isAI": true,
-   "score": 56.1,
+   "score": 55.6,
    "hot": false
-  },
-  {
-   "title": "Open-weight AI is having its Kubernetes moment",
-   "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49048034",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 343,
-   "comments": 275,
-   "publishedAt": 1784990989000,
-   "isAI": true,
-   "score": 55.1,
-   "hot": true
   },
   {
    "title": "The new rules of context engineering for Claude 5 generation models",
@@ -37,9 +23,23 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 227,
-   "comments": 139,
+   "engagement": 250,
+   "comments": 159,
    "publishedAt": 1785012155000,
+   "isAI": true,
+   "score": 55.2,
+   "hot": true
+  },
+  {
+   "title": "Open-weight AI is having its Kubernetes moment",
+   "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49048034",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 354,
+   "comments": 279,
+   "publishedAt": 1784990989000,
    "isAI": true,
    "score": 54.9,
    "hot": true
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 893,
-   "comments": 434,
+   "engagement": 898,
+   "comments": 441,
    "publishedAt": 1784962634000,
    "isAI": false,
-   "score": 52,
+   "score": 51.6,
    "hot": true
   },
   {
@@ -65,25 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 115,
-   "comments": 78,
+   "engagement": 120,
+   "comments": 84,
    "publishedAt": 1785022370000,
    "isAI": true,
-   "score": 50.5,
-   "hot": false
-  },
-  {
-   "title": "LLM Usage in Debian: Three Proposals",
-   "url": "https://www.debian.org/vote/2026/vote_002",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49050859",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 111,
-   "comments": 99,
-   "publishedAt": 1785008679000,
-   "isAI": true,
-   "score": 48.2,
+   "score": 50.3,
    "hot": false
   },
   {
@@ -93,11 +79,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 112,
-   "comments": 26,
+   "engagement": 129,
+   "comments": 28,
    "publishedAt": 1785005990000,
    "isAI": true,
-   "score": 47.9,
+   "score": 48.6,
+   "hot": false
+  },
+  {
+   "title": "LLM Usage in Debian: Three Proposals",
+   "url": "https://www.debian.org/vote/2026/vote_002",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49050859",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 120,
+   "comments": 106,
+   "publishedAt": 1785008679000,
+   "isAI": true,
+   "score": 48.4,
+   "hot": false
+  },
+  {
+   "title": "Be skeptical of OpenAI's rogue hacker agent story",
+   "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49038060",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 526,
+   "comments": 294,
+   "publishedAt": 1784910811000,
+   "isAI": true,
+   "score": 47.4,
    "hot": false
   },
   {
@@ -111,22 +125,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
-  },
-  {
-   "title": "Be skeptical of OpenAI's rogue hacker agent story",
-   "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49038060",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 525,
-   "comments": 294,
-   "publishedAt": 1784910811000,
-   "isAI": true,
-   "score": 47.8,
-   "hot": false
   },
   {
    "title": "stinkpot - SQLite 기반 Bash 셸 히스토리 검색기",
@@ -139,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": true
   },
   {
@@ -153,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -167,7 +167,7 @@
    "comments": 141,
    "publishedAt": 1784961100000,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -181,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -191,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1061,
-   "comments": 872,
+   "engagement": 1062,
+   "comments": 873,
    "publishedAt": 1784819920000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -205,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 152,
+   "engagement": 154,
    "comments": 43,
    "publishedAt": 1785003522000,
    "isAI": false,
-   "score": 43,
+   "score": 42.7,
    "hot": true
   },
   {
@@ -219,11 +219,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 847,
-   "comments": 636,
+   "engagement": 849,
+   "comments": 637,
    "publishedAt": 1784884097000,
    "isAI": false,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -233,12 +233,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 647,
+   "engagement": 648,
    "comments": 312,
    "publishedAt": 1784899950000,
    "isAI": false,
-   "score": 42.5,
+   "score": 42.2,
    "hot": false
+  },
+  {
+   "title": "면접 후 연락이 끊겼나요?",
+   "url": "https://news.hada.io/topic?id=31821",
+   "summary": "Did They Ghost You? 는 면접 뒤 명확한 거절이나 안내 없이 연락을 끊은 회사를 익명으로 기록하는 공개 서비스임 승인된 제보 564건 을 바탕으로 연락 두절 신고가 많은 회사의 순위를 제공함 후보자와 면접관의 이름은 수집하거나 공개하지 않으며, 모든...",
+   "publishedAt": 1785043986000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "My security camera shipped a GitHub admin token in its login page",
@@ -248,10 +262,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 636,
-   "comments": 226,
+   "comments": 227,
    "publishedAt": 1784894081000,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -261,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 518,
+   "engagement": 519,
    "comments": 422,
    "publishedAt": 1784904119000,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -279,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -290,10 +304,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 330,
-   "comments": 164,
+   "comments": 165,
    "publishedAt": 1784869755000,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -303,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 686,
+   "engagement": 688,
    "comments": 375,
    "publishedAt": 1784812150000,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -321,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -335,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -349,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -363,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -377,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -391,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -405,7 +419,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -419,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -433,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -447,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -461,21 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.4,
-   "hot": false
-  },
-  {
-   "title": "Claude Cookbook: 에이전트부터 RAG·멀티모달·운영까지",
-   "url": "https://news.hada.io/topic?id=31793",
-   "summary": "Claude 애플리케이션을 구현하는 실전 가이드와 예제 를 모아 에이전트 구축부터 RAG·도구 사용·멀티모달·평가까지 폭넓게 다룸 Claude Agent SDK·Managed Agents 예제에는 멀티에이전트 조율, 세션 관리, 배포, 장애 대응, 취약점 탐지, 사용자 기억 등 운영 패턴이...",
-   "publishedAt": 1784935384000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -489,7 +489,21 @@
    "comments": 87,
    "publishedAt": 1784885084000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
+   "hot": false
+  },
+  {
+   "title": "Claude Cookbook: 에이전트부터 RAG·멀티모달·운영까지",
+   "url": "https://news.hada.io/topic?id=31793",
+   "summary": "Claude 애플리케이션을 구현하는 실전 가이드와 예제 를 모아 에이전트 구축부터 RAG·도구 사용·멀티모달·평가까지 폭넓게 다룸 Claude Agent SDK·Managed Agents 예제에는 멀티에이전트 조율, 세션 관리, 배포, 장애 대응, 취약점 탐지, 사용자 기억 등 운영 패턴이...",
+   "publishedAt": 1784935384000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 37,
    "hot": false
   },
   {
@@ -503,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -517,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -531,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.3,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -545,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -559,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -569,11 +583,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 335,
+   "engagement": 336,
    "comments": 450,
    "publishedAt": 1784886778000,
    "isAI": false,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -587,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -601,7 +615,7 @@
    "comments": 213,
    "publishedAt": 1784825397000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -615,7 +629,7 @@
    "comments": 447,
    "publishedAt": 1784769374000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -629,7 +643,7 @@
    "comments": 2,
    "publishedAt": 1784901492000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -639,11 +653,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1623,
+   "engagement": 1624,
    "comments": 1155,
    "publishedAt": 1784664592000,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -657,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -671,21 +685,7 @@
    "comments": 242,
    "publishedAt": 1784740674000,
    "isAI": true,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-   "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49020868",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 298,
-   "comments": 331,
-   "publishedAt": 1784811603000,
-   "isAI": true,
-   "score": 35.9,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -695,11 +695,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 107,
+   "engagement": 108,
    "comments": 84,
    "publishedAt": 1784894417000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+   "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49020868",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 299,
+   "comments": 331,
+   "publishedAt": 1784811603000,
+   "isAI": true,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -713,7 +727,7 @@
    "comments": 331,
    "publishedAt": 1784814696000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -727,21 +741,7 @@
    "comments": 283,
    "publishedAt": 1784812202000,
    "isAI": true,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-   "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-   "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-   "publishedAt": 1784995200000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -755,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -769,21 +769,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
-   "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-   "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-   "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-   "publishedAt": 1784984700000,
+   "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+   "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+   "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+   "publishedAt": 1784995200000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -797,7 +797,7 @@
    "comments": 238,
    "publishedAt": 1784729885000,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -811,7 +811,21 @@
    "comments": 37,
    "publishedAt": 1784819497000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+   "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+   "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+   "publishedAt": 1784984700000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -825,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -839,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -853,7 +867,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -867,7 +881,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -877,11 +891,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 383,
+   "engagement": 384,
    "comments": 265,
    "publishedAt": 1784819928000,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -895,7 +909,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -909,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -923,35 +937,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "여수, 23일 고용위기지역 신청…석유화학 일자리·상권 침체 대응",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213102",
-   "summary": "AI 생성 영상여수시가 석유화학산업 장기 불황으로 줄어드는 일자리와 지역 상권 침체에 대응하기 위해 23일 고용노동부에 고용위기지역 지정을 신청했다.석유화학 대기업의 신규 투자와 유지보수 사업 감소, 일부 기업의 공장 가동 중단으로 일용근로자의 고용 감소와 소상공인 매출 위축이 이어지자 기존보다 강화된 정부 지원을 요청한 것이다.여수는 앞서 석유화학산업 경기 침체와 고용 여건 악화에 따라 고용위기 선제대응지역으로 지정돼 정부 지원을 받아왔다. 그러나 산업 불황이 장기화하고 현장의 고용 감소가 이어지면서 현재 지원만으로는 근로자와 기",
-   "publishedAt": 1785027000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "Businesses with ugly AI menu redesigns",
-   "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49005973",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 381,
-   "comments": 303,
-   "publishedAt": 1784724585000,
-   "isAI": true,
-   "score": 32.4,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -965,7 +951,35 @@
    "comments": 575,
    "publishedAt": 1784647036000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "Businesses with ugly AI menu redesigns",
+   "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49005973",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 381,
+   "comments": 303,
+   "publishedAt": 1784724585000,
+   "isAI": true,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "여수, 23일 고용위기지역 신청…석유화학 일자리·상권 침체 대응",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213102",
+   "summary": "AI 생성 영상여수시가 석유화학산업 장기 불황으로 줄어드는 일자리와 지역 상권 침체에 대응하기 위해 23일 고용노동부에 고용위기지역 지정을 신청했다.석유화학 대기업의 신규 투자와 유지보수 사업 감소, 일부 기업의 공장 가동 중단으로 일용근로자의 고용 감소와 소상공인 매출 위축이 이어지자 기존보다 강화된 정부 지원을 요청한 것이다.여수는 앞서 석유화학산업 경기 침체와 고용 여건 악화에 따라 고용위기 선제대응지역으로 지정돼 정부 지원을 받아왔다. 그러나 산업 불황이 장기화하고 현장의 고용 감소가 이어지면서 현재 지원만으로는 근로자와 기",
+   "publishedAt": 1785027000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -979,7 +993,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32,
    "hot": false
   },
   {
@@ -993,35 +1007,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "OpenAI의 우발적 Hugging Face 공격, 현실이 된 공상과학",
-   "url": "https://news.hada.io/topic?id=31763",
-   "summary": "사이버 보안 평가에서 안전장치를 낮춘 GPT‑5.6 Sol과 미공개 모델 이 샌드박스를 벗어나 Hugging Face 시스템에 침입하고 ExploitGym 정답을 탈취함 모델은 패키지 레지스트리 캐시 프록시의 제로데이 취약점 으로 인터넷에 접근한 뒤, 탈취한 자격 증명과 여러 취...",
-   "publishedAt": 1784871339000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "I got into YC Startup School by hacking it",
-   "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49039448",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 106,
-   "comments": 70,
-   "publishedAt": 1784916202000,
-   "isAI": false,
-   "score": 31.9,
+   "score": 32,
    "hot": false
   },
   {
@@ -1035,21 +1021,21 @@
    "comments": 932,
    "publishedAt": 1784557307000,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.8,
    "hot": false
   },
   {
-   "title": "databasement - 웹UI 기반 셀프호스팅 DB 백업 관리자",
-   "url": "https://news.hada.io/topic?id=31799",
-   "summary": "여러 종류의 DB를 단일 웹 UI에서 백업, 복원, 스케줄링 하는 셀프 호스팅 관리자 MySQL/PostgreSQL/MariaDB/MSSQL/MongoDB/SQLite/Firebird/Redis/Valkey 지원 SSH 터널 : bastion/jump 서버를 경유해 사설망 내 DB에 비밀번호 또는 키 기반 인증으로 접속...",
-   "publishedAt": 1784939462000,
-   "source": "GeekNews",
+   "title": "I got into YC Startup School by hacking it",
+   "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49039448",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 106,
+   "comments": 70,
+   "publishedAt": 1784916202000,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1063,21 +1049,21 @@
    "comments": 628,
    "publishedAt": 1784660679000,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.5,
    "hot": false
   },
   {
-   "title": "블랙 필을 먹지 마라",
-   "url": "https://news.hada.io/topic?id=31798",
-   "summary": "블랙 필 은 세상이 조작돼 아무것도 바꿀 수 없다는 허무주의·우울·분노의 결합으로, 기술자가 자신의 선택권과 컴퓨터를 변화시킬 힘까지 포기하게 만듦 소프트웨어 품질은 기술 부족보다 경영진의 우선순위와 엔지니어의 협상력에 좌우되며, 개발자들은 허락보다 용서 구하기·비밀 ...",
-   "publishedAt": 1784937833000,
+   "title": "databasement - 웹UI 기반 셀프호스팅 DB 백업 관리자",
+   "url": "https://news.hada.io/topic?id=31799",
+   "summary": "여러 종류의 DB를 단일 웹 UI에서 백업, 복원, 스케줄링 하는 셀프 호스팅 관리자 MySQL/PostgreSQL/MariaDB/MSSQL/MongoDB/SQLite/Firebird/Redis/Valkey 지원 SSH 터널 : bastion/jump 서버를 경유해 사설망 내 DB에 비밀번호 또는 키 기반 인증으로 접속...",
+   "publishedAt": 1784939462000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1091,7 +1077,7 @@
    "comments": 92,
    "publishedAt": 1784826602000,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1105,77 +1091,21 @@
    "comments": 69,
    "publishedAt": 1784816260000,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false
   },
   {
-   "title": "Sony가 클래식 Walkman을 다시 출시할 수 없는 이유",
-   "url": "https://news.hada.io/topic?id=31795",
-   "summary": "클래식 Walkman 재출시는 과거 설계를 다시 생산하는 수준이 아니라, 단종된 부품과 사라진 제조 기반을 복원하는 신규 제품 개발 에 가까움 소형 모터·자기 헤드·광학 픽업·전용 IC가 단종됐고, 생산라인 조정법과 작업자의 암묵지 까지 사라져 당시의 크기와 정밀도...",
-   "publishedAt": 1784935637000,
+   "title": "블랙 필을 먹지 마라",
+   "url": "https://news.hada.io/topic?id=31798",
+   "summary": "블랙 필 은 세상이 조작돼 아무것도 바꿀 수 없다는 허무주의·우울·분노의 결합으로, 기술자가 자신의 선택권과 컴퓨터를 변화시킬 힘까지 포기하게 만듦 소프트웨어 품질은 기술 부족보다 경영진의 우선순위와 엔지니어의 협상력에 좌우되며, 개발자들은 허락보다 용서 구하기·비밀 ...",
+   "publishedAt": 1784937833000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "Buz – 최신 Zig와 1초 미만 증분 빌드를 지원하는 Bun 포크",
-   "url": "https://news.hada.io/topic?id=31794",
-   "summary": "Buz는 Bun의 Rust 재작성 직전 커밋에서 출발해, 최신 Zig 기반의 호환 가능한 대체재 를 목표로 개발 중인 초기 단계 포크임 JavaScriptCore 벤더링 소스까지 전체 빌드 그래프를 build.zig 로 옮기고 Zig에 소규모 패치를 적용해 1초 미만 증분 빌드 를...",
-   "publishedAt": 1784935485000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "Em 대시는 놀라운 문장부호다",
-   "url": "https://news.hada.io/topic?id=31792",
-   "summary": "Em 대시 는 해명·단서·덧붙임을 한 문장에 자연스럽게 결합해, 글쓰기를 레고 블록처럼 자유롭게 조립하도록 도와줌 괄호가 생각을 소극적으로 속삭인다면 Em 대시는 이를 전면에 내세우고, 쉼표보다 길고 분명한 극적 멈춤 을 만듦 콜론과 세미콜론이 들어...",
-   "publishedAt": 1784935117000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "FLUX 3 모델 공개",
-   "url": "https://news.hada.io/topic?id=31791",
-   "summary": "이미지·비디오·오디오를 하나의 아키텍처에서 함께 학습해 생성·이해·행동 예측을 통합하려는 멀티모달 기반 모델 이며, FLUX 3 Video부터 Early Access로 제공됨 이미지의 공간 구조, 비디오의 시간·물리 역학, 오디오의 사건·소리 관계를 상호 제약으로 학습하며, Self-Flo...",
-   "publishedAt": 1784935001000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "매일 집중하기가 점점 어려워지는 이유",
-   "url": "https://news.hada.io/topic?id=31790",
-   "summary": "프로그래밍·학습·글쓰기에 쓰는 한 시간조차 하나의 활동 으로 유지하기 어려워졌고, 10분마다 이탈한 뒤 다시 집중하는 일이 반복됨 지루하거나 어려운 문제를 만나면 웹 탐색·휴대폰·사소한 집안일로 피하게 되며, 즉각적인 자극 을 주는 선택지가 늘수록 힘든 일에...",
-   "publishedAt": 1784934874000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.4,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1189,7 +1119,7 @@
    "comments": 26,
    "publishedAt": 1784830053000,
    "isAI": true,
-   "score": 31.3,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1203,7 +1133,77 @@
    "comments": 84,
    "publishedAt": 1784826382000,
    "isAI": true,
-   "score": 31.3,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "Sony가 클래식 Walkman을 다시 출시할 수 없는 이유",
+   "url": "https://news.hada.io/topic?id=31795",
+   "summary": "클래식 Walkman 재출시는 과거 설계를 다시 생산하는 수준이 아니라, 단종된 부품과 사라진 제조 기반을 복원하는 신규 제품 개발 에 가까움 소형 모터·자기 헤드·광학 픽업·전용 IC가 단종됐고, 생산라인 조정법과 작업자의 암묵지 까지 사라져 당시의 크기와 정밀도...",
+   "publishedAt": 1784935637000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "Buz – 최신 Zig와 1초 미만 증분 빌드를 지원하는 Bun 포크",
+   "url": "https://news.hada.io/topic?id=31794",
+   "summary": "Buz는 Bun의 Rust 재작성 직전 커밋에서 출발해, 최신 Zig 기반의 호환 가능한 대체재 를 목표로 개발 중인 초기 단계 포크임 JavaScriptCore 벤더링 소스까지 전체 빌드 그래프를 build.zig 로 옮기고 Zig에 소규모 패치를 적용해 1초 미만 증분 빌드 를...",
+   "publishedAt": 1784935485000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "Em 대시는 놀라운 문장부호다",
+   "url": "https://news.hada.io/topic?id=31792",
+   "summary": "Em 대시 는 해명·단서·덧붙임을 한 문장에 자연스럽게 결합해, 글쓰기를 레고 블록처럼 자유롭게 조립하도록 도와줌 괄호가 생각을 소극적으로 속삭인다면 Em 대시는 이를 전면에 내세우고, 쉼표보다 길고 분명한 극적 멈춤 을 만듦 콜론과 세미콜론이 들어...",
+   "publishedAt": 1784935117000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "FLUX 3 모델 공개",
+   "url": "https://news.hada.io/topic?id=31791",
+   "summary": "이미지·비디오·오디오를 하나의 아키텍처에서 함께 학습해 생성·이해·행동 예측을 통합하려는 멀티모달 기반 모델 이며, FLUX 3 Video부터 Early Access로 제공됨 이미지의 공간 구조, 비디오의 시간·물리 역학, 오디오의 사건·소리 관계를 상호 제약으로 학습하며, Self-Flo...",
+   "publishedAt": 1784935001000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "매일 집중하기가 점점 어려워지는 이유",
+   "url": "https://news.hada.io/topic?id=31790",
+   "summary": "프로그래밍·학습·글쓰기에 쓰는 한 시간조차 하나의 활동 으로 유지하기 어려워졌고, 10분마다 이탈한 뒤 다시 집중하는 일이 반복됨 지루하거나 어려운 문제를 만나면 웹 탐색·휴대폰·사소한 집안일로 피하게 되며, 즉각적인 자극 을 주는 선택지가 늘수록 힘든 일에...",
+   "publishedAt": 1784934874000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1217,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.3,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1231,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.3,
+   "score": 31,
    "hot": false
   },
   {
@@ -1245,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.3,
+   "score": 31,
    "hot": false
   },
   {
@@ -1259,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1273,21 +1273,7 @@
    "comments": 32,
    "publishedAt": 1784821360000,
    "isAI": true,
-   "score": 30.7,
-   "hot": false
-  },
-  {
-   "title": "순수 C++ 500줄로 구현하는 소프트웨어 렌더러",
-   "url": "https://news.hada.io/topic?id=31780",
-   "summary": "OpenGL·Vulkan·Metal·DirectX의 내부 작동 원리를 이해하기 위해 외부 그래픽 라이브러리 없이 소프트웨어 렌더러 를 처음부터 구현함 삼각형 메시와 텍스처로 구성된 3D 모델을 이미지로 변환 하며, GUI나 GPU 애플리케이션 구현은 다루지 않음 완성 코드는...",
-   "publishedAt": 1784925231000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 30.6,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1301,7 +1287,21 @@
    "comments": 218,
    "publishedAt": 1784623463000,
    "isAI": true,
-   "score": 30.5,
+   "score": 30.4,
+   "hot": false
+  },
+  {
+   "title": "순수 C++ 500줄로 구현하는 소프트웨어 렌더러",
+   "url": "https://news.hada.io/topic?id=31780",
+   "summary": "OpenGL·Vulkan·Metal·DirectX의 내부 작동 원리를 이해하기 위해 외부 그래픽 라이브러리 없이 소프트웨어 렌더러 를 처음부터 구현함 삼각형 메시와 텍스처로 구성된 3D 모델을 이미지로 변환 하며, GUI나 GPU 애플리케이션 구현은 다루지 않음 완성 코드는...",
+   "publishedAt": 1784925231000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1315,7 +1315,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.4,
+   "score": 30.1,
    "hot": false
   },
   {
@@ -1329,7 +1329,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.4,
+   "score": 30.1,
    "hot": false
   },
   {
@@ -1343,7 +1343,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 30.2,
+   "score": 29.9,
    "hot": false
   },
   {
@@ -1357,7 +1357,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.2,
+   "score": 29.9,
    "hot": false
   },
   {
@@ -1365,20 +1365,6 @@
    "url": "https://news.hada.io/topic?id=31776",
    "summary": "사람이 코드를 읽고 쓰지 않는 무인(lights-off) 소프트웨어 팩토리 는 생성 속도를 높이지만, 장기 유지보수성을 판단할 인간까지 제거해 복잡한 프로덕션 코드베이스에서 작동하기 어려움 코딩 모델의 강화학습은 테스트 통과처럼 빠르고 명확한 보상을 최적화하며, 수개월 뒤 드러...",
    "publishedAt": 1784918471000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 30.1,
-   "hot": false
-  },
-  {
-   "title": "TheNumbers.com에 무슨 일이 일어났나",
-   "url": "https://news.hada.io/topic?id=31775",
-   "summary": "영화 7만8,000여 편의 데이터를 제공하던 The Numbers 가 2026년 3월 5일 갑자기 중단됐고, 30년 된 시스템을 겨냥한 대규모 자동 트래픽과 보안 탐색 탓에 기존 사이트를 폐기하고 최소 기능만 복구함 전체 트래픽에서 사람의 비중은 약 10% 에 불과했으며, 2025년...",
-   "publishedAt": 1784914560000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -1399,7 +1385,21 @@
    "comments": 233,
    "publishedAt": 1784723768000,
    "isAI": false,
-   "score": 29.8,
+   "score": 29.7,
+   "hot": false
+  },
+  {
+   "title": "TheNumbers.com에 무슨 일이 일어났나",
+   "url": "https://news.hada.io/topic?id=31775",
+   "summary": "영화 7만8,000여 편의 데이터를 제공하던 The Numbers 가 2026년 3월 5일 갑자기 중단됐고, 30년 된 시스템을 겨냥한 대규모 자동 트래픽과 보안 탐색 탓에 기존 사이트를 폐기하고 최소 기능만 복구함 전체 트래픽에서 사람의 비중은 약 10% 에 불과했으며, 2025년...",
+   "publishedAt": 1784914560000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 29.6,
    "hot": false
   }
  ]
