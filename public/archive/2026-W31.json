@@ -1,5 +1,5 @@
 {
- "updatedAt": 1785139668359,
+ "updatedAt": 1785143371189,
  "week": "2026-W31",
  "items": [
   {
@@ -9,12 +9,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 121,
-   "comments": 34,
+   "engagement": 231,
+   "comments": 83,
    "publishedAt": 1785133090000,
    "isAI": true,
-   "score": 52.8,
-   "hot": false
+   "score": 58.2,
+   "hot": true
+  },
+  {
+   "title": "에이전트를 22개까지 늘렸다가 17개로 줄인 이야기",
+   "url": "https://news.hada.io/topic?id=31873",
+   "summary": "Claude Code로 프로젝트를 여러 개 굴리다 보니 서브에이전트가 계속 늘었습니다. 필요할 때마다 하나씩 만들었더니 22개가 됐습니다. 지난달에 17개로 줄였습니다. 그런데 접을 때 왜 접는지를 안 적어놨습니다. 3개월 뒤에 아카이브 폴더를 열어보니 왜 접었는지 알 수가 없었습니다....",
+   "publishedAt": 1785142061000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.8,
+   "hot": true
+  },
+  {
+   "title": "Show GN: [직접 공부하면서 만들었습니다.] 사주 판정은 코드로, 풀이는 LLM으로 하는 사주 서비스, 방울당",
+   "url": "https://news.hada.io/topic?id=31869",
+   "summary": "안녕하세요, 사주 리포트 서비스 \"방울당\"을 만들고 있습니다. 로그인 따로 필요없이 비회원도 바로 볼 수 있습니다. 왜 만들었나? 사주는 LLM에게 통째로 맡기면 최악의 도메인입니다. 그럴듯한 서술은 잘 만드는데, 만세력 계산, 오행, 용신 판정처럼 \"정답이 있는 부분&quot",
+   "publishedAt": 1785140321000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
+   "hot": true
   },
   {
    "title": "Show GN: 브라우저 작업을 사용자 설명서로 자동 변환하는 AI 매뉴얼 생성기",
@@ -27,7 +55,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.6,
+   "score": 49,
    "hot": true
   },
   {
@@ -37,11 +65,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 196,
-   "comments": 62,
+   "engagement": 198,
+   "comments": 64,
    "publishedAt": 1785071583000,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.8,
+   "hot": true
+  },
+  {
+   "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+   "url": "https://beyondloom.com/decker/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49060856",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 306,
+   "comments": 74,
+   "publishedAt": 1785090186000,
+   "isAI": false,
+   "score": 47,
+   "hot": true
+  },
+  {
+   "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+   "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49057241",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 441,
+   "comments": 146,
+   "publishedAt": 1785067211000,
+   "isAI": false,
+   "score": 47,
    "hot": true
   },
   {
@@ -55,35 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
-   "hot": true
-  },
-  {
-   "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-   "url": "https://beyondloom.com/decker/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49060856",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 297,
-   "comments": 72,
-   "publishedAt": 1785090186000,
-   "isAI": false,
-   "score": 47.2,
-   "hot": true
-  },
-  {
-   "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-   "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49057241",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 430,
-   "comments": 144,
-   "publishedAt": 1785067211000,
-   "isAI": false,
-   "score": 47.2,
+   "score": 47,
    "hot": true
   },
   {
@@ -93,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 446,
-   "comments": 371,
+   "engagement": 447,
+   "comments": 374,
    "publishedAt": 1785012155000,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.7,
    "hot": false
   },
   {
@@ -111,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 46,
    "hot": true
   },
   {
@@ -125,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.4,
+   "score": 45.9,
    "hot": true
   },
   {
@@ -139,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.4,
+   "score": 45.9,
    "hot": true
   },
   {
@@ -153,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -167,8 +195,22 @@
    "comments": 1318,
    "publishedAt": 1784912261000,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.5,
    "hot": false
+  },
+  {
+   "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+   "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49057574",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 325,
+   "comments": 301,
+   "publishedAt": 1785069801000,
+   "isAI": false,
+   "score": 44.9,
+   "hot": true
   },
   {
    "title": "Show GN: telepty — 여러 머신에 흩어진 AI 에이전트 세션 컨트롤 플레인",
@@ -181,21 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
-   "hot": true
-  },
-  {
-   "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-   "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49057574",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 322,
-   "comments": 300,
-   "publishedAt": 1785069801000,
-   "isAI": false,
-   "score": 45.3,
+   "score": 44.9,
    "hot": true
   },
   {
@@ -209,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -219,25 +247,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 259,
-   "comments": 338,
+   "engagement": 261,
+   "comments": 342,
    "publishedAt": 1785019870000,
    "isAI": true,
-   "score": 44.2,
-   "hot": false
-  },
-  {
-   "title": "Open-weight AI is having its Kubernetes moment",
-   "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49048034",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 401,
-   "comments": 317,
-   "publishedAt": 1784990989000,
-   "isAI": true,
-   "score": 44.2,
+   "score": 43.9,
    "hot": false
   },
   {
@@ -247,11 +261,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 246,
+   "engagement": 248,
    "comments": 196,
    "publishedAt": 1785022370000,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.8,
+   "hot": false
+  },
+  {
+   "title": "Open-weight AI is having its Kubernetes moment",
+   "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49048034",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 402,
+   "comments": 317,
+   "publishedAt": 1784990989000,
+   "isAI": true,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -265,7 +293,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.4,
+   "hot": false
+  },
+  {
+   "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+   "url": "https://github.com/vercel-labs/scriptc",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49063175",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 154,
+   "comments": 80,
+   "publishedAt": 1785105970000,
+   "isAI": false,
+   "score": 43.2,
+   "hot": true
+  },
+  {
+   "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+   "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49056620",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 123,
+   "comments": 49,
+   "publishedAt": 1785061955000,
+   "isAI": true,
+   "score": 43,
    "hot": false
   },
   {
@@ -279,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.5,
+   "score": 43,
    "hot": false
   },
   {
@@ -293,21 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
-   "hot": false
-  },
-  {
-   "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-   "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49056620",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 121,
-   "comments": 49,
-   "publishedAt": 1785061955000,
-   "isAI": true,
-   "score": 43.3,
+   "score": 43,
    "hot": false
   },
   {
@@ -318,24 +360,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 276,
-   "comments": 69,
+   "comments": 70,
    "publishedAt": 1785005990000,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.9,
    "hot": false
   },
   {
-   "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-   "url": "https://github.com/vercel-labs/scriptc",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49063175",
+   "title": "Cloudflare's new AI traffic options for customers",
+   "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49052564",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 141,
-   "comments": 70,
-   "publishedAt": 1785105970000,
-   "isAI": false,
-   "score": 42.9,
+   "engagement": 189,
+   "comments": 149,
+   "publishedAt": 1785019849000,
+   "isAI": true,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -349,21 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.2,
-   "hot": false
-  },
-  {
-   "title": "Cloudflare's new AI traffic options for customers",
-   "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49052564",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 189,
-   "comments": 147,
-   "publishedAt": 1785019849000,
-   "isAI": true,
-   "score": 42,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -373,11 +401,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 986,
-   "comments": 487,
+   "engagement": 988,
+   "comments": 489,
    "publishedAt": 1784962634000,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -391,8 +419,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.4,
    "hot": true
+  },
+  {
+   "title": "LLM Usage in Debian: Three Proposals",
+   "url": "https://www.debian.org/vote/2026/vote_002",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49050859",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 209,
+   "comments": 208,
+   "publishedAt": 1785008679000,
+   "isAI": true,
+   "score": 41.3,
+   "hot": false
   },
   {
    "title": "Solar Open 2 Technical Report를 초심자도 이해할 수 있는 인터랙티브 강의로 만들었습니다",
@@ -405,22 +447,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": true
-  },
-  {
-   "title": "LLM Usage in Debian: Three Proposals",
-   "url": "https://www.debian.org/vote/2026/vote_002",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49050859",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 208,
-   "comments": 208,
-   "publishedAt": 1785008679000,
-   "isAI": true,
-   "score": 41.6,
-   "hot": false
   },
   {
    "title": "프랑스 소방관들이 처음 마주한 ‘화재적운’",
@@ -433,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -447,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -461,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -475,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -490,7 +518,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -504,8 +532,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
+  },
+  {
+   "title": "What does GitHub's security team even do?",
+   "url": "https://orchidfiles.com/github-security-team/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49061769",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 106,
+   "comments": 29,
+   "publishedAt": 1785095465000,
+   "isAI": false,
+   "score": 38.9,
+   "hot": false
   },
   {
    "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
@@ -514,11 +556,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 127,
+   "engagement": 128,
    "comments": 26,
    "publishedAt": 1785081235000,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -532,21 +574,7 @@
    "comments": 295,
    "publishedAt": 1784910811000,
    "isAI": true,
-   "score": 39.2,
-   "hot": false
-  },
-  {
-   "title": "What does GitHub's security team even do?",
-   "url": "https://orchidfiles.com/github-security-team/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49061769",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 104,
-   "comments": 29,
-   "publishedAt": 1785095465000,
-   "isAI": false,
-   "score": 39.1,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -560,7 +588,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -575,7 +603,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -589,7 +617,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -603,7 +631,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -617,7 +645,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -631,7 +659,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -645,7 +673,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -659,7 +687,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -673,7 +701,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -687,7 +715,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -701,21 +729,7 @@
    "comments": 886,
    "publishedAt": 1784819920000,
    "isAI": true,
-   "score": 37.2,
-   "hot": false
-  },
-  {
-   "title": "Are brain waves the next unlock for physical AI?",
-   "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-   "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-   "publishedAt": 1785111554000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.8,
+   "score": 37,
    "hot": false
   },
   {
@@ -729,9 +743,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false,
    "lastWeekRank": 3
+  },
+  {
+   "title": "Are brain waves the next unlock for physical AI?",
+   "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+   "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+   "publishedAt": 1785111554000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.4,
+   "hot": false
   },
   {
    "title": "현대 하드웨어 시대에 마이크로커널을 다시 검토해야 할지도 모름",
@@ -744,7 +772,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -758,7 +786,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false,
    "lastWeekRank": 4
   },
@@ -773,7 +801,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "ARC-AGI Leaderboard",
+   "url": "https://arcprize.org/leaderboard",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49045040",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 170,
+   "comments": 144,
+   "publishedAt": 1784961100000,
+   "isAI": true,
+   "score": 36,
    "hot": false
   },
   {
@@ -787,23 +829,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.4,
+   "score": 36,
    "hot": false,
    "lastWeekRank": 5
-  },
-  {
-   "title": "ARC-AGI Leaderboard",
-   "url": "https://arcprize.org/leaderboard",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49045040",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 170,
-   "comments": 144,
-   "publishedAt": 1784961100000,
-   "isAI": true,
-   "score": 36.2,
-   "hot": false
   },
   {
    "title": "If coding has been solved, why does software keep getting worse?",
@@ -812,11 +840,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 874,
-   "comments": 672,
+   "engagement": 875,
+   "comments": 677,
    "publishedAt": 1784884097000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -830,7 +858,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -844,21 +872,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "Flock 감시 카메라를 무력화하는 자경단 운동의 확산",
-   "url": "https://news.hada.io/topic?id=31830",
-   "summary": "미국 전역의 사생활 보호 활동가들이 Flock Safety의 자동 번호판 인식기(ALPR) 를 대량 감시 장치로 규정하고 가리거나 파손하고 있으며, 확인된 사례만 23개 주에서 최소 33건에 달함 기업가치 84억 달러인 Flock은 거의 모든 주의 약 6,000개 지역에서 매달 수십억 회 번호판을 스...",
-   "publishedAt": 1785076551000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -872,7 +886,21 @@
    "comments": 315,
    "publishedAt": 1784899950000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "Flock 감시 카메라를 무력화하는 자경단 운동의 확산",
+   "url": "https://news.hada.io/topic?id=31830",
+   "summary": "미국 전역의 사생활 보호 활동가들이 Flock Safety의 자동 번호판 인식기(ALPR) 를 대량 감시 장치로 규정하고 가리거나 파손하고 있으며, 확인된 사례만 23개 주에서 최소 33건에 달함 기업가치 84억 달러인 Flock은 거의 모든 주의 약 6,000개 지역에서 매달 수십억 회 번호판을 스...",
+   "publishedAt": 1785076551000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -883,10 +911,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 691,
-   "comments": 377,
+   "comments": 378,
    "publishedAt": 1784812150000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -900,36 +928,7 @@
    "comments": 231,
    "publishedAt": 1784894081000,
    "isAI": false,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "Claude Opus 5, Artificial Analysis 지능 리더보드 1위",
-   "url": "https://news.hada.io/topic?id=31807",
-   "summary": "평가된 170개 모델 중 Claude Opus 5 Adaptive Reasoning·Max Effort 가 Intelligence Index 61점으로 1위를 차지했으며, Xhigh Effort와 Claude Fable 5가 각각 60점으로 뒤를 이음 Intelligence Index v4.1 은 에이전트 작업·코딩·과학 추론·지식 신뢰성·장문맥 추...",
-   "publishedAt": 1784997290000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
    "score": 34.3,
-   "hot": false,
-   "lastWeekRank": 7
-  },
-  {
-   "title": "Tile's security is so bad it's a feature for stalkers",
-   "url": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49050152",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 170,
-   "comments": 46,
-   "publishedAt": 1785003522000,
-   "isAI": false,
-   "score": 34.2,
    "hot": false
   },
   {
@@ -943,7 +942,21 @@
    "comments": 167,
    "publishedAt": 1784869755000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "Tile's security is so bad it's a feature for stalkers",
+   "url": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49050152",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 170,
+   "comments": 46,
+   "publishedAt": 1785003522000,
+   "isAI": false,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -953,11 +966,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 536,
+   "engagement": 537,
    "comments": 435,
    "publishedAt": 1784904119000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "\"AI의 문제는 창의성이 아닌 '독창성'을 없앤다는 것\"...혁신 이론가의 경고",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213213",
+   "summary": "AI 기술이 수준 높은 문장 작성과 아이디어 제시 능력을 갖추게 됐지만, 정작 세상을 바꾼 인류 특유의 '독창적 사고'를 사라지게 만들 수 있다는 경고가 나왔다. AI가 내놓는 평균적인 답에 의존할수록 세상을 바꾸는 기발한 아이디어는 설 자리를 잃는다는 지적이다.글로벌 혁신 이론가이자 싱크탱크 노스타랩(NostaLab)의 창립자인 존 노스타는 24일(현지시간) 비즈니스 인사이더와의 인터뷰를 통해 AI 기술이 인류의 혁신을 이끌어온 드물고 독창적인 사고방식을 점차 밀어내고 있다고 진단했다.노스타는 구글 헬스 자문위원과 세계보건기구(W",
+   "publishedAt": 1785141000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -971,7 +998,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -985,9 +1012,93 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.7,
    "hot": false,
    "lastWeekRank": 6
+  },
+  {
+   "title": "애플, AI 안경 최우선 과제는 '프라이버시'… 카메라 제약 방식도 검토",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213208",
+   "summary": "애플이 내년 6월 세계개발자회의(WWDC)에서 첫 AI 스마트 안경을 공개할 예정인 가운데, 제품 개발의 최우선 과제로 개인정보 보호 기능과 보안 정책 고도화를 추진하고 있는 것으로 알려졌다. 온디바이스 AI를 중심으로 한 데이터 처리 방식과 안면 인식 기능 배제, AI 학습을 위한 사용자 데이터 활용 금지 등을 통해 메타가 선점한 스마트 안경 시장과 차별화를 꾀한다는 전략이다.26일(현지시간) 블룸버그에 따르면, 애플은 코드명 'N50'으로 개발 중인 AI 스마트 안경을 내년 6월 WWDC에서 공개한 뒤 2027년 말 출시하는 일",
+   "publishedAt": 1785140718000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "'총체적 도서관'의 경고… AI가 삼켜버린 불법 'Z-라이브러리' 데이터",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213210",
+   "summary": "세상에 존재하는 모든 책을 수집하려는 오래된 열망이 AI 시대를 맞아 새로운 국면을 맞이하고 있다는 분석이다. 과거 불법 복제 도서 공유의 대명사로 불리며 미국 사법 당국의 집중 표적이 됐던 ‘Z-라이브러리(Z-Library)’ 등 섀도우 라이브러리(Shadow Library)들이 이제는 글로벌 빅테크 기업들의 대형언어모델(LLM) 학습을 위한 핵심 데이터 공급처로 떠오르고 있다는 지적이다.파이낸셜타임스(FT)는 24일(현지시간) 아르헨티나 작가 호르헤 루이스 보르헤스가 상상했던 ‘바벨의 도서관(Total Library)’의 개념은",
+   "publishedAt": 1785140700000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "머스크 \"그록 4.6은 2주, 4.7은 4주 내 출시\"...2조 매개변수로 본격 경쟁 예고",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213211",
+   "summary": "일론 머스크 CEO가 스페이스XAI의 차세대 대형언어모델(LLM) '그록(Grok) 4.6'과 '그록 4.7'의 출시 일정을 공개했다. 2주 안에 그록 4.6을, 4주 안에 그록 4.7을 선보이겠다고 밝히며 글로벌 프론티어 AI 모델 경쟁에 속도를 내고 있다.머스크 CEO는 24일(현지시간) X를 통해 \"그록 4.6은 2주 내, 그록 4.7은 4주 내 출시될 예정\"이라고 밝혔다.이번에 언급된 모델은 현재 플래그십인 그록 4.5의 후속 모델로, 특히 매개변수가 기존 1조5000억(1.5T) 개에서 2조(2T) 개로 확대된 것이 가장",
+   "publishedAt": 1785140183000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "국내 2인 스튜디오 운무, AI 단편영화로 유럽 전통 영화제 본선 진출",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213224",
+   "summary": "스튜디오 운무(UNMU)는 AI 단편 영화 ‘LAST CALL(폐장 시간)’이 ‘포르투갈 아반카 국제영화제 2026’ 경쟁부문(AI Films)에 공식 선정됐다고 27일 밝혔다.아반카 국제영화제는 1997년 시작해 올해 30회를 맞은 유서 깊은 유럽 영상 축제다. 대형 영화제 중에서는 선구적으로 AI 경쟁 부문을 도입했다.국산 AI 영화가 정식 작품으로서 전통 영화제 스크린에 진출한 것은 이례적이라는 설명이다. ‘LAST CALL’은 영국 AI 런던 영화제 파이널리스트에도 진출한 상태다.이번 영화를 제작한 운무는 대전에서 활동하는",
+   "publishedAt": 1785140100000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "사카나 AI, 보안 특화 멀티 에이전트 '푸구 사이버' 공개...\"GPT-5.5·클로드 필적\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213209",
+   "summary": "사이버 보안 분야에서도 여러 AI 모델을 협업시키는 '오케스트레이션' 방식이 차세대 기술로 주목받고 있다. 일본의 사카나 AI는 전문 에이전트들이 역할을 분담해 취약점 분석과 위협 탐지 업무를 수행하는 새로운 보안 특화 AI를 공개하며, 'GPT-5.5-사이버'와 '클로드 미소스 프리뷰'에 필적하는 성능을 구현했다고 밝혔다. 사카나 AI가 21일(현지시간) 기업용 사이버 보안 업무를 위해 설계된 새로운 AI 모델 '푸구 사이버(Fugu-Cyber)'를 공개했다.단일 대형언어모델(LLM)이 아닌 여러 전문 AI 에이전트를 유기적으로",
+   "publishedAt": 1785139388000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "[게시판] 뉴엔AI, 중기부 ‘글로벌 K-뷰티 AI 개발’ 주관 선정 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213226",
+   "summary": "■ 뉴엔AI(대표 배성환)는 중소벤처기업부가 주관하고 중소기업기술정보진흥원(TIPA)이 추진하는 ‘2026년 중소기업기술혁신개발사업(도메인 특화 AI 모델 개발)’의 주관연구개발기관으로 최종 선정됐다고 밝혔다. 선정된 사업명은 ‘글로벌 뷰티 시장 분석 기반 K-뷰티 수출 마케팅 전략 수립 멀티 에이전틱 AI 플랫폼 개발’로, 뉴엔AI는 앞으로 2년간 정부지원금 25억원과 연구개발기관 부담금(현금 및 현물) 10억원을 포함해 총 35억원 규모의 연구개발비를 바탕으로 기술 개발과 실증에 착수한다.■ 공간AI 전문 메이사(대표 최석원,",
+   "publishedAt": 1785139200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
   },
   {
    "title": "업스테이지 '솔라 오픈 2', 허깅페이스 트렌드 3위·'주목할 모델' 등재",
@@ -1000,7 +1111,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1014,7 +1125,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1028,35 +1139,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "AI 낙관론에 '지구 종말가' BGM... 메타 신규 광고의 모순",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213219",
-   "summary": "메타가 AI의 미래를 낙관적으로 그린 새로운 브랜드 광고를 공개했다. AI가 사람들을 연결하고 잠재력을 키워줄 것이라는 메시지를 담았지만, 배경음악으로 인류 멸종을 주제로 한 데이비드 보위의 노래를 사용하면서 역설적인 연출이라는 지적도 제기되고 있다.메타는 23일(현지시간) '미래는 모두를 위한 것(The future is for everyone)'을 주제로 한 새로운 AI 광고 캠페인을 공개했다.광고는 AI가 일자리를 빼앗고 사회를 고립시킬 것이라는 부정적인 뉴스 헤드라인을 흑백 화면으로 보여준 뒤, 곧 컬러 화면으로 전환되며 사",
-   "publishedAt": 1785134490000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "목포, 수산식품 수출단지 입주기업 모집",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213191",
-   "summary": "AI 생성 영상목포시가 대양산업단지 수산식품 수출단지의 임대형 가공공장 잔여 24개실에 입주할 수산식품 제조기업을 8월21일까지 모집한다.목포는 입주기업은 생산시설과 공동 연구장비를 활용하고 연구개발, 시험·인증, 물류, 판로 개척, 수출 마케팅 등을 연계 지원받을 수 있다고 27일 밝혔다.수산식품 수출단지는 수산식품 가공과 연구개발, 물류, 수출 지원 기능을 한곳에 모은 복합시설이다. 이번 2차 공개 모집은 기존 모집 이후 남은 임대형 가공공장 24개실을 대상으로 진행된다.입주 대상은 수산식품 제조 관련 기업이다. 선정된 기업은",
-   "publishedAt": 1785133976000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1070,7 +1153,35 @@
    "comments": 1156,
    "publishedAt": 1784664592000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "AI 낙관론에 '지구 종말가' BGM... 메타 신규 광고의 모순",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213219",
+   "summary": "메타가 AI의 미래를 낙관적으로 그린 새로운 브랜드 광고를 공개했다. AI가 사람들을 연결하고 잠재력을 키워줄 것이라는 메시지를 담았지만, 배경음악으로 인류 멸종을 주제로 한 데이비드 보위의 노래를 사용하면서 역설적인 연출이라는 지적도 제기되고 있다.메타는 23일(현지시간) '미래는 모두를 위한 것(The future is for everyone)'을 주제로 한 새로운 AI 광고 캠페인을 공개했다.광고는 AI가 일자리를 빼앗고 사회를 고립시킬 것이라는 부정적인 뉴스 헤드라인을 흑백 화면으로 보여준 뒤, 곧 컬러 화면으로 전환되며 사",
+   "publishedAt": 1785134490000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "목포, 수산식품 수출단지 입주기업 모집",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213191",
+   "summary": "AI 생성 영상목포시가 대양산업단지 수산식품 수출단지의 임대형 가공공장 잔여 24개실에 입주할 수산식품 제조기업을 8월21일까지 모집한다.목포는 입주기업은 생산시설과 공동 연구장비를 활용하고 연구개발, 시험·인증, 물류, 판로 개척, 수출 마케팅 등을 연계 지원받을 수 있다고 27일 밝혔다.수산식품 수출단지는 수산식품 가공과 연구개발, 물류, 수출 지원 기능을 한곳에 모은 복합시설이다. 이번 2차 공개 모집은 기존 모집 이후 남은 임대형 가공공장 24개실을 대상으로 진행된다.입주 대상은 수산식품 제조 관련 기업이다. 선정된 기업은",
+   "publishedAt": 1785133976000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1084,7 +1195,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1098,7 +1209,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1112,7 +1223,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1126,7 +1237,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1140,7 +1251,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1154,23 +1265,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.4,
    "hot": false
-  },
-  {
-   "title": "Chrome이 Gemini 팝업용 전역 단축키를 무단 등록",
-   "url": "https://news.hada.io/topic?id=31806",
-   "summary": "Chrome이 사용자 동의 없이 Mac의 Ctrl+G 전역 단축키 를 등록해 다른 앱에서도 Gemini 팝업이 열리도록 함 코딩 편집기의 줄 이동 단축키와 충돌하는 데다, 팝업에는 Chrome·Gemini 식별 정보 와 비활성화 기능이 명확히 드러나지 않음 단축키를 끄려면 Ch...",
-   "publishedAt": 1784973661000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false,
-   "lastWeekRank": 10
   },
   {
    "title": "메모리 안전성 절대주의자들",
@@ -1183,24 +1279,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false,
    "lastWeekRank": 8
-  },
-  {
-   "title": "면접 후 연락이 끊겼나요?",
-   "url": "https://news.hada.io/topic?id=31821",
-   "summary": "Did They Ghost You? 는 면접 뒤 명확한 거절이나 안내 없이 연락을 끊은 회사를 익명으로 기록하는 공개 서비스임 승인된 제보 564건 을 바탕으로 연락 두절 신고가 많은 회사의 순위를 제공함 후보자와 면접관의 이름은 수집하거나 공개하지 않으며, 모든...",
-   "publishedAt": 1785043986000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.2,
-   "hot": false,
-   "lastWeekRank": 9
   },
   {
    "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
@@ -1213,8 +1294,23 @@
    "comments": 448,
    "publishedAt": 1784769374000,
    "isAI": true,
-   "score": 32.1,
+   "score": 32,
    "hot": false
+  },
+  {
+   "title": "면접 후 연락이 끊겼나요?",
+   "url": "https://news.hada.io/topic?id=31821",
+   "summary": "Did They Ghost You? 는 면접 뒤 명확한 거절이나 안내 없이 연락을 끊은 회사를 익명으로 기록하는 공개 서비스임 승인된 제보 564건 을 바탕으로 연락 두절 신고가 많은 회사의 순위를 제공함 후보자와 면접관의 이름은 수집하거나 공개하지 않으며, 모든...",
+   "publishedAt": 1785043986000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.9,
+   "hot": false,
+   "lastWeekRank": 9
   },
   {
    "title": "오픈AI, 인도 저작권 침해 소송서 승소...“LLM 학습은 공정사용”",
@@ -1227,7 +1323,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1241,7 +1337,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1255,63 +1351,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "KAIST, ICML서 최우수논문상…‘세상 원리 이론화’하는 AI 선보여",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213205",
-   "summary": "한국과학기술원(KAIST, 총장 배충식)은 안성진 전산학부 교수 연구팀이 AI 관측 정보만으로 세계의 작동 원리를 스스로 이론화하도록 하는 새로운 학습 패러다임 ‘이론화 학습(L2T)’을 제안하고, 이를 구현한 신경망 이론 생성 모델 ‘네오(NEO)’를 개발했다고 27일 밝혔다.이번 연구는 지난 7월9일 서울에서 열린 ‘제43회 국제기계학습학회(ICML 2026)’에서 구두발표 논문으로 선정됐다. 전체 투고 논문 2만3918편 가운데 상위 0.7%(168편)에 해당하는 성과다. ‘구성적 학습 워크숍’에서도 최우수 논문상을 수상했다.",
-   "publishedAt": 1785119477000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "엔비디아, 오픈AI '10GW 데이터센터' 구축에 365조 금융 보증 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213196",
-   "summary": "엔비디아가 오픈AI의 초대형 AI 데이터센터 구축을 지원하기 위해 약 2500억달러(약 365조원) 규모의 금융 보증을 제공하는 방안을 추진하고 있다. 오픈AI가 미국 오하이오주에 들어설 10기가와트(GW) 규모의 AI 데이터센터를 임대할 수 있도록 신용을 보강하는 것이 핵심으로, 총사업비가 5000억달러(약 730 원)를 웃도는 사상 최대 규모의 AI 컴퓨팅 인프라 프로젝트가 될 전망이다.26일(현지시간) 월스트리트저널(WSJ)에 따르면, 엔비디아는 오픈AI와 소프트뱅크가 추진 중인 오하이오 데이터센터 프로젝트와 관련해 2500억",
-   "publishedAt": 1785119160000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "LG CNS, 엔비디아·메타 참여한 '글로벌 AI 신소재 개발 연합' 합류",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213199",
-   "summary": "LG CNS(대표 현신균)는 글로벌 AI 신소재 개발 협력체 'AI 머티리얼즈 파운드리'에 한국 IT 분야 대표 창립 멤버로 선정됐다고 27일 밝혔다.해당 협력체는 AI와 소재 과학을 결합해 신물질을 설계·탐색하는 플랫폼을 개발한 영국 AI 스타트업 '커스프AI'가 주도하는 글로벌 연합이다. 엔비디아, 메타, AMD 등 AI·화학·컴퓨팅 인프라 분야 기업 48곳이 참여 중이다.AI 머티리얼즈 파운드리는 신소재 설계부터 발굴, 검증, 상용화까지 전 과정을 아우르는 인프라를 제공한다. 이를 통해 신소재 개발 비용과 시간을 획기적으로 단",
-   "publishedAt": 1785118210000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "AXZ, ‘주식회사 다음’으로 새출발…”차세대 AI 포털에 집중”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213198",
-   "summary": "포털 ‘다음(Daum)’ 서비스를 운영하는 주식회사 에이엑스지(AXZ, 대표 이건수)가 ‘주식회사 다음’으로 사명을 변경한다고 27일 밝혔다.에이엑스지는 지난 20일 개최한 임시주주총회에서 ‘주식회사 다음’으로의 사명 변경을 의결했다. 회사와 대표 서비스의 브랜드를 일치시켜 기업 정체성을 명확히 하는 데 목표를 둔다. 다음은 이번 사명 변경을 계기로 기업 홈페이지와 공식 채널을 개편하고, 검색·콘텐츠·커뮤니티 분야에서 축적한 서비스 역량에 AI 기술을 결합한 차세대 포털 구축에 나선다. 기존 키워드 중심 검색에서 나아가 이용자의 질",
-   "publishedAt": 1785118175000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.9,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1325,92 +1365,49 @@
    "comments": 242,
    "publishedAt": 1784740674000,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.7,
    "hot": false
   },
   {
-   "title": "크로아티아, 1GW AI 데이터센터 송전망 구축안 승인…500MW 태양광 연계",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213195",
-   "summary": "미국 투자그룹 판테온 아틀라스(Pantheon Atlas)는 23일(현지시간) 크로아티아 송전계통 운영자 HOPS가 토푸스코에 추진 중인 1기가와트(GW)급 ‘판테온 AI’ 데이터센터의 송전망 구축안을 승인했다고 밝혔다.데이터센터 부지는 크로아티아 수도 자그레브에서 남쪽으로 약 90km 떨어진 토푸스코에 있으며, 초기 면적은 310에이커다. 향후 450에이커까지 확장할 수 있도록 설계됐다.HOPS가 승인한 송전 인프라 사업 규모는 5억유로(약 8361억원) 이상이다. 판테온 아틀라스는 약 280km의 신규 송전선과 광섬유 통신망,",
-   "publishedAt": 1785117000000,
+   "title": "KAIST, ICML서 최우수논문상…‘세상 원리 이론화’하는 AI 선보여",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213205",
+   "summary": "한국과학기술원(KAIST, 총장 배충식)은 안성진 전산학부 교수 연구팀이 AI 관측 정보만으로 세계의 작동 원리를 스스로 이론화하도록 하는 새로운 학습 패러다임 ‘이론화 학습(L2T)’을 제안하고, 이를 구현한 신경망 이론 생성 모델 ‘네오(NEO)’를 개발했다고 27일 밝혔다.이번 연구는 지난 7월9일 서울에서 열린 ‘제43회 국제기계학습학회(ICML 2026)’에서 구두발표 논문으로 선정됐다. 전체 투고 논문 2만3918편 가운데 상위 0.7%(168편)에 해당하는 성과다. ‘구성적 학습 워크숍’에서도 최우수 논문상을 수상했다.",
+   "publishedAt": 1785119477000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.7,
    "hot": false
   },
   {
-   "title": "The arguments against open source AI are bad",
-   "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49024643",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 310,
-   "comments": 214,
-   "publishedAt": 1784825397000,
-   "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "양현상 박사, 한국노벨과학포럼 과학전문위원 위촉",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213190",
-   "summary": "양현상 국방융합기술연구소장 겸 노바엑스 대표가 사단법인 한국노벨과학포럼 과학전문위원으로 위촉됐다.한국노벨과학포럼은 지난 25일 서울 강남 앙트레블에서 과학전문위원 위촉식을 열고 양 박사를 과학전문위원으로 위촉했다. 양 박사는 앞으로 AI와 우주항공, 방위산업 융합 분야의 정책 자문과 기술 전략 수립 활동에 참여할 예정이다.양 박사는 방위산업을 단순한 무기 생산 분야가 아니라 AI와 반도체, 센서, 통신, 소프트웨어, 정밀가공, 우주기술 등이 결합된 기술집약 산업으로 설명했다. 미래 전장이 데이터와 알고리즘 중심으로 변화하면서 방산기",
-   "publishedAt": 1785113100000,
+   "title": "엔비디아, 오픈AI '10GW 데이터센터' 구축에 365조 금융 보증 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213196",
+   "summary": "엔비디아가 오픈AI의 초대형 AI 데이터센터 구축을 지원하기 위해 약 2500억달러(약 365조원) 규모의 금융 보증을 제공하는 방안을 추진하고 있다. 오픈AI가 미국 오하이오주에 들어설 10기가와트(GW) 규모의 AI 데이터센터를 임대할 수 있도록 신용을 보강하는 것이 핵심으로, 총사업비가 5000억달러(약 730 원)를 웃도는 사상 최대 규모의 AI 컴퓨팅 인프라 프로젝트가 될 전망이다.26일(현지시간) 월스트리트저널(WSJ)에 따르면, 엔비디아는 오픈AI와 소프트뱅크가 추진 중인 오하이오 데이터센터 프로젝트와 관련해 2500억",
+   "publishedAt": 1785119160000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.7,
    "hot": false
   },
   {
-   "title": "하드 드라이브가 늘 가득 차는 이유",
-   "url": "https://news.hada.io/topic?id=31819",
-   "summary": "저장 용량을 여러 차례 늘려도 사용량이 함께 증가하며, 81명이 참여한 Mastodon 설문에서도 약 절반이 디스크를 75% 넘게 사용 하고 있었음 빈 상태보다 가득 찬 상태에 도달할 방법이 많다는 엔트로피 논리 로 일부 설명할 수 있지만, 사용자 행동까지 완전히 설명...",
-   "publishedAt": 1785027678000,
-   "source": "GeekNews",
-   "sourceType": "community",
+   "title": "LG CNS, 엔비디아·메타 참여한 '글로벌 AI 신소재 개발 연합' 합류",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213199",
+   "summary": "LG CNS(대표 현신균)는 글로벌 AI 신소재 개발 협력체 'AI 머티리얼즈 파운드리'에 한국 IT 분야 대표 창립 멤버로 선정됐다고 27일 밝혔다.해당 협력체는 AI와 소재 과학을 결합해 신물질을 설계·탐색하는 플랫폼을 개발한 영국 AI 스타트업 '커스프AI'가 주도하는 글로벌 연합이다. 엔비디아, 메타, AMD 등 AI·화학·컴퓨팅 인프라 분야 기업 48곳이 참여 중이다.AI 머티리얼즈 파운드리는 신소재 설계부터 발굴, 검증, 상용화까지 전 과정을 아우르는 인프라를 제공한다. 이를 통해 신소재 개발 비용과 시간을 획기적으로 단",
+   "publishedAt": 1785118210000,
+   "source": "AI타임스",
+   "sourceType": "media",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31,
-   "hot": false,
-   "lastWeekRank": 11
-  },
-  {
-   "title": "Hetzner is working on LLM Inference",
-   "url": "https://sliplane.io/blog/hetzner-inference",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49033087",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 155,
-   "comments": 87,
-   "publishedAt": 1784885084000,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 30.9,
-   "hot": false
-  },
-  {
-   "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-   "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49020868",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 299,
-   "comments": 331,
-   "publishedAt": 1784811603000,
-   "isAI": true,
-   "score": 30.8,
+   "score": 31.6,
    "hot": false
   }
  ]
