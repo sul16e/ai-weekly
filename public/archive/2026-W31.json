@@ -1,5 +1,5 @@
 {
- "updatedAt": 1785613996297,
+ "updatedAt": 1785617678138,
  "week": "2026-W31",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 640,
+   "engagement": 645,
    "comments": 151,
    "publishedAt": 1785521098000,
    "isAI": true,
-   "score": 53.9,
+   "score": 53.5,
    "hot": false
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 585,
-   "comments": 214,
+   "engagement": 588,
+   "comments": 215,
    "publishedAt": 1785524625000,
    "isAI": true,
-   "score": 53.7,
+   "score": 53.3,
    "hot": false
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 242,
+   "engagement": 245,
    "comments": 254,
    "publishedAt": 1785570730000,
    "isAI": true,
-   "score": 53.3,
+   "score": 52.9,
    "hot": true
   },
   {
@@ -51,11 +51,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 230,
+   "engagement": 235,
    "comments": 65,
    "publishedAt": 1785552309000,
    "isAI": true,
-   "score": 50.3,
+   "score": 50,
+   "hot": true
+  },
+  {
+   "title": "AI가 작동하는 제품까지 만들어주지는 않는다, 그건 여전히 당신의 일이다",
+   "url": "https://news.hada.io/topic?id=32044",
+   "summary": "AI는 몇 분 만에 UI와 데이터베이스를 갖춘 프로토타입을 만들지만, 첫 작동 버전에서 프로덕션급 제품 까지의 거리를 줄여주지는 못함 실제 제품에는 확장성, 오류 처리, 관측 가능성, 보안, 인증, 데이터 구조처럼 문법 작성보다 공학적 판단 이 필요한 문제가 남아...",
+   "publishedAt": 1785616363000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.8,
    "hot": true
   },
   {
@@ -65,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 118,
-   "comments": 102,
+   "engagement": 120,
+   "comments": 110,
    "publishedAt": 1785589014000,
    "isAI": true,
-   "score": 49.9,
+   "score": 49.5,
    "hot": false
   },
   {
@@ -83,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.3,
    "hot": true
   },
   {
@@ -97,7 +111,7 @@
    "comments": 341,
    "publishedAt": 1785478116000,
    "isAI": true,
-   "score": 49.4,
+   "score": 49,
    "hot": false
   },
   {
@@ -111,21 +125,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 48.5,
    "hot": true
   },
   {
-   "title": "가짜 저자를 신고한 연구 논문 두 편이 모두 구두 발표로 채택됨",
-   "url": "https://news.hada.io/topic?id=32039",
-   "summary": "NeurIPS·WACV·ECCV TerraBytes에서 심사한 22편 중 15편(68%) 에 조작된 인용·저자 목록이나 명백한 LLM 생성 문장이 있었고, 가짜 저자를 신고한 두 논문도 참고문헌 수정 조건으로 구두 발표에 채택됨 2025년 학술 문헌에는 약 14만6,900건의 환각 인용 이 있었던...",
-   "publishedAt": 1785605660000,
-   "source": "GeekNews",
+   "title": "Google News is just Forrest Gump's shrimp boat now",
+   "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49137681",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.8,
+   "lang": "en",
+   "engagement": 165,
+   "comments": 104,
+   "publishedAt": 1785613183000,
+   "isAI": false,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -136,17 +150,17 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 576,
-   "comments": 308,
+   "comments": 309,
    "publishedAt": 1785484751000,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.2,
    "hot": false
   },
   {
-   "title": "수학과 이론 컴퓨터 과학의 10가지 진전",
-   "url": "https://news.hada.io/topic?id=32038",
-   "summary": "최소 10년간 핵심 진전이 없던 공개 문제 10개에서 OpenAI의 차기 주요 모델 Astra 내부 버전 이 새로운 결과를 생성했으며, 고차원 기하학부터 양자 복잡도와 격자 암호까지 폭넓게 다룸 해법 탐색에는 Sol API 요금 기준 약 2,000달러 상당의 토큰이 사용됐고, 인...",
-   "publishedAt": 1785601937000,
+   "title": "가짜 저자를 신고한 연구 논문 두 편이 모두 구두 발표로 채택됨",
+   "url": "https://news.hada.io/topic?id=32039",
+   "summary": "NeurIPS·WACV·ECCV TerraBytes에서 심사한 22편 중 15편(68%) 에 조작된 인용·저자 목록이나 명백한 LLM 생성 문장이 있었고, 가짜 저자를 신고한 두 논문도 참고문헌 수정 조건으로 구두 발표에 채택됨 2025년 학술 문헌에는 약 14만6,900건의 환각 인용 이 있었던...",
+   "publishedAt": 1785605660000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -164,11 +178,25 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 551,
-   "comments": 584,
+   "comments": 589,
    "publishedAt": 1785482962000,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.7,
    "hot": false
+  },
+  {
+   "title": "수학과 이론 컴퓨터 과학의 10가지 진전",
+   "url": "https://news.hada.io/topic?id=32038",
+   "summary": "최소 10년간 핵심 진전이 없던 공개 문제 10개에서 OpenAI의 차기 주요 모델 Astra 내부 버전 이 새로운 결과를 생성했으며, 고차원 기하학부터 양자 복잡도와 격자 암호까지 폭넓게 다룸 해법 탐색에는 Sol API 요금 기준 약 2,000달러 상당의 토큰이 사용됐고, 인...",
+   "publishedAt": 1785601937000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47.7,
+   "hot": true
   },
   {
    "title": "Ten advances in mathematics and theoretical computer science",
@@ -181,7 +209,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": false
   },
   {
@@ -191,11 +219,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 193,
-   "comments": 221,
+   "engagement": 195,
+   "comments": 224,
    "publishedAt": 1785511779000,
    "isAI": true,
-   "score": 44,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -206,10 +234,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 603,
-   "comments": 396,
+   "comments": 398,
    "publishedAt": 1785431751000,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -223,7 +251,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -237,7 +265,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -247,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 612,
+   "engagement": 613,
    "comments": 529,
    "publishedAt": 1785424548000,
    "isAI": true,
-   "score": 43,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -261,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 370,
+   "engagement": 371,
    "comments": 176,
    "publishedAt": 1785453736000,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -276,10 +304,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 127,
-   "comments": 82,
+   "comments": 84,
    "publishedAt": 1785521199000,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -293,7 +321,7 @@
    "comments": 167,
    "publishedAt": 1785505056000,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": true
   },
   {
@@ -321,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": true
   },
   {
@@ -335,7 +363,7 @@
    "comments": 234,
    "publishedAt": 1785432667000,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -349,7 +377,21 @@
    "comments": 139,
    "publishedAt": 1785497832000,
    "isAI": true,
-   "score": 41,
+   "score": 40.6,
+   "hot": false
+  },
+  {
+   "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+   "url": "https://github.com/AminBlg/SimpleEnglish",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49114639",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 331,
+   "comments": 119,
+   "publishedAt": 1785440067000,
+   "isAI": true,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -363,7 +405,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -377,21 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.7,
-   "hot": false
-  },
-  {
-   "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-   "url": "https://github.com/AminBlg/SimpleEnglish",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49114639",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 329,
-   "comments": 119,
-   "publishedAt": 1785440067000,
-   "isAI": true,
-   "score": 40.6,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -405,7 +433,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.3,
+   "score": 39.9,
+   "hot": false
+  },
+  {
+   "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+   "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+   "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+   "publishedAt": 1785615964000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -419,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -433,7 +475,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -447,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -461,7 +503,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.8,
+   "hot": false
+  },
+  {
+   "title": "GCC steering committee announces AI policy",
+   "url": "https://lwn.net/Articles/1086041/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49108685",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 349,
+   "comments": 425,
+   "publishedAt": 1785411944000,
+   "isAI": true,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -475,21 +531,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.8,
-   "hot": false
-  },
-  {
-   "title": "GCC steering committee announces AI policy",
-   "url": "https://lwn.net/Articles/1086041/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49108685",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 349,
-   "comments": 423,
-   "publishedAt": 1785411944000,
-   "isAI": true,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -503,7 +545,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
+   "hot": false
+  },
+  {
+   "title": "AI's top startups are barely publishing their research",
+   "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49103285",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 613,
+   "comments": 319,
+   "publishedAt": 1785360340000,
+   "isAI": true,
+   "score": 38,
    "hot": false
   },
   {
@@ -517,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -531,22 +587,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
-  },
-  {
-   "title": "AI's top startups are barely publishing their research",
-   "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49103285",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 613,
-   "comments": 319,
-   "publishedAt": 1785360340000,
-   "isAI": true,
-   "score": 38.2,
-   "hot": false
   },
   {
    "title": "DeepSeek V4 Flash 0731의 지능·성능·가격 분석",
@@ -559,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -573,21 +615,7 @@
    "comments": 161,
    "publishedAt": 1785471304000,
    "isAI": true,
-   "score": 38,
-   "hot": false
-  },
-  {
-   "title": "Google, AI로 6월에 지난 2년치보다 많은 Chrome 버그 수정",
-   "url": "https://news.hada.io/topic?id=32019",
-   "summary": "Chrome은 Gemini 기반 에이전트 로 취약점 발견부터 분류·수정·배포·업데이트 적용까지 자동화하며, Chrome 149와 150에서 이전 23개 마일스톤을 합친 것보다 많은 보안 버그 1,072개를 수정함 취약점 탐지 시스템은 여러 모델과 Chrome의 CVE·Git 이력 지식 기반, SECURITY.md, 별도...",
-   "publishedAt": 1785512094000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.8,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -601,7 +629,35 @@
    "comments": 75,
    "publishedAt": 1785475049000,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.4,
+   "hot": false
+  },
+  {
+   "title": "Google, AI로 6월에 지난 2년치보다 많은 Chrome 버그 수정",
+   "url": "https://news.hada.io/topic?id=32019",
+   "summary": "Chrome은 Gemini 기반 에이전트 로 취약점 발견부터 분류·수정·배포·업데이트 적용까지 자동화하며, Chrome 149와 150에서 이전 23개 마일스톤을 합친 것보다 많은 보안 버그 1,072개를 수정함 취약점 탐지 시스템은 여러 모델과 Chrome의 CVE·Git 이력 지식 기반, SECURITY.md, 별도...",
+   "publishedAt": 1785512094000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 37.4,
+   "hot": false
+  },
+  {
+   "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+   "url": "https://code.intellios.ai/cwbrowser/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49128826",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 134,
+   "comments": 42,
+   "publishedAt": 1785533992000,
+   "isAI": false,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -615,22 +671,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
-  },
-  {
-   "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-   "url": "https://code.intellios.ai/cwbrowser/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49128826",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 133,
-   "comments": 41,
-   "publishedAt": 1785533992000,
-   "isAI": false,
-   "score": 37.4,
-   "hot": false
   },
   {
    "title": "GCC 운영위원회, AI 정책 발표",
@@ -643,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -657,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -671,35 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
-   "hot": false
-  },
-  {
-   "title": "LLM Honeypot",
-   "url": "https://llm2human.pages.dev/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49104117",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 384,
-   "comments": 107,
-   "publishedAt": 1785365463000,
-   "isAI": true,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "Progressive Web Components",
-   "url": "https://arielsalminen.com/2026/progressive-web-components/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49121196",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 186,
-   "comments": 51,
-   "publishedAt": 1785492280000,
-   "isAI": false,
-   "score": 36,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -713,7 +727,35 @@
    "comments": 72,
    "publishedAt": 1785435186000,
    "isAI": true,
-   "score": 36,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "LLM Honeypot",
+   "url": "https://llm2human.pages.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49104117",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 384,
+   "comments": 107,
+   "publishedAt": 1785365463000,
+   "isAI": true,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "Progressive Web Components",
+   "url": "https://arielsalminen.com/2026/progressive-web-components/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49121196",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 187,
+   "comments": 51,
+   "publishedAt": 1785492280000,
+   "isAI": false,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -724,10 +766,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 155,
-   "comments": 118,
+   "comments": 119,
    "publishedAt": 1785506255000,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -741,7 +783,7 @@
    "comments": 174,
    "publishedAt": 1785416607000,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -755,7 +797,7 @@
    "comments": 72,
    "publishedAt": 1785476713000,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -769,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -783,7 +825,7 @@
    "comments": 516,
    "publishedAt": 1785406426000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -797,7 +839,7 @@
    "comments": 340,
    "publishedAt": 1785337543000,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -811,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -825,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -839,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -853,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -867,7 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -880,7 +922,7 @@
    "summary": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a result, scientists and AI agents need to locate relevant information, verify their provenance, and assemb",
    "publishedAt": 1785355200000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -894,7 +936,20 @@
    "comments": 299,
    "publishedAt": 1785325473000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
+   "url": "https://huggingface.co/papers/2607.28227",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 278,
+   "summary": "GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execute workflows across platforms, combine GUI interaction with CLI execution, complete long-horizon tas",
+   "publishedAt": 1785355200000,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -907,47 +962,6 @@
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
-   "isAI": false,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
-   "url": "https://huggingface.co/papers/2607.28227",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 277,
-   "summary": "GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execute workflows across platforms, combine GUI interaction with CLI execution, complete long-horizon tas",
-   "publishedAt": 1785355200000,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "Kimi K3 로컬 실행 가이드",
-   "url": "https://news.hada.io/topic?id=32008",
-   "summary": "Moonshot AI의 Kimi K3 는 전체 2.8T·활성 104B 매개변수와 네이티브 비전, 100만 토큰 문맥을 갖춘 오픈 웨이트 모델이며, Unsloth가 로컬 실행용 GGUF 양자화를 제공함 전체 정밀도 추론에는 1.56TB가 필요하지만, Dynamic 1-bit UD-IQ1_S 는 594GB에...",
-   "publishedAt": 1785462289000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
-   "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49122838",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 113,
-   "comments": 71,
-   "publishedAt": 1785504243000,
    "isAI": false,
    "score": 33.5,
    "hot": false
@@ -963,7 +977,35 @@
    "comments": 247,
    "publishedAt": 1785354642000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "Kimi K3 로컬 실행 가이드",
+   "url": "https://news.hada.io/topic?id=32008",
+   "summary": "Moonshot AI의 Kimi K3 는 전체 2.8T·활성 104B 매개변수와 네이티브 비전, 100만 토큰 문맥을 갖춘 오픈 웨이트 모델이며, Unsloth가 로컬 실행용 GGUF 양자화를 제공함 전체 정밀도 추론에는 1.56TB가 필요하지만, Dynamic 1-bit UD-IQ1_S 는 594GB에...",
+   "publishedAt": 1785462289000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49122838",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 113,
+   "comments": 71,
+   "publishedAt": 1785504243000,
+   "isAI": false,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -977,7 +1019,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -991,7 +1033,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1005,7 +1047,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1019,35 +1061,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-   "url": "https://openai.com/index/avatarin",
-   "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-   "publishedAt": 1785369600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "TV 스트리밍 스틱을 구매하기 전에 확인할 것",
-   "url": "https://news.hada.io/topic?id=32000",
-   "summary": "수만 대의 H96 스트리밍 기기 가 휴대전화로 위장해 AI 생성 웹사이트의 광고를 클릭하고, 사용자의 인터넷 연결을 외부에 빌려주는 네트워크에 동원된 정황이 드러남 기기에 설치된 Zhejiang Fengwo IoT Technology 앱은 작업별 Blockly 모듈 을 받아 브라우저 실행...",
-   "publishedAt": 1785447245000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 32.5,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1061,28 +1075,28 @@
    "comments": 544,
    "publishedAt": 1785133090000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.3,
    "hot": false
   },
   {
-   "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-   "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-   "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-   "publishedAt": 1785538046000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
+   "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+   "url": "https://openai.com/index/avatarin",
+   "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+   "publishedAt": 1785369600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
    "lang": "en",
    "engagement": null,
-   "baseWeight": 32,
+   "baseWeight": 50,
    "isAI": true,
    "score": 32.3,
    "hot": false
   },
   {
-   "title": "GPT‑5.6, 가격 대비 성능의 한계를 확장",
-   "url": "https://news.hada.io/topic?id=31998",
-   "summary": "OpenAI는 모델·추론 시스템·에이전트 하네스의 효율 향상을 가격과 처리 속도에 반영해 기업용 AI의 달러당 성능 을 높임 7월 30일부터 Luna 가격은 80% , Terra 가격은 20% 인하되며, API 100만 토큰당 Luna는 입력 $0.20·출력 $1.20, Terra는 입력 $2·출력 $12가 적...",
-   "publishedAt": 1785443659000,
+   "title": "TV 스트리밍 스틱을 구매하기 전에 확인할 것",
+   "url": "https://news.hada.io/topic?id=32000",
+   "summary": "수만 대의 H96 스트리밍 기기 가 휴대전화로 위장해 AI 생성 웹사이트의 광고를 클릭하고, 사용자의 인터넷 연결을 외부에 빌려주는 네트워크에 동원된 정황이 드러남 기기에 설치된 Zhejiang Fengwo IoT Technology 앱은 작업별 Blockly 모듈 을 받아 브라우저 실행...",
+   "publishedAt": 1785447245000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -1103,7 +1117,35 @@
    "comments": 257,
    "publishedAt": 1785270513000,
    "isAI": true,
-   "score": 32.2,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+   "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+   "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+   "publishedAt": 1785538046000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "GPT‑5.6, 가격 대비 성능의 한계를 확장",
+   "url": "https://news.hada.io/topic?id=31998",
+   "summary": "OpenAI는 모델·추론 시스템·에이전트 하네스의 효율 향상을 가격과 처리 속도에 반영해 기업용 AI의 달러당 성능 을 높임 7월 30일부터 Luna 가격은 80% , Terra 가격은 20% 인하되며, API 100만 토큰당 Luna는 입력 $0.20·출력 $1.20, Terra는 입력 $2·출력 $12가 적...",
+   "publishedAt": 1785443659000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 32,
    "hot": false
   },
   {
@@ -1117,7 +1159,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 32,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1131,7 +1173,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1145,7 +1187,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1159,7 +1201,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1173,7 +1215,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1187,7 +1229,7 @@
    "comments": 180,
    "publishedAt": 1785343019000,
    "isAI": false,
-   "score": 31.2,
+   "score": 31,
    "hot": false
   },
   {
@@ -1201,7 +1243,7 @@
    "comments": 115,
    "publishedAt": 1785343340000,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1214,35 +1256,7 @@
    "summary": "Recursive self-improvement (RSI) requires AI systems that improve the process of building AI (i.e., AI4AI); machine learning engineering (MLE) offers a concrete, executable testbed for studying this capability. We introduce OpenMLE, an open full-stack system for RSI research in MLE, spanning verifia",
    "publishedAt": 1785355200000,
    "isAI": true,
-   "score": 30.9,
-   "hot": false
-  },
-  {
-   "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-   "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-   "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-   "publishedAt": 1785337200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 30.8,
-   "hot": false
-  },
-  {
-   "title": "gccrs로 Linux 컴파일을 향한 진전",
-   "url": "https://news.hada.io/topic?id=32015",
-   "summary": "GCC용 Rust 프런트엔드 gccrs 는 2026년 상반기 Linux 커널 크레이트를 시험하며 속성 처리, 이름 해석, 자원 관리 문제를 수정했고, 이제 커널 코드의 정확한 실행 의미론 구현에 집중하고 있음 LLVM이 지원하지 않는 아키텍처와 기존 GCC 플러그인 생태계 를 활용하...",
-   "publishedAt": 1785499324000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 30.8,
+   "score": 30.7,
    "hot": false
   },
   {
@@ -1256,7 +1270,21 @@
    "comments": 515,
    "publishedAt": 1785155532000,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.6,
+   "hot": false
+  },
+  {
+   "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+   "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+   "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+   "publishedAt": 1785337200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1269,7 +1297,21 @@
    "summary": "We introduce PhiZero, a physical world model built around physical language, a compact discrete representation of world-state transitions. Existing physical world models typically predict future videos directly in pixel space, leaving the underlying world dynamics implicit within high-dimensional vi",
    "publishedAt": 1785355200000,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.5,
+   "hot": false
+  },
+  {
+   "title": "gccrs로 Linux 컴파일을 향한 진전",
+   "url": "https://news.hada.io/topic?id=32015",
+   "summary": "GCC용 Rust 프런트엔드 gccrs 는 2026년 상반기 Linux 커널 크레이트를 시험하며 속성 처리, 이름 해석, 자원 관리 문제를 수정했고, 이제 커널 코드의 정확한 실행 의미론 구현에 집중하고 있음 LLVM이 지원하지 않는 아키텍처와 기존 GCC 플러그인 생태계 를 활용하...",
+   "publishedAt": 1785499324000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1283,7 +1325,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": false,
-   "score": 30.7,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1297,7 +1339,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1311,7 +1353,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1325,35 +1367,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 30.6,
-   "hot": false
-  },
-  {
-   "title": "LLM 허니팟",
-   "url": "https://news.hada.io/topic?id=31987",
-   "summary": "LLM2HUMAN CLINIC 은 LLM을 실제 인간으로 바꿔준다는 가짜 시술 사이트로, 사람에게는 농담을 보여주고 에이전트에는 결제 절차를 노출하는 허니팟 임 에이전트는 /.well-known/embodiment.json 에서 스키마를 가져와 /api/checkout 에 JSO...",
-   "publishedAt": 1785418284000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 30.6,
-   "hot": false
-  },
-  {
-   "title": "“저렴한 AI가 더 많은 수요 만든다”...오픈AI, 가격 인하 후 사용자 10억 발표",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213439",
-   "summary": "오픈AI가 'GPT-5.6' 시리즈의 대규모 가격 인하를 단행한 데 이어 AI 서비스 이용자가 10억명을 넘어섰다고 공식 발표했다. 저렴한 AI가 더 많은 사용자를 끌어들이고, 늘어난 수요와 수익이 다시 차세대 모델과 인프라 투자로 이어지는 'AI 선순환' 전략이 본격적으로 작동하고 있다고 강조했다.오픈AI는 31일(현지시간) 공식 블로그를 통해 현재 자사 모델이 10억명 이상의 활성 사용자와 200만개 이상의 기업 고객에게 제공되고 있다고 밝혔다. 이는 개인 사용자뿐 아니라 기업 시장에서도 AI 도입이 빠르게 확대되고 있음을 보여",
-   "publishedAt": 1785576723000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.5,
+   "score": 30.3,
    "hot": false
   },
   {
@@ -1367,35 +1381,21 @@
    "comments": 172,
    "publishedAt": 1785289759000,
    "isAI": true,
-   "score": 30.4,
+   "score": 30.2,
    "hot": false
   },
   {
-   "title": "Siri AI could come with a paywall for power users",
-   "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-   "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-   "publishedAt": 1785514098000,
-   "source": "TechCrunch AI",
+   "title": "“저렴한 AI가 더 많은 수요 만든다”...오픈AI, 가격 인하 후 사용자 10억 발표",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213439",
+   "summary": "오픈AI가 'GPT-5.6' 시리즈의 대규모 가격 인하를 단행한 데 이어 AI 서비스 이용자가 10억명을 넘어섰다고 공식 발표했다. 저렴한 AI가 더 많은 사용자를 끌어들이고, 늘어난 수요와 수익이 다시 차세대 모델과 인프라 투자로 이어지는 'AI 선순환' 전략이 본격적으로 작동하고 있다고 강조했다.오픈AI는 31일(현지시간) 공식 블로그를 통해 현재 자사 모델이 10억명 이상의 활성 사용자와 200만개 이상의 기업 고객에게 제공되고 있다고 밝혔다. 이는 개인 사용자뿐 아니라 기업 시장에서도 AI 도입이 빠르게 확대되고 있음을 보여",
+   "publishedAt": 1785576723000,
+   "source": "AI타임스",
    "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 30.4,
-   "hot": false
-  },
-  {
-   "title": "가져갈 수 없는 세션: 추론 API가 만드는 새로운 종속성",
-   "url": "https://news.hada.io/topic?id=32014",
-   "summary": "추론 API가 암호화된 추론·검색 결과·압축 상태·서브에이전트 메시지 를 공급자 내부에 숨기면서, 사용자가 보유한 대화 기록은 완전한 세션이 아니라 일부만 보이는 사본이 되고 있음 세션 이식성은 다른 모델에서 같은 출력을 재현하는 것이 아니라, 기존 공급자의 ID 조회나 복호화...",
-   "publishedAt": 1785494019000,
-   "source": "GeekNews",
-   "sourceType": "community",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 30.4,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.2,
    "hot": false
   }
  ]
