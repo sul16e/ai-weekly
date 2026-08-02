@@ -1,5 +1,5 @@
 {
- "updatedAt": 1785705841871,
+ "updatedAt": 1785709522074,
  "week": "2026-W32",
  "items": [
   {
@@ -10,10 +10,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 117,
-   "comments": 21,
+   "comments": 11,
    "publishedAt": 1785687979000,
    "isAI": true,
-   "score": 50.8,
+   "score": 50.3,
    "hot": false
   },
   {
@@ -23,12 +23,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 329,
-   "comments": 372,
+   "engagement": 330,
+   "comments": 375,
    "publishedAt": 1785623112000,
    "isAI": true,
-   "score": 50.3,
-   "hot": true,
+   "score": 49.8,
+   "hot": false,
    "lastWeekRank": 1
   },
   {
@@ -42,7 +42,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.5,
+   "score": 49,
    "hot": true
   },
   {
@@ -56,7 +56,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -66,13 +66,41 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 592,
-   "comments": 224,
+   "engagement": 596,
+   "comments": 230,
    "publishedAt": 1785607627000,
    "isAI": false,
-   "score": 46.5,
+   "score": 46.1,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+   "url": "https://github.com/wie-project/kakehashi",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49145937",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 137,
+   "comments": 34,
+   "publishedAt": 1785688000000,
+   "isAI": false,
+   "score": 44.2,
+   "hot": false
+  },
+  {
+   "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+   "url": "https://meshdiff.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49143479",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 166,
+   "comments": 17,
+   "publishedAt": 1785670481000,
+   "isAI": false,
+   "score": 43.6,
+   "hot": true
   },
   {
    "title": "qm – Multiplayer agent harness for work",
@@ -81,11 +109,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 664,
-   "comments": 157,
+   "engagement": 665,
+   "comments": 159,
    "publishedAt": 1785521098000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.6,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -100,37 +128,9 @@
    "comments": 216,
    "publishedAt": 1785524625000,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false,
    "lastWeekRank": 4
-  },
-  {
-   "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
-   "url": "https://meshdiff.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49143479",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 159,
-   "comments": 16,
-   "publishedAt": 1785670481000,
-   "isAI": false,
-   "score": 43.7,
-   "hot": true
-  },
-  {
-   "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-   "url": "https://github.com/wie-project/kakehashi",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49145937",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 121,
-   "comments": 29,
-   "publishedAt": 1785688000000,
-   "isAI": false,
-   "score": 43.5,
-   "hot": false
   },
   {
    "title": "질문을 제대로 하면 AI 금융 조언은 놀라울 정도로 좋아짐",
@@ -143,9 +143,37 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false,
    "lastWeekRank": 5
+  },
+  {
+   "title": "F*: A general-purpose proof-oriented programming language",
+   "url": "https://fstar-lang.org/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49143925",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 135,
+   "comments": 59,
+   "publishedAt": 1785673876000,
+   "isAI": false,
+   "score": 42.3,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+   "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49142569",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 161,
+   "comments": 20,
+   "publishedAt": 1785661593000,
+   "isAI": false,
+   "score": 42.3,
+   "hot": true
   },
   {
    "title": "AI doesn't generate working products, that's still your job",
@@ -158,37 +186,9 @@
    "comments": 291,
    "publishedAt": 1785570730000,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false,
    "lastWeekRank": 6
-  },
-  {
-   "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-   "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49142569",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 156,
-   "comments": 19,
-   "publishedAt": 1785661593000,
-   "isAI": false,
-   "score": 42.5,
-   "hot": true
-  },
-  {
-   "title": "F*: A general-purpose proof-oriented programming language",
-   "url": "https://fstar-lang.org/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49143925",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 128,
-   "comments": 51,
-   "publishedAt": 1785673876000,
-   "isAI": false,
-   "score": 42.3,
-   "hot": false
   },
   {
    "title": "Google has abandoned Google News?",
@@ -197,27 +197,13 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 277,
+   "engagement": 278,
    "comments": 204,
    "publishedAt": 1785613183000,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false,
    "lastWeekRank": 7
-  },
-  {
-   "title": "실리콘밸리의 창업자 고기 분쇄기",
-   "url": "https://news.hada.io/topic?id=32069",
-   "summary": "개발 부트캠프에서 출발한 ‘Jim’은 인맥을 발판으로 스타트업 취업과 인수, YC 합격 , 연쇄 창업까지 빠르게 올라섰지만 몇 년 만에 돈과 관계를 잃고 자취를 감춤 야심과 근면함, 카리스마로 기회를 얻었으나 첫 고액 연봉 이후 생활 수준을 무리하게 높인 탓에 ...",
-   "publishedAt": 1785699133000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.2,
-   "hot": true
   },
   {
    "title": "Flint: A Visualization Language for the AI Era",
@@ -226,11 +212,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 268,
+   "engagement": 269,
    "comments": 68,
    "publishedAt": 1785552309000,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.8,
    "hot": false,
    "lastWeekRank": 9
   },
@@ -245,9 +231,23 @@
    "comments": 345,
    "publishedAt": 1785478116000,
    "isAI": true,
-   "score": 41,
+   "score": 40.7,
    "hot": false,
    "lastWeekRank": 11
+  },
+  {
+   "title": "실리콘밸리의 창업자 고기 분쇄기",
+   "url": "https://news.hada.io/topic?id=32069",
+   "summary": "개발 부트캠프에서 출발한 ‘Jim’은 인맥을 발판으로 스타트업 취업과 인수, YC 합격 , 연쇄 창업까지 빠르게 올라섰지만 몇 년 만에 돈과 관계를 잃고 자취를 감춤 야심과 근면함, 카리스마로 기회를 얻었으나 첫 고액 연봉 이후 생활 수준을 무리하게 높인 탓에 ...",
+   "publishedAt": 1785699133000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.7,
+   "hot": true
   },
   {
    "title": "Linux desktop market share has hit over 10% in North America",
@@ -260,7 +260,7 @@
    "comments": 89,
    "publishedAt": 1785640200000,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true,
    "lastWeekRank": 8
   },
@@ -275,7 +275,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -289,23 +289,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.1,
    "hot": false,
    "lastWeekRank": 10
-  },
-  {
-   "title": "RamenHaus",
-   "url": "https://news.hada.io/topic?id=32067",
-   "summary": "RamenHaus 에 아지타마 쇼유(Ajitama Shoyu) 라멘 기록이 등록돼 있음 라멘을 제공한 매장은 Ramen Zundo-Ya 임 방문 지역은 일본 도쿄(Tokyo) 임 해당 기록은 2018년 에 작성됨 각 항목에서 라멘 이름...",
-   "publishedAt": 1785691883000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.3,
-   "hot": true
   },
   {
    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
@@ -318,9 +304,23 @@
    "comments": 311,
    "publishedAt": 1785484751000,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.9,
    "hot": false,
    "lastWeekRank": 13
+  },
+  {
+   "title": "RamenHaus",
+   "url": "https://news.hada.io/topic?id=32067",
+   "summary": "쿠키, 자바스크립트 없이 회전하는 라멘 그릇 사진만 보여주는 사이트 국가/도시별로 정리된 총 114개의 라멘 사진이 포함 Rotating Sandwiches 에서 영감을 받음 ...",
+   "publishedAt": 1785691883000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.9,
+   "hot": true
   },
   {
    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
@@ -330,10 +330,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 570,
-   "comments": 598,
+   "comments": 599,
    "publishedAt": 1785482962000,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.7,
    "hot": false,
    "lastWeekRank": 14
   },
@@ -348,7 +348,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -362,7 +362,7 @@
    "comments": 131,
    "publishedAt": 1785589014000,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.4,
    "hot": false,
    "lastWeekRank": 12
   },
@@ -377,7 +377,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -391,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -405,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39,
    "hot": true
   },
   {
@@ -419,24 +419,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39,
+   "score": 38.6,
    "hot": false,
    "lastWeekRank": 16
-  },
-  {
-   "title": "Go 1.27 인터랙티브 투어",
-   "url": "https://news.hada.io/topic?id=32059",
-   "summary": "이번 릴리스는 제네릭 메서드 를 중심으로 구조체 리터럴과 타입 추론을 개선하고, 표준 라이브러리·런타임·도구 체계까지 폭넓게 확장함 80바이트 미만 일부 할당은 최대 30% 빨라지고, 할당이 많은 실제 프로그램은 약 1% 성능 향상 이 예상되지만 바이너리는 약 6...",
-   "publishedAt": 1785677593000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.7,
-   "hot": true,
-   "lastWeekRank": 15
   },
   {
    "title": "Claude 사이버보안 평가가 실제 조직 3곳을 침해한 사건",
@@ -449,24 +434,24 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.3,
    "hot": false,
    "lastWeekRank": 17
   },
   {
-   "title": "죽어가던 소프트웨어: relayd(8)와 httpd(8)의 지속적인 진화",
-   "url": "https://news.hada.io/topic?id=32040",
-   "summary": "기존 OpenBSD 개발자들의 관심이 줄면서 정체됐던 relayd(8)와 httpd(8) 개발이 실제 운영 수요를 가진 기여자들의 참여로 다시 활발해짐 LLM이 코딩 지식을 대신하는 시기일수록 직접 C를 익히고 도전해야 한다 는 판단에서 출발해, relayd(8)의 수제 imsg 체계부터...",
-   "publishedAt": 1785607316000,
+   "title": "Go 1.27 인터랙티브 투어",
+   "url": "https://news.hada.io/topic?id=32059",
+   "summary": "이번 릴리스는 제네릭 메서드 를 중심으로 구조체 리터럴과 타입 추론을 개선하고, 표준 라이브러리·런타임·도구 체계까지 폭넓게 확장함 80바이트 미만 일부 할당은 최대 30% 빨라지고, 할당이 많은 실제 프로그램은 약 1% 성능 향상 이 예상되지만 바이너리는 약 6...",
+   "publishedAt": 1785677593000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
-   "isAI": true,
-   "score": 38.1,
-   "hot": false,
-   "lastWeekRank": 18
+   "isAI": false,
+   "score": 38.2,
+   "hot": true,
+   "lastWeekRank": 15
   },
   {
    "title": "Ten advances in mathematics and theoretical computer science",
@@ -479,9 +464,24 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
    "hot": false,
    "lastWeekRank": 20
+  },
+  {
+   "title": "죽어가던 소프트웨어: relayd(8)와 httpd(8)의 지속적인 진화",
+   "url": "https://news.hada.io/topic?id=32040",
+   "summary": "기존 OpenBSD 개발자들의 관심이 줄면서 정체됐던 relayd(8)와 httpd(8) 개발이 실제 운영 수요를 가진 기여자들의 참여로 다시 활발해짐 LLM이 코딩 지식을 대신하는 시기일수록 직접 C를 익히고 도전해야 한다 는 판단에서 출발해, relayd(8)의 수제 imsg 체계부터...",
+   "publishedAt": 1785607316000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 37.7,
+   "hot": false,
+   "lastWeekRank": 18
   },
   {
    "title": "가짜 저자를 신고한 연구 논문 두 편이 모두 구두 발표로 채택됨",
@@ -494,7 +494,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.6,
    "hot": false,
    "lastWeekRank": 19
   },
@@ -509,7 +509,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false,
    "lastWeekRank": 21
   },
@@ -524,7 +524,7 @@
    "comments": 62,
    "publishedAt": 1785609140000,
    "isAI": false,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false,
    "lastWeekRank": 22
   },
@@ -539,7 +539,7 @@
    "comments": 399,
    "publishedAt": 1785431751000,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false,
    "lastWeekRank": 25
   },
@@ -554,7 +554,7 @@
    "comments": 538,
    "publishedAt": 1785424548000,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.3,
    "hot": false,
    "lastWeekRank": 28
   },
@@ -565,11 +565,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 211,
-   "comments": 238,
+   "engagement": 212,
+   "comments": 240,
    "publishedAt": 1785511779000,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false,
    "lastWeekRank": 26
   },
@@ -584,7 +584,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false,
    "lastWeekRank": 23
   },
@@ -599,7 +599,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 24
   },
@@ -614,7 +614,7 @@
    "comments": 176,
    "publishedAt": 1785453736000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.5,
    "hot": false,
    "lastWeekRank": 32
   },
@@ -629,7 +629,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false,
    "lastWeekRank": 30
   },
@@ -644,7 +644,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false,
    "lastWeekRank": 31
   },
@@ -659,7 +659,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false,
    "lastWeekRank": 27
   },
@@ -674,7 +674,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false,
    "lastWeekRank": 29
   },
@@ -689,7 +689,7 @@
    "comments": 234,
    "publishedAt": 1785432667000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.7,
    "hot": false,
    "lastWeekRank": 36
   },
@@ -704,7 +704,7 @@
    "comments": 11,
    "publishedAt": 1785613488000,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.4,
    "hot": false,
    "lastWeekRank": 33
   },
@@ -719,7 +719,7 @@
    "comments": 119,
    "publishedAt": 1785440067000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.1,
    "hot": false,
    "lastWeekRank": 41
   },
@@ -734,7 +734,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false,
    "lastWeekRank": 34
   },
@@ -749,7 +749,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false,
    "lastWeekRank": 35
   },
@@ -764,7 +764,7 @@
    "comments": 86,
    "publishedAt": 1785521199000,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false,
    "lastWeekRank": 38
   },
@@ -779,7 +779,7 @@
    "comments": 167,
    "publishedAt": 1785505056000,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false,
    "lastWeekRank": 40
   },
@@ -794,7 +794,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.6,
    "hot": false,
    "lastWeekRank": 37
   },
@@ -809,24 +809,9 @@
    "comments": 140,
    "publishedAt": 1785497832000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 42
-  },
-  {
-   "title": "감시 조약으로 위장한 유엔 사이버범죄협약에 캐나다가 서명",
-   "url": "https://news.hada.io/topic?id=32046",
-   "summary": "과거 국가 감시 권한 확대를 우려해 반대했던 캐나다가 별도 공개 협의나 우려 해소 없이 유엔 사이버범죄협약 에 서명했으며, 아직 비준 전이라 법적 구속력은 없음 절차적 수사 권한은 모든 범죄의 전자 증거에 적용되고, 국제 공조는 자국법상 징역 4년 이상인 중대 범죄...",
-   "publishedAt": 1785627231000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.7,
-   "hot": false,
-   "lastWeekRank": 39
   },
   {
    "title": "Univé builds an AI-ready workforce",
@@ -839,9 +824,24 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 44
+  },
+  {
+   "title": "감시 조약으로 위장한 유엔 사이버범죄협약에 캐나다가 서명",
+   "url": "https://news.hada.io/topic?id=32046",
+   "summary": "과거 국가 감시 권한 확대를 우려해 반대했던 캐나다가 별도 공개 협의나 우려 해소 없이 유엔 사이버범죄협약 에 서명했으며, 아직 비준 전이라 법적 구속력은 없음 절차적 수사 권한은 모든 범죄의 전자 증거에 적용되고, 국제 공조는 자국법상 징역 4년 이상인 중대 범죄...",
+   "publishedAt": 1785627231000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.4,
+   "hot": false,
+   "lastWeekRank": 39
   },
   {
    "title": "AI's top startups are barely publishing their research",
@@ -854,7 +854,7 @@
    "comments": 319,
    "publishedAt": 1785360340000,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false,
    "lastWeekRank": 47
   },
@@ -869,7 +869,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -883,7 +883,7 @@
    "comments": 427,
    "publishedAt": 1785411944000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false,
    "lastWeekRank": 46
   },
@@ -898,7 +898,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33,
+   "score": 32.7,
    "hot": false,
    "lastWeekRank": 43
   },
@@ -913,7 +913,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.4,
    "hot": false,
    "lastWeekRank": 45
   },
@@ -928,7 +928,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false,
    "lastWeekRank": 50
   },
@@ -943,7 +943,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.2,
+   "score": 32,
    "hot": false,
    "lastWeekRank": 51
   },
@@ -958,7 +958,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false,
    "lastWeekRank": 48
   },
@@ -973,7 +973,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false,
    "lastWeekRank": 49
   },
@@ -988,7 +988,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false,
    "lastWeekRank": 53
   },
@@ -999,28 +999,13 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 215,
+   "engagement": 216,
    "comments": 170,
    "publishedAt": 1785510067000,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 72
-  },
-  {
-   "title": "Show HN: What should the GUI for AI agents look like?",
-   "url": "https://marbleos.com/demo",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49119274",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 134,
-   "comments": 78,
-   "publishedAt": 1785475049000,
-   "isAI": true,
-   "score": 31.5,
-   "hot": false,
-   "lastWeekRank": 59
   },
   {
    "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
@@ -1033,7 +1018,7 @@
    "comments": 163,
    "publishedAt": 1785471304000,
    "isAI": true,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 56
   },
@@ -1048,9 +1033,24 @@
    "comments": 107,
    "publishedAt": 1785365463000,
    "isAI": true,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 62
+  },
+  {
+   "title": "Show HN: What should the GUI for AI agents look like?",
+   "url": "https://marbleos.com/demo",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49119274",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 134,
+   "comments": 79,
+   "publishedAt": 1785475049000,
+   "isAI": true,
+   "score": 31.2,
+   "hot": false,
+   "lastWeekRank": 59
   },
   {
    "title": "그저 존재하는 법",
@@ -1063,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.3,
+   "score": 31,
    "hot": false,
    "lastWeekRank": 54
   },
@@ -1078,7 +1078,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false,
    "lastWeekRank": 55
   },
@@ -1093,7 +1093,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.8,
    "hot": false,
    "lastWeekRank": 52
   },
@@ -1108,7 +1108,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31,
+   "score": 30.7,
    "hot": false,
    "lastWeekRank": 57
   },
@@ -1123,7 +1123,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31,
+   "score": 30.7,
    "hot": false,
    "lastWeekRank": 58
   },
@@ -1138,7 +1138,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 31,
+   "score": 30.7,
    "hot": false,
    "lastWeekRank": 60
   },
@@ -1153,7 +1153,7 @@
    "comments": 43,
    "publishedAt": 1785533992000,
    "isAI": false,
-   "score": 30.8,
+   "score": 30.6,
    "hot": false,
    "lastWeekRank": 65
   },
@@ -1168,9 +1168,24 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 30.8,
+   "score": 30.5,
    "hot": false,
    "lastWeekRank": 64
+  },
+  {
+   "title": "Kimi-K3 on HuggingFace",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49065752",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1378,
+   "comments": 545,
+   "publishedAt": 1785133090000,
+   "isAI": true,
+   "score": 30.4,
+   "hot": false,
+   "lastWeekRank": 79
   },
   {
    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
@@ -1183,7 +1198,7 @@
    "comments": 73,
    "publishedAt": 1785435186000,
    "isAI": true,
-   "score": 30.5,
+   "score": 30.3,
    "hot": false,
    "lastWeekRank": 71
   },
@@ -1198,24 +1213,9 @@
    "comments": 341,
    "publishedAt": 1785337543000,
    "isAI": false,
-   "score": 30.5,
+   "score": 30.3,
    "hot": false,
    "lastWeekRank": 76
-  },
-  {
-   "title": "Kimi-K3 on HuggingFace",
-   "url": "https://huggingface.co/moonshotai/Kimi-K3",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49065752",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1378,
-   "comments": 545,
-   "publishedAt": 1785133090000,
-   "isAI": true,
-   "score": 30.5,
-   "hot": false,
-   "lastWeekRank": 79
   },
   {
    "title": "GCC 운영위원회, AI 정책 발표",
@@ -1228,7 +1228,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 30.5,
+   "score": 30.3,
    "hot": false,
    "lastWeekRank": 68
   },
@@ -1243,7 +1243,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.4,
+   "score": 30.1,
    "hot": false,
    "lastWeekRank": 61
   },
@@ -1255,10 +1255,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 433,
-   "comments": 175,
+   "comments": 176,
    "publishedAt": 1785416607000,
    "isAI": false,
-   "score": 30.2,
+   "score": 30,
    "hot": false,
    "lastWeekRank": 75
   },
@@ -1273,7 +1273,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 30.2,
+   "score": 30,
    "hot": false,
    "lastWeekRank": 66
   },
@@ -1288,24 +1288,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.2,
+   "score": 30,
    "hot": false,
    "lastWeekRank": 67
-  },
-  {
-   "title": "Ruby Central이 남긴 파괴적 유산",
-   "url": "https://news.hada.io/topic?id=32033",
-   "summary": "RubyGems·Bundler·RubyGems.org 통제권을 장악한 뒤 10개월 동안 Ruby Central은 컨퍼런스 2개, 주요 OSS 프로젝트 2개, 기여자 9명 을 잃었고 분쟁도 해결하지 못함 이전 유지관리자들의 합의안을 받아들이지 않은 채, André Arko가 Bundler 권리와 고용법 관련 청구를 포기해야",
-   "publishedAt": 1785582169000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 30.1,
-   "hot": false,
-   "lastWeekRank": 69
   },
   {
    "title": "DeepSeek-V4-Flash 모델 공개",
@@ -1318,24 +1303,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 30.1,
+   "score": 29.9,
    "hot": false,
    "lastWeekRank": 73
-  },
-  {
-   "title": "월가를 흔든 20대 'AI 천재'의 몰락… 3조달러 대폭락 사태의 내막",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213449",
-   "summary": "AI 업계에서 ‘천재 소년’이자 ‘AI 노스트라다무스’로 불리던 레오폴드 아셴브레너의 200억달러(약 28조9200억원) 규모 헤지펀드가 급격한 위기를 맞으며 월가와 실리콘밸리에 커다란 충격을 안겼다. 이는 지난달 전 세계 반도체 주식 시장의 폭락을 유발한 계기로 꼽혔다. 파이낸셜타임스(FT)는 31일 과도한 부채와 주가 폭락으로 파산 위기에 처했던 아셴브레너의 헤지펀드 시튜에이셔널 어웨어니스(Situational Awareness)의 상장 주식 포트폴리오를 대형 헤지펀드 시타델이 전격 인수하면서 글로벌 AI 기술주 시장의 3조달러",
-   "publishedAt": 1785664476000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.1,
-   "hot": false,
-   "lastWeekRank": 63
   },
   {
    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
@@ -1348,9 +1318,39 @@
    "comments": 300,
    "publishedAt": 1785325473000,
    "isAI": true,
-   "score": 29.9,
+   "score": 29.8,
    "hot": false,
    "lastWeekRank": 80
+  },
+  {
+   "title": "Ruby Central이 남긴 파괴적 유산",
+   "url": "https://news.hada.io/topic?id=32033",
+   "summary": "RubyGems·Bundler·RubyGems.org 통제권을 장악한 뒤 10개월 동안 Ruby Central은 컨퍼런스 2개, 주요 OSS 프로젝트 2개, 기여자 9명 을 잃었고 분쟁도 해결하지 못함 이전 유지관리자들의 합의안을 받아들이지 않은 채, André Arko가 Bundler 권리와 고용법 관련 청구를 포기해야",
+   "publishedAt": 1785582169000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 29.8,
+   "hot": false,
+   "lastWeekRank": 69
+  },
+  {
+   "title": "월가를 흔든 20대 'AI 천재'의 몰락… 3조달러 대폭락 사태의 내막",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213449",
+   "summary": "AI 업계에서 ‘천재 소년’이자 ‘AI 노스트라다무스’로 불리던 레오폴드 아셴브레너의 200억달러(약 28조9200억원) 규모 헤지펀드가 급격한 위기를 맞으며 월가와 실리콘밸리에 커다란 충격을 안겼다. 이는 지난달 전 세계 반도체 주식 시장의 폭락을 유발한 계기로 꼽혔다. 파이낸셜타임스(FT)는 31일 과도한 부채와 주가 폭락으로 파산 위기에 처했던 아셴브레너의 헤지펀드 시튜에이셔널 어웨어니스(Situational Awareness)의 상장 주식 포트폴리오를 대형 헤지펀드 시타델이 전격 인수하면서 글로벌 AI 기술주 시장의 3조달러",
+   "publishedAt": 1785664476000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 29.8,
+   "hot": false,
+   "lastWeekRank": 63
   },
   {
    "title": "Progressive Web Components",
@@ -1363,7 +1363,7 @@
    "comments": 55,
    "publishedAt": 1785492280000,
    "isAI": false,
-   "score": 29.8,
+   "score": 29.6,
    "hot": false,
    "lastWeekRank": 77
   },
@@ -1377,24 +1377,9 @@
    "summary": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a result, scientists and AI agents need to locate relevant information, verify their provenance, and assemb",
    "publishedAt": 1785355200000,
    "isAI": true,
-   "score": 29.8,
+   "score": 29.6,
    "hot": false,
    "lastWeekRank": 83
-  },
-  {
-   "title": "아크릴 “GPUBASE로 GPU 활용률 90% 달성…소버린 AI 완성”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213425",
-   "summary": "“GPU를 확보하는 것만으로 AI 경쟁력이 자동으로 생기는 것은 아닙니다. 앞으로 더 중요한 문제는 확보한 GPU를 얼마나 효율적으로 운영하고, 안정적으로 활용할 수 있게 만드느냐입니다.”아크릴(대표 박외진)이 독자 개발한 GPU 클러스터 최적화 소프트웨어 ‘GPU베이스(GPUBASE)’를 앞세워 대규모 AI 인프라 시장 공략에 나선다.아크릴은 GPU베이스의 기술력을 입증하기 위해 해외 주요 클라우드 기업들과 협업해 성능 입증에 성공했다. 500~1000장 규모의 GPU를 한번에 구동하는 조건을 충족한 뒤 GPU베이스의 성능·확장성",
-   "publishedAt": 1785658800000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 29.7,
-   "hot": false,
-   "lastWeekRank": 70
   },
   {
    "title": "Google will expand age checks on Android worldwide till the end of the year",
@@ -1407,7 +1392,7 @@
    "comments": 523,
    "publishedAt": 1785406426000,
    "isAI": false,
-   "score": 29.6,
+   "score": 29.5,
    "hot": false,
    "lastWeekRank": 82
   },
@@ -1417,28 +1402,28 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 282,
+   "engagement": 283,
    "summary": "GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execute workflows across platforms, combine GUI interaction with CLI execution, complete long-horizon tas",
    "publishedAt": 1785355200000,
    "isAI": true,
-   "score": 29.6,
+   "score": 29.5,
    "hot": false,
    "lastWeekRank": 85
   },
   {
-   "title": "Stripe가 원하는 것은 숫자 하나뿐",
-   "url": "https://news.hada.io/topic?id=32032",
-   "summary": "exe는 제품 로직 곳곳에서 결제 API를 직접 호출하는 대신, 상태 변화를 청구 가능 사실(billable facts) 로 기록하고 확정된 상태를 Stripe와 조정함 기존 구조에서는 데이터베이스 트랜잭션과 결제 API 호출이 얽혀 부분 실패 , 비정상 구독 상태, 결제 거절 같은...",
-   "publishedAt": 1785574888000,
-   "source": "GeekNews",
-   "sourceType": "community",
+   "title": "아크릴 “GPUBASE로 GPU 활용률 90% 달성…소버린 AI 완성”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213425",
+   "summary": "“GPU를 확보하는 것만으로 AI 경쟁력이 자동으로 생기는 것은 아닙니다. 앞으로 더 중요한 문제는 확보한 GPU를 얼마나 효율적으로 운영하고, 안정적으로 활용할 수 있게 만드느냐입니다.”아크릴(대표 박외진)이 독자 개발한 GPU 클러스터 최적화 소프트웨어 ‘GPU베이스(GPUBASE)’를 앞세워 대규모 AI 인프라 시장 공략에 나선다.아크릴은 GPU베이스의 기술력을 입증하기 위해 해외 주요 클라우드 기업들과 협업해 성능 입증에 성공했다. 500~1000장 규모의 GPU를 한번에 구동하는 조건을 충족한 뒤 GPU베이스의 성능·확장성",
+   "publishedAt": 1785658800000,
+   "source": "AI타임스",
+   "sourceType": "media",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 29.6,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 29.4,
    "hot": false,
-   "lastWeekRank": 74
+   "lastWeekRank": 70
   },
   {
    "title": "Arch Linux disables AUR package adoption",
@@ -1451,9 +1436,24 @@
    "comments": 124,
    "publishedAt": 1785506255000,
    "isAI": false,
-   "score": 29.5,
+   "score": 29.3,
    "hot": false,
    "lastWeekRank": 78
+  },
+  {
+   "title": "Stripe가 원하는 것은 숫자 하나뿐",
+   "url": "https://news.hada.io/topic?id=32032",
+   "summary": "exe는 제품 로직 곳곳에서 결제 API를 직접 호출하는 대신, 상태 변화를 청구 가능 사실(billable facts) 로 기록하고 확정된 상태를 Stripe와 조정함 기존 구조에서는 데이터베이스 트랜잭션과 결제 API 호출이 얽혀 부분 실패 , 비정상 구독 상태, 결제 거절 같은...",
+   "publishedAt": 1785574888000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 29.3,
+   "hot": false,
+   "lastWeekRank": 74
   },
   {
    "title": "Claude: Elevated errors across all models – Resolved",
@@ -1466,7 +1466,7 @@
    "comments": 247,
    "publishedAt": 1785354642000,
    "isAI": true,
-   "score": 29.4,
+   "score": 29.2,
    "hot": false,
    "lastWeekRank": 86
   },
@@ -1481,7 +1481,7 @@
    "comments": 74,
    "publishedAt": 1785476713000,
    "isAI": false,
-   "score": 29.3,
+   "score": 29.1,
    "hot": false,
    "lastWeekRank": 81
   }
