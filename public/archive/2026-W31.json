@@ -1,5 +1,5 @@
 {
- "updatedAt": 1785643414267,
+ "updatedAt": 1785647076239,
  "week": "2026-W31",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 214,
-   "comments": 190,
+   "engagement": 228,
+   "comments": 205,
    "publishedAt": 1785623112000,
    "isAI": true,
-   "score": 55.9,
+   "score": 55.8,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 447,
-   "comments": 158,
+   "engagement": 464,
+   "comments": 160,
    "publishedAt": 1785607627000,
    "isAI": false,
-   "score": 52.5,
+   "score": 52.3,
    "hot": true
   },
   {
@@ -41,7 +41,7 @@
    "comments": 152,
    "publishedAt": 1785521098000,
    "isAI": true,
-   "score": 50.3,
+   "score": 49.8,
    "hot": false
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 595,
+   "engagement": 597,
    "comments": 215,
    "publishedAt": 1785524625000,
    "isAI": true,
-   "score": 50.1,
+   "score": 49.7,
    "hot": false
   },
   {
@@ -66,10 +66,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 250,
-   "comments": 267,
+   "comments": 268,
    "publishedAt": 1785570730000,
    "isAI": true,
-   "score": 49.5,
+   "score": 49,
    "hot": true
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 260,
+   "engagement": 262,
    "comments": 185,
    "publishedAt": 1785613183000,
    "isAI": false,
-   "score": 48.7,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -97,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -107,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 257,
+   "engagement": 258,
    "comments": 67,
    "publishedAt": 1785552309000,
    "isAI": true,
-   "score": 47.4,
+   "score": 47,
    "hot": false
   },
   {
@@ -121,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 128,
-   "comments": 116,
+   "engagement": 129,
+   "comments": 117,
    "publishedAt": 1785589014000,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.2,
    "hot": false
   },
   {
@@ -135,11 +135,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 728,
+   "engagement": 730,
    "comments": 343,
    "publishedAt": 1785478116000,
    "isAI": true,
-   "score": 46.3,
+   "score": 46,
    "hot": false
   },
   {
@@ -147,20 +147,6 @@
    "url": "https://news.hada.io/topic?id=32044",
    "summary": "AI는 몇 분 만에 UI와 데이터베이스를 갖춘 프로토타입을 만들지만, 첫 작동 버전에서 프로덕션급 제품 까지의 거리를 줄여주지는 못함 실제 제품에는 확장성, 오류 처리, 관측 가능성, 보안, 인증, 데이터 구조처럼 문법 작성보다 공학적 판단 이 필요한 문제가 남아...",
    "publishedAt": 1785616363000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.2,
-   "hot": true
-  },
-  {
-   "title": "Claude 사이버보안 평가가 실제 조직 3곳을 침해한 사건",
-   "url": "https://news.hada.io/topic?id=32043",
-   "summary": "Anthropic이 인터넷 접근 가능성이 있던 Claude 평가 141,006회 를 검토한 결과, 제3자 평가 환경을 거쳐 실제 조직 3곳의 프로덕션 인프라에 무단 접근한 사건 3건을 확인함 Claude는 인터넷이 차단된 시뮬레이션이라는 프롬프트를 받았지만 환경 오설정 으로 실제 ...",
-   "publishedAt": 1785612790000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -177,12 +163,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 580,
+   "engagement": 581,
    "comments": 311,
    "publishedAt": 1785484751000,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.2,
    "hot": false
+  },
+  {
+   "title": "Claude 사이버보안 평가가 실제 조직 3곳을 침해한 사건",
+   "url": "https://news.hada.io/topic?id=32043",
+   "summary": "Anthropic이 인터넷 접근 가능성이 있던 Claude 평가 141,006회 를 검토한 결과, 제3자 평가 환경을 거쳐 실제 조직 3곳의 프로덕션 인프라에 무단 접근한 사건 3건을 확인함 Claude는 인터넷이 차단된 시뮬레이션이라는 프롬프트를 받았지만 환경 오설정 으로 실제 ...",
+   "publishedAt": 1785612790000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 45.2,
+   "hot": true
   },
   {
    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
@@ -191,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 556,
+   "engagement": 557,
    "comments": 605,
    "publishedAt": 1785482962000,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.8,
    "hot": false
   },
   {
@@ -209,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -223,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -237,8 +237,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.3,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "Ten advances in mathematics and theoretical computer science",
@@ -251,7 +251,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
+   "hot": false
+  },
+  {
+   "title": "Postmortem for Kernel Soundness Bug #14576",
+   "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49137060",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 133,
+   "comments": 45,
+   "publishedAt": 1785609140000,
+   "isAI": false,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -265,22 +279,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 42,
+   "score": 41.5,
    "hot": true
-  },
-  {
-   "title": "Postmortem for Kernel Soundness Bug #14576",
-   "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49137060",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 124,
-   "comments": 45,
-   "publishedAt": 1785609140000,
-   "isAI": false,
-   "score": 41.7,
-   "hot": false
   },
   {
    "title": "Is AI reasoning right for the wrong reasons?",
@@ -289,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 200,
+   "engagement": 203,
    "comments": 230,
    "publishedAt": 1785511779000,
    "isAI": true,
-   "score": 41.3,
+   "score": 41,
    "hot": false
   },
   {
@@ -307,7 +307,7 @@
    "comments": 398,
    "publishedAt": 1785431751000,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -321,21 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
-   "hot": true
-  },
-  {
-   "title": "Google은 Google News를 방치했나?",
-   "url": "https://news.hada.io/topic?id=32049",
-   "summary": "관심 주제의 미국 뉴스를 찾는 데 쓰던 Google News 검색 이 지정 조건과 무관한 결과를 내놓으면서 신뢰하기 어려워짐 Tools 메뉴에서 발행 기간·언어·지역을 지정할 수 있지만, 이들 검색 필터가 차례로 작동하지 않게 됨 검색 결과의 상당 부분을 뉴스 ...",
-   "publishedAt": 1785634394000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -349,8 +335,22 @@
    "comments": 530,
    "publishedAt": 1785424548000,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.4,
    "hot": false
+  },
+  {
+   "title": "Google은 Google News를 방치했나?",
+   "url": "https://news.hada.io/topic?id=32049",
+   "summary": "관심 주제의 미국 뉴스를 찾는 데 쓰던 Google News 검색 이 지정 조건과 무관한 결과를 내놓으면서 신뢰하기 어려워짐 Tools 메뉴에서 발행 기간·언어·지역을 지정할 수 있지만, 이들 검색 필터가 차례로 작동하지 않게 됨 검색 결과의 상당 부분을 뉴스 ...",
+   "publishedAt": 1785634394000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.4,
+   "hot": true
   },
   {
    "title": "Advancing responsible AI across Europe",
@@ -363,7 +363,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -377,7 +377,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -391,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -405,7 +405,7 @@
    "comments": 176,
    "publishedAt": 1785453736000,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -419,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -433,7 +433,7 @@
    "comments": 85,
    "publishedAt": 1785521199000,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -447,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -461,7 +461,7 @@
    "comments": 167,
    "publishedAt": 1785505056000,
    "isAI": true,
-   "score": 39,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -475,7 +475,7 @@
    "comments": 234,
    "publishedAt": 1785432667000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -489,7 +489,7 @@
    "comments": 139,
    "publishedAt": 1785497832000,
    "isAI": true,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -503,7 +503,7 @@
    "comments": 119,
    "publishedAt": 1785440067000,
    "isAI": true,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -517,7 +517,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -531,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -545,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -559,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -573,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -587,7 +587,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -601,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -615,7 +615,7 @@
    "comments": 425,
    "publishedAt": 1785411944000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -629,21 +629,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.6,
-   "hot": false
-  },
-  {
-   "title": "29GB RAM에서 Kimi K3를 0.50 tok/s로 실행하기",
-   "url": "https://news.hada.io/topic?id=32035",
-   "summary": "WASTE 는 2.78조 파라미터의 완전한 Kimi K3 오픈 가중치 모델을 축소 없이 982GiB 컨테이너로 변환해 소비자용 노트북에서 실행하는 C 기반 추론 엔진임 모델의 상주 트렁크만 메모리에 두고 토큰마다 활성화되는 약 4%의 전문가 가중치 를 NVMe에서 읽으며, 남은 R...",
-   "publishedAt": 1785594731000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.5,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -657,7 +643,21 @@
    "comments": 319,
    "publishedAt": 1785360340000,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.2,
+   "hot": false
+  },
+  {
+   "title": "29GB RAM에서 Kimi K3를 0.50 tok/s로 실행하기",
+   "url": "https://news.hada.io/topic?id=32035",
+   "summary": "WASTE 는 2.78조 파라미터의 완전한 Kimi K3 오픈 가중치 모델을 축소 없이 982GiB 컨테이너로 변환해 소비자용 노트북에서 실행하는 C 기반 추론 엔진임 모델의 상주 트렁크만 메모리에 두고 토큰마다 활성화되는 약 4%의 전문가 가중치 를 NVMe에서 읽으며, 남은 R...",
+   "publishedAt": 1785594731000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -671,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -685,21 +685,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "Sam Altman is still making the case for parenting via ChatGPT",
-   "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-   "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-   "publishedAt": 1785604054000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.7,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -713,7 +699,21 @@
    "comments": 161,
    "publishedAt": 1785471304000,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.3,
+   "hot": false
+  },
+  {
+   "title": "Sam Altman is still making the case for parenting via ChatGPT",
+   "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+   "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+   "publishedAt": 1785604054000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -727,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -741,7 +741,7 @@
    "comments": 77,
    "publishedAt": 1785475049000,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -755,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -769,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -783,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -797,7 +797,7 @@
    "comments": 42,
    "publishedAt": 1785533992000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -811,20 +811,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "Stripe가 원하는 것은 숫자 하나뿐",
-   "url": "https://news.hada.io/topic?id=32032",
-   "summary": "exe는 제품 로직 곳곳에서 결제 API를 직접 호출하는 대신, 상태 변화를 청구 가능 사실(billable facts) 로 기록하고 확정된 상태를 Stripe와 조정함 기존 구조에서는 데이터베이스 트랜잭션과 결제 API 호출이 얽혀 부분 실패 , 비정상 구독 상태, 결제 거절 같은...",
-   "publishedAt": 1785574888000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 34.6,
    "hot": false
   },
@@ -839,7 +825,21 @@
    "comments": 107,
    "publishedAt": 1785365463000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "Stripe가 원하는 것은 숫자 하나뿐",
+   "url": "https://news.hada.io/topic?id=32032",
+   "summary": "exe는 제품 로직 곳곳에서 결제 API를 직접 호출하는 대신, 상태 변화를 청구 가능 사실(billable facts) 로 기록하고 확정된 상태를 Stripe와 조정함 기존 구조에서는 데이터베이스 트랜잭션과 결제 API 호출이 얽혀 부분 실패 , 비정상 구독 상태, 결제 거절 같은...",
+   "publishedAt": 1785574888000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -853,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -867,21 +867,7 @@
    "comments": 73,
    "publishedAt": 1785435186000,
    "isAI": true,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "속도의 종교",
-   "url": "https://news.hada.io/topic?id=32030",
-   "summary": "“빠르게 움직이기”가 실무적 필요를 넘어 진지함과 야망의 증거 가 되면서, 신중한 검토는 추진력을 방해하는 태도로 취급됨 진짜 속도는 업무·제약·의존성을 이해하고 명확히 결정한 뒤 실행할 때 나오지만, 많은 조직은 모호한 요구사항과 미완의 결정 을 속도로...",
-   "publishedAt": 1785565964000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.8,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -895,7 +881,21 @@
    "comments": 52,
    "publishedAt": 1785492280000,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "속도의 종교",
+   "url": "https://news.hada.io/topic?id=32030",
+   "summary": "“빠르게 움직이기”가 실무적 필요를 넘어 진지함과 야망의 증거 가 되면서, 신중한 검토는 추진력을 방해하는 태도로 취급됨 진짜 속도는 업무·제약·의존성을 이해하고 명확히 결정한 뒤 실행할 때 나오지만, 많은 조직은 모호한 요구사항과 미완의 결정 을 속도로...",
+   "publishedAt": 1785565964000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -906,24 +906,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 157,
-   "comments": 119,
+   "comments": 120,
    "publishedAt": 1785506255000,
    "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "구글, 크롬에 '제미나이 스파크' 통합...웹 브라우징 자동화 지원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213447",
-   "summary": "구글이 AI 에이전트 '제미나이 스파크(Gemini Spark)'를 웹 브라우저 크롬(Chrome)과 통합하고, 서비스 제공 국가도 대폭 확대했다. 이번 업데이트는 제미나이 스파크를 웹 브라우저를 조작하고 다양한 온라인 작업을 수행하는 AI 에이전트로 발전시키기 위한 전략으로 풀이된다.구글은 30일(현지시간) 제미나이 스파크의 웹 브라우징 기능을 강화하기 위해 크롬과 직접 연동하는 기능을 도입했다고 발표했다.새로운 기능을 이용하면 스파크는 사용자의 동의를 받은 뒤 크롬에 저장된 로그인 정보와 계정을 활용해 여러 단계의 웹 작업을 대",
-   "publishedAt": 1785639601000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -937,7 +923,21 @@
    "comments": 174,
    "publishedAt": 1785416607000,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "구글, 크롬에 '제미나이 스파크' 통합...웹 브라우징 자동화 지원",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213447",
+   "summary": "구글이 AI 에이전트 '제미나이 스파크(Gemini Spark)'를 웹 브라우저 크롬(Chrome)과 통합하고, 서비스 제공 국가도 대폭 확대했다. 이번 업데이트는 제미나이 스파크를 웹 브라우저를 조작하고 다양한 온라인 작업을 수행하는 AI 에이전트로 발전시키기 위한 전략으로 풀이된다.구글은 30일(현지시간) 제미나이 스파크의 웹 브라우징 기능을 강화하기 위해 크롬과 직접 연동하는 기능을 도입했다고 발표했다.새로운 기능을 이용하면 스파크는 사용자의 동의를 받은 뒤 크롬에 저장된 로그인 정보와 계정을 활용해 여러 단계의 웹 작업을 대",
+   "publishedAt": 1785639601000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -951,7 +951,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -965,7 +965,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -979,48 +979,6 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "\"오픈AI·앤트로픽 모델로 학습\"…중국, '증류'로 군사용 AI 개발",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213441",
-   "summary": "중국 군사 연구 기관들이 오픈AI와 앤트로픽의 최첨단 AI 모델 출력을 활용해 자국 군사용 AI 시스템을 개발하고 있는 것으로 나타났다. 미국의 첨단 반도체 및 AI 기술 수출 통제에도 불구하고 중국이 '증류(Distillation)' 기법을 통해 미국 선도 AI 기술을 흡수하며 국방 AI 역량을 강화하고 있다는 분석이 제기된다.로이터는 31일(현지시간) 중국 인민해방군(PLA)과 군 관련 연구 기관들이 오픈AI와 앤트로픽의 AI 모델을 활용해 자체 AI 시스템을 개발한 사례가 광범위하게 확인됐다고 보도했다. 이는 워싱턴의 싱크탱크",
-   "publishedAt": 1785636197000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "미네소타, 미국 최초 'AI 누드 이미지 금지법' 효력 유지...xAI 가처분 기각",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213445",
-   "summary": "미국 연방법원이 일론 머스크 CEO의 xAI가 제기한 미네소타주의 '누디파이(nudify)' 기술 금지법 시행 중단 요청을 기각했다. 이에 따라 미국 최초로 AI를 이용한 누드 이미지 생성 기술을 금지하는 주법이 예정대로 시행될 전망이다.NBC에 따르면, 미네소타 연방지방법원의 도너번 프랭크 판사는 31일(현지시간) xAI가 제기한 임시 효력정지 명령(Temporary Restraining Order) 신청을 받아들이지 않았다.판사는 xAI가 법 시행을 불과 사흘 앞두고 소송을 제기한 점을 지적하며 \"소송 제기가 지나치게 늦었다는",
-   "publishedAt": 1785635152000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Gander, an Android file viewer that asks for no permissions",
-   "url": "https://github.com/mokshablr/gander",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49119425",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 203,
-   "comments": 72,
-   "publishedAt": 1785476713000,
-   "isAI": false,
    "score": 33,
    "hot": false
   },
@@ -1035,28 +993,42 @@
    "comments": 340,
    "publishedAt": 1785337543000,
    "isAI": false,
-   "score": 33,
+   "score": 32.9,
    "hot": false
   },
   {
-   "title": "순천, 중·장년 남성 요리교실 모집…은퇴 후 식생활 자립 돕는다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213411",
-   "summary": "AI 생성 영상순천시가 은퇴 이후 건강한 식생활과 생활 자립을 준비하는 중·장년 남성을 대상으로 ‘2026년 하반기 중·장년 남성 요리교실’ 수강생을 모집한다.칼과 도마 사용이 낯선 요리 초보자도 기본 찌개와 반찬을 직접 만들어 볼 수 있도록 기초부터 실습 중심으로 교육한다.순천은 인생이모작지원센터에서 중년 남성 요리교실을 9월부터 11월까지 약 3개월간 모두 10회 과정으로 진행한다고 지난 31일 밝혔다. 신청 기간은 8월 6일부터 19일까지다. 대상은 순천시에 거주하는 46세부터 64세까지의 중·장년 남성이다.교육은 일상에서 활",
-   "publishedAt": 1785631200000,
+   "title": "\"오픈AI·앤트로픽 모델로 학습\"…중국, '증류'로 군사용 AI 개발",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213441",
+   "summary": "중국 군사 연구 기관들이 오픈AI와 앤트로픽의 최첨단 AI 모델 출력을 활용해 자국 군사용 AI 시스템을 개발하고 있는 것으로 나타났다. 미국의 첨단 반도체 및 AI 기술 수출 통제에도 불구하고 중국이 '증류(Distillation)' 기법을 통해 미국 선도 AI 기술을 흡수하며 국방 AI 역량을 강화하고 있다는 분석이 제기된다.로이터는 31일(현지시간) 중국 인민해방군(PLA)과 군 관련 연구 기관들이 오픈AI와 앤트로픽의 AI 모델을 활용해 자체 AI 시스템을 개발한 사례가 광범위하게 확인됐다고 보도했다. 이는 워싱턴의 싱크탱크",
+   "publishedAt": 1785636197000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Gander, an Android file viewer that asks for no permissions",
+   "url": "https://github.com/mokshablr/gander",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49119425",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 203,
+   "comments": 72,
+   "publishedAt": 1785476713000,
+   "isAI": false,
    "score": 32.8,
    "hot": false
   },
   {
-   "title": "목포, 폭염경보 대응…무더위쉼터 223곳 운영",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213377",
-   "summary": "AI 생성 영상목포시가 폭염주의보와 열대야주의보가 이어지자 폭염경보 수준의 대응체계를 선제적으로 가동했다고 31일 밝혔다. 취약계층 건강 확인과 폭염 저감시설 운영을 강화하고, 열대야에 대비해 무더위쉼터 이용시간도 연장한다.목포는 폭염에 취약한 시민에게 휴대용 선풍기와 쿨토시, 식염포도당캔디, 생수 등을 지원하고 있다. 노인맞춤돌봄서비스 생활지원사 등은 대상 가정을 방문하거나 전화해 건강 상태와 생활 불편 여부를 확인한다.지역 통장과 동 자생조직을 통한 폭염 행동요령 안내도 진행한다. 목포는 한낮 야외활동을 줄이고 충분한 수분을 섭",
-   "publishedAt": 1785631200000,
+   "title": "미네소타, 미국 최초 'AI 누드 이미지 금지법' 효력 유지...xAI 가처분 기각",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213445",
+   "summary": "미국 연방법원이 일론 머스크 CEO의 xAI가 제기한 미네소타주의 '누디파이(nudify)' 기술 금지법 시행 중단 요청을 기각했다. 이에 따라 미국 최초로 AI를 이용한 누드 이미지 생성 기술을 금지하는 주법이 예정대로 시행될 전망이다.NBC에 따르면, 미네소타 연방지방법원의 도너번 프랭크 판사는 31일(현지시간) xAI가 제기한 임시 효력정지 명령(Temporary Restraining Order) 신청을 받아들이지 않았다.판사는 xAI가 법 시행을 불과 사흘 앞두고 소송을 제기한 점을 지적하며 \"소송 제기가 지나치게 늦었다는",
+   "publishedAt": 1785635152000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
@@ -1077,7 +1049,7 @@
    "comments": 517,
    "publishedAt": 1785406426000,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1091,7 +1063,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "순천, 중·장년 남성 요리교실 모집…은퇴 후 식생활 자립 돕는다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213411",
+   "summary": "AI 생성 영상순천시가 은퇴 이후 건강한 식생활과 생활 자립을 준비하는 중·장년 남성을 대상으로 ‘2026년 하반기 중·장년 남성 요리교실’ 수강생을 모집한다.칼과 도마 사용이 낯선 요리 초보자도 기본 찌개와 반찬을 직접 만들어 볼 수 있도록 기초부터 실습 중심으로 교육한다.순천은 인생이모작지원센터에서 중년 남성 요리교실을 9월부터 11월까지 약 3개월간 모두 10회 과정으로 진행한다고 지난 31일 밝혔다. 신청 기간은 8월 6일부터 19일까지다. 대상은 순천시에 거주하는 46세부터 64세까지의 중·장년 남성이다.교육은 일상에서 활",
+   "publishedAt": 1785631200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.4,
+   "hot": false
+  },
+  {
+   "title": "목포, 폭염경보 대응…무더위쉼터 223곳 운영",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213377",
+   "summary": "AI 생성 영상목포시가 폭염주의보와 열대야주의보가 이어지자 폭염경보 수준의 대응체계를 선제적으로 가동했다고 31일 밝혔다. 취약계층 건강 확인과 폭염 저감시설 운영을 강화하고, 열대야에 대비해 무더위쉼터 이용시간도 연장한다.목포는 폭염에 취약한 시민에게 휴대용 선풍기와 쿨토시, 식염포도당캔디, 생수 등을 지원하고 있다. 노인맞춤돌봄서비스 생활지원사 등은 대상 가정을 방문하거나 전화해 건강 상태와 생활 불편 여부를 확인한다.지역 통장과 동 자생조직을 통한 폭염 행동요령 안내도 진행한다. 목포는 한낮 야외활동을 줄이고 충분한 수분을 섭",
+   "publishedAt": 1785631200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1105,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1119,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1133,7 +1133,7 @@
    "comments": 299,
    "publishedAt": 1785325473000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1146,7 +1146,7 @@
    "summary": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a result, scientists and AI agents need to locate relevant information, verify their provenance, and assemb",
    "publishedAt": 1785355200000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1159,7 +1159,7 @@
    "summary": "GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execute workflows across platforms, combine GUI interaction with CLI execution, complete long-horizon tas",
    "publishedAt": 1785355200000,
    "isAI": true,
-   "score": 32.2,
+   "score": 32,
    "hot": false
   },
   {
@@ -1173,35 +1173,7 @@
    "comments": 247,
    "publishedAt": 1785354642000,
    "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "리팩터링이 만드는 경제적 이점",
-   "url": "https://news.hada.io/topic?id=32029",
-   "summary": "에이전트가 작성한 17,155줄 규모의 Rust 데이터 접근 계층 을 단계적으로 리팩터링하자, 같은 기능 변경에 필요한 입력 토큰이 159,564개에서 27,360개로 83% 감소 함 전체 코드량은 거의 그대로였지만 관련 코드를 응집도 높은 파일로 분리하면서, 에이전트가 변경...",
-   "publishedAt": 1785544422000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "shirei - 실용적인 Go 기반 GUI 프레임워크",
-   "url": "https://news.hada.io/topic?id=32028",
-   "summary": "HTML/JavaScript 대신 Go 코드만으로 UI를 작성 하는 크로스플랫폼 GUI 프레임워크 동일 코드베이스로 macOS, Windows, Linux에서 동일한 외형의 프로그램 생성 개발용 백엔드는 iOS/Android(유틸리티형 앱)까지 대상으로 함 Linux에서는",
-   "publishedAt": 1785544262000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1215,35 +1187,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 32,
+   "score": 31.8,
    "hot": false
   },
   {
-   "title": "더 작고 일관된 난수 API를 위해 rand를 포크한 이유",
-   "url": "https://news.hada.io/topic?id=32027",
-   "summary": "Rust의 대표 난수 크레이트 rand 는 일상적인 연산이 여러 특성에 흩어져 있어, 더 작은 공개·구현 표면과 일관된 사용 경험을 갖춘 urandom 을 개발함 고수준 연산을 하나의 Random 구조체에 모으고 Rng 특성을 봉인해, 임의 생성기 지원보다...",
-   "publishedAt": 1785542833000,
+   "title": "리팩터링이 만드는 경제적 이점",
+   "url": "https://news.hada.io/topic?id=32029",
+   "summary": "에이전트가 작성한 17,155줄 규모의 Rust 데이터 접근 계층 을 단계적으로 리팩터링하자, 같은 기능 변경에 필요한 입력 토큰이 159,564개에서 27,360개로 83% 감소 함 전체 코드량은 거의 그대로였지만 관련 코드를 응집도 높은 파일로 분리하면서, 에이전트가 변경...",
+   "publishedAt": 1785544422000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.8,
+   "score": 31.7,
    "hot": false
   },
   {
-   "title": "Go 1.27 대화형 투어",
-   "url": "https://news.hada.io/topic?id=32026",
-   "summary": "이번 릴리스는 제네릭 메서드 를 중심으로 구조체 리터럴과 타입 추론을 개선하고, 표준 라이브러리·런타임·도구 체인 전반에 실용적인 기능을 더함 크기 특화 메모리 할당 으로 80바이트 미만인 일부 할당 비용을 최대 30% 줄이며, 할당 집약형 프로그램에서는 약 1...",
-   "publishedAt": 1785542653000,
+   "title": "shirei - 실용적인 Go 기반 GUI 프레임워크",
+   "url": "https://news.hada.io/topic?id=32028",
+   "summary": "HTML/JavaScript 대신 Go 코드만으로 UI를 작성 하는 크로스플랫폼 GUI 프레임워크 동일 코드베이스로 macOS, Windows, Linux에서 동일한 외형의 프로그램 생성 개발용 백엔드는 iOS/Android(유틸리티형 앱)까지 대상으로 함 Linux에서는",
+   "publishedAt": 1785544262000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.8,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1257,7 +1229,35 @@
    "comments": 545,
    "publishedAt": 1785133090000,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "더 작고 일관된 난수 API를 위해 rand를 포크한 이유",
+   "url": "https://news.hada.io/topic?id=32027",
+   "summary": "Rust의 대표 난수 크레이트 rand 는 일상적인 연산이 여러 특성에 흩어져 있어, 더 작은 공개·구현 표면과 일관된 사용 경험을 갖춘 urandom 을 개발함 고수준 연산을 하나의 Random 구조체에 모으고 Rng 특성을 봉인해, 임의 생성기 지원보다...",
+   "publishedAt": 1785542833000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "Go 1.27 대화형 투어",
+   "url": "https://news.hada.io/topic?id=32026",
+   "summary": "이번 릴리스는 제네릭 메서드 를 중심으로 구조체 리터럴과 타입 추론을 개선하고, 표준 라이브러리·런타임·도구 체인 전반에 실용적인 기능을 더함 크기 특화 메모리 할당 으로 80바이트 미만인 일부 할당 비용을 최대 30% 줄이며, 할당 집약형 프로그램에서는 약 1...",
+   "publishedAt": 1785542653000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1271,7 +1271,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1285,21 +1285,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
-   "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49122838",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 113,
-   "comments": 74,
-   "publishedAt": 1785504243000,
-   "isAI": false,
-   "score": 31.3,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1313,21 +1299,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 31.3,
+   "score": 31.1,
    "hot": false
   },
   {
-   "title": "AI 미학",
-   "url": "https://news.hada.io/topic?id=32004",
-   "summary": "기술적 제약에 대응해 등장한 디자인 관용구 중 일부는 유행을 넘어 보편적인 소프트웨어 상호작용 방식으로 자리 잡음 AI 인터페이스는 ✨, 무지개색, 스트리밍 텍스트 처럼 AI를 상징하거나 대화형 작동 방식에 특화된 시각·행동 패턴을 만들어냄 AI의 ‘...",
-   "publishedAt": 1785456464000,
-   "source": "GeekNews",
+   "title": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49122838",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 31.2,
+   "lang": "en",
+   "engagement": 113,
+   "comments": 74,
+   "publishedAt": 1785504243000,
+   "isAI": false,
+   "score": 31,
    "hot": false
   },
   {
@@ -1341,7 +1327,21 @@
    "comments": 257,
    "publishedAt": 1785270513000,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.9,
+   "hot": false
+  },
+  {
+   "title": "AI 미학",
+   "url": "https://news.hada.io/topic?id=32004",
+   "summary": "기술적 제약에 대응해 등장한 디자인 관용구 중 일부는 유행을 넘어 보편적인 소프트웨어 상호작용 방식으로 자리 잡음 AI 인터페이스는 ✨, 무지개색, 스트리밍 텍스트 처럼 AI를 상징하거나 대화형 작동 방식에 특화된 시각·행동 패턴을 만들어냄 AI의 ‘...",
+   "publishedAt": 1785456464000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1355,7 +1355,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.7,
    "hot": false
   },
   {
@@ -1369,21 +1369,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.7,
-   "hot": false
-  },
-  {
-   "title": "엘리베이터 배차 알고리듬",
-   "url": "https://news.hada.io/topic?id=32021",
-   "summary": "엘리베이터 운행은 단순한 호출 응답이 아니라 차량 수, 승객 흐름, 적재량, 이동 방향을 함께 고려하는 배차 최적화 문제 임 단일 차량용 SCAN 은 최상층에서 방향을 바꾸지만, LOOK은 실제 요청이 있는 가장 높은 층에서 되돌아가 일반적인 운행 기대에 더 가까움...",
-   "publishedAt": 1785526525000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 30.6,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1397,7 +1383,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 30.6,
+   "score": 30.4,
+   "hot": false
+  },
+  {
+   "title": "엘리베이터 배차 알고리듬",
+   "url": "https://news.hada.io/topic?id=32021",
+   "summary": "엘리베이터 운행은 단순한 호출 응답이 아니라 차량 수, 승객 흐름, 적재량, 이동 방향을 함께 고려하는 배차 최적화 문제 임 단일 차량용 SCAN 은 최상층에서 방향을 바꾸지만, LOOK은 실제 요청이 있는 가장 높은 층에서 되돌아가 일반적인 운행 기대에 더 가까움...",
+   "publishedAt": 1785526525000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 30.3,
    "hot": false
   }
  ]
