@@ -1,5 +1,5 @@
 {
- "updatedAt": 1785842157993,
+ "updatedAt": 1785845799358,
  "week": "2026-W32",
  "items": [
   {
@@ -13,8 +13,8 @@
    "comments": 365,
    "publishedAt": 1785756534000,
    "isAI": true,
-   "score": 55.7,
-   "hot": true
+   "score": 55.2,
+   "hot": false
   },
   {
    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 497,
-   "comments": 407,
+   "engagement": 503,
+   "comments": 415,
    "publishedAt": 1785749527000,
    "isAI": true,
-   "score": 52.1,
+   "score": 51.7,
    "hot": false
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 627,
-   "comments": 208,
+   "engagement": 635,
+   "comments": 211,
    "publishedAt": 1785766547000,
    "isAI": false,
-   "score": 49.7,
+   "score": 49.4,
    "hot": true
   },
   {
@@ -51,8 +51,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 203,
-   "comments": 89,
+   "engagement": 216,
+   "comments": 98,
    "publishedAt": 1785776055000,
    "isAI": true,
    "score": 48.7,
@@ -65,8 +65,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 205,
-   "comments": 195,
+   "engagement": 216,
+   "comments": 209,
    "publishedAt": 1785821533000,
    "isAI": false,
    "score": 47.9,
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 222,
+   "engagement": 224,
    "comments": 80,
    "publishedAt": 1785755748000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.5,
    "hot": false
   },
   {
@@ -93,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 131,
+   "engagement": 132,
    "comments": 158,
    "publishedAt": 1785787341000,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.3,
    "hot": false
   },
   {
@@ -111,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -125,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -139,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -153,8 +153,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "LLM은 전문성을 보상함",
@@ -167,8 +167,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.2,
-   "hot": true
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "How we built a realtime system for responsive voice AI in six months",
@@ -181,7 +181,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -191,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 205,
+   "engagement": 206,
    "comments": 106,
    "publishedAt": 1785724230000,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -209,7 +209,21 @@
    "comments": 32,
    "publishedAt": 1785755175000,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.3,
+   "hot": false
+  },
+  {
+   "title": "Circles powers telco personalization with OpenAI technology",
+   "url": "https://openai.com/index/circles",
+   "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+   "publishedAt": 1785715200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -223,22 +237,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.8,
    "hot": true
-  },
-  {
-   "title": "Circles powers telco personalization with OpenAI technology",
-   "url": "https://openai.com/index/circles",
-   "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-   "publishedAt": 1785715200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 41.2,
-   "hot": false
   },
   {
    "title": "Pandoc 20년: Haskell 학습 프로젝트에서 범용 문서 변환기로",
@@ -251,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -261,11 +261,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 124,
+   "engagement": 125,
    "comments": 108,
    "publishedAt": 1785740840000,
    "isAI": true,
-   "score": 41,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -279,8 +279,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
+  },
+  {
+   "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+   "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49162086",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 115,
+   "comments": 67,
+   "publishedAt": 1785794689000,
+   "isAI": false,
+   "score": 39.2,
+   "hot": false
   },
   {
    "title": "ICE, 2025년 어린이 포함 약 100만 명의 DNA 수집",
@@ -293,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -303,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 235,
+   "engagement": 236,
    "comments": 99,
    "publishedAt": 1785739320000,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": false
   },
   {
@@ -321,22 +335,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
-  },
-  {
-   "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-   "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49162086",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 111,
-   "comments": 63,
-   "publishedAt": 1785794689000,
-   "isAI": false,
-   "score": 39.3,
-   "hot": false
   },
   {
    "title": "Rust 프로젝트 목표: 이동 불가 타입과 소멸자 실행 보장",
@@ -349,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -363,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -377,7 +377,7 @@
    "comments": 183,
    "publishedAt": 1785710627000,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -391,7 +391,7 @@
    "comments": 86,
    "publishedAt": 1785699728000,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -405,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -419,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.5,
    "hot": true
   },
   {
@@ -433,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -447,8 +447,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
+  },
+  {
+   "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+   "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49139102",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 349,
+   "comments": 399,
+   "publishedAt": 1785623112000,
+   "isAI": true,
+   "score": 37.2,
+   "hot": false,
+   "lastWeekRank": 1
   },
   {
    "title": "카카오, '카나나-2'의 경량 모델 4종 오픈소스로 공개",
@@ -461,23 +476,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
-  },
-  {
-   "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-   "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49139102",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 349,
-   "comments": 398,
-   "publishedAt": 1785623112000,
-   "isAI": true,
-   "score": 37.5,
-   "hot": false,
-   "lastWeekRank": 1
   },
   {
    "title": "JSON은 당신을 속이고 있다",
@@ -490,8 +490,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "9front “THIS WAS SUPPOSED TO BE FUN” 릴리스",
@@ -504,8 +504,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Qwen3.8-Max: 코딩과 협업의 새로운 기준",
@@ -518,21 +518,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.3,
-   "hot": false
-  },
-  {
-   "title": "Andy Pavlo, ClickHouse Labs 설립 위해 ClickHouse 합류",
-   "url": "https://news.hada.io/topic?id=32118",
-   "summary": "Carnegie Mellon University에서 현대 DBMS 내부 구조를 연구해 온 Andy Pavlo 가 ClickHouse에 합류해 데이터베이스 연구 조직 ClickHouse Labs 를 설립하고 이끎 연구 결과를 엔지니어링 조직에 일방적으로 넘기는 연구소가 아니라, 엔지니어·고객·협력자·산업 파...",
-   "publishedAt": 1785796284000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.8,
+   "score": 37,
    "hot": false
   },
   {
@@ -546,7 +532,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "Andy Pavlo, ClickHouse Labs 설립 위해 ClickHouse 합류",
+   "url": "https://news.hada.io/topic?id=32118",
+   "summary": "Carnegie Mellon University에서 현대 DBMS 내부 구조를 연구해 온 Andy Pavlo 가 ClickHouse에 합류해 데이터베이스 연구 조직 ClickHouse Labs 를 설립하고 이끎 연구 결과를 엔지니어링 조직에 일방적으로 넘기는 연구소가 아니라, 엔지니어·고객·협력자·산업 파...",
+   "publishedAt": 1785796284000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -560,7 +560,7 @@
    "comments": 14,
    "publishedAt": 1785687979000,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -574,7 +574,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -588,7 +588,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -602,7 +602,7 @@
    "comments": 189,
    "publishedAt": 1785703464000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -611,11 +611,24 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 99,
+   "engagement": 100,
    "summary": "Speech and audio generation is often needed in animation dubbing, audio drama, movies, advertising, games, podcasts, and short-video production. In these scenarios, creators may need to design voices without reference recordings, control speaker styles with natural language, support acoustic scenes ",
    "publishedAt": 1785700800000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+   "url": "https://huggingface.co/papers/2608.01964",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 98,
+   "summary": "Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task execution, task state, and completion assessment within a growing context, making the",
+   "publishedAt": 1785700800000,
+   "isAI": true,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -629,7 +642,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -643,7 +656,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -657,20 +670,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.7,
-   "hot": false
-  },
-  {
-   "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
-   "url": "https://huggingface.co/papers/2608.01964",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 96,
-   "summary": "Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task execution, task state, and completion assessment within a growing context, making the",
-   "publishedAt": 1785700800000,
-   "isAI": true,
-   "score": 35.6,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -684,7 +684,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -698,21 +698,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "개발 도구가 오픈소스여야 하는 이유",
-   "url": "https://news.hada.io/topic?id=32114",
-   "summary": "코딩 에이전트가 소스 수정부터 업스트림 동기화와 유지보수 까지 자동화하면서, 자신만의 소프트웨어를 만드는 비용이 크게 낮아짐 소스를 내려받아 로컬 빌드를 만들고 변경 동기를 버전 관리에 기록한 뒤, 매일 업스트림 변경 위로 로컬 수정을 리베이스 할 수 있...",
-   "publishedAt": 1785781972000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.4,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -726,7 +712,7 @@
    "comments": 63,
    "publishedAt": 1785688000000,
    "isAI": false,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -740,7 +726,50 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.3,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "개발 도구가 오픈소스여야 하는 이유",
+   "url": "https://news.hada.io/topic?id=32114",
+   "summary": "코딩 에이전트가 소스 수정부터 업스트림 동기화와 유지보수 까지 자동화하면서, 자신만의 소프트웨어를 만드는 비용이 크게 낮아짐 소스를 내려받아 로컬 빌드를 만들고 변경 동기를 버전 관리에 기록한 뒤, 매일 업스트림 변경 위로 로컬 수정을 리베이스 할 수 있...",
+   "publishedAt": 1785781972000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "How Google helped destroy adoption of RSS feeds (2023)",
+   "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49136821",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 633,
+   "comments": 243,
+   "publishedAt": 1785607627000,
+   "isAI": false,
+   "score": 34.9,
+   "hot": false,
+   "lastWeekRank": 2
+  },
+  {
+   "title": "Octane – React’s programming model, compiled",
+   "url": "https://octanejs.dev",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49152640",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 123,
+   "comments": 46,
+   "publishedAt": 1785744244000,
+   "isAI": false,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -754,50 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "Octane – React’s programming model, compiled",
-   "url": "https://octanejs.dev",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49152640",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 123,
-   "comments": 46,
-   "publishedAt": 1785744244000,
-   "isAI": false,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "How Google helped destroy adoption of RSS feeds (2023)",
-   "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49136821",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 633,
-   "comments": 242,
-   "publishedAt": 1785607627000,
-   "isAI": false,
-   "score": 35.1,
-   "hot": false,
-   "lastWeekRank": 2
-  },
-  {
-   "title": "영어 학습자의 핵심 어휘는 70년 동안 어떻게 달라졌나",
-   "url": "https://news.hada.io/topic?id=32111",
-   "summary": "영어 학습용 핵심 어휘는 1953년 GSL 2,284단어 에서 2023년 NGSL 2,809단어 로 바뀌었으며, 각각 일상 영어의 약 84%와 90% 이상을 포괄함 70년 사이 628개가 빠지고 1,153개가 추가되면서 도구·동물·음식·신체처럼 손에 잡히는 말보다 일반·추상 어휘",
-   "publishedAt": 1785778386000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -811,22 +797,22 @@
    "comments": 165,
    "publishedAt": 1785521098000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.7,
    "hot": false,
    "lastWeekRank": 3
   },
   {
-   "title": "이제 모델 선택 기준은 지능보다 속도",
-   "url": "https://news.hada.io/topic?id=32110",
-   "summary": "코딩·리서치·슬라이드 설계·데이터베이스 분석에서는 Opus 4.6 수준의 지능 이면 대부분 충분해, 일상용 모델의 선택 기준이 순수 지능에서 속도로 이동함 출력 속도는 약 100~200tok/s 일 때 빠르게 느껴지고, 50tok/s 아래에서는 답답하며, 200tok/s를 넘으면 사람...",
-   "publishedAt": 1785776512000,
+   "title": "영어 학습자의 핵심 어휘는 70년 동안 어떻게 달라졌나",
+   "url": "https://news.hada.io/topic?id=32111",
+   "summary": "영어 학습용 핵심 어휘는 1953년 GSL 2,284단어 에서 2023년 NGSL 2,809단어 로 바뀌었으며, 각각 일상 영어의 약 84%와 90% 이상을 포괄함 70년 사이 628개가 빠지고 1,153개가 추가되면서 도구·동물·음식·신체처럼 손에 잡히는 말보다 일반·추상 어휘",
+   "publishedAt": 1785778386000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -840,9 +826,23 @@
    "comments": 217,
    "publishedAt": 1785524625000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false,
    "lastWeekRank": 4
+  },
+  {
+   "title": "이제 모델 선택 기준은 지능보다 속도",
+   "url": "https://news.hada.io/topic?id=32110",
+   "summary": "코딩·리서치·슬라이드 설계·데이터베이스 분석에서는 Opus 4.6 수준의 지능 이면 대부분 충분해, 일상용 모델의 선택 기준이 순수 지능에서 속도로 이동함 출력 속도는 약 100~200tok/s 일 때 빠르게 느껴지고, 50tok/s 아래에서는 답답하며, 200tok/s를 넘으면 사람...",
+   "publishedAt": 1785776512000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.5,
+   "hot": false
   },
   {
    "title": "SwiftUI 7년 후, 여전히 베타처럼 느껴지는 이유",
@@ -855,7 +855,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34,
    "hot": false
   },
   {
@@ -869,7 +869,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -883,7 +883,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -897,7 +897,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+   "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"carele",
+   "publishedAt": 1785842875000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -911,7 +925,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -925,7 +939,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -939,7 +953,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -953,7 +967,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -967,7 +981,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -981,7 +995,7 @@
    "comments": 347,
    "publishedAt": 1785478116000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false,
    "lastWeekRank": 11
   },
@@ -996,7 +1010,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1010,20 +1024,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "\"가성비 넘어 최첨단 성능까지\"...중국 AI 공세에 미국 개발사 '데드 존' 몰렸다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213523",
-   "summary": "중국 AI 기업들이 저렴한 가격으로 승부하던 단계를 넘어 최고 수준의 성능까지 확보하면서, 최첨단 기술이나 압도적인 가격 경쟁력을 갖추지 못한 AI 개발사들은 생존 자체가 어려운 '데드 존(Death Zone)'에 진입했다는 분석이 나왔다.블룸버그 통신은 3일(현지시간) 중국 AI 업계가 불과 두 달 사이에 글로벌 최상위 수준의 모델들을 연이어 선보이며 시장 구조를 뒤흔들고 있다고 보도했다.이에 따르면, 이번 변화는 단발성 성과가 아니라 중국 AI 산업이 세계적 수준의 모델을 지속해서 생산할 수 있는 시스템을 구축했음을 의미한다.",
-   "publishedAt": 1785834631000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 33.2,
    "hot": false
   },
@@ -1038,7 +1038,21 @@
    "comments": 37,
    "publishedAt": 1785726052000,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "\"가성비 넘어 최첨단 성능까지\"...중국 AI 공세에 미국 개발사 '데드 존' 몰렸다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213523",
+   "summary": "중국 AI 기업들이 저렴한 가격으로 승부하던 단계를 넘어 최고 수준의 성능까지 확보하면서, 최첨단 기술이나 압도적인 가격 경쟁력을 갖추지 못한 AI 개발사들은 생존 자체가 어려운 '데드 존(Death Zone)'에 진입했다는 분석이 나왔다.블룸버그 통신은 3일(현지시간) 중국 AI 업계가 불과 두 달 사이에 글로벌 최상위 수준의 모델들을 연이어 선보이며 시장 구조를 뒤흔들고 있다고 보도했다.이에 따르면, 이번 변화는 단발성 성과가 아니라 중국 AI 산업이 세계적 수준의 모델을 지속해서 생산할 수 있는 시스템을 구축했음을 의미한다.",
+   "publishedAt": 1785834631000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1052,7 +1066,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1066,7 +1080,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1080,49 +1094,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "턴 디텍터 없애고 추론 분리... 오픈AI가 밝힌 'GPT-라이브' 초저지연 비밀",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213525",
-   "summary": "오픈AI가 사람과 거의 구분되지 않는 자연스러운 음성 대화를 구현하기 위한 차세대 음성 AI 아키텍처를 공개했다. 오픈AI는 3일(현지시간) 기존 음성 AI의 가장 큰 한계였던 ‘차례를 기다리는 대화’ 구조를 버리고, 사람처럼 동시에 듣고 말하는 전이중(Full-Duplex) 음성 AI 시스템 'GPT-라이브(GPT-Live)'의 핵심 기술을 공개했다.GPT-라이브는 대화 도중에도 실시간으로 음성을 주고받으면서 필요할 때만 GPT-5.5와 같은 최상위 추론 모델을 비동기적으로 호출하는 새로운 구조를 채택해 자연스러운 대화와 높은 지",
-   "publishedAt": 1785832093000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "\"중국 AI 금지하면 미국 기업 연간 16조원 타격…비용 절감 수단 없어져\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213505",
-   "summary": "미국 정부가 중국산 오픈웨이트 AI 모델 사용을 금지하면, 미국 기업들이 연간 최대 120억달러(약 16조원)에 달하는 추가 비용 부담에 직면할 수 있다는 분석이 나왔다. 중국산 AI 모델이 미국 기업들의 비용 절감 수단으로 자리 잡은 만큼, 이를 대체 모델로 강제 전환하면 상당한 경제적 충격이 발생할 수 있다는 지적이다.3일(현지시간) 사우스차이나모닝포스트에 따르면, 조지아 공과대학교 셸러 경영대학원의 다니엘 유 조교수는 오픈라우터의 사용 데이터를 분석한 결과, 미국 기업들이 중국산 오픈웨이트 모델 대신 최고 수준의 폐쇄형 독점",
-   "publishedAt": 1785831309000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 컴투스와 손잡고 세계 최초 'AI 게임 개발 해커톤' 연다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213529",
-   "summary": "오픈AI는 오는 31일 서울에서 코덱스를 활용한 게임 개발 해커톤 ‘오픈AI 게임 빌더스 서울'을 개최한다고 4일 밝혔다.이번 행사는 오픈AI가 코덱스 기반 게임 개발을 주제로 한 세계 최초 행사로 국내 게임사인 컴투스의 지원을 받아 진행된다.오픈AI의 코딩 에이전트 '코덱스'와 컴투스의 게임 백엔드 플랫폼 '하이브'를 활용한다. 참가자들은 코덱스로 게임을 개발한 뒤, 코덱스 플러그인을 통해 하이브와 연동해 게임 출시와 운영에 필요한 기능을 적용하게 된다.행사는 두 개 트랙으로 진행된다. 트랙 1 '아이디어를 현실로: 코덱스로 게임",
-   "publishedAt": 1785830758000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1136,9 +1108,66 @@
    "comments": 293,
    "publishedAt": 1785570730000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false,
    "lastWeekRank": 6
+  },
+  {
+   "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+   "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49120299",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 589,
+   "comments": 312,
+   "publishedAt": 1785484751000,
+   "isAI": true,
+   "score": 32.6,
+   "hot": false,
+   "lastWeekRank": 13
+  },
+  {
+   "title": "턴 디텍터 없애고 추론 분리... 오픈AI가 밝힌 'GPT-라이브' 초저지연 비밀",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213525",
+   "summary": "오픈AI가 사람과 거의 구분되지 않는 자연스러운 음성 대화를 구현하기 위한 차세대 음성 AI 아키텍처를 공개했다. 오픈AI는 3일(현지시간) 기존 음성 AI의 가장 큰 한계였던 ‘차례를 기다리는 대화’ 구조를 버리고, 사람처럼 동시에 듣고 말하는 전이중(Full-Duplex) 음성 AI 시스템 'GPT-라이브(GPT-Live)'의 핵심 기술을 공개했다.GPT-라이브는 대화 도중에도 실시간으로 음성을 주고받으면서 필요할 때만 GPT-5.5와 같은 최상위 추론 모델을 비동기적으로 호출하는 새로운 구조를 채택해 자연스러운 대화와 높은 지",
+   "publishedAt": 1785832093000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "\"중국 AI 금지하면 미국 기업 연간 16조원 타격…비용 절감 수단 없어져\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213505",
+   "summary": "미국 정부가 중국산 오픈웨이트 AI 모델 사용을 금지하면, 미국 기업들이 연간 최대 120억달러(약 16조원)에 달하는 추가 비용 부담에 직면할 수 있다는 분석이 나왔다. 중국산 AI 모델이 미국 기업들의 비용 절감 수단으로 자리 잡은 만큼, 이를 대체 모델로 강제 전환하면 상당한 경제적 충격이 발생할 수 있다는 지적이다.3일(현지시간) 사우스차이나모닝포스트에 따르면, 조지아 공과대학교 셸러 경영대학원의 다니엘 유 조교수는 오픈라우터의 사용 데이터를 분석한 결과, 미국 기업들이 중국산 오픈웨이트 모델 대신 최고 수준의 폐쇄형 독점",
+   "publishedAt": 1785831309000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 컴투스와 손잡고 세계 최초 'AI 게임 개발 해커톤' 연다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213529",
+   "summary": "오픈AI는 오는 31일 서울에서 코덱스를 활용한 게임 개발 해커톤 ‘오픈AI 게임 빌더스 서울'을 개최한다고 4일 밝혔다.이번 행사는 오픈AI가 코덱스 기반 게임 개발을 주제로 한 세계 최초 행사로 국내 게임사인 컴투스의 지원을 받아 진행된다.오픈AI의 코딩 에이전트 '코덱스'와 컴투스의 게임 백엔드 플랫폼 '하이브'를 활용한다. 참가자들은 코덱스로 게임을 개발한 뒤, 코덱스 플러그인을 통해 하이브와 연동해 게임 출시와 운영에 필요한 기능을 적용하게 된다.행사는 두 개 트랙으로 진행된다. 트랙 1 '아이디어를 현실로: 코덱스로 게임",
+   "publishedAt": 1785830758000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.5,
+   "hot": false
   },
   {
    "title": "에디슨의 교훈… \"AI 승자는 '발명가' 아닌 '응용자가 될 것'\"",
@@ -1151,7 +1180,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1165,134 +1194,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-   "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49120299",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 589,
-   "comments": 312,
-   "publishedAt": 1785484751000,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false,
-   "lastWeekRank": 13
-  },
-  {
-   "title": "CXMT, 베이징에 두 번째 D램 공장 검토...월 60만장 생산체제 가속",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213519",
-   "summary": "AI 인프라 투자 확대로 글로벌 메모리 반도체 수요가 급증하는 가운데, 중국 창신메모리(CXMT)가 베이징에 두 번째 D램(DRAM) 생산공장 건설을 추진하며 생산능력 확대에 속도를 내고 있다. 3일(현지시간) 로이터에 따르면, CXMT는 베이징 남동부 이좡 경제기술개발구에 새로운 12인치 D램 생산공장을 건설하는 방안을 검토 중이다.이를 위해 개발구와 국유 기술 기업들을 상대로 투자 유치 협상을 진행하고 있다. 현재는 협상 초기 단계로 투자 규모와 방식은 확정되지 않았지만, 공장 건설을 위한 지방정부의 지원과 국유기업의 참여가 논",
-   "publishedAt": 1785829292000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "KT, 연세의료원과 의료 AI 데이터 고도화 나선다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213528",
-   "summary": "KT(대표 박윤영)는 연세의료원과 의료 데이터를 고도화해 국내 의료 AI 활성화를 지원하는 업무협약을 체결했다고 4일 밝혔다.양 기관은 ▲의료 데이터 표준화 기반 확대 ▲데이터 활용 인프라 고도화 ▲AI 기반 의료 서비스 적용 방안 연구 ▲의료 데이터 활용을 위한 중장기 협력 등을 추진한다.진료 결과, 의료 영상, 연구 데이터 등 의료 현장의 다양한 데이터를 AI가 활용할 수 있는 형태로 전환해 의료 AI 서비스의 개발과 실증을 가속한다는 설명이다.KT는 AX 플랫폼 역량으로 의료용 고품질 AI 자산을 구축하고, 의료 서비스 모델",
-   "publishedAt": 1785828976000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "여수, 국동항 불법 주정차 단속 근거 마련…도로 중복 결정 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213498",
-   "summary": "AI 생성 영상여수시가 국동항 일대의 이중주차와 불법 주정차 문제를 줄이기 위해 도시관리계획상 도로 중복 결정 절차를 추진한다고 4일 밝혔다.어항구역 내 도로의 법적 지위가 불명확해 여수가 직접 단속하는 데 한계가 있었던 만큼, 법적 근거를 마련해 국동항의 주차질서와 차량 통행을 관리한다는 계획이다.여수는 정현구 부시장 주재로 관계부서 협의를 열고 지역 낚시협회와 간담회를 진행하는 등 관련 행정절차를 이어가고 있다. 도로 중복 결정이 완료되면 국동항 도로에서 발생하는 이중주차와 무단 점유 차량을 관련 법령에 따라 관리할 수 있게 된",
-   "publishedAt": 1785828948000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "목포, 전세보증금 반환보증료 최대 40만원 지원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213522",
-   "summary": "AI 생성 영상목포시가 전세사기와 역전세로 인한 무주택 임차인의 보증금 피해를 예방하기 위해 전세보증금 반환보증 보증료를 최대 40만원까지 지원한다고 4일 밝혔다.신청은 예산이 소진될 때까지 연중 가능하며, 청년뿐 아니라 소득 기준을 충족하는 일반 임차인과 신혼부부도 지원받을 수 있다.지원 대상은 신청일 현재 주택도시보증공사(HUG), 한국주택금융공사(HF), 서울보증보험(SGI)의 전세보증금반환보증에 가입해 보증 효력이 유지되고 있는 무주택 임차인이다. 임차보증금은 3억원 이하여야 한다.연소득 기준은 청년 5000만원 이하, 청년",
-   "publishedAt": 1785828904000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "쿤텍, '알약' 개발 주역 김준섭 부사장 영입...AI 보안 제품군 총괄",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213533",
-   "summary": "쿤텍(대표 방혁준)은 AI 보안 기술 경쟁력 강화를 위해 '알약' 개발 주역인 김준섭 부사장을 영입했다고 4일 밝혔다.김 부사장은 사이버 보안 기술 전략과 연구개발 조직을 총괄하며, 보안 연구개발 과제 선정, 품질관리, 서비스 운영 체계 고도화를 담당한다. 특히 AI 보안 중심의 신규 보안 제품 기획·개발과 사업화를 이끌 예정이다.쿤텍은 이번 영입을 통해 대규모 보안 제품의 개발·상용화를 포함해 AI 보안 제품 라인업을 본격적으로 확장한다는 계획이다.김 부사장은 약 25년간 정보보호 업계에서 국내 초기 안티스파이웨어 'PC지기'와",
-   "publishedAt": 1785828900000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "순천, AI·인문학 결합한 공직자 역량강화 교육 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213502",
-   "summary": "AI 생성 영상순천시가 민선9기 시정 비전인 ‘시민주권시대, 소통하는 열린 순천’을 행정 현장에 구현하기 위해 하반기 공무원 역량강화 교육을 추진한다고 4일 밝혔다.순천은 민선9기 핵심 공약과 시정 방침을 구체화하기 위한 ‘시민주권 행정혁신 특강’을 새롭게 마련한다. 미래경제와 소통행정, 광역협력 분야 전문가를 초청해 시정 운영 방향을 공유하고 시민 중심 정책을 설계·실행하는 역량을 강화할 예정이다.8월에는 서울대학교 김헌 교수의 인문학 특강을 통해 고전과 인문학을 바탕으로 공직자의 사고 폭을 넓힌다. 6·7급 승진자를 대상으로 시",
-   "publishedAt": 1785828843000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "팀네이버, 남미 AI 데이터센터 사업 정조준...브라질·칠레서 협력 논의",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213526",
-   "summary": "네이버(대표 최수연)는 팀네이버 경영진이 이재명 대통령의 남미 3개국 순방 경제사절단으로 동행해 브라질·칠레 현지 AI 기업과 공동 사업을 논의했다고 4일 밝혔다.브라질에서는 대형 AI 데이터센터 및 클라우드 사업을 운영하는 스칼라 데이터 센터즈, 텍토 데이터 센터즈 경영진과 미팅을 가졌다.SDC는 브라질 남부에 4.75기가와트(GW) 규모의 AI 데이터센터(AIDC) 캠퍼스 '스칼라 AI 시티'를, TDC는 상파울루 광역권에 200메가와트(MW) 규모의 고밀도 AI 특화 데이터센터 'TGRU1'을 구축 중이다.각사 AIDC에 팀네",
-   "publishedAt": 1785828772000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "독일 애자일 로봇, 올해 매출 2배 성장 전망… \"2~3년 내 흑자 전환\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213521",
-   "summary": "독일의 로봇 스타트업 애자일 로봇이 산업용 로봇 사업의 성장에 힘입어 올해 매출이 지난해의 두 배 수준으로 증가할 것으로 전망했다. 애자일 로봇은 AI 기술뿐 아니라 제조 현장에서 축적한 자동화 경험과 고객 신뢰를 경쟁력으로 내세우며 앞으로 2~3년 내 흑자 전환도 자신했다.자오펑 천 애자일 CEO는 3일(현지시간) 월스트리트저널 인터뷰에서 지난해 회사 매출이 3억유로(약 4800억원)를 기록했으며, 올해는 이를 두 배 수준으로 끌어올릴 것으로 예상한다고 밝혔다.그는 \"현재 확보한 고객 계약을 고려하면 이러한 목표는 결코 과도한 수",
-   "publishedAt": 1785828677000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1306,7 +1208,7 @@
    "comments": 21,
    "publishedAt": 1785670481000,
    "isAI": false,
-   "score": 32.6,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1320,9 +1222,121 @@
    "comments": 604,
    "publishedAt": 1785482962000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.4,
    "hot": false,
    "lastWeekRank": 14
+  },
+  {
+   "title": "CXMT, 베이징에 두 번째 D램 공장 검토...월 60만장 생산체제 가속",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213519",
+   "summary": "AI 인프라 투자 확대로 글로벌 메모리 반도체 수요가 급증하는 가운데, 중국 창신메모리(CXMT)가 베이징에 두 번째 D램(DRAM) 생산공장 건설을 추진하며 생산능력 확대에 속도를 내고 있다. 3일(현지시간) 로이터에 따르면, CXMT는 베이징 남동부 이좡 경제기술개발구에 새로운 12인치 D램 생산공장을 건설하는 방안을 검토 중이다.이를 위해 개발구와 국유 기술 기업들을 상대로 투자 유치 협상을 진행하고 있다. 현재는 협상 초기 단계로 투자 규모와 방식은 확정되지 않았지만, 공장 건설을 위한 지방정부의 지원과 국유기업의 참여가 논",
+   "publishedAt": 1785829292000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.4,
+   "hot": false
+  },
+  {
+   "title": "KT, 연세의료원과 의료 AI 데이터 고도화 나선다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213528",
+   "summary": "KT(대표 박윤영)는 연세의료원과 의료 데이터를 고도화해 국내 의료 AI 활성화를 지원하는 업무협약을 체결했다고 4일 밝혔다.양 기관은 ▲의료 데이터 표준화 기반 확대 ▲데이터 활용 인프라 고도화 ▲AI 기반 의료 서비스 적용 방안 연구 ▲의료 데이터 활용을 위한 중장기 협력 등을 추진한다.진료 결과, 의료 영상, 연구 데이터 등 의료 현장의 다양한 데이터를 AI가 활용할 수 있는 형태로 전환해 의료 AI 서비스의 개발과 실증을 가속한다는 설명이다.KT는 AX 플랫폼 역량으로 의료용 고품질 AI 자산을 구축하고, 의료 서비스 모델",
+   "publishedAt": 1785828976000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "여수, 국동항 불법 주정차 단속 근거 마련…도로 중복 결정 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213498",
+   "summary": "AI 생성 영상여수시가 국동항 일대의 이중주차와 불법 주정차 문제를 줄이기 위해 도시관리계획상 도로 중복 결정 절차를 추진한다고 4일 밝혔다.어항구역 내 도로의 법적 지위가 불명확해 여수가 직접 단속하는 데 한계가 있었던 만큼, 법적 근거를 마련해 국동항의 주차질서와 차량 통행을 관리한다는 계획이다.여수는 정현구 부시장 주재로 관계부서 협의를 열고 지역 낚시협회와 간담회를 진행하는 등 관련 행정절차를 이어가고 있다. 도로 중복 결정이 완료되면 국동항 도로에서 발생하는 이중주차와 무단 점유 차량을 관련 법령에 따라 관리할 수 있게 된",
+   "publishedAt": 1785828948000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "목포, 전세보증금 반환보증료 최대 40만원 지원",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213522",
+   "summary": "AI 생성 영상목포시가 전세사기와 역전세로 인한 무주택 임차인의 보증금 피해를 예방하기 위해 전세보증금 반환보증 보증료를 최대 40만원까지 지원한다고 4일 밝혔다.신청은 예산이 소진될 때까지 연중 가능하며, 청년뿐 아니라 소득 기준을 충족하는 일반 임차인과 신혼부부도 지원받을 수 있다.지원 대상은 신청일 현재 주택도시보증공사(HUG), 한국주택금융공사(HF), 서울보증보험(SGI)의 전세보증금반환보증에 가입해 보증 효력이 유지되고 있는 무주택 임차인이다. 임차보증금은 3억원 이하여야 한다.연소득 기준은 청년 5000만원 이하, 청년",
+   "publishedAt": 1785828904000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "쿤텍, '알약' 개발 주역 김준섭 부사장 영입...AI 보안 제품군 총괄",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213533",
+   "summary": "쿤텍(대표 방혁준)은 AI 보안 기술 경쟁력 강화를 위해 '알약' 개발 주역인 김준섭 부사장을 영입했다고 4일 밝혔다.김 부사장은 사이버 보안 기술 전략과 연구개발 조직을 총괄하며, 보안 연구개발 과제 선정, 품질관리, 서비스 운영 체계 고도화를 담당한다. 특히 AI 보안 중심의 신규 보안 제품 기획·개발과 사업화를 이끌 예정이다.쿤텍은 이번 영입을 통해 대규모 보안 제품의 개발·상용화를 포함해 AI 보안 제품 라인업을 본격적으로 확장한다는 계획이다.김 부사장은 약 25년간 정보보호 업계에서 국내 초기 안티스파이웨어 'PC지기'와",
+   "publishedAt": 1785828900000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "순천, AI·인문학 결합한 공직자 역량강화 교육 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213502",
+   "summary": "AI 생성 영상순천시가 민선9기 시정 비전인 ‘시민주권시대, 소통하는 열린 순천’을 행정 현장에 구현하기 위해 하반기 공무원 역량강화 교육을 추진한다고 4일 밝혔다.순천은 민선9기 핵심 공약과 시정 방침을 구체화하기 위한 ‘시민주권 행정혁신 특강’을 새롭게 마련한다. 미래경제와 소통행정, 광역협력 분야 전문가를 초청해 시정 운영 방향을 공유하고 시민 중심 정책을 설계·실행하는 역량을 강화할 예정이다.8월에는 서울대학교 김헌 교수의 인문학 특강을 통해 고전과 인문학을 바탕으로 공직자의 사고 폭을 넓힌다. 6·7급 승진자를 대상으로 시",
+   "publishedAt": 1785828843000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "팀네이버, 남미 AI 데이터센터 사업 정조준...브라질·칠레서 협력 논의",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213526",
+   "summary": "네이버(대표 최수연)는 팀네이버 경영진이 이재명 대통령의 남미 3개국 순방 경제사절단으로 동행해 브라질·칠레 현지 AI 기업과 공동 사업을 논의했다고 4일 밝혔다.브라질에서는 대형 AI 데이터센터 및 클라우드 사업을 운영하는 스칼라 데이터 센터즈, 텍토 데이터 센터즈 경영진과 미팅을 가졌다.SDC는 브라질 남부에 4.75기가와트(GW) 규모의 AI 데이터센터(AIDC) 캠퍼스 '스칼라 AI 시티'를, TDC는 상파울루 광역권에 200메가와트(MW) 규모의 고밀도 AI 특화 데이터센터 'TGRU1'을 구축 중이다.각사 AIDC에 팀네",
+   "publishedAt": 1785828772000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "독일 애자일 로봇, 올해 매출 2배 성장 전망… \"2~3년 내 흑자 전환\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213521",
+   "summary": "독일의 로봇 스타트업 애자일 로봇이 산업용 로봇 사업의 성장에 힘입어 올해 매출이 지난해의 두 배 수준으로 증가할 것으로 전망했다. 애자일 로봇은 AI 기술뿐 아니라 제조 현장에서 축적한 자동화 경험과 고객 신뢰를 경쟁력으로 내세우며 앞으로 2~3년 내 흑자 전환도 자신했다.자오펑 천 애자일 CEO는 3일(현지시간) 월스트리트저널 인터뷰에서 지난해 회사 매출이 3억유로(약 4800억원)를 기록했으며, 올해는 이를 두 배 수준으로 끌어올릴 것으로 예상한다고 밝혔다.그는 \"현재 확보한 고객 계약을 고려하면 이러한 목표는 결코 과도한 수",
+   "publishedAt": 1785828677000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
+   "hot": false
   },
   {
    "title": "많은 독일인보다 더 독일인답게",
@@ -1335,7 +1349,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.5,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "F*: A general-purpose proof-oriented programming language",
+   "url": "https://fstar-lang.org/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49143925",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 183,
+   "comments": 98,
+   "publishedAt": 1785673876000,
+   "isAI": false,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1349,7 +1377,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1363,7 +1391,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1377,35 +1405,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "F*: A general-purpose proof-oriented programming language",
-   "url": "https://fstar-lang.org/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49143925",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 182,
-   "comments": 98,
-   "publishedAt": 1785673876000,
-   "isAI": false,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "Show GN: VODAM Motion API: 운동 영상을 업로드하면 PINN 기반으로 자세 분석/가이드 비교를 해주는 API",
-   "url": "https://news.hada.io/topic?id=32096",
-   "summary": "운동/동작 영상을 업로드하면 PINN 기반 motion pipeline으로 분석 결과를 반환하는 Public API를 만들었습니다. 주요 기능은 두 가지입니다. precision: 단일 영상을 분석해서 움직임 설명/운동 분석 결과를 반환 compare: 사용자 영상을 가이드 영상과 비교해서 점수와 피드백 반환 API",
-   "publishedAt": 1785746612000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.2,
+   "score": 32.1,
    "hot": false
   }
  ]
