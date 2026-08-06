@@ -1,5 +1,5 @@
 {
- "updatedAt": 1785989983036,
+ "updatedAt": 1785993652804,
  "week": "2026-W32",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 268,
-   "comments": 201,
+   "engagement": 274,
+   "comments": 212,
    "publishedAt": 1785959246000,
    "isAI": true,
-   "score": 56.2,
+   "score": 55.8,
    "hot": true
   },
   {
@@ -23,8 +23,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 250,
-   "comments": 62,
+   "engagement": 267,
+   "comments": 66,
    "publishedAt": 1785953936000,
    "isAI": true,
    "score": 54.7,
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 540,
-   "comments": 619,
+   "engagement": 564,
+   "comments": 637,
    "publishedAt": 1785945931000,
    "isAI": false,
-   "score": 52.9,
+   "score": 52.7,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 170,
-   "comments": 166,
+   "engagement": 183,
+   "comments": 176,
    "publishedAt": 1785955069000,
    "isAI": true,
-   "score": 51.6,
+   "score": 51.7,
    "hot": true
   },
   {
@@ -69,7 +69,7 @@
    "comments": 98,
    "publishedAt": 1785933707000,
    "isAI": true,
-   "score": 51.2,
+   "score": 50.7,
    "hot": true
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 131,
-   "comments": 22,
+   "engagement": 138,
+   "comments": 23,
    "publishedAt": 1785964317000,
    "isAI": true,
-   "score": 50.7,
+   "score": 50.6,
    "hot": false
   },
   {
@@ -97,7 +97,7 @@
    "comments": 53,
    "publishedAt": 1785941609000,
    "isAI": true,
-   "score": 50.6,
+   "score": 50.1,
    "hot": true
   },
   {
@@ -111,7 +111,7 @@
    "comments": 1,
    "publishedAt": 1785945937000,
    "isAI": false,
-   "score": 49.7,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -125,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -135,12 +135,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 784,
+   "engagement": 785,
    "comments": 461,
    "publishedAt": 1785843017000,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.3,
    "hot": false
+  },
+  {
+   "title": "I'm switching my phone from Android to Linux",
+   "url": "https://runarcn.no/android-to-linux/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49188022",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 255,
+   "comments": 211,
+   "publishedAt": 1785959413000,
+   "isAI": false,
+   "score": 47.9,
+   "hot": true
   },
   {
    "title": "Show GN: 주가예측 AI 에이전트를 위한 무료 도구 공개 (LDBD)",
@@ -153,21 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
-   "hot": true
-  },
-  {
-   "title": "I'm switching my phone from Android to Linux",
-   "url": "https://runarcn.no/android-to-linux/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49188022",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 246,
-   "comments": 204,
-   "publishedAt": 1785959413000,
-   "isAI": false,
-   "score": 48.1,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -177,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 122,
-   "comments": 200,
+   "engagement": 124,
+   "comments": 203,
    "publishedAt": 1785948333000,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.5,
    "hot": false
   },
   {
@@ -195,21 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
-   "hot": true
-  },
-  {
-   "title": "Show GN: Ephemeral System Prompt - 실행마다 달라지는 지시사항을 넣고도 프롬프트 캐시 유지하기",
-   "url": "https://news.hada.io/topic?id=32189",
-   "summary": "LLM 에이전트를 만들다 보면 시스템 프롬프트는 유지하면서도 현재 시각, 세션 상태, 호스트 정책처럼 실행마다 달라지는 지시사항 을 추가해야 할 때가 있습니다. 하지만 이런 내용을 시스템 프롬프트에 직접 합치면 매번 프롬프트 prefix가 달라져 provider의 prompt caching을 제대로 활용",
-   "publishedAt": 1785972735000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 47.5,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -223,8 +209,22 @@
    "comments": 131,
    "publishedAt": 1785861365000,
    "isAI": true,
-   "score": 47.4,
+   "score": 47,
    "hot": false
+  },
+  {
+   "title": "Show GN: Ephemeral System Prompt - 실행마다 달라지는 지시사항을 넣고도 프롬프트 캐시 유지하기",
+   "url": "https://news.hada.io/topic?id=32189",
+   "summary": "LLM 에이전트를 만들다 보면 시스템 프롬프트는 유지하면서도 현재 시각, 세션 상태, 호스트 정책처럼 실행마다 달라지는 지시사항 을 추가해야 할 때가 있습니다. 하지만 이런 내용을 시스템 프롬프트에 직접 합치면 매번 프롬프트 prefix가 달라져 provider의 prompt caching을 제대로 활용",
+   "publishedAt": 1785972735000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47,
+   "hot": true
   },
   {
    "title": "Google DeepMind 리더십 개편: Demis Hassabis는 의장으로, Jeff Dean은 퇴사",
@@ -237,7 +237,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
+   "hot": true
+  },
+  {
+   "title": "Nashville uses eminent domain to block data center near zoo",
+   "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49191624",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 151,
+   "comments": 157,
+   "publishedAt": 1785982514000,
+   "isAI": false,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -251,7 +265,7 @@
    "comments": 241,
    "publishedAt": 1785880901000,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.8,
    "hot": false
   },
   {
@@ -261,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 130,
+   "engagement": 131,
    "comments": 127,
    "publishedAt": 1785930574000,
    "isAI": true,
-   "score": 46,
+   "score": 45.7,
    "hot": false
   },
   {
@@ -279,7 +293,7 @@
    "comments": 282,
    "publishedAt": 1785857862000,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.2,
    "hot": false
   },
   {
@@ -293,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -307,22 +321,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
    "hot": true
-  },
-  {
-   "title": "Nashville uses eminent domain to block data center near zoo",
-   "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49191624",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 108,
-   "comments": 93,
-   "publishedAt": 1785982514000,
-   "isAI": false,
-   "score": 43.8,
-   "hot": false
   },
   {
    "title": "DeepSeek V4 Flash on a Single AMD MI300X",
@@ -331,11 +331,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 377,
+   "engagement": 378,
    "comments": 104,
    "publishedAt": 1785837655000,
    "isAI": true,
-   "score": 43.4,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -349,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -363,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -377,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -391,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.5,
+   "score": 42,
    "hot": false
   },
   {
@@ -405,7 +405,7 @@
    "comments": 70,
    "publishedAt": 1785909144000,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -419,7 +419,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.6,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 회원가입·광고 없는 인터넷 속도측정 도구를 만들었습니다 (4개 국어)",
+   "url": "https://news.hada.io/topic?id=32200",
+   "summary": "사무실 네트워크 시공을 하다 보면 \"회선은 기가인데 왜 느리냐\"는 말을 자주 듣습니다. 현장에서 근거로 보여줄 측정 도구가 필요한데, 기존 것들은 광고가 많거나 잴 때마다 값이 튀어서 쓰기 어려웠습니다. 그래서 직접 만들었습니다. 구현하면서 신경 쓴 부분 측정 안",
+   "publishedAt": 1785989953000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
+  },
+  {
+   "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+   "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49189234",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 110,
+   "comments": 15,
+   "publishedAt": 1785965085000,
+   "isAI": false,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -433,21 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.9,
-   "hot": false
-  },
-  {
-   "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
-   "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49189234",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 106,
-   "comments": 15,
-   "publishedAt": 1785965085000,
-   "isAI": false,
-   "score": 41.5,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -461,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -475,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -486,10 +500,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 281,
-   "comments": 243,
+   "comments": 244,
    "publishedAt": 1785887452000,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -503,7 +517,7 @@
    "comments": 373,
    "publishedAt": 1785756534000,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -517,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -531,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -545,21 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.9,
-   "hot": false
-  },
-  {
-   "title": "Retrieval as Reasoning - LLM Wiki가 RAG보다 나은 이유에 대한 실증 벤치마크",
-   "url": "https://news.hada.io/topic?id=32164",
-   "summary": "문서를 청크 단위로 잘라 벡터로 검색하는 RAG 방식이 아닌, 서로 링크된 마크다운 위키로 만들고 에이전트가 네비게이션하는 LLM Wiki 방식이 나은 이유에 대해 실증한 논문입니다. 논문이 풀어본 문제 청크 검색은 문서를 잘게 잘라 비슷한 조각 몇 개만 꺼내 붙임. 여러 문서를 이어야",
-   "publishedAt": 1785895615000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.5,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -573,7 +573,21 @@
    "comments": 439,
    "publishedAt": 1785749527000,
    "isAI": true,
-   "score": 38.3,
+   "score": 38.1,
+   "hot": false
+  },
+  {
+   "title": "Retrieval as Reasoning - LLM Wiki가 RAG보다 나은 이유에 대한 실증 벤치마크",
+   "url": "https://news.hada.io/topic?id=32164",
+   "summary": "문서를 청크 단위로 잘라 벡터로 검색하는 RAG 방식이 아닌, 서로 링크된 마크다운 위키로 만들고 에이전트가 네비게이션하는 LLM Wiki 방식이 나은 이유에 대해 실증한 논문입니다. 논문이 풀어본 문제 청크 검색은 문서를 잘게 잘라 비슷한 조각 몇 개만 꺼내 붙임. 여러 문서를 이어야",
+   "publishedAt": 1785895615000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -587,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -601,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -615,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -629,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.5,
    "hot": true
   },
   {
@@ -643,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -657,7 +671,7 @@
    "comments": 63,
    "publishedAt": 1785863321000,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -671,7 +685,7 @@
    "comments": 144,
    "publishedAt": 1785858711000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -685,7 +699,7 @@
    "comments": 117,
    "publishedAt": 1785868172000,
    "isAI": false,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -699,7 +713,7 @@
    "comments": 139,
    "publishedAt": 1785776055000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -713,7 +727,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -727,8 +741,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
@@ -741,7 +755,7 @@
    "comments": 123,
    "publishedAt": 1785859839000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -755,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -769,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -783,21 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-   "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-   "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-   "publishedAt": 1785960300000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -811,7 +811,21 @@
    "comments": 232,
    "publishedAt": 1785766547000,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.3,
+   "hot": false
+  },
+  {
+   "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+   "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+   "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+   "publishedAt": 1785960300000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -825,7 +839,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -839,7 +853,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -853,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -867,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -881,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -895,35 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-   "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-   "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
-   "publishedAt": 1785945374000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "Hark previews its browser use agent for completing tasks",
-   "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-   "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
-   "publishedAt": 1785944787000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.1,
+   "score": 35,
    "hot": false
   },
   {
@@ -937,7 +923,35 @@
    "comments": 294,
    "publishedAt": 1785821533000,
    "isAI": false,
-   "score": 35,
+   "score": 34.8,
+   "hot": false
+  },
+  {
+   "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+   "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+   "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+   "publishedAt": 1785945374000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.8,
+   "hot": false
+  },
+  {
+   "title": "Hark previews its browser use agent for completing tasks",
+   "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+   "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+   "publishedAt": 1785944787000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -951,7 +965,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -965,7 +979,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -979,21 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
-   "hot": false
-  },
-  {
-   "title": "Show GN: 구독형 CLI를 API로 — Gemini/Grok OAuth 프록시",
-   "url": "https://news.hada.io/topic?id=32144",
-   "summary": "ChatGPT의 oauth 정보를 공유하여 OpenAI API와 호환되는 HTTP 프록시를 생성해주는 오픈소스 프로젝트를 애플리케이션 개발에 활용하고 있습니다. 이를 참고하여 다른 CLI 도구에 대해서도 동일한 방식의 프록시를 직접 개발했습니다. 참고 프로젝트 ChatGPT 대상 https://github.com/EvanZhouD",
-   "publishedAt": 1785853673000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1007,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1021,7 +1021,49 @@
    "comments": 85,
    "publishedAt": 1785755748000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "머스크 \"엔비디아 칩만 사용\" 선언에 휘청...AMD, 리사 수 발언에 반등",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213610",
+   "summary": "AMD가 2026년 2분기 시장 기대치를 뛰어넘는 호실적을 발표했음에도 불구하고 일론 머스크의 발언 여파로 주가가 급락한 뒤, 리사 수 CEO의 정면 대응에 힘입어 빠르게 반등에 성공했다.발단은 머스크의 엔비디아 찬사로 시작됐다. 그는 4일(현지시간) 스페이스X 실적 발표와 X를 통해 엔비디아의 '베라 루빈 NVL72' 랙 스케일 시스템이 현존하는 AI 시스템 중 가장 뛰어난 성능과 설계를 갖추고 있다고 평하며, 엔비디아 GPU 제품만 독점적으로 사용할 것이라고 선언했다. 실제로 이날 스페이스X는 2027년 말까지 AI 연산 능력을",
+   "publishedAt": 1785993199000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "구글, 코딩 강화 위해 스타트업 메카나이즈 2조 인수 논의",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213606",
+   "summary": "구글이 AI 코딩 경쟁력 강화를 위해 스타트업 메카나이즈(Mechanize)와 15억달러(약 2조원) 규모의 거래를 추진 중인 것으로 알려졌다. 전면적인 기업 인수 대신 핵심 인재를 영입하는 '애크하이어(Acqui-hire)'와 기술 라이선스 계약을 결합한 방식이 유력하게 검토되고 있다.5일(현지시간) 비즈니스인사이더에 따르면, 구글은 최근 몇 주 동안 샌프란시스코 기반 AI 스타트업 메카나이즈와 인수 협상을 진행하고 있다.거래 규모는 15억달러를 넘을 것으로 예상되며, 최종 조건은 아직 확정되지 않았다.협상안에는 메카나이즈의 핵심",
+   "publishedAt": 1785991850000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, '클로드' 전용 AI 칩 자체 개발 공식화…실리콘 팀 구축 착수",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213600",
+   "summary": "앤트로픽이 자체 AI 칩 개발에 본격 착수했다. 급증하는 '클로드' 수요에 대응하고 AI 인프라 효율성을 높이기 위해 맞춤형 AI 칩을 설계하는 전담 조직을 구축, 엔비디아 중심의 AI 칩 생태계에서 벗어나려는 움직임에 합류한 것이다.앤트로픽은 5일(현지시간) 공식 채용 공고를 통해 '맞춤형 실리콘(Custom Silicon) 팀'에서 근무할 칩 설계 엔지니어를 모집한다고 밝혔다.이후 성명을 통해 클로드 전용 AI 칩을 설계하는 전담 조직을 구축 중임을 확인했다. 자체 칩의 출시 일정이나 직접 생산 여부는 공개하지 않았지만, 이는",
+   "publishedAt": 1785990418000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1035,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1049,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 34,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1063,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1077,21 +1119,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "세무 AI 스타트업 솔로몬랩스, 스트라이프 출신 이창헌 리드 영입",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213585",
-   "summary": "세무 AI 전문 솔로몬랩스(대표 이기경)는 글로벌 결제 플랫폼 스트라이프 출신 이창헌 프로젝트 리드를 영입했다고 6일 밝혔다.이창헌 리드는 스트라이프에서 가상자산업, 자금 송금·예치업 등 규제산업의 금융 인프라를 구축했으며, 이후 보스턴컨설팅그룹(BCG)에서 머신러닝과 AI 에이전트를 결합한 공장 수율 개선 시스템을 개발한 바 있다.이 리드는 올해 4분기 출시 예정인 '솔로몬 절세 전략 AI' 개발을 총괄, 기존 세무 신고서 자동화 솔루션을 절세 전략 수립까지 확장하는 것을 목표로 한다. 세금 신고서를 작성하는 AI와 절세 전략을",
-   "publishedAt": 1785988175000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1105,7 +1133,7 @@
    "comments": 177,
    "publishedAt": 1785787341000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1119,7 +1147,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "세무 AI 스타트업 솔로몬랩스, 스트라이프 출신 이창헌 리드 영입",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213585",
+   "summary": "세무 AI 전문 솔로몬랩스(대표 이기경)는 글로벌 결제 플랫폼 스트라이프 출신 이창헌 프로젝트 리드를 영입했다고 6일 밝혔다.이창헌 리드는 스트라이프에서 가상자산업, 자금 송금·예치업 등 규제산업의 금융 인프라를 구축했으며, 이후 보스턴컨설팅그룹(BCG)에서 머신러닝과 AI 에이전트를 결합한 공장 수율 개선 시스템을 개발한 바 있다.이 리드는 올해 4분기 출시 예정인 '솔로몬 절세 전략 AI' 개발을 총괄, 기존 세무 신고서 자동화 솔루션을 절세 전략 수립까지 확장하는 것을 목표로 한다. 세금 신고서를 작성하는 AI와 절세 전략을",
+   "publishedAt": 1785988175000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1133,21 +1175,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-   "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-   "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
-   "publishedAt": 1785927600000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1161,7 +1189,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+   "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+   "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
+   "publishedAt": 1785927600000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1175,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1189,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1203,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1217,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.2,
+   "score": 32,
    "hot": false
   },
   {
@@ -1231,35 +1273,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "Bending Spoons, Airtable을 12억 8000만 달러에 인수",
-   "url": "https://news.hada.io/topic?id=32161",
-   "summary": "7월에 상장한 Bending Spoons(기업가치 180억 달러)가 Airtable을 인수하기로 합의 IPO 이후 첫 인수합병으로, 인수가는 현금 12억 8000만 달러 Bending Spoons가 추산한 에어테이블의 기업가치는 약 22억 5000만 달러 Airtable은 지금까지 14억 달러 이상을 투자유치 호황...",
-   "publishedAt": 1785891859000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "모든 사용자 인터페이스를 구성하는 10가지 GUI 디자인 요소",
-   "url": "https://news.hada.io/topic?id=32160",
-   "summary": "거의 모든 화면은 버튼, 폼, 메뉴, 링크, 대화상자, 알림, 아이콘, 체크박스·라디오 버튼, 탭, 검색 이라는 상호작용 알파벳으로 구성되며, 수십 년간 축적된 관례가 사용자의 학습 비용을 줄임 각 요소는 행동 실행, 입력 수집, 이동, 시스템 피드백, 의미 전달이라는 역할이 다르므...",
-   "publishedAt": 1785891302000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1273,7 +1287,35 @@
    "comments": 106,
    "publishedAt": 1785724230000,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "Bending Spoons, Airtable을 12억 8000만 달러에 인수",
+   "url": "https://news.hada.io/topic?id=32161",
+   "summary": "7월에 상장한 Bending Spoons(기업가치 180억 달러)가 Airtable을 인수하기로 합의 IPO 이후 첫 인수합병으로, 인수가는 현금 12억 8000만 달러 Bending Spoons가 추산한 에어테이블의 기업가치는 약 22억 5000만 달러 Airtable은 지금까지 14억 달러 이상을 투자유치 호황...",
+   "publishedAt": 1785891859000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "모든 사용자 인터페이스를 구성하는 10가지 GUI 디자인 요소",
+   "url": "https://news.hada.io/topic?id=32160",
+   "summary": "거의 모든 화면은 버튼, 폼, 메뉴, 링크, 대화상자, 알림, 아이콘, 체크박스·라디오 버튼, 탭, 검색 이라는 상호작용 알파벳으로 구성되며, 수십 년간 축적된 관례가 사용자의 학습 비용을 줄임 각 요소는 행동 실행, 입력 수집, 이동, 시스템 피드백, 의미 전달이라는 역할이 다르므...",
+   "publishedAt": 1785891302000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1287,7 +1329,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1301,49 +1343,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "Lua 커뮤니티는 과거 버전을 떠나보내는 법을 배워야 함",
-   "url": "https://news.hada.io/topic?id=32154",
-   "summary": "지원 종료된 버전까지 호환하는 관행 탓에 Lua 라이브러리 유지보수자들이 20년 넘은 레거시 를 계속 떠안고 있음 Lua/LuaJIT가 5.2 무렵 갈라진 뒤 양쪽을 지원하기 위해 Lua 5.1을 공통 기준으로 삼았고, 새 버전이 나와도 이 5.1 기준점 에서 벗어나지 못함 ...",
-   "publishedAt": 1785888346000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.8,
-   "hot": false
-  },
-  {
-   "title": "[8월5일] \"오픈AI가 무너질 것\"이라는 2년 전 예측...그 이후 무슨 일이 일어났나",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213551",
-   "summary": "2024년 7월 미국의 IT 칼럼니스트 에드 지트론은 당시 AI 업계를 뒤흔든 글 하나를 공개했습니다. 제목은 '오픈AI는 어떻게 살아남을 것인가(How OpenAI Survives)'입니다.그의 주장은 현재의 오픈AI는 지속 가능한 구조가 아니며, 역사상 최대 규모의 자금 조달과 획기적인 기술 혁신이 없다면 12~24개월을 버티기 어렵다는 것이었습니다. 당시는 오픈AI가 'GPT-4o'를 내놓으며 압도적인 선두를 달리던 시절입니다. 앤트로픽의 코딩 AI도 아직 눈길을 끌지 못했으며, 구글은 여전히 선두권 경쟁과 거리가 멀었습니다.",
-   "publishedAt": 1785967200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.8,
-   "hot": false
-  },
-  {
-   "title": "AI시대 ‘승자’는?… 전기 혁명 당시 에디슨에 비유해보니",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213576",
-   "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
-   "publishedAt": 1785966900000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.8,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1357,7 +1357,21 @@
    "comments": 28,
    "publishedAt": 1785842277000,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "Lua 커뮤니티는 과거 버전을 떠나보내는 법을 배워야 함",
+   "url": "https://news.hada.io/topic?id=32154",
+   "summary": "지원 종료된 버전까지 호환하는 관행 탓에 Lua 라이브러리 유지보수자들이 20년 넘은 레거시 를 계속 떠안고 있음 Lua/LuaJIT가 5.2 무렵 갈라진 뒤 양쪽을 지원하기 위해 Lua 5.1을 공통 기준으로 삼았고, 새 버전이 나와도 이 5.1 기준점 에서 벗어나지 못함 ...",
+   "publishedAt": 1785888346000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1371,35 +1385,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.5,
    "hot": false
   },
   {
-   "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-   "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-   "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-   "publishedAt": 1785962831000,
-   "source": "Ars Technica",
+   "title": "[8월5일] \"오픈AI가 무너질 것\"이라는 2년 전 예측...그 이후 무슨 일이 일어났나",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213551",
+   "summary": "2024년 7월 미국의 IT 칼럼니스트 에드 지트론은 당시 AI 업계를 뒤흔든 글 하나를 공개했습니다. 제목은 '오픈AI는 어떻게 살아남을 것인가(How OpenAI Survives)'입니다.그의 주장은 현재의 오픈AI는 지속 가능한 구조가 아니며, 역사상 최대 규모의 자금 조달과 획기적인 기술 혁신이 없다면 12~24개월을 버티기 어렵다는 것이었습니다. 당시는 오픈AI가 'GPT-4o'를 내놓으며 압도적인 선두를 달리던 시절입니다. 앤트로픽의 코딩 AI도 아직 눈길을 끌지 못했으며, 구글은 여전히 선두권 경쟁과 거리가 멀었습니다.",
+   "publishedAt": 1785967200000,
+   "source": "AI타임스",
    "sourceType": "media",
-   "lang": "en",
+   "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
-   "url": "https://pedroth.github.io/?p=post/NoNeedReact",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49165665",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 137,
-   "comments": 110,
-   "publishedAt": 1785831062000,
-   "isAI": false,
-   "score": 31.1,
+   "score": 31.5,
    "hot": false
   }
  ]
