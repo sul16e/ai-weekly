@@ -3032,5 +3032,20 @@
  },
  "옵트에이아이, 온디바이스 특화 자체 경량 AI 모델 '옵트기어' 공개": {
   "tldr": "옵트에이아이가 스마트폰부터 MCU까지 구동 가능한 온디바이스 특화 경량 모델 '옵트기어'를 오픈웨이트로 공개했다."
+ },
+ "Android 휴대폰에서 Linux로 전환하기": {
+  "img": "https://social.news.hada.io/topic/32201?v=df8373bdbf0c637bd11660fd2ef52878",
+  "hook": "안드로이드 버리고 리눅스폰 써봤다",
+  "tldr": "Google Play Services 의존과 폐쇄성에 지친 개발자가 Fairphone 4에 SailfishOS를 설치해 모바일 리눅스로 전환했지만, 은행·정부 인증 앱 때문에 안드로이드를 완전히 버리진 못했다는 실사용 후기다.",
+  "detail": "안드로이드를 완전히 떠나는 건 아직 불가능하다는 게 이 후기의 결론입니다. 작성자는 Google Play Services의 광범위한 추적, 커스텀 ROM 개발을 막는 기기 트리 폐쇄, OS에 계속 추가되는 AI 기능, 원하는 앱을 설치하지 못하게 하는 제한이 쌓이면서 '천 번의 작은 상처로 인한 죽음' 같은 상황이라고 판단했고, AOSP도 사라지는 건 시간문제라고 봤습니다. 세 운영체제를 모두 지원하는 Fairphone 4에서 Ubuntu Touch, postmarketOS, SailfishOS를 검토한 뒤 제스처 기반 탐색과 애플리케이션 프레임워크가 마음에 든 SailfishOS를 선택했습니다. 다만 비공식 Fairphone 포트에서는 Waydroid와 GPS가 아예 작동하지 않고, Python과 glibc 버전이 매우 오래돼 간단한 작업도 불필요하게 어려워졌습니다. Ubuntu Touch는 Waydroid를 돌릴 수 있다는 강점이 있었지만 알림과 클립보드가 동기화되지 않아 Bitwarden 같은 앱 사용이 힘들었고, 전화번호 차단 기능도 찾지 못했습니다. 결국 노르웨이 은행·정부 서비스 로그인용 인증 앱과 브라질에서 개인 안전을 위해 필요한 Uber 때문에 Galaxy A17을 보조 기기로 들고 다니며, Fairphone 4의 핫스팟으로 필요한 작업만 처리한 뒤 끄는 방식을 쓰고 있습니다. 해커뉴스 댓글에서는 문제의 본질이 안드로이드 자체가 아니라 Google Play Services이며, Play Integrity가 대체 구현체의 등장을 막는 장치에 가깝다는 지적이 나왔습니다.",
+  "bullets": [
+   "작성자가 안드로이드를 떠난 이유는 특정 사건이 아니라 Google Play Services의 광범위한 추적, 기기 트리 폐쇄로 어려워진 커스텀 ROM, OS에 밀려 들어오는 AI 기능, 앱 설치 제한이 누적된 '천 번의 작은 상처'였습니다.",
+   "Ubuntu Touch·postmarketOS·SailfishOS를 모두 검토한 끝에 제스처 탐색과 앱 프레임워크를 이유로 SailfishOS를 골랐지만, 비공식 Fairphone 포트라 Waydroid와 GPS가 작동하지 않고 Python·glibc 버전도 매우 낡았다고 합니다.",
+   "결국 노르웨이 은행·정부 로그인 인증 앱과 브라질에서 안전상 필요한 Uber 때문에 Galaxy A17을 보조폰으로 들고 다니는데, 이게 지금 모바일 리눅스의 현실적인 한계로 보입니다."
+  ]
+ },
+ "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’": {
+  "ko": "OpenAI \"애플의 영업비밀 소송, 근본부터 썩었다\" 각하 요청",
+  "tldr": "OpenAI가 자사를 영업비밀 절취 혐의로 제소한 애플의 소송에 대해 근거 없는 주장이라며 연방법원에 소송 각하를 신청했다."
  }
 }
