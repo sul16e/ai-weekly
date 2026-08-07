@@ -1,5 +1,5 @@
 {
- "updatedAt": 1786081682598,
+ "updatedAt": 1786085344319,
  "week": "2026-W32",
  "items": [
   {
@@ -9,25 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 515,
-   "comments": 398,
+   "engagement": 554,
+   "comments": 427,
    "publishedAt": 1786047791000,
    "isAI": true,
    "score": 61.3,
    "hot": true
   },
   {
-   "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-   "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49195468",
+   "title": "Software development with AI is starting to feel like cooking steak",
+   "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49198069",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 276,
-   "comments": 198,
-   "publishedAt": 1786017487000,
+   "engagement": 340,
+   "comments": 369,
+   "publishedAt": 1786030248000,
    "isAI": true,
-   "score": 51.4,
+   "score": 54.4,
    "hot": true
   },
   {
@@ -37,11 +37,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 197,
-   "comments": 146,
+   "engagement": 210,
+   "comments": 153,
    "publishedAt": 1786035724000,
    "isAI": true,
    "score": 51.2,
+   "hot": true
+  },
+  {
+   "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+   "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49195468",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 284,
+   "comments": 201,
+   "publishedAt": 1786017487000,
+   "isAI": true,
+   "score": 51.1,
+   "hot": true
+  },
+  {
+   "title": "남은 것은 안목뿐이다",
+   "url": "https://news.hada.io/topic?id=32232",
+   "summary": "AI 도구가 아이디어를 작동하는 결과물로 바꾸는 비용을 거의 없애면서, 소프트웨어에서 희소한 능력은 제작 자체보다 무엇을 만들고 남길지 결정하는 안목(taste) 으로 이동함 안목은 단순한 선호가 아니라 여러 그럴듯한 결과 가운데 잘못된 것을 감지하고 “ 아니, 다시...",
+   "publishedAt": 1786084382000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
+  },
+  {
+   "title": "AI한테 시험을 냈는데 출제자가 5번 틀렸다 - LLM 파이프라인 검증기",
+   "url": "https://news.hada.io/topic?id=32231",
+   "summary": "카톡 주문 메시지를 상품 코드로 바꿔주는 LLM 파이프라인을 만들기 전에, 테스트 29개(정답지·채점기 포함)부터 만들었습니다. 결과는 두 모델 모두 치명 오류 0건 통과. 그런데 그 과정에서 제가 쓴 정답지가 3번, 채점기가 2번 틀렸습니다. 헷갈리게 심어둔 함정에 출제자인 제가 빠졌고, 모델이 \"확인",
+   "publishedAt": 1786082738000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
    "hot": true
   },
   {
@@ -52,10 +94,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 138,
-   "comments": 115,
+   "comments": 116,
    "publishedAt": 1786045125000,
    "isAI": true,
-   "score": 49.6,
+   "score": 49.1,
    "hot": false
   },
   {
@@ -69,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.8,
    "hot": true
   },
   {
@@ -83,7 +125,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": false
   },
   {
@@ -97,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -111,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -125,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -139,8 +181,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.6,
    "hot": true
+  },
+  {
+   "title": "Born Against, or why hobby programming communities are against LLM usage",
+   "url": "https://blog.fogus.me/llm/born-against.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49187061",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 413,
+   "comments": 488,
+   "publishedAt": 1785955069000,
+   "isAI": true,
+   "score": 46.3,
+   "hot": false
+  },
+  {
+   "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+   "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49186762",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 425,
+   "comments": 115,
+   "publishedAt": 1785953936000,
+   "isAI": true,
+   "score": 46.3,
+   "hot": false
   },
   {
    "title": "LLM은 ‘점프’할 수 없다",
@@ -153,36 +223,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.3,
    "hot": true
   },
   {
-   "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-   "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49186762",
+   "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+   "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49204352",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 425,
-   "comments": 114,
-   "publishedAt": 1785953936000,
-   "isAI": true,
-   "score": 46.7,
-   "hot": false
-  },
-  {
-   "title": "Born Against, or why hobby programming communities are against LLM usage",
-   "url": "https://blog.fogus.me/llm/born-against.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49187061",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 410,
-   "comments": 487,
-   "publishedAt": 1785955069000,
-   "isAI": true,
-   "score": 46.6,
-   "hot": false
+   "engagement": 163,
+   "comments": 104,
+   "publishedAt": 1786061188000,
+   "isAI": false,
+   "score": 45.4,
+   "hot": true
   },
   {
    "title": "Working with the American Psychological Association on youth mental health and AI",
@@ -195,7 +251,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.2,
    "hot": false
   },
   {
@@ -206,24 +262,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 319,
-   "comments": 262,
+   "comments": 263,
    "publishedAt": 1785959246000,
    "isAI": true,
-   "score": 45.4,
-   "hot": false
-  },
-  {
-   "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
-   "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49204352",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 145,
-   "comments": 87,
-   "publishedAt": 1786061188000,
-   "isAI": false,
-   "score": 44.8,
+   "score": 45,
    "hot": false
   },
   {
@@ -233,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 828,
-   "comments": 893,
+   "engagement": 832,
+   "comments": 894,
    "publishedAt": 1785945931000,
    "isAI": false,
-   "score": 44.7,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -251,8 +293,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "Gwern, 전업 글쓰기와 익명 활동을 그만두고 Guardian Angel을 출시",
@@ -265,8 +307,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "Prime Agent: A self-improving RLM agent",
@@ -275,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 247,
+   "engagement": 249,
    "comments": 61,
    "publishedAt": 1785964317000,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -293,7 +335,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -307,7 +349,7 @@
    "comments": 473,
    "publishedAt": 1785982514000,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -317,11 +359,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 443,
-   "comments": 487,
+   "engagement": 445,
+   "comments": 490,
    "publishedAt": 1785959413000,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -335,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.5,
    "hot": true
   },
   {
@@ -349,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -359,11 +401,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 256,
+   "engagement": 257,
    "comments": 110,
    "publishedAt": 1785933707000,
    "isAI": true,
-   "score": 41.3,
+   "score": 41,
    "hot": false
   },
   {
@@ -377,35 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
-   "hot": true
-  },
-  {
-   "title": "Android 휴대폰에서 Linux로 전환하기",
-   "url": "https://news.hada.io/topic?id=32201",
-   "summary": "Google Play Services의 광범위한 추적 , 커스텀 ROM을 어렵게 하는 기기 트리 폐쇄, AI 기능 확대, 앱 설치 제한이 누적되면서 모바일 Linux로 전환함 Fairphone 4에서 Ubuntu Touch·postmarketOS·SailfishOS를 검토한 끝에, 제스처 탐색과 애플리케이션 프레임워크가 뛰어난",
-   "publishedAt": 1786008724000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.7,
-   "hot": false
-  },
-  {
-   "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
-   "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49193173",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 215,
-   "comments": 173,
-   "publishedAt": 1785997482000,
-   "isAI": false,
-   "score": 40.6,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -419,7 +433,35 @@
    "comments": 465,
    "publishedAt": 1785843017000,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.3,
+   "hot": false
+  },
+  {
+   "title": "Android 휴대폰에서 Linux로 전환하기",
+   "url": "https://news.hada.io/topic?id=32201",
+   "summary": "Google Play Services의 광범위한 추적 , 커스텀 ROM을 어렵게 하는 기기 트리 폐쇄, AI 기능 확대, 앱 설치 제한이 누적되면서 모바일 Linux로 전환함 Fairphone 4에서 Ubuntu Touch·postmarketOS·SailfishOS를 검토한 끝에, 제스처 탐색과 애플리케이션 프레임워크가 뛰어난",
+   "publishedAt": 1786008724000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 40.3,
+   "hot": false
+  },
+  {
+   "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+   "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49193173",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 216,
+   "comments": 176,
+   "publishedAt": 1785997482000,
+   "isAI": false,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -429,11 +471,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 165,
+   "engagement": 166,
    "comments": 98,
    "publishedAt": 1785953823000,
    "isAI": true,
-   "score": 40.3,
+   "score": 40,
    "hot": false
   },
   {
@@ -447,7 +489,7 @@
    "comments": 54,
    "publishedAt": 1785941609000,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -461,35 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
-   "hot": true
-  },
-  {
-   "title": "Jujutsu 0.44.0 릴리스",
-   "url": "https://news.hada.io/topic?id=32221",
-   "summary": "Git 호환 버전 관리 시스템 Jujutsu 0.44.0 은 태그 가져오기와 푸시를 안정화하고, 태그를 북마크처럼 추적하거나 추적 해제할 수 있게 함 jj git fetch 는 원격 태그를 @ 로 가져와 같은 이름의 로컬 태그가 자동 추적하게 하며...",
-   "publishedAt": 1786061474000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.6,
-   "hot": true
-  },
-  {
-   "title": "Python 문자열 리터럴의 예상 밖 구문 규칙",
-   "url": "https://news.hada.io/topic?id=32220",
-   "summary": "Python의 raw 문자열 리터럴 도 일반 문자열처럼 어휘 분석되므로 끝에 홀수 개의 백슬래시를 둘 수 없음 r'asdf\\' 는 마지막 따옴표가 종료 문자로 처리되지 않아 문법 오류가 되지만, r'asdf\\'' 는 유효하며 문자열 내용은 asdf\\' 가 됨 ...",
-   "publishedAt": 1786061294000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.5,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -503,8 +517,36 @@
    "comments": 1,
    "publishedAt": 1785945937000,
    "isAI": false,
-   "score": 39.4,
+   "score": 39.1,
    "hot": false
+  },
+  {
+   "title": "Jujutsu 0.44.0 릴리스",
+   "url": "https://news.hada.io/topic?id=32221",
+   "summary": "Git 호환 버전 관리 시스템 Jujutsu 0.44.0 은 태그 가져오기와 푸시를 안정화하고, 태그를 북마크처럼 추적하거나 추적 해제할 수 있게 함 jj git fetch 는 원격 태그를 @ 로 가져와 같은 이름의 로컬 태그가 자동 추적하게 하며...",
+   "publishedAt": 1786061474000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.1,
+   "hot": true
+  },
+  {
+   "title": "Python 문자열 리터럴의 예상 밖 구문 규칙",
+   "url": "https://news.hada.io/topic?id=32220",
+   "summary": "Python의 raw 문자열 리터럴 도 일반 문자열처럼 어휘 분석되므로 끝에 홀수 개의 백슬래시를 둘 수 없음 r'asdf\\' 는 마지막 따옴표가 종료 문자로 처리되지 않아 문법 오류가 되지만, r'asdf\\'' 는 유효하며 문자열 내용은 asdf\\' 가 됨 ...",
+   "publishedAt": 1786061294000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.1,
+   "hot": true
   },
   {
    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
@@ -517,7 +559,7 @@
    "comments": 133,
    "publishedAt": 1785861365000,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -545,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -559,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -573,21 +615,7 @@
    "comments": 216,
    "publishedAt": 1785948333000,
    "isAI": true,
-   "score": 38.4,
-   "hot": false
-  },
-  {
-   "title": "When online commenters detect my art as AI",
-   "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49188916",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 105,
-   "comments": 58,
-   "publishedAt": 1785963532000,
-   "isAI": true,
-   "score": 38.2,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -601,7 +629,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.9,
+   "hot": false
+  },
+  {
+   "title": "When online commenters detect my art as AI",
+   "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49188916",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 105,
+   "comments": 58,
+   "publishedAt": 1785963532000,
+   "isAI": true,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -615,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -629,7 +671,7 @@
    "comments": 247,
    "publishedAt": 1785880901000,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -643,7 +685,21 @@
    "comments": 283,
    "publishedAt": 1785857862000,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.4,
+   "hot": false
+  },
+  {
+   "title": "Why Erdős Problems Are Falling to AI",
+   "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49181519",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 148,
+   "comments": 137,
+   "publishedAt": 1785930574000,
+   "isAI": true,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -657,22 +713,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
-  },
-  {
-   "title": "Why Erdős Problems Are Falling to AI",
-   "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49181519",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 148,
-   "comments": 137,
-   "publishedAt": 1785930574000,
-   "isAI": true,
-   "score": 37.6,
-   "hot": false
   },
   {
    "title": "rust-lang/rust가 LLM 사용 정책을 도입함",
@@ -685,21 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.3,
-   "hot": false
-  },
-  {
-   "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-   "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-   "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-   "publishedAt": 1786056233000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 37.1,
+   "score": 37,
    "hot": false
   },
   {
@@ -713,7 +741,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
+   "hot": false
+  },
+  {
+   "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+   "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+   "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+   "publishedAt": 1786056233000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -727,21 +769,7 @@
    "comments": 46,
    "publishedAt": 1785965085000,
    "isAI": false,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "Cargo를 위한 비전",
-   "url": "https://news.hada.io/topic?id=32209",
-   "summary": "Stack Overflow 2025 설문에서 가장 선호되는 개발 도구로 꼽힌 Cargo 를 더 발전시키기 위해 의존성 관리, 빌드 성능, 적응성, 유지보수라는 네 축에서 이상적인 작업 흐름을 모색함 crates.io 생태계의 재사용과 공동 감사를 살리면서 품질 좋은 패키지 탐색 , Edi...",
-   "publishedAt": 1786035928000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.8,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -755,7 +783,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "Cargo를 위한 비전",
+   "url": "https://news.hada.io/topic?id=32209",
+   "summary": "Stack Overflow 2025 설문에서 가장 선호되는 개발 도구로 꼽힌 Cargo 를 더 발전시키기 위해 의존성 관리, 빌드 성능, 적응성, 유지보수라는 네 축에서 이상적인 작업 흐름을 모색함 crates.io 생태계의 재사용과 공동 감사를 살리면서 품질 좋은 패키지 탐색 , Edi...",
+   "publishedAt": 1786035928000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -769,7 +811,7 @@
    "comments": 107,
    "publishedAt": 1785837655000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -783,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -797,21 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "《Blade Runner》 타이틀 카드가 놀라운 이유",
-   "url": "https://news.hada.io/topic?id=32207",
-   "summary": "《Blade Runner》는 Goudy Oldstyle 한 가지 서체 에 대문자, 크기, 색상, 이탤릭 변주를 더해 디스토피아적 미래의 분위기를 구축함 타이포그래피는 정보를 읽기 쉽게 전달하는 데 그치지 않고 감정과 인상 을 만들며, 프로젝트마다 필요한 감정의 강도도 달라짐",
-   "publishedAt": 1786023470000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.6,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -825,7 +853,34 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.3,
+   "hot": false
+  },
+  {
+   "title": "Friday humor",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhmyje/friday_humor/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 29.2,
+   "publishedAt": 1786066306000,
+   "isAI": true,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "《Blade Runner》 타이틀 카드가 놀라운 이유",
+   "url": "https://news.hada.io/topic?id=32207",
+   "summary": "《Blade Runner》는 Goudy Oldstyle 한 가지 서체 에 대문자, 크기, 색상, 이탤릭 변주를 더해 디스토피아적 미래의 분위기를 구축함 타이포그래피는 정보를 읽기 쉽게 전달하는 데 그치지 않고 감정과 인상 을 만들며, 프로젝트마다 필요한 감정의 강도도 달라짐",
+   "publishedAt": 1786023470000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -839,20 +894,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "ChatGPT brings unlimited text chats to free users",
-   "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-   "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-   "publishedAt": 1786037682000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
    "score": 35.2,
    "hot": false
   },
@@ -867,7 +908,21 @@
    "comments": 374,
    "publishedAt": 1785756534000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "ChatGPT brings unlimited text chats to free users",
+   "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+   "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+   "publishedAt": 1786037682000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -881,21 +936,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "‘장애 동글’: 실리콘밸리가 나와 당신을 싫어하는 이유",
-   "url": "https://news.hada.io/topic?id=32202",
-   "summary": "장애 동글(Disability Dongle) 은 장애인이 겪는 현실보다 비장애인의 시선과 디자인 수상에 맞춘, 화려하고 비싸며 기술적으로 인상적인 장치를 뜻함 3만 달러짜리 계단 등반 휠체어보다 경사로와 넓은 문 이 저렴하고 안정적이며, 유모차·손수레·노인에게도 유용...",
-   "publishedAt": 1786014086000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -909,7 +950,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.3,
+   "hot": false
+  },
+  {
+   "title": "‘장애 동글’: 실리콘밸리가 나와 당신을 싫어하는 이유",
+   "url": "https://news.hada.io/topic?id=32202",
+   "summary": "장애 동글(Disability Dongle) 은 장애인이 겪는 현실보다 비장애인의 시선과 디자인 수상에 맞춘, 화려하고 비싸며 기술적으로 인상적인 장치를 뜻함 3만 달러짜리 계단 등반 휠체어보다 경사로와 넓은 문 이 저렴하고 안정적이며, 유모차·손수레·노인에게도 유용...",
+   "publishedAt": 1786014086000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -923,21 +978,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-   "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-   "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly st",
-   "publishedAt": 1786029032000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.4,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -951,7 +992,35 @@
    "comments": 71,
    "publishedAt": 1785909144000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+   "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+   "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly st",
+   "publishedAt": 1786029032000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…\"오픈소스 첫 사례\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213667",
+   "summary": "오픈AI와 앤트로픽, 메타에 이어 이번에는 문샷 AI의 '키미 K3'가 사이버보안 평가 과정에서 격리된 시뮬레이션 환경(샌드박스)을 벗어나 외부 인터넷에 접속한 사실이 확인됐다. 특히 이번은 오픈소스 모델이라는 점에서 주목된다.미국 사이버 보안 스타트업 프론티어 시큐리티는 키미 K3의 사이버 보안 방어 능력을 검증하던 중 모델이 격리망을 무단 이탈해 평가 문제 해결에 필요한 답안을 외부 인터넷에서 직접 찾아낸 정황을 감지했다고 밝혔다. 프론티어 시큐리티는 영국 AI 안전 연구소(UK AISI)가 오픈소스로 공개한 평가 프레임워크(I",
+   "publishedAt": 1786084379000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -965,7 +1034,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -979,7 +1048,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -993,21 +1062,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "모빌린트, USB형 AI 가속기 'MLD-R1' 출시...온디바이스 시장 공략",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213661",
-   "summary": "모빌린트(대표 신동주)는 USB 형태 AI 가속기 'MLD-R1'을 출시하며 온디바이스 AI 시장 공략에 나선다고 7일 밝혔다.MLD-R1은 모빌린트의 독립형 AI 시스템온칩(SoC) '레귤러스(REGULUS)'를 기반으로 개발됐으며, 지난 6월 '컴퓨텍스 2026'에서 공개된 이후 상용화 과정을 거쳐 정식 출시됐다.별도의 AI 가속기 카드 장착이나 시스템 변경 없이 USB 연결만으로 온디바이스 AI 추론 기능을 추가할 수 있는 것이 특징이다.노트북, 산업용 PC, 임베디드 시스템 등에 연결해 사용할 수 있으며, 윈도우와 리눅스 운",
-   "publishedAt": 1786081155000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1021,7 +1076,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "모빌린트, USB형 AI 가속기 'MLD-R1' 출시...온디바이스 시장 공략",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213661",
+   "summary": "모빌린트(대표 신동주)는 USB 형태 AI 가속기 'MLD-R1'을 출시하며 온디바이스 AI 시장 공략에 나선다고 7일 밝혔다.MLD-R1은 모빌린트의 독립형 AI 시스템온칩(SoC) '레귤러스(REGULUS)'를 기반으로 개발됐으며, 지난 6월 '컴퓨텍스 2026'에서 공개된 이후 상용화 과정을 거쳐 정식 출시됐다.별도의 AI 가속기 카드 장착이나 시스템 변경 없이 USB 연결만으로 온디바이스 AI 추론 기능을 추가할 수 있는 것이 특징이다.노트북, 산업용 PC, 임베디드 시스템 등에 연결해 사용할 수 있으며, 윈도우와 리눅스 운",
+   "publishedAt": 1786081155000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1035,7 +1104,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1049,90 +1118,6 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "베슬AI, 블랙웰 'B200' 1000장 확보...연내 1만장 목표로 'AI 팩토리' 구축 가속",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213659",
-   "summary": "베슬AI(대표 안재만)는 SK텔레콤과 협력해 엔비디아 블랙웰(B200) GPU 1000장 이상을 확보했다고 7일 밝혔다.이번에 확보한 B200은 '베슬 클라우드'를 통해 공급된다. 베슬AI는 현재 다수의 글로벌 데이터센터에서 확보한 A100, H100, B200 등 고성능 GPU를 온디맨드·스팟·예약형으로 서비스를 제공 중이다.해당 자원은 고객에게 공급되는 동시에 베슬 클라우드 서비스 고도화에도 활용된다. 이를 통해 고객별 AI 워크로드에 맞춰 컴퓨팅 자원과 개발·운영 환경, 인프라 체계를 통합 제공하는 'AI 팩토리 서비스' 구축",
-   "publishedAt": 1786077884000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "소프트뱅크, 오픈AI 담보 14조 대출 확보…'인텔 효과'에 실적 호조",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213657",
-   "summary": "소프트뱅크가 오픈AI 지분을 담보로 100억달러(약 14조원)를 조달하며 AI 투자 확대에 속도를 내고 있다. 동시에 지난해 단행한 인텔 투자에서 80억달러(약 11조원)가 넘는 평가이익을 거두며 시장 기대를 웃도는 실적을 발표했다. 소프트뱅크는 6일(현지시간) 분기 실적 발표와 함께 오픈AI 지분을 담보로 골드만삭스, JP모건, 미즈호증권, 아폴로 글로벌, 미쓰이스미토모은행(SMBC) 등으로 구성된 은행 컨소시엄으로부터 2년 만기의 100억달러 마진론을 확보했다고 밝혔다.이번 자금은 올해 초 발표한 총 300억달러(약 43조원)",
-   "publishedAt": 1786077024000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "취미 프로그래밍 커뮤니티가 LLM 사용에 강하게 반대하는 이유",
-   "url": "https://news.hada.io/topic?id=32172",
-   "summary": "체스 엔진 개발, OSDev, LangDev, EmuDev 같은 취미 커뮤니티는 작동하는 결과물보다 어려운 분야를 직접 익히는 숙련 과정 자체 를 중시함 오랜 노력으로 축적한 지식을 LLM으로 우회해 완성품을 만드는 행위는 활동의 목적을 놓치거나 부정행위 를 하는 것으로 받아...",
-   "publishedAt": 1785927683000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "클라이온, KT·KT 클라우드 출신 김주성 신임 대표 선임",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213658",
-   "summary": "클라이온은 김주성 전 가온아이 전략사업부 최고 전략책임자(CSO)를 신임 대표 및 총괄사장으로 선임했다고 7일 밝혔다.김 대표는 KT와 KT 클라우드에서 28년간 근무하며 클라우드 사업 기획과 전략 수립, 기술개발, 영업, 조직 운영에 이르는 경험을 쌓았다.특히 국내 최초 공공 클라우드인 'G-클라우드'의 상용화를 주도했으며, 금융권 퍼블릭 클라우드 도입과 고성능 AI 컴퓨팅 서비스 및 AI 인프라 출시 등을 이끈 바 있다.이후 가온아이 전략사업부 CSO로서 AI 에이전트 사업과 클라우드 네이티브 전환사업 등 신규 사업의 전략 수립",
-   "publishedAt": 1786075423000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "오픈AI 'AI 스피커'는 한손에 들어오는 도넛 모양...가격은 40만원대 전망",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213647",
-   "summary": "오픈AI가 2027년 출시를 목표로 개발 중인 첫 AI 하드웨어가 화면이 없는 도넛 형태의 소형 AI 스피커로, 사용자의 반응에 맞춰 스스로 움직이는 부품과 조명을 탑재해 기존 스마트 스피커와 차별화된 경험을 제공할 전망이다. 가격은 300~400달러(약 42만6000~56만8000원) 수준으로 책정될 것으로 알려졌다.블룸버그는 6일(현지시간) 오픈AI의 첫 AI 기기가 디스플레이를 제거한 스마트 스피커 형태로 개발 중이라고 보도했다.크기는 지름 약 3인치(약 7.6센티미터)인 아이스하키 퍽 정도로, 도넛 모양의 원형 디자인을 채택",
-   "publishedAt": 1786075250000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Eight Myths on Software Engineering and GenAI",
-   "url": "https://queue.acm.org/detail.cfm?id=3807963",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49176830",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 289,
-   "comments": 247,
-   "publishedAt": 1785887452000,
-   "isAI": false,
    "score": 33.3,
    "hot": false
   },
@@ -1147,7 +1132,77 @@
    "comments": 442,
    "publishedAt": 1785749527000,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "베슬AI, 블랙웰 'B200' 1000장 확보...연내 1만장 목표로 'AI 팩토리' 구축 가속",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213659",
+   "summary": "베슬AI(대표 안재만)는 SK텔레콤과 협력해 엔비디아 블랙웰(B200) GPU 1000장 이상을 확보했다고 7일 밝혔다.이번에 확보한 B200은 '베슬 클라우드'를 통해 공급된다. 베슬AI는 현재 다수의 글로벌 데이터센터에서 확보한 A100, H100, B200 등 고성능 GPU를 온디맨드·스팟·예약형으로 서비스를 제공 중이다.해당 자원은 고객에게 공급되는 동시에 베슬 클라우드 서비스 고도화에도 활용된다. 이를 통해 고객별 AI 워크로드에 맞춰 컴퓨팅 자원과 개발·운영 환경, 인프라 체계를 통합 제공하는 'AI 팩토리 서비스' 구축",
+   "publishedAt": 1786077884000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "소프트뱅크, 오픈AI 담보 14조 대출 확보…'인텔 효과'에 실적 호조",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213657",
+   "summary": "소프트뱅크가 오픈AI 지분을 담보로 100억달러(약 14조원)를 조달하며 AI 투자 확대에 속도를 내고 있다. 동시에 지난해 단행한 인텔 투자에서 80억달러(약 11조원)가 넘는 평가이익을 거두며 시장 기대를 웃도는 실적을 발표했다. 소프트뱅크는 6일(현지시간) 분기 실적 발표와 함께 오픈AI 지분을 담보로 골드만삭스, JP모건, 미즈호증권, 아폴로 글로벌, 미쓰이스미토모은행(SMBC) 등으로 구성된 은행 컨소시엄으로부터 2년 만기의 100억달러 마진론을 확보했다고 밝혔다.이번 자금은 올해 초 발표한 총 300억달러(약 43조원)",
+   "publishedAt": 1786077024000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "Eight Myths on Software Engineering and GenAI",
+   "url": "https://queue.acm.org/detail.cfm?id=3807963",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49176830",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 290,
+   "comments": 248,
+   "publishedAt": 1785887452000,
+   "isAI": false,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "클라이온, KT·KT 클라우드 출신 김주성 신임 대표 선임",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213658",
+   "summary": "클라이온은 김주성 전 가온아이 전략사업부 최고 전략책임자(CSO)를 신임 대표 및 총괄사장으로 선임했다고 7일 밝혔다.김 대표는 KT와 KT 클라우드에서 28년간 근무하며 클라우드 사업 기획과 전략 수립, 기술개발, 영업, 조직 운영에 이르는 경험을 쌓았다.특히 국내 최초 공공 클라우드인 'G-클라우드'의 상용화를 주도했으며, 금융권 퍼블릭 클라우드 도입과 고성능 AI 컴퓨팅 서비스 및 AI 인프라 출시 등을 이끈 바 있다.이후 가온아이 전략사업부 CSO로서 AI 에이전트 사업과 클라우드 네이티브 전환사업 등 신규 사업의 전략 수립",
+   "publishedAt": 1786075423000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "오픈AI 'AI 스피커'는 한손에 들어오는 도넛 모양...가격은 40만원대 전망",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213647",
+   "summary": "오픈AI가 2027년 출시를 목표로 개발 중인 첫 AI 하드웨어가 화면이 없는 도넛 형태의 소형 AI 스피커로, 사용자의 반응에 맞춰 스스로 움직이는 부품과 조명을 탑재해 기존 스마트 스피커와 차별화된 경험을 제공할 전망이다. 가격은 300~400달러(약 42만6000~56만8000원) 수준으로 책정될 것으로 알려졌다.블룸버그는 6일(현지시간) 오픈AI의 첫 AI 기기가 디스플레이를 제거한 스마트 스피커 형태로 개발 중이라고 보도했다.크기는 지름 약 3인치(약 7.6센티미터)인 아이스하키 퍽 정도로, 도넛 모양의 원형 디자인을 채택",
+   "publishedAt": 1786075250000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1161,7 +1216,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1175,7 +1230,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1189,7 +1244,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1203,7 +1258,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1217,47 +1272,19 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
-   "title": "Friday humor",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhmyje/friday_humor/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
+   "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
+   "url": "https://huggingface.co/papers/2608.05987",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "publishedAt": 1786066306000,
+   "engagement": 46,
+   "summary": "Reinforcement learning (RL) with verifiable rewards constructs trajectory-level advantage estimates, yet it often fails to credit the few pivotal decisions that determine outcomes in long-horizon, multi-turn agentic tasks. Recent work introduces privileged self-distillation for credit assignment, pr",
+   "publishedAt": 1785960000000,
    "isAI": true,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "Show GN: SVN KR : 한글 사용자를 위한 mac용 SVN 앱",
-   "url": "https://news.hada.io/topic?id=32197",
-   "summary": "안녕하세요 최근 사내에서 외주 프로젝트에서 SVN을 사용할일이 있었는데, 상용 맥용 SVN 프로그램이 문제가 많고, CLI는 매번 너무 불편해서 하나 만들어서 사내에서 사용하다가 함께 사용하면 좋을것 같아 무료로 스토어에 올렸습니다. 주요 기능 여러 폴더 동시에 관리 가능 Wi",
-   "publishedAt": 1785984557000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "Zed DeltaDB 얼리 액세스",
-   "url": "https://news.hada.io/topic?id=32195",
-   "summary": "DeltaDB 는 커밋 사이의 작업 과정까지 기록하고, 각 변경을 이를 만든 대화와 연결하는 버전 관리 시스템임 모든 편집에 안정적인 식별자 를 부여해 코드가 변화해 온 어느 시점으로든 되돌아갈 수 있음 코드 변경과 에이전트 대화 를 양방...",
-   "publishedAt": 1785983494000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 32,
    "hot": false
   },
@@ -1272,7 +1299,35 @@
    "comments": 140,
    "publishedAt": 1785776055000,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.8,
+   "hot": false
+  },
+  {
+   "title": "Show GN: SVN KR : 한글 사용자를 위한 mac용 SVN 앱",
+   "url": "https://news.hada.io/topic?id=32197",
+   "summary": "안녕하세요 최근 사내에서 외주 프로젝트에서 SVN을 사용할일이 있었는데, 상용 맥용 SVN 프로그램이 문제가 많고, CLI는 매번 너무 불편해서 하나 만들어서 사내에서 사용하다가 함께 사용하면 좋을것 같아 무료로 스토어에 올렸습니다. 주요 기능 여러 폴더 동시에 관리 가능 Wi",
+   "publishedAt": 1785984557000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.8,
+   "hot": false
+  },
+  {
+   "title": "Zed DeltaDB 얼리 액세스",
+   "url": "https://news.hada.io/topic?id=32195",
+   "summary": "DeltaDB 는 커밋 사이의 작업 과정까지 기록하고, 각 변경을 이를 만든 대화와 연결하는 버전 관리 시스템임 모든 편집에 안정적인 식별자 를 부여해 코드가 변화해 온 어느 시점으로든 되돌아갈 수 있음 코드 변경과 에이전트 대화 를 양방...",
+   "publishedAt": 1785983494000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1286,7 +1341,7 @@
    "comments": 232,
    "publishedAt": 1785766547000,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1300,7 +1355,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1314,20 +1369,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
-   "url": "https://huggingface.co/papers/2608.05987",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 40,
-   "summary": "Reinforcement learning (RL) with verifiable rewards constructs trajectory-level advantage estimates, yet it often fails to credit the few pivotal decisions that determine outcomes in long-horizon, multi-turn agentic tasks. Recent work introduces privileged self-distillation for credit assignment, pr",
-   "publishedAt": 1785960000000,
-   "isAI": true,
-   "score": 31.3,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1341,7 +1383,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
+   "score": 31,
    "hot": false
   },
   {
@@ -1349,48 +1391,6 @@
    "url": "https://www.aitimes.com/news/articleView.html?idxno=213631",
    "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
    "publishedAt": 1786053300000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "The Warp Agent CLI",
-   "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49171766",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 110,
-   "comments": 63,
-   "publishedAt": 1785863321000,
-   "isAI": true,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-   "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price ove",
-   "publishedAt": 1786049739000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31,
-   "hot": false
-  },
-  {
-   "title": "하태진 버넥트 대표 \"제조 AX 열쇠는 AI 안경…안전·로봇까지 확장\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213579",
-   "summary": "메타가 주도하는 AI 안경 시장에 애플과 삼성전자가 뛰어들며 경쟁이 치열해지고 있다. 갈수록 얇고 가벼워지는 디자인에 음성 명령만으로 촬영, 번역, 검색까지 가능하지만, B2C 시장에서는 프라이버시 침해 우려가 발목을 잡는다.이에 오히려 안전과 생산성 향상이 시급한 B2B 산업 현장에서 AI 안경이 더 빠르게 안착할 것이라는 분석이 나온다.하태진 버넥트 대표는 B2B AI 안경이 제조 현장의 변화를 가져올 것이라고 강조했다. 그는 국내 최초 확장현실(XR) 연구실인 KAIST 유비쿼터스 가상현실 랩 출신이다.■ 제조 AX 시대, 베",
-   "publishedAt": 1786050000000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
