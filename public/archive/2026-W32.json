@@ -1,5 +1,5 @@
 {
- "updatedAt": 1786171162392,
+ "updatedAt": 1786174840691,
  "week": "2026-W32",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 560,
-   "comments": 336,
+   "engagement": 582,
+   "comments": 350,
    "publishedAt": 1786125380000,
    "isAI": true,
-   "score": 60,
+   "score": 59.7,
    "hot": true
   },
   {
@@ -23,11 +23,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 442,
-   "comments": 305,
+   "engagement": 449,
+   "comments": 308,
    "publishedAt": 1786124190000,
    "isAI": true,
-   "score": 57.8,
+   "score": 57.4,
+   "hot": true
+  },
+  {
+   "title": "Managing AI Coding Costs at Scale",
+   "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49214468",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 219,
+   "comments": 195,
+   "publishedAt": 1786127117000,
+   "isAI": true,
+   "score": 51.9,
    "hot": true
   },
   {
@@ -38,24 +52,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 898,
-   "comments": 674,
+   "comments": 677,
    "publishedAt": 1786047791000,
    "isAI": true,
-   "score": 52.3,
+   "score": 51.9,
    "hot": false
   },
   {
-   "title": "Managing AI Coding Costs at Scale",
-   "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49214468",
-   "source": "Hacker News",
+   "title": "Show GN: 외부 AI 결과를 여러 SNS에 예약하고 실제 발행 상태를 추적하는 ANKK",
+   "url": "https://news.hada.io/topic?id=32261",
+   "summary": "SNS 자동화에서 API가 202를 반환한 시점과 실제 게시물이 공개된 시점은 다릅니다. 이 차이를 운영하면서 반복해서 겪어, 외부 AI·스크립트에서 만든 콘텐츠를 여러 SNS에 예약하고 accepted → queued → publishing → published/failed 를 추적하는 호스팅형 도구 ANKK를 만들었습니다. 무료로",
+   "publishedAt": 1786172309000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 213,
-   "comments": 194,
-   "publishedAt": 1786127117000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": true,
-   "score": 52.2,
+   "score": 49.6,
    "hot": true
   },
   {
@@ -69,7 +83,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.5,
+   "score": 49,
    "hot": false
   },
   {
@@ -79,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 310,
-   "comments": 180,
+   "engagement": 318,
+   "comments": 181,
    "publishedAt": 1786129148000,
    "isAI": false,
-   "score": 48.5,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -97,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -107,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 168,
-   "comments": 103,
+   "engagement": 169,
+   "comments": 104,
    "publishedAt": 1786109250000,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -121,12 +135,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 183,
-   "comments": 48,
+   "engagement": 185,
+   "comments": 49,
    "publishedAt": 1786099327000,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.8,
    "hot": true
+  },
+  {
+   "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+   "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49204352",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 755,
+   "comments": 405,
+   "publishedAt": 1786061188000,
+   "isAI": false,
+   "score": 46.5,
+   "hot": false
   },
   {
    "title": "AI가 재편하는 차세대 사이버보안 스택",
@@ -139,22 +167,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
    "hot": true
-  },
-  {
-   "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-   "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49204352",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 753,
-   "comments": 401,
-   "publishedAt": 1786061188000,
-   "isAI": false,
-   "score": 46.9,
-   "hot": false
   },
   {
    "title": "AI가 린 스타트업 플레이북을 무너뜨리고 있는가? [유튜브]",
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.1,
    "hot": false
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 45,
    "hot": true
   },
   {
@@ -251,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 45,
    "hot": true
   },
   {
@@ -261,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 405,
+   "engagement": 407,
    "comments": 415,
    "publishedAt": 1786030248000,
    "isAI": true,
-   "score": 45,
+   "score": 44.7,
    "hot": false
   },
   {
@@ -275,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 171,
-   "comments": 114,
+   "engagement": 179,
+   "comments": 115,
    "publishedAt": 1786137597000,
    "isAI": false,
-   "score": 44.6,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -293,8 +307,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
@@ -303,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 312,
+   "engagement": 313,
    "comments": 258,
    "publishedAt": 1786035724000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -321,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -335,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -345,11 +359,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 331,
+   "engagement": 332,
    "comments": 244,
    "publishedAt": 1786017487000,
    "isAI": true,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -359,11 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 188,
-   "comments": 105,
+   "engagement": 197,
+   "comments": 106,
    "publishedAt": 1786105735000,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.5,
    "hot": true
   },
   {
@@ -377,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41,
    "hot": true
   },
   {
@@ -391,22 +405,8 @@
    "comments": 9,
    "publishedAt": 1786051821000,
    "isAI": true,
-   "score": 40.2,
-   "hot": false
-  },
-  {
-   "title": "이번 주 App Store 거절 사례: Dark Hours",
-   "url": "https://news.hada.io/topic?id=32258",
-   "summary": "일반인을 위한 천문학 앱 Dark Hours 가 점성술 앱으로 오인돼 App Store 심사에서 거절됨 타로와 운세 등 점성술 관련 기능이 전혀 없으며, 몇 초만 살펴봐도 천문학 서비스 라는 점을 확인할 수 있음 개발자 Terry Godier가 App Review Board까지 이의를 ...",
-   "publishedAt": 1786152701000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 39.8,
-   "hot": true
+   "hot": false
   },
   {
    "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
@@ -415,11 +415,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 159,
-   "comments": 65,
+   "engagement": 163,
+   "comments": 66,
    "publishedAt": 1786099941000,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -433,8 +433,22 @@
    "comments": 120,
    "publishedAt": 1786045125000,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.3,
    "hot": false
+  },
+  {
+   "title": "이번 주 App Store 거절 사례: Dark Hours",
+   "url": "https://news.hada.io/topic?id=32258",
+   "summary": "일반인을 위한 천문학 앱 Dark Hours 가 점성술 앱으로 오인돼 App Store 심사에서 거절됨 타로와 운세 등 점성술 관련 기능이 전혀 없으며, 몇 초만 살펴봐도 천문학 서비스 라는 점을 확인할 수 있음 개발자 Terry Godier가 App Review Board까지 이의를 ...",
+   "publishedAt": 1786152701000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.3,
+   "hot": true
   },
   {
    "title": "평가 주도 개발 (Eval-driven development)",
@@ -447,35 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
-   "hot": true
-  },
-  {
-   "title": "Orca - 여러 병렬 코딩 에이전트를 위한 오픈소스 ADE",
-   "url": "https://news.hada.io/topic?id=32253",
-   "summary": "자신의 구독을 그대로 사용해, 터미널에서 실행되는 모든 CLI 에이전트 (Codex/ClaudeCode/OpenCode/Pi 등)를 구동 Parallel Worktrees 로 각 에이전트를 격리된 git worktree 에서 나란히 실행하고 한 곳에서 추적 하나의 프롬프트를 다섯...",
-   "publishedAt": 1786148341000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.3,
-   "hot": true
-  },
-  {
-   "title": "셸의 느낌표는 외침이 아니다: 반복 입력을 줄이는 ! 활용법",
-   "url": "https://news.hada.io/topic?id=32252",
-   "summary": "bash , csh , tcsh , zsh 의 이벤트 지정자 는 이전 명령이나 인수를 직접 참조해 반복 입력과 히스토리 탐색을 줄여줌 ![event][:word][:modifier] 형식으로 명령 선택·단어 추출·문자열 변환 을 하나...",
-   "publishedAt": 1786147605000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.2,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -489,8 +475,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.9,
    "hot": false
+  },
+  {
+   "title": "Orca - 여러 병렬 코딩 에이전트를 위한 오픈소스 ADE",
+   "url": "https://news.hada.io/topic?id=32253",
+   "summary": "자신의 구독을 그대로 사용해, 터미널에서 실행되는 모든 CLI 에이전트 (Codex/ClaudeCode/OpenCode/Pi 등)를 구동 Parallel Worktrees 로 각 에이전트를 격리된 git worktree 에서 나란히 실행하고 한 곳에서 추적 하나의 프롬프트를 다섯...",
+   "publishedAt": 1786148341000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.8,
+   "hot": true
+  },
+  {
+   "title": "셸의 느낌표는 외침이 아니다: 반복 입력을 줄이는 ! 활용법",
+   "url": "https://news.hada.io/topic?id=32252",
+   "summary": "bash , csh , tcsh , zsh 의 이벤트 지정자 는 이전 명령이나 인수를 직접 참조해 반복 입력과 히스토리 탐색을 줄여줌 ![event][:word][:modifier] 형식으로 명령 선택·단어 추출·문자열 변환 을 하나...",
+   "publishedAt": 1786147605000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.8,
+   "hot": true
   },
   {
    "title": "AI한테 시험을 냈는데 출제자가 5번 틀렸다 - LLM 파이프라인 검증기",
@@ -503,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -517,7 +531,7 @@
    "comments": 516,
    "publishedAt": 1785955069000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -527,11 +541,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 430,
+   "engagement": 431,
    "comments": 122,
    "publishedAt": 1785953936000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.5,
+   "hot": false
+  },
+  {
+   "title": "스테이크를 굽는 데는 거의 기술이 필요하지 않다",
+   "url": "https://news.hada.io/topic?id=32229",
+   "summary": "AI로 소프트웨어를 만드는 일은 뜨거운 팬에 고기를 올리는 것처럼 시작하기 쉽지만, 원하는 품질을 일관되게 재현 하려면 전문적인 판단과 이해가 필요함 AI는 요구사항에 따라 작업을 빠르게 반복하는 스테이크 기계 에 가까우며, 사용자가 실제로 원하는 결과까지...",
+   "publishedAt": 1786077124000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -545,22 +573,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
-  },
-  {
-   "title": "스테이크를 굽는 데는 거의 기술이 필요하지 않다",
-   "url": "https://news.hada.io/topic?id=32229",
-   "summary": "AI로 소프트웨어를 만드는 일은 뜨거운 팬에 고기를 올리는 것처럼 시작하기 쉽지만, 원하는 품질을 일관되게 재현 하려면 전문적인 판단과 이해가 필요함 AI는 요구사항에 따라 작업을 빠르게 반복하는 스테이크 기계 에 가까우며, 사용자가 실제로 원하는 결과까지...",
-   "publishedAt": 1786077124000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.5,
-   "hot": false
   },
   {
    "title": "취미 규모에서 무너지는 웹 서버 배포 모델",
@@ -573,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -587,7 +601,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -601,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -615,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -629,7 +643,7 @@
    "comments": 265,
    "publishedAt": 1785959246000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -643,7 +657,7 @@
    "comments": 922,
    "publishedAt": 1785945931000,
    "isAI": false,
-   "score": 37.3,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -657,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -671,21 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.2,
-   "hot": false
-  },
-  {
-   "title": "프롬프트로 프로토타입은 만들 수 있어도, 안목까지 만들 수는 없다",
-   "url": "https://news.hada.io/topic?id=32223",
-   "summary": "생성형 AI로 누구나 빠르게 완성품처럼 보이는 결과물을 만들 수 있게 됐지만, 무엇을 만들고 무엇을 버릴지 결정하는 안목과 판단력 은 오랜 비평과 반복적인 교정을 통해 형성됨 AI도 피드백을 통해 개선되지만, 점수를 높이는 방향으로 학습하는 것과 낯선 문제에서도 판단 근거를...",
-   "publishedAt": 1786062782000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -699,7 +699,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
+   "hot": false
+  },
+  {
+   "title": "프롬프트로 프로토타입은 만들 수 있어도, 안목까지 만들 수는 없다",
+   "url": "https://news.hada.io/topic?id=32223",
+   "summary": "생성형 AI로 누구나 빠르게 완성품처럼 보이는 결과물을 만들 수 있게 됐지만, 무엇을 만들고 무엇을 버릴지 결정하는 안목과 판단력 은 오랜 비평과 반복적인 교정을 통해 형성됨 AI도 피드백을 통해 개선되지만, 점수를 높이는 방향으로 학습하는 것과 낯선 문제에서도 판단 근거를...",
+   "publishedAt": 1786062782000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -709,11 +723,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 115,
+   "engagement": 116,
    "comments": 24,
    "publishedAt": 1786032351000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -727,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -741,21 +755,7 @@
    "comments": 53,
    "publishedAt": 1786079877000,
    "isAI": false,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "OpenAI says it slowed Astra model development over security concerns",
-   "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-   "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-   "publishedAt": 1786142904000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -769,7 +769,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "OpenAI says it slowed Astra model development over security concerns",
+   "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+   "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+   "publishedAt": 1786142904000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -783,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -797,7 +811,7 @@
    "comments": 68,
    "publishedAt": 1785964317000,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -811,21 +825,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "From asking to doing: How the world is putting ChatGPT to work",
-   "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-   "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-   "publishedAt": 1785974400000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 35.5,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -839,7 +839,21 @@
    "comments": 465,
    "publishedAt": 1785843017000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "From asking to doing: How the world is putting ChatGPT to work",
+   "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+   "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+   "publishedAt": 1785974400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -853,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -867,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -881,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -891,11 +905,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 473,
+   "engagement": 474,
    "comments": 517,
    "publishedAt": 1785959413000,
    "isAI": false,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -909,7 +923,7 @@
    "comments": 110,
    "publishedAt": 1785933707000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -923,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -937,7 +951,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -951,7 +965,7 @@
    "comments": 474,
    "publishedAt": 1785982514000,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -965,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -979,7 +993,7 @@
    "comments": 133,
    "publishedAt": 1785861365000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -993,35 +1007,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-   "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-   "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a theory that doesn’t pa",
-   "publishedAt": 1786111200000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "이모지만으로 유용한 DOS 실행 파일을 만들 수 있을까",
-   "url": "https://news.hada.io/topic?id=32234",
-   "summary": "UTF-8 이모지의 바이트열을 8088 명령어 로 직접 해석해, 이모지만으로 작동하는 DOS 실행 파일을 만들 가능성을 탐색함 여러 이모지가 0xF0 0x9F 로 시작하며, 8088에서는 각각 LOCK 접두사와 LAHF 가 되므로 AH 레지스터가 계속 손상...",
-   "publishedAt": 1786093302000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1035,7 +1021,35 @@
    "comments": 104,
    "publishedAt": 1785953823000,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+   "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+   "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or Anthropic’s Claude constitution, it’s a theory that doesn’t pa",
+   "publishedAt": 1786111200000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "이모지만으로 유용한 DOS 실행 파일을 만들 수 있을까",
+   "url": "https://news.hada.io/topic?id=32234",
+   "summary": "UTF-8 이모지의 바이트열을 8088 명령어 로 직접 해석해, 이모지만으로 작동하는 DOS 실행 파일을 만들 가능성을 탐색함 여러 이모지가 0xF0 0x9F 로 시작하며, 8088에서는 각각 LOCK 접두사와 LAHF 가 되므로 AH 레지스터가 계속 손상...",
+   "publishedAt": 1786093302000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1049,7 +1063,7 @@
    "comments": 54,
    "publishedAt": 1785941609000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1063,7 +1077,7 @@
    "comments": 192,
    "publishedAt": 1785997482000,
    "isAI": false,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1077,21 +1091,7 @@
    "comments": 1,
    "publishedAt": 1785945937000,
    "isAI": false,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "zot – 단일 Go 바이너리부터 HA 클러스터까지 확장 가능한 가벼운 OCI Registry",
-   "url": "https://news.hada.io/topic?id=32230",
-   "summary": "OCI Distribution/Image Specification을 중심으로 설계된 오픈소스 컨테이너 이미지·아티팩트 레지스트리 정적으로 빌드된 단일 Go 바이너리 로 실행되며, 기본 구성에서는 PostgreSQL이나 Redis 같은 별도 서비스를 준비할 필요가 없음 모든 기능이 포함된 Full 빌드와 핵...",
-   "publishedAt": 1786081172000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1105,7 +1105,21 @@
    "comments": 283,
    "publishedAt": 1785857862000,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "zot – 단일 Go 바이너리부터 HA 클러스터까지 확장 가능한 가벼운 OCI Registry",
+   "url": "https://news.hada.io/topic?id=32230",
+   "summary": "OCI Distribution/Image Specification을 중심으로 설계된 오픈소스 컨테이너 이미지·아티팩트 레지스트리 정적으로 빌드된 단일 Go 바이너리 로 실행되며, 기본 구성에서는 PostgreSQL이나 Redis 같은 별도 서비스를 준비할 필요가 없음 모든 기능이 포함된 Full 빌드와 핵...",
+   "publishedAt": 1786081172000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1119,7 +1133,7 @@
    "comments": 247,
    "publishedAt": 1785880901000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1133,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1147,21 +1161,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "‘클로드’에 백업 맡겼더니 홈 디렉토리 전체 삭제...\"미안, 오타였다\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213702",
-   "summary": "AI 코딩 에이전트가 사용자의 지시를 수행하는 과정에서 경로를 잘못 해석해 시스템의 주요 데이터를 삭제하는 사고가 발생했다. 한 개발자가 앤트로픽의 '클로드 오퍼스 5'에 시스템 백업을 요청했다가 사용자 프로필 폴더 전체를 삭제당한 사례가 알려지면서, 강력한 권한을 가진 AI 에이전트의 안전성과 접근 권한 관리가 다시 도마에 올랐다.5일(현지시간) 레딧 ‘클로드 코드’ 커뮤니티에는 한 개발자(Ecstatic-Big5126)의 사연이 올라 눈길을 끌었다. 그는 클로드 오퍼스 5에 자신의 시스템을 백업해 달라고 요청했다고 밝혔다.하지만",
-   "publishedAt": 1786151451000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1175,91 +1175,7 @@
    "comments": 64,
    "publishedAt": 1785963532000,
    "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "[AI카툰] Bob, Senior IT guy - 밥, 로봇청소기의 주인 또는 하인",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213693",
-   "summary": "글·그림 Dr. Alf",
-   "publishedAt": 1786150800000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "여수, 경도 진입도로 공사로 신월5길 19일부터 전면 통제",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213689",
-   "summary": "AI 생성 영상여수시는 광양만권경제자유구역청이 추진하는 경도지구 진입도로 개설공사의 교대 파일공사와 공사용 가도 조성을 위해 차량 통제를 실시한다고 7일 밝혔다.여수 경도지구 진입도로 공사로 신월5길 일부 구간의 차량 통행이 19일부터 9월30일까지 전면 통제된다.통제 구간은 금성아파트에서 스타벅스 앞까지 약 70m로, 인근 신월로 보도와 1차로 약 87m 구간도 임시 통제된다. 금성아파트와 주변 상가를 이용하는 차량은 신월6길 교차로와 어항단지로를 이용해 우회해야 한다.교통 통제에 앞서 시공사와 감리사는 9일 오후 4시 금성아파트",
-   "publishedAt": 1786150200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "목포, 노인 목욕·이미용비, 2027년부터 전자카드로 전환",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213685",
-   "summary": "AI 생성 영상목포시가 2027년 1월부터 노인 목욕비와 이·미용비 지원 방식을 지류 이용권에서 전자 바우처 카드로 전환한다고 7일 밝혔다.약 2만5000명의 대상자가 분기마다 동 행정복지센터를 찾아 이용권을 받아야 했던 절차가 사라지고, 분실이나 훼손 때도 카드를 다시 발급받을 수 있게 된다.목포는 노인 목욕비 및 이·미용비 지원 조례 전부개정 조례안을 입법예고했다. 관련 절차를 마친 뒤 2027년 1월부터 새 지원 방식을 시행할 예정이다.지원 대상은 목포에 주민등록을 두고 거주하는 70세 이상 기초연금 수급자다. 노인요양시설 입",
-   "publishedAt": 1786150200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "목포, 폭염 대응 강화…독거노인·무더위쉼터 현장 점검",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213682",
-   "summary": "AI 생성 영상목포시가 연일 이어지는 폭염 속에서 시민 안전을 위한 현장 중심 대응을 강화하고 있다. 강성휘 목포시장은 7일 여름휴가를 반납하고 폭염 취약계층 가정, 무더위쉼터, 건설현장, 관광지 등을 찾아 대응 상황을 점검했다.이번 현장 점검은 폭염 장기화에 따라 시민 생활과 밀접한 분야의 안전관리 상황을 직접 확인하기 위해 마련됐다. 목포는 취약계층 보호, 야외 근로자 온열질환 예방, 다중이용시설 운영 실태 등을 살피고 미흡한 부분을 보완한다는 방침이다.강 시장은 이날 가로변 제초작업 현장을 시작으로 독거노인 가정을 방문해 건강",
-   "publishedAt": 1786150200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "순천, 배달·대리기사 산재보험료 80% 지원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213672",
-   "summary": "AI 생성 영상순천시가 배달노동자와 대리운전기사의 산재보험료 부담을 줄이기 위해 플랫폼노동자 산재보험료 지원사업을 본격 시행한다고 7일 밝혔다.지원금은 본인이 납부한 산재보험료의 80%로, 1인당 월 최대 15530원, 7개월 기준 최대 10만8710원까지 받을 수 있다. 지원 대상은 2026년 6월 이전 순천에 주소를 둔 18세 이상 배달노동자와 대리운전기사다. 노무 산재보험에 가입돼 있어야 하며 예산이 소진될 때까지 수시 접수한다. 지원금은 선착순으로 지급된다.신청자는 사업 신청서와 산재보험료 부과내역서 등 5종의 서류를 제출해",
-   "publishedAt": 1786150200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "허깅페이스 CEO \"중국, 오픈 AI 모델로 올해 미국 첨단 모델 추월할 수도\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213700",
-   "summary": "중국이 오픈 웨이트 모델을 중심으로 미국과의 기술 격차를 빠르게 좁히면서 올해 안에 최첨단 AI 분야에서도 미국을 추월할 수 있다는 전망이 나왔다. 특히 중국의 개방적인 협업과 모델 공유 생태계가 기술 발전을 가속하는 반면, 미국 AI 기업들은 각자 고립된 환경에서 모델을 개발하면서 경쟁에서 뒤처질 위험이 있다는 지적이다.클레망 들랑그 허깅페이스 CEO는 3일(현지시간) CNBC와의 인터뷰에서 “중국은 현재 오픈 모델 분야에서 분명하게 앞서가고 있다”며 “현재와 같은 발전 속도가 이어진다면, 올해 말이나 내년에는 최첨단 모델에서도",
-   "publishedAt": 1786150192000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1273,35 +1189,105 @@
    "comments": 217,
    "publishedAt": 1785948333000,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false
   },
   {
-   "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213703",
-   "summary": "오픈AI가 자율 AI 에이전트들이 허깅페이스를 공격했던 전말을 영상을 통해 구체적으로 소개했다. 40분 분량의 발표를 통해 에이전트들의 자율적인 비밀 소통, 시스템 우회 방식, 사고 과정 등 내부 상황이 상세하게 전해졌다.오픈AI의 안전 연구원 에릭 월리스와 보안 엔지니어 마이클 달튼은 지난 5일 보안 컨퍼런스 '블랙햇 USA 2026' 무대에 올라 자사 에이전트들이 겪은 모델 정렬(Alignment) 실패의 상세 과정을 시각 자료와 함께 재구성해 선보였다. 사건의 발단은 지난 5월 초 진행된 미공개 프론티어 AI 모델의 내부 안전",
-   "publishedAt": 1786149312000,
+   "title": "‘클로드’에 백업 맡겼더니 홈 디렉토리 전체 삭제...\"미안, 오타였다\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213702",
+   "summary": "AI 코딩 에이전트가 사용자의 지시를 수행하는 과정에서 경로를 잘못 해석해 시스템의 주요 데이터를 삭제하는 사고가 발생했다. 한 개발자가 앤트로픽의 '클로드 오퍼스 5'에 시스템 백업을 요청했다가 사용자 프로필 폴더 전체를 삭제당한 사례가 알려지면서, 강력한 권한을 가진 AI 에이전트의 안전성과 접근 권한 관리가 다시 도마에 올랐다.5일(현지시간) 레딧 ‘클로드 코드’ 커뮤니티에는 한 개발자(Ecstatic-Big5126)의 사연이 올라 눈길을 끌었다. 그는 클로드 오퍼스 5에 자신의 시스템을 백업해 달라고 요청했다고 밝혔다.하지만",
+   "publishedAt": 1786151451000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false
   },
   {
-   "title": "광주, 일본 고치현과 청소년 국제교류 진행",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213641",
-   "summary": "AI 생성 영상전남광주통합특별시가 일본 고치현에서 6박7일간 청소년 교류사업을 진행하며 양 지역 청소년 교류 기반을 넓혔다고 7일 밝혔다.광주는 일본 고치현에서 2026 전남광주-고치현 청소년 교류사업을 지난 4일까지 진행했다. 이번 교류에는 전남자연과학고 2학년 학생 6명과 인솔교사, 광주 관계자 등 총 8명이 참가했다.학생들은 고치농업고와 고치해양고를 방문해 일본 학생들과 함께 수업과 실습, 문화교류 활동에 참여했다. 고치현립대 학생들과는 대학생활과 진로에 대한 의견을 나누며 국제적 시야를 넓히는 시간을 가졌다.문화체험 일정도",
-   "publishedAt": 1786149300000,
+   "title": "[AI카툰] Bob, Senior IT guy - 밥, 로봇청소기의 주인 또는 하인",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213693",
+   "summary": "글·그림 Dr. Alf",
+   "publishedAt": 1786150800000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "여수, 경도 진입도로 공사로 신월5길 19일부터 전면 통제",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213689",
+   "summary": "AI 생성 영상여수시는 광양만권경제자유구역청이 추진하는 경도지구 진입도로 개설공사의 교대 파일공사와 공사용 가도 조성을 위해 차량 통제를 실시한다고 7일 밝혔다.여수 경도지구 진입도로 공사로 신월5길 일부 구간의 차량 통행이 19일부터 9월30일까지 전면 통제된다.통제 구간은 금성아파트에서 스타벅스 앞까지 약 70m로, 인근 신월로 보도와 1차로 약 87m 구간도 임시 통제된다. 금성아파트와 주변 상가를 이용하는 차량은 신월6길 교차로와 어항단지로를 이용해 우회해야 한다.교통 통제에 앞서 시공사와 감리사는 9일 오후 4시 금성아파트",
+   "publishedAt": 1786150200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "목포, 노인 목욕·이미용비, 2027년부터 전자카드로 전환",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213685",
+   "summary": "AI 생성 영상목포시가 2027년 1월부터 노인 목욕비와 이·미용비 지원 방식을 지류 이용권에서 전자 바우처 카드로 전환한다고 7일 밝혔다.약 2만5000명의 대상자가 분기마다 동 행정복지센터를 찾아 이용권을 받아야 했던 절차가 사라지고, 분실이나 훼손 때도 카드를 다시 발급받을 수 있게 된다.목포는 노인 목욕비 및 이·미용비 지원 조례 전부개정 조례안을 입법예고했다. 관련 절차를 마친 뒤 2027년 1월부터 새 지원 방식을 시행할 예정이다.지원 대상은 목포에 주민등록을 두고 거주하는 70세 이상 기초연금 수급자다. 노인요양시설 입",
+   "publishedAt": 1786150200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "목포, 폭염 대응 강화…독거노인·무더위쉼터 현장 점검",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213682",
+   "summary": "AI 생성 영상목포시가 연일 이어지는 폭염 속에서 시민 안전을 위한 현장 중심 대응을 강화하고 있다. 강성휘 목포시장은 7일 여름휴가를 반납하고 폭염 취약계층 가정, 무더위쉼터, 건설현장, 관광지 등을 찾아 대응 상황을 점검했다.이번 현장 점검은 폭염 장기화에 따라 시민 생활과 밀접한 분야의 안전관리 상황을 직접 확인하기 위해 마련됐다. 목포는 취약계층 보호, 야외 근로자 온열질환 예방, 다중이용시설 운영 실태 등을 살피고 미흡한 부분을 보완한다는 방침이다.강 시장은 이날 가로변 제초작업 현장을 시작으로 독거노인 가정을 방문해 건강",
+   "publishedAt": 1786150200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "순천, 배달·대리기사 산재보험료 80% 지원",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213672",
+   "summary": "AI 생성 영상순천시가 배달노동자와 대리운전기사의 산재보험료 부담을 줄이기 위해 플랫폼노동자 산재보험료 지원사업을 본격 시행한다고 7일 밝혔다.지원금은 본인이 납부한 산재보험료의 80%로, 1인당 월 최대 15530원, 7개월 기준 최대 10만8710원까지 받을 수 있다. 지원 대상은 2026년 6월 이전 순천에 주소를 둔 18세 이상 배달노동자와 대리운전기사다. 노무 산재보험에 가입돼 있어야 하며 예산이 소진될 때까지 수시 접수한다. 지원금은 선착순으로 지급된다.신청자는 사업 신청서와 산재보험료 부과내역서 등 5종의 서류를 제출해",
+   "publishedAt": 1786150200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "허깅페이스 CEO \"중국, 오픈 AI 모델로 올해 미국 첨단 모델 추월할 수도\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213700",
+   "summary": "중국이 오픈 웨이트 모델을 중심으로 미국과의 기술 격차를 빠르게 좁히면서 올해 안에 최첨단 AI 분야에서도 미국을 추월할 수 있다는 전망이 나왔다. 특히 중국의 개방적인 협업과 모델 공유 생태계가 기술 발전을 가속하는 반면, 미국 AI 기업들은 각자 고립된 환경에서 모델을 개발하면서 경쟁에서 뒤처질 위험이 있다는 지적이다.클레망 들랑그 허깅페이스 CEO는 3일(현지시간) CNBC와의 인터뷰에서 “중국은 현재 오픈 모델 분야에서 분명하게 앞서가고 있다”며 “현재와 같은 발전 속도가 이어진다면, 올해 말이나 내년에는 최첨단 모델에서도",
+   "publishedAt": 1786150192000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1315,35 +1301,7 @@
    "comments": 107,
    "publishedAt": 1785837655000,
    "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "미국 상무부, 중국 AI 기업의 해외 엔비디아 칩 원격 접근 실태 조사 착수",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213701",
-   "summary": "미국 정부가 중국 AI 기업들이 해외 데이터센터를 활용해 엔비디아의 최첨단 GPU에 접근하는 합법적 및 불법적 경로에 대한 전면적인 검토에 나섰다. 7일(현지시간) 블룸버그에 따르면, 미 상무부 산하 산업안보국(BIS) 집행 부서는 동남아시아 등 제3국에 구축된 클라우드 컴퓨팅 인프라를 통해 중국 기업들이 미 정부의 수출 통제를 우회하고 있는 실태를 파악하기 위한 조사를 진행하고 있다. 이번 조사는 첨단 반도체의 중국 직접 반입을 노리는 암시장 거래국과 클라우드 임대 방식으로 원격 접근을 허용하는 국가의 목록을 작성하는 작업을 포함",
-   "publishedAt": 1786146948000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "Why Erdős Problems Are Falling to AI",
-   "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49181519",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 151,
-   "comments": 139,
-   "publishedAt": 1785930574000,
-   "isAI": true,
-   "score": 31.6,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1357,7 +1315,63 @@
    "comments": 374,
    "publishedAt": 1785756534000,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213703",
+   "summary": "오픈AI가 자율 AI 에이전트들이 허깅페이스를 공격했던 전말을 영상을 통해 구체적으로 소개했다. 40분 분량의 발표를 통해 에이전트들의 자율적인 비밀 소통, 시스템 우회 방식, 사고 과정 등 내부 상황이 상세하게 전해졌다.오픈AI의 안전 연구원 에릭 월리스와 보안 엔지니어 마이클 달튼은 지난 5일 보안 컨퍼런스 '블랙햇 USA 2026' 무대에 올라 자사 에이전트들이 겪은 모델 정렬(Alignment) 실패의 상세 과정을 시각 자료와 함께 재구성해 선보였다. 사건의 발단은 지난 5월 초 진행된 미공개 프론티어 AI 모델의 내부 안전",
+   "publishedAt": 1786149312000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "광주, 일본 고치현과 청소년 국제교류 진행",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213641",
+   "summary": "AI 생성 영상전남광주통합특별시가 일본 고치현에서 6박7일간 청소년 교류사업을 진행하며 양 지역 청소년 교류 기반을 넓혔다고 7일 밝혔다.광주는 일본 고치현에서 2026 전남광주-고치현 청소년 교류사업을 지난 4일까지 진행했다. 이번 교류에는 전남자연과학고 2학년 학생 6명과 인솔교사, 광주 관계자 등 총 8명이 참가했다.학생들은 고치농업고와 고치해양고를 방문해 일본 학생들과 함께 수업과 실습, 문화교류 활동에 참여했다. 고치현립대 학생들과는 대학생활과 진로에 대한 의견을 나누며 국제적 시야를 넓히는 시간을 가졌다.문화체험 일정도",
+   "publishedAt": 1786149300000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "Why Erdős Problems Are Falling to AI",
+   "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49181519",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 151,
+   "comments": 139,
+   "publishedAt": 1785930574000,
+   "isAI": true,
+   "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "미국 상무부, 중국 AI 기업의 해외 엔비디아 칩 원격 접근 실태 조사 착수",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213701",
+   "summary": "미국 정부가 중국 AI 기업들이 해외 데이터센터를 활용해 엔비디아의 최첨단 GPU에 접근하는 합법적 및 불법적 경로에 대한 전면적인 검토에 나섰다. 7일(현지시간) 블룸버그에 따르면, 미 상무부 산하 산업안보국(BIS) 집행 부서는 동남아시아 등 제3국에 구축된 클라우드 컴퓨팅 인프라를 통해 중국 기업들이 미 정부의 수출 통제를 우회하고 있는 실태를 파악하기 위한 조사를 진행하고 있다. 이번 조사는 첨단 반도체의 중국 직접 반입을 노리는 암시장 거래국과 클라우드 임대 방식으로 원격 접근을 허용하는 국가의 목록을 작성하는 작업을 포함",
+   "publishedAt": 1786146948000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1371,21 +1385,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213697",
-   "summary": "오픈AI가 차세대 모델 '아스트라(Astra)'의 개발 및 내부 테스트 작업을 일시 중단하고 고강도 보안 통제 체계로 전환했다. 업계에서는 아스트라가 이르면 다음 주 중 출시될 것으로 예상했으나, 내부 평가 과정에서 자율적인 제로데이 해킹 능력을 포함한 고위험 사이버보안 역량이 포착되면서 브레이크가 걸렸다.오픈AI는 7일(현지시간) 공식 블로그 게시물을 통해 아스트라가 준비성 프레임워크(Preparedness Framework)상 사이버보안 위험 등급이 최고 단계인 '치명적(Critical)' 임계값에 도달했을 가능성이 있다고 공식",
-   "publishedAt": 1786142552000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.3,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1399,7 +1399,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.2,
+   "score": 30.9,
    "hot": false
   }
  ]
