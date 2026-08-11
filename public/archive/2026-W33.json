@@ -1,5 +1,5 @@
 {
- "updatedAt": 1786446027484,
+ "updatedAt": 1786453093316,
  "week": "2026-W33",
  "items": [
   {
@@ -9,26 +9,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1122,
-   "comments": 609,
+   "engagement": 1131,
+   "comments": 611,
    "publishedAt": 1786356602000,
    "isAI": true,
-   "score": 58.6,
+   "score": 57.6,
    "hot": false
-  },
-  {
-   "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-   "url": "https://github.com/antirez/h3.c",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49252179",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 293,
-   "comments": 62,
-   "publishedAt": 1786411329000,
-   "isAI": true,
-   "score": 56.3,
-   "hot": true
   },
   {
    "title": "As AI eats the web, the internet’s collective memory is disappearing",
@@ -37,11 +23,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 332,
-   "comments": 356,
+   "engagement": 442,
+   "comments": 521,
    "publishedAt": 1786401390000,
    "isAI": true,
-   "score": 55.8,
+   "score": 57.1,
+   "hot": true
+  },
+  {
+   "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+   "url": "https://github.com/antirez/h3.c",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49252179",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 325,
+   "comments": 72,
+   "publishedAt": 1786411329000,
+   "isAI": true,
+   "score": 56.1,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 517,
-   "comments": 477,
+   "engagement": 548,
+   "comments": 502,
    "publishedAt": 1786370782000,
    "isAI": true,
-   "score": 54.8,
+   "score": 54.2,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 354,
-   "comments": 134,
+   "engagement": 389,
+   "comments": 143,
    "publishedAt": 1786382527000,
    "isAI": true,
-   "score": 53.5,
+   "score": 53.2,
    "hot": true
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 655,
+   "engagement": 663,
    "comments": 367,
    "publishedAt": 1786341758000,
    "isAI": true,
-   "score": 52.6,
+   "score": 51.7,
    "hot": false
   },
   {
@@ -93,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 192,
-   "comments": 152,
+   "engagement": 235,
+   "comments": 199,
    "publishedAt": 1786397816000,
    "isAI": true,
-   "score": 50.7,
+   "score": 51.4,
    "hot": true
   },
   {
@@ -107,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 211,
-   "comments": 141,
+   "engagement": 228,
+   "comments": 146,
    "publishedAt": 1786383673000,
    "isAI": true,
-   "score": 49.5,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -125,21 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.2,
-   "hot": true
-  },
-  {
-   "title": "LLM은 PCB 배선을 어디까지 할 수 있을까? 숙련자와 Net 단위로 비교해봤습니다",
-   "url": "https://news.hada.io/topic?id=32395",
-   "summary": "LLM은 아직 숙련된 HW 엔지니어처럼 PCB를 설계하지 못합니다. Fable 5까지 사용해봤지만, 결론은 크게 달라지지 않았습니다. 개인 프로젝트로 PCB부터 기구, 펌웨어, 모바일 앱, 백엔드(+LLM)까지 직접 만들어보고 있습니다. 그 과정에서 21mm 원형 4층 PCB(nRF54L15 + ICM-42688-P)의 배선도 LLM 에이",
-   "publishedAt": 1786434520000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.3,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -153,8 +139,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.3,
    "hot": false
+  },
+  {
+   "title": "LLM은 PCB 배선을 어디까지 할 수 있을까? 숙련자와 Net 단위로 비교해봤습니다",
+   "url": "https://news.hada.io/topic?id=32395",
+   "summary": "LLM은 아직 숙련된 HW 엔지니어처럼 PCB를 설계하지 못합니다. Fable 5까지 사용해봤지만, 결론은 크게 달라지지 않았습니다. 개인 프로젝트로 PCB부터 기구, 펌웨어, 모바일 앱, 백엔드(+LLM)까지 직접 만들어보고 있습니다. 그 과정에서 21mm 원형 4층 PCB(nRF54L15 + ICM-42688-P)의 배선도 LLM 에이",
+   "publishedAt": 1786434520000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47.3,
+   "hot": true
   },
   {
    "title": "Mistral Patent for “Code implemented tool calls”",
@@ -163,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 219,
-   "comments": 183,
+   "engagement": 221,
+   "comments": 186,
    "publishedAt": 1786368552000,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -177,11 +177,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 211,
-   "comments": 146,
+   "engagement": 216,
+   "comments": 153,
    "publishedAt": 1786368940000,
    "isAI": true,
-   "score": 47.6,
+   "score": 46.9,
+   "hot": true
+  },
+  {
+   "title": "Illinois just passed a law that puts Linux on the hook for age verification",
+   "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49249150",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 327,
+   "comments": 460,
+   "publishedAt": 1786393206000,
+   "isAI": false,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -195,21 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.6,
-   "hot": true
-  },
-  {
-   "title": "Illinois just passed a law that puts Linux on the hook for age verification",
-   "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49249150",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 321,
-   "comments": 456,
-   "publishedAt": 1786393206000,
-   "isAI": false,
-   "score": 47.4,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -223,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -237,7 +237,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.9,
+   "score": 46,
    "hot": false
   },
   {
@@ -251,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -265,35 +265,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46,
+   "score": 45.2,
    "hot": false
   },
   {
-   "title": "OpenChamber - AI 코딩을 위한 에이전트 개발 환경",
-   "url": "https://news.hada.io/topic?id=32381",
-   "summary": "OpenChamber 는 작업 목표 설정부터 다중 모델 실행, 코드 변경 검토, 앱 미리보기, GitHub 워크플로까지 한곳에 통합한 개발 환경임 Session Goals 는 앱을 닫아도 목표 달성을 위한 작업을 이어가며, Multi-run and Fusion 은 최대 5개 모델의 결과...",
-   "publishedAt": 1786415078000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.7,
-   "hot": true
-  },
-  {
-   "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-   "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49244569",
+   "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+   "url": "https://github.com/AntigmaLabs/ante",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49245437",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 149,
-   "comments": 164,
-   "publishedAt": 1786373792000,
+   "engagement": 147,
+   "comments": 83,
+   "publishedAt": 1786377563000,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.1,
    "hot": false
   },
   {
@@ -307,21 +293,35 @@
    "comments": 308,
    "publishedAt": 1786333800000,
    "isAI": true,
-   "score": 45.6,
+   "score": 44.9,
    "hot": false
   },
   {
-   "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
-   "url": "https://github.com/AntigmaLabs/ante",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49245437",
+   "title": "OpenChamber - AI 코딩을 위한 에이전트 개발 환경",
+   "url": "https://news.hada.io/topic?id=32381",
+   "summary": "OpenChamber 는 작업 목표 설정부터 다중 모델 실행, 코드 변경 검토, 앱 미리보기, GitHub 워크플로까지 한곳에 통합한 개발 환경임 Session Goals 는 앱을 닫아도 목표 달성을 위한 작업을 이어가며, Multi-run and Fusion 은 최대 5개 모델의 결과...",
+   "publishedAt": 1786415078000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 44.8,
+   "hot": true
+  },
+  {
+   "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+   "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49244569",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 135,
-   "comments": 80,
-   "publishedAt": 1786377563000,
+   "engagement": 149,
+   "comments": 165,
+   "publishedAt": 1786373792000,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.7,
    "hot": false
   },
   {
@@ -335,7 +335,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -349,7 +349,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -359,11 +359,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 144,
-   "comments": 21,
+   "engagement": 146,
+   "comments": 24,
    "publishedAt": 1786371641000,
    "isAI": true,
-   "score": 45,
+   "score": 44.3,
    "hot": false
   },
   {
@@ -377,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -391,8 +391,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
-   "hot": true
+   "score": 44,
+   "hot": false
+  },
+  {
+   "title": "GPT 5.6 Cyber",
+   "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49246704",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 114,
+   "comments": 59,
+   "publishedAt": 1786382040000,
+   "isAI": true,
+   "score": 43.6,
+   "hot": false
   },
   {
    "title": "Show GN: Claude Code·Codex 세션은 남기고 용량만 줄이기",
@@ -405,8 +419,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 43.6,
+   "hot": false
   },
   {
    "title": "DEF CON 34: AI는 버그바운티를 어떻게 바꾸고 있을까?",
@@ -419,21 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
-  },
-  {
-   "title": "GPT 5.6 Cyber",
-   "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49246704",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 111,
-   "comments": 54,
-   "publishedAt": 1786382040000,
-   "isAI": true,
-   "score": 44.2,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -447,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -461,7 +461,7 @@
    "comments": 80,
    "publishedAt": 1786331920000,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -472,10 +472,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 109,
-   "comments": 199,
+   "comments": 203,
    "publishedAt": 1786372700000,
    "isAI": true,
-   "score": 43,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -489,7 +489,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 43,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -499,11 +499,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 171,
-   "comments": 142,
+   "engagement": 176,
+   "comments": 144,
    "publishedAt": 1786397176000,
    "isAI": false,
-   "score": 42.7,
+   "score": 42.1,
+   "hot": true
+  },
+  {
+   "title": "프랑스, 사전 동의 없는 텔레마케팅 전화 금지",
+   "url": "https://news.hada.io/topic?id=32403",
+   "summary": "소비자를 침해적인 판매 권유와 사기성 상행위로부터 보호하기 위해 사전 동의 없는 텔레마케팅 전화 를 2026년 8월 11일부터 금지함 기업은 먼저 동의를 받아야 전화할 수 있고 소비자는 언제든 철회할 수 있지만, 기존 계약 관계 에 따른 신규 상업 제안은 허용됨...",
+   "publishedAt": 1786451522000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
    "hot": true
   },
   {
@@ -513,11 +527,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 188,
-   "comments": 93,
+   "engagement": 198,
+   "comments": 96,
    "publishedAt": 1786385569000,
    "isAI": false,
-   "score": 42.1,
+   "score": 41.7,
+   "hot": true
+  },
+  {
+   "title": "What's the best programming language for coding agents?",
+   "url": "http://danluu.com/pl-tokens/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49245936",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 209,
+   "comments": 137,
+   "publishedAt": 1786379338000,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
+  },
+  {
+   "title": "GitHub Actions에 OIDC audience 제약이 필요한 이유",
+   "url": "https://news.hada.io/topic?id=32402",
+   "summary": "GitHub Actions의 id-token: write 는 작업이 임의의 audience로 OIDC 토큰을 발급할 수 있게 해, 취약하거나 악성인 서드파티 코드가 다른 서비스로 권한을 확장 할 수 있음 OIDC의 aud 클레임 은 토큰을 받아들일 서비스를 제한해, 특정 ...",
+   "publishedAt": 1786446095000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -531,21 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
-   "hot": true
-  },
-  {
-   "title": "What's the best programming language for coding agents?",
-   "url": "http://danluu.com/pl-tokens/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49245936",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 190,
-   "comments": 126,
-   "publishedAt": 1786379338000,
-   "isAI": false,
-   "score": 41.5,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -555,11 +583,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 652,
-   "comments": 576,
+   "engagement": 653,
+   "comments": 581,
    "publishedAt": 1786288280000,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -573,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -597,12 +625,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 175,
+   "engagement": 176,
    "comments": 258,
    "publishedAt": 1786374788000,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.7,
    "hot": true
+  },
+  {
+   "title": "Anthropic says it will watermark text generated by its AI models",
+   "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+   "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+   "publishedAt": 1786450427000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.7,
+   "hot": false
   },
   {
    "title": "Show GN: AI 에이전트가 요구사항과 조사 자료를 연결하고, 한국어 표현을 검토하도록 하는 방법에 대해서",
@@ -615,7 +657,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
+   "score": 39.7,
+   "hot": false
+  },
+  {
+   "title": "2026년 상반기 IRC 기술 뉴스",
+   "url": "https://news.hada.io/topic?id=32360",
+   "summary": "IRC 생태계는 IRCv3 명세 확장 과 클라이언트·서버·바운서 개선을 이어가는 한편, AI 지원 개발 여부를 프로젝트 평가 정보로 표시하기 시작함 IRCv3 Working Group은 reply 와 WebSockets에 이어 Account Extended Ban , no-implicit-names",
+   "publishedAt": 1786367070000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -629,22 +685,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.1,
    "hot": true
-  },
-  {
-   "title": "2026년 상반기 IRC 기술 뉴스",
-   "url": "https://news.hada.io/topic?id=32360",
-   "summary": "IRC 생태계는 IRCv3 명세 확장 과 클라이언트·서버·바운서 개선을 이어가는 한편, AI 지원 개발 여부를 프로젝트 평가 정보로 표시하기 시작함 IRCv3 Working Group은 reply 와 WebSockets에 이어 Account Extended Ban , no-implicit-names",
-   "publishedAt": 1786367070000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40,
-   "hot": false
   },
   {
    "title": "HackerOne에 무슨 일이 일어났나?",
@@ -657,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.5,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -671,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.5,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -685,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -699,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -713,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -727,7 +769,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.6,
+   "score": 37.9,
+   "hot": false
+  },
+  {
+   "title": "The tragedy of the commons, AI edition",
+   "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49235011",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 144,
+   "comments": 112,
+   "publishedAt": 1786304632000,
+   "isAI": true,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -741,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -755,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -769,22 +825,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 37.6,
    "hot": true
-  },
-  {
-   "title": "The tragedy of the commons, AI edition",
-   "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49235011",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 144,
-   "comments": 112,
-   "publishedAt": 1786304632000,
-   "isAI": true,
-   "score": 38.2,
-   "hot": false
   },
   {
    "title": "Ask GN: Fable 5가 걍 반쪽짜리 뇌임",
@@ -797,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -811,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -825,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -839,35 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
-   "hot": true
-  },
-  {
-   "title": "엔지니어링 리더는 매일 무슨 일을 하는가",
-   "url": "https://news.hada.io/topic?id=32376",
-   "summary": "엔지니어링 리더의 업무는 코드나 기능처럼 눈에 보이는 산출물보다 대화/결정/조율/개입 을 통해 나타나며, 하루 대부분은 정보 수집 → 정보 공유 → 의사결정 → 의사결정에 영향 → 실행 주도 → 계획의 순환으로 구성됨 팀과 조직의 현실을 정확히 이해하려면 엔지니어/관리자/고...",
-   "publishedAt": 1786409281000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.7,
-   "hot": true
-  },
-  {
-   "title": "이명을 친구로 받아들였더니 사라졌다 [영상]",
-   "url": "https://news.hada.io/topic?id=32374",
-   "summary": "여러 소리 기반 전략이 효과를 내지 못한 뒤, 이명과 맞서기보다 관계를 바꾸고 친구로 받아들이는 접근 이 개인적으로 도움이 됐음 완화를 위한 소리 전략에는 백색 소음과 자연 차폐음 , 주파수 조정 소음, 노치 소음 등이 있음 myNoise의 Tinnit...",
-   "publishedAt": 1786408664000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.7,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -881,7 +895,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.1,
+   "hot": false
+  },
+  {
+   "title": "엔지니어링 리더는 매일 무슨 일을 하는가",
+   "url": "https://news.hada.io/topic?id=32376",
+   "summary": "엔지니어링 리더의 업무는 코드나 기능처럼 눈에 보이는 산출물보다 대화/결정/조율/개입 을 통해 나타나며, 하루 대부분은 정보 수집 → 정보 공유 → 의사결정 → 의사결정에 영향 → 실행 주도 → 계획의 순환으로 구성됨 팀과 조직의 현실을 정확히 이해하려면 엔지니어/관리자/고...",
+   "publishedAt": 1786409281000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37,
+   "hot": false
+  },
+  {
+   "title": "이명을 친구로 받아들였더니 사라졌다 [영상]",
+   "url": "https://news.hada.io/topic?id=32374",
+   "summary": "여러 소리 기반 전략이 효과를 내지 못한 뒤, 이명과 맞서기보다 관계를 바꾸고 친구로 받아들이는 접근 이 개인적으로 도움이 됐음 완화를 위한 소리 전략에는 백색 소음과 자연 차폐음 , 주파수 조정 소음, 노치 소음 등이 있음 myNoise의 Tinnit...",
+   "publishedAt": 1786408664000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -895,8 +937,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Instatic - Webflow, Framer, WordPress를 대체하는 오픈소스 셀프호스팅 비주얼 CMS",
@@ -909,8 +951,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Firefox Containers 미리보기",
@@ -923,8 +965,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "토글은 해롭다",
@@ -937,8 +979,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "당신이 하는 모든 일이 기록되는 시대",
@@ -951,7 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -962,10 +1004,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 177,
-   "comments": 58,
+   "comments": 59,
    "publishedAt": 1786331568000,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -979,23 +1021,9 @@
    "comments": 427,
    "publishedAt": 1786186664000,
    "isAI": true,
-   "score": 36,
+   "score": 35.6,
    "hot": false,
    "lastWeekRank": 1
-  },
-  {
-   "title": "1991년 Mars Bar 발견 — 현재 제품보다 20g 이상 커",
-   "url": "https://news.hada.io/topic?id=32366",
-   "summary": "영국 Scunthorpe에서 물건이 쌓인 주택을 정리하던 중 유통기한이 1991년인 35년 된 Mars Bar 가 발견돼 소셜 미디어에서 화제가 됨 포장 표기 중량은 과거 제품이 62.5g , 현재 제품이 40g으로 정확히 22.5g 차이 남 청소업체 Pocket Rockets를 운영하는 V...",
-   "publishedAt": 1786390297000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.8,
-   "hot": false
   },
   {
    "title": "DeepSeek V4 Flash 0731",
@@ -1008,22 +1036,21 @@
    "comments": 472,
    "publishedAt": 1786125380000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false,
    "lastWeekRank": 3
   },
   {
-   "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-   "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-   "summary": "San Francisco's housing market is in trouble again.",
-   "publishedAt": 1786406598000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
+   "title": "SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring",
+   "url": "https://huggingface.co/papers/2608.09802",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
+   "engagement": 96,
+   "summary": "As AI coding agents take on increasingly complex, long-horizon software engineering tasks, existing benchmarks are rapidly saturating and their evaluation quality has come under serious scrutiny: a recent audit found that nearly 60% of unsolved SWE-bench Verified instances contain flawed tests -- ei",
+   "publishedAt": 1786305600000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1037,7 +1064,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1051,7 +1078,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1065,8 +1092,51 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.1,
    "hot": false
+  },
+  {
+   "title": "1991년 Mars Bar 발견 — 현재 제품보다 20g 이상 커",
+   "url": "https://news.hada.io/topic?id=32366",
+   "summary": "영국 Scunthorpe에서 물건이 쌓인 주택을 정리하던 중 유통기한이 1991년인 35년 된 Mars Bar 가 발견돼 소셜 미디어에서 화제가 됨 포장 표기 중량은 과거 제품이 62.5g , 현재 제품이 40g으로 정확히 22.5g 차이 남 청소업체 Pocket Rockets를 운영하는 V...",
+   "publishedAt": 1786390297000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+   "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+   "summary": "San Francisco's housing market is in trouble again.",
+   "publishedAt": 1786406598000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "My server is a phone now",
+   "url": "https://seg6.space/posts/phone-server/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49226636",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 534,
+   "comments": 245,
+   "publishedAt": 1786229363000,
+   "isAI": false,
+   "score": 34.9,
+   "hot": false,
+   "lastWeekRank": 2
   },
   {
    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
@@ -1079,23 +1149,34 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.6,
+   "score": 34.9,
    "hot": false
   },
   {
-   "title": "My server is a phone now",
-   "url": "https://seg6.space/posts/phone-server/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49226636",
-   "source": "Hacker News",
+   "title": "Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA",
+   "url": "https://huggingface.co/papers/2608.09819",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 90,
+   "summary": "Macaron-V1 is an open agent-model family for experiential intelligence: learning from experience in real environments and continuing to learn after deployment. It is organized around two system goals. Adaptation is pursued through recursive improvement of versioned model-harness pairs, where experie",
+   "publishedAt": 1786305600000,
+   "isAI": true,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "Qwen 3.8-27b coming this week",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vl8bpt/qwen_3827b_coming_this_week/",
+   "source": "r/LocalLLaMA",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 533,
-   "comments": 245,
-   "publishedAt": 1786229363000,
-   "isAI": false,
-   "score": 35.3,
-   "hot": false,
-   "lastWeekRank": 2
+   "engagement": null,
+   "baseWeight": 29.2,
+   "publishedAt": 1786425606000,
+   "isAI": true,
+   "score": 34.3,
+   "hot": false
   },
   {
    "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
@@ -1108,7 +1189,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "Claude will apply invisible watermarks to AI text and images",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+   "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" ",
+   "publishedAt": 1786450940000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1122,20 +1217,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring",
-   "url": "https://huggingface.co/papers/2608.09802",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 75,
-   "summary": "As AI coding agents take on increasingly complex, long-horizon software engineering tasks, existing benchmarks are rapidly saturating and their evaluation quality has come under serious scrutiny: a recent audit found that nearly 60% of unsolved SWE-bench Verified instances contain flawed tests -- ei",
-   "publishedAt": 1786305600000,
-   "isAI": true,
-   "score": 34,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1149,22 +1231,9 @@
    "comments": 68,
    "publishedAt": 1786245960000,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false,
    "lastWeekRank": 6
-  },
-  {
-   "title": "Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA",
-   "url": "https://huggingface.co/papers/2608.09819",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 73,
-   "summary": "Macaron-V1 is an open agent-model family for experiential intelligence: learning from experience in real environments and continuing to learn after deployment. It is organized around two system goals. Adaptation is pursued through recursive improvement of versioned model-harness pairs, where experie",
-   "publishedAt": 1786305600000,
-   "isAI": true,
-   "score": 33.9,
-   "hot": false
   },
   {
    "title": "Oracle bans AI-generated code from OpenJDK",
@@ -1177,9 +1246,23 @@
    "comments": 382,
    "publishedAt": 1786124190000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false,
    "lastWeekRank": 8
+  },
+  {
+   "title": "The AI takeover of mathematics has begun",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+   "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adap",
+   "publishedAt": 1786446000000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
+   "hot": false
   },
   {
    "title": "Meta Muse Glimmer - 기기에서 실행하는 오픈 웨이트 30B 코딩 모델",
@@ -1192,7 +1275,50 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "Fastmail offers EU data region",
+   "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49223082",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 510,
+   "comments": 291,
+   "publishedAt": 1786205091000,
+   "isAI": false,
+   "score": 33.1,
+   "hot": false,
+   "lastWeekRank": 5
+  },
+  {
+   "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+   "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49201970",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 942,
+   "comments": 712,
+   "publishedAt": 1786047791000,
+   "isAI": true,
+   "score": 33,
+   "hot": false,
+   "lastWeekRank": 17
+  },
+  {
+   "title": "Mark Zuckerberg on releases",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkk6vy/mark_zuckerberg_on_releases/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 34,
+   "publishedAt": 1786366829000,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1206,48 +1332,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "Mark Zuckerberg on releases",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkk6vy/mark_zuckerberg_on_releases/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 34,
-   "publishedAt": 1786366829000,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Fastmail offers EU data region",
-   "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49223082",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 509,
-   "comments": 290,
-   "publishedAt": 1786205091000,
-   "isAI": false,
-   "score": 33.5,
-   "hot": false,
-   "lastWeekRank": 5
-  },
-  {
-   "title": "Qwen 3.8-27b coming this week",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vl8bpt/qwen_3827b_coming_this_week/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 27.6,
-   "publishedAt": 1786425606000,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33,
    "hot": false
   },
   {
@@ -1261,7 +1346,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.5,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1275,7 +1360,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1289,23 +1374,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 32.7,
    "hot": false
-  },
-  {
-   "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-   "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49201970",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 942,
-   "comments": 711,
-   "publishedAt": 1786047791000,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false,
-   "lastWeekRank": 17
   },
   {
    "title": "MS, 차세대 AI 칩 '마이아 300' 9월 공개 예정...TSMC와 30만개 생산 협의",
@@ -1318,7 +1388,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1332,77 +1402,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "\"AI 에이전트 위협 본격화\"…미국 주요 보안주 일제히 급등",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213817",
-   "summary": "미국 라스베이거스에서 열린 세계적인 사이버보안 행사 '블랙햇(Black Hat)'을 계기로 AI가 사이버 공격을 자동화·고도화하는 핵심 수단으로 부상하고 있다는 경고가 확대되자, 미국 사이버보안 관련주가 일제히 강세를 보였다. 크라우드스트라이크와 팔로알토네트웍스는 10일(현지시간) AI 에이전트 보안 위협에 따른 수요 증가 기대감으로 주가가 5% 이상 급등하며 사상 최고치를 경신했다.시장에서는 이번 블랙햇 컨퍼런스에서 AI 에이전트가 기존 사이버보안 위협의 성격을 근본적으로 바꾸고 있다는 인식이 강하게 형성됐다는 평가가 나온다.오픈",
-   "publishedAt": 1786437689000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-   "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-   "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
-   "publishedAt": 1786378813000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "nixpkgs-multiverse: 지금까지 존재한 모든 패키지 버전",
-   "url": "https://news.hada.io/topic?id=32355",
-   "summary": "nixpkgs-multiverse 는 과거 Nixpkgs 커밋을 일일이 찾아 고정하지 않아도, 하나의 flake 입력에서 지금까지 존재한 모든 패키지 버전에 접근하게 해줌 일반 flake 입력은 사용 여부와 관계없이 즉시 가져오지만, 이 프로젝트는 builtins.fetchTree 와 narHash",
-   "publishedAt": 1786359715000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, '전력 거래 책임자' 채용…AI 데이터센터 에너지 리스크 직접 관리",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213813",
-   "summary": "오픈AI가 AI 데이터센터의 폭발적인 전력 수요에 대응하기 위해 전력 시장을 직접 다루는 전문 인력 확보에 나섰다. 오픈AI는 최근 채용 공고를 통해 '전력 거래 책임자(Power Trading Lead)'를 모집 중이다.이 직책은 오픈AI가 운영하거나 확보한 데이터센터 포트폴리오의 전력 및 연료 관련 노출을 분석하고, 조달 전략 수립과 리스크 헤징, 위험관리 전략을 관리하는 역할을 맡는다. 이를 통해 데이터센터 인프라의 경제성을 보호하면서도 앞으로 사업 확장에 필요한 전력 확보의 유연성을 유지한다는 계획이다.채용 공고에 따르면,",
-   "publishedAt": 1786436120000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "가트너 \"올해 AI 추론 지출 33조원 돌파 전망...최적화 투자도 증가\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213820",
-   "summary": "글로벌 AI 인프라 시장의 중심축이 모델 학습에서 실질적인 서비스 구현인 '추론'으로 빠르게 이동하고 있다.가트너는 11일 발표한 ‘2026 전 세계 AI 최적화 IaaS 전망 분석’ 보고서를 통해 올해 전 세계 AI 추론 분야 지출이 233억달러(약 33조원)에 달해 학습 관련 지출 190억달러(약 27조원)를 넘어설 것으로 전망했다.에이전틱 AI의 급격한 확산이 주 원인으로 꼽혔다. 단순 질의응답을 넘어 자율적인 다단계 연산을 수행하는 에이전트 서비스가 보편화되면서, 일회성 모델 학습보다 실시간 실행과 추론에 필요한 컴퓨팅 자원",
-   "publishedAt": 1786435800000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
+   "score": 32.6,
    "hot": false
   }
  ]
