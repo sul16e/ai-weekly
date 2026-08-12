@@ -1,5 +1,5 @@
 {
- "updatedAt": 1786543248187,
+ "updatedAt": 1786546902534,
  "week": "2026-W33",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 308,
-   "comments": 135,
+   "engagement": 313,
+   "comments": 143,
    "publishedAt": 1786510319000,
    "isAI": true,
-   "score": 57,
+   "score": 56.6,
    "hot": true
   },
   {
@@ -23,11 +23,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 659,
-   "comments": 294,
+   "engagement": 668,
+   "comments": 295,
    "publishedAt": 1786454520000,
    "isAI": true,
-   "score": 54.7,
+   "score": 54.3,
+   "hot": false
+  },
+  {
+   "title": "AI is removing the middle class of software engineering",
+   "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49271994",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 122,
+   "comments": 103,
+   "publishedAt": 1786540805000,
+   "isAI": true,
+   "score": 53,
    "hot": false
   },
   {
@@ -41,7 +55,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 53.3,
+   "score": 52.7,
    "hot": true
   },
   {
@@ -51,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 398,
-   "comments": 465,
+   "engagement": 407,
+   "comments": 470,
    "publishedAt": 1786467429000,
    "isAI": true,
-   "score": 52.7,
+   "score": 52.3,
    "hot": true
   },
   {
@@ -65,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 486,
-   "comments": 454,
+   "engagement": 491,
+   "comments": 456,
    "publishedAt": 1786450987000,
    "isAI": true,
-   "score": 52,
+   "score": 51.6,
    "hot": false
   },
   {
@@ -79,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 322,
-   "comments": 297,
+   "engagement": 327,
+   "comments": 300,
    "publishedAt": 1786468989000,
    "isAI": true,
-   "score": 51.3,
+   "score": 50.9,
    "hot": true
   },
   {
@@ -93,11 +107,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 185,
+   "engagement": 188,
    "comments": 44,
    "publishedAt": 1786500342000,
    "isAI": true,
-   "score": 51.1,
+   "score": 50.8,
+   "hot": true
+  },
+  {
+   "title": "Show GN: LiteDeck – EC2부터 홈서버까지, SSH 포트 하나로 Claude·Codex와 함께 개발 및 모니터링하기",
+   "url": "https://news.hada.io/topic?id=32436",
+   "summary": "파일 하나 고치자고 서버에 vscode-server 를 올립니다. 관리 UI 하나 쓰자고 패키지를 깔고 포트를 열고, 클라우드면 보안 그룹까지 건드립니다. 요즘은 AI까지 붙이려고 서버에 Claude Code나 Codex CLI를 깝니다. 그렇게 깔아둔 것들은 나중에 그것대로 관리 대상이 되고요.",
+   "publishedAt": 1786546612000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 50,
    "hot": true
   },
   {
@@ -107,11 +135,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 911,
-   "comments": 941,
+   "engagement": 913,
+   "comments": 946,
    "publishedAt": 1786401390000,
    "isAI": true,
-   "score": 50.2,
+   "score": 49.8,
    "hot": false
   },
   {
@@ -121,12 +149,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 298,
+   "engagement": 300,
    "comments": 43,
    "publishedAt": 1786459833000,
    "isAI": true,
-   "score": 49.5,
-   "hot": true
+   "score": 49,
+   "hot": false
   },
   {
    "title": "LinkedIn CringeBot 3000",
@@ -139,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -153,8 +181,22 @@
    "comments": 637,
    "publishedAt": 1786356602000,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.9,
    "hot": false
+  },
+  {
+   "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+   "url": "https://woxi.ad-si.com",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49270040",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 161,
+   "comments": 21,
+   "publishedAt": 1786529189000,
+   "isAI": false,
+   "score": 46.1,
+   "hot": true
   },
   {
    "title": "AI가 코드를 쓰는 시대, antirez는 왜 다시 C로 만드는가",
@@ -167,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -181,21 +223,7 @@
    "comments": 95,
    "publishedAt": 1786411329000,
    "isAI": true,
-   "score": 46.4,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-   "url": "https://woxi.ad-si.com",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49270040",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 136,
-   "comments": 14,
-   "publishedAt": 1786529189000,
-   "isAI": false,
-   "score": 45.1,
+   "score": 46,
    "hot": false
   },
   {
@@ -205,11 +233,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 438,
+   "engagement": 439,
    "comments": 400,
    "publishedAt": 1786397816000,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
+   "hot": false
+  },
+  {
+   "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+   "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49243880",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 636,
+   "comments": 598,
+   "publishedAt": 1786370782000,
+   "isAI": true,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -223,22 +265,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.4,
    "hot": true
-  },
-  {
-   "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-   "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49243880",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 636,
-   "comments": 598,
-   "publishedAt": 1786370782000,
-   "isAI": true,
-   "score": 44.8,
-   "hot": false
   },
   {
    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
@@ -251,7 +279,7 @@
    "comments": 176,
    "publishedAt": 1786382527000,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.3,
    "hot": false
   },
   {
@@ -265,8 +293,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
@@ -279,21 +307,7 @@
    "comments": 27,
    "publishedAt": 1786444847000,
    "isAI": true,
-   "score": 44.2,
-   "hot": false
-  },
-  {
-   "title": "코드가 아니라 아이디어를 통제하라",
-   "url": "https://news.hada.io/topic?id=32422",
-   "summary": "AI 시대의 프로그래머는 생성된 코드를 한 줄씩 검토하기보다, 소프트웨어가 담아야 할 아이디어와 설계 를 정확히 통제하는 데 시간을 써야 한다고 봄 LLM은 개별 함수처럼 국소적으로 최적인 코드 를 작성하는 데 매우 뛰어나지만 큰 설계에서는 상대적으로 약하므...",
-   "publishedAt": 1786499102000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -307,7 +321,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -321,7 +335,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
+   "hot": false
+  },
+  {
+   "title": "코드가 아니라 아이디어를 통제하라",
+   "url": "https://news.hada.io/topic?id=32422",
+   "summary": "AI 시대의 프로그래머는 생성된 코드를 한 줄씩 검토하기보다, 소프트웨어가 담아야 할 아이디어와 설계 를 정확히 통제하는 데 시간을 써야 한다고 봄 LLM은 개별 함수처럼 국소적으로 최적인 코드 를 작성하는 데 매우 뛰어나지만 큰 설계에서는 상대적으로 약하므...",
+   "publishedAt": 1786499102000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -331,11 +359,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 246,
-   "comments": 123,
+   "engagement": 250,
+   "comments": 125,
    "publishedAt": 1786476952000,
    "isAI": false,
-   "score": 43.6,
+   "score": 43.3,
    "hot": true
   },
   {
@@ -349,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -363,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -377,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -387,11 +415,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 256,
-   "comments": 232,
+   "engagement": 258,
+   "comments": 235,
    "publishedAt": 1786467779000,
    "isAI": false,
-   "score": 42.9,
+   "score": 42.5,
    "hot": true
   },
   {
@@ -405,7 +433,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -419,7 +447,7 @@
    "comments": 392,
    "publishedAt": 1786341758000,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -429,12 +457,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 344,
-   "comments": 168,
+   "engagement": 345,
+   "comments": 170,
    "publishedAt": 1786442520000,
    "isAI": false,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
+  },
+  {
+   "title": "Facebook, 논란 많은 크리에이터의 분노 유발 콘텐츠에 수익 지급",
+   "url": "https://news.hada.io/topic?id=32435",
+   "summary": "Meta의 초대 전용 Content Monetization 프로그램이 콘텐츠 성과를 기준으로 네오나치 연계 백인민족주의자와 백신 반대 운동가 등 호주의 논란 많은 계정에 수익을 지급해 온 사실이 확인됨 Hugo Lennon, The Noticer, March for Australia, Monica Smit의 게시물에는 인종주의, 백...",
+   "publishedAt": 1786545152000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "Apple Silicon macOS VM에서 llama.cpp LLM 추론 가속하기",
@@ -447,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -461,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -475,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -485,11 +527,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 273,
+   "engagement": 274,
    "comments": 174,
    "publishedAt": 1786383673000,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.4,
+   "hot": false
+  },
+  {
+   "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+   "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+   "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+   "publishedAt": 1786544433000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -503,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.5,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -517,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.4,
+   "score": 39,
    "hot": false
   },
   {
@@ -531,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -545,8 +601,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
+  },
+  {
+   "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+   "url": "https://huggingface.co/papers/2608.09888",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 534,
+   "summary": "We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model then solves a query through iterative computation in a high-dimensional latent space, without verba",
+   "publishedAt": 1786305600000,
+   "isAI": true,
+   "score": 38.3,
+   "hot": false
   },
   {
    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
@@ -559,20 +628,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.7,
-   "hot": false
-  },
-  {
-   "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
-   "url": "https://huggingface.co/papers/2608.09888",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 532,
-   "summary": "We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model then solves a query through iterative computation in a high-dimensional latent space, without verba",
-   "publishedAt": 1786305600000,
-   "isAI": true,
-   "score": 38.5,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -586,7 +642,7 @@
    "comments": 195,
    "publishedAt": 1786368552000,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -597,10 +653,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 228,
-   "comments": 172,
+   "comments": 173,
    "publishedAt": 1786368940000,
    "isAI": true,
-   "score": 38.3,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -614,22 +670,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false
-  },
-  {
-   "title": "압축은 예측이다",
-   "url": "https://news.hada.io/topic?id=32426",
-   "summary": "우리가 데이터를 작게 압축할 수 있는 이유는 다음에 무엇이 나올지 어느 정도 예상할 수 있기 때문 임. 반복되거나 자주 등장하는 패턴일수록 적은 정보만 저장해도 됨 예를 들어 영어에서 Q 다음에는 거의 항상 U 가 오므로, U 를 매번 길게 ...",
-   "publishedAt": 1786505837000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.7,
-   "hot": true
   },
   {
    "title": "AI가 웹을 잠식하면서 인터넷의 집단 기억이 사라지고 있음",
@@ -642,7 +684,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -653,17 +695,17 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 341,
-   "comments": 512,
+   "comments": 514,
    "publishedAt": 1786393206000,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
-   "title": "Mojo 1.0 정식 출시",
-   "url": "https://news.hada.io/topic?id=32423",
-   "summary": "2023년 공개된 언어 Mojo 가 안정적인 프로덕션 기반을 갖춘 1.0에 도달했으며, Modular는 이미 MAX와 Modular Cloud에서 매일 사용 중임 1.x에서는 기능을 추가하는 방식으로 발전시키고, 불가피한 호환성 파괴 변경 은 C++ 같은 성숙한 언어의 방식을 따라 신중하게...",
-   "publishedAt": 1786502021000,
+   "title": "압축은 예측이다",
+   "url": "https://news.hada.io/topic?id=32426",
+   "summary": "우리가 데이터를 작게 압축할 수 있는 이유는 다음에 무엇이 나올지 어느 정도 예상할 수 있기 때문 임. 반복되거나 자주 등장하는 패턴일수록 적은 정보만 저장해도 됨 예를 들어 영어에서 Q 다음에는 거의 항상 U 가 오므로, U 를 매번 길게 ...",
+   "publishedAt": 1786505837000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -684,7 +726,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.2,
+   "score": 37,
+   "hot": false
+  },
+  {
+   "title": "Mojo 1.0 정식 출시",
+   "url": "https://news.hada.io/topic?id=32423",
+   "summary": "2023년 공개된 언어 Mojo 가 안정적인 프로덕션 기반을 갖춘 1.0에 도달했으며, Modular는 이미 MAX와 Modular Cloud에서 매일 사용 중임 1.x에서는 기능을 추가하는 방식으로 발전시키고, 불가피한 호환성 파괴 변경 은 C++ 같은 성숙한 언어의 방식을 따라 신중하게...",
+   "publishedAt": 1786502021000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -698,7 +754,7 @@
    "comments": 311,
    "publishedAt": 1786333800000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -712,7 +768,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -726,7 +782,20 @@
    "comments": 89,
    "publishedAt": 1786377563000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
+   "hot": false
+  },
+  {
+   "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+   "url": "https://huggingface.co/papers/2608.10915",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 131,
+   "summary": "After an older adult misses a medication dose, a software agent can send another reminder and an embodied agent can bring the medication. Yet neither explains whether the person forgot, is confused, has side effects, or deliberately refused, nor what support is appropriate. This reveals a structural",
+   "publishedAt": 1786392000000,
+   "isAI": true,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -740,7 +809,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -754,20 +823,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
-   "url": "https://huggingface.co/papers/2608.10915",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 125,
-   "summary": "After an older adult misses a medication dose, a software agent can send another reminder and an embodied agent can bring the medication. Yet neither explains whether the person forgot, is confused, has side effects, or deliberately refused, nor what support is appropriate. This reveals a structural",
-   "publishedAt": 1786392000000,
-   "isAI": true,
-   "score": 36.5,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -781,35 +837,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "코드 리뷰도 배워야 하는 기술이다",
-   "url": "https://news.hada.io/topic?id=32417",
-   "summary": "코드 리뷰는 단순한 승인 절차나 버그 탐지가 아니라 교육/규범 유지/게이트키핑/사고 예방 을 함께 수행하며, 코드와 변경사항을 이해하고 팀의 지식을 공유하는 과정이기도 함 좋은 리뷰는 타고난 능력이 아니라 학습하고 가르칠 수 있는 기술 이며, 버그 탐지부터...",
-   "publishedAt": 1786493355000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.4,
-   "hot": false
-  },
-  {
-   "title": "GNOME Shell이 꿈꾸는 차세대 디자인",
-   "url": "https://news.hada.io/topic?id=32416",
-   "summary": "최근 릴리스가 소폭 개선에 집중된 가운데, 디자인 팀은 검색·창 관리·시스템 상태 UI 를 아우르는 장기 개편안을 준비 중이며 실제 구현은 개발 역량과 관심, 자금 지원에 달려 있음 검색창에서 펼쳐지는 결과 오버레이와 편집 가능한 빠른 설정, 알림을 통합한 설정 패널로",
-   "publishedAt": 1786493175000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.4,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -823,7 +851,7 @@
    "comments": 171,
    "publishedAt": 1786373792000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -837,7 +865,35 @@
    "comments": 24,
    "publishedAt": 1786371641000,
    "isAI": true,
-   "score": 36.2,
+   "score": 36,
+   "hot": false
+  },
+  {
+   "title": "코드 리뷰도 배워야 하는 기술이다",
+   "url": "https://news.hada.io/topic?id=32417",
+   "summary": "코드 리뷰는 단순한 승인 절차나 버그 탐지가 아니라 교육/규범 유지/게이트키핑/사고 예방 을 함께 수행하며, 코드와 변경사항을 이해하고 팀의 지식을 공유하는 과정이기도 함 좋은 리뷰는 타고난 능력이 아니라 학습하고 가르칠 수 있는 기술 이며, 버그 탐지부터...",
+   "publishedAt": 1786493355000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36,
+   "hot": false
+  },
+  {
+   "title": "GNOME Shell이 꿈꾸는 차세대 디자인",
+   "url": "https://news.hada.io/topic?id=32416",
+   "summary": "최근 릴리스가 소폭 개선에 집중된 가운데, 디자인 팀은 검색·창 관리·시스템 상태 UI 를 아우르는 장기 개편안을 준비 중이며 실제 구현은 개발 역량과 관심, 자금 지원에 달려 있음 검색창에서 펼쳐지는 결과 오버레이와 편집 가능한 빠른 설정, 알림을 통합한 설정 패널로",
+   "publishedAt": 1786493175000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36,
    "hot": false
   },
   {
@@ -851,7 +907,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -865,7 +921,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -879,7 +935,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -893,7 +949,7 @@
    "comments": 70,
    "publishedAt": 1786382040000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -903,11 +959,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 119,
+   "engagement": 120,
    "comments": 29,
    "publishedAt": 1786454762000,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -921,7 +977,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -935,7 +991,7 @@
    "comments": 88,
    "publishedAt": 1786331920000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -949,21 +1005,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "AI 제품의 가격을 책정하는 방법",
-   "url": "https://news.hada.io/topic?id=32375",
-   "summary": "AI 제품은 사용자가 행동할 때마다 토큰 비용이 발생해 비용이 사용량에 따라 늘어나므로, 기존 SaaS의 좌석 기반 가격제 보다 사용량/성과 기반 모델이 중요해지고 있으며 AI 우선 기업의 총마진은 50~60% 수준으로 전통 SaaS의 80~90%보다 낮음 Candor는 비용과 고객 가치가 함께 증...",
-   "publishedAt": 1786408922000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 35,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -977,7 +1019,21 @@
    "comments": 229,
    "publishedAt": 1786372700000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "AI 제품의 가격을 책정하는 방법",
+   "url": "https://news.hada.io/topic?id=32375",
+   "summary": "AI 제품은 사용자가 행동할 때마다 토큰 비용이 발생해 비용이 사용량에 따라 늘어나므로, 기존 SaaS의 좌석 기반 가격제 보다 사용량/성과 기반 모델이 중요해지고 있으며 AI 우선 기업의 총마진은 50~60% 수준으로 전통 SaaS의 80~90%보다 낮음 Candor는 비용과 고객 가치가 함께 증...",
+   "publishedAt": 1786408922000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -990,7 +1046,7 @@
    "summary": "4D generation synthesizes dynamic 3D scenes from conditions such as text or images. Existing methods either reconstruct generated RGB videos with a separate 4D model or adapt a particular video generator to predict geometry directly. The former suffers from distribution mismatch and error propagatio",
    "publishedAt": 1786392000000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1001,10 +1057,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 255,
-   "comments": 184,
+   "comments": 186,
    "publishedAt": 1786379338000,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1018,7 +1074,7 @@
    "comments": 53,
    "publishedAt": 1786355617000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1032,7 +1088,7 @@
    "comments": 150,
    "publishedAt": 1786397176000,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1046,7 +1102,21 @@
    "comments": 114,
    "publishedAt": 1786385569000,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+   "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49232138",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 664,
+   "comments": 591,
+   "publishedAt": 1786288280000,
+   "isAI": false,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1060,21 +1130,49 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
-   "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
-   "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49232138",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+   "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+   "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, ",
+   "publishedAt": 1786543200000,
+   "source": "The Verge",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 664,
-   "comments": 590,
-   "publishedAt": 1786288280000,
-   "isAI": false,
-   "score": 34.1,
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+   "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+   "summary": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
+   "publishedAt": 1786543251000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "Researchers found a way to hijack devices through Zoom screen sharing",
+   "url": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
+   "summary": "A public AI tool found the dangerous Zoom flaw in under 20 prompts.",
+   "publishedAt": 1786541832000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1088,7 +1186,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1102,7 +1200,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1116,35 +1214,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-   "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA c",
-   "publishedAt": 1786536574000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Grok is now an AI ‘teammate’ you can assign work",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-   "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace ta",
-   "publishedAt": 1786535934000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1158,7 +1228,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1172,21 +1242,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽 미공개 모델, 160년 수학 난제 '리만 가설' 연구서 대기록",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213838",
-   "summary": "앤트로픽의 미공개 연구용 AI 모델이 160년 가까이 풀리지 않은 수학계 최대 난제 중 하나인 ‘리만 가설’과 관련해 기존 연구의 한계를 크게 뛰어넘는 성과를 냈다.앤트로픽은 10일(현지시간) 공개한 연구에서 아직 일반에 출시되지 않은 연구용 클로드(Claude)가 리만 가설에 도전하는 과정에서 큰 진전을 이뤘다고 발표했다.리만 가설 자체를 증명하는 데는 실패했지만, 리만 제타 함수의 비자명한 영점 가운데 리만 가설이 요구하는 선 위에 존재한다고 확인할 수 있는 영점의 비율에 대한 하한을 기존 41.6%에서 67.2%로 끌어올렸다.",
-   "publishedAt": 1786530900000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1200,7 +1256,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.4,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽 미공개 모델, 160년 수학 난제 '리만 가설' 연구서 대기록",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213838",
+   "summary": "앤트로픽의 미공개 연구용 AI 모델이 160년 가까이 풀리지 않은 수학계 최대 난제 중 하나인 ‘리만 가설’과 관련해 기존 연구의 한계를 크게 뛰어넘는 성과를 냈다.앤트로픽은 10일(현지시간) 공개한 연구에서 아직 일반에 출시되지 않은 연구용 클로드(Claude)가 리만 가설에 도전하는 과정에서 큰 진전을 이뤘다고 발표했다.리만 가설 자체를 증명하는 데는 실패했지만, 리만 제타 함수의 비자명한 영점 가운데 리만 가설이 요구하는 선 위에 존재한다고 확인할 수 있는 영점의 비율에 대한 하한을 기존 41.6%에서 67.2%로 끌어올렸다.",
+   "publishedAt": 1786530900000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1214,35 +1284,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 클로드·커서 작업 환경 흡수…'에이전트 통합 플랫폼' 승부수",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213849",
-   "summary": "오픈AI가 '챗GPT'를 중심으로 경쟁 AI 에이전트와의 경계를 허무는 작업 환경 통합에 나섰다. 사용자들이 여러 AI 에이전트를 오가며 작업하는 흐름이 확대되는 가운데, 기존 작업 환경을 그대로 옮겨와 연속성을 확보할 수 있도록 지원하는 것이 핵심이다. 오픈AI는 11일(현지시간) 경쟁사의 AI 에이전트에서 사용하던 프로젝트와 설정, 대화 기록 등을 자사 플랫폼으로 한 번에 가져와 계속 작업할 수 있는 ‘가져오기(Import)’ 기능을 선보였다.특정 AI 에이전트에 작업 환경이 종속되는 문제를 줄이고, 여러 AI 모델과 에이전트를",
-   "publishedAt": 1786530065000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "xAI 창립자 이고르 바부슈킨, 리버 AI 설립...'맞춤형 오픈소스 AI' 도전",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213854",
-   "summary": "xAI의 공동 창립자 이고르 바부슈킨이 퇴사 후 ‘맞춤형 AI’ 시대를 겨냥한 스타트업 리버 AI(River AI)를 설립했다.로이터 등에 따르면, 바부슈킨 CEO는 11일(현지시간) 리버 AI가 설립 두 달 만에 11억달러(약 1조5000억원) 규모의 시드 및 시리즈 A 투자를 유치했다고 발표했다. 이번 투자 라운드는 제너럴 캐털리스트와 AMP PBC가 주도했으며, 엔비디아와 AMD 벤처스가 전략적 투자자로 참여했다. 와이콤비네이터와 싱가포르 국부펀드 테마섹도 투자에 합류했다. 기업 가치는 공개하지 않았다.리버 AI의 핵심 목표는",
-   "publishedAt": 1786529778000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1256,7 +1298,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.6,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 클로드·커서 작업 환경 흡수…'에이전트 통합 플랫폼' 승부수",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213849",
+   "summary": "오픈AI가 '챗GPT'를 중심으로 경쟁 AI 에이전트와의 경계를 허무는 작업 환경 통합에 나섰다. 사용자들이 여러 AI 에이전트를 오가며 작업하는 흐름이 확대되는 가운데, 기존 작업 환경을 그대로 옮겨와 연속성을 확보할 수 있도록 지원하는 것이 핵심이다. 오픈AI는 11일(현지시간) 경쟁사의 AI 에이전트에서 사용하던 프로젝트와 설정, 대화 기록 등을 자사 플랫폼으로 한 번에 가져와 계속 작업할 수 있는 ‘가져오기(Import)’ 기능을 선보였다.특정 AI 에이전트에 작업 환경이 종속되는 문제를 줄이고, 여러 AI 모델과 에이전트를",
+   "publishedAt": 1786530065000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "xAI 창립자 이고르 바부슈킨, 리버 AI 설립...'맞춤형 오픈소스 AI' 도전",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213854",
+   "summary": "xAI의 공동 창립자 이고르 바부슈킨이 퇴사 후 ‘맞춤형 AI’ 시대를 겨냥한 스타트업 리버 AI(River AI)를 설립했다.로이터 등에 따르면, 바부슈킨 CEO는 11일(현지시간) 리버 AI가 설립 두 달 만에 11억달러(약 1조5000억원) 규모의 시드 및 시리즈 A 투자를 유치했다고 발표했다. 이번 투자 라운드는 제너럴 캐털리스트와 AMP PBC가 주도했으며, 엔비디아와 AMD 벤처스가 전략적 투자자로 참여했다. 와이콤비네이터와 싱가포르 국부펀드 테마섹도 투자에 합류했다. 기업 가치는 공개하지 않았다.리버 AI의 핵심 목표는",
+   "publishedAt": 1786529778000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1270,7 +1340,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1284,7 +1354,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1298,7 +1368,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1312,7 +1382,7 @@
    "comments": 269,
    "publishedAt": 1786374788000,
    "isAI": false,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1326,77 +1396,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-   "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-   "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-   "publishedAt": 1786465520000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "GitHub Actions에 OIDC audience 제약이 필요한 이유",
-   "url": "https://news.hada.io/topic?id=32402",
-   "summary": "GitHub Actions의 id-token: write 는 작업이 임의의 audience로 OIDC 토큰을 발급할 수 있게 해, 취약하거나 악성인 서드파티 코드가 다른 서비스로 권한을 확장 할 수 있음 OIDC의 aud 클레임 은 토큰을 받아들일 서비스를 제한해, 특정 ...",
-   "publishedAt": 1786446095000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "H3-metal - Mac용 MiniMax-H3 추론 엔진",
-   "url": "https://news.hada.io/topic?id=32401",
-   "summary": "antirez의 h3.c 는 MiniMax-H3를 애플 실리콘 Mac에서 네이티브로 실행 하기 위한 C/Objective-C/Metal 기반 추론 엔진으로, 텍스트에서 영상과 오디오를 함께 생성할 수 있음 단순한 모델 포팅이 아니라 M3 Max/M5 Max에 맞춰 Metal과 TensorOps를 최적화했으며, M5...",
-   "publishedAt": 1786444338000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "유럽 독자 인프라 확장 나선 미스트랄, AI 플랫폼 사업자로 도약",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213858",
-   "summary": "미스트랄 AI가 오픈 모델 호스팅 서비스를 시작하고 컴퓨팅 인프라를 대폭 늘리며 플랫폼 사업자 전환과 '소버린 AI' 구축에 속도를 낸다.미스트랄 AI는 11일(현지시각) 유럽의 AI 주권 확보와 서비스 확장을 위한 '3대 전략'을 공식 발표했다.첫 번째 전략으로 기업 고객이 AI 연산 처리 지역을 유럽이나 미국 중 직접 선택할 수 있는 ‘지역별 추론 엔드포인트(Regional Endpoints)’를 정식 출시했다. 데이터 주권과 유럽 내 규제 준수 요구에 맞춰 데이터가 역외로 유출되는 것을 차단하겠다는 취지다.또 다운되거나 에러가",
-   "publishedAt": 1786523234000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "과기부, AI 신약개발 혁신연구거점 출범…\"AI 실험 자동화 구조 마련\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213862",
-   "summary": "과학기술정보통신부(장관 배경훈)는 12일 대구에서 열린 ‘합성신약 분야 AIx바이오 혁신연구거점 조성 시범사업단 출범식’에서 AI 활용 신약개발 혁신거점의 출범을 알리고 앞으로의 사업 추진 방향을 공유했다. 과기부는 K-문샷 AI 신약개발 분야의 주요 사업으로 AIx바이오 혁신연구거점 조성 시범사업을 추진한다. 대구 지역은 첫 번째 시범 거점이다. 산·학·연·병이 공동 참여하는 개방형 AI 바이오 혁신 생태계 조성에 나선다는 전략이다.핵심은 AI 모델과 실험실이 함께 학습하는 ‘랩 인 더 루프(Lab-in-the-Loop)’ 연구체",
-   "publishedAt": 1786522444000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
+   "score": 31.9,
    "hot": false
   }
  ]
