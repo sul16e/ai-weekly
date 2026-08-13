@@ -1,5 +1,5 @@
 {
- "updatedAt": 1786578219331,
+ "updatedAt": 1786586461289,
  "week": "2026-W33",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 692,
-   "comments": 245,
+   "engagement": 755,
+   "comments": 285,
    "publishedAt": 1786550690000,
    "isAI": true,
-   "score": 65,
+   "score": 64.3,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 671,
-   "comments": 588,
+   "engagement": 729,
+   "comments": 663,
    "publishedAt": 1786540805000,
    "isAI": true,
-   "score": 62.9,
+   "score": 62.2,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 358,
-   "comments": 367,
+   "engagement": 411,
+   "comments": 394,
    "publishedAt": 1786548770000,
    "isAI": true,
-   "score": 58.9,
+   "score": 58.7,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 301,
-   "comments": 298,
+   "engagement": 317,
+   "comments": 328,
    "publishedAt": 1786553665000,
    "isAI": true,
-   "score": 58.2,
+   "score": 57.3,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 737,
-   "comments": 120,
+   "engagement": 803,
+   "comments": 146,
    "publishedAt": 1786544550000,
    "isAI": false,
-   "score": 57.2,
+   "score": 56.6,
    "hot": true
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 218,
-   "comments": 142,
+   "engagement": 235,
+   "comments": 170,
    "publishedAt": 1786543366000,
    "isAI": true,
-   "score": 53.7,
+   "score": 53.1,
    "hot": true
   },
   {
@@ -93,11 +93,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 349,
-   "comments": 164,
+   "engagement": 350,
+   "comments": 166,
    "publishedAt": 1786510319000,
    "isAI": true,
-   "score": 52.8,
+   "score": 51.6,
+   "hot": true
+  },
+  {
+   "title": "Unsloth Desktop - 로컬 AI 모델 실행/학습/에이전트를 하나로 묶은 오픈소스 앱",
+   "url": "https://news.hada.io/topic?id=32455",
+   "summary": "빠른 파인튜닝 도구 Unsloth 가 Desktop 버전을 출시 LLM뿐 아니라 diffusion 이미지/비디오, embedding, vision, TTS/STT 모델을 실행/학습하며, GGUF/MLX/safetensors 포맷 지원 맥/윈/리눅스/WSL 지원. NVIDIA/AMD/Mac GPU에서 학습 가...",
+   "publishedAt": 1786584602000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
    "hot": true
   },
   {
@@ -107,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 464,
-   "comments": 318,
+   "engagement": 465,
+   "comments": 320,
    "publishedAt": 1786527330000,
    "isAI": false,
-   "score": 50.7,
+   "score": 49.6,
    "hot": true
   },
   {
@@ -121,12 +135,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 682,
+   "engagement": 683,
    "comments": 300,
    "publishedAt": 1786454520000,
    "isAI": true,
-   "score": 50.4,
+   "score": 49.5,
    "hot": false
+  },
+  {
+   "title": "인간 중심에서 에이전틱 코드 리뷰로 - 더 빠른 결정이 더 나은 리뷰를 뜻하지는 않는다",
+   "url": "https://news.hada.io/topic?id=32454",
+   "summary": "207개 GitHub 프로젝트의 102만 개 PR 을 분석해, 코드 리뷰가 인간 중심/LLM 보조/AI 에이전트 참여 단계로 바뀌는 과정에서 리뷰 속도와 품질이 어떻게 달라졌는지 조사함 AI 리뷰어를 점진적으로 도입하거나 에이전트 단계에서 빠르게 도입한 프로젝트는 리뷰 결정이 빨라졌지만, ...",
+   "publishedAt": 1786581902000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.3,
+   "hot": true
+  },
+  {
+   "title": "에이전틱 코드 리뷰에서 인간-AI 시너지 : 인간과 AI는 다르게 리뷰한다",
+   "url": "https://news.hada.io/topic?id=32449",
+   "summary": "300개 GitHub 프로젝트의 27만여 개 인라인 코드 리뷰 대화 를 분석해, 인간과 AI의 피드백이 실제 수정과 후속 대화로 어떻게 이어지는지 비교함 AI는 코드에서 문제를 찾아 바로 수정안을 제시하는 데 집중한 반면, 인간은 왜 이렇게 구현했는지 묻고 테스트/프로젝트 관례...",
+   "publishedAt": 1786580102000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.1,
+   "hot": true
+  },
+  {
+   "title": "AI 사용을 그만두기로 한 이유",
+   "url": "https://news.hada.io/topic?id=32447",
+   "summary": "20년 경력의 개발자가 LLM 코딩 도구를 1년 넘게 적극적으로 사용한 끝에 정신 건강·소프트웨어 품질·환경과 사회적 비용 을 이유로 코딩을 포함한 모든 AI 사용을 중단하기로 함 Claude Code와 Linear를 연결해 코드 한 줄 직접 수정하지 않고 비사소한 프로젝트를 완성할 만큼 생산...",
+   "publishedAt": 1786579484000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49,
+   "hot": true
   },
   {
    "title": "Show GN: Labor0 – AI 코딩 에이전트의 작업을 의존성 그래프로 조율합니다",
@@ -139,21 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.8,
-   "hot": true
-  },
-  {
-   "title": "Qwen3.8-2.4T",
-   "url": "https://news.hada.io/topic?id=32445",
-   "summary": "Qwen 오픈 모델 계열 최초의 Qwen-Max급 모델 로, 코딩·전문 업무·연구·장기 에이전트 작업과 복잡한 다단계 작업의 완수 능력을 강화함 MoE 구조 를 적용해 전체 2.4T 파라미터 중 95B를 활성화하며, 기본 262,144토큰 컨텍스트를 최대 1,010,000토큰까지 확장할 수...",
-   "publishedAt": 1786570405000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.8,
+   "score": 48.6,
    "hot": true
   },
   {
@@ -163,12 +205,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 423,
+   "engagement": 424,
    "comments": 499,
    "publishedAt": 1786467429000,
    "isAI": true,
-   "score": 48.6,
+   "score": 47.7,
    "hot": false
+  },
+  {
+   "title": "Qwen3.8-2.4T-A95B 오픈 웨이트 공개",
+   "url": "https://news.hada.io/topic?id=32445",
+   "summary": "앞서 Qwen3.8-Max 발표 에서 예고했던 Qwen 최초의 Max급 오픈 웨이트 모델 로, Qwen의 최상위 모델 계열을 자체 인프라에서 직접 실행할 수 있게 됨 총 2.4조(2.4T) 파라미터 중 토큰당 950억(95B)을 활성화 하는...",
+   "publishedAt": 1786570405000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47.7,
+   "hot": true
   },
   {
    "title": "From assistance to execution: How enterprises put AI to work",
@@ -181,7 +237,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.3,
    "hot": false
   },
   {
@@ -191,11 +247,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 505,
+   "engagement": 506,
    "comments": 472,
    "publishedAt": 1786450987000,
    "isAI": true,
-   "score": 48,
+   "score": 47.1,
    "hot": false
   },
   {
@@ -205,12 +261,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 104,
-   "comments": 45,
+   "engagement": 107,
+   "comments": 46,
    "publishedAt": 1786543563000,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.6,
    "hot": false
+  },
+  {
+   "title": "Tim King, AmigaDOS developer, has died",
+   "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49272655",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 240,
+   "comments": 29,
+   "publishedAt": 1786543751000,
+   "isAI": false,
+   "score": 46.3,
+   "hot": true
   },
   {
    "title": "Grok Bot",
@@ -223,7 +293,7 @@
    "comments": 315,
    "publishedAt": 1786468989000,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.2,
    "hot": false
   },
   {
@@ -233,12 +303,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 192,
-   "comments": 46,
+   "engagement": 193,
+   "comments": 47,
    "publishedAt": 1786500342000,
    "isAI": true,
-   "score": 46.8,
+   "score": 45.9,
    "hot": true
+  },
+  {
+   "title": "As AI eats the web, the internet’s collective memory is disappearing",
+   "url": "https://thewalrus.ca/google-search-is-dying/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49250836",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 927,
+   "comments": 963,
+   "publishedAt": 1786401390000,
+   "isAI": true,
+   "score": 45.9,
+   "hot": false
   },
   {
    "title": "AI가 소프트웨어 엔지니어링의 중산층을 없애고 있음",
@@ -251,35 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
-   "hot": true
-  },
-  {
-   "title": "As AI eats the web, the internet’s collective memory is disappearing",
-   "url": "https://thewalrus.ca/google-search-is-dying/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49250836",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 926,
-   "comments": 963,
-   "publishedAt": 1786401390000,
-   "isAI": true,
-   "score": 46.7,
-   "hot": false
-  },
-  {
-   "title": "Tim King, AmigaDOS developer, has died",
-   "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49272655",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 219,
-   "comments": 28,
-   "publishedAt": 1786543751000,
-   "isAI": false,
-   "score": 46.6,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -293,7 +349,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.2,
+   "hot": true
+  },
+  {
+   "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+   "url": "https://woxi.ad-si.com",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49270040",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 256,
+   "comments": 40,
+   "publishedAt": 1786529189000,
+   "isAI": false,
+   "score": 45,
    "hot": true
   },
   {
@@ -307,21 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
-   "hot": true
-  },
-  {
-   "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-   "url": "https://woxi.ad-si.com",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49270040",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 250,
-   "comments": 39,
-   "publishedAt": 1786529189000,
-   "isAI": false,
-   "score": 45.8,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -335,7 +391,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.7,
+   "score": 44.7,
+   "hot": false
+  },
+  {
+   "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+   "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49259339",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 302,
+   "comments": 43,
+   "publishedAt": 1786459833000,
+   "isAI": true,
+   "score": 44.5,
    "hot": false
   },
   {
@@ -349,22 +419,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 44.5,
    "hot": true
-  },
-  {
-   "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-   "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49259339",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 301,
-   "comments": 43,
-   "publishedAt": 1786459833000,
-   "isAI": true,
-   "score": 45.4,
-   "hot": false
   },
   {
    "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
@@ -373,11 +429,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 111,
-   "comments": 19,
+   "engagement": 115,
+   "comments": 22,
    "publishedAt": 1786521080000,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.3,
+   "hot": false
+  },
+  {
+   "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+   "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49241679",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1198,
+   "comments": 637,
+   "publishedAt": 1786356602000,
+   "isAI": true,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -391,21 +461,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 43.5,
+   "hot": false
   },
   {
-   "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-   "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49241679",
+   "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+   "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49275335",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1198,
-   "comments": 637,
-   "publishedAt": 1786356602000,
-   "isAI": true,
-   "score": 44.2,
+   "engagement": 147,
+   "comments": 110,
+   "publishedAt": 1786553485000,
+   "isAI": false,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -419,20 +489,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44,
-   "hot": false
-  },
-  {
-   "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-   "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49275335",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 125,
-   "comments": 97,
-   "publishedAt": 1786553485000,
-   "isAI": false,
    "score": 43,
    "hot": false
   },
@@ -447,8 +503,36 @@
    "comments": 98,
    "publishedAt": 1786411329000,
    "isAI": true,
-   "score": 43,
+   "score": 42.3,
    "hot": false
+  },
+  {
+   "title": "Delta - 에이전트와 함께 코딩하고 검토하는 멀티플레이어 환경",
+   "url": "https://news.hada.io/topic?id=32453",
+   "summary": "개발자와 에이전트가 코드와 대화의 맥락 을 공유하며 구현 결과를 검토하는 환경으로, 첫 사용자를 대상으로 비공개 베타를 시작함 DeltaDB 가 대화와 작업 트리를 실시간 복제하고 커밋 사이의 변경과 논의를 기록하면서도 기존 Git 저장소와 커밋·푸시 흐름을 유지...",
+   "publishedAt": 1786581154000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
+  },
+  {
+   "title": "xberg - 다국어 문서 인텔리전스 프레임워크",
+   "url": "https://news.hada.io/topic?id=32452",
+   "summary": "PDF/이미지/스프레드시트/오디오/URL/아카이브/소스트리 등 무엇을 넣어도 깔끔한 텍스트/표/메타데이터/구조화 데이터 를 반환 포맷 감지 부터 OCR,추출을 하나의 코어가 처리해서 여러개의 라이브러리를 이용한 파이프라인 구성할 필요 없음 101개 포맷 / 371개 코...",
+   "publishedAt": 1786581002000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
   },
   {
    "title": "AI가 코드를 쓰는 시대, antirez는 왜 다시 C로 만드는가",
@@ -461,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -471,12 +555,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 442,
-   "comments": 406,
+   "engagement": 443,
+   "comments": 408,
    "publishedAt": 1786397816000,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.2,
    "hot": false
+  },
+  {
+   "title": "Linux용 Codex앱, 프리뷰 제공 시작",
+   "url": "https://news.hada.io/topic?id=32450",
+   "summary": "Linux용 ChatGPT 데스크톱 앱 이 프리뷰로 공개, 이제 리눅스에서도 ChatGPT·Work·Codex를 하나의 네이티브 데스크톱 환경 에서 통합 프로젝트 관리, 파일 작업, 브라우저 워크플로우 , ChatGPT 옆에서 Codex 실행 이 가능한 워크스...",
+   "publishedAt": 1786580115000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
+  },
+  {
+   "title": "Linux용 소프트웨어 패키징이 싫은 이유",
+   "url": "https://news.hada.io/topic?id=32448",
+   "summary": "터미널 편집기 Fresh 를 모든 Linux 사용자가 쉽게 설치할 수 있도록 여러 배포 채널을 지원했지만, 채널이 늘어날수록 릴리스 유지 비용과 장애 가능성도 커짐 npm, Cargo, AppImage, Flatpak, deb, rpm, AUR, Nix, mise 등은 각기 일부 사용자에게만 적합하며 보안·호환성...",
+   "publishedAt": 1786579664000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
   },
   {
    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
@@ -489,7 +601,7 @@
    "comments": 599,
    "publishedAt": 1786370782000,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -499,25 +611,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 525,
+   "engagement": 526,
    "comments": 178,
    "publishedAt": 1786382527000,
    "isAI": true,
-   "score": 41.6,
-   "hot": false
-  },
-  {
-   "title": "Go 언어가 AI 기반 소프트웨어 엔지니어링에 이상적인 이유",
-   "url": "https://news.hada.io/topic?id=32427",
-   "summary": "AI가 코드를 대량 생성하면서 개발의 병목이 코드 작성에서 리뷰/검증/유지보수로 이동 하고 있으며, 이 변화가 프로그래밍 언어를 평가하는 기준도 바꾸고 있음 Go는 처음부터 개인의 코드 작성 편의보다 여러 사람이 장기간 함께 시스템을 만드는 소프트웨어 엔지니어링",
-   "publishedAt": 1786506017000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.8,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -531,7 +629,21 @@
    "comments": 29,
    "publishedAt": 1786444847000,
    "isAI": true,
-   "score": 40.7,
+   "score": 40,
+   "hot": false
+  },
+  {
+   "title": "Go 언어가 AI 기반 소프트웨어 엔지니어링에 이상적인 이유",
+   "url": "https://news.hada.io/topic?id=32427",
+   "summary": "AI가 코드를 대량 생성하면서 개발의 병목이 코드 작성에서 리뷰/검증/유지보수로 이동 하고 있으며, 이 변화가 프로그래밍 언어를 평가하는 기준도 바꾸고 있음 Go는 처음부터 개인의 코드 작성 편의보다 여러 사람이 장기간 함께 시스템을 만드는 소프트웨어 엔지니어링",
+   "publishedAt": 1786506017000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -545,7 +657,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.4,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -559,7 +671,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.4,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -573,21 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
-   "hot": false
-  },
-  {
-   "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-   "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49263340",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 256,
-   "comments": 130,
-   "publishedAt": 1786476952000,
-   "isAI": false,
-   "score": 40.1,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -597,11 +695,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 689,
+   "engagement": 690,
    "comments": 393,
    "publishedAt": 1786341758000,
    "isAI": true,
-   "score": 40,
+   "score": 39.4,
+   "hot": false
+  },
+  {
+   "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+   "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49263340",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 257,
+   "comments": 133,
+   "publishedAt": 1786476952000,
+   "isAI": false,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -615,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -629,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -643,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.6,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -657,7 +769,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.6,
+   "score": 38.7,
+   "hot": false
+  },
+  {
+   "title": "Woman pulled over twice after Flock-linked software connected her to homicide",
+   "url": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49261218",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 260,
+   "comments": 239,
+   "publishedAt": 1786467779000,
+   "isAI": false,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -671,35 +797,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.4,
-   "hot": false
-  },
-  {
-   "title": "Tailscale이 데이터베이스 손상 원인을 16년 된 SQLite WAL-Reset 버그로 추적한 과정",
-   "url": "https://news.hada.io/topic?id=32442",
-   "summary": "6개월간 발생한 19건의 데이터베이스 손상 과 반복적인 제어 평면 장애를 조사한 끝에, SQLite 체크포인트와 쓰기 트랜잭션 사이의 희귀한 데이터 경쟁을 찾아냄 WAL 페이지가 주 데이터베이스에 복사되지 않았는데도 체크포인트가 완료된 것으로 처리돼 데이터가 영구 소실됐으며, S...",
-   "publishedAt": 1786556326000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.4,
-   "hot": true
-  },
-  {
-   "title": "Woman pulled over twice after Flock-linked software connected her to homicide",
-   "url": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49261218",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 260,
-   "comments": 239,
-   "publishedAt": 1786467779000,
-   "isAI": false,
-   "score": 39.3,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -713,8 +811,22 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.4,
    "hot": false
+  },
+  {
+   "title": "Tailscale이 데이터베이스 손상 원인을 16년 된 SQLite WAL-Reset 버그로 추적한 과정",
+   "url": "https://news.hada.io/topic?id=32442",
+   "summary": "6개월간 발생한 19건의 데이터베이스 손상 과 반복적인 제어 평면 장애를 조사한 끝에, SQLite 체크포인트와 쓰기 트랜잭션 사이의 희귀한 데이터 경쟁을 찾아냄 WAL 페이지가 주 데이터베이스에 복사되지 않았는데도 체크포인트가 완료된 것으로 처리돼 데이터가 영구 소실됐으며, S...",
+   "publishedAt": 1786556326000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.4,
+   "hot": true
   },
   {
    "title": "Nvidia의 위험한 사업",
@@ -727,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -741,7 +853,7 @@
    "comments": 175,
    "publishedAt": 1786442520000,
    "isAI": false,
-   "score": 39,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -755,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38,
    "hot": true
   },
   {
@@ -769,7 +881,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.4,
+   "hot": false
+  },
+  {
+   "title": "Learning more about Claude's mathematical capabilities",
+   "url": "https://www.anthropic.com/research/riemann-zeta",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49247070",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 276,
+   "comments": 177,
+   "publishedAt": 1786383673000,
+   "isAI": true,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -783,22 +909,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.2,
    "hot": true
-  },
-  {
-   "title": "Learning more about Claude's mathematical capabilities",
-   "url": "https://www.anthropic.com/research/riemann-zeta",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49247070",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 276,
-   "comments": 177,
-   "publishedAt": 1786383673000,
-   "isAI": true,
-   "score": 37.9,
-   "hot": false
   },
   {
    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
@@ -811,35 +923,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.8,
-   "hot": false
-  },
-  {
-   "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-   "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-   "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-   "publishedAt": 1786557060000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 37.6,
-   "hot": false
-  },
-  {
-   "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-   "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-   "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-   "publishedAt": 1786556489000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 37.5,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -853,7 +937,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.5,
+   "score": 36.8,
+   "hot": false
+  },
+  {
+   "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+   "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+   "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+   "publishedAt": 1786557060000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.7,
+   "hot": false
+  },
+  {
+   "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+   "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+   "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+   "publishedAt": 1786556489000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -867,7 +979,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -881,7 +993,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -895,8 +1007,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.3,
+   "hot": false
   },
   {
    "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
@@ -904,39 +1016,11 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 552,
+   "engagement": 555,
    "summary": "We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model then solves a query through iterative computation in a high-dimensional latent space, without verba",
    "publishedAt": 1786305600000,
    "isAI": true,
-   "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-   "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-   "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting peop",
-   "publishedAt": 1786544520000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-   "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-   "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-   "publishedAt": 1786544433000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.2,
+   "score": 36,
    "hot": false
   },
   {
@@ -950,7 +1034,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+   "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+   "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting peop",
+   "publishedAt": 1786544520000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+   "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+   "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+   "publishedAt": 1786544433000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -964,21 +1076,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "Humanising LLM Outputs Is Dumb",
-   "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49243474",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 228,
-   "comments": 174,
-   "publishedAt": 1786368940000,
-   "isAI": true,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -992,7 +1090,21 @@
    "comments": 195,
    "publishedAt": 1786368552000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.3,
+   "hot": false
+  },
+  {
+   "title": "Humanising LLM Outputs Is Dumb",
+   "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49243474",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 228,
+   "comments": 174,
+   "publishedAt": 1786368940000,
+   "isAI": true,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1001,25 +1113,11 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 166,
+   "engagement": 174,
    "summary": "After an older adult misses a medication dose, a software agent can send another reminder and an embodied agent can bring the medication. Yet neither explains whether the person forgot, is confused, has side effects, or deliberately refused, nor what support is appropriate. This reveals a structural",
    "publishedAt": 1786392000000,
    "isAI": true,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "London Underground의 승객 얼굴 스캔 개시",
-   "url": "https://news.hada.io/topic?id=32430",
-   "summary": "London Underground의 승객 얼굴 스캔 개시",
-   "publishedAt": 1786519947000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1033,7 +1131,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.4,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "London Underground의 승객 얼굴 스캔 개시",
+   "url": "https://news.hada.io/topic?id=32430",
+   "summary": "London Underground의 승객 얼굴 스캔 개시",
+   "publishedAt": 1786519947000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.8,
+   "hot": false
+  },
+  {
+   "title": "Illinois just passed a law that puts Linux on the hook for age verification",
+   "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49249150",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 343,
+   "comments": 525,
+   "publishedAt": 1786393206000,
+   "isAI": false,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1047,35 +1173,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-   "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-   "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
-   "publishedAt": 1786532400000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "Illinois just passed a law that puts Linux on the hook for age verification",
-   "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49249150",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 343,
-   "comments": 522,
-   "publishedAt": 1786393206000,
-   "isAI": false,
-   "score": 34.9,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1089,7 +1187,7 @@
    "comments": 313,
    "publishedAt": 1786333800000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1103,7 +1201,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+   "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+   "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+   "publishedAt": 1786532400000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1117,7 +1229,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1131,7 +1243,7 @@
    "comments": 90,
    "publishedAt": 1786377563000,
    "isAI": true,
-   "score": 34.4,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1145,21 +1257,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "압축은 예측이다",
-   "url": "https://news.hada.io/topic?id=32426",
-   "summary": "우리가 데이터를 작게 압축할 수 있는 이유는 다음에 무엇이 나올지 어느 정도 예상할 수 있기 때문 임. 반복되거나 자주 등장하는 패턴일수록 적은 정보만 저장해도 됨 예를 들어 영어에서 Q 다음에는 거의 항상 U 가 오므로, U 를 매번 길게 ...",
-   "publishedAt": 1786505837000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.2,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1173,21 +1271,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "Mojo 1.0 정식 출시",
-   "url": "https://news.hada.io/topic?id=32423",
-   "summary": "2023년 공개된 언어 Mojo 가 안정적인 프로덕션 기반을 갖춘 1.0에 도달했으며, Modular는 이미 MAX와 Modular Cloud에서 매일 사용 중임 1.x에서는 기능을 추가하는 방식으로 발전시키고, 불가피한 호환성 파괴 변경 은 C++ 같은 성숙한 언어의 방식을 따라 신중하게...",
-   "publishedAt": 1786502021000,
+   "title": "압축은 예측이다",
+   "url": "https://news.hada.io/topic?id=32426",
+   "summary": "우리가 데이터를 작게 압축할 수 있는 이유는 다음에 무엇이 나올지 어느 정도 예상할 수 있기 때문 임. 반복되거나 자주 등장하는 패턴일수록 적은 정보만 저장해도 됨 예를 들어 영어에서 Q 다음에는 거의 항상 U 가 오므로, U 를 매번 길게 ...",
+   "publishedAt": 1786505837000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1201,21 +1299,7 @@
    "comments": 174,
    "publishedAt": 1786373792000,
    "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-   "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49244085",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 156,
-   "comments": 24,
-   "publishedAt": 1786371641000,
-   "isAI": true,
-   "score": 33.8,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1229,7 +1313,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1243,35 +1327,49 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.3,
    "hot": false
   },
   {
-   "title": "Show GN: 프리터뷰 - 가입 없이 포트폴리오부터 채점해보는 AI 모의면접",
-   "url": "https://news.hada.io/topic?id=32391",
-   "summary": "게임 개발자로 7년 일하면서 면접을 여러 번 봤습니다. 포트폴리오를 준비하는 것도, 가고 싶던 회사에 면접이 잡혔을 때 뭘 해야 할지도 매번 막막했어요. 몇 번 겪고 나니 면접에도 패턴이 있어서, 볼수록 늘었습니다. 면접은 포트폴리오를 펴놓고 거기서 꼬리질문을 하는 식으로 흘러갈 때가 많았습니다. 그",
-   "publishedAt": 1786429158000,
+   "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+   "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49244085",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 156,
+   "comments": 24,
+   "publishedAt": 1786371641000,
+   "isAI": true,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "Mojo 1.0 정식 출시",
+   "url": "https://news.hada.io/topic?id=32423",
+   "summary": "2023년 공개된 언어 Mojo 가 안정적인 프로덕션 기반을 갖춘 1.0에 도달했으며, Modular는 이미 MAX와 Modular Cloud에서 매일 사용 중임 1.x에서는 기능을 추가하는 방식으로 발전시키고, 불가피한 호환성 파괴 변경 은 C++ 같은 성숙한 언어의 방식을 따라 신중하게...",
+   "publishedAt": 1786502021000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
-   "isAI": true,
-   "score": 33.8,
+   "isAI": false,
+   "score": 33.2,
    "hot": false
   },
   {
-   "title": "Show GN: 공공데이터 통합검색 x AI",
-   "url": "https://news.hada.io/topic?id=32390",
-   "summary": "많은 양의 공공자료가 공개되어 있지만, 필요한 자료를 찾기는 어렵습니다. ChatGPT나 Claude가 알려준 공공자료 URL은 실제로 존재하지 않는 경우도 있습니다(할루시네이션). 그래서 흩어진 공공자료를 모아 한 번에 검색할 수 있는 서비스를 만들고 있습니다. 공...",
-   "publishedAt": 1786427693000,
-   "source": "GeekNews",
+   "title": "Bluesky's active user base is shrinking as its focus expands beyond the app",
+   "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49263461",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 33.7,
+   "lang": "en",
+   "engagement": 102,
+   "comments": 214,
+   "publishedAt": 1786477541000,
+   "isAI": false,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1285,7 +1383,7 @@
    "comments": 70,
    "publishedAt": 1786382040000,
    "isAI": true,
-   "score": 33.4,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1299,105 +1397,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "[8월12일] 저커버그, 폐쇄형 AI 비판했지만…“메타도 오픈소스는 아니다”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=213836",
-   "summary": "마크 저커버그 메타 CEO는 10일(현지시간) 오픈웨이트 모델인 '뮤즈 글리머'를 출시하며 장문의 글을 올렸습니다. 6500단어에 이르는 분량으로, AI 경쟁에 대한 회사의 입장과 사회에 미치는 영향, 그리고 미국 정부가 이 기술을 어떻게 규제하고 장려해야 하는지에 대한 내용입니다.핵심은 AI의 가장 큰 위험으로 ‘중앙집중’을 지목하며 오픈웨이트 AI를 적극 옹호했습니다. AI를 소수 기업이나 정부가 독점해서는 안 되며, 개인이 직접 AI를 통제할 수 있어야 한다는 주장입니다.물론, 이는 이전부터 그가 계속 주장하던 바와 크게 다르",
-   "publishedAt": 1786572000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Terabytes of credentials leaked in massive supply-chain attack",
-   "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-   "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-   "publishedAt": 1786571001000,
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Needle 2 - 스마트폰·웨어러블·스마트홈·로봇을 위한 14MB 에이전틱 LLM",
-   "url": "https://news.hada.io/topic?id=32389",
-   "summary": "도구 호출/기기 제어/구조화 추출에 특화된 45M 파라미터 모델로, 전체 크기가 14MB , 세션 RAM도 최대 28MB 에 불과함 범용 대화를 생성하는 대신 \"거실 불 켜줘\" 같은 자연어를 정확한 함수와 인자로 변환 하는 문제에 집중...",
-   "publishedAt": 1786422792000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "코드 리뷰도 배워야 하는 기술이다",
-   "url": "https://news.hada.io/topic?id=32417",
-   "summary": "코드 리뷰는 단순한 승인 절차나 버그 탐지가 아니라 교육/규범 유지/게이트키핑/사고 예방 을 함께 수행하며, 코드와 변경사항을 이해하고 팀의 지식을 공유하는 과정이기도 함 좋은 리뷰는 타고난 능력이 아니라 학습하고 가르칠 수 있는 기술 이며, 버그 탐지부터...",
-   "publishedAt": 1786493355000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "GNOME Shell이 꿈꾸는 차세대 디자인",
-   "url": "https://news.hada.io/topic?id=32416",
-   "summary": "최근 릴리스가 소폭 개선에 집중된 가운데, 디자인 팀은 검색·창 관리·시스템 상태 UI 를 아우르는 장기 개편안을 준비 중이며 실제 구현은 개발 역량과 관심, 자금 지원에 달려 있음 검색창에서 펼쳐지는 결과 오버레이와 편집 가능한 빠른 설정, 알림을 통합한 설정 패널로",
-   "publishedAt": 1786493175000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-   "url": "https://www.whodunnitai.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49238851",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 210,
-   "comments": 89,
-   "publishedAt": 1786331920000,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-   "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-   "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-   "publishedAt": 1786568430000,
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
+   "score": 32.6,
    "hot": false
   }
  ]
