@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787463917805,
+ "updatedAt": 1787467579209,
  "week": "2026-W34",
  "items": [
   {
@@ -9,8 +9,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 261,
-   "comments": 85,
+   "engagement": 280,
+   "comments": 92,
    "publishedAt": 1787422456000,
    "isAI": true,
    "score": 54.3,
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 179,
-   "comments": 163,
+   "engagement": 181,
+   "comments": 166,
    "publishedAt": 1787417929000,
    "isAI": true,
-   "score": 50.4,
+   "score": 50,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 270,
-   "comments": 117,
+   "engagement": 275,
+   "comments": 118,
    "publishedAt": 1787392154000,
    "isAI": true,
-   "score": 50.2,
+   "score": 49.9,
    "hot": true
   },
   {
@@ -55,7 +55,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.9,
+   "score": 49.3,
    "hot": true
   },
   {
@@ -69,7 +69,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -83,7 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -97,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -111,7 +111,7 @@
    "comments": 481,
    "publishedAt": 1787360777000,
    "isAI": false,
-   "score": 46.4,
+   "score": 45.9,
    "hot": false
   },
   {
@@ -122,10 +122,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 478,
-   "comments": 483,
+   "comments": 484,
    "publishedAt": 1787312885000,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
+   "hot": false
+  },
+  {
+   "title": "DeepSeek-v4-flash-vision-exp",
+   "url": "https://api-docs.deepseek.com/guides/vision/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49386163",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 494,
+   "comments": 153,
+   "publishedAt": 1787308436000,
+   "isAI": true,
+   "score": 44.5,
    "hot": false
   },
   {
@@ -139,22 +153,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
-  },
-  {
-   "title": "DeepSeek-v4-flash-vision-exp",
-   "url": "https://api-docs.deepseek.com/guides/vision/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49386163",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 494,
-   "comments": 153,
-   "publishedAt": 1787308436000,
-   "isAI": true,
-   "score": 44.8,
-   "hot": false
   },
   {
    "title": "hdiutil is deprecated in macOS 27 Golden Gate",
@@ -163,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 178,
-   "comments": 71,
+   "engagement": 179,
+   "comments": 73,
    "publishedAt": 1787425481000,
    "isAI": false,
-   "score": 44.3,
+   "score": 43.9,
    "hot": true
   },
   {
@@ -181,21 +181,7 @@
    "comments": 233,
    "publishedAt": 1787322712000,
    "isAI": true,
-   "score": 44,
-   "hot": false
-  },
-  {
-   "title": "TUI를 그만 만드세요",
-   "url": "https://news.hada.io/topic?id=32771",
-   "summary": "LLM 에이전트가 SwiftUI 네이티브 UI 를 실용적인 수준으로 생성하면서, 시스템 프로그래머도 개인용 도구를 더 이상 터미널 화면으로 만들 필요가 없어짐 CLI는 자동화와 원격 제어에 대체 불가능 하지만, TUI는 스크롤·드래그 앤드 드롭·텍스트 선택·다중 창·이미...",
-   "publishedAt": 1787416427000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 43.6,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -209,7 +195,21 @@
    "comments": 894,
    "publishedAt": 1787279867000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
+   "hot": false
+  },
+  {
+   "title": "TUI를 그만 만드세요",
+   "url": "https://news.hada.io/topic?id=32771",
+   "summary": "LLM 에이전트가 SwiftUI 네이티브 UI 를 실용적인 수준으로 생성하면서, 시스템 프로그래머도 개인용 도구를 더 이상 터미널 화면으로 만들 필요가 없어짐 CLI는 자동화와 원격 제어에 대체 불가능 하지만, TUI는 스크롤·드래그 앤드 드롭·텍스트 선택·다중 창·이미...",
+   "publishedAt": 1787416427000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -223,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -233,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 208,
-   "comments": 172,
+   "engagement": 209,
+   "comments": 173,
    "publishedAt": 1787400426000,
    "isAI": false,
-   "score": 42.6,
+   "score": 42.2,
    "hot": true
   },
   {
@@ -251,7 +251,7 @@
    "comments": 389,
    "publishedAt": 1787256446000,
    "isAI": false,
-   "score": 42.4,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -265,7 +265,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.5,
+   "hot": false
+  },
+  {
+   "title": "A week of using Codex more than Claude",
+   "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49393051",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 179,
+   "comments": 194,
+   "publishedAt": 1787341908000,
+   "isAI": true,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -279,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -289,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 407,
-   "comments": 99,
+   "engagement": 409,
+   "comments": 102,
    "publishedAt": 1787341914000,
    "isAI": false,
-   "score": 41.3,
+   "score": 41,
    "hot": false
   },
   {
@@ -307,21 +321,7 @@
    "comments": 579,
    "publishedAt": 1787214044000,
    "isAI": true,
-   "score": 41.2,
-   "hot": false
-  },
-  {
-   "title": "A week of using Codex more than Claude",
-   "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49393051",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 169,
-   "comments": 184,
-   "publishedAt": 1787341908000,
-   "isAI": true,
-   "score": 41.1,
+   "score": 41,
    "hot": false
   },
   {
@@ -331,8 +331,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 122,
-   "comments": 23,
+   "engagement": 127,
+   "comments": 24,
    "publishedAt": 1787422249000,
    "isAI": false,
    "score": 40.7,
@@ -349,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -363,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -377,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -391,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -405,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -419,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -433,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -447,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -461,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -475,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -489,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -503,7 +503,7 @@
    "comments": 209,
    "publishedAt": 1787252736000,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -511,48 +511,6 @@
    "url": "https://news.hada.io/topic?id=32776",
    "summary": "ElevenLabs를 출발점으로 0~99의 숫자와 Labs를 결합한 이름 을 조사한 결과, 상당수 번호에서 실제 회사나 프로젝트의 온라인 흔적이 발견됨 숫자는 영문·숫자 표기 모두 허용하고 Labs 또는 Lab 을 앞뒤에 붙이는 방식으로 한정했으며, 후보가 여럿이면 ...",
    "publishedAt": 1787434277000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.5,
-   "hot": true
-  },
-  {
-   "title": "역대 최대 2D 우주 지도 공개",
-   "url": "https://news.hada.io/topic?id=32775",
-   "summary": "DESI Legacy Imaging Surveys가 26만 3,407회 망원경 노출 을 결합해 가시광선·근적외선 영역에서 우주의 약 75%를 담은 역대 최대 2D 컬러 지도를 완성함 5.6조 픽셀 규모의 지도에는 별과 은하를 중심으로 약 40억 개 천체가 포함되며, 누구나 Legacy Survey Sky ...",
-   "publishedAt": 1787431348000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.2,
-   "hot": true
-  },
-  {
-   "title": "무역 협상 결렬로 캐나다가 미국 관세에 ‘달러 대 달러’로 맞대응",
-   "url": "https://news.hada.io/topic?id=32774",
-   "summary": "미국이 협상 시한 직전 조건을 바꾸자 캐나다는 협상을 중단했고, Mark Carney 총리는 미국 상품에 동일 규모의 보복 관세 를 부과하기로 함 미국은 약 200억 달러 규모의 캐나다산 상품에 50% 관세 를 발효했으며, 와인·유제품·시멘트·의류·하키 장비 등 캐나다 수...",
-   "publishedAt": 1787431168000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.2,
-   "hot": true
-  },
-  {
-   "title": "Sid Meier's Pirates!가 남긴 잊힌 유산",
-   "url": "https://news.hada.io/topic?id=32773",
-   "summary": "1987년 출시된 Sid Meier's Pirates! 는 차량 시뮬레이션과 전략 워게임으로 알려졌던 MicroProse의 정체성을 바꾼 성공작으로, 장르 문법보다 해적 세계의 주제를 앞세워 시스템을 설계함 플랫폼 액션 대신 항해·경제·자원 관리·결투를 결합하고, 8방향 입력을 쓰는 검술 체...",
-   "publishedAt": 1787430988000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -569,12 +527,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 140,
-   "comments": 46,
+   "engagement": 148,
+   "comments": 48,
    "publishedAt": 1787319813000,
    "isAI": true,
    "score": 37.8,
    "hot": false
+  },
+  {
+   "title": "역대 최대 2D 우주 지도 공개",
+   "url": "https://news.hada.io/topic?id=32775",
+   "summary": "DESI Legacy Imaging Surveys가 26만 3,407회 망원경 노출 을 결합해 가시광선·근적외선 영역에서 우주의 약 75%를 담은 역대 최대 2D 컬러 지도를 완성함 5.6조 픽셀 규모의 지도에는 별과 은하를 중심으로 약 40억 개 천체가 포함되며, 누구나 Legacy Survey Sky ...",
+   "publishedAt": 1787431348000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.8,
+   "hot": true
+  },
+  {
+   "title": "무역 협상 결렬로 캐나다가 미국 관세에 ‘달러 대 달러’로 맞대응",
+   "url": "https://news.hada.io/topic?id=32774",
+   "summary": "미국이 협상 시한 직전 조건을 바꾸자 캐나다는 협상을 중단했고, Mark Carney 총리는 미국 상품에 동일 규모의 보복 관세 를 부과하기로 함 미국은 약 200억 달러 규모의 캐나다산 상품에 50% 관세 를 발효했으며, 와인·유제품·시멘트·의류·하키 장비 등 캐나다 수...",
+   "publishedAt": 1787431168000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.8,
+   "hot": true
+  },
+  {
+   "title": "Sid Meier's Pirates!가 남긴 잊힌 유산",
+   "url": "https://news.hada.io/topic?id=32773",
+   "summary": "1987년 출시된 Sid Meier's Pirates! 는 차량 시뮬레이션과 전략 워게임으로 알려졌던 MicroProse의 정체성을 바꾼 성공작으로, 장르 문법보다 해적 세계의 주제를 앞세워 시스템을 설계함 플랫폼 액션 대신 항해·경제·자원 관리·결투를 결합하고, 8방향 입력을 쓰는 검술 체...",
+   "publishedAt": 1787430988000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.7,
+   "hot": true
   },
   {
    "title": "Computer Use와 Skills/Files API로 프로덕션 에이전트 구축하기",
@@ -587,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -601,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -615,7 +615,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -629,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -643,7 +643,7 @@
    "comments": 297,
    "publishedAt": 1787239562000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -657,7 +657,7 @@
    "comments": 209,
    "publishedAt": 1787271312000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -671,7 +671,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -685,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -699,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -707,20 +707,6 @@
    "url": "https://news.hada.io/topic?id=32766",
    "summary": "미국이 막판에 제안 조건을 바꾸자 캐나다는 무역 협상을 중단 하고 협상단에 오타와 복귀를 지시함 변경된 조건은 불공정하고 경제성이 없을 뿐 아니라 합의의 신뢰성까지 흔들어, 캐나다는 대가나 시한에 얽매이지 않는 협상 원칙 을 유지함 미국은 이날 ...",
    "publishedAt": 1787402019000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "소비자 권리 위키 — 반소비자 관행 데이터베이스",
-   "url": "https://news.hada.io/topic?id=32765",
-   "summary": "Consumer Rights Wiki 는 반소비자 관행을 기록하는 전용 저장소로, 현재 1,420개 문서와 173명의 활성 기여자 가 참여함 Wemo 기기 작동 불능, Samsung 냉장고 광고, John Deere 수리 제한, DRM , Whoop과 Litter Robot의 구독 종속 등을 대표 사례...",
-   "publishedAt": 1787398633000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -741,35 +727,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
-   "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-   "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-   "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-   "publishedAt": 1787414400000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.7,
-   "hot": false
-  },
-  {
-   "title": "AI 기업이 실물 책을 파괴한다 — 너무 늦기 전에 희귀 도서를 스캔하자",
-   "url": "https://news.hada.io/topic?id=32738",
-   "summary": "여러 AI 기업이 2022년 이전의 기계가 건드리지 않은 학습 데이터 를 얻으려 중고책 수백만 권을 매입해 스캔한 뒤 폐기하면서, 디지털 사본이 기업 서버에만 남을 수 있음 Anthropic은 2024년 초 Project Panama 를 비밀리에 시작해 수천만 달러로 종이책 수백만 권...",
-   "publishedAt": 1787326359000,
+   "title": "소비자 권리 위키 — 반소비자 관행 데이터베이스",
+   "url": "https://news.hada.io/topic?id=32765",
+   "summary": "Consumer Rights Wiki 는 반소비자 관행을 기록하는 전용 저장소로, 현재 1,420개 문서와 173명의 활성 기여자 가 참여함 Wemo 기기 작동 불능, Samsung 냉장고 광고, John Deere 수리 제한, DRM , Whoop과 Litter Robot의 구독 종속 등을 대표 사례...",
+   "publishedAt": 1787398633000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
-   "isAI": true,
-   "score": 34.7,
+   "isAI": false,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -783,7 +755,21 @@
    "comments": 58,
    "publishedAt": 1787305514000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "AI 기업이 실물 책을 파괴한다 — 너무 늦기 전에 희귀 도서를 스캔하자",
+   "url": "https://news.hada.io/topic?id=32738",
+   "summary": "여러 AI 기업이 2022년 이전의 기계가 건드리지 않은 학습 데이터 를 얻으려 중고책 수백만 권을 매입해 스캔한 뒤 폐기하면서, 디지털 사본이 기업 서버에만 남을 수 있음 Anthropic은 2024년 초 Project Panama 를 비밀리에 시작해 수천만 달러로 종이책 수백만 권...",
+   "publishedAt": 1787326359000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -797,7 +783,21 @@
    "comments": 501,
    "publishedAt": 1787232192000,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.3,
+   "hot": false
+  },
+  {
+   "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+   "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+   "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+   "publishedAt": 1787414400000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -811,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -825,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -839,7 +839,7 @@
    "comments": 163,
    "publishedAt": 1787238413000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34,
    "hot": false
   },
   {
@@ -853,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -867,7 +867,7 @@
    "comments": 45,
    "publishedAt": 1787325467000,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -881,7 +881,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -895,7 +895,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "Google has stopped pushing Git tags for some Android source code",
+   "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49364745",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 823,
+   "comments": 334,
+   "publishedAt": 1787161649000,
+   "isAI": false,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -909,11 +923,11 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
-   "title": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발...‘AI 완전 무인 자동화’ 시동",
+   "title": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발...‘AI 자동화’ 시동",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214083",
    "summary": "“아이벡스의 딥러닝 리서치 그룹은 ‘3차 엔지니어’에 해당합니다. 현장팀과 양산팀에서 해결하지 못한 기술적 난제를 학술적으로 풀어내고, 현장에서의 성능 향상도 동시에 달성하는 것이 목표입니다.”지난 2020년 설립된 아이벡스(대표 성민수)는 ‘산업 특화 AI’에 집중하고 있다. AI 비전 검사에서 출발해 ML옵스 플랫폼과 로보틱스까지 사업 영역을 확대하며, 데이터·AI·로봇이 통합된 ‘피지컬 AI’ 기술 생태계를 구축 중이다.기술적 난제를 해결하는 것은 물론, 제조 및 산업 현장에서 실질적 가치를 창출하는 데 초점을 맞추고 있다.",
    "publishedAt": 1787452088000,
@@ -923,21 +937,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "Google has stopped pushing Git tags for some Android source code",
-   "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49364745",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 822,
-   "comments": 334,
-   "publishedAt": 1787161649000,
-   "isAI": false,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -951,7 +951,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -965,7 +965,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -979,7 +979,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32,
    "hot": false
   },
   {
@@ -993,7 +993,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1007,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1021,48 +1021,6 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "LGU+·유튜브 '유쓰 AI 쇼츠 페스티벌'에 작품 5009개 접수",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214252",
-   "summary": "LG유플러스는 유튜브와 함께 개최한 '유쓰 AI 쇼츠 페스티벌'에 총 5009건의 작품이 접수됐다고 23일 밝혔다.유쓰 AI 쇼츠 페스티벌은 LGU+와 유튜브가 AI 시대의 창작 인재를 발굴하고 생성형 AI를 활용한 콘텐츠 제작 문화를 확산하기 위해 마련한 쇼츠 영상 공모전이다. 지난해에 이어 두 번째로 열린 올해 공모전은 과학기술정보통신부 주관의 국민 참여형 AI 대회인 '전국민 AI 경진대회'에 따라 지난 6월8일부터 7월31일까지 진행됐다.올해 공모전은 구글의 '제미나이' 등을 활용해 자신만의 개성과 정체성을 표현하는 '심플리",
-   "publishedAt": 1787443200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "Introducing AI Futures",
-   "url": "https://openai.com/index/introducing-ai-futures",
-   "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-   "publishedAt": 1787209200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-   "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49390463",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 116,
-   "comments": 60,
-   "publishedAt": 1787329672000,
-   "isAI": false,
    "score": 31.8,
    "hot": false
   },
@@ -1077,21 +1035,35 @@
    "comments": 690,
    "publishedAt": 1786996035000,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.7,
    "hot": false
   },
   {
-   "title": "메모리 폭등에 엔비디아 서버 최대 15% 인상...빅테크 부담 가중",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214253",
-   "summary": "메모리 반도체 가격 급등 여파로 엔비디아 AI 칩이 탑재된 서버 가격이 최고 15% 이상 인상된다.블룸버그는 23일(현지시간) 마이크로소프트, 구글, 오라클 등 주요 대형 데이터센터 운영업체와 계약을 맺은 서버 제조사들이 최근 주요 고객사들에 내년 초 출하분부터 적용될 가격 인상 방침을 통보했다고 보도했다. 익명을 요구한 관계자들에 따르면, 이번 가격 인상은 내년 초 출하되는 시스템부터 적용되며' 베라 루빈(Vera Rubin)'과 '그레이스 블랙웰(Grace Blackwell)' 칩이 탑재된 시스템을 포함한 여러 시스템에 영향을",
-   "publishedAt": 1787441765000,
+   "title": "Introducing AI Futures",
+   "url": "https://openai.com/index/introducing-ai-futures",
+   "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+   "publishedAt": 1787209200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "KT-서울시, 초등학생 대상 'AI 미래 캠프' 진행...”윤리 소양 갖춘 인재 육성”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214262",
+   "summary": "KT(대표 박윤영)가 서울시, 서울로봇인공지능과학관, 서울도봉경찰서와 함께 22일 서울 도봉구 서울로봇인공지능과학관에서 초등학생 100명을 대상으로 'KT-서울시와 함께하는 AI 미래 캠프'를 개최했다고 밝혔다.이번 캠프는 서울 지역 초등학생 100명을 대상으로 진행됐다. 참가 학생들은 25명씩 4개 조로 나뉘어 AI 기술과 윤리를 아우르는 5개 프로그램을 순환 활동을 했다.학생들은 KT가 운영하는 이동식 AI 체험교육관 'AI 스테이션'에서 AI 기술과 윤리를 체험하고, AI 자격검정 AICE와 연계한 블록 코딩교육 'AICE 퓨",
+   "publishedAt": 1787444100000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1105,7 +1077,49 @@
    "comments": 863,
    "publishedAt": 1786999570000,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "LGU+·유튜브 '유쓰 AI 쇼츠 페스티벌'에 작품 5009개 접수",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214252",
+   "summary": "LG유플러스는 유튜브와 함께 개최한 '유쓰 AI 쇼츠 페스티벌'에 총 5009건의 작품이 접수됐다고 23일 밝혔다.유쓰 AI 쇼츠 페스티벌은 LGU+와 유튜브가 AI 시대의 창작 인재를 발굴하고 생성형 AI를 활용한 콘텐츠 제작 문화를 확산하기 위해 마련한 쇼츠 영상 공모전이다. 지난해에 이어 두 번째로 열린 올해 공모전은 과학기술정보통신부 주관의 국민 참여형 AI 대회인 '전국민 AI 경진대회'에 따라 지난 6월8일부터 7월31일까지 진행됐다.올해 공모전은 구글의 '제미나이' 등을 활용해 자신만의 개성과 정체성을 표현하는 '심플리",
+   "publishedAt": 1787443200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+   "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49390463",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 116,
+   "comments": 60,
+   "publishedAt": 1787329672000,
+   "isAI": false,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "메모리 폭등에 엔비디아 서버 최대 15% 인상...빅테크 부담 가중",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214253",
+   "summary": "메모리 반도체 가격 급등 여파로 엔비디아 AI 칩이 탑재된 서버 가격이 최고 15% 이상 인상된다.블룸버그는 23일(현지시간) 마이크로소프트, 구글, 오라클 등 주요 대형 데이터센터 운영업체와 계약을 맺은 서버 제조사들이 최근 주요 고객사들에 내년 초 출하분부터 적용될 가격 인상 방침을 통보했다고 보도했다. 익명을 요구한 관계자들에 따르면, 이번 가격 인상은 내년 초 출하되는 시스템부터 적용되며' 베라 루빈(Vera Rubin)'과 '그레이스 블랙웰(Grace Blackwell)' 칩이 탑재된 시스템을 포함한 여러 시스템에 영향을",
+   "publishedAt": 1787441765000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1119,21 +1133,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "YC CEO Garry Tan이 말하는 창업자의 새로운 규칙 [유튜브]",
-   "url": "https://news.hada.io/topic?id=32755",
-   "summary": "Web 1.0 붕괴 직후 유행을 좇아 웹 개발과 Palantir 기회를 놓친 경험은, 창업자가 시장의 평가보다 직접 경험 과 자신만의 지식을 따라야 한다는 교훈으로 이어짐 바이브 코딩과 코딩 에이전트는 개인의 역량을 과거 수백 명 규모로 증폭하므로, 기존 SaaS 성공 공식을 복제하기보다...",
-   "publishedAt": 1787360404000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1147,7 +1147,34 @@
    "comments": 127,
    "publishedAt": 1787240778000,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "YC CEO Garry Tan이 말하는 창업자의 새로운 규칙 [유튜브]",
+   "url": "https://news.hada.io/topic?id=32755",
+   "summary": "Web 1.0 붕괴 직후 유행을 좇아 웹 개발과 Palantir 기회를 놓친 경험은, 창업자가 시장의 평가보다 직접 경험 과 자신만의 지식을 따라야 한다는 교훈으로 이어짐 바이브 코딩과 코딩 에이전트는 개인의 역량을 과거 수백 명 규모로 증폭하므로, 기존 SaaS 성공 공식을 복제하기보다...",
+   "publishedAt": 1787360404000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+   "url": "https://huggingface.co/papers/2608.19880",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 248,
+   "summary": "LLM agents learn by interacting with environments, yet these environments are hand-built and static: blind to an agent's weaknesses, and quickly left behind as it improves. While recent environment generation methods attempt to address this, they require domain-specific pipelines, rely on expensive ",
+   "publishedAt": 1787169600000,
+   "isAI": true,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1161,20 +1188,21 @@
    "comments": 19,
    "publishedAt": 1787329002000,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false
   },
   {
-   "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
-   "url": "https://huggingface.co/papers/2608.19880",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
+   "title": "Autolith: A programming agent with a live runtime",
+   "url": "https://www.lambda-symbolics.com/autolith",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49376197",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": 248,
-   "summary": "LLM agents learn by interacting with environments, yet these environments are hand-built and static: blind to an agent's weaknesses, and quickly left behind as it improves. While recent environment generation methods attempt to address this, they require domain-specific pipelines, rely on expensive ",
-   "publishedAt": 1787169600000,
+   "engagement": 121,
+   "comments": 48,
+   "publishedAt": 1787240457000,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1188,7 +1216,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1202,7 +1230,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1216,7 +1244,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1230,35 +1258,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "Autolith: A programming agent with a live runtime",
-   "url": "https://www.lambda-symbolics.com/autolith",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49376197",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 119,
-   "comments": 47,
-   "publishedAt": 1787240457000,
-   "isAI": true,
-   "score": 31.2,
-   "hot": false
-  },
-  {
-   "title": "미국 국경에서 휴대전화 데이터를 삭제한 시민에게 중범죄 혐의 적용",
-   "url": "https://news.hada.io/topic?id=32748",
-   "summary": "미국 시민 Samuel Tunick 은 공항 세관의 휴대전화 검색 과정에서 데이터가 삭제돼 연방 검찰의 사법방해 혐의를 받음 사건은 2025년 1월 , 도미니카공화국에서 귀국하던 Tunick이 Hartsfield-Jackson Atlanta International Airport에서 별도 검색 대상이 되며 시작...",
-   "publishedAt": 1787355136000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.2,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1269,10 +1269,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 372,
-   "comments": 371,
+   "comments": 372,
    "publishedAt": 1787120011000,
    "isAI": true,
-   "score": 31.1,
+   "score": 31,
    "hot": false
   },
   {
@@ -1286,19 +1286,19 @@
    "comments": 699,
    "publishedAt": 1787059358000,
    "isAI": false,
-   "score": 31.1,
+   "score": 31,
    "hot": false
   },
   {
-   "title": "We rebuilt the Linux MicroVM stack on Apple Silicon",
-   "url": "https://encore.dev/blog/firecracker-apple-silicon",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49384716",
-   "source": "Hacker News",
+   "title": "미국 국경에서 휴대전화 데이터를 삭제한 시민에게 중범죄 혐의 적용",
+   "url": "https://news.hada.io/topic?id=32748",
+   "summary": "미국 시민 Samuel Tunick 은 공항 세관의 휴대전화 검색 과정에서 데이터가 삭제돼 연방 검찰의 사법방해 혐의를 받음 사건은 2025년 1월 , 도미니카공화국에서 귀국하던 Tunick이 Hartsfield-Jackson Atlanta International Airport에서 별도 검색 대상이 되며 시작...",
+   "publishedAt": 1787355136000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 145,
-   "comments": 83,
-   "publishedAt": 1787295580000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
    "score": 30.9,
    "hot": false
@@ -1314,7 +1314,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.9,
+   "score": 30.7,
+   "hot": false
+  },
+  {
+   "title": "We rebuilt the Linux MicroVM stack on Apple Silicon",
+   "url": "https://encore.dev/blog/firecracker-apple-silicon",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49384716",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 145,
+   "comments": 83,
+   "publishedAt": 1787295580000,
+   "isAI": false,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1328,7 +1342,7 @@
    "comments": 137,
    "publishedAt": 1787206600000,
    "isAI": false,
-   "score": 30.7,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1342,7 +1356,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.4,
+   "score": 30.1,
    "hot": false
   },
   {
@@ -1356,7 +1370,7 @@
    "comments": 57,
    "publishedAt": 1787234889000,
    "isAI": true,
-   "score": 30.2,
+   "score": 30,
    "hot": false
   },
   {
@@ -1370,7 +1384,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.2,
+   "score": 29.9,
    "hot": false
   },
   {
@@ -1384,21 +1398,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.2,
-   "hot": false
-  },
-  {
-   "title": "Offering Zero Data Retention for frontier models",
-   "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-   "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-   "publishedAt": 1787166000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 29.8,
+   "score": 29.9,
    "hot": false
   }
  ]
