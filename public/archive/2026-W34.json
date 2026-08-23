@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787467579209,
+ "updatedAt": 1787472356240,
  "week": "2026-W34",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 280,
-   "comments": 92,
+   "engagement": 308,
+   "comments": 105,
    "publishedAt": 1787422456000,
    "isAI": true,
-   "score": 54.3,
+   "score": 54.4,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 181,
-   "comments": 166,
+   "engagement": 186,
+   "comments": 169,
    "publishedAt": 1787417929000,
    "isAI": true,
-   "score": 50,
+   "score": 49.6,
    "hot": true
   },
   {
@@ -37,17 +37,17 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 275,
+   "engagement": 276,
    "comments": 118,
    "publishedAt": 1787392154000,
    "isAI": true,
-   "score": 49.9,
+   "score": 49.3,
    "hot": true
   },
   {
    "title": "로컬 LLM이 실제 성능보다 더 멍청하게 느껴지는 이유",
    "url": "https://news.hada.io/topic?id=32791",
-   "summary": "같은 모델 가중치라도 GPU 명령어·추론 소프트웨어·정밀도 설정 이 다르면 다음 토큰 확률이 달라지고, 긴 문맥에서는 도구 호출 실패로 이어질 수 있음 Qwen3.6-27B와 약 10만 토큰의 실제 에이전트 작업 문맥을 실험한 결과, vLLM의 어텐션 백엔드 차이는 후반부부...",
+   "summary": "같은 모델이라도 GPU·추론 엔진·어텐션 구현·양자화 방식 이 달라지면 계산 결과가 조금씩 달라지고, 긴 문맥에서는 그 차이가 실제 응답과 도구 호출 실패로 이어질 수 있음 약 10만 토큰의 실제 에이전트 작업 문맥에서 Qwen3.6-27B를 비교한 결과, 어텐션 백엔드만 바꿔도 후반부에...",
    "publishedAt": 1787463199000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -55,7 +55,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -69,7 +69,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -83,7 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -97,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -107,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 626,
-   "comments": 481,
+   "engagement": 627,
+   "comments": 480,
    "publishedAt": 1787360777000,
    "isAI": false,
-   "score": 45.9,
+   "score": 45.4,
    "hot": false
   },
   {
@@ -125,7 +125,7 @@
    "comments": 484,
    "publishedAt": 1787312885000,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.2,
    "hot": false
   },
   {
@@ -135,11 +135,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 494,
+   "engagement": 495,
    "comments": 153,
    "publishedAt": 1787308436000,
    "isAI": true,
-   "score": 44.5,
+   "score": 44,
    "hot": false
   },
   {
@@ -153,8 +153,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "hdiutil is deprecated in macOS 27 Golden Gate",
@@ -164,10 +164,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 179,
-   "comments": 73,
+   "comments": 76,
    "publishedAt": 1787425481000,
    "isAI": false,
-   "score": 43.9,
+   "score": 43.3,
    "hot": true
   },
   {
@@ -178,10 +178,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 350,
-   "comments": 233,
+   "comments": 235,
    "publishedAt": 1787322712000,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -191,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 615,
+   "engagement": 617,
    "comments": 894,
    "publishedAt": 1787279867000,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -209,8 +209,64 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.6,
    "hot": false
+  },
+  {
+   "title": "프론트엔드 상태 관리의 네 가지 난제",
+   "url": "https://news.hada.io/topic?id=32794",
+   "summary": "프론트엔드 생태계에는 다양한 상태관리 도구들이 존재하지만 아직 제대로 조명받지 못하는 난제들이 있음 상태의 공유 범위를 바꾸기 어려움 우리는 흔히 지역 상태와 전역 상태만을 이야기 해왔지만, 사실 그 두가지 개념만으로는 깔끔하게 분류되지 않는 상태들이...",
+   "publishedAt": 1787472043000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 42,
+   "hot": true
+  },
+  {
+   "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+   "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49398904",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 211,
+   "comments": 175,
+   "publishedAt": 1787400426000,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+   "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49379550",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1669,
+   "comments": 389,
+   "publishedAt": 1787256446000,
+   "isAI": false,
+   "score": 41.8,
+   "hot": false
+  },
+  {
+   "title": "기억해 둘 만한 작은 네이티브 웹 기법",
+   "url": "https://news.hada.io/topic?id=32793",
+   "summary": "별도 라이브러리 없이 브라우저가 이미 제공하는 HTML/CSS/JS만으로 UI와 상호작용을 네이티브하게 구현하는 법 을 정리한 레퍼런스 사이트 :has() , @scope , Container Query처럼 컴포넌트 구조를 단순하게 만드는 CSS부터 dialog , Popover, ...",
+   "publishedAt": 1787470300000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Labor0를 만든 이유",
@@ -223,36 +279,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.7,
    "hot": false
   },
   {
-   "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-   "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49398904",
+   "title": "Thinking in Python",
+   "url": "https://thinkinginpython.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49402202",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 209,
-   "comments": 173,
-   "publishedAt": 1787400426000,
+   "engagement": 152,
+   "comments": 31,
+   "publishedAt": 1787422249000,
    "isAI": false,
-   "score": 42.2,
+   "score": 41.6,
    "hot": true
-  },
-  {
-   "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-   "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49379550",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1668,
-   "comments": 389,
-   "publishedAt": 1787256446000,
-   "isAI": false,
-   "score": 42.2,
-   "hot": false
   },
   {
    "title": "Claudette - Claude의 BuzzFeed식 말투를 평범한 영어로 바꾸는 도구",
@@ -265,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41,
    "hot": false
   },
   {
@@ -275,11 +317,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 179,
-   "comments": 194,
+   "engagement": 186,
+   "comments": 207,
    "publishedAt": 1787341908000,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.9,
+   "hot": false
+  },
+  {
+   "title": "Don't paste the AI, please",
+   "url": "https://dontpastetheai.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49371857",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1042,
+   "comments": 579,
+   "publishedAt": 1787214044000,
+   "isAI": true,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -293,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -304,38 +360,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 409,
-   "comments": 102,
+   "comments": 104,
    "publishedAt": 1787341914000,
    "isAI": false,
-   "score": 41,
+   "score": 40.5,
    "hot": false
   },
   {
-   "title": "Don't paste the AI, please",
-   "url": "https://dontpastetheai.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49371857",
-   "source": "Hacker News",
+   "title": "Show GN: Three.js로 만든 일본 오늘의 운세 체험",
+   "url": "https://news.hada.io/topic?id=32762",
+   "summary": "안녕하세요, 일본 신사에서 오미쿠지(운세 종이)를 뽑는 것에서 영감을 받아 Three.js와 AI를 이용해 만든 간단한 Web 게임입니다. 매일 오늘의 운세를 뽑을 수 있고, 좋지 않은 운세는 종이를 묶어서 예방할 수 있는 체험을 할 수 있습니다. 접속한 다른 사람이 움직이는 것도 볼 수 있는 간단한 ...",
+   "publishedAt": 1787390190000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 1041,
-   "comments": 579,
-   "publishedAt": 1787214044000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": true,
-   "score": 41,
-   "hot": false
-  },
-  {
-   "title": "Thinking in Python",
-   "url": "https://thinkinginpython.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49402202",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 127,
-   "comments": 24,
-   "publishedAt": 1787422249000,
-   "isAI": false,
-   "score": 40.7,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -349,22 +391,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.6,
    "hot": true
-  },
-  {
-   "title": "Show GN: Three.js로 만든 일본 오늘의 운세 체험",
-   "url": "https://news.hada.io/topic?id=32762",
-   "summary": "안녕하세요, 일본 신사에서 오미쿠지(운세 종이)를 뽑는 것에서 영감을 받아 Three.js와 AI를 이용해 만든 간단한 Web 게임입니다. 매일 오늘의 운세를 뽑을 수 있고, 좋지 않은 운세는 종이를 묶어서 예방할 수 있는 체험을 할 수 있습니다. 접속한 다른 사람이 움직이는 것도 볼 수 있는 간단한 ...",
-   "publishedAt": 1787390190000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.2,
-   "hot": false
   },
   {
    "title": "Show GN: 일섬 — 일봉 거가중100 밀착·돌파 코인 스크리너",
@@ -377,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -391,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -405,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -419,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -433,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -447,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -461,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -475,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -489,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -503,7 +531,21 @@
    "comments": 209,
    "publishedAt": 1787252736000,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.9,
+   "hot": false
+  },
+  {
+   "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+   "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49387959",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 153,
+   "comments": 51,
+   "publishedAt": 1787319813000,
+   "isAI": true,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -517,22 +559,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.6,
    "hot": true
-  },
-  {
-   "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-   "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49387959",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 148,
-   "comments": 48,
-   "publishedAt": 1787319813000,
-   "isAI": true,
-   "score": 37.8,
-   "hot": false
   },
   {
    "title": "역대 최대 2D 우주 지도 공개",
@@ -545,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -559,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -573,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -601,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -615,21 +643,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
-   "hot": false
-  },
-  {
-   "title": "AI 에이전트의 제3자 침해 사례를 집계하는 Felony Bench",
-   "url": "https://news.hada.io/topic?id=32746",
-   "summary": "Felony Bench 는 AI 에이전트가 제3자에게 영향을 준 불법 활동을 기업별로 집계하며, Anthropic과 OpenAI가 각각 8건으로 가장 많음 점수는 확인된 불법 활동 횟수를 뜻하며 Meta는 1건 , Google과 Moonshot은 각각 0건임 집계 사례에는 타인의 체육관 수업...",
-   "publishedAt": 1787347931000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -643,7 +657,21 @@
    "comments": 297,
    "publishedAt": 1787239562000,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "AI 에이전트의 제3자 침해 사례를 집계하는 Felony Bench",
+   "url": "https://news.hada.io/topic?id=32746",
+   "summary": "Felony Bench 는 AI 에이전트가 제3자에게 영향을 준 불법 활동을 기업별로 집계하며, Anthropic과 OpenAI가 각각 8건으로 가장 많음 점수는 확인된 불법 활동 횟수를 뜻하며 Meta는 1건 , Google과 Moonshot은 각각 0건임 집계 사례에는 타인의 체육관 수업...",
+   "publishedAt": 1787347931000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -657,7 +685,7 @@
    "comments": 209,
    "publishedAt": 1787271312000,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -671,7 +699,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.4,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -685,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -699,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -713,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -727,7 +755,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -741,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -751,25 +779,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 238,
+   "engagement": 239,
    "comments": 58,
    "publishedAt": 1787305514000,
    "isAI": false,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "AI 기업이 실물 책을 파괴한다 — 너무 늦기 전에 희귀 도서를 스캔하자",
-   "url": "https://news.hada.io/topic?id=32738",
-   "summary": "여러 AI 기업이 2022년 이전의 기계가 건드리지 않은 학습 데이터 를 얻으려 중고책 수백만 권을 매입해 스캔한 뒤 폐기하면서, 디지털 사본이 기업 서버에만 남을 수 있음 Anthropic은 2024년 초 Project Panama 를 비밀리에 시작해 수천만 달러로 종이책 수백만 권...",
-   "publishedAt": 1787326359000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 34.4,
+   "score": 34,
    "hot": false
   },
   {
@@ -783,7 +797,21 @@
    "comments": 501,
    "publishedAt": 1787232192000,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "AI 기업이 실물 책을 파괴한다 — 너무 늦기 전에 희귀 도서를 스캔하자",
+   "url": "https://news.hada.io/topic?id=32738",
+   "summary": "여러 AI 기업이 2022년 이전의 기계가 건드리지 않은 학습 데이터 를 얻으려 중고책 수백만 권을 매입해 스캔한 뒤 폐기하면서, 디지털 사본이 기업 서버에만 남을 수 있음 Anthropic은 2024년 초 Project Panama 를 비밀리에 시작해 수천만 달러로 종이책 수백만 권...",
+   "publishedAt": 1787326359000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 34,
    "hot": false
   },
   {
@@ -797,7 +825,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -811,21 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "Huzzah - 의사코드로 AI 코딩을 제어하는 새로운 접근법",
-   "url": "https://news.hada.io/topic?id=32735",
-   "summary": "Huzzah 는 장문의 채팅 명령 대신, 개발자 의도를 담은 선언형 의사코드를 지속적으로 저장하고 실제 코드로 변환하는 실험적 편집기임 기존 코딩 에이전트는 프롬프트가 쉽게 폐기되고 변경 절차를 반복해서 서술해야 해, 인간 의도의 기록 이 사라지고 토큰 사용도...",
-   "publishedAt": 1787322728000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -839,7 +853,21 @@
    "comments": 163,
    "publishedAt": 1787238413000,
    "isAI": true,
-   "score": 34,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "메타, '뮤즈 스파크 1.2' 오픈라우터에 현존 최저가로 할인",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214263",
+   "summary": "오픈AI가 모델 중개 플랫폼 오픈라우터(OpenRouter)에서 최신 모델을 반값에 제공하며 주도권 잡기에 나선 데 이어, 메타도 같은 플랫폼을 통해 파격적인 저가 요금제를 내놓았다. 개발자와 기업 고객을 확보하기 위한 가격 경쟁이 뜨거워지고 있다.메타는 22일(현지시간) 플래그십 모델인 '뮤즈 스파크 1.2(Muse Spark 1.2)'의 '컨트리뷰터(Contributor)' 요금제를 오픈라우터에 공식 출시했다고 밝혔다. 이번 요금제의 가격은 입력 100만 토큰당 0.10달러, 출력 100만 토큰당 0.20달러, 캐시 입력은 0.",
+   "publishedAt": 1787469789000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -853,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -867,7 +895,21 @@
    "comments": 45,
    "publishedAt": 1787325467000,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "Google has stopped pushing Git tags for some Android source code",
+   "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49364745",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 824,
+   "comments": 335,
+   "publishedAt": 1787161649000,
+   "isAI": false,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -881,7 +923,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -895,21 +937,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "Google has stopped pushing Git tags for some Android source code",
-   "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49364745",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 823,
-   "comments": 334,
-   "publishedAt": 1787161649000,
-   "isAI": false,
-   "score": 32.6,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -923,7 +951,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -937,7 +965,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32,
    "hot": false
   },
   {
@@ -951,7 +979,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -959,62 +987,6 @@
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214255",
    "summary": "AI가 단순한 지시 수행을 넘어 스스로 가설을 세우고 실험하며 과학적 통찰을 찾아내는 'AI 과학자' 시대가 다가오고 있다. 영국의 한 AI 스타트업이 중소형 AI 모델만으로 초대형 프런티어 모델을 뛰어넘는 연구 역량을 증명해 관심이 쏠린다.영국 AI 스타트업 인히어런트(Inherent)는 최근 270억개 매개변수 규모의 AI 에이전트 '패러데이(Faraday)'를 공개했다. 패러데이는 과학 논문의 실험 결과를 스스로 재현하는 평가에서 앤트로픽의 '클로드 오퍼스 4.8'과 오픈AI의 'GPT-5.5' 등 거대 모델들을 제치고 우수한",
    "publishedAt": 1787449305000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "“솔라 프로4로 코드 리뷰 가능”…업스테이지, ‘코드 솔라’ 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214235",
-   "summary": "업스테이지가 ‘솔라 프로 4’ 모델 기반의 AI 코드 리뷰어 ‘코드 솔라(Code Solar)’를 선보였다.김성훈 업스테이지 대표는 지난 19일 페이스북을 통해 코드 솔라를 소개하며 “좋은 모델을 사용해 개발하더라도, 상당히 많은 버그를 마주하게 된다. 솔라 프로4가 코드 리뷰를 잘한다”라고 밝혔다.깃허브 등 코드 저장소를 등록한 이후 검토 요청만 하면 이용할 수 있다. 자동으로 리뷰를 진행하고 버그 및 보안, 성능 이슈 등을 파악해 해당 코드 라인에 수정 제안을 남기는 방식이다. 김 대표는 코드 솔라가 코드를 검토하고 지적한 버그",
-   "publishedAt": 1787447507000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "목포, 산정동 주민 40여명, 폭염 속 600m 도로변 환경정비",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214208",
-   "summary": "AI 생성 영상목포 산정동 주민들이 폭염 속에서도 도로변과 인도 환경정비에 나섰다고 21일 밝혔다. 자생조직 회원 40여명이 약 600m 구간의 잡초와 무단투기 쓰레기를 정리하며 보행환경과 거리 미관을 개선했다.산정동 자생조직 연합은 지난 19일 일신아파트 사거리부터 연산동 다이소 구간까지 왕복 600m 일대에서 환경정비활동을 진행했다.참여자들은 도로변과 인도 주변에 무성하게 자란 잡초를 제거하고 곳곳에 버려진 생활쓰레기를 수거했다. 여름철 잡초가 빠르게 자라고 쓰레기가 쌓이기 쉬운 구간을 중심으로 정비가 이뤄졌다.이번 활동에는 지",
-   "publishedAt": 1787446200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "\"AI 모델 해킹 사고 때문?\"…오픈AI, 캘리포니아 AI 규제법 지지로 급선회",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214257",
-   "summary": "오픈AI가 캘리포니아주의 AI 안전 법안인 'SB 53'을 더 강화해야 한다는 입장을 공식적으로 밝혔다. 과거 대형 AI 기업 대상의 투명성 의무화 및 내부 고발자 보호 조항이 담긴 SB 53 법안에 반대했던 기존 행보와 대비되는 정반대의 행보다.오픈AI는 22일(현지시간) 글로벌 업무팀의 링크드인 게시글을 통해 \"잠재적인 심각한 사고에 대비하기 위해 훈련 또는 평가 중인 최첨단 모델을 모니터링하도록 요구하는 등 안전장치를 확대하도록 개정되어야 한다\"고 강조했다. 이와 함께 \"모델 개발 수명주기 전반에 걸쳐 사이버 보안 보호를 강화",
-   "publishedAt": 1787445949000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "여수, 고용위기 선제대응지역 1년 연장",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214221",
-   "summary": "AI 생성 영상여수시의 고용위기 선제대응지역 지정기간이 1년 연장됐다. 지역 주력산업인 석유화학산업의 장기 침체가 이어지는 가운데 고용유지와 직업훈련, 생활안정 지원을 2027년 8월27일까지 이어갈 수 있게 됐다.여수는 27일 만료 예정이던 지정기간의 연장이 결정됐다고 21일 밝혔다. 지난 7월 고용노동부에 고용위기지역 지정을 신청했지만, 2026년 제6차 고용정책심의회 심의에서 지정 요건에 미달해 대상에는 포함되지 않았다.다만 석유화학산업 부진이 지속되는 여수의 산업 여건을 고려해 기존 고용위기 선제대응지역 지정기간은 1년 더",
-   "publishedAt": 1787445000000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
@@ -1035,7 +1007,63 @@
    "comments": 690,
    "publishedAt": 1786996035000,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "“솔라 프로4로 코드 리뷰 가능”…업스테이지, ‘코드 솔라’ 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214235",
+   "summary": "업스테이지가 ‘솔라 프로 4’ 모델 기반의 AI 코드 리뷰어 ‘코드 솔라(Code Solar)’를 선보였다.김성훈 업스테이지 대표는 지난 19일 페이스북을 통해 코드 솔라를 소개하며 “좋은 모델을 사용해 개발하더라도, 상당히 많은 버그를 마주하게 된다. 솔라 프로4가 코드 리뷰를 잘한다”라고 밝혔다.깃허브 등 코드 저장소를 등록한 이후 검토 요청만 하면 이용할 수 있다. 자동으로 리뷰를 진행하고 버그 및 보안, 성능 이슈 등을 파악해 해당 코드 라인에 수정 제안을 남기는 방식이다. 김 대표는 코드 솔라가 코드를 검토하고 지적한 버그",
+   "publishedAt": 1787447507000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+   "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49337392",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1054,
+   "comments": 865,
+   "publishedAt": 1786999570000,
+   "isAI": true,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "목포, 산정동 주민 40여명, 폭염 속 600m 도로변 환경정비",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214208",
+   "summary": "AI 생성 영상목포 산정동 주민들이 폭염 속에서도 도로변과 인도 환경정비에 나섰다고 21일 밝혔다. 자생조직 회원 40여명이 약 600m 구간의 잡초와 무단투기 쓰레기를 정리하며 보행환경과 거리 미관을 개선했다.산정동 자생조직 연합은 지난 19일 일신아파트 사거리부터 연산동 다이소 구간까지 왕복 600m 일대에서 환경정비활동을 진행했다.참여자들은 도로변과 인도 주변에 무성하게 자란 잡초를 제거하고 곳곳에 버려진 생활쓰레기를 수거했다. 여름철 잡초가 빠르게 자라고 쓰레기가 쌓이기 쉬운 구간을 중심으로 정비가 이뤄졌다.이번 활동에는 지",
+   "publishedAt": 1787446200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "\"AI 모델 해킹 사고 때문?\"…오픈AI, 캘리포니아 AI 규제법 지지로 급선회",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214257",
+   "summary": "오픈AI가 캘리포니아주의 AI 안전 법안인 'SB 53'을 더 강화해야 한다는 입장을 공식적으로 밝혔다. 과거 대형 AI 기업 대상의 투명성 의무화 및 내부 고발자 보호 조항이 담긴 SB 53 법안에 반대했던 기존 행보와 대비되는 정반대의 행보다.오픈AI는 22일(현지시간) 글로벌 업무팀의 링크드인 게시글을 통해 \"잠재적인 심각한 사고에 대비하기 위해 훈련 또는 평가 중인 최첨단 모델을 모니터링하도록 요구하는 등 안전장치를 확대하도록 개정되어야 한다\"고 강조했다. 이와 함께 \"모델 개발 수명주기 전반에 걸쳐 사이버 보안 보호를 강화",
+   "publishedAt": 1787445949000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1049,7 +1077,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.4,
+   "hot": false
+  },
+  {
+   "title": "여수, 고용위기 선제대응지역 1년 연장",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214221",
+   "summary": "AI 생성 영상여수시의 고용위기 선제대응지역 지정기간이 1년 연장됐다. 지역 주력산업인 석유화학산업의 장기 침체가 이어지는 가운데 고용유지와 직업훈련, 생활안정 지원을 2027년 8월27일까지 이어갈 수 있게 됐다.여수는 27일 만료 예정이던 지정기간의 연장이 결정됐다고 21일 밝혔다. 지난 7월 고용노동부에 고용위기지역 지정을 신청했지만, 2026년 제6차 고용정책심의회 심의에서 지정 요건에 미달해 대상에는 포함되지 않았다.다만 석유화학산업 부진이 지속되는 여수의 산업 여건을 고려해 기존 고용위기 선제대응지역 지정기간은 1년 더",
+   "publishedAt": 1787445000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1063,21 +1105,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.3,
    "hot": false
   },
   {
-   "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-   "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49337392",
+   "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+   "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49390463",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1054,
-   "comments": 863,
-   "publishedAt": 1786999570000,
-   "isAI": true,
-   "score": 31.6,
+   "engagement": 116,
+   "comments": 63,
+   "publishedAt": 1787329672000,
+   "isAI": false,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1091,49 +1133,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-   "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49390463",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 116,
-   "comments": 60,
-   "publishedAt": 1787329672000,
-   "isAI": false,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "메모리 폭등에 엔비디아 서버 최대 15% 인상...빅테크 부담 가중",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214253",
-   "summary": "메모리 반도체 가격 급등 여파로 엔비디아 AI 칩이 탑재된 서버 가격이 최고 15% 이상 인상된다.블룸버그는 23일(현지시간) 마이크로소프트, 구글, 오라클 등 주요 대형 데이터센터 운영업체와 계약을 맺은 서버 제조사들이 최근 주요 고객사들에 내년 초 출하분부터 적용될 가격 인상 방침을 통보했다고 보도했다. 익명을 요구한 관계자들에 따르면, 이번 가격 인상은 내년 초 출하되는 시스템부터 적용되며' 베라 루빈(Vera Rubin)'과 '그레이스 블랙웰(Grace Blackwell)' 칩이 탑재된 시스템을 포함한 여러 시스템에 영향을",
-   "publishedAt": 1787441765000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "SSL에 대해 배운 모든 것이 더는 유효하지 않음 [유튜브]",
-   "url": "https://news.hada.io/topic?id=32756",
-   "summary": "장기 인증서와 수동 갱신에 의존하던 운영 방식은 TLS 1.3 , 단기 인증서와 ACME 자동화를 중심으로 바뀌었으며 기존 SSL 관행 대부분은 더는 안전하거나 지속 가능하지 않음 CA의 부실한 감사와 인증서 오발급, SHA-1 충돌 , Heartbleed, 불완전한 폐기 체계가 잇달...",
-   "publishedAt": 1787361301000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1147,7 +1147,48 @@
    "comments": 127,
    "publishedAt": 1787240778000,
    "isAI": false,
-   "score": 31.3,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "메모리 폭등에 엔비디아 서버 최대 15% 인상...빅테크 부담 가중",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214253",
+   "summary": "메모리 반도체 가격 급등 여파로 엔비디아 AI 칩이 탑재된 서버 가격이 최고 15% 이상 인상된다.블룸버그는 23일(현지시간) 마이크로소프트, 구글, 오라클 등 주요 대형 데이터센터 운영업체와 계약을 맺은 서버 제조사들이 최근 주요 고객사들에 내년 초 출하분부터 적용될 가격 인상 방침을 통보했다고 보도했다. 익명을 요구한 관계자들에 따르면, 이번 가격 인상은 내년 초 출하되는 시스템부터 적용되며' 베라 루빈(Vera Rubin)'과 '그레이스 블랙웰(Grace Blackwell)' 칩이 탑재된 시스템을 포함한 여러 시스템에 영향을",
+   "publishedAt": 1787441765000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+   "url": "https://huggingface.co/papers/2608.19880",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 248,
+   "summary": "LLM agents learn by interacting with environments, yet these environments are hand-built and static: blind to an agent's weaknesses, and quickly left behind as it improves. While recent environment generation methods attempt to address this, they require domain-specific pipelines, rely on expensive ",
+   "publishedAt": 1787169600000,
+   "isAI": true,
+   "score": 31,
+   "hot": false
+  },
+  {
+   "title": "SSL에 대해 배운 모든 것이 더는 유효하지 않음 [유튜브]",
+   "url": "https://news.hada.io/topic?id=32756",
+   "summary": "장기 인증서와 수동 갱신에 의존하던 운영 방식은 TLS 1.3 , 단기 인증서와 ACME 자동화를 중심으로 바뀌었으며 기존 SSL 관행 대부분은 더는 안전하거나 지속 가능하지 않음 CA의 부실한 감사와 인증서 오발급, SHA-1 충돌 , Heartbleed, 불완전한 폐기 체계가 잇달...",
+   "publishedAt": 1787361301000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31,
    "hot": false
   },
   {
@@ -1161,34 +1202,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
-   "url": "https://huggingface.co/papers/2608.19880",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 248,
-   "summary": "LLM agents learn by interacting with environments, yet these environments are hand-built and static: blind to an agent's weaknesses, and quickly left behind as it improves. While recent environment generation methods attempt to address this, they require domain-specific pipelines, rely on expensive ",
-   "publishedAt": 1787169600000,
-   "isAI": true,
-   "score": 31.2,
-   "hot": false
-  },
-  {
-   "title": "What happens when a GPU reads memory",
-   "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49390308",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 110,
-   "comments": 19,
-   "publishedAt": 1787329002000,
-   "isAI": false,
-   "score": 31.1,
+   "score": 31,
    "hot": false
   },
   {
@@ -1198,81 +1212,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 121,
+   "engagement": 122,
    "comments": 48,
    "publishedAt": 1787240457000,
    "isAI": true,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "Rust nightly, 차세대 트레이트 솔버 기본 활성화",
-   "url": "https://news.hada.io/topic?id=32752",
-   "summary": "약 4년간 개발한 차세대 트레이트 솔버 가 안정화를 앞두고 nightly에서 기본 활성화되며, where 절 증명과 연관 타입 정규화 등 Rust 컴파일러의 핵심 처리 방식을 전면 교체함 기존 구현을 제거하면 Type Alias Impl Trait·Return Type Notation 안정화, Mo...",
-   "publishedAt": 1787357814000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "KDE에 Btrfs 스냅샷을 통합하는 KIO Snapshot",
-   "url": "https://news.hada.io/topic?id=32751",
-   "summary": "새로 출시된 KIO Snapshot 은 Dolphin을 비롯한 KDE 소프트웨어에서 Btrfs 스냅샷을 일반 파일처럼 직접 탐색할 수 있게 함 파일의 과거 버전과 서브볼륨별 디렉터리 트리를 가상 폴더 로 제공해 버전 비교, 복사, 메타데이터 확인 등에 활용할 수 있음",
-   "publishedAt": 1787357634000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "더 나은 배터리",
-   "url": "https://news.hada.io/topic?id=32750",
-   "summary": "표준 라이브러리의 핵심 쟁점은 크기 가 아니라 일관된 품질의 API를 설계하고 제공할 조직 역량 임 Python 표준 라이브러리는 품질과 명명 규칙이 고르지 않지만, 기능을 일찍 제공한 덕분에 데이터 과학 혁명 의 기반이 됨 Go는 포괄적인...",
-   "publishedAt": 1787357454000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "Rust 1.98.0 발표",
-   "url": "https://news.hada.io/topic?id=32749",
-   "summary": "Rust 1.98.0 안정 버전은 대수적 부동소수점 연산 , 버퍼 기반 정수 포맷팅, ManuallyDrop > 의 동작 보장을 추가함 f32 와 f64 의 algebraic_* 메서드는 연산 재배치와 루프 벡터화 를 허용하지...",
-   "publishedAt": 1787357274000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "AI boosted homework scores, then exam scores dropped: study",
-   "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49357530",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 372,
-   "comments": 372,
-   "publishedAt": 1787120011000,
-   "isAI": true,
-   "score": 31,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1286,7 +1230,91 @@
    "comments": 699,
    "publishedAt": 1787059358000,
    "isAI": false,
-   "score": 31,
+   "score": 30.9,
+   "hot": false
+  },
+  {
+   "title": "What happens when a GPU reads memory",
+   "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49390308",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 110,
+   "comments": 19,
+   "publishedAt": 1787329002000,
+   "isAI": false,
+   "score": 30.8,
+   "hot": false
+  },
+  {
+   "title": "AI boosted homework scores, then exam scores dropped: study",
+   "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49357530",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 372,
+   "comments": 372,
+   "publishedAt": 1787120011000,
+   "isAI": true,
+   "score": 30.8,
+   "hot": false
+  },
+  {
+   "title": "Rust nightly, 차세대 트레이트 솔버 기본 활성화",
+   "url": "https://news.hada.io/topic?id=32752",
+   "summary": "약 4년간 개발한 차세대 트레이트 솔버 가 안정화를 앞두고 nightly에서 기본 활성화되며, where 절 증명과 연관 타입 정규화 등 Rust 컴파일러의 핵심 처리 방식을 전면 교체함 기존 구현을 제거하면 Type Alias Impl Trait·Return Type Notation 안정화, Mo...",
+   "publishedAt": 1787357814000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 30.8,
+   "hot": false
+  },
+  {
+   "title": "KDE에 Btrfs 스냅샷을 통합하는 KIO Snapshot",
+   "url": "https://news.hada.io/topic?id=32751",
+   "summary": "새로 출시된 KIO Snapshot 은 Dolphin을 비롯한 KDE 소프트웨어에서 Btrfs 스냅샷을 일반 파일처럼 직접 탐색할 수 있게 함 파일의 과거 버전과 서브볼륨별 디렉터리 트리를 가상 폴더 로 제공해 버전 비교, 복사, 메타데이터 확인 등에 활용할 수 있음",
+   "publishedAt": 1787357634000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 30.8,
+   "hot": false
+  },
+  {
+   "title": "더 나은 배터리",
+   "url": "https://news.hada.io/topic?id=32750",
+   "summary": "표준 라이브러리의 핵심 쟁점은 크기 가 아니라 일관된 품질의 API를 설계하고 제공할 조직 역량 임 Python 표준 라이브러리는 품질과 명명 규칙이 고르지 않지만, 기능을 일찍 제공한 덕분에 데이터 과학 혁명 의 기반이 됨 Go는 포괄적인...",
+   "publishedAt": 1787357454000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 30.7,
+   "hot": false
+  },
+  {
+   "title": "Rust 1.98.0 발표",
+   "url": "https://news.hada.io/topic?id=32749",
+   "summary": "Rust 1.98.0 안정 버전은 대수적 부동소수점 연산 , 버퍼 기반 정수 포맷팅, ManuallyDrop > 의 동작 보장을 추가함 f32 와 f64 의 algebraic_* 메서드는 연산 재배치와 루프 벡터화 를 허용하지...",
+   "publishedAt": 1787357274000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 30.7,
    "hot": false
   },
   {
@@ -1300,21 +1328,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.9,
-   "hot": false
-  },
-  {
-   "title": "Kobo에서 앱을 실행할 수 있게 해주는 Cobalt",
-   "url": "https://news.hada.io/topic?id=32747",
-   "summary": "Cobalt 는 Kobo 전자책 단말기에 런처, 서명된 앱 스토어, Rust SDK와 격리 런타임 을 추가하는 오픈소스 플랫폼임 USB로 한 번 설치하면 이후 앱과 플랫폼을 Wi-Fi로 설치·업데이트·제거 할 수 있으며, 재부팅하면 기본 Kobo 리더로 돌아감",
-   "publishedAt": 1787351550000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 30.7,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1328,7 +1342,7 @@
    "comments": 83,
    "publishedAt": 1787295580000,
    "isAI": false,
-   "score": 30.6,
+   "score": 30.3,
    "hot": false
   },
   {
@@ -1342,7 +1356,35 @@
    "comments": 137,
    "publishedAt": 1787206600000,
    "isAI": false,
-   "score": 30.5,
+   "score": 30.3,
+   "hot": false
+  },
+  {
+   "title": "Kobo에서 앱을 실행할 수 있게 해주는 Cobalt",
+   "url": "https://news.hada.io/topic?id=32747",
+   "summary": "Cobalt 는 Kobo 전자책 단말기에 런처, 서명된 앱 스토어, Rust SDK와 격리 런타임 을 추가하는 오픈소스 플랫폼임 USB로 한 번 설치하면 이후 앱과 플랫폼을 Wi-Fi로 설치·업데이트·제거 할 수 있으며, 재부팅하면 기본 Kobo 리더로 돌아감",
+   "publishedAt": 1787351550000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 30.3,
+   "hot": false
+  },
+  {
+   "title": "Hacking with Claude on a $27 smart watch",
+   "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49374772",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 106,
+   "comments": 57,
+   "publishedAt": 1787234889000,
+   "isAI": true,
+   "score": 29.8,
    "hot": false
   },
   {
@@ -1356,49 +1398,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.1,
-   "hot": false
-  },
-  {
-   "title": "Hacking with Claude on a $27 smart watch",
-   "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49374772",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 105,
-   "comments": 57,
-   "publishedAt": 1787234889000,
-   "isAI": true,
-   "score": 30,
-   "hot": false
-  },
-  {
-   "title": "생물학을 사랑했어야 했다 (2020)",
-   "url": "https://news.hada.io/topic?id=32744",
-   "summary": "학교 생물학은 생명의 놀라운 작동 원리와 발견 과정 대신 용어와 결론 암기 에 집중해, 탐구심을 자극해야 할 분야를 무미건조하게 만듦 배아 분화는 화학적 농도 차이가 유전자 발현을 바꾸고 다시 정교한 신호를 만드는 과정으로, 세포를 재귀적으로 자신을 수정하는 프로...",
-   "publishedAt": 1787341240000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 29.9,
-   "hot": false
-  },
-  {
-   "title": "전 세계 운영체제를 꿈꾼 일본의 TRON과 미국의 개입",
-   "url": "https://news.hada.io/topic?id=32743",
-   "summary": "1984년 시작된 TRON 은 가전의 마이크로컨트롤러부터 PC·메인프레임·통신망까지 일본의 디지털 기반 전체를 하나의 개방형 아키텍처 로 구축하려던 프로젝트였음 데스크톱용 BTRON 은 파일과 애플리케이션 대신 타입이 있는 문서 조각, 이름을 바꿔도...",
-   "publishedAt": 1787341060000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 29.9,
+   "score": 29.8,
    "hot": false
   }
  ]
