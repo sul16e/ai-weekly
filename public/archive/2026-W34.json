@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787460256764,
+ "updatedAt": 1787463917805,
  "week": "2026-W34",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 238,
-   "comments": 82,
+   "engagement": 261,
+   "comments": 85,
    "publishedAt": 1787422456000,
    "isAI": true,
-   "score": 54,
+   "score": 54.3,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 175,
-   "comments": 161,
+   "engagement": 179,
+   "comments": 163,
    "publishedAt": 1787417929000,
    "isAI": true,
-   "score": 50.8,
+   "score": 50.4,
    "hot": true
   },
   {
@@ -37,11 +37,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 264,
+   "engagement": 270,
    "comments": 117,
    "publishedAt": 1787392154000,
    "isAI": true,
-   "score": 50.5,
+   "score": 50.2,
+   "hot": true
+  },
+  {
+   "title": "로컬 LLM이 실제 성능보다 더 멍청하게 느껴지는 이유",
+   "url": "https://news.hada.io/topic?id=32791",
+   "summary": "같은 모델 가중치라도 GPU 명령어·추론 소프트웨어·정밀도 설정 이 다르면 다음 토큰 확률이 달라지고, 긴 문맥에서는 도구 호출 실패로 이어질 수 있음 Qwen3.6-27B와 약 10만 토큰의 실제 에이전트 작업 문맥을 실험한 결과, vLLM의 어텐션 백엔드 차이는 후반부부...",
+   "publishedAt": 1787463199000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
    "hot": true
   },
   {
@@ -55,7 +69,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -69,7 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -83,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -93,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 622,
+   "engagement": 626,
    "comments": 481,
    "publishedAt": 1787360777000,
    "isAI": false,
-   "score": 46.7,
+   "score": 46.4,
    "hot": false
   },
   {
@@ -107,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 477,
-   "comments": 482,
+   "engagement": 478,
+   "comments": 483,
    "publishedAt": 1787312885000,
    "isAI": true,
-   "score": 45.4,
+   "score": 45.1,
    "hot": false
   },
   {
@@ -125,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 44.9,
    "hot": true
   },
   {
@@ -139,7 +153,7 @@
    "comments": 153,
    "publishedAt": 1787308436000,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.8,
    "hot": false
   },
   {
@@ -149,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 174,
-   "comments": 72,
+   "engagement": 178,
+   "comments": 71,
    "publishedAt": 1787425481000,
    "isAI": false,
-   "score": 44.6,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -163,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 349,
+   "engagement": 350,
    "comments": 233,
    "publishedAt": 1787322712000,
    "isAI": true,
-   "score": 44.4,
+   "score": 44,
    "hot": false
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -191,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 611,
-   "comments": 892,
+   "engagement": 615,
+   "comments": 894,
    "publishedAt": 1787279867000,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -219,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 205,
-   "comments": 171,
+   "engagement": 208,
+   "comments": 172,
    "publishedAt": 1787400426000,
    "isAI": false,
-   "score": 42.9,
+   "score": 42.6,
    "hot": true
   },
   {
@@ -237,7 +251,7 @@
    "comments": 389,
    "publishedAt": 1787256446000,
    "isAI": false,
-   "score": 42.7,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -251,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -265,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -279,7 +293,7 @@
    "comments": 99,
    "publishedAt": 1787341914000,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -293,7 +307,35 @@
    "comments": 579,
    "publishedAt": 1787214044000,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.2,
+   "hot": false
+  },
+  {
+   "title": "A week of using Codex more than Claude",
+   "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49393051",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 169,
+   "comments": 184,
+   "publishedAt": 1787341908000,
+   "isAI": true,
+   "score": 41.1,
+   "hot": false
+  },
+  {
+   "title": "Thinking in Python",
+   "url": "https://thinkinginpython.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49402202",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 122,
+   "comments": 23,
+   "publishedAt": 1787422249000,
+   "isAI": false,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -307,22 +349,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
-  },
-  {
-   "title": "A week of using Codex more than Claude",
-   "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49393051",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 160,
-   "comments": 178,
-   "publishedAt": 1787341908000,
-   "isAI": true,
-   "score": 41,
-   "hot": false
   },
   {
    "title": "Show GN: Three.js로 만든 일본 오늘의 운세 체험",
@@ -335,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -349,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -363,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.3,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -377,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -391,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -405,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -419,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -433,22 +461,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.5,
    "hot": true
-  },
-  {
-   "title": "Thinking in Python",
-   "url": "https://thinkinginpython.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49402202",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 102,
-   "comments": 22,
-   "publishedAt": 1787422249000,
-   "isAI": false,
-   "score": 39.6,
-   "hot": false
   },
   {
    "title": "중국 로봇, 100m에서 우사인 볼트의 세계 기록보다 빠르게 달려",
@@ -461,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -475,21 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
-   "hot": true
-  },
-  {
-   "title": "ElevenLabs, TwelveLabs, ThirteenLabs…",
-   "url": "https://news.hada.io/topic?id=32776",
-   "summary": "ElevenLabs를 출발점으로 0~99의 숫자와 Labs를 결합한 이름 을 조사한 결과, 상당수 번호에서 실제 회사나 프로젝트의 온라인 흔적이 발견됨 숫자는 영문·숫자 표기 모두 허용하고 Labs 또는 Lab 을 앞뒤에 붙이는 방식으로 한정했으며, 후보가 여럿이면 ...",
-   "publishedAt": 1787434277000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.9,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -503,8 +503,22 @@
    "comments": 209,
    "publishedAt": 1787252736000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.5,
    "hot": false
+  },
+  {
+   "title": "ElevenLabs, TwelveLabs, ThirteenLabs…",
+   "url": "https://news.hada.io/topic?id=32776",
+   "summary": "ElevenLabs를 출발점으로 0~99의 숫자와 Labs를 결합한 이름 을 조사한 결과, 상당수 번호에서 실제 회사나 프로젝트의 온라인 흔적이 발견됨 숫자는 영문·숫자 표기 모두 허용하고 Labs 또는 Lab 을 앞뒤에 붙이는 방식으로 한정했으며, 후보가 여럿이면 ...",
+   "publishedAt": 1787434277000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.5,
+   "hot": true
   },
   {
    "title": "역대 최대 2D 우주 지도 공개",
@@ -517,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -531,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -545,8 +559,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
+  },
+  {
+   "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+   "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49387959",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 140,
+   "comments": 46,
+   "publishedAt": 1787319813000,
+   "isAI": true,
+   "score": 37.8,
+   "hot": false
   },
   {
    "title": "Computer Use와 Skills/Files API로 프로덕션 에이전트 구축하기",
@@ -559,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -573,21 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.8,
-   "hot": false
-  },
-  {
-   "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-   "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49387959",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 132,
-   "comments": 45,
-   "publishedAt": 1787319813000,
-   "isAI": true,
-   "score": 37.7,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -601,7 +615,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -615,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -629,7 +643,7 @@
    "comments": 297,
    "publishedAt": 1787239562000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -643,7 +657,7 @@
    "comments": 209,
    "publishedAt": 1787271312000,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -657,7 +671,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -671,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -685,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -699,20 +713,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "OpenAI says California should strengthen its AI safety bill",
-   "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-   "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-   "publishedAt": 1787416234000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
    "score": 35.2,
    "hot": false
   },
@@ -727,7 +727,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "OpenAI says California should strengthen its AI safety bill",
+   "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+   "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+   "publishedAt": 1787416234000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -741,7 +755,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -755,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -769,21 +783,7 @@
    "comments": 58,
    "publishedAt": 1787305514000,
    "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "인간의 판단은 소프트웨어 공장을 떠나지 않고 위치를 바꿈",
-   "url": "https://news.hada.io/topic?id=32737",
-   "summary": "소프트웨어 공장 이 코드 생성을 자동화해도 제품 의도·시스템 설계·품질 기준·최종 배포에는 인간의 판단과 책임이 필요함 Claude Code나 Codex만으로 충분할 수 있지만, 작업을 이벤트 기반 큐 로 반복 처리하고 에이전트 사이에 상태·맥락·증거를 안정적으로 넘겨...",
-   "publishedAt": 1787323465000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -797,7 +797,21 @@
    "comments": 501,
    "publishedAt": 1787232192000,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.5,
+   "hot": false
+  },
+  {
+   "title": "인간의 판단은 소프트웨어 공장을 떠나지 않고 위치를 바꿈",
+   "url": "https://news.hada.io/topic?id=32737",
+   "summary": "소프트웨어 공장 이 코드 생성을 자동화해도 제품 의도·시스템 설계·품질 기준·최종 배포에는 인간의 판단과 책임이 필요함 Claude Code나 Codex만으로 충분할 수 있지만, 작업을 이벤트 기반 큐 로 반복 처리하고 에이전트 사이에 상태·맥락·증거를 안정적으로 넘겨...",
+   "publishedAt": 1787323465000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -811,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -825,7 +839,7 @@
    "comments": 163,
    "publishedAt": 1787238413000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -839,7 +853,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "I ran Photoshop on a £0.60 computer chip",
+   "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49389441",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 148,
+   "comments": 45,
+   "publishedAt": 1787325467000,
+   "isAI": false,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -853,7 +881,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -867,21 +895,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "I ran Photoshop on a £0.60 computer chip",
-   "url": "https://pointinthecloud.com/2026-08-19-144600.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49389441",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 147,
-   "comments": 45,
-   "publishedAt": 1787325467000,
-   "isAI": false,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -895,7 +909,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -909,7 +923,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
+   "hot": false
+  },
+  {
+   "title": "Google has stopped pushing Git tags for some Android source code",
+   "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49364745",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 822,
+   "comments": 334,
+   "publishedAt": 1787161649000,
+   "isAI": false,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -923,21 +951,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "Google has stopped pushing Git tags for some Android source code",
-   "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49364745",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 821,
-   "comments": 334,
-   "publishedAt": 1787161649000,
-   "isAI": false,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -951,7 +965,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -965,7 +979,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -979,7 +993,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -993,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1007,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1021,35 +1035,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "메모리 폭등에 엔비디아 서버 최대 15% 인상...빅테크 부담 가중",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214253",
-   "summary": "메모리 반도체 가격 급등 여파로 엔비디아 AI 칩이 탑재된 서버 가격이 최고 15% 이상 인상된다.블룸버그는 23일(현지시간) 마이크로소프트, 구글, 오라클 등 주요 대형 데이터센터 운영업체와 계약을 맺은 서버 제조사들이 최근 주요 고객사들에 내년 초 출하분부터 적용될 가격 인상 방침을 통보했다고 보도했다. 익명을 요구한 관계자들에 따르면, 이번 가격 인상은 내년 초 출하되는 시스템부터 적용되며' 베라 루빈(Vera Rubin)'과 '그레이스 블랙웰(Grace Blackwell)' 칩이 탑재된 시스템을 포함한 여러 시스템에 영향을",
-   "publishedAt": 1787441765000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-   "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49390463",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 116,
-   "comments": 60,
-   "publishedAt": 1787329672000,
-   "isAI": false,
-   "score": 32.1,
+   "score": 32,
    "hot": false
   },
   {
@@ -1063,21 +1049,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
-   "title": "SSL에 대해 배운 모든 것이 더는 유효하지 않음 [유튜브]",
-   "url": "https://news.hada.io/topic?id=32756",
-   "summary": "장기 인증서와 수동 갱신에 의존하던 운영 방식은 TLS 1.3 , 단기 인증서와 ACME 자동화를 중심으로 바뀌었으며 기존 SSL 관행 대부분은 더는 안전하거나 지속 가능하지 않음 CA의 부실한 감사와 인증서 오발급, SHA-1 충돌 , Heartbleed, 불완전한 폐기 체계가 잇달...",
-   "publishedAt": 1787361301000,
-   "source": "GeekNews",
+   "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+   "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49390463",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 116,
+   "comments": 60,
+   "publishedAt": 1787329672000,
    "isAI": false,
-   "score": 32,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1091,21 +1077,21 @@
    "comments": 690,
    "publishedAt": 1786996035000,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.8,
    "hot": false
   },
   {
-   "title": "YC CEO Garry Tan이 말하는 창업자의 새로운 규칙 [유튜브]",
-   "url": "https://news.hada.io/topic?id=32755",
-   "summary": "Web 1.0 붕괴 직후 유행을 좇아 웹 개발과 Palantir 기회를 놓친 경험은, 창업자가 시장의 평가보다 직접 경험 과 자신만의 지식을 따라야 한다는 교훈으로 이어짐 바이브 코딩과 코딩 에이전트는 개인의 역량을 과거 수백 명 규모로 증폭하므로, 기존 SaaS 성공 공식을 복제하기보다...",
-   "publishedAt": 1787360404000,
-   "source": "GeekNews",
-   "sourceType": "community",
+   "title": "메모리 폭등에 엔비디아 서버 최대 15% 인상...빅테크 부담 가중",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214253",
+   "summary": "메모리 반도체 가격 급등 여파로 엔비디아 AI 칩이 탑재된 서버 가격이 최고 15% 이상 인상된다.블룸버그는 23일(현지시간) 마이크로소프트, 구글, 오라클 등 주요 대형 데이터센터 운영업체와 계약을 맺은 서버 제조사들이 최근 주요 고객사들에 내년 초 출하분부터 적용될 가격 인상 방침을 통보했다고 보도했다. 익명을 요구한 관계자들에 따르면, 이번 가격 인상은 내년 초 출하되는 시스템부터 적용되며' 베라 루빈(Vera Rubin)'과 '그레이스 블랙웰(Grace Blackwell)' 칩이 탑재된 시스템을 포함한 여러 시스템에 영향을",
+   "publishedAt": 1787441765000,
+   "source": "AI타임스",
+   "sourceType": "media",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.9,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1119,21 +1105,35 @@
    "comments": 863,
    "publishedAt": 1786999570000,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.7,
    "hot": false
   },
   {
-   "title": "What happens when a GPU reads memory",
-   "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49390308",
-   "source": "Hacker News",
+   "title": "SSL에 대해 배운 모든 것이 더는 유효하지 않음 [유튜브]",
+   "url": "https://news.hada.io/topic?id=32756",
+   "summary": "장기 인증서와 수동 갱신에 의존하던 운영 방식은 TLS 1.3 , 단기 인증서와 ACME 자동화를 중심으로 바뀌었으며 기존 SSL 관행 대부분은 더는 안전하거나 지속 가능하지 않음 CA의 부실한 감사와 인증서 오발급, SHA-1 충돌 , Heartbleed, 불완전한 폐기 체계가 잇달...",
+   "publishedAt": 1787361301000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 110,
-   "comments": 19,
-   "publishedAt": 1787329002000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
    "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "YC CEO Garry Tan이 말하는 창업자의 새로운 규칙 [유튜브]",
+   "url": "https://news.hada.io/topic?id=32755",
+   "summary": "Web 1.0 붕괴 직후 유행을 좇아 웹 개발과 Palantir 기회를 놓친 경험은, 창업자가 시장의 평가보다 직접 경험 과 자신만의 지식을 따라야 한다는 교훈으로 이어짐 바이브 코딩과 코딩 에이전트는 개인의 역량을 과거 수백 명 규모로 증폭하므로, 기존 SaaS 성공 공식을 복제하기보다...",
+   "publishedAt": 1787360404000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1147,7 +1147,34 @@
    "comments": 127,
    "publishedAt": 1787240778000,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "What happens when a GPU reads memory",
+   "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49390308",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 110,
+   "comments": 19,
+   "publishedAt": 1787329002000,
+   "isAI": false,
+   "score": 31.4,
+   "hot": false
+  },
+  {
+   "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+   "url": "https://huggingface.co/papers/2608.19880",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 248,
+   "summary": "LLM agents learn by interacting with environments, yet these environments are hand-built and static: blind to an agent's weaknesses, and quickly left behind as it improves. While recent environment generation methods attempt to address this, they require domain-specific pipelines, rely on expensive ",
+   "publishedAt": 1787169600000,
+   "isAI": true,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1161,7 +1188,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1175,7 +1202,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1189,7 +1216,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1203,20 +1230,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false
   },
   {
-   "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
-   "url": "https://huggingface.co/papers/2608.19880",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
+   "title": "Autolith: A programming agent with a live runtime",
+   "url": "https://www.lambda-symbolics.com/autolith",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49376197",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": 248,
-   "summary": "LLM agents learn by interacting with environments, yet these environments are hand-built and static: blind to an agent's weaknesses, and quickly left behind as it improves. While recent environment generation methods attempt to address this, they require domain-specific pipelines, rely on expensive ",
-   "publishedAt": 1787169600000,
+   "engagement": 119,
+   "comments": 47,
+   "publishedAt": 1787240457000,
    "isAI": true,
-   "score": 31.5,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1230,21 +1258,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "Autolith: A programming agent with a live runtime",
-   "url": "https://www.lambda-symbolics.com/autolith",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49376197",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 118,
-   "comments": 46,
-   "publishedAt": 1787240457000,
-   "isAI": true,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1254,11 +1268,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 370,
+   "engagement": 372,
    "comments": 371,
    "publishedAt": 1787120011000,
    "isAI": true,
-   "score": 31.3,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1272,7 +1286,21 @@
    "comments": 699,
    "publishedAt": 1787059358000,
    "isAI": false,
-   "score": 31.3,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "We rebuilt the Linux MicroVM stack on Apple Silicon",
+   "url": "https://encore.dev/blog/firecracker-apple-silicon",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49384716",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 145,
+   "comments": 83,
+   "publishedAt": 1787295580000,
+   "isAI": false,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1286,21 +1314,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.2,
-   "hot": false
-  },
-  {
-   "title": "We rebuilt the Linux MicroVM stack on Apple Silicon",
-   "url": "https://encore.dev/blog/firecracker-apple-silicon",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49384716",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 145,
-   "comments": 82,
-   "publishedAt": 1787295580000,
-   "isAI": false,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1314,7 +1328,7 @@
    "comments": 137,
    "publishedAt": 1787206600000,
    "isAI": false,
-   "score": 30.9,
+   "score": 30.7,
    "hot": false
   },
   {
@@ -1328,7 +1342,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.7,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1342,7 +1356,7 @@
    "comments": 57,
    "publishedAt": 1787234889000,
    "isAI": true,
-   "score": 30.4,
+   "score": 30.2,
    "hot": false
   },
   {
@@ -1356,7 +1370,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.4,
+   "score": 30.2,
    "hot": false
   },
   {
@@ -1370,7 +1384,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.4,
+   "score": 30.2,
    "hot": false
   },
   {
@@ -1384,21 +1398,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 30,
-   "hot": false
-  },
-  {
-   "title": "[AI 이슈트렌드] 집중호우 피해·민주당 전당대회 주목…증권가는 '대형 주주환원' 화제",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214251",
-   "summary": "AI타임스와 이스트에이드의 8월 셋째 주(8월14일~20일) 이슈 분석 결과, 경남 거제 호우를 포함해 을지연습과 정치권 주요 이슈들이 상위권을 차지했다.이번 주 검색량 1위는 '경남 거제 호우(12.27%)'가 압도적인 검색량을 기록했다. 남부지방에 이례적인 집중호우가 쏟아진 가운데 정부는 경남 거제시 전역과 통영시 산양읍·봉평동을 특별재난지역으로 우선 선포하며 신속한 피해 복구에 나섰다.전남 해남에서는 2점대 지진이 6차례 잇따르며 '해남 지진(2.32%)'이, 사망자가 47명으로 늘어난 '인도네시아 7.7 강진 사망(2.22%",
-   "publishedAt": 1787416618000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30,
+   "score": 29.8,
    "hot": false
   }
  ]
