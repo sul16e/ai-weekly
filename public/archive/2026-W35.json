@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787597428319,
+ "updatedAt": 1787601826125,
  "week": "2026-W35",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 247,
-   "comments": 280,
+   "engagement": 297,
+   "comments": 330,
    "publishedAt": 1787586753000,
    "isAI": true,
-   "score": 58.8,
+   "score": 59.7,
    "hot": true
   },
   {
@@ -23,11 +23,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 429,
-   "comments": 259,
+   "engagement": 529,
+   "comments": 344,
    "publishedAt": 1787584097000,
    "isAI": false,
-   "score": 55.7,
+   "score": 56.9,
+   "hot": true
+  },
+  {
+   "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+   "url": "https://developers.openai.com/api/docs/pricing",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49421074",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 213,
+   "comments": 193,
+   "publishedAt": 1787584963000,
+   "isAI": true,
+   "score": 56.4,
    "hot": true
   },
   {
@@ -37,25 +51,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 743,
-   "comments": 649,
+   "engagement": 749,
+   "comments": 656,
    "publishedAt": 1787508997000,
    "isAI": true,
-   "score": 55.6,
+   "score": 55.1,
    "hot": false
   },
   {
-   "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-   "url": "https://developers.openai.com/api/docs/pricing",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49421074",
+   "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+   "url": "https://openai.com/index/gpt-5-6-in-kiro",
+   "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+   "publishedAt": 1787572800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 53.3,
+   "hot": true
+  },
+  {
+   "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+   "url": "https://ericpardee.github.io/fire-hd-ownership/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49409073",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 174,
-   "comments": 168,
-   "publishedAt": 1787584963000,
+   "engagement": 676,
+   "comments": 289,
+   "publishedAt": 1787494989000,
    "isAI": true,
-   "score": 55.3,
+   "score": 52.4,
+   "hot": false
+  },
+  {
+   "title": "I built a low-latency AI companion that plays Skyrim with me",
+   "url": "https://pantel.is/projects/ai-gaming-companion/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49413561",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 321,
+   "comments": 67,
+   "publishedAt": 1787527097000,
+   "isAI": true,
+   "score": 51.2,
    "hot": true
   },
   {
@@ -66,11 +108,53 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 390,
-   "comments": 168,
+   "comments": 169,
    "publishedAt": 1787507992000,
    "isAI": true,
-   "score": 50.7,
+   "score": 50.1,
    "hot": false
+  },
+  {
+   "title": "Skyrim을 함께 플레이하는 저지연 AI 동료 Varkos",
+   "url": "https://news.hada.io/topic?id=32853",
+   "summary": "Varkos 는 대화만 생성하는 NPC를 넘어 Skyrim의 실제 세계 상태를 인식하고 전투·수색·운반·아이템 전달과 다단계 명령을 수행하는 실시간 AI 동료 임 미래 사건을 기다리는 조건부 명령과 숨바꼭질을 지속 계획 으로 구성해 대상·진행 상태·완료 ...",
+   "publishedAt": 1787600384000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.8,
+   "hot": true
+  },
+  {
+   "title": "MS Paint와 Photos, 로컬 생성 이미지에도 서버 발급 GUID를 보이지 않는 워터마크로 삽입",
+   "url": "https://news.hada.io/topic?id=32852",
+   "summary": "Microsoft Paint와 Photos는 기기에서 AI 이미지를 생성하더라도 프롬프트를 Microsoft 서버로 보내며, 서버가 발급한 GUID를 결과 이미지 픽셀에 삽입 함 Paint는 16바이트 watermarkId 로 144비트 메시지를 구성해 이미지 블록마다 최소 3회 기록하며, 보이는 ...",
+   "publishedAt": 1787600204000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.8,
+   "hot": true
+  },
+  {
+   "title": "Executable Is a SQLite Database",
+   "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49415271",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 413,
+   "comments": 84,
+   "publishedAt": 1787546900000,
+   "isAI": false,
+   "score": 49.2,
+   "hot": true
   },
   {
    "title": "내가 17살이라면 LLM을 처음부터 만드는 법을 배우겠다",
@@ -83,8 +167,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.6,
    "hot": true
+  },
+  {
+   "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+   "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49407507",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 358,
+   "comments": 147,
+   "publishedAt": 1787479371000,
+   "isAI": true,
+   "score": 46.2,
+   "hot": false,
+   "lastWeekRank": 2
   },
   {
    "title": "Andreessen Horowitz가 수십억 달러를 투자하는 암울한 미래",
@@ -97,8 +196,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.2,
    "hot": true
+  },
+  {
+   "title": "OCR It – pull text out of un-copyable documents for your LLM",
+   "url": "https://github.com/thiagotigaz/ocr-it",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49415852",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 111,
+   "comments": 26,
+   "publishedAt": 1787552731000,
+   "isAI": true,
+   "score": 46.1,
+   "hot": false
   },
   {
    "title": "AI 코드 리뷰는 몇 번 돌려야 할까.. 약 400번 돌려보고 알게 된 것",
@@ -111,8 +224,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46,
+   "score": 45.5,
    "hot": true
+  },
+  {
+   "title": "New EU-wide product repair rules come into force",
+   "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49415621",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 238,
+   "comments": 132,
+   "publishedAt": 1787550447000,
+   "isAI": false,
+   "score": 45.1,
+   "hot": true
+  },
+  {
+   "title": "Google Workspace thinks my domain is an email provider (2025)",
+   "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49411717",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 377,
+   "comments": 148,
+   "publishedAt": 1787513372000,
+   "isAI": false,
+   "score": 44.3,
+   "hot": false
   },
   {
    "title": "Show GN: Preflight - 바이브코딩 앱을 위한 배포 전 보안 점검 도구",
@@ -125,8 +266,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.2,
    "hot": true
+  },
+  {
+   "title": "SeL4 security proofs now complete on AArch64",
+   "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49418255",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 148,
+   "comments": 32,
+   "publishedAt": 1787571171000,
+   "isAI": false,
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "A website for debloated open source alternatives",
@@ -135,11 +290,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 379,
-   "comments": 122,
+   "engagement": 381,
+   "comments": 123,
    "publishedAt": 1787504050000,
    "isAI": false,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -153,7 +308,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -167,8 +322,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.5,
+   "score": 43,
    "hot": false
+  },
+  {
+   "title": "Why your local LLM feels dumber than it is",
+   "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49402232",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 498,
+   "comments": 202,
+   "publishedAt": 1787422456000,
+   "isAI": true,
+   "score": 42.7,
+   "hot": false,
+   "lastWeekRank": 1
   },
   {
    "title": "Show GN: 카카오톡 테마 제작 툴을 만들었습니다",
@@ -181,7 +351,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.7,
+   "hot": false
+  },
+  {
+   "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+   "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49411395",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 287,
+   "comments": 151,
+   "publishedAt": 1787511354000,
+   "isAI": false,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -195,23 +379,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.8,
    "hot": false
-  },
-  {
-   "title": "Why your local LLM feels dumber than it is",
-   "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49402232",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 417,
-   "comments": 171,
-   "publishedAt": 1787422456000,
-   "isAI": true,
-   "score": 42,
-   "hot": false,
-   "lastWeekRank": 1
   },
   {
    "title": "내가 가진 모든 것, 모두 장악당하다",
@@ -224,7 +393,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -238,7 +407,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
+   "hot": false
+  },
+  {
+   "title": "srelens - 엔지니어와 AI 에이전트 모두를 위한 쿠버네티스 컨트롤룸",
+   "url": "https://news.hada.io/topic?id=32820",
+   "summary": "여러 터미널/대시보드/로그/클러스터 컨텍스트를 오가야 했던 쿠버네티스 트러블슈팅을 하나의 로컬 우선 데스크톱 워크스페이스 로 통합 리소스 탐색, 이벤트/YAML 확인, 로그 추적, 터미널, 포트 포워드 관리, 클러스터 조치까지 조사부터 실행 을 도구 전환 없이 ...",
+   "publishedAt": 1787531402000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 41,
    "hot": false
   },
   {
@@ -252,22 +435,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 40.9,
    "hot": true
-  },
-  {
-   "title": "srelens - 엔지니어와 AI 에이전트 모두를 위한 쿠버네티스 컨트롤룸",
-   "url": "https://news.hada.io/topic?id=32820",
-   "summary": "여러 터미널/대시보드/로그/클러스터 컨텍스트를 오가야 했던 쿠버네티스 트러블슈팅을 하나의 로컬 우선 데스크톱 워크스페이스 로 통합 리소스 탐색, 이벤트/YAML 확인, 로그 추적, 터미널, 포트 포워드 관리, 클러스터 조치까지 조사부터 실행 을 도구 전환 없이 ...",
-   "publishedAt": 1787531402000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41.4,
-   "hot": false
   },
   {
    "title": "프로덕트 엔지니어의 사고방식 - 태스크 수행자에서 문제 해결의 주체로",
@@ -280,23 +449,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
-  },
-  {
-   "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-   "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49407507",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 159,
-   "comments": 80,
-   "publishedAt": 1787479371000,
-   "isAI": true,
-   "score": 41,
-   "hot": false,
-   "lastWeekRank": 2
   },
   {
    "title": "실행 파일 자체가 SQLite 데이터베이스인 SELF",
@@ -309,7 +463,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -323,7 +477,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.3,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -337,8 +491,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.6,
    "hot": true
+  },
+  {
+   "title": "Malware infects Android-based automotive head unit firmware",
+   "url": "https://securelist.com/android-head-unit-malware/121106/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49408550",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 258,
+   "comments": 138,
+   "publishedAt": 1787490338000,
+   "isAI": false,
+   "score": 39.2,
+   "hot": false
   },
   {
    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
@@ -351,7 +519,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -365,7 +533,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -379,7 +547,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39,
    "hot": true
   },
   {
@@ -393,7 +561,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -407,7 +575,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -421,7 +589,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -435,7 +603,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38,
    "hot": true
   },
   {
@@ -449,7 +617,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.5,
+   "score": 38,
    "hot": false
   },
   {
@@ -463,7 +631,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.4,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -476,20 +644,6 @@
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
-   "isAI": true,
-   "score": 38.3,
-   "hot": false
-  },
-  {
-   "title": "Hugging Face reportedly in talks to be acquired for $13B",
-   "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-   "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-   "publishedAt": 1787579246000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
    "isAI": true,
    "score": 37.9,
    "hot": false
@@ -505,9 +659,23 @@
    "comments": 145,
    "publishedAt": 1787392154000,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false,
    "lastWeekRank": 5
+  },
+  {
+   "title": "Hugging Face reportedly in talks to be acquired for $13B",
+   "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+   "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+   "publishedAt": 1787579246000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 37.4,
+   "hot": false
   },
   {
    "title": "Claude보다 Codex를 더 많이 써본 일주일",
@@ -520,8 +688,37 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.4,
    "hot": false
+  },
+  {
+   "title": "AI Chip Architectures",
+   "url": "https://www.jepeake.com/ai-chip-architectures",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49405657",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 135,
+   "comments": 45,
+   "publishedAt": 1787451910000,
+   "isAI": true,
+   "score": 37.1,
+   "hot": false
+  },
+  {
+   "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+   "url": "https://twitter.com/argofowl/status/2091150597374537729",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49401549",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 211,
+   "comments": 185,
+   "publishedAt": 1787417929000,
+   "isAI": true,
+   "score": 37.1,
+   "hot": false,
+   "lastWeekRank": 4
   },
   {
    "title": "Linux에서 Adobe Acrobat을 대체할 만한 괜찮은 PDF 보기·편집 프로그램이 있나요?",
@@ -534,7 +731,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -548,8 +745,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Google Workspace가 내 도메인을 이메일 제공업체로 오인함(2025)",
@@ -562,8 +759,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "소프트웨어가 계속 느린 데는 이유가 있다",
@@ -576,24 +773,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.3,
+   "score": 36.9,
    "hot": false,
    "lastWeekRank": 3
-  },
-  {
-   "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-   "url": "https://twitter.com/argofowl/status/2091150597374537729",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49401549",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 196,
-   "comments": 175,
-   "publishedAt": 1787417929000,
-   "isAI": true,
-   "score": 37,
-   "hot": false,
-   "lastWeekRank": 4
   },
   {
    "title": "Show GN: 매일 하나의 질문에 투표하고, 주제에 대해 토론하는 앱",
@@ -606,7 +788,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -620,7 +802,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -634,21 +816,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "Show GN: 중2개발자가 만든 한국어 LLM",
-   "url": "https://news.hada.io/topic?id=32792",
-   "summary": "안녕하세요. 파이썬 기본 문법과 머신러닝/데이터 분석의 기초적인 개념(Pandas, Matplotlib 등)을 조금씩 공부하고 있는 중학교 2학년 학생입니다. 최근 LLM의 구조와 최적화 기법에 관심이 생겨, 제 개인 컴퓨터 환경에서 이론상 구동이 가능한 1.09B 파라미터 규모의 한국어 LLM 학습 파이프라인 코드를 짜",
-   "publishedAt": 1787467616000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 35.3,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -658,13 +826,28 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 487,
-   "comments": 492,
+   "engagement": 502,
+   "comments": 502,
    "publishedAt": 1787312885000,
    "isAI": true,
-   "score": 35.2,
+   "score": 35.1,
    "hot": false,
    "lastWeekRank": 13
+  },
+  {
+   "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+   "url": "https://martypc.net/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49405816",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 216,
+   "comments": 97,
+   "publishedAt": 1787454796000,
+   "isAI": false,
+   "score": 34.9,
+   "hot": false,
+   "lastWeekRank": 11
   },
   {
    "title": "There's no reason for software to be slow anymore",
@@ -673,11 +856,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 638,
-   "comments": 485,
+   "engagement": 654,
+   "comments": 494,
    "publishedAt": 1787360777000,
    "isAI": false,
-   "score": 35,
+   "score": 34.9,
    "hot": false,
    "lastWeekRank": 8
   },
@@ -692,24 +875,39 @@
    "comments": 153,
    "publishedAt": 1787308436000,
    "isAI": true,
-   "score": 35,
+   "score": 34.8,
    "hot": false,
    "lastWeekRank": 14
   },
   {
-   "title": "로컬 LLM이 실제 성능보다 더 멍청하게 느껴지는 이유",
-   "url": "https://news.hada.io/topic?id=32791",
-   "summary": "같은 모델이라도 GPU·추론 엔진·어텐션 구현·양자화 방식 이 달라지면 계산 결과가 조금씩 달라지고, 긴 문맥에서는 그 차이가 실제 응답과 도구 호출 실패로 이어질 수 있음 약 10만 토큰의 실제 에이전트 작업 문맥에서 Qwen3.6-27B를 비교한 결과, 어텐션 백엔드만 바꿔도 후반부에...",
-   "publishedAt": 1787463199000,
-   "source": "GeekNews",
+   "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+   "url": "https://annas-archive.gl/blog/physical-destruction.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49383026",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 641,
+   "comments": 909,
+   "publishedAt": 1787279867000,
    "isAI": true,
-   "score": 35,
+   "score": 34.6,
    "hot": false,
-   "lastWeekRank": 6
+   "lastWeekRank": 21
+  },
+  {
+   "title": "Thinking in Python",
+   "url": "https://thinkinginpython.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49402202",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 298,
+   "comments": 60,
+   "publishedAt": 1787422249000,
+   "isAI": false,
+   "score": 34.5,
+   "hot": false,
+   "lastWeekRank": 12
   },
   {
    "title": "스태프 엔지니어로서 해결할 문제를 찾는 방법",
@@ -722,23 +920,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.4,
    "hot": false
-  },
-  {
-   "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-   "url": "https://annas-archive.gl/blog/physical-destruction.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49383026",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 623,
-   "comments": 898,
-   "publishedAt": 1787279867000,
-   "isAI": true,
-   "score": 34.7,
-   "hot": false,
-   "lastWeekRank": 21
   },
   {
    "title": "Hister - 직접 통제하는 비공개 전체 콘텐츠 검색 인덱스",
@@ -751,8 +934,38 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.3,
    "hot": false
+  },
+  {
+   "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+   "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49379550",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1686,
+   "comments": 396,
+   "publishedAt": 1787256446000,
+   "isAI": false,
+   "score": 34.2,
+   "hot": false,
+   "lastWeekRank": 23
+  },
+  {
+   "title": "Don't paste the AI, please",
+   "url": "https://dontpastetheai.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49371857",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1050,
+   "comments": 581,
+   "publishedAt": 1787214044000,
+   "isAI": true,
+   "score": 34.1,
+   "hot": false,
+   "lastWeekRank": 30
   },
   {
    "title": "복잡한 시스템은 어떻게 실패하는가 (1998)",
@@ -765,64 +978,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-   "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49379550",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1671,
-   "comments": 390,
-   "publishedAt": 1787256446000,
-   "isAI": false,
-   "score": 34.3,
-   "hot": false,
-   "lastWeekRank": 23
-  },
-  {
-   "title": "Xiaomi AI Cube announced with 1.2TB/s memory bandwidth",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwvghi/xiaomi_ai_cube_announced_with_12tbs_memory/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 30.8,
-   "publishedAt": 1787555072000,
-   "isAI": true,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "Don't paste the AI, please",
-   "url": "https://dontpastetheai.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49371857",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1044,
-   "comments": 579,
-   "publishedAt": 1787214044000,
-   "isAI": true,
-   "score": 34.2,
-   "hot": false,
-   "lastWeekRank": 30
-  },
-  {
-   "title": "debloat.dev - 비대해진 소프트웨어를 대체할 오픈소스 모음",
-   "url": "https://news.hada.io/topic?id=32816",
-   "summary": "debloat.dev 는 제조사 앱과 독점 클라우드 서비스를 대신할 간결한 오픈소스 프로젝트를 탐색하고 평가·공유하는 디렉터리임 프로젝트별 대체 대상과 라이선스 , 사용자 평점, 게시물 수를 보여주며 최신·토론순·무작위 목록을 지원함 현재 200개 ...",
-   "publishedAt": 1787524285000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.2,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -836,9 +992,36 @@
    "comments": 235,
    "publishedAt": 1787322712000,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false,
    "lastWeekRank": 19
+  },
+  {
+   "title": "Xiaomi AI Cube announced with 1.2TB/s memory bandwidth",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwvghi/xiaomi_ai_cube_announced_with_12tbs_memory/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 30.8,
+   "publishedAt": 1787555072000,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "debloat.dev - 비대해진 소프트웨어를 대체할 오픈소스 모음",
+   "url": "https://news.hada.io/topic?id=32816",
+   "summary": "debloat.dev 는 제조사 앱과 독점 클라우드 서비스를 대신할 간결한 오픈소스 프로젝트를 탐색하고 평가·공유하는 디렉터리임 프로젝트별 대체 대상과 라이선스 , 사용자 평점, 게시물 수를 보여주며 최신·토론순·무작위 목록을 지원함 현재 200개 ...",
+   "publishedAt": 1787524285000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.8,
+   "hot": false
   },
   {
    "title": "[팟캐스트] OAuth, 제대로 이해하고 쓰고 있나요?",
@@ -851,23 +1034,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "Thinking in Python",
-   "url": "https://thinkinginpython.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49402202",
+   "title": "A week of using Codex more than Claude",
+   "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49393051",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 251,
-   "comments": 50,
-   "publishedAt": 1787422249000,
-   "isAI": false,
-   "score": 33.8,
+   "engagement": 242,
+   "comments": 280,
+   "publishedAt": 1787341908000,
+   "isAI": true,
+   "score": 33,
    "hot": false,
-   "lastWeekRank": 12
+   "lastWeekRank": 25
   },
   {
    "title": "Wi-Fi 8, 수년 만에 속도 경쟁에서 벗어난 무선 업그레이드",
@@ -880,38 +1063,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
-   "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-   "url": "https://martypc.net/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49405816",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+   "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+   "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
+   "publishedAt": 1787589705000,
+   "source": "Ars Technica",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 154,
-   "comments": 55,
-   "publishedAt": 1787454796000,
-   "isAI": false,
-   "score": 33,
-   "hot": false,
-   "lastWeekRank": 11
-  },
-  {
-   "title": "A week of using Codex more than Claude",
-   "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49393051",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 230,
-   "comments": 244,
-   "publishedAt": 1787341908000,
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
-   "hot": false,
-   "lastWeekRank": 25
+   "score": 32.8,
+   "hot": false
   },
   {
    "title": "슬로바키아, 과속 단속 카메라에서 러시아 백도어 발견",
@@ -924,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -934,13 +1101,27 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 185,
-   "comments": 83,
+   "engagement": 188,
+   "comments": 90,
    "publishedAt": 1787425481000,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false,
    "lastWeekRank": 20
+  },
+  {
+   "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+   "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+   "publishedAt": 1787601259000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": false,
+   "score": 31.9,
+   "hot": false
   },
   {
    "title": "끌어들이고, 붙잡고, 수집하고, 숨긴다: 중대 재판 첫 주에 공개된 Meta의 혐의 전략",
@@ -953,8 +1134,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32,
+   "score": 31.7,
    "hot": false
+  },
+  {
+   "title": "Rust Glancer: Rust LSP using 100x less RAM",
+   "url": "https://rust-glancer.github.io/blog/hello-world/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49393052",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 420,
+   "comments": 109,
+   "publishedAt": 1787341914000,
+   "isAI": false,
+   "score": 31.5,
+   "hot": false,
+   "lastWeekRank": 32
   },
   {
    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -967,7 +1163,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -981,7 +1177,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.8,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -995,23 +1191,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.8,
+   "score": 31.4,
    "hot": false
   },
   {
-   "title": "Rust Glancer: Rust LSP using 100x less RAM",
-   "url": "https://rust-glancer.github.io/blog/hello-world/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49393052",
+   "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+   "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49398904",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 415,
-   "comments": 104,
-   "publishedAt": 1787341914000,
+   "engagement": 219,
+   "comments": 192,
+   "publishedAt": 1787400426000,
    "isAI": false,
-   "score": 31.6,
+   "score": 31.2,
    "hot": false,
-   "lastWeekRank": 32
+   "lastWeekRank": 27
   },
   {
    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
@@ -1024,23 +1220,38 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.5,
+   "score": 31.2,
    "hot": false
   },
   {
-   "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-   "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49398904",
+   "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+   "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49387959",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 217,
-   "comments": 176,
-   "publishedAt": 1787400426000,
-   "isAI": false,
-   "score": 31.4,
+   "engagement": 209,
+   "comments": 125,
+   "publishedAt": 1787319813000,
+   "isAI": true,
+   "score": 31.1,
    "hot": false,
-   "lastWeekRank": 27
+   "lastWeekRank": 37
+  },
+  {
+   "title": "Show HN: Huzzah – a novel approach to coding with AI",
+   "url": "https://www.danielvaughn.dev/posts/huzzah/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49378768",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 383,
+   "comments": 210,
+   "publishedAt": 1787252736000,
+   "isAI": true,
+   "score": 31.1,
+   "hot": false,
+   "lastWeekRank": 42
   },
   {
    "title": "Python으로 사고하기",
@@ -1053,7 +1264,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false,
    "lastWeekRank": 15
   },
@@ -1068,24 +1279,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.4,
+   "score": 31,
    "hot": false,
    "lastWeekRank": 16
-  },
-  {
-   "title": "Show HN: Huzzah – a novel approach to coding with AI",
-   "url": "https://www.danielvaughn.dev/posts/huzzah/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49378768",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 379,
-   "comments": 209,
-   "publishedAt": 1787252736000,
-   "isAI": true,
-   "score": 31.2,
-   "hot": false,
-   "lastWeekRank": 42
   },
   {
    "title": "더 나은 작가가 되려면 가능한 한 많이 읽어라",
@@ -1098,7 +1294,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.2,
+   "score": 30.8,
    "hot": false,
    "lastWeekRank": 17
   },
@@ -1113,24 +1309,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31,
+   "score": 30.7,
    "hot": false,
    "lastWeekRank": 22
-  },
-  {
-   "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-   "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49387959",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 188,
-   "comments": 98,
-   "publishedAt": 1787319813000,
-   "isAI": true,
-   "score": 30.8,
-   "hot": false,
-   "lastWeekRank": 37
   },
   {
    "title": "엔비디아, 퍼플렉시티에 수십억달러 투자 논의…기업 가치 41조 평가",
@@ -1143,7 +1324,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.8,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1157,7 +1338,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.3,
    "hot": false
   },
   {
@@ -1171,7 +1352,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.3,
    "hot": false
   },
   {
@@ -1185,7 +1366,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.3,
    "hot": false
   },
   {
@@ -1199,7 +1380,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.5,
+   "score": 30.1,
    "hot": false
   },
   {
@@ -1213,7 +1394,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.4,
+   "score": 30.1,
    "hot": false
   },
   {
@@ -1227,7 +1408,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 30.3,
+   "score": 30,
    "hot": false
   },
   {
@@ -1241,192 +1422,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.3,
-   "hot": false
-  },
-  {
-   "title": "AI에 올인한 알리바바, 투자 위해 14조 대규모 증자 단행",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214284",
-   "summary": "알리바바가 AI 경쟁에서 주도권을 확보하기 위해 약 102억달러(약 14조원) 규모의 대규모 자금 조달에 나섰다. 알리바바는 23일(현지시간) 홍콩 증시에서 800억 홍콩달러(약 102억달러) 규모의 신주 7억1000만주를 주당 112.7홍콩달러에 매각한다고 공식 발표했다.발행가는 최근 홍콩 증시 종가보다 약 3.6% 할인된 수준이다. 이번 거래는 홍콩 상장기업의 후속 공모 가운데 사상 최대 규모이며, 2021년 텐센트 지분 매각 이후 홍콩에서 이뤄지는 최대 규모의 주식 매각으로 기록될 전망이다.이번 주식 매각으로 확보한 자금 전액",
-   "publishedAt": 1787558178000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.3,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 개발자 행사 '데브데이 익스체인지' 10월22일 서울서 연다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214310",
-   "summary": "오픈AI ‘데브데이 익스체인지(DevDay Exchange)’가 오는 10월22일 서울에서 열린다.개발자 행사인 데브데이는 지난 2023년 샌프란시스코에서 시작됐다. 이후 올해부터 데브데이 익스체인지로 행사를 확대, 전 세계 8곳에서 개최한다. ▲벵갈루루(10월 16일) ▲도쿄(10월 20일) ▲서울(10월 22일) ▲베를린(10월 26일) ▲파리(10월 28일) ▲런던(11월 3일) ▲상파울루(11월 6일) ▲멕시코시티(11월 11일) 순서로 진행된다. 행사에서는 오픈AI 연사의 키노트 세션은 물론, 오픈AI 제품 및 엔지니어링",
-   "publishedAt": 1787557391000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.3,
-   "hot": false
-  },
-  {
-   "title": "스스로 문제 만들고 해결 전략까지 구축....오픈소스 '오르니스-1.5' 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214261",
-   "summary": "사람이 제공한 학습 데이터와 문제를 푸는 단계를 넘어 스스로 새로운 문제를 만들고 해결 전략을 설계하면서 능력을 향상는 ‘자기개선형(self-improving) AI’ 개발이 본격화되고 있다.AI 스타트업 오르니스(Ornith)는 19일(현지시간) 스스로 새로운 학습 과제를 만들고 문제 해결 전략까지 설계하면서 능력을 지속적으로 향상하는 오픈소스 자기개선형 파운데이션 모델 ‘오르니스-1.5’를 공개했다.이 모델은 학습 과제 생성부터 문제 해결 방식 설계, 실제 풀이 결과를 활용한 강화학습까지 전 과정을 하나의 순환 구조로 연결해 A",
-   "publishedAt": 1787556995000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.2,
-   "hot": false
-  },
-  {
-   "title": "Racket 친절한 입문",
-   "url": "https://news.hada.io/topic?id=32795",
-   "summary": "Racket 은 Lisp와 Scheme의 계보를 잇는 언어로, 코드와 데이터를 같은 구조로 다루며 문제에 맞는 언어와 문법까지 만들 수 있음 모든 코드는 (연산자 인수...) 형태의 표현식 이며, 별도의 연산자 우선순위 없이 괄호가 프로그램 구조 전체를 나타냄...",
-   "publishedAt": 1787473945000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 30.1,
-   "hot": false,
-   "lastWeekRank": 26
-  },
-  {
-   "title": "포지큐브 DVLM, ‘OCR벤치 v2’ 국내 1위·글로벌 2위",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214303",
-   "summary": "포지큐브(대표 오성조)는 ‘도큐먼트 비전언어모델(DVLM)’이 멀티모달 AI 국제 벤치마크인 ‘OCR벤치 v2’에서 국내 1위, 글로벌 2위를 달성했다고 24일 밝혔다.포지큐브의 멀티모달 AI 모델은 영어 부문 공식 리더보드에서 평균 69.8점을 기록하며 국내 모델 가운데 가장 높은 순위에 올랐다. 단순 문자 인식을 넘어 텍스트의 위치를 파악하고 문서와 시각 정보를 구조화·이해·추론하는 기술력을 인정받은 것이라는 설명이다.OCR벤치 v2는 멀티모달 언어모델이 이미지 속 문자와 시각 정보를 얼마나 정확하게 인식하고 이해하는지를 종합적",
-   "publishedAt": 1787555925000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.1,
-   "hot": false
-  },
-  {
-   "title": "순천, 산업전환 시동…항공엔진 부품 R&D에 30억원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214297",
-   "summary": "AI 생성 영상순천시가 미래신산업 혁신성장위원회를 출범시키고 항공엔진 부품 제조기술 공동 R&D에 착수했다고 24일 밝혔다. 산업정책 컨트롤타워와 현장 기술개발을 함께 가동해 방산·첨단제조 분야의 지역 산업기반을 키운다는 구상이다.순천은 24일 시청 대회의실에서 미래신산업 혁신성장위원회 출범식을 열었다. 위원회는 방위산업, 지역주력산업, 콘텐츠·AI산업, 미래농산업, 대외협력 등 5개 분야 현장 전문가로 구성된다.위원회는 미래산업과 신규사업 발굴, 정부 R&D·공모사업 대응, 기업·투자 유치 등을 맡는다. 현장 수요를 정책과 사업으",
-   "publishedAt": 1787555421000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.1,
-   "hot": false
-  },
-  {
-   "title": "프론트엔드 상태 관리의 네 가지 난제",
-   "url": "https://news.hada.io/topic?id=32794",
-   "summary": "프론트엔드 생태계에는 다양한 상태관리 도구들이 존재하지만 아직 제대로 조명받지 못하는 난제들이 있음 상태의 공유 범위를 바꾸기 어려움 우리는 흔히 지역 상태와 전역 상태만을 이야기 해왔지만, 사실 그 두가지 개념만으로는 깔끔하게 분류되지 않는 상태들이...",
-   "publishedAt": 1787472043000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 30,
-   "hot": false,
-   "lastWeekRank": 28
-  },
-  {
-   "title": "목포시보건소, ‘노담버스’ 흡연예방교실 운영",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214288",
-   "summary": "AI 생성 영상목포시보건소가 유아기부터 흡연과 간접흡연의 위험성을 알리기 위한 체험형 예방교육에 나섰다고 24일 밝혔다.목포보건소는 트윈스타 행정타운에서 관내 어린이집 유아 100명을 대상으로 ‘찾아가는 유아흡연위해예방교실’을 열었다. 이번 교육은 보건복지부와 한국건강증진개발원이 추진하는 사업의 하나로, 유아들이 흡연과 간접흡연의 위해성을 자연스럽게 이해하도록 돕기 위해 마련됐다.이날 교육에서는 전문 강사가 ‘노담밴드, 냄새의 비밀을 찾아라’를 주제로 동화 구연과 이야기 나누기, OX퀴즈, 흡연위해예방 신체놀이, 동요·율동 등을 진",
-   "publishedAt": 1787554410000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30,
-   "hot": false
-  },
-  {
-   "title": "코난테크놀로지, 실사례 중심 ‘AI 서밋’ 9월9일 개최…”도구 넘어 ‘일하는’ AI”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214300",
-   "summary": "에이전틱 AI 전문 코난테크놀로지(대표 김영섬)는 오는 9월9일 서울 양재동 엘타워에서 ‘제4회 코난 AI 서밋 2026’을 개최한다고 밝혔다. 코난테크놀로지의 주요 AI 기술과 사업 전략을 공유하는 대표 행사다. 회차별로 다른 주제를 선보이고 있다. 이번에는 ‘에이전틱 AI 플랫폼의 새로운 미래’를 부제로, 실제 AI 에이전트를 구축한 고객사가 직접 연사로 참여하는 파트너스데이 형식으로 진행된다. 먼저, 김영섬 대표의 개회사에 이어 양승현 COO가 ‘에이전틱 엔터프라이즈: AI를 쓰는 기업에서 AI가 일하는 기업으로’를 주제로 키",
-   "publishedAt": 1787554313000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30,
-   "hot": false
-  },
-  {
-   "title": "과기부 “AI와 과학기술 결합해 공학 분야 한계 돌파할 것”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214312",
-   "summary": "과학기술정보통신부(장관 배경훈)는 차세대 AI+과학기술 기반기술 개발사업’ 착수보고회를 개최하고, 신규 선정된 4개 과제의 본격 연구 개발을 시작한다고 24일 밝혔다.AI가 데이터뿐만 아니라 물리, 수학적 원리를 활용해 과학 현상을 더 정확하고 신뢰성 있게 해석 및 예측할 수 있도록 기반기술을 확보할 예정이다. 기존 AI 모델의 한계를 뛰어넘는 새로운 AI 구조 설계에도 도전한다. AI를 단순 연구 보조도구를 넘어 ‘연구혁신 가속 핵심기술’로 발전시킨다는 구상이다.연구과제는 물리-수학 기반 AI 해석 및 예측 모델 분야와 차세대 A",
-   "publishedAt": 1787554200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30,
-   "hot": false
-  },
-  {
-   "title": "\"누끼 제거는 옛말\"…오픈AI, API로 '배경 없는 투명 이미지' 직접 생성",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214301",
-   "summary": "오픈AI가 이미지 생성 모델인 'gpt-image-2'의 API 업데이트를 통해 '네이티브 알파 채널(Alpha Channel)'을 공식 지원한다. 이에 따라 추가적인 배경 제거(누끼 따기) 후처리 작업 없이 투명 배경을 가진 PNG 이미지를 한 번의 요청으로 생성할 수 있게 됐다.21일(현지시간) 오픈AI의 발표에 따르면, 개발자는 API 호출 시 'background=\"transparent\"'와 'output_format=\"png\"' 매개변수를 추가하는 방식으로 해당 기능을 손쉽게 적용할 수 있다.이번 업데이트는 이미지 뒤의 불",
-   "publishedAt": 1787554104000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30,
-   "hot": false
-  },
-  {
-   "title": "기억해 둘 만한 작은 네이티브 웹 기법",
-   "url": "https://news.hada.io/topic?id=32793",
-   "summary": "별도 라이브러리 없이 브라우저가 이미 제공하는 HTML/CSS/JS만으로 UI와 상호작용을 네이티브하게 구현하는 법 을 정리한 레퍼런스 사이트 :has() , @scope , Container Query처럼 컴포넌트 구조를 단순하게 만드는 CSS부터 dialog , Popover, ...",
-   "publishedAt": 1787470300000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 29.9,
-   "hot": false,
-   "lastWeekRank": 31
-  },
-  {
-   "title": "플러스제로, AI GEO 솔루션 '보이스 인텔리전스' 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214313",
-   "summary": "데이터 컨설팅 전문 플러스제로(대표 정성진)는 서울 코엑스에서 열린 'AI 서밋 서울 & 엑스포 2026' 현장에서 차세대 AI GEO 마케팅 솔루션 '보이스 인텔리전스 v2.0'을 처음 공개해, 마케팅 담당자들의 관심을 받았다고 24일 밝혔다.이번에 선보인 '보이스 인텔리전스 v2.0'은 온라인 커뮤니티와 소셜미디어 등 채널에 흩어진 고객 반응을 수집 및 분석해 최적화된 마케팅 콘텐츠를 자동 생성하는 획기적 솔루션이다. 통상 일주일 이상 소요되던 고객 VOC 분석, 마케팅 전략 수립 및 콘텐츠 작성 시간을 단 1시간으로 대폭 단축",
-   "publishedAt": 1787553000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 29.9,
    "hot": false
   }
  ]
