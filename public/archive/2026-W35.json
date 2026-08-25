@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787628298115,
+ "updatedAt": 1787632061832,
  "week": "2026-W35",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 490,
-   "comments": 479,
+   "engagement": 500,
+   "comments": 488,
    "publishedAt": 1787586753000,
    "isAI": true,
-   "score": 59.6,
+   "score": 59.1,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 757,
-   "comments": 511,
+   "engagement": 777,
+   "comments": 526,
    "publishedAt": 1787584097000,
    "isAI": false,
-   "score": 55.7,
+   "score": 55.4,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 308,
-   "comments": 275,
+   "engagement": 315,
+   "comments": 289,
    "publishedAt": 1787584963000,
    "isAI": true,
-   "score": 55.4,
+   "score": 55,
    "hot": true
   },
   {
@@ -51,12 +51,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 768,
-   "comments": 678,
+   "engagement": 771,
+   "comments": 679,
    "publishedAt": 1787508997000,
    "isAI": true,
-   "score": 51.8,
+   "score": 51.3,
    "hot": false
+  },
+  {
+   "title": "Show GN: forge-harness — AI가 쓴 코드를 커밋 전에 막는 Claude Code 게이트 하네스 (오픈소스)",
+   "url": "https://news.hada.io/topic?id=32868",
+   "summary": "AI 에이전트에게 코드를 맡기면서 「이거 믿어도 되나」를 매번 손으로 확인하는 게 싫어서, 검증을 기계로 굳혀 두는 하네스를 만들고 있습니다. git 훅으로 커밋 직전에 도는 검사들이고, 통과 못 하면 커밋이 멈춥니다. 언어나 프레임워크를 가리지 않고 변경된 내용 자체를 봅니다. 설치 없이 npx @chrono-meta/f...",
+   "publishedAt": 1787631094000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
   },
   {
    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
@@ -69,7 +83,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.5,
+   "score": 49,
    "hot": false
   },
   {
@@ -79,26 +93,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 684,
+   "engagement": 686,
    "comments": 289,
    "publishedAt": 1787494989000,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.9,
    "hot": false
   },
   {
-   "title": "바이브 세금",
-   "url": "https://news.hada.io/topic?id=32864",
-   "summary": "숙련된 개발자가 LLM 에이전트 Pol 에게 맞춤형 할 일 앱의 개념 증명을 맡겼지만, 12시간 뒤 앱은 없고 주간 사용량만 모두 소진 됨 수십억 토큰을 사용한 Pol은 앱 코드 대신 tests 아래에 SHA-256 해시 로 이름 붙인 폴더와 발생 가...",
-   "publishedAt": 1787622052000,
-   "source": "GeekNews",
+   "title": "LLMs could control their host machines by exploiting inference engines",
+   "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49424387",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 111,
+   "comments": 57,
+   "publishedAt": 1787598186000,
    "isAI": true,
-   "score": 49.1,
-   "hot": true
+   "score": 48.1,
+   "hot": false
+  },
+  {
+   "title": "I built a low-latency AI companion that plays Skyrim with me",
+   "url": "https://pantel.is/projects/ai-gaming-companion/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49413561",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 347,
+   "comments": 69,
+   "publishedAt": 1787527097000,
+   "isAI": true,
+   "score": 47.9,
+   "hot": false
   },
   {
    "title": "Prime Agent - 코딩과 장기 자율 작업을 위한 자기 개선형 RLM 에이전트",
@@ -111,36 +139,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 47.9,
    "hot": true
-  },
-  {
-   "title": "I built a low-latency AI companion that plays Skyrim with me",
-   "url": "https://pantel.is/projects/ai-gaming-companion/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49413561",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 345,
-   "comments": 69,
-   "publishedAt": 1787527097000,
-   "isAI": true,
-   "score": 48.3,
-   "hot": false
-  },
-  {
-   "title": "LLMs could control their host machines by exploiting inference engines",
-   "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49424387",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 105,
-   "comments": 55,
-   "publishedAt": 1787598186000,
-   "isAI": true,
-   "score": 48.1,
-   "hot": false
   },
   {
    "title": "Executable Is a SQLite Database",
@@ -149,11 +149,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 501,
-   "comments": 95,
+   "engagement": 507,
+   "comments": 96,
    "publishedAt": 1787546900000,
    "isAI": false,
-   "score": 47.3,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -163,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 397,
+   "engagement": 398,
    "comments": 172,
    "publishedAt": 1787507992000,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.7,
    "hot": false
   },
   {
@@ -181,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -195,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -209,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -219,11 +219,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 140,
-   "comments": 116,
+   "engagement": 145,
+   "comments": 122,
    "publishedAt": 1787605386000,
    "isAI": false,
-   "score": 44.2,
+   "score": 44,
    "hot": false
   },
   {
@@ -234,10 +234,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 121,
-   "comments": 27,
+   "comments": 28,
    "publishedAt": 1787552731000,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -251,7 +251,7 @@
    "comments": 148,
    "publishedAt": 1787479371000,
    "isAI": true,
-   "score": 43.4,
+   "score": 43.1,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -266,7 +266,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -280,7 +280,7 @@
    "comments": 110,
    "publishedAt": 1787502261000,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -294,7 +294,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -308,7 +308,21 @@
    "comments": 135,
    "publishedAt": 1787550447000,
    "isAI": false,
-   "score": 42.2,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "애플의 첫 폴더블 iPhone은 ‘마법’을 되살릴 것",
+   "url": "https://news.hada.io/topic?id=32867",
+   "summary": "Apple의 첫 폴더블 iPhone은 9월 9일 전후 공개될 예정이며, 최근 몇 년간 드물었던 새로운 제품군으로 스마트폰과 태블릿 사이를 오가는 사용성 을 제공하면서 Apple 제품군 전체를 끌어올리는 초고가 플래그십 역할을 맡게 됨 실제 기기를 사용해 본 사람들은 주머니에 들어가는 크...",
+   "publishedAt": 1787630521000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
    "hot": true
   },
   {
@@ -322,7 +336,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -332,11 +346,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 174,
+   "engagement": 176,
    "comments": 38,
    "publishedAt": 1787571171000,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.6,
    "hot": true
   },
   {
@@ -347,10 +361,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 380,
-   "comments": 149,
+   "comments": 150,
    "publishedAt": 1787513372000,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -364,7 +378,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.1,
+   "hot": true
+  },
+  {
+   "title": "Vibe Tax - 바이브 코딩을 위해 모든 개발자가 치르는 토큰 비용",
+   "url": "https://news.hada.io/topic?id=32864",
+   "summary": "Vibe Tax - 바이브 코딩을 위해 모든 개발자가 치르는 토큰 비용 맞춤형 할 일 앱의 개념 증명을 에이전트 Pol 에 맡겼더니, 12시간 뒤 앱은 없고 주간 토큰 할당량만 모두 소진됐다는 가상의 상황에서 출발함 저장소에는 tests 폴더와 SHA-256 해시로 이름 붙인",
+   "publishedAt": 1787622052000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -378,7 +406,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -392,7 +420,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.7,
+   "hot": false
+  },
+  {
+   "title": "A website for debloated open source alternatives",
+   "url": "https://debloat.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49410362",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 390,
+   "comments": 124,
+   "publishedAt": 1787504050000,
+   "isAI": false,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -406,35 +448,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
-   "hot": true
-  },
-  {
-   "title": "A website for debloated open source alternatives",
-   "url": "https://debloat.dev/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49410362",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 390,
-   "comments": 124,
-   "publishedAt": 1787504050000,
-   "isAI": false,
-   "score": 40.8,
-   "hot": false
-  },
-  {
-   "title": "블로그 글을 손글씨로 쓸 수 있을까?",
-   "url": "https://news.hada.io/topic?id=32860",
-   "summary": "Supernote에 쓴 손글씨를 이미지와 텍스트로 함께 게시하는 블로그 실험 을 구상함 손글씨를 WebP로 내보낸 뒤 , XMP 메타데이터에 OCR 처리하고 편집한 텍스트를 담으려 함 JavaScript로 WebP의 XMP 메타데이터 를 읽을 수 있을 것으로 예...",
-   "publishedAt": 1787616594000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.6,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -448,9 +462,23 @@
    "comments": 202,
    "publishedAt": 1787422456000,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.2,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "블로그 글을 손글씨로 쓸 수 있을까?",
+   "url": "https://news.hada.io/topic?id=32860",
+   "summary": "Supernote에 쓴 손글씨를 이미지와 텍스트로 함께 게시하는 블로그 실험 을 구상함 손글씨를 WebP로 내보낸 뒤 , XMP 메타데이터에 OCR 처리하고 편집한 텍스트를 담으려 함 JavaScript로 WebP의 XMP 메타데이터 를 읽을 수 있을 것으로 예...",
+   "publishedAt": 1787616594000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.1,
+   "hot": true
   },
   {
    "title": "오프그리드 태양광으로 전기차 충전하기(2025)",
@@ -463,7 +491,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -477,7 +505,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -491,7 +519,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -505,7 +533,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -519,7 +547,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -533,7 +561,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -547,8 +575,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.2,
    "hot": true
+  },
+  {
+   "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+   "url": "https://glassbox.codecanary.org",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49421948",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 103,
+   "comments": 50,
+   "publishedAt": 1787588110000,
+   "isAI": false,
+   "score": 39.1,
+   "hot": false
   },
   {
    "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
@@ -561,21 +603,20 @@
    "comments": 152,
    "publishedAt": 1787511354000,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": false
   },
   {
-   "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-   "url": "https://glassbox.codecanary.org",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49421948",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+   "url": "https://huggingface.co/papers/2608.23283",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
    "lang": "en",
-   "engagement": 101,
-   "comments": 50,
-   "publishedAt": 1787588110000,
-   "isAI": false,
-   "score": 39.3,
+   "engagement": 112,
+   "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state maintenance, failure recovery, and verifiable delivery. We call this working capability: sustained, veri",
+   "publishedAt": 1787515200000,
+   "isAI": true,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -589,7 +630,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -603,7 +644,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -617,7 +658,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -631,7 +672,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -645,7 +686,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.3,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -659,7 +700,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -673,7 +714,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.5,
    "hot": true
   },
   {
@@ -687,21 +728,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
-  },
-  {
-   "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
-   "url": "https://huggingface.co/papers/2608.23283",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 88,
-   "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state maintenance, failure recovery, and verifiable delivery. We call this working capability: sustained, veri",
-   "publishedAt": 1787515200000,
-   "isAI": true,
-   "score": 37.4,
-   "hot": false
   },
   {
    "title": "하네스란 무엇인가?",
@@ -714,7 +742,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.3,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -728,7 +756,7 @@
    "comments": 140,
    "publishedAt": 1787490338000,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -742,7 +770,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -756,7 +784,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -770,7 +798,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -784,7 +812,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -798,7 +826,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -812,23 +840,9 @@
    "comments": 146,
    "publishedAt": 1787392154000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false,
    "lastWeekRank": 5
-  },
-  {
-   "title": "17만 곳 넘는 비영리단체가 데이터를 잃었다… Microsoft 책임인가?",
-   "url": "https://news.hada.io/topic?id=32843",
-   "summary": "Microsoft가 무료 Microsoft 365 비영리 라이선스 를 단계적으로 종료하면서 일부 소규모 단체의 OneDrive 데이터가 대비할 틈 없이 삭제됐고, 한 Microsoft 담당자는 약 17만1,000개 NGO가 “모든 것을 잃었다”고 전함 회사는 2025년 봄부터 종료를 알리고 갱신 전에 다른 상품으로...",
-   "publishedAt": 1787571142000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.7,
-   "hot": false
   },
   {
    "title": "Qwen 3.8 27B, 리버스 엔지니어링 작업을 30분 만에 완료",
@@ -841,7 +855,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "17만 곳 넘는 비영리단체가 데이터를 잃었다… Microsoft 책임인가?",
+   "url": "https://news.hada.io/topic?id=32843",
+   "summary": "Microsoft가 무료 Microsoft 365 비영리 라이선스 를 단계적으로 종료하면서 일부 소규모 단체의 OneDrive 데이터가 대비할 틈 없이 삭제됐고, 한 Microsoft 담당자는 약 17만1,000개 NGO가 “모든 것을 잃었다”고 전함 회사는 2025년 봄부터 종료를 알리고 갱신 전에 다른 상품으로...",
+   "publishedAt": 1787571142000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -855,21 +883,7 @@
    "comments": 45,
    "publishedAt": 1787451910000,
    "isAI": true,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "Linus Torvalds가 AI로 Intel GPU 드라이버 버그를 추적한 과정",
-   "url": "https://news.hada.io/topic?id=32807",
-   "summary": "Intel Xe GPU 드라이버가 압축 하드웨어용 flat CCS 저장공간 일부를 VRAM으로 잘못 할당해 Battlemage G21 시스템에서 검은 화면과 gdm 재시작 루프를 일으킴 get_flat_ccs_offset() 이 CCS 시작 주소를 128KiB 단위로 올림하면서 실제 경계와 계산값 사이의 메모리까지...",
-   "publishedAt": 1787500891000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -880,26 +894,12 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 213,
-   "comments": 187,
+   "comments": 188,
    "publishedAt": 1787417929000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35,
    "hot": false,
    "lastWeekRank": 4
-  },
-  {
-   "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-   "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-   "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-   "publishedAt": 1787585058000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.3,
-   "hot": false
   },
   {
    "title": "Show GN: Apolu - 175개 국가의 App Store 순위 변화 추적 및 알림 앱",
@@ -912,7 +912,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+   "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+   "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+   "publishedAt": 1787585058000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -926,7 +940,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -940,7 +954,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -954,7 +968,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -968,7 +982,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -982,28 +996,14 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, 슬랙용 에이전트 '클로드 태그' 강화...\"대화 흐름 읽고 눈치껏 개입\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214320",
-   "summary": "앤트로픽이 기업용 AI를 단순히 필요할 때 불러 쓰는 개인용 챗봇에서 조직의 업무에 능동적으로 참여하는 ‘가상 직원’ 에이전트로 전환하는 전략에 속도를 내고 있다. 앤트로픽은 24일(현지시간) 슬랙(Slack)에서 작동하는 AI 에이전트 ‘클로드 태그(Claude Tag)’를 업데이트해 개별 메시지가 아닌 대화 전체의 맥락을 분석하고, 필요하다고 판단하면 사용자가 직접 호출하지 않아도 업무에 능동적으로 개입할 수 있도록 기능을 강화했다.스콧 화이트 앤트로픽 엔터프라이즈 제품 책임자는 벤처비트 인터뷰에서 이를 ‘멀티플레이어 AI’ 전",
-   "publishedAt": 1787627820000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 34,
    "hot": false
   },
   {
-   "title": "한컴, 에이전틱 OS로 남양유업 AX 돕는다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214328",
-   "summary": "한컴(대표 김연수)은 남양유업과 ‘에이전틱 OS 사업 협력을 위한 업무협약(MOU)’을 체결했다고 25일 밝혔다.에이전틱 OS를 활용해 여러 AI 에이전트와 기업 데이터, 업무 시스템을 통합 운영하고, 남양유업의 업무 환경에 최적화할 수 있도록 개념검증(PoC)을 수행할 방침이다.남양유업의 실무 데이터와 워크플로우를 기반으로 반복적이고, 정형화된 업무에 맞춤화된 AI 에이전트를 구축하고, PoC 결과를 토대로 적용 범위를 넓혀갈 예정이다.한편, 한컴은 이번 협력으로 에이전틱 OS와 산업 특화형 AI 에이전트 개발을 고도화하며, 올해",
-   "publishedAt": 1787627141000,
+   "title": "대만 검찰, B300 서버 중국 빼돌린 엔비디아 매니저에 징역 5년 구형",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214332",
+   "summary": "대만 검찰이 미국의 대중국 수출 규제를 피해 첨단 AI 칩이 탑재된 서버를 중국으로 불법 반출한 혐의로 엔비디아와 슈퍼마이크로컴퓨터 임직원 등 9명을 기소했다. 대만이 AI 가속기의 암시장 거래와 관련해 엔비디아 직원까지 형사 처벌 절차에 넘긴 것은 이번이 처음으로 알려졌다.대만 기륭지방검찰청은 24일 엔비디아 대만 법인의 장 모 매니저를 비롯해 슈퍼마이크로 대만 법인 직원 2명과 유통·중개업체 관계자 등 9명을 사기와 배임, 문서 위조 등의 혐의로 재판에 넘겼다고 밝혔다.특히 이번 사건의 핵심 인물로 장 매니저를 지목하고 징역 5",
+   "publishedAt": 1787631423000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
@@ -1014,10 +1014,10 @@
    "hot": false
   },
   {
-   "title": "이스트소프트, 비개발자 위한 AI 마크다운 앱 '마크닷' 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214323",
-   "summary": "이스트소프트(대표 정상원)는 알툴즈의 신규 마크다운 뷰어·에디터 앱 ‘마크닷’을 출시했다고 25일 밝혔다.마크닷은 AI가 읽고 쓰기에 최적화된 파일 형식인 마크다운을 별도의 전용 개발 툴 없이도 손쉽게 다룰 수 있도록 지원하는 것이 특징이다. 파일 열기부터 보기, 원본 수정, 결과 확인, 저장 및 공유, AI 에이전트 연결에 이르는 전 과정을 하나의 앱에서 처리할 수 있다.마크다운 파일을 일반 문서 형태로 변환해 목차와 검색 기능으로 원하는 내용을 쉽게 찾을 수 있으며, 파일 트리를 통해 같은 폴더 안의 문서나 연결된 마크다운 문서",
-   "publishedAt": 1787627103000,
+   "title": "아마존, 메모리 부족에 킨들·에코 가격 최대 60% 기습 인상",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214330",
+   "summary": "메모리 가격 상승세가 소비자용 기기 시장으로 확대되고 있다. AI 데이터센터에 메모리와 저장장치 수요가 집중되면서 제조원가 부담이 커지자, 아마존도 제품 가격 인상에 나섰다.21일(현지시간) 포춘에 따르면, 아마존은 메모리와 저장장치 부품 가격 급등을 이유로 에코(Echo) 스마트 스피커와 파이어 TV(Fire TV), 킨들(Kindle), 이로(eero) 등 자체 하드웨어 제품 가격을 최대 60% 인상했다.별도의 사전 공지 없이 가격을 전격 조정한 것으로, AI 데이터센터 투자 확대에 따른 글로벌 메모리 공급 부족이 소비자용 전자",
+   "publishedAt": 1787630718000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
@@ -1028,31 +1028,17 @@
    "hot": false
   },
   {
-   "title": "위버스브레인, 음성 AI로 SKT와 AI 에이전트 개발 협력",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214321",
-   "summary": "AI 교육 전문 위버스브레인(대표 조세원, 이용국)은 SK텔레콤과 AI 에이전트 기반 서비스 개발 및 사업 협력에 나선다고 25일 밝혔다.자체 음성 AI 기반 대화형 AI 에이전트 기술과 영어회화 서비스 '스피킹맥스' 운영 경험을 활용해 AI 튜터 서비스 등 다양한 분야에서 협력할 방침이다.위버스브레인은 음성 감지(VAD), 음성 인식(STT), 음성 합성(TTS) 등 대화형 AI 파이프라인 전 단계를 자체 구축했다. 특히 자체 TTS 기술을 통해 다국어 발화 과정에서 언어를 자연스럽게 전환하는 '코드 스위칭'을 구현하고, 억양·강",
-   "publishedAt": 1787627074000,
+   "title": "엔비디아, '그로크 3 LPX' 본격 양산...초고속 추론 에이전트 시장 타깃",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214322",
+   "summary": "엔비디아가 지난해 200억달러(약 28조원)에 인수한 AI 칩 스타트업 그로크(Groq)의 기술을 적용한 ‘그로크 3 LPX(Groq 3 LPX)’ 랙 시스템을 본격 양산한다. AI 에이전트 시대의 핵심 인프라로 부상하고 있는 초고속 추론 시장 공략에 속도를 내는 모습이다.엔비디아는 25일(현지시간) 그로크 3 LPX가 현재 본격적인 생산 단계에 들어갔다고 발표했다.그로크 3 LPX는 엔비디아의 차세대 '베라 루빈(Vera Rubin)' 플랫폼을 보완하는 추론 가속기로, 특히 AI 에이전트가 수백~수천단계에 걸쳐 추론하고 도구를 호",
+   "publishedAt": 1787629904000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "노타, EMNLP 논문 2편 채택...“MoE 양자화 난제 풀었다”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214318",
-   "summary": "노타(대표 채명수)는 자연어처리(NLP) 분야 국제학술대회 ‘EMNLP 2026’에서 AI 모델 최적화 관련 논문 2편이 각각 메인 컨퍼런스와 파인딩스(Findings)에 채택됐다고 25일 밝혔다.두 논문 모두 대형언어모델(LLM)에 적용되는 전문가 혼합 모델(MoE)의 양자화 과정에서 발생하는 성능 저하 문제를 다뤘다. 특히 올해는 약 1만8000편의 논문 중 메인 컨퍼런스 채택률이 15.4%에 불과해 기술적 완성도를 인정받았다는 설명이다.메인 컨퍼런스에 채택된 논문은 양자화가 다음 단계의 전문가 선택에 미치는 영향까지 반영하고,",
-   "publishedAt": 1787627003000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.9,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1066,9 +1052,93 @@
    "comments": 503,
    "publishedAt": 1787312885000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false,
    "lastWeekRank": 13
+  },
+  {
+   "title": "메타, AI 에이전트 '해치' 출시 임박...10월엔 새 모델 '워터멜론' 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214319",
+   "summary": "AI 기술 경쟁이 모델 성능을 넘어 실제 업무와 일상에서 작업을 대신 수행하는 에이전트 경쟁으로 확대되는 가운데, 메타가 자체 AI 서비스의 상용화에 속도를 내고 있다.24일(현지시간) 디 인포메이션에 따르면, 메타는 사용자의 명령에 따라 다양한 웹사이트와 서비스를 직접 이용해 복잡한 작업을 수행하는 소비자용 AI 에이전트 플랫폼 ‘해치(Hatch)’를 이르면 몇주 내 출시할 전망이다.동시에 오는 10월 차세대 플래그십 AI 모델 ‘워터멜론(Watermelon)’ 공개도 추진하고 있다.내부 문서에 따르면, 해치는 이르면 8월 말 또",
+   "publishedAt": 1787628283000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, 슬랙용 에이전트 '클로드 태그' 강화...\"대화 흐름 읽고 눈치껏 개입\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214320",
+   "summary": "앤트로픽이 기업용 AI를 단순히 필요할 때 불러 쓰는 개인용 챗봇에서 조직의 업무에 능동적으로 참여하는 ‘가상 직원’ 에이전트로 전환하는 전략에 속도를 내고 있다. 앤트로픽은 24일(현지시간) 슬랙(Slack)에서 작동하는 AI 에이전트 ‘클로드 태그(Claude Tag)’를 업데이트해 개별 메시지가 아닌 대화 전체의 맥락을 분석하고, 필요하다고 판단하면 사용자가 직접 호출하지 않아도 업무에 능동적으로 개입할 수 있도록 기능을 강화했다.스콧 화이트 앤트로픽 엔터프라이즈 제품 책임자는 벤처비트 인터뷰에서 이를 ‘멀티플레이어 AI’ 전",
+   "publishedAt": 1787627820000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "한컴, 에이전틱 OS로 남양유업 AX 돕는다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214328",
+   "summary": "한컴(대표 김연수)은 남양유업과 ‘에이전틱 OS 사업 협력을 위한 업무협약(MOU)’을 체결했다고 25일 밝혔다.에이전틱 OS를 활용해 여러 AI 에이전트와 기업 데이터, 업무 시스템을 통합 운영하고, 남양유업의 업무 환경에 최적화할 수 있도록 개념검증(PoC)을 수행할 방침이다.남양유업의 실무 데이터와 워크플로우를 기반으로 반복적이고, 정형화된 업무에 맞춤화된 AI 에이전트를 구축하고, PoC 결과를 토대로 적용 범위를 넓혀갈 예정이다.한편, 한컴은 이번 협력으로 에이전틱 OS와 산업 특화형 AI 에이전트 개발을 고도화하며, 올해",
+   "publishedAt": 1787627141000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "이스트소프트, 비개발자 위한 AI 마크다운 앱 '마크닷' 출시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214323",
+   "summary": "이스트소프트(대표 정상원)는 알툴즈의 신규 마크다운 뷰어·에디터 앱 ‘마크닷’을 출시했다고 25일 밝혔다.마크닷은 AI가 읽고 쓰기에 최적화된 파일 형식인 마크다운을 별도의 전용 개발 툴 없이도 손쉽게 다룰 수 있도록 지원하는 것이 특징이다. 파일 열기부터 보기, 원본 수정, 결과 확인, 저장 및 공유, AI 에이전트 연결에 이르는 전 과정을 하나의 앱에서 처리할 수 있다.마크다운 파일을 일반 문서 형태로 변환해 목차와 검색 기능으로 원하는 내용을 쉽게 찾을 수 있으며, 파일 트리를 통해 같은 폴더 안의 문서나 연결된 마크다운 문서",
+   "publishedAt": 1787627103000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "위버스브레인, 음성 AI로 SKT와 AI 에이전트 개발 협력",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214321",
+   "summary": "AI 교육 전문 위버스브레인(대표 조세원, 이용국)은 SK텔레콤과 AI 에이전트 기반 서비스 개발 및 사업 협력에 나선다고 25일 밝혔다.자체 음성 AI 기반 대화형 AI 에이전트 기술과 영어회화 서비스 '스피킹맥스' 운영 경험을 활용해 AI 튜터 서비스 등 다양한 분야에서 협력할 방침이다.위버스브레인은 음성 감지(VAD), 음성 인식(STT), 음성 합성(TTS) 등 대화형 AI 파이프라인 전 단계를 자체 구축했다. 특히 자체 TTS 기술을 통해 다국어 발화 과정에서 언어를 자연스럽게 전환하는 '코드 스위칭'을 구현하고, 억양·강",
+   "publishedAt": 1787627074000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "노타, EMNLP 논문 2편 채택...“MoE 양자화 난제 풀었다”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214318",
+   "summary": "노타(대표 채명수)는 자연어처리(NLP) 분야 국제학술대회 ‘EMNLP 2026’에서 AI 모델 최적화 관련 논문 2편이 각각 메인 컨퍼런스와 파인딩스(Findings)에 채택됐다고 25일 밝혔다.두 논문 모두 대형언어모델(LLM)에 적용되는 전문가 혼합 모델(MoE)의 양자화 과정에서 발생하는 성능 저하 문제를 다뤘다. 특히 올해는 약 1만8000편의 논문 중 메인 컨퍼런스 채택률이 15.4%에 불과해 기술적 완성도를 인정받았다는 설명이다.메인 컨퍼런스에 채택된 논문은 양자화가 다음 단계의 전문가 선택에 미치는 영향까지 반영하고,",
+   "publishedAt": 1787627003000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
   },
   {
    "title": "DeepSeek-v4-flash-vision-exp",
@@ -1077,11 +1147,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 497,
+   "engagement": 498,
    "comments": 155,
    "publishedAt": 1787308436000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 14
   },
@@ -1096,23 +1166,9 @@
    "comments": 911,
    "publishedAt": 1787279867000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false,
    "lastWeekRank": 21
-  },
-  {
-   "title": "Show GN: 다소 - 매일 하나의 질문에 투표하고, 주제에 토론하는 앱",
-   "url": "https://news.hada.io/topic?id=32832",
-   "summary": "매일 하나 주제에 대해 2가지 선택지 중 하나를 선택하고 토론하는 서비스 입니다. [어떻게 쓰나요] 매일 아침 9시에 새로운 주제에 대한 질문이 하나씩 올라오고 선택지에서 본인의 의견에 가까운 선택을 합니다. 투표 후에 실시간 투표결과가 출력되고, 토론하기에서 사용자들과 의견을 나눌 수",
-   "publishedAt": 1787548213000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.5,
-   "hot": false
   },
   {
    "title": "There's no reason for software to be slow anymore",
@@ -1125,22 +1181,22 @@
    "comments": 494,
    "publishedAt": 1787360777000,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false,
    "lastWeekRank": 8
   },
   {
-   "title": "SonicMoE로 보는 GPU 커널 최적화",
-   "url": "https://news.hada.io/topic?id=32830",
-   "summary": "SonicMoE를 예시로 효율적인 GPU 커널을 설계한다는 것이 무엇을 의미하는지 이야기합니다.",
-   "publishedAt": 1787546362000,
+   "title": "Show GN: 다소 - 매일 하나의 질문에 투표하고, 주제에 토론하는 앱",
+   "url": "https://news.hada.io/topic?id=32832",
+   "summary": "매일 하나 주제에 대해 2가지 선택지 중 하나를 선택하고 토론하는 서비스 입니다. [어떻게 쓰나요] 매일 아침 9시에 새로운 주제에 대한 질문이 하나씩 올라오고 선택지에서 본인의 의견에 가까운 선택을 합니다. 투표 후에 실시간 투표결과가 출력되고, 토론하기에서 사용자들과 의견을 나눌 수",
+   "publishedAt": 1787548213000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1154,22 +1210,22 @@
    "comments": 581,
    "publishedAt": 1787214044000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33.1,
    "hot": false,
    "lastWeekRank": 30
   },
   {
-   "title": "GNU Emacs Canvas 입문: 픽셀 버퍼를 직접 다루는 새 이미지 기능",
-   "url": "https://news.hada.io/topic?id=32827",
-   "summary": "약 8개월간 개발한 Canvas 기능 이 GNU Emacs 코어에 병합돼, Emacs 32부터 이미지 데이터를 문자열로 전달하지 않고 픽셀 버퍼를 직접 조작할 수 있음 Canvas는 기존 이미지 API와 호환되는 새 이미지 유형으로, Emacs Lisp에서는 이미지 객체로 사용하고 동적 모듈에서는 A...",
-   "publishedAt": 1787544153000,
+   "title": "SonicMoE로 보는 GPU 커널 최적화",
+   "url": "https://news.hada.io/topic?id=32830",
+   "summary": "SonicMoE를 예시로 효율적인 GPU 커널을 설계한다는 것이 무엇을 의미하는지 이야기합니다.",
+   "publishedAt": 1787546362000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1183,9 +1239,23 @@
    "comments": 396,
    "publishedAt": 1787256446000,
    "isAI": false,
-   "score": 33.1,
+   "score": 33,
    "hot": false,
    "lastWeekRank": 23
+  },
+  {
+   "title": "GNU Emacs Canvas 입문: 픽셀 버퍼를 직접 다루는 새 이미지 기능",
+   "url": "https://news.hada.io/topic?id=32827",
+   "summary": "약 8개월간 개발한 Canvas 기능 이 GNU Emacs 코어에 병합돼, Emacs 32부터 이미지 데이터를 문자열로 전달하지 않고 픽셀 버퍼를 직접 조작할 수 있음 Canvas는 기존 이미지 API와 호환되는 새 이미지 유형으로, Emacs Lisp에서는 이미지 객체로 사용하고 동적 모듈에서는 A...",
+   "publishedAt": 1787544153000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32.9,
+   "hot": false
   },
   {
    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
@@ -1198,7 +1268,7 @@
    "comments": 98,
    "publishedAt": 1787454796000,
    "isAI": false,
-   "score": 33,
+   "score": 32.7,
    "hot": false,
    "lastWeekRank": 11
   },
@@ -1213,7 +1283,7 @@
    "comments": 60,
    "publishedAt": 1787422249000,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false,
    "lastWeekRank": 12
   },
@@ -1228,7 +1298,7 @@
    "comments": 237,
    "publishedAt": 1787322712000,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.5,
    "hot": false,
    "lastWeekRank": 19
   },
@@ -1243,21 +1313,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "[8월24일] 중국 로봇, 1년 만에 100m 기록 절반 단축…“두뇌는 'GPT-2' 수준”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214278",
-   "summary": "지난 주말 중국 베이징에서는 로봇 관련 대형 행사가 잇따라 열렸습니다. 하나는 세계로봇컨퍼런스(World Robot Conference)였고, 다른 하나는 세계휴머노이드로봇체육대회(World Humanoid Robot Games)였습니다.두 행사는 서로 다른 모습을 보여줬습니다. 로봇 체육대회에서는 휴머노이드의 신체 능력이 1년 사이 얼마나 빠르게 발전했는지가 드러났고, 로봇 컨퍼런스에서는 이 하드웨어를 실제로 움직이게 할 '두뇌'가 언제쯤 획기적으로 발전할지를 놓고 전망이 나왔습니다.먼저 눈에 띄는 것은 하드웨어의 발전입니다.올해",
-   "publishedAt": 1787608800000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1271,7 +1327,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1285,7 +1341,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "[8월24일] 중국 로봇, 1년 만에 100m 기록 절반 단축…“두뇌는 'GPT-2' 수준”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214278",
+   "summary": "지난 주말 중국 베이징에서는 로봇 관련 대형 행사가 잇따라 열렸습니다. 하나는 세계로봇컨퍼런스(World Robot Conference)였고, 다른 하나는 세계휴머노이드로봇체육대회(World Humanoid Robot Games)였습니다.두 행사는 서로 다른 모습을 보여줬습니다. 로봇 체육대회에서는 휴머노이드의 신체 능력이 1년 사이 얼마나 빠르게 발전했는지가 드러났고, 로봇 컨퍼런스에서는 이 하드웨어를 실제로 움직이게 할 '두뇌'가 언제쯤 획기적으로 발전할지를 놓고 전망이 나왔습니다.먼저 눈에 띄는 것은 하드웨어의 발전입니다.올해",
+   "publishedAt": 1787608800000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1299,7 +1369,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1313,7 +1383,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1327,7 +1397,7 @@
    "comments": 280,
    "publishedAt": 1787341908000,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false,
    "lastWeekRank": 25
   },
@@ -1342,76 +1412,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "Xiaomi AI Cube announced with 1.2TB/s memory bandwidth",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwvghi/xiaomi_ai_cube_announced_with_12tbs_memory/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 30.8,
-   "publishedAt": 1787555072000,
-   "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "[팟캐스트] OAuth, 제대로 이해하고 쓰고 있나요?",
-   "url": "https://news.hada.io/topic?id=32814",
-   "summary": "이번 에피소드는 OAuth의 필요성과 구성 요소(사용자, 클라이언트, 인가 서버, 자원 서버)의 역할을 다루며, Authorization Code Grant의 동작 과정(인가 코드와 액세스 토큰의 분리 이유, Redirect URI, Front/Back Channel)부터 OAuth 2.1에서 중요해진 PKCE까지 복잡한 인증·인가 절차 뒤에 숨겨진 보안적 이유를 ...",
-   "publishedAt": 1787522324000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "Wi-Fi 8, 수년 만에 속도 경쟁에서 벗어난 무선 업그레이드",
-   "url": "https://news.hada.io/topic?id=32812",
-   "summary": "IEEE가 Ultra High Reliability 로 부르는 Wi-Fi 8은 최고 속도보다 간섭과 비이상적 환경에서의 신뢰성·실효 처리량·지연시간 개선에 집중함 Wi-Fi 7과 최대 전송률, 공간 스트림 수, 4096-QAM , 주파수 대역, 320MHz 채널 폭은 거의 같지만, SINR별 처리량 25% 향상...",
-   "publishedAt": 1787513899000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 30.8,
-   "hot": false
-  },
-  {
-   "title": "슬로바키아, 과속 단속 카메라에서 러시아 백도어 발견",
-   "url": "https://news.hada.io/topic?id=32810",
-   "summary": "슬로바키아 국가안보국 NBU 는 NERO R-ONE 과속 단속 카메라에 SMS로 셸·네트워크 접근을 허용하는 백도어가 있다며 사용을 경고함 하드코딩된 러시아 전화번호 에서 SMS를 받으면 백도어가 작동하며, 장비는 러시아 Semicon의 CORDON PRO.M을 리브랜딩한 제품으로 확...",
-   "publishedAt": 1787509898000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-   "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-   "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
-   "publishedAt": 1787589705000,
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.4,
+   "score": 31.3,
    "hot": false
   }
  ]
