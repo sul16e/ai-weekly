@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787654116477,
+ "updatedAt": 1787657775713,
  "week": "2026-W35",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 514,
-   "comments": 505,
+   "engagement": 516,
+   "comments": 508,
    "publishedAt": 1787586753000,
    "isAI": true,
-   "score": 55.9,
+   "score": 55.4,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 882,
-   "comments": 626,
+   "engagement": 896,
+   "comments": 643,
    "publishedAt": 1787584097000,
    "isAI": false,
-   "score": 53.1,
+   "score": 52.8,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 325,
-   "comments": 312,
+   "engagement": 328,
+   "comments": 314,
    "publishedAt": 1787584963000,
    "isAI": true,
-   "score": 52,
+   "score": 51.6,
    "hot": true
   },
   {
@@ -55,7 +55,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.9,
+   "score": 51.4,
    "hot": true
   },
   {
@@ -65,12 +65,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 785,
-   "comments": 687,
+   "engagement": 786,
+   "comments": 690,
    "publishedAt": 1787508997000,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.5,
    "hot": false
+  },
+  {
+   "title": "LLMs could control their host machines by exploiting inference engines",
+   "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49424387",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 160,
+   "comments": 74,
+   "publishedAt": 1787598186000,
+   "isAI": true,
+   "score": 47.7,
+   "hot": true
   },
   {
    "title": "Show GN: Macchiato - 내 에이전트를 아이폰으로 원격 조종하는 앱",
@@ -83,35 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
-   "hot": true
-  },
-  {
-   "title": "LLMs could control their host machines by exploiting inference engines",
-   "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49424387",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 150,
-   "comments": 68,
-   "publishedAt": 1787598186000,
-   "isAI": true,
-   "score": 47.6,
-   "hot": false
-  },
-  {
-   "title": "Show GN: forge-harness — AI가 쓴 코드를 커밋 전에 막는 Claude Code 게이트 하네스 (오픈소스)",
-   "url": "https://news.hada.io/topic?id=32868",
-   "summary": "AI 에이전트에게 코드를 맡기면서 「이거 믿어도 되나」를 매번 손으로 확인하는 게 싫어서, 검증을 기계로 굳혀 두는 하네스를 만들고 있습니다. git 훅으로 커밋 직전에 도는 검사들이고, 통과 못 하면 커밋이 멈춥니다. 언어나 프레임워크를 가리지 않고 변경된 내용 자체를 봅니다. 설치 없이 npx @chrono-meta/f...",
-   "publishedAt": 1787631094000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.7,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -125,8 +111,22 @@
    "comments": 289,
    "publishedAt": 1787494989000,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.2,
    "hot": false
+  },
+  {
+   "title": "Show GN: forge-harness — AI가 쓴 코드를 커밋 전에 막는 Claude Code 게이트 하네스 (오픈소스)",
+   "url": "https://news.hada.io/topic?id=32868",
+   "summary": "AI 에이전트에게 코드를 맡기면서 「이거 믿어도 되나」를 매번 손으로 확인하는 게 싫어서, 검증을 기계로 굳혀 두는 하네스를 만들고 있습니다. git 훅으로 커밋 직전에 도는 검사들이고, 통과 못 하면 커밋이 멈춥니다. 언어나 프레임워크를 가리지 않고 변경된 내용 자체를 봅니다. 설치 없이 npx @chrono-meta/f...",
+   "publishedAt": 1787631094000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.2,
+   "hot": true
   },
   {
    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
@@ -139,7 +139,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.7,
    "hot": false
   },
   {
@@ -149,11 +149,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 363,
-   "comments": 71,
+   "engagement": 365,
+   "comments": 72,
    "publishedAt": 1787527097000,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.4,
    "hot": false
   },
   {
@@ -167,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -177,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 524,
-   "comments": 99,
+   "engagement": 527,
+   "comments": 100,
    "publishedAt": 1787546900000,
    "isAI": false,
-   "score": 44.6,
+   "score": 44.3,
    "hot": false
   },
   {
@@ -191,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 403,
+   "engagement": 404,
    "comments": 174,
    "publishedAt": 1787507992000,
    "isAI": true,
-   "score": 44.5,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -209,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -223,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -237,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -247,12 +247,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 165,
-   "comments": 150,
+   "engagement": 168,
+   "comments": 153,
    "publishedAt": 1787605386000,
    "isAI": false,
-   "score": 42.4,
+   "score": 42.2,
    "hot": true
+  },
+  {
+   "title": "Show GN: 옥상에서 별을 보다가 ‘은하계 커뮤니티’를 만들어봤습니다.",
+   "url": "https://news.hada.io/topic?id=32877",
+   "summary": "안녕하세요. 이번에는 제가 조금 특이한 형태의 커뮤니티를 하나 만들어봤습니다. 이름은 은하계 커뮤니티(Galaxy Constellate) 입니다. 이걸 처음 만들게 된 계기는 사실 거창하지 않았습니다. 어느 날 우연히 옥상에 올라가서 이것저것 생각하고 있었는데, 밤하늘에",
+   "publishedAt": 1787655195000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
+  },
+  {
+   "title": "OCR It – pull text out of un-copyable documents for your LLM",
+   "url": "https://github.com/thiagotigaz/ocr-it",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49415852",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 132,
+   "comments": 33,
+   "publishedAt": 1787552731000,
+   "isAI": true,
+   "score": 41,
+   "hot": false
   },
   {
    "title": "Perspec 1.0 - 문서 사진의 원근을 보정하는 Haskell 데스크톱 앱",
@@ -265,22 +293,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
-  },
-  {
-   "title": "OCR It – pull text out of un-copyable documents for your LLM",
-   "url": "https://github.com/thiagotigaz/ocr-it",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49415852",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 128,
-   "comments": 33,
-   "publishedAt": 1787552731000,
-   "isAI": true,
-   "score": 41.2,
-   "hot": false
   },
   {
    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
@@ -289,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 363,
+   "engagement": 364,
    "comments": 150,
    "publishedAt": 1787479371000,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.8,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -308,7 +322,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -322,7 +336,7 @@
    "comments": 110,
    "publishedAt": 1787502261000,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -336,7 +350,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
@@ -350,7 +364,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -364,7 +378,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -378,7 +392,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -389,11 +403,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 192,
-   "comments": 43,
+   "comments": 44,
    "publishedAt": 1787571171000,
    "isAI": false,
-   "score": 39.9,
-   "hot": true
+   "score": 39.5,
+   "hot": false
   },
   {
    "title": "New EU-wide product repair rules come into force",
@@ -402,11 +416,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 248,
+   "engagement": 251,
    "comments": 136,
    "publishedAt": 1787550447000,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -420,7 +434,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -434,7 +448,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.4,
+   "score": 39.1,
+   "hot": false
+  },
+  {
+   "title": "Google Workspace thinks my domain is an email provider (2025)",
+   "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49411717",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 382,
+   "comments": 153,
+   "publishedAt": 1787513372000,
+   "isAI": false,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -448,22 +476,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
-  },
-  {
-   "title": "Google Workspace thinks my domain is an email provider (2025)",
-   "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49411717",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 382,
-   "comments": 152,
-   "publishedAt": 1787513372000,
-   "isAI": false,
-   "score": 39.1,
-   "hot": false
   },
   {
    "title": "Why your local LLM feels dumber than it is",
@@ -473,12 +487,26 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 505,
-   "comments": 205,
+   "comments": 206,
    "publishedAt": 1787422456000,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.4,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "A website for debloated open source alternatives",
+   "url": "https://debloat.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49410362",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 398,
+   "comments": 128,
+   "publishedAt": 1787504050000,
+   "isAI": false,
+   "score": 38.3,
+   "hot": false
   },
   {
    "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
@@ -486,11 +514,11 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 147,
+   "engagement": 148,
    "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state maintenance, failure recovery, and verifiable delivery. We call this working capability: sustained, veri",
    "publishedAt": 1787515200000,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -504,22 +532,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
-  },
-  {
-   "title": "A website for debloated open source alternatives",
-   "url": "https://debloat.dev/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49410362",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 395,
-   "comments": 128,
-   "publishedAt": 1787504050000,
-   "isAI": false,
-   "score": 38.5,
-   "hot": false
   },
   {
    "title": "Show GN: Preflight - 바이브코딩 앱을 위한 배포 전 보안 점검 도구",
@@ -532,7 +546,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -546,7 +560,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -560,7 +574,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -574,8 +588,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
+  },
+  {
+   "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+   "url": "https://glassbox.codecanary.org",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49421948",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 116,
+   "comments": 53,
+   "publishedAt": 1787588110000,
+   "isAI": false,
+   "score": 37.3,
+   "hot": false
   },
   {
    "title": "블로그 글을 손글씨로 쓸 수 있을까?",
@@ -588,7 +616,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -602,7 +630,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -616,7 +644,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -630,7 +658,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -644,21 +672,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.5,
-   "hot": false
-  },
-  {
-   "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-   "url": "https://glassbox.codecanary.org",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49421948",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 111,
-   "comments": 50,
-   "publishedAt": 1787588110000,
-   "isAI": false,
-   "score": 37.4,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -672,21 +686,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
-  },
-  {
-   "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
-   "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49411395",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 294,
-   "comments": 153,
-   "publishedAt": 1787511354000,
-   "isAI": false,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -700,7 +700,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
+   "hot": false
+  },
+  {
+   "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+   "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49411395",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 294,
+   "comments": 153,
+   "publishedAt": 1787511354000,
+   "isAI": false,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -714,7 +728,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "Training AI to Paint with Code",
+   "url": "https://surya.website/rling-qwen-to-paint-with-code",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49411800",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 110,
+   "comments": 13,
+   "publishedAt": 1787513969000,
+   "isAI": true,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -728,7 +756,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
+   "hot": false
+  },
+  {
+   "title": "Walgit – a Git server that is one binary in front of an object store",
+   "url": "https://github.com/tobi/walgit",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49420598",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 103,
+   "comments": 32,
+   "publishedAt": 1787582989000,
+   "isAI": false,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -742,7 +784,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -756,7 +798,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -770,7 +812,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -784,7 +826,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -798,7 +840,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -806,20 +848,6 @@
    "url": "https://news.hada.io/topic?id=32851",
    "summary": "샤오미는 새 Xring O3 가 단일 스레드에서 Apple 코어와 대체로 비슷하고 멀티스레드에서는 훨씬 빠르다고 주장함 총 44MB 캐시 를 탑재해 대다수 노트북 CPU보다 크며, 많은 Intel 노트북 프로세서도 이보다 적은 캐시를 갖춤 최상위 C1-Ultra",
    "publishedAt": 1787592687000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "SELF - SQLite 데이터베이스 자체를 실행 파일로 쓰는 파일 포맷",
-   "url": "https://news.hada.io/topic?id=32849",
-   "summary": "SELF(Structured Executable & Linkable Format) 는 실행 파일 자체를 SQLite로 만들고, chmod +x 권한을 부여해 일반 바이너리처럼 실행하는 프로토타입 ELF가 문자열 테이블·심볼 인덱스·섹션 헤더·버전 정보를 별도 구조로 구현하는 대신, SELF는 이를 ...",
-   "publishedAt": 1787589193000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -840,21 +868,21 @@
    "comments": 143,
    "publishedAt": 1787490338000,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
-   "title": "유럽은 어떻게 메이커와 영세 사업자를 고사시키는가",
-   "url": "https://news.hada.io/topic?id=32848",
-   "summary": "2026년 8월 12일부터 일반 적용되는 EU 포장·포장폐기물 규정(PPWR) 은 폐기물 감축을 목표로 하지만, 판매자가 포장 폐기물이 발생하는 회원국마다 등록·보고·납부해야 해 영세 사업자에게 과도한 부담을 줌 그리스 엔지니어가 €25 센서 보드 10개를 독일·프랑스·오스트리아·벨기...",
-   "publishedAt": 1787581970000,
+   "title": "SELF - SQLite 데이터베이스 자체를 실행 파일로 쓰는 파일 포맷",
+   "url": "https://news.hada.io/topic?id=32849",
+   "summary": "SELF(Structured Executable & Linkable Format) 는 실행 파일 자체를 SQLite로 만들고, chmod +x 권한을 부여해 일반 바이너리처럼 실행하는 프로토타입 ELF가 문자열 테이블·심볼 인덱스·섹션 헤더·버전 정보를 별도 구조로 구현하는 대신, SELF는 이를 ...",
+   "publishedAt": 1787589193000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -868,9 +896,23 @@
    "comments": 146,
    "publishedAt": 1787392154000,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false,
    "lastWeekRank": 5
+  },
+  {
+   "title": "유럽은 어떻게 메이커와 영세 사업자를 고사시키는가",
+   "url": "https://news.hada.io/topic?id=32848",
+   "summary": "2026년 8월 12일부터 일반 적용되는 EU 포장·포장폐기물 규정(PPWR) 은 폐기물 감축을 목표로 하지만, 판매자가 포장 폐기물이 발생하는 회원국마다 등록·보고·납부해야 해 영세 사업자에게 과도한 부담을 줌 그리스 엔지니어가 €25 센서 보드 10개를 독일·프랑스·오스트리아·벨기...",
+   "publishedAt": 1787581970000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.9,
+   "hot": false
   },
   {
    "title": "AI Chip Architectures",
@@ -883,21 +925,7 @@
    "comments": 45,
    "publishedAt": 1787451910000,
    "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "다른 포럼에 Reddit의 최고 기능 복제하기",
-   "url": "https://news.hada.io/topic?id=32845",
-   "summary": "Reddit의 친구 표시 는 승인이나 알림 없이 특정 사용자를 지정하고, 이후 게시물과 댓글에서 이름을 강조해 온라인 공간을 커뮤니티처럼 느끼게 함 rolodex 는 TOML 파일의 사용자명을 읽어 프로필 링크를 대상으로 하는 CSS를 생성하고, Stylus 같은 브라우저 확장...",
-   "publishedAt": 1787576467000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -911,7 +939,7 @@
    "comments": 190,
    "publishedAt": 1787417929000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 4
   },
@@ -926,7 +954,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "다른 포럼에 Reddit의 최고 기능 복제하기",
+   "url": "https://news.hada.io/topic?id=32845",
+   "summary": "Reddit의 친구 표시 는 승인이나 알림 없이 특정 사용자를 지정하고, 이후 게시물과 댓글에서 이름을 강조해 온라인 공간을 커뮤니티처럼 느끼게 함 rolodex 는 TOML 파일의 사용자명을 읽어 프로필 링크를 대상으로 하는 CSS를 생성하고, Stylus 같은 브라우저 확장...",
+   "publishedAt": 1787576467000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -940,21 +982,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-   "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violat",
-   "publishedAt": 1787649303000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -968,21 +996,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
-   "title": "애플, 차세대 '맥 미니' 발표 임박...9월 아이폰 행사 전 공개 가능성",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214349",
-   "summary": "애플이 2년여 만에 소형 데스크톱 PC인 맥 미니(Mac mini)의 신형 모델 출시를 준비하고 있는 것으로 알려졌다. AI 앱을 로컬 환경에서 구동하려는 수요가 늘면서 맥 미니의 인기가 높아진 가운데, 애플은 차세대 프로세서를 탑재한 신제품을 이르면 수일 내 공개할 것으로 전망된다.24일(현지시간) 블룸버그에 따르면, 애플은 이르면 며칠 내 새로운 맥 미니를 선보일 계획이다.오는 9월 차세대 아이폰 공개 행사가 예정돼 있어, 신형 맥 미니가 아이폰 행사보다 먼저 공개될 가능성도 있다. 애플은 내부적으로 'M5'와 'M6' 세대 프",
-   "publishedAt": 1787648100000,
-   "source": "AI타임스",
+   "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+   "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violat",
+   "publishedAt": 1787649303000,
+   "source": "The Verge",
    "sourceType": "media",
-   "lang": "ko",
+   "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -996,7 +1024,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "애플, 차세대 '맥 미니' 발표 임박...9월 아이폰 행사 전 공개 가능성",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214349",
+   "summary": "애플이 2년여 만에 소형 데스크톱 PC인 맥 미니(Mac mini)의 신형 모델 출시를 준비하고 있는 것으로 알려졌다. AI 앱을 로컬 환경에서 구동하려는 수요가 늘면서 맥 미니의 인기가 높아진 가운데, 애플은 차세대 프로세서를 탑재한 신제품을 이르면 수일 내 공개할 것으로 전망된다.24일(현지시간) 블룸버그에 따르면, 애플은 이르면 며칠 내 새로운 맥 미니를 선보일 계획이다.오는 9월 차세대 아이폰 공개 행사가 예정돼 있어, 신형 맥 미니가 아이폰 행사보다 먼저 공개될 가능성도 있다. 애플은 내부적으로 'M5'와 'M6' 세대 프",
+   "publishedAt": 1787648100000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1010,7 +1052,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1024,7 +1066,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1038,7 +1080,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1052,63 +1094,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "솔트룩스 '구버', 1분 만에 나만의 AI 에이전트 만든다…'AI 버디' 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214356",
-   "summary": "솔트룩스(대표 이경일)는 자체 AI 플랫폼 ‘구버(Goover)’에 누구나 맞춤형 AI 에이전트를 쉽게 생성하고 공유할 수 있는 ‘AI 버디(AI Buddy)’ 기능을 정식 출시했다고 25일 밝혔다. AI 버디는 사용자가 업무에서 자동화하고 싶은 영역을 직접 자연어 대화로 입력해 생성할 수 있는 개인 맞춤형 에이전트다. AI가 스스로 업무 단계를 세분화하고 필요한 지식 소스 연동 및 시스템 프롬프트까지 일괄 설계한다. 노코드로 1분 만에 제작이 가능하다. 나이·성격·MBTI 등 세부적인 캐릭터성을 부여해 맞춤형 페르소나를 지닌 AI",
-   "publishedAt": 1787645100000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "바이트댄스, '두바오' 중심 AI 도구 결집...기업용 슈퍼 앱 시장 공략",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214346",
-   "summary": "바이트댄스가 대표 AI 서비스 ‘두바오(Doubao)’를 중심으로 AI 업무 도구를 통합하는 '슈퍼 앱' 전략으로 기업용 AI 시장 공략을 강화하고 있다. 특히 자율적으로 업무를 수행하는 AI 에이전트 ‘두바오 워크(Doubao Work)’를 출시해 텐센트의 ‘워크버디(WorkBuddy)’와 정면 승부에 나선다.바이트댄스는 24일 업무용 AI 에이전트 두바오 워크를 공개했다. 이는 사용자가 복잡한 업무를 지시하면 AI가 이를 세부 작업으로 나누고 필요한 도구를 선택해 실행하는 방식으로 작동한다.가상 데스크톱과 웹브라우저를 직접 제어",
-   "publishedAt": 1787645100000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "[게시판] 래블업, 증권신고서 제출…코스닥 상장 본격화 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214358",
-   "summary": "■ AI 인프라 관리·운영 소프트웨어 전문 래블업(대표 신정규)은 금융위원회에 증권신고서를 제출하고 코스닥 상장을 위한 본격적인 공모 절차에 착수했다고 밝혔다. 총 공모주식수는 218만주이며, 희망 공모가 밴드는 2만~2만3000원이다. 총 공모 예정 금액은 436억~501억원으로, 기관투자자 대상 수요예측은 9월28일부터 10월2일까지 진행된다. 일반 청약은 10월12일부터 13일까지 실시된다. 대표 주관사는 NH투자증권이다.■ 바이브컴퍼니(대표 김경서)는 정보통신정책연구원(KISDI)의 ‘2026년 LLM 서비스 고도화 사업’에",
-   "publishedAt": 1787644800000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "[게시판] 케어링, APEC 정책 포럼서 'AI 돌봄 서비스' 청사진 제시 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214354",
-   "summary": "■ 케어링(대표 김태성)은 24일 중국 대련에서 열린 ‘2026 APEC 인구정책 포럼’에서 한국형 돌봄 AI 기술 현황과 미래 비전을 소개했다고 밝혔다. 김 대표는 한국의 돌봄 인력난 현황을 짚고, AI와 로봇 기술을 활용한 지속 가능한 돌봄 산업의 비전을 제시했다. 지난 3월 선보인 AI 전화 ‘AI마음돌봄’의 활용 사례를 포함해 시니어 정서 케어 로봇과 요양보호사의 신체적 부담을 덜어주는 가사 지원 로봇으로 이어지는 단계별 AI 혁신 청사진을 공개했다.■ 포티투마루(대표 김동환)는 경상남도경찰청에서 열린 ‘제2회 AI분야 명사",
-   "publishedAt": 1787644800000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1122,7 +1108,63 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "솔트룩스 '구버', 1분 만에 나만의 AI 에이전트 만든다…'AI 버디' 출시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214356",
+   "summary": "솔트룩스(대표 이경일)는 자체 AI 플랫폼 ‘구버(Goover)’에 누구나 맞춤형 AI 에이전트를 쉽게 생성하고 공유할 수 있는 ‘AI 버디(AI Buddy)’ 기능을 정식 출시했다고 25일 밝혔다. AI 버디는 사용자가 업무에서 자동화하고 싶은 영역을 직접 자연어 대화로 입력해 생성할 수 있는 개인 맞춤형 에이전트다. AI가 스스로 업무 단계를 세분화하고 필요한 지식 소스 연동 및 시스템 프롬프트까지 일괄 설계한다. 노코드로 1분 만에 제작이 가능하다. 나이·성격·MBTI 등 세부적인 캐릭터성을 부여해 맞춤형 페르소나를 지닌 AI",
+   "publishedAt": 1787645100000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "바이트댄스, '두바오' 중심 AI 도구 결집...기업용 슈퍼 앱 시장 공략",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214346",
+   "summary": "바이트댄스가 대표 AI 서비스 ‘두바오(Doubao)’를 중심으로 AI 업무 도구를 통합하는 '슈퍼 앱' 전략으로 기업용 AI 시장 공략을 강화하고 있다. 특히 자율적으로 업무를 수행하는 AI 에이전트 ‘두바오 워크(Doubao Work)’를 출시해 텐센트의 ‘워크버디(WorkBuddy)’와 정면 승부에 나선다.바이트댄스는 24일 업무용 AI 에이전트 두바오 워크를 공개했다. 이는 사용자가 복잡한 업무를 지시하면 AI가 이를 세부 작업으로 나누고 필요한 도구를 선택해 실행하는 방식으로 작동한다.가상 데스크톱과 웹브라우저를 직접 제어",
+   "publishedAt": 1787645100000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "[게시판] 래블업, 증권신고서 제출…코스닥 상장 본격화 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214358",
+   "summary": "■ AI 인프라 관리·운영 소프트웨어 전문 래블업(대표 신정규)은 금융위원회에 증권신고서를 제출하고 코스닥 상장을 위한 본격적인 공모 절차에 착수했다고 밝혔다. 총 공모주식수는 218만주이며, 희망 공모가 밴드는 2만~2만3000원이다. 총 공모 예정 금액은 436억~501억원으로, 기관투자자 대상 수요예측은 9월28일부터 10월2일까지 진행된다. 일반 청약은 10월12일부터 13일까지 실시된다. 대표 주관사는 NH투자증권이다.■ 바이브컴퍼니(대표 김경서)는 정보통신정책연구원(KISDI)의 ‘2026년 LLM 서비스 고도화 사업’에",
+   "publishedAt": 1787644800000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "[게시판] 케어링, APEC 정책 포럼서 'AI 돌봄 서비스' 청사진 제시 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214354",
+   "summary": "■ 케어링(대표 김태성)은 24일 중국 대련에서 열린 ‘2026 APEC 인구정책 포럼’에서 한국형 돌봄 AI 기술 현황과 미래 비전을 소개했다고 밝혔다. 김 대표는 한국의 돌봄 인력난 현황을 짚고, AI와 로봇 기술을 활용한 지속 가능한 돌봄 산업의 비전을 제시했다. 지난 3월 선보인 AI 전화 ‘AI마음돌봄’의 활용 사례를 포함해 시니어 정서 케어 로봇과 요양보호사의 신체적 부담을 덜어주는 가사 지원 로봇으로 이어지는 단계별 AI 혁신 청사진을 공개했다.■ 포티투마루(대표 김동환)는 경상남도경찰청에서 열린 ‘제2회 AI분야 명사",
+   "publishedAt": 1787644800000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1136,7 +1178,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1150,8 +1192,23 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
+  },
+  {
+   "title": "I'm becoming AI-blind",
+   "url": "https://cymerys.com/w/im-becoming-ai-blind",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49386699",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 507,
+   "comments": 507,
+   "publishedAt": 1787312885000,
+   "isAI": true,
+   "score": 32.5,
+   "hot": false,
+   "lastWeekRank": 13
   },
   {
    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
@@ -1164,23 +1221,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.4,
    "hot": false
-  },
-  {
-   "title": "I'm becoming AI-blind",
-   "url": "https://cymerys.com/w/im-becoming-ai-blind",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49386699",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 507,
-   "comments": 506,
-   "publishedAt": 1787312885000,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false,
-   "lastWeekRank": 13
   },
   {
    "title": "‘반도체 자립’ 속도 내는 샤오미...차세대 3나노 SoC ‘엑스링 O3’ 공개",
@@ -1193,92 +1235,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214341",
-   "summary": "중국 전기차 업체 샤오펑(XPeng)의 휴머노이드 로봇 자회사 도고틱스(Dogotix)가 첫 외부 투자 유치에서 9억달러(약 1조2000억원) 이상의 자금을 확보하며 중국 피지컬 AI·휴머노이드 로봇 산업 사상 최대 규모의 비상장 기업 단일 투자 기록을 세웠다. 샤오펑은 24일(현지시간) 도고틱스가 IDG캐피털이 주도한 투자 라운드에서 9억달러 이상의 자금을 조달했다고 밝혔다.이번 투자에는 전략적 투자자로 텐센트와 알리바바가 참여했으며, 고룽벤처스도 투자자로 이름을 올렸다. 투자 후 도고틱스의 기업 가치는 63억달러(약 8조7000",
-   "publishedAt": 1787640605000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "영국, 우크라이나 전장 AI 빅데이터 확보...국방·안보 AI 공동 개발 착수",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214335",
-   "summary": "영국이 우크라이나의 실제 전장에서 축적된 방대한 데이터를 활용해 국방·안보 분야의 AI 기술을 공동 개발하는 프로젝트에 착수한다. 영국은 우크라이나가 전쟁 과정에서 확보한 고품질 전장 데이터에 접근하는 첫 해외 국가가 되면서, 실전 경험과 AI 기술을 결합한 차세대 국방 기술 개발 경쟁에서 유리한 기반을 확보하게 됐다.영국 정부는 24일(현지시간) 앤디 번햄 영국 총리와 볼로디미르 젤렌스키 우크라이나 대통령이 키이우에서 국방·안보 AI 공동 개발을 위한 협력 협정을 체결했다고 밝혔다.이번 협정에 따라 영국 연구진과 기술 기업들은 우",
-   "publishedAt": 1787639924000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-   "url": "https://annas-archive.gl/blog/physical-destruction.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49383026",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 643,
-   "comments": 912,
-   "publishedAt": 1787279867000,
-   "isAI": true,
-   "score": 32.5,
-   "hot": false,
-   "lastWeekRank": 21
-  },
-  {
-   "title": "순천, 9월 소·염소 2만3400마리 구제역 백신 일제 접종",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214342",
-   "summary": "AI 생성 영상순천시가 구제역 등 가축전염병의 선제 차단을 위해 오는 9월1일부터 한 달간 소와 염소를 대상으로 구제역 백신 일제 접종을 실시한다고 25일 밝혔다.접종 대상은 소 1만8500여 마리와 염소 4900여 마리 등 모두 2만3400여 마리다.이번 접종에는 국내에서 사용 중인 2가 상시 백신(O+A형)을 사용한다. 예방접종 후 4주가 지나지 않은 개체와 임신 말기 소는 농가 신청에 따라 접종을 유예할 수 있다.사육 규모에 따라 접종 방식도 나뉜다. 소 100두 이상 또는 염소 300두 이상을 사육하는 대규모 전업농가는 자가",
-   "publishedAt": 1787638514000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "목포, 추석 맞아 목포사랑상품권 확대…최대 15% 혜택",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214289",
-   "summary": "AI 생성 영상목포시가 추석 명절을 앞두고 지역 내 소비를 끌어올리기 위해 9월 한 달간 목포사랑상품권 발행 규모와 구매 한도, 할인 혜택을 대폭 확대한다. 목포는 9월 목포사랑상품권 발행액을 기존 월 13억원에서 65억원으로 5배 확대한다고 25일 밝혔다.1인당 월 구매 한도도 기존 30만원에서 50만원으로 상향한다. 상품권 유형별로는 카드형 구매 한도를 월 20만원에서 40만원으로 늘리고, 지류형과 모바일형은 통합 월 10만원으로 유지한다.할인 혜택도 확대된다. 상품권 구매 시 기존 10% 즉시 할인에 더해, 사용 금액의 5%를",
-   "publishedAt": 1787638489000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "여수, ‘스포노믹스’로 전지훈련 메카 도약…상반기 경제효과 69억원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214337",
-   "summary": "AI 생성 영상여수시가 스포츠와 지역경제를 결합한 ‘스포노믹스(Sponomics)’ 전략을 앞세워 전국 최고 수준의 전지훈련지로 자리매김하고 있다고 25일 밝혔다. 여수는 지난해 전라남도 22개 시·군 전지훈련 유치 실적 평가에서 야구·요트·축구·럭비 등 18개 종목, 170여 개 팀, 연인원 8만여 명을 유치해 약 89억 원의 경제유발효과를 낸 것으로 집계됐다고 25일 밝혔다. 이 같은 실적을 바탕으로 여수는 7년 연속 우수기관에 선정됐다.올해도 전지훈련 유치 흐름은 이어지고 있다. 여수에 따르면 올해 초 상동고 야구팀을 시작으로",
-   "publishedAt": 1787638420000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1292,9 +1249,24 @@
    "comments": 155,
    "publishedAt": 1787308436000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.3,
    "hot": false,
    "lastWeekRank": 14
+  },
+  {
+   "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+   "url": "https://annas-archive.gl/blog/physical-destruction.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49383026",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 644,
+   "comments": 912,
+   "publishedAt": 1787279867000,
+   "isAI": true,
+   "score": 32.3,
+   "hot": false,
+   "lastWeekRank": 21
   },
   {
    "title": "Don't paste the AI, please",
@@ -1307,9 +1279,52 @@
    "comments": 581,
    "publishedAt": 1787214044000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.3,
    "hot": false,
    "lastWeekRank": 30
+  },
+  {
+   "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214341",
+   "summary": "중국 전기차 업체 샤오펑(XPeng)의 휴머노이드 로봇 자회사 도고틱스(Dogotix)가 첫 외부 투자 유치에서 9억달러(약 1조2000억원) 이상의 자금을 확보하며 중국 피지컬 AI·휴머노이드 로봇 산업 사상 최대 규모의 비상장 기업 단일 투자 기록을 세웠다. 샤오펑은 24일(현지시간) 도고틱스가 IDG캐피털이 주도한 투자 라운드에서 9억달러 이상의 자금을 조달했다고 밝혔다.이번 투자에는 전략적 투자자로 텐센트와 알리바바가 참여했으며, 고룽벤처스도 투자자로 이름을 올렸다. 투자 후 도고틱스의 기업 가치는 63억달러(약 8조7000",
+   "publishedAt": 1787640605000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "영국, 우크라이나 전장 AI 빅데이터 확보...국방·안보 AI 공동 개발 착수",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214335",
+   "summary": "영국이 우크라이나의 실제 전장에서 축적된 방대한 데이터를 활용해 국방·안보 분야의 AI 기술을 공동 개발하는 프로젝트에 착수한다. 영국은 우크라이나가 전쟁 과정에서 확보한 고품질 전장 데이터에 접근하는 첫 해외 국가가 되면서, 실전 경험과 AI 기술을 결합한 차세대 국방 기술 개발 경쟁에서 유리한 기반을 확보하게 됐다.영국 정부는 24일(현지시간) 앤디 번햄 영국 총리와 볼로디미르 젤렌스키 우크라이나 대통령이 키이우에서 국방·안보 AI 공동 개발을 위한 협력 협정을 체결했다고 밝혔다.이번 협정에 따라 영국 연구진과 기술 기업들은 우",
+   "publishedAt": 1787639924000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+   "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49379550",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1692,
+   "comments": 397,
+   "publishedAt": 1787256446000,
+   "isAI": false,
+   "score": 32.1,
+   "hot": false,
+   "lastWeekRank": 23
   },
   {
    "title": "Hugging Face reportedly in talks to be acquired for $13B",
@@ -1322,7 +1337,49 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
+   "hot": false
+  },
+  {
+   "title": "순천, 9월 소·염소 2만3400마리 구제역 백신 일제 접종",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214342",
+   "summary": "AI 생성 영상순천시가 구제역 등 가축전염병의 선제 차단을 위해 오는 9월1일부터 한 달간 소와 염소를 대상으로 구제역 백신 일제 접종을 실시한다고 25일 밝혔다.접종 대상은 소 1만8500여 마리와 염소 4900여 마리 등 모두 2만3400여 마리다.이번 접종에는 국내에서 사용 중인 2가 상시 백신(O+A형)을 사용한다. 예방접종 후 4주가 지나지 않은 개체와 임신 말기 소는 농가 신청에 따라 접종을 유예할 수 있다.사육 규모에 따라 접종 방식도 나뉜다. 소 100두 이상 또는 염소 300두 이상을 사육하는 대규모 전업농가는 자가",
+   "publishedAt": 1787638514000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.1,
+   "hot": false
+  },
+  {
+   "title": "목포, 추석 맞아 목포사랑상품권 확대…최대 15% 혜택",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214289",
+   "summary": "AI 생성 영상목포시가 추석 명절을 앞두고 지역 내 소비를 끌어올리기 위해 9월 한 달간 목포사랑상품권 발행 규모와 구매 한도, 할인 혜택을 대폭 확대한다. 목포는 9월 목포사랑상품권 발행액을 기존 월 13억원에서 65억원으로 5배 확대한다고 25일 밝혔다.1인당 월 구매 한도도 기존 30만원에서 50만원으로 상향한다. 상품권 유형별로는 카드형 구매 한도를 월 20만원에서 40만원으로 늘리고, 지류형과 모바일형은 통합 월 10만원으로 유지한다.할인 혜택도 확대된다. 상품권 구매 시 기존 10% 즉시 할인에 더해, 사용 금액의 5%를",
+   "publishedAt": 1787638489000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.1,
+   "hot": false
+  },
+  {
+   "title": "여수, ‘스포노믹스’로 전지훈련 메카 도약…상반기 경제효과 69억원",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214337",
+   "summary": "AI 생성 영상여수시가 스포츠와 지역경제를 결합한 ‘스포노믹스(Sponomics)’ 전략을 앞세워 전국 최고 수준의 전지훈련지로 자리매김하고 있다고 25일 밝혔다. 여수는 지난해 전라남도 22개 시·군 전지훈련 유치 실적 평가에서 야구·요트·축구·럭비 등 18개 종목, 170여 개 팀, 연인원 8만여 명을 유치해 약 89억 원의 경제유발효과를 낸 것으로 집계됐다고 25일 밝혔다. 이 같은 실적을 바탕으로 여수는 7년 연속 우수기관에 선정됐다.올해도 전지훈련 유치 흐름은 이어지고 있다. 여수에 따르면 올해 초 상동고 야구팀을 시작으로",
+   "publishedAt": 1787638420000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1336,7 +1393,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1350,66 +1407,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.3,
+   "score": 32,
    "hot": false
-  },
-  {
-   "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-   "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49379550",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1691,
-   "comments": 397,
-   "publishedAt": 1787256446000,
-   "isAI": false,
-   "score": 32.2,
-   "hot": false,
-   "lastWeekRank": 23
-  },
-  {
-   "title": "내가 좋아하는 컴퓨터 과학 책과 그 이유",
-   "url": "https://news.hada.io/topic?id=32838",
-   "summary": "알고리듬을 깊이 탐구하는 The Art of Computer Programming 과 명확한 설명·예제를 앞세운 Algorithms, 4th Edition 은 서로 다른 방식으로 학습의 토대를 제공함 The Practice of Programming 은 프로그래밍 규칙과 언어 선택의 통찰을 전하고,",
-   "publishedAt": 1787558510000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "중국 초저예산 애니, '옥스 알파' 밈 타고 글로벌 테크 이슈로 급부상",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214340",
-   "summary": "중국 극장가에서 조악한 그래픽의 저예산 애니메이션 영화 '뉴라이(Niu Lai)'가 예상을 깨고 이례적인 역주행 흥행 돌풍을 일으키고 있다. 특히 흥행 여파가 최근 글로벌 AI 업계의 뜨거운 감자로 떠오른 정체불명의 모델 '옥스 알파(Ox Alpha)' 연계설로까지 확대되고 있다.블룸버그에 따르면, 이 영화는 AI 기술이 생성한 정교하고 세련된 콘텐츠가 범람하는 시대에 역설적으로 사람이 직접 만든 '100% 수작업 초저예산 영화'라는 점이 알려지며 대중의 호기심을 극대화했다.독학으로 영화를 배운 신위멍 감독과 그의 60대 어머니 쑨",
-   "publishedAt": 1787636257000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "There's no reason for software to be slow anymore",
-   "url": "https://danluu.com/perf-opt/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49395628",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 659,
-   "comments": 494,
-   "publishedAt": 1787360777000,
-   "isAI": false,
-   "score": 32.1,
-   "hot": false,
-   "lastWeekRank": 8
   }
  ]
 }
