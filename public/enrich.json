@@ -2263,5 +2263,85 @@
  "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India": {
   "ko": "OpenAI, 인도서 ChatGPT 무료·Go 요금제에 광고 도입",
   "tldr": "OpenAI가 주간 활성 이용자 1억 명이 넘는 인도 시장에서 ChatGPT 무료 및 Go 요금제에 광고를 도입한다."
+ },
+ "CEO가 AI를 위해 개발팀을 해고하자, 개발자들은 오픈소스 AI CEO를 만들었다": {
+  "img": null,
+  "hook": "AI에 잘린 개발자들의 반격",
+  "tldr": "AI 도입으로 해고된 개발팀이 스타트업을 차려, AI가 CEO 업무까지 대신할 수 있다는 오픈소스 프로젝트 'Open Executive'를 공개했다.",
+  "detail": "AI 도입 과정에서 해고당한 개발팀이 그 경험을 바탕으로 스타트업을 창업하고, AI 경영진 시스템 'Open Executive'를 오픈소스로 공개했다. 이들은 'AI가 개발을 바꿀 수 있다면 경영도 바꿀 수 있다'는 문제의식에서 출발한 것으로 보인다. Open Executive는 한 명의 만능 CEO를 구현한 것이 아니라, 전략·재무·인사·법무·운영·마케팅·제품·이사회 업무를 각각의 AI 에이전트가 나눠 맡는 구조다. 방송 전 체크: 해고된 원 소속 회사명, 창업 시점, 실제 도입 사례 여부는 원문에서 추가 확인이 필요하다.",
+  "bullets": [
+   "AI 도입 과정에서 개발팀이 해고된 뒤, 해당 개발자들이 직접 스타트업을 창업한 것으로 보임",
+   "'AI가 개발을 바꿀 수 있다면 경영도 바꿀 수 있다'는 문제의식에서 Open Executive를 오픈소스로 공개함",
+   "실제로 한 명의 만능 CEO를 구현한 것이 아니라 전략·재무·인사·법무·운영·마케팅·제품·이사회 업무를 나눠 맡는 구조로 보임"
+  ]
+ },
+ "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training": {
+  "img": null,
+  "ko": "ChatGPT와 비판적 사고 훈련, 대학생 1,000명에게 실험해보니",
+  "hook": "ChatGPT 쓰면 대학생 실력이 진짜 늘까",
+  "tldr": "OpenAI가 대학생 1,000명 이상을 대상으로 실제 과제에서 ChatGPT 사용과 비판적 사고 훈련이 성과·독창성에 미치는 영향을 무작위 대조 실험으로 확인했다.",
+  "detail": "OpenAI가 대학생 1,000명 이상을 대상으로 실제 대학 과제를 활용해 ChatGPT 사용과 비판적 사고 훈련이 학업 성과와 독창성에 미치는 영향을 무작위 대조 실험으로 조사한 결과를 발표했다. 요약문에는 실험 설계가 무작위 배정 방식이며 실제 과제를 사용했다는 점만 언급되어 있고, 구체적인 결과 수치나 결론은 제시되지 않았다. 제목의 'Better answers, broader thinking'이라는 표현으로 미루어 ChatGPT와 비판적 사고 훈련을 함께 활용했을 때 긍정적 효과가 있었을 가능성이 있으나, 이는 추정이며 원문 확인이 필요하다. 방송에서는 실제 연구 결과 수치와 방법론 세부사항을 원문 블로그에서 추가로 확인해 전달해야 한다.",
+  "bullets": [
+   "1,000명 이상을 대상으로 한 무작위 대조 실험(RCT)이라 결과의 신뢰도를 높이려 한 연구로 보임",
+   "ChatGPT 사용 여부와 비판적 사고 훈련 여부를 함께 비교해 상호작용을 살펴본 설계로 보임",
+   "방송 전 체크: 실제 성적·독창성 개선 폭과 구체적 수치, 연구 대상 학교·과목 확인 필요"
+  ]
+ },
+ "Show HN: The load-bearing vocabulary of Claude": {
+  "img": null,
+  "ko": "쇼 HN: 클로드를 지탱하는 '진짜 핵심 어휘'들",
+  "hook": "클로드를 지탱하는 '보이지 않는 단어'들",
+  "tldr": "Claude의 동작을 사실상 떠받치고 있는, 빼면 문제가 생기는 핵심 어휘·표현들을 정리한 Show HN 게시물이다.",
+  "detail": "이 게시물은 Claude의 동작에서 빼면 문제가 생기는, 즉 '구조를 떠받치는(load-bearing)' 핵심 어휘들을 정리해 소개한 Show HN 글이다. 제목만으로 볼 때 시스템 프롬프트나 모델 학습 과정에서 특정 단어·표현이 실제로 결과물의 품질이나 동작에 중요한 영향을 미친다는 문제의식에서 출발한 것으로 보인다. 다만 요약이나 본문 내용이 제공되지 않아 구체적으로 어떤 단어들이 다뤄지는지, 어떤 근거로 '핵심'이라 판단했는지는 확인되지 않는다. 방송에서는 원문 게시물과 HN 댓글 반응을 직접 확인한 뒤 구체적 사례를 전달하는 것이 안전하다.",
+  "bullets": [
+   "Claude의 응답 방식을 좌우하는 특정 단어·표현들을 모아 소개한 글로 보임",
+   "'load-bearing'(구조를 떠받치는)이라는 표현으로 미루어, 제거 시 동작이 무너지는 표현들을 다룬 것으로 보임",
+   "방송 전 체크: 실제 게시물에서 언급된 구체적 단어·사례와 반응(댓글) 확인 필요"
+  ]
+ },
+ "3 new ways to plan and book travel in Search": {
+  "img": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.width-1300.png",
+  "ko": "구글 검색 AI 모드, 여행 예약 기능 3가지 새로 추가",
+  "hook": "구글 검색이 여행사가 된 이유",
+  "tldr": "구글이 검색의 AI Mode에 항공권 가격 추적, 포인트·마일리지 조회, 호텔 예약 기능을 추가해 여행 플래닝부터 예약까지 지원하도록 확장했다.",
+  "detail": "구글이 검색의 AI Mode에 항공권 가격 추적, 포인트·마일리지 조회, 호텔 예약 기능을 새롭게 추가했다. 이번 업데이트는 구글 서치의 제임스 바이어스(James Byers) 그룹 프로덕트 매니저가 2026년 8월 27일 공식 블로그를 통해 발표했다. 기존에도 AI Mode는 항공권·호텔 실시간 비교와 웹 전반의 추천, 여행 일정 짜기 기능을 제공해왔다. 이번 업그레이드로 사용자는 관심 항공권의 가격 변동을 추적하고, 보유한 포인트나 마일리지로 얼마나 예약 가능한지 확인할 수 있게 됐다. 또한 마음에 드는 호텔을 검색 결과 내에서 바로 예약까지 진행할 수 있다. 구글은 이를 통해 AI Mode를 단순 정보 검색 도구를 넘어 여행 예약까지 처리하는 방향으로 확장하려는 것으로 보인다.",
+  "bullets": [
+   "AI Mode에서 관심 항공권의 실시간 가격 변동을 추적하고 알림을 받을 수 있게 됨",
+   "보유한 포인트·마일리지로 얼마나 예약 가능한지 조회하고, 검색 결과에서 바로 호텔 예약까지 진행 가능",
+   "구글이 검색을 단순 정보 제공에서 여행 예약 대행 쪽으로 넓히려는 흐름으로 보임"
+  ]
+ },
+ "Motorola의 GrapheneOS 스마트폰, Pixel보다 비싼 가격으로 2027년 출시": {
+  "tldr": "Motorola가 GrapheneOS와 손잡고 Pixel보다 비싼 프리미엄 플래그십에 2027년부터 공식 지원을 확대한다."
+ },
+ "Amazon Mechanical Turk, 2026년 9월 30일 서비스 종료": {
+  "tldr": "아마존이 크라우드소싱 플랫폼 Mechanical Turk를 2026년 9월 30일부로 영구 종료한다."
+ },
+ "메타, SNS 중독 관련 최대 25조원 배상 합의": {
+  "tldr": "메타가 청소년 SNS 중독 유도·은폐 혐의로 미국 주정부들과 최대 약 25조원 규모의 배상에 합의했다."
+ },
+ "mold - 대규모 병렬 링커": {
+  "tldr": "mold는 대형 C++ 프로그램의 링크 병목을 줄이기 위해 파싱부터 심볼 해석까지 전 과정을 병렬화한 프로덕션급 링커다."
+ },
+ "Google’s AI Mode can now track flight prices, help book hotels, and more": {
+  "ko": "구글 AI 모드, 이제 항공권 가격 추적부터 호텔 예약까지"
+ },
+ "Hugging Face is selling a cute $399 open source duck robot, Microduck": {
+  "ko": "허깅페이스, 399달러짜리 오픈소스 오리 로봇 '마이크로덕' 출시"
+ },
+ "AI’s memory crunch is coming for Android apps": {
+  "ko": "AI발 메모리 품귀, 이제 안드로이드 앱까지 덮친다"
+ },
+ "Here’s all the times AI has gone rogue and hacked other companies": {
+  "ko": "AI가 폭주해 다른 기업을 해킹한 사례들 총정리"
+ },
+ "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents": {
+  "ko": "플라우드, AI 에이전트와 대화하는 eSIM 이어폰 케이스 공개"
+ },
+ "NVIDIA buying HF isn't a good thing for open source": {
+  "ko": "엔비디아의 허깅페이스 인수, 오픈소스엔 악재다"
+ },
+ "Jensen Huang says Nvidia achieved AGI, again — not that it matters": {
+  "ko": "젠슨 황 '엔비디아, AGI 또 달성'…근데 그게 뭐?"
  }
 }
