@@ -2042,7 +2042,8 @@
   ]
  },
  "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)": {
-  "ko": "액티나이드, 스타트업 최초로 고순도저농축우라늄(HALEU) 생산 성공"
+  "ko": "액티나이드, 스타트업 최초로 고순도저농축우라늄(HALEU) 생산 성공",
+  "tldr": "스타트업 Actinide가 세계 최초로 고순도저농축우라늄(HALEU)을 생산한 스타트업이 됐다는 소식."
  },
  "분노, 불안, 그리고 주체성": {
   "tldr": "AI가 불러온 불확실성 속에서 불안은 자연스럽지만, 특정 대상을 탓하는 분노는 상황 개선에 별 도움이 되지 않는다는 이야기다."
@@ -2153,5 +2154,32 @@
  "Robot brain builders are pushing out of their GPT-2 era": {
   "ko": "로봇 '두뇌' 개발자들, 이제 GPT-2 시대를 벗어난다",
   "tldr": "로봇 하드웨어는 이미 준비돼 있지만, 이를 제어할 AI '두뇌'가 아직 따라잡지 못하고 있다는 이야기다."
+ },
+ "Nvidia, Hugging Face 19.5조원 규모 인수 협상": {
+  "img": null,
+  "hook": "엔비디아, 허깅페이스 19조 인수설",
+  "tldr": "Nvidia가 Hugging Face를 기업가치 130억 달러 이상으로 인수하는 방안을 논의 중이나 아직 합의에 이르지 못했다.",
+  "detail": "결론: Nvidia가 Hugging Face를 기업가치 130억 달러(약 19.5조원) 이상으로 인수하는 방안을 논의 중이나 아직 합의에는 이르지 못했다. 양측 협상은 현재 진행형이며 결렬될 가능성도 있는 것으로 전해진다. Nvidia는 이번 회계연도 남은 기간 동안 비상장 기업 지분 투자에 180억 달러를 이미 약정해둔 상태다. 여기에 더해 기존에 보유한 비상장 기업 지분 가치만 479억 달러에 달해, Nvidia의 공격적인 스타트업 투자 기조가 이어지고 있음을 보여준다. 방송 전 체크: 인수 협상의 최신 진행 상황과 실제 타결 여부는 방송 직전 재확인이 필요함.",
+  "bullets": [
+   "Nvidia는 Hugging Face 인수를 기업가치 130억 달러 이상을 전제로 논의 중이나 아직 최종 합의에는 이르지 못한 것으로 보임.",
+   "Nvidia는 이번 회계연도 남은 기간 비상장 기업 지분 투자에 180억 달러를 약정했고, 이미 479억 달러 규모의 비상장 지분을 보유 중인 것으로 보임.",
+   "방송 전 체크: 협상이 결렬될 가능성도 언급된 만큼, 방송 직전 타결 여부와 최신 진행 상황을 재확인 필요."
+  ]
+ },
+ "CEO fired developers to make room for AI. Developers create open source AI CEO": {
+  "img": "https://opengraph.githubassets.com/28c6225c53aaa01ae784a222ed5e17eea27f2a6a92c1ad5f26bec101f4eda976/SenteLabsAI/OpenExecutive",
+  "ko": "AI 위해 개발자 해고한 CEO에 맞서, 개발자들이 오픈소스 'AI CEO' 만들었다",
+  "hook": "해고된 개발자들이 만든 AI CEO",
+  "tldr": "AI 도입을 이유로 해고당한 개발자들이 8개의 전문 AI 에이전트로 구성된 오픈소스 가상 임원진 툴 'Open Executive'를 직접 만들어 공개했다.",
+  "detail": "결론: 개발자들이 AI로 인한 해고 이슈에 대응해, 회사의 가상 임원진 역할을 하는 오픈소스 도구 'Open Executive'를 공개했다. SenteLabsAI가 개발한 이 프로젝트는 FastAPI와 Next.js로 구현됐으며, 사용자에게는 하나의 일관된 '임원' 인격으로 보이지만 내부적으로는 CSO, CFO, CHRO, General Counsel, COO, CMO, CPO, Board Communications Director 등 8개 전문 Claude 에이전트가 답변을 만든다. claude-sonnet-4-6 기반 오케스트레이터가 사용자 메시지를 받아 필요한 전문가를 병렬로 호출하는 구조다. 각 전문가는 ChromaDB에 사전 저장된 MBA 수준의 내장 지식과, 별도 컬렉션에 저장된 사용자 회사 문서 두 계층에서 컨텍스트를 가져와 답변에 반영한다. 응답이 끝나면 백그라운드에서 claude-haiku-4-5가 주요 결정과 조치 사항을 추출해 SQLite에 기록하고, 다음 세션은 이전 결정 목록을 불러오며 시작된다. 즉 내부 에이전트 구조는 사용자에게 노출되지 않고, 마치 한 명의 임원과 대화하는 것처럼 경험이 설계되어 있다. 방송 전 체크: 실제로 'CEO가 개발자를 해고했다'는 구체적 사건의 사실 여부는 기사 본문에서 확인되지 않으며 제목에서만 언급됨.",
+  "bullets": [
+   "Open Executive는 claude-sonnet-4-6 기반 오케스트레이터가 CSO·CFO·CHRO·법무·COO·CMO·CPO·이사회 커뮤니케이션 등 8개 전문 Claude 에이전트를 병렬 호출해 하나의 일관된 임원 목소리로 답하는 구조임.",
+   "각 전문 에이전트는 ChromaDB에 저장된 내장 MBA 수준 지식과 사용자가 업로드한 회사 문서를 함께 참조하며, claude-haiku-4-5가 응답 후 주요 결정을 SQLite에 기록해 다음 세션에서 과거 맥락을 이어감.",
+   "방송 전 체크: 'CEO가 AI 도입을 위해 개발자를 해고했다'는 배경 사건이 실제 있었던 일인지, 프로젝트명 자체가 풍자적 대응으로 붙여진 것인지 확인 필요."
+  ]
+ },
+ "Asahi Linux Progress Report: Linux 7.2": {
+  "ko": "Asahi Linux 진행 상황 보고서, 리눅스 7.2 소식",
+  "tldr": "Asahi Linux 프로젝트가 애플 실리콘 지원 관련 리눅스 7.2 진행 상황을 공개한 것으로 보임."
  }
 }
