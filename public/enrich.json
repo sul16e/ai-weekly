@@ -2865,7 +2865,8 @@
   "tldr": "LLM 코딩 에이전트가 코드 작성을 값싸게 만들면서 오픈소스 생태계가 공유 기반에서 개인·기업별로 분화된 소프트웨어 환경으로 옮겨갈 수 있다는 전망을 담은 글이다."
  },
  "I used AWS cognito for a startup. I wouldn't do it again": {
-  "ko": "스타트업에 AWS Cognito 써봤는데, 다시는 안 씁니다"
+  "ko": "스타트업에 AWS Cognito 써봤는데, 다시는 안 씁니다",
+  "tldr": "스타트업에 AWS Cognito를 도입했던 개발자가 인증 시스템 구축 시 겪은 문제들을 들며 다시는 선택하지 않겠다고 밝힌 후기."
  },
  "Show GN: Mycelium - AI 코딩 에이전트 세션을 정리하고 재사용하는 TUI": {
   "tldr": "Claude Code 같은 AI 코딩 에이전트의 과거 세션을 프로젝트별로 정리하고 맥락을 이어 재사용할 수 있게 돕는 TUI 도구 Mycelium을 소개한다."
@@ -2877,7 +2878,8 @@
   "tldr": "syncular는 각 클라이언트에 실제 SQLite DB를 두고 서버의 순서 보장 커밋 로그와 동기화해, 네트워크 요청 없이 로컬에서 오프라인 우선으로 동작하는 데이터 동기화 엔진이다."
  },
  "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows": {
-  "ko": "Terminal-Bench-Science, AI 에이전트의 과학 연구 수행 능력을 평가하다"
+  "ko": "Terminal-Bench-Science, AI 에이전트의 과학 연구 수행 능력을 평가하다",
+  "tldr": "AI 에이전트가 실제 과학 연구 워크플로우를 얼마나 잘 수행하는지 측정하는 새로운 벤치마크 'Terminal-Bench-Science'가 공개됨."
  },
  "EasyEffects를 모든 Linux 배포판에 포함해 노트북 스피커 음질을 개선해야 함": {
   "tldr": "작은 노트북 스피커의 물리적 한계는 있지만, Linux의 EasyEffects로 이퀄라이저·압축기 등을 적용하면 음질을 크게 개선할 수 있다."
@@ -2892,10 +2894,12 @@
   "tldr": "X Corp.가 2026년 8월 24일 광고·JavaScript 없는 무료 오픈소스 트위터 뷰어 Nitter와 XCancel에 중단 요구서를 보내 프로젝트가 폐쇄됐다."
  },
  "Verschlimmbesserung: The Word Your Software Updates Need": {
-  "ko": "소프트웨어 업데이트에 필요한 단어, 'Verschlimmbesserung'"
+  "ko": "소프트웨어 업데이트에 필요한 단어, 'Verschlimmbesserung'",
+  "tldr": "'개선하려다 오히려 악화시킨다'는 뜻의 독일어 단어 'Verschlimmbesserung'을 빌려, 최근 소프트웨어 업데이트들의 문제를 짚는 글."
  },
  "The Twelve-Factor App (2025)": {
-  "ko": "12 팩터 앱, 2025년 버전으로 돌아오다"
+  "ko": "12 팩터 앱, 2025년 버전으로 돌아오다",
+  "tldr": "클라우드 네이티브 앱 설계 원칙인 '12요소 앱' 가이드가 2025년 기준으로 개정됨."
  },
  "Orbify - 《인셉션》처럼 앞쪽 도로를 접어 보여주는 곡면 내비게이션 데모": {
   "tldr": "영화 《인셉션》처럼 차량 앞쪽 도로와 지형을 곡면으로 접어 보여줘, 내비게이션에서 끊기는 공간감과 방향감각 문제를 해결하려는 콘셉트 데모 Orbify를 소개한다."
@@ -2907,7 +2911,8 @@
   "tldr": "TUI가 키보드 중심이라는 이유만으로 GUI보다 우선될 이유는 없으며, GUI 프레임워크도 완전한 키보드 탐색을 지원할 수 있어야 한다는 주장을 담은 글이다."
  },
  "HTTPX2 – A next-generation HTTP client for Python": {
-  "ko": "차세대 파이썬 HTTP 클라이언트, HTTPX2 공개"
+  "ko": "차세대 파이썬 HTTP 클라이언트, HTTPX2 공개",
+  "tldr": "파이썬용 차세대 HTTP 클라이언트 라이브러리 'HTTPX2'가 공개됨."
  },
  "A/I Collective에 대한 미국의 제재": {
   "tldr": "2001년 설립된 디지털 권리 단체 Autistici/Inventati(A/I)의 홈페이지가 미국 제재 관련 공지로 연결되지만, 제재의 구체적 이유와 대상은 확인되지 않는다."
@@ -2922,24 +2927,29 @@
   "tldr": "Dartmouth의 Low Resource Computing 2026 워크숍에서 참가자들이 1974년 테이프로 복구된 가장 오래된 UNIX 스냅샷인 UNIX V4를 한 시스템에서 함께 실습했다."
  },
  "Neocloud Lambda secures $1B in debt to buy more chips": {
-  "ko": "네오클라우드 Lambda, 칩 구매 위해 부채로 1조원 조달"
+  "ko": "네오클라우드 Lambda, 칩 구매 위해 부채로 1조원 조달",
+  "tldr": "AI 클라우드 기업 Lambda가 엔비디아 칩을 사들여 마이크로소프트에 임대하기 위해 부채로 10억 달러를 조달함."
  },
  "“앱에서 더 잘 된다면서요?” - 그런데 왜 다시 웹으로 보내죠?": {
   "tldr": "최신 Pixel과 최신 Android, 최신 캘린더 앱에서도 캘린더 링크 구독이 안 돼, 결국 데스크톱 모드 웹브라우저로 우회해야 했다는 저자의 경험담이다."
  },
  "An Anthropic researcher just gave us a peek at self-improving AI": {
-  "ko": "Anthropic 연구원이 공개한 '자기 개선형 AI'의 실체"
+  "ko": "Anthropic 연구원이 공개한 '자기 개선형 AI'의 실체",
+  "tldr": "Anthropic 연구원이 공개한 실험에서, 자동화 시스템이 여러 오정렬 행동 벤치마크 전반의 성능을 전체 저하 없이 스스로 개선하는 모습을 보임."
  },
  "CoMaps: 베네수엘라에서 통신 없이 구조대를 안내한 오프라인 지도": {
   "tldr": "베네수엘라 지진 현장에서 통신이 끊기자 구조대가 OpenStreetMap 기반 오프라인 지도 앱 CoMaps로 목적지를 찾고 원격 지휘소의 지시를 수행했다."
  },
  "Open-weight AI companies are the Valley’s hottest acquisition targets": {
-  "ko": "오픈웨이트 AI 기업, 실리콘밸리 최고의 인수 타깃 되다"
+  "ko": "오픈웨이트 AI 기업, 실리콘밸리 최고의 인수 타깃 되다",
+  "tldr": "모델을 무료로 공개하는 오픈웨이트 AI 기업들에 실리콘밸리 자본이 몰리며 이들이 인수 표적으로 떠오르고 있음."
  },
  "Select * from Internet.blogposts": {
-  "ko": "인터넷 블로그 글 전체를 SQL로 조회한다면"
+  "ko": "인터넷 블로그 글 전체를 SQL로 조회한다면",
+  "tldr": "SQL 쿼리 문법에 빗대어 인터넷 블로그 글들의 특성이나 문제를 풍자적으로 다룬 글."
  },
  "Anthropic gets its first court win over the Pentagon’s supply-chain risk label": {
-  "ko": "Anthropic, 국방부 공급망 위험 딱지 소송에서 첫 승소"
+  "ko": "Anthropic, 국방부 공급망 위험 딱지 소송에서 첫 승소",
+  "tldr": "연방 판사가 트럼프 행정부의 Anthropic '공급망 리스크' 지정이 위법하다고 판결하며 Anthropic이 첫 승소를 거둠."
  }
 }
