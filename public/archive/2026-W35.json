@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788066930239,
+ "updatedAt": 1788070593100,
  "week": "2026-W35",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 475,
-   "comments": 444,
+   "engagement": 477,
+   "comments": 445,
    "publishedAt": 1788012130000,
    "isAI": true,
-   "score": 57.2,
+   "score": 56.6,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 313,
-   "comments": 73,
+   "engagement": 331,
+   "comments": 78,
    "publishedAt": 1788023987000,
    "isAI": true,
-   "score": 55.6,
+   "score": 55.5,
    "hot": true
   },
   {
@@ -37,11 +37,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 406,
-   "comments": 278,
+   "engagement": 408,
+   "comments": 282,
    "publishedAt": 1788028856000,
    "isAI": false,
-   "score": 51.4,
+   "score": 50.9,
+   "hot": true
+  },
+  {
+   "title": "Debian과 세이렌",
+   "url": "https://news.hada.io/topic?id=33028",
+   "summary": "Debian은 개발 과정에서 LLM 사용을 허용 하기로 결정했지만, 18년간 프로젝트에 참여한 전 개발자는 누적된 복잡성을 근본적으로 제거하려는 동기가 약해질 수 있다고 우려함 debhelper 는 길고 복잡한 debian/rules 상용구를 dh_ 명령으...",
+   "publishedAt": 1788069666000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
    "hot": true
   },
   {
@@ -55,7 +69,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.4,
    "hot": true
   },
   {
@@ -65,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 807,
-   "comments": 494,
+   "engagement": 809,
+   "comments": 497,
    "publishedAt": 1787968073000,
    "isAI": false,
-   "score": 48.7,
+   "score": 48.3,
    "hot": false
   },
   {
@@ -83,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -97,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -111,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -121,12 +135,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 278,
-   "comments": 148,
+   "engagement": 281,
+   "comments": 149,
    "publishedAt": 1788017188000,
    "isAI": false,
-   "score": 46.6,
+   "score": 46.2,
    "hot": true
+  },
+  {
+   "title": "I accidentally turned LLM memory into program analysis",
+   "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49485416",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 284,
+   "comments": 76,
+   "publishedAt": 1787959665000,
+   "isAI": true,
+   "score": 45.8,
+   "hot": false
   },
   {
    "title": "가짜 고양이 표준 cats.txt가 드러낸 llms.txt와 GEO의 허술한 근거",
@@ -139,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.8,
    "hot": true
   },
   {
@@ -150,25 +178,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 326,
-   "comments": 428,
+   "comments": 429,
    "publishedAt": 1788003578000,
    "isAI": false,
-   "score": 46.2,
+   "score": 45.7,
    "hot": true
-  },
-  {
-   "title": "I accidentally turned LLM memory into program analysis",
-   "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49485416",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 283,
-   "comments": 76,
-   "publishedAt": 1787959665000,
-   "isAI": true,
-   "score": 46.2,
-   "hot": false
   },
   {
    "title": "LLM 메모리를 만들다 우연히 프로그램 분석 엔진이 된 이야기",
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -191,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 213,
-   "comments": 59,
+   "engagement": 215,
+   "comments": 60,
    "publishedAt": 1787966653000,
    "isAI": true,
-   "score": 45,
+   "score": 44.6,
    "hot": false
   },
   {
@@ -209,8 +223,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.2,
-   "hot": true
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
@@ -219,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 516,
+   "engagement": 517,
    "comments": 151,
    "publishedAt": 1787898837000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -233,11 +247,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 614,
-   "comments": 423,
+   "engagement": 616,
+   "comments": 422,
    "publishedAt": 1787882618000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -251,7 +265,7 @@
    "comments": 325,
    "publishedAt": 1787924560000,
    "isAI": false,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -261,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1966,
-   "comments": 905,
+   "engagement": 1967,
+   "comments": 906,
    "publishedAt": 1787793175000,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -279,21 +293,7 @@
    "comments": 3,
    "publishedAt": 1787916330000,
    "isAI": true,
-   "score": 42.6,
-   "hot": false
-  },
-  {
-   "title": "“It works better in the app”",
-   "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49477600",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 690,
-   "comments": 469,
-   "publishedAt": 1787920336000,
-   "isAI": false,
-   "score": 42.5,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -304,10 +304,38 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 394,
-   "comments": 104,
+   "comments": 106,
    "publishedAt": 1787958141000,
    "isAI": false,
-   "score": 42.4,
+   "score": 42.1,
+   "hot": false
+  },
+  {
+   "title": "“It works better in the app”",
+   "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49477600",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 692,
+   "comments": 473,
+   "publishedAt": 1787920336000,
+   "isAI": false,
+   "score": 42.1,
+   "hot": false
+  },
+  {
+   "title": "Samsung's Processing-in-Memory (PIM)",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49487341",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 255,
+   "comments": 97,
+   "publishedAt": 1787983611000,
+   "isAI": false,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -321,22 +349,8 @@
    "comments": 64,
    "publishedAt": 1788043877000,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.4,
    "hot": false
-  },
-  {
-   "title": "Samsung's Processing-in-Memory (PIM)",
-   "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49487341",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 253,
-   "comments": 97,
-   "publishedAt": 1787983611000,
-   "isAI": false,
-   "score": 41.9,
-   "hot": true
   },
   {
    "title": "GrapheneOS 프로젝트, Pixel 11의 하드웨어 메모리 태깅(MTE) 미지원으로 포팅 중단",
@@ -349,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -357,48 +371,6 @@
    "url": "https://news.hada.io/topic?id=33005",
    "summary": "OCaml cohttp 6.3.0 의 경로 순회 취약점 수정 PR을 공개하자 약 10분 만에 실제 서버로 같은 패턴의 탐색 요청이 들어왔으며, AI 에이전트는 대략적인 취약점 유형만으로 1분 안에 공격 코드를 생성함 에이전트가 상세 패치 없이도 취약점을 조사할 수 있어 기존 보안 엠바고...",
    "publishedAt": 1787988788000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.1,
-   "hot": false
-  },
-  {
-   "title": "DHS, 잘 알려지지 않은 세관법으로 언론인·비영리단체·노조 감시",
-   "url": "https://news.hada.io/topic?id=33022",
-   "summary": "미국 국토안보부(DHS)는 세관 수입 조사를 위한 19 USC 1509 행정소환 을 이용해 언론인·비영리단체·노조의 통신·계정·금융 정보를 법원 승인 없이 요구해 왔음 판사가 Georgia Fort와 Don Lemon의 YouTube 계정 수색영장을 두 차례 기각하자, DHS는 담당 관리의 승인만 필요한",
-   "publishedAt": 1788049951000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.9,
-   "hot": true
-  },
-  {
-   "title": "GeoLibre - Tauri 기반의 경량 클라우드 네이티브 데스크톱 GIS",
-   "url": "https://news.hada.io/topic?id=33021",
-   "summary": "Tauri/React/TypeScript/MapLibre GL JS/DuckDB-WASM Spatial 기반의 경량 클라우드 네이티브 데스크톱 GIS 프로토타입 OpenFreeMap Liberty 베이스맵의 MapLibre 지도 제공 로컬 벡터 레이어 로딩 : GeoJSON, GeoParquet, GeoPackage, Shapefile 지원",
-   "publishedAt": 1788049803000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.9,
-   "hot": true
-  },
-  {
-   "title": "SpaceX의 Cursor 인수 이후 OpenAI가 내린 결정",
-   "url": "https://news.hada.io/topic?id=33003",
-   "summary": "OpenAI는 SpaceX가 인수한 Cursor에 모델을 공급하는 계약 을 종료하기로 했으며, 서비스 차단 예정일은 2026년 11월 12일임 계약상 허용되는 최대 통지 기간을 적용해 개발자의 접근 시간을 확보하지만, 향후 출시 모델 은 Cursor에 제공하지 않음 Elon Mu...",
-   "publishedAt": 1787985105000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -416,10 +388,52 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 1023,
-   "comments": 712,
+   "comments": 713,
    "publishedAt": 1787795182000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.5,
+   "hot": false
+  },
+  {
+   "title": "DHS, 잘 알려지지 않은 세관법으로 언론인·비영리단체·노조 감시",
+   "url": "https://news.hada.io/topic?id=33022",
+   "summary": "미국 국토안보부(DHS)는 세관 수입 조사를 위한 19 USC 1509 행정소환 을 이용해 언론인·비영리단체·노조의 통신·계정·금융 정보를 법원 승인 없이 요구해 왔음 판사가 Georgia Fort와 Don Lemon의 YouTube 계정 수색영장을 두 차례 기각하자, DHS는 담당 관리의 승인만 필요한",
+   "publishedAt": 1788049951000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.5,
+   "hot": true
+  },
+  {
+   "title": "GeoLibre - Tauri 기반의 경량 클라우드 네이티브 데스크톱 GIS",
+   "url": "https://news.hada.io/topic?id=33021",
+   "summary": "Tauri/React/TypeScript/MapLibre GL JS/DuckDB-WASM Spatial 기반의 경량 클라우드 네이티브 데스크톱 GIS 프로토타입 OpenFreeMap Liberty 베이스맵의 MapLibre 지도 제공 로컬 벡터 레이어 로딩 : GeoJSON, GeoParquet, GeoPackage, Shapefile 지원",
+   "publishedAt": 1788049803000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.5,
+   "hot": true
+  },
+  {
+   "title": "SpaceX의 Cursor 인수 이후 OpenAI가 내린 결정",
+   "url": "https://news.hada.io/topic?id=33003",
+   "summary": "OpenAI는 SpaceX가 인수한 Cursor에 모델을 공급하는 계약 을 종료하기로 했으며, 서비스 차단 예정일은 2026년 11월 12일임 계약상 허용되는 최대 통지 기간을 적용해 개발자의 접근 시간을 확보하지만, 향후 출시 모델 은 Cursor에 제공하지 않음 Elon Mu...",
+   "publishedAt": 1787985105000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -433,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -443,11 +457,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 679,
+   "engagement": 681,
    "comments": 321,
    "publishedAt": 1787821189000,
    "isAI": true,
-   "score": 39.3,
+   "score": 39,
    "hot": false
   },
   {
@@ -461,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -475,7 +489,7 @@
    "comments": 127,
    "publishedAt": 1787853822000,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -489,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -503,7 +517,7 @@
    "comments": 40,
    "publishedAt": 1787936472000,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -513,11 +527,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 170,
-   "comments": 83,
+   "engagement": 171,
+   "comments": 84,
    "publishedAt": 1787970217000,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -531,7 +545,7 @@
    "comments": 143,
    "publishedAt": 1787888973000,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -545,7 +559,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
+   "hot": true
+  },
+  {
+   "title": "의료계가 항우울제 금단 관리법을 다시 배우기 시작함",
+   "url": "https://news.hada.io/topic?id=33012",
+   "summary": "장기간 SSRI를 복용한 뒤 감량하거나 중단할 때 나타나는 금단 증상이 기존 인식보다 흔하고 심각할 수 있어, 의료계가 중단 시점과 방법을 재검토하고 있음 Mark Horowitz는 escitalopram을 10년간 복용한 뒤 수개월 동안 신중히 감량했지만 공황 발작·극심한 공포·어지럼...",
+   "publishedAt": 1788028485000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -559,22 +587,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.2,
    "hot": false
-  },
-  {
-   "title": "의료계가 항우울제 금단 관리법을 다시 배우기 시작함",
-   "url": "https://news.hada.io/topic?id=33012",
-   "summary": "장기간 SSRI를 복용한 뒤 감량하거나 중단할 때 나타나는 금단 증상이 기존 인식보다 흔하고 심각할 수 있어, 의료계가 중단 시점과 방법을 재검토하고 있음 Mark Horowitz는 escitalopram을 10년간 복용한 뒤 수개월 동안 신중히 감량했지만 공황 발작·극심한 공포·어지럼...",
-   "publishedAt": 1788028485000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.5,
-   "hot": true
   },
   {
    "title": "아이슬란드, EU 가입 협상 재개 여부 국민투표",
@@ -587,8 +601,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Gemini Omni 1.1 Flash",
@@ -601,35 +615,7 @@
    "comments": 233,
    "publishedAt": 1787850392000,
    "isAI": true,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "일본 최초의 IC 교통카드, Suica의 탄생",
-   "url": "https://news.hada.io/topic?id=33009",
-   "summary": "Sony의 FeliCa 와 JR East의 철도 시스템을 결합해, 배터리나 실시간 인터넷 없이 승차권 인증·운임 계산·잔액 차감을 200밀리초 이내 에 처리하도록 개발됨 중앙 서버를 매번 호출하지 않고 카드와 개찰기가 거래를 로컬에서 끝낸 뒤 기록만 주기적으로 동기화해, 네...",
-   "publishedAt": 1788017913000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "The Twelve-Factor App (2011)",
-   "url": "https://news.hada.io/topic?id=33008",
-   "summary": "12요소 앱 은 SaaS를 이식성과 확장성이 높고 지속적으로 배포할 수 있도록 설계하는 개발 방법론임 선언적 설정 자동화 와 운영체제 간 명확한 계약을 통해 신규 개발자의 합류 비용을 줄이고 실행 환경 사이의 이동성을 높임 개발과 프로덕션의 차이를 최...",
-   "publishedAt": 1788017733000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.4,
    "hot": false
   },
   {
@@ -643,7 +629,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.3,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "일본 최초의 IC 교통카드, Suica의 탄생",
+   "url": "https://news.hada.io/topic?id=33009",
+   "summary": "Sony의 FeliCa 와 JR East의 철도 시스템을 결합해, 배터리나 실시간 인터넷 없이 승차권 인증·운임 계산·잔액 차감을 200밀리초 이내 에 처리하도록 개발됨 중앙 서버를 매번 호출하지 않고 카드와 개찰기가 거래를 로컬에서 끝낸 뒤 기록만 주기적으로 동기화해, 네...",
+   "publishedAt": 1788017913000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "The Twelve-Factor App (2011)",
+   "url": "https://news.hada.io/topic?id=33008",
+   "summary": "12요소 앱 은 SaaS를 이식성과 확장성이 높고 지속적으로 배포할 수 있도록 설계하는 개발 방법론임 선언적 설정 자동화 와 운영체제 간 명확한 계약을 통해 신규 개발자의 합류 비용을 줄이고 실행 환경 사이의 이동성을 높임 개발과 프로덕션의 차이를 최...",
+   "publishedAt": 1788017733000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -657,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -671,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -685,7 +699,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -699,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -713,21 +727,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "vphone-cli - 애플 실리콘 Mac에서 iOS를 가상 iPhone으로 부팅하는 CLI",
-   "url": "https://news.hada.io/topic?id=33007",
-   "summary": "Apple의 Virtualization.framework와 Private Cloud Compute(PCC) 연구용 VM 인프라 를 이용해 Apple Silicon Mac에서 가상 iPhone을 부팅함 macOS용으로 다시 컴파일된 iOS Simulator와 달리, iPhone·cloudOS 펌웨어를 결합해 iOS를 가상 머신으로 실행 하므로 보안...",
-   "publishedAt": 1788006683000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -741,7 +741,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "vphone-cli - 애플 실리콘 Mac에서 iOS를 가상 iPhone으로 부팅하는 CLI",
+   "url": "https://news.hada.io/topic?id=33007",
+   "summary": "Apple의 Virtualization.framework와 Private Cloud Compute(PCC) 연구용 VM 인프라 를 이용해 Apple Silicon Mac에서 가상 iPhone을 부팅함 macOS용으로 다시 컴파일된 iOS Simulator와 달리, iPhone·cloudOS 펌웨어를 결합해 iOS를 가상 머신으로 실행 하므로 보안...",
+   "publishedAt": 1788006683000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35,
    "hot": false
   },
   {
@@ -755,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -769,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -783,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -797,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -811,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -825,7 +839,7 @@
    "comments": 130,
    "publishedAt": 1787923263000,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -836,10 +850,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 173,
-   "comments": 113,
+   "comments": 114,
    "publishedAt": 1787927433000,
    "isAI": false,
-   "score": 34,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -853,7 +867,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -867,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -881,7 +895,7 @@
    "comments": 168,
    "publishedAt": 1787870471000,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -895,7 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -905,11 +919,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 116,
+   "engagement": 117,
    "comments": 36,
    "publishedAt": 1787875611000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -922,7 +936,7 @@
    "baseWeight": 28.4,
    "publishedAt": 1788034577000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -936,7 +950,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -950,7 +964,7 @@
    "comments": 461,
    "publishedAt": 1787771723000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -964,7 +978,7 @@
    "comments": 6,
    "publishedAt": 1787759715000,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -978,7 +992,7 @@
    "comments": 146,
    "publishedAt": 1787738695000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -992,21 +1006,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.5,
+   "score": 32.2,
    "hot": false
   },
   {
-   "title": "오픈AI, '코덱스' 용량 한계 보완 조치 단행…\"사용 효율 최대 50% 개선\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214613",
-   "summary": "오픈AI가 '코덱스(Codex)'와 '챗GPT 워크(ChatGPT Work)' 유료 사용자를 대상으로 사용량 한도를 리셋하고 시스템 효율화 작업에 착수했다. 최근 사용자 수 급증으로 인한 병목 현상에 대응하고 AI 에이전트 서비스의 안정성을 강화하려는 의도다.티보 소티오 오픈AI 코덱스 책임자는 30일 X를 통해 코덱스 사용 한도에 대한 초기화 업데이트를 발표하며, 최근 수천건의 사용자 제보를 바탕으로 비효율적인 토큰 소비 원인을 대대적으로 개선했다고 밝혔다. 작업 방식에 따라 사용자가 체감하는 사용량이 기존 대비 10%에서 최대",
-   "publishedAt": 1788051410000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
+   "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+   "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49471714",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 112,
+   "comments": 15,
+   "publishedAt": 1787867199000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1020,7 +1034,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, '코덱스' 용량 한계 보완 조치 단행…\"사용 효율 최대 50% 개선\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214613",
+   "summary": "오픈AI가 '코덱스(Codex)'와 '챗GPT 워크(ChatGPT Work)' 유료 사용자를 대상으로 사용량 한도를 리셋하고 시스템 효율화 작업에 착수했다. 최근 사용자 수 급증으로 인한 병목 현상에 대응하고 AI 에이전트 서비스의 안정성을 강화하려는 의도다.티보 소티오 오픈AI 코덱스 책임자는 30일 X를 통해 코덱스 사용 한도에 대한 초기화 업데이트를 발표하며, 최근 수천건의 사용자 제보를 바탕으로 비효율적인 토큰 소비 원인을 대대적으로 개선했다고 밝혔다. 작업 방식에 따라 사용자가 체감하는 사용량이 기존 대비 10%에서 최대",
+   "publishedAt": 1788051410000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1034,7 +1062,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1048,7 +1076,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1062,21 +1090,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-   "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49471714",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 111,
-   "comments": 15,
-   "publishedAt": 1787867199000,
-   "isAI": true,
-   "score": 32.3,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1090,7 +1104,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1104,7 +1118,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1118,7 +1132,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1132,7 +1146,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1146,7 +1160,7 @@
    "comments": 83,
    "publishedAt": 1787836065000,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1160,7 +1174,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.6,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1174,7 +1188,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1188,7 +1202,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1202,7 +1216,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1216,21 +1230,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "GitHub PR에 급증한 ‘Claude 같은’ 문체 - 46만 건의 어휘 변화 분석",
-   "url": "https://news.hada.io/topic?id=32970",
-   "summary": "GitHub 풀리퀘스트 46만 건을 어휘만으로 분류했더니, 2025년 초 0.7%에 불과했던 새로운 문체 집단이 2026년 중반 약 39%까지 증가 함 이 집단에는 load-bearing , plainly , quietly , seam , byte-identical ,",
-   "publishedAt": 1787885102000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 31.5,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1244,7 +1244,7 @@
    "comments": 42,
    "publishedAt": 1787917305000,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1258,7 +1258,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31.2,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1271,20 +1271,6 @@
    "engagement": 584,
    "comments": 380,
    "publishedAt": 1787666762000,
-   "isAI": true,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "3 new ways to plan and book travel in Search",
-   "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-   "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
-   "publishedAt": 1787846400000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
    "isAI": true,
    "score": 31,
    "hot": false
@@ -1300,7 +1286,7 @@
    "comments": 188,
    "publishedAt": 1787758205000,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1314,7 +1300,21 @@
    "comments": 1295,
    "publishedAt": 1787662882000,
    "isAI": false,
-   "score": 30.9,
+   "score": 30.8,
+   "hot": false
+  },
+  {
+   "title": "3 new ways to plan and book travel in Search",
+   "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+   "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+   "publishedAt": 1787846400000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1328,7 +1328,7 @@
    "comments": 108,
    "publishedAt": 1787843056000,
    "isAI": true,
-   "score": 30.8,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1342,7 +1342,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.8,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1356,7 +1356,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.5,
+   "score": 30.3,
    "hot": false
   },
   {
@@ -1370,35 +1370,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "Sony Music and Warner Chappell are suing Anthropic",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-   "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable co",
-   "publishedAt": 1788027593000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 30.3,
    "hot": false
   },
   {
-   "title": "A/I Collective에 대한 미국의 제재",
-   "url": "https://news.hada.io/topic?id=32991",
-   "summary": "A/I 홈페이지가 미국의 제재 관련 공지로 연결되지만, 제재 이유와 대상·효력은 홈페이지 본문에서 확인할 수 없음 Autistici/Inventati(A/I) 는 2001년 기술과 디지털 권리 운동에 참여한 자율적 반자본주의 운동의 개인·단체가 설립함 활동가와 개인의 ...",
-   "publishedAt": 1787946206000,
-   "source": "GeekNews",
+   "title": "Asahi Linux Progress Report: Linux 7.2",
+   "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49456851",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 405,
+   "comments": 234,
+   "publishedAt": 1787783702000,
    "isAI": false,
-   "score": 30.3,
+   "score": 30,
+   "hot": false
+  },
+  {
+   "title": "Meta reaches $17B settlement over social media harms to children",
+   "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49448819",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 542,
+   "comments": 543,
+   "publishedAt": 1787750912000,
+   "isAI": false,
+   "score": 30,
    "hot": false
   }
  ]
