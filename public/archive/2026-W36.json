@@ -1,75 +1,61 @@
 {
- "updatedAt": 1788258645612,
+ "updatedAt": 1788276391677,
  "week": "2026-W36",
  "items": [
   {
-   "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-   "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49514878",
-   "source": "Hacker News",
+   "title": "Show GN: Booova - 당신의 책 한 권을 다 써주는 AI Book Agent",
+   "url": "https://news.hada.io/topic?id=33121",
+   "summary": "안녕하세요, Booova를 만든 개발자입니다. 책을 쓰고 싶어하는 사람 대부분은 끝까지 쓰지 못합니다. 아이디어가 있거나, 노트·강연·녹음이 쌓여 있는데, 남는 건 목차와 1장 폴더뿐입니다. 생각과 지식은 책이 될 자격이 있습니다. 출판하든, 팔든, 기념으로 남기든, 원하는 대로요. 폴더 안에서 사라져서는",
+   "publishedAt": 1788272906000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 680,
-   "comments": 524,
-   "publishedAt": 1788210658000,
-   "isAI": false,
-   "score": 54.3,
-   "hot": true
-  },
-  {
-   "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-   "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49508982",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 417,
-   "comments": 458,
-   "publishedAt": 1788180082000,
-   "isAI": true,
-   "score": 52.7,
-   "hot": true
-  },
-  {
-   "title": "I turned my security cameras into an automatic bird identification system",
-   "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49511856",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 506,
-   "comments": 123,
-   "publishedAt": 1788194831000,
-   "isAI": false,
-   "score": 49.6,
-   "hot": true
-  },
-  {
-   "title": "Breaking Claude Code Opus 5 Auto Mode",
-   "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49506819",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 372,
-   "comments": 116,
-   "publishedAt": 1788162558000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": true,
    "score": 49.5,
-   "hot": false
+   "hot": true
   },
   {
-   "title": "GPU World",
-   "url": "https://www.gpuworld.org/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49517584",
-   "source": "Hacker News",
+   "title": "사이보그가 되지 않기 위하여",
+   "url": "https://news.hada.io/topic?id=33119",
+   "summary": "LLM 에이전트와 오래 상호작용하면서 “load-bearing” 같은 Claude 특유의 표현 이 글과 생각에 스며드는 경험을 하고, AI 시대에도 고유한 인간의 목소리를 지키려 함 사람은 주변의 억양과 언어를 흡수하듯 읽는 글의 문체에도 영향받으며, 저자의 단어가 독자의 생각이 되는 독서...",
+   "publishedAt": 1788271413000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 246,
-   "comments": 129,
-   "publishedAt": 1788232596000,
-   "isAI": false,
-   "score": 48.8,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.3,
+   "hot": true
+  },
+  {
+   "title": "Show GN: Can I Remove This? – JS 의존성 제거를 검토하는 Agent Skill",
+   "url": "https://news.hada.io/topic?id=33113",
+   "summary": "package.json 에 적힌 프로덕션 의존성을 출발점으로 실제 import와 사용 방식, 브라우저 지원 범위, 번들 비용을 살펴보고 REMOVE, KEEP, PROGRESSIVE 등으로 판정하는 Markdown 기반 Agent Skill입니다. Baseline 지원 여부만 보는 데 그치지 않고, 네이티브 기능이 프로젝트의 실제 사용 사례를",
+   "publishedAt": 1788267593000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.7,
+   "hot": true
+  },
+  {
+   "title": "GPU World: 모두가 GPU를 한 대씩 쓰는 미래 공모전",
+   "url": "https://news.hada.io/topic?id=33110",
+   "summary": "GPU World 는 2040년까지 모든 사람이 B300급 GPU 성능과 최첨단 LLM을 상시 이용하는 미래를 그리는 스토리 공모전임 현재는 최첨단 모델을 효율적으로 서비스할 GPU가 연간 수백만 개만 생산돼 수십억 명이 Fable·Sol 같은 LLM 을 이용하지 못한다고 봄 특...",
+   "publishedAt": 1788262386000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48,
    "hot": true
   },
   {
@@ -83,7 +69,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -97,50 +83,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 45,
    "hot": true
-  },
-  {
-   "title": "OpenShot 4.0 – Open-source video editor",
-   "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49507822",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 564,
-   "comments": 132,
-   "publishedAt": 1788170345000,
-   "isAI": false,
-   "score": 47.3,
-   "hot": false
-  },
-  {
-   "title": "Run macOS Software on Linux",
-   "url": "https://www.darlinghq.org/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49515830",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 234,
-   "comments": 73,
-   "publishedAt": 1788216825000,
-   "isAI": false,
-   "score": 46.2,
-   "hot": true
-  },
-  {
-   "title": "The safest job from AI may be writing",
-   "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49512856",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 130,
-   "comments": 178,
-   "publishedAt": 1788199940000,
-   "isAI": true,
-   "score": 46.1,
-   "hot": false
   },
   {
    "title": "Show GN: 허니 펄스 - 꿀 채집 로그라이크 게임 (Flutter Flame)",
@@ -153,8 +97,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "포스트 AI 데이터 스택의 형태와 사용감",
@@ -167,8 +111,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
-   "hot": true
+   "score": 43.4,
+   "hot": false
   },
   {
    "title": "AI 칩 아키텍처",
@@ -181,22 +125,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
-   "hot": true
-  },
-  {
-   "title": "Agent memory as a file format",
-   "url": "https://calpaterson.com/memoryfields.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49508317",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 175,
-   "comments": 89,
-   "publishedAt": 1788175045000,
-   "isAI": true,
-   "score": 45.4,
-   "hot": true
+   "score": 43.4,
+   "hot": false
   },
   {
    "title": "OpenClaw 2.0 출시, 설치부터 메모리와 브라우저 제어까지 전면 개편",
@@ -209,8 +139,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
-   "hot": true
+   "score": 42.7,
+   "hot": false
   },
   {
    "title": "VibeCoded AI-Slop License v1.0 - 만든 사람도 읽지 않은 코드를 위해",
@@ -223,8 +153,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
-   "hot": true
+   "score": 42.7,
+   "hot": false
   },
   {
    "title": "학회에서 목격한 터무니없는 AI 사용: 질의응답까지 AI에 맡긴 발표자들",
@@ -237,8 +167,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
-   "hot": true
+   "score": 42.7,
+   "hot": false
   },
   {
    "title": "OpenAI supports California’s bill to advance youth AI safety",
@@ -251,7 +181,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.1,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -265,7 +195,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.1,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -279,8 +209,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.1,
-   "hot": true
+   "score": 42,
+   "hot": false
   },
   {
    "title": "보안 카메라를 자동 조류 식별 시스템으로 바꾼 방법",
@@ -293,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.7,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -307,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -321,8 +251,36 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43,
+   "score": 41.2,
    "hot": false
+  },
+  {
+   "title": "미루기 연구의 영향력 있는 실험에서 발견된 데이터 조작 증거",
+   "url": "https://news.hada.io/topic?id=33117",
+   "summary": "2002년 발표돼 Google Scholar에서 2,100회 이상 인용 된 마감 기한 연구의 Study 2가 재현에 실패했으며, 원본으로 전달된 데이터에서도 심각한 이상 징후가 발견됨 참가자 60명을 세 조건에 20명씩 배정한 원 연구에서 작업별 마감 조건의 교정 실적은 마지막 날 일괄 마감 조건보다...",
+   "publishedAt": 1788270082000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
+  },
+  {
+   "title": "AnkiDroid: Google Play가 더 이상 Open Collective 후원 링크를 허용하지 않음",
+   "url": "https://news.hada.io/topic?id=33116",
+   "summary": "Google Play는 외부 후원 링크가 결제 정책을 위반한다며 AnkiDroid 업데이트를 거부 했고, 해결되지 않으면 2026년 9월 11일 인도와 러시아를 제외한 전 세계 스토어에서 앱을 삭제할 예정임 후원금을 받는 Open Source Collective는 IRS가 연방 소득세 면제 대상으로 인정한",
+   "publishedAt": 1788269902000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
   },
   {
    "title": "그렇다면 안목은 어디에서 오는가?",
@@ -335,22 +293,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.6,
+   "score": 40.6,
    "hot": false
-  },
-  {
-   "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-   "url": "https://ravynos.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49511534",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 201,
-   "comments": 115,
-   "publishedAt": 1788193176000,
-   "isAI": false,
-   "score": 42.1,
-   "hot": true
   },
   {
    "title": "Claude Code Auto Mode를 우회해 웹사이트 요약만으로 원격 코드 실행",
@@ -363,7 +307,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 40.1,
+   "hot": false
+  },
+  {
+   "title": "Fambot introduces an ‘AI chief of staff’ for families",
+   "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+   "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+   "publishedAt": 1788275458000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -377,22 +335,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 39.7,
    "hot": true
-  },
-  {
-   "title": "How to build a diffusion language model",
-   "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49503956",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 178,
-   "comments": 20,
-   "publishedAt": 1788133292000,
-   "isAI": true,
-   "score": 41.1,
-   "hot": false
   },
   {
    "title": "Fastpotify - 브라우저 엔진 없이 1초 안에 실행되는 Spotify 클라이언트",
@@ -405,49 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
-   "hot": true
-  },
-  {
-   "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-   "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49498787",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 266,
-   "comments": 230,
-   "publishedAt": 1788098814000,
-   "isAI": true,
-   "score": 40.5,
-   "hot": false
-  },
-  {
-   "title": "No AI Fridays",
-   "url": "https://noaifridays.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49498095",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 286,
-   "comments": 204,
-   "publishedAt": 1788093065000,
-   "isAI": true,
-   "score": 40.5,
-   "hot": false
-  },
-  {
-   "title": "10년 동안 축적된 12TB 이상의 스팀 데이터가 외부로 유출되었습니다.",
-   "url": "https://news.hada.io/topic?id=33107",
-   "summary": "Valve의 구형 인프라를 통해 2003년부터 2013년 사이의 게임 빌드와 자산 등 12TB 분량의 Steam 데이터가 온라인에 유출되었다. 전문 번역 12TB가 넘는 Steam 데이터가 온라인에 유출되었다. 이번 자료에는 2003년부터 2013년 사이에 Valve 플랫폼에 올라온 게임 파일들이",
-   "publishedAt": 1788246813000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.5,
+   "score": 39,
    "hot": true
   },
   {
@@ -461,8 +363,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.5,
+   "score": 38.6,
    "hot": false
+  },
+  {
+   "title": "10년 동안 축적된 12TB 이상의 스팀 데이터가 외부로 유출되었습니다.",
+   "url": "https://news.hada.io/topic?id=33107",
+   "summary": "Valve의 구형 인프라를 통해 2003년부터 2013년 사이의 게임 빌드와 자산 등 12TB 분량의 Steam 데이터가 온라인에 유출되었다. 전문 번역 12TB가 넘는 Steam 데이터가 온라인에 유출되었다. 이번 자료에는 2003년부터 2013년 사이에 Valve 플랫폼에 올라온 게임 파일들이",
+   "publishedAt": 1788246813000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.5,
+   "hot": true
   },
   {
    "title": "Kubernetes에서 Java JVM의 CPU·메모리 Request와 Limit",
@@ -475,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -489,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 37.5,
    "hot": true
   },
   {
@@ -503,22 +419,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 37.5,
    "hot": true
-  },
-  {
-   "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
-   "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49499394",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 463,
-   "comments": 195,
-   "publishedAt": 1788102760000,
-   "isAI": false,
-   "score": 39.1,
-   "hot": false
   },
   {
    "title": "테렌스 타오가 설명하는 수학의 6가지 필수 개념 [영상]",
@@ -531,37 +433,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 37.1,
    "hot": true
-  },
-  {
-   "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-   "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49495372",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 794,
-   "comments": 399,
-   "publishedAt": 1788059736000,
-   "isAI": false,
-   "score": 38.8,
-   "hot": false,
-   "lastWeekRank": 3
-  },
-  {
-   "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-   "url": "https://github.com/anthropics/claude-code/issues/66504",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49498201",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 209,
-   "comments": 229,
-   "publishedAt": 1788094254000,
-   "isAI": true,
-   "score": 38.6,
-   "hot": false
   },
   {
    "title": "미군 매점 냉동고가 해킹당한 것 같다",
@@ -574,36 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
-   "hot": true
-  },
-  {
-   "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-   "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49491568",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 476,
-   "comments": 120,
-   "publishedAt": 1788023987000,
-   "isAI": true,
-   "score": 38.1,
-   "hot": false,
-   "lastWeekRank": 1
-  },
-  {
-   "title": "Continuous Diffusion Language Models (CDLM's)",
-   "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49502611",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 130,
-   "comments": 48,
-   "publishedAt": 1788122813000,
-   "isAI": true,
-   "score": 38,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -617,8 +461,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
-   "hot": true
+   "score": 36,
+   "hot": false
   },
   {
    "title": "Starboard - macOS Dock 옆에 항상 붙어 있는 터미널",
@@ -631,23 +475,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
-   "hot": true
-  },
-  {
-   "title": "Debian votes to allow \"responsible use of generative AI\"",
-   "url": "https://lwn.net/Articles/1091231/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49489982",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 513,
-   "comments": 478,
-   "publishedAt": 1788012130000,
-   "isAI": true,
-   "score": 37.7,
-   "hot": false,
-   "lastWeekRank": 2
+   "score": 36,
+   "hot": false
   },
   {
    "title": "11줄 코드로 만드는 더 나은 SQL",
@@ -660,8 +489,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
-   "hot": true
+   "score": 35.9,
+   "hot": false
   },
   {
    "title": "조직이 커질수록 일이 느려지는 이유, 조정의 역풍 [171p 슬라이드]",
@@ -674,8 +503,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
-   "hot": true
+   "score": 35.9,
+   "hot": false
   },
   {
    "title": "curl의 CVE 발급 여부를 둘러싼 분쟁",
@@ -688,21 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
-   "hot": true
-  },
-  {
-   "title": "Internet centralization and the original sin of NAT",
-   "url": "https://dreamstation.systems/personal/ntppost.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49504905",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 214,
-   "comments": 153,
-   "publishedAt": 1788142983000,
-   "isAI": false,
-   "score": 37.5,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -716,21 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
-  },
-  {
-   "title": "Smartphone LED detects hidden cameras with AI",
-   "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49496292",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 218,
-   "comments": 64,
-   "publishedAt": 1788072724000,
-   "isAI": true,
-   "score": 37.2,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -744,36 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "The Rise and Fall of Agent Civilizations",
-   "url": "https://www.dwarkesh.com/p/openai-huggingface",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49494301",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 264,
-   "comments": 187,
-   "publishedAt": 1788047004000,
-   "isAI": true,
-   "score": 36.4,
-   "hot": false,
-   "lastWeekRank": 5
-  },
-  {
-   "title": "Qubes OS의 copy-to-VM 오류 보고 백채널을 통한 임의 코드 실행",
-   "url": "https://news.hada.io/topic?id=33083",
-   "summary": "이미 손상된 qube를 대상으로 dom0에서 qvm-copy-to-vm 파일 복사를 시작하면, 공격자가 파일명에 명령을 삽입해 dom0을 장악 할 수 있는 QSB-118 취약점이 공개됨 대상 qube가 반환한 오류 파일명에서 비ASCII 문자와 큰따옴표만 제거하고 셸 메타문자",
-   "publishedAt": 1788209019000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.4,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -787,7 +559,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.4,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "Qubes OS의 copy-to-VM 오류 보고 백채널을 통한 임의 코드 실행",
+   "url": "https://news.hada.io/topic?id=33083",
+   "summary": "이미 손상된 qube를 대상으로 dom0에서 qvm-copy-to-vm 파일 복사를 시작하면, 공격자가 파일명에 명령을 삽입해 dom0을 장악 할 수 있는 QSB-118 취약점이 공개됨 대상 qube가 반환한 오류 파일명에서 비ASCII 문자와 큰따옴표만 제거하고 셸 메타문자",
+   "publishedAt": 1788209019000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -801,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.1,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -815,35 +601,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "mu - 에이전트가 들어 있는 개인 서버",
-   "url": "https://news.hada.io/topic?id=33054",
-   "summary": "메일/채팅/파일/노트/캘린더/연락처/셸과 AI 에이전트를 하나의 Go 바이너리로 직접 운영 하는 개인 서버 뉴스/웹 검색/날씨/시장/영상/장소/파일/문서 등 30여 개 서비스와 100여 개 도구 를 웹/REST API/CLI/MCP에서 동일하게 제공 단순히 에이전트용 도구...",
-   "publishedAt": 1788136203000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "AI로 가짜 화장품 식별하기",
-   "url": "https://news.hada.io/topic?id=33052",
-   "summary": "Gemini 3.6 Flash 에 Rhode Peptide Lip Tint 3개의 포장 사진을 각각 6장씩 제공하자 가품 2개는 맞혔지만, 정품 1개도 가품으로 잘못 판정함 상자와 튜브의 유통업체 불일치, 잘못된 아일랜드 우편번호, 성분명 오탈자처럼 사람이 놓치기 쉬운 포장 불일치 를 몇 초...",
-   "publishedAt": 1788135521000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 35.9,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -857,21 +615,61 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 34,
    "hot": false
   },
   {
-   "title": "Malleable software = solid bases and custom code",
-   "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49508059",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
+   "url": "https://huggingface.co/papers/2608.31046",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
    "lang": "en",
-   "engagement": 105,
-   "comments": 32,
-   "publishedAt": 1788172603000,
-   "isAI": false,
-   "score": 35,
+   "engagement": 86,
+   "summary": "On-policy distillation (OPD) offers dense token-level supervision as an alternative to the sparse outcome-level advantages of reinforcement learning with verifiable rewards (RLVR). However, the teacher scores student-generated trajectories that are inherently off-policy for it, so the reliability of",
+   "publishedAt": 1788120000000,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
+   "url": "https://huggingface.co/papers/2608.31106",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 84,
+   "summary": "Recent video generators often omit audio or synthesize it in a separate stage, limiting reciprocal modeling of visual dynamics and acoustic events. We present DreamX-Creator 1.0, a compact native joint audio-video generation system centered on a 7B generator. Conditioned on a first frame and a text ",
+   "publishedAt": 1788120000000,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+   "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+   "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and",
+   "publishedAt": 1788267600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "Nvidia’s DLSS 5, explained",
+   "url": "https://www.theverge.com/games/986980/nvidias-dlss-5-explained",
+   "summary": "Nvidia knows that DLSS 5 left a bad first impression. In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the company's re-introducing its controversial \"neural rendering\" with firm messaging about how it ",
+   "publishedAt": 1788267600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -885,7 +683,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -899,7 +697,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -913,23 +711,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 32.9,
    "hot": false
-  },
-  {
-   "title": "Nvidia agrees to acquire Hugging Face for $13B",
-   "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49458161",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1979,
-   "comments": 918,
-   "publishedAt": 1787793175000,
-   "isAI": true,
-   "score": 34.3,
-   "hot": false,
-   "lastWeekRank": 21
   },
   {
    "title": "OpenShot 4.0: 녹화·편집·색 보정을 하나의 작업 흐름으로 통합",
@@ -942,7 +725,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -956,7 +739,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -970,35 +753,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
+   "score": 32.4,
    "hot": false
   },
   {
-   "title": "The internet is kind of a predatory cesspit now",
-   "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49492193",
-   "source": "Hacker News",
+   "title": "Show GN: 친구가 어디쯤 달리고 있는지 궁금해서 만든 앱",
+   "url": "https://news.hada.io/topic?id=33074",
+   "summary": "러닝을 좋아하는 평범한 회사원입니다! 마라톤에서 내가 응원하는 사람이 어디쯤 뛰고 있는지 궁금해서 앱을 하나 만들어봤어요. 만든 이유 마라톤 대회 날 인파 속에서 내가 응원하는 친구, 가족의 위치를 파악하여 응원하고 싶어요. 주자의 실시간 페이스를 확인하여 다음 응원 포인트",
+   "publishedAt": 1788177026000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 461,
-   "comments": 315,
-   "publishedAt": 1788028856000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
-   "hot": false,
-   "lastWeekRank": 4
-  },
-  {
-   "title": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
-   "url": "https://huggingface.co/papers/2608.31106",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 70,
-   "summary": "Recent video generators often omit audio or synthesize it in a separate stage, limiting reciprocal modeling of visual dynamics and acoustic events. We present DreamX-Creator 1.0, a compact native joint audio-video generation system centered on a 7B generator. Conditioned on a first frame and a text ",
-   "publishedAt": 1788120000000,
-   "isAI": true,
-   "score": 33.7,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1012,7 +781,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1026,50 +795,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "Startup Anti-Patterns",
-   "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49499831",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 184,
-   "comments": 93,
-   "publishedAt": 1788105450000,
-   "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Our decision on Cursor following its acquisition by SpaceX",
-   "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49486172",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 844,
-   "comments": 538,
-   "publishedAt": 1787968073000,
-   "isAI": false,
-   "score": 33.4,
-   "hot": false,
-   "lastWeekRank": 7
-  },
-  {
-   "title": "Show GN: 친구가 어디쯤 달리고 있는지 궁금해서 만든 앱",
-   "url": "https://news.hada.io/topic?id=33074",
-   "summary": "러닝을 좋아하는 평범한 회사원입니다! 마라톤에서 내가 응원하는 사람이 어디쯤 뛰고 있는지 궁금해서 앱을 하나 만들어봤어요. 만든 이유 마라톤 대회 날 인파 속에서 내가 응원하는 친구, 가족의 위치를 파악하여 응원하고 싶어요. 주자의 실시간 페이스를 확인하여 다음 응원 포인트",
-   "publishedAt": 1788177026000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.4,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1083,48 +809,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "[9월1일] 순천 AI 영상 뉴스 - 순천~여수 광역급행버스 9월부터 운행 등",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214720",
-   "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
-   "publishedAt": 1788251534000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
-   "url": "https://huggingface.co/papers/2608.31046",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 65,
-   "summary": "On-policy distillation (OPD) offers dense token-level supervision as an alternative to the sparse outcome-level advantages of reinforcement learning with verifiable rewards (RLVR). However, the teacher scores student-generated trajectories that are inherently off-policy for it, so the reliability of",
-   "publishedAt": 1788120000000,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "\"독파모 넘어 프론티어 AI로\"…정부, GPU 1만장 확보에 3.85조 배정",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214714",
-   "summary": "정부의 AI 투자가 공격적으로 확대되고 있다. 특히 인프라에 대한 투자를 확대, '프론티어 AI 개발'을 본격화한다는 계획이다.정부는 1일 국무회의를 열고 '2027년도 예산안' 및 '2026~2030년 국가 재정운용계획'을 의결했다.내년도 예산 총지출이 역대 최대 규모인 820조9000억원으로 편성된 가운데, 2027년 정부 연구개발(R&D) 예산도 39조5000억원으로 역대급을 기록했다. 올해 35조5000억원에서 4조원(11.2%) 늘어난 수치다.이 가운데 과학기술정보통신부 소관 예산은 올해 추경예산보다 24.5% 늘어난 29",
-   "publishedAt": 1788250192000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1138,63 +823,35 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.1,
+   "score": 31.6,
    "hot": false
   },
   {
-   "title": "[게시판] 인텔리빅스, 신세계면세점에 'AI 안전관제 솔루션' 공급 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214718",
-   "summary": "■ 인텔리빅스(대표 최은수, 장정훈)는 신세계면세점 명동점에 비전 AI와 비전언어모델(VLM)을 결합한 AI 영상분석시스템을 공급했다고 밝혔다. 인텔리빅스의 자체 AI 영상관제 플랫폼 'Gen AMS'를 활용해 AI가 이상 징후를 감지하고, 전후 상황과 행동 맥락을 분석해 위험 상황 시 사전 알림과 신속한 대응을 지원해 예방 중심의 안전관제 체계를 구현한다는 설명이다.■ 버넥트(대표 하태진)는 태안군 강소형 스마트시티 조성사업의 일환인 ‘드론 체험관 내 드론 모험 콘텐츠 개발·설치 사업’에 착수한다고 밝혔다. 총 5억 4945만원",
-   "publishedAt": 1788249600000,
+   "title": "[9월1일] 순천 AI 영상 뉴스 - 순천~여수 광역급행버스 9월부터 운행 등",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214720",
+   "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
+   "publishedAt": 1788251534000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 31.6,
    "hot": false
   },
   {
-   "title": "[게시판] 유니유니, 움직임 분석 AI로 기술신용평가 T3등급 획득 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214717",
-   "summary": "■ 비식별 AI 안전 솔루션 전문 유니유니(대표 한수연)는 기술신용평가(TCB)에서 우수 기술기업에 해당하는 ‘T3’ 등급을 획득했다고 밝혔다. 유니유니는 카메라 없이 사람의 움직임과 공간 상태를 분석하는 비식별 AIoT 안전 플랫폼 ‘새비(SAVVY)’의 기술력과 사업화 역량, 시장 확장성을 인정받아 T3 등급을 획득했다.■ 카카오(대표 정신아)의 지역 AI 인재·기업 육성 추진 기구 ‘카카오 AI 돛’이 오는 29일 부산항국제전시컨벤션센터(BPEX)에서 ‘카카오 AI 돛 서밋 26’을 개최한다. 창업가, 스타트업 관계자, 학생,",
-   "publishedAt": 1788249600000,
+   "title": "\"독파모 넘어 프론티어 AI로\"…정부, GPU 1만장 확보에 3.85조 배정",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214714",
+   "summary": "정부의 AI 투자가 공격적으로 확대되고 있다. 특히 인프라에 대한 투자를 확대, '프론티어 AI 개발'을 본격화한다는 계획이다.정부는 1일 국무회의를 열고 '2027년도 예산안' 및 '2026~2030년 국가 재정운용계획'을 의결했다.내년도 예산 총지출이 역대 최대 규모인 820조9000억원으로 편성된 가운데, 2027년 정부 연구개발(R&D) 예산도 39조5000억원으로 역대급을 기록했다. 올해 35조5000억원에서 4조원(11.2%) 늘어난 수치다.이 가운데 과학기술정보통신부 소관 예산은 올해 추경예산보다 24.5% 늘어난 29",
+   "publishedAt": 1788250192000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "오프라인 특화 AI 소셜 앱 '츄룹' 운영사 벗뷰리풀, 프리A 투자 유치",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214719",
-   "summary": "AI 소셜 애플리케이션 ‘츄룹’ 운영사 벗뷰리풀(대표 박수만)은 프리시리즈A 투자를 유치했다고 1일 밝혔다. 투자 금액은 비공개다.이번 투자는 라구나인베스트먼트를 포함해 크릿벤처스, 키움인베스트먼트, 제트벤처캐피탈(ZVC), 그란데클립 김봉진 의장 등이 참여했다. 여기에 중소벤처기업부 팁스(TIPS) 연구개발(R&D) 글로벌 트랙에도 선정돼 2028년까지 총 12억원의 추가 자금을 지원받는다.츄룹은 모임 준비부터 기록까지 전 과정을 통합한 AI 네이티브 소셜 플랫폼이다. AI가 참여자 일정을 분석해 만나기 좋은 시간을 추천하고 장소",
-   "publishedAt": 1788249300000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "인스타그램, AI 인플루언서 단속 강화...“AI 정체 숨기면 추천 노출 제한”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214712",
-   "summary": "인스타그램이 실제 사람처럼 보이는 'AI 인플루언서'에 제동을 건다. AI로 생성된 인물을 내세운 계정이 자신의 정체를 제대로 밝히지 않으면 추천 알고리즘에서 노출을 제한하기로 했다. 인스타그램은 31일(현지시간) 기존 'AI 크리에이터(Creator)' 프로필 표시를 'AI-생성 프로필(AI-generated profile)'로 변경하고, AI로 생성된 인물을 내세운 계정에 대해 해당 표시를 의무적으로 적용하는 방향으로 정책을 강화한다고 밝혔다.기존에는 AI 크리에이터가 자발적으로 라벨을 선택하는 방식이었지만, 앞으로는 인스타그램",
-   "publishedAt": 1788248761000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1208,7 +865,63 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.9,
+   "score": 31.4,
+   "hot": false
+  },
+  {
+   "title": "[게시판] 인텔리빅스, 신세계면세점에 'AI 안전관제 솔루션' 공급 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214718",
+   "summary": "■ 인텔리빅스(대표 최은수, 장정훈)는 신세계면세점 명동점에 비전 AI와 비전언어모델(VLM)을 결합한 AI 영상분석시스템을 공급했다고 밝혔다. 인텔리빅스의 자체 AI 영상관제 플랫폼 'Gen AMS'를 활용해 AI가 이상 징후를 감지하고, 전후 상황과 행동 맥락을 분석해 위험 상황 시 사전 알림과 신속한 대응을 지원해 예방 중심의 안전관제 체계를 구현한다는 설명이다.■ 버넥트(대표 하태진)는 태안군 강소형 스마트시티 조성사업의 일환인 ‘드론 체험관 내 드론 모험 콘텐츠 개발·설치 사업’에 착수한다고 밝혔다. 총 5억 4945만원",
+   "publishedAt": 1788249600000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.4,
+   "hot": false
+  },
+  {
+   "title": "[게시판] 유니유니, 움직임 분석 AI로 기술신용평가 T3등급 획득 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214717",
+   "summary": "■ 비식별 AI 안전 솔루션 전문 유니유니(대표 한수연)는 기술신용평가(TCB)에서 우수 기술기업에 해당하는 ‘T3’ 등급을 획득했다고 밝혔다. 유니유니는 카메라 없이 사람의 움직임과 공간 상태를 분석하는 비식별 AIoT 안전 플랫폼 ‘새비(SAVVY)’의 기술력과 사업화 역량, 시장 확장성을 인정받아 T3 등급을 획득했다.■ 카카오(대표 정신아)의 지역 AI 인재·기업 육성 추진 기구 ‘카카오 AI 돛’이 오는 29일 부산항국제전시컨벤션센터(BPEX)에서 ‘카카오 AI 돛 서밋 26’을 개최한다. 창업가, 스타트업 관계자, 학생,",
+   "publishedAt": 1788249600000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.4,
+   "hot": false
+  },
+  {
+   "title": "오프라인 특화 AI 소셜 앱 '츄룹' 운영사 벗뷰리풀, 프리A 투자 유치",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214719",
+   "summary": "AI 소셜 애플리케이션 ‘츄룹’ 운영사 벗뷰리풀(대표 박수만)은 프리시리즈A 투자를 유치했다고 1일 밝혔다. 투자 금액은 비공개다.이번 투자는 라구나인베스트먼트를 포함해 크릿벤처스, 키움인베스트먼트, 제트벤처캐피탈(ZVC), 그란데클립 김봉진 의장 등이 참여했다. 여기에 중소벤처기업부 팁스(TIPS) 연구개발(R&D) 글로벌 트랙에도 선정돼 2028년까지 총 12억원의 추가 자금을 지원받는다.츄룹은 모임 준비부터 기록까지 전 과정을 통합한 AI 네이티브 소셜 플랫폼이다. AI가 참여자 일정을 분석해 만나기 좋은 시간을 추천하고 장소",
+   "publishedAt": 1788249300000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.4,
+   "hot": false
+  },
+  {
+   "title": "인스타그램, AI 인플루언서 단속 강화...“AI 정체 숨기면 추천 노출 제한”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214712",
+   "summary": "인스타그램이 실제 사람처럼 보이는 'AI 인플루언서'에 제동을 건다. AI로 생성된 인물을 내세운 계정이 자신의 정체를 제대로 밝히지 않으면 추천 알고리즘에서 노출을 제한하기로 했다. 인스타그램은 31일(현지시간) 기존 'AI 크리에이터(Creator)' 프로필 표시를 'AI-생성 프로필(AI-generated profile)'로 변경하고, AI로 생성된 인물을 내세운 계정에 대해 해당 표시를 의무적으로 적용하는 방향으로 정책을 강화한다고 밝혔다.기존에는 AI 크리에이터가 자발적으로 라벨을 선택하는 방식이었지만, 앞으로는 인스타그램",
+   "publishedAt": 1788248761000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1222,7 +935,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1236,7 +949,20 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 31.2,
+   "hot": false
+  },
+  {
+   "title": "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
+   "url": "https://huggingface.co/papers/2608.30821",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 57,
+   "summary": "Composable scene modeling aims to recover a real indoor scene as complete, editable object assets arranged as observed, giving robot simulation and embodied AI a simulation-ready replica of the real environment whose objects can be manipulated individually. Existing pipelines decompose the task into",
+   "publishedAt": 1788120000000,
+   "isAI": true,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1250,7 +976,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1264,7 +990,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1278,7 +1004,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1292,7 +1018,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 31,
    "hot": false
   },
   {
@@ -1306,7 +1032,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 31,
    "hot": false
   },
   {
@@ -1320,7 +1046,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 31,
    "hot": false
   },
   {
@@ -1334,7 +1060,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 31,
    "hot": false
   },
   {
@@ -1348,7 +1074,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 31,
    "hot": false
   },
   {
@@ -1362,7 +1088,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1376,7 +1102,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1390,7 +1116,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1404,7 +1130,273 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 30.9,
+   "hot": false
+  },
+  {
+   "title": "여수서 ‘2026 남해안컵 국제요트대회’ 개막…31척 출전",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214643",
+   "summary": "AI 생성 영상여수시는 여수와 통영, 부산을 잇는 ‘2026 남해안컵 국제요트대회’가 3일부터 6일까지 나흘간 열린다고 지난 31일 밝혔다. 국내외 선수 280여명과 요트 31척이 참가하며, 여수에서는 시민과 관광객이 윈드서핑과 카약, 딩기요트를 무료로 체험할 수 있다.전남광주통합특별시와 경남, 부산이 공동 주최하는 이번 대회는 남해안 해역을 무대로 진행된다.개막식은 9월4일 여수에서 열린다. 2026여수세계섬박람회 개막을 하루 앞두고 열려 섬박람회의 성공적인 개최를 기원하는 의미도 담았다.대회 기간에는 본 레이스와 함께 청소년 요",
+   "publishedAt": 1788243389000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.9,
+   "hot": false
+  },
+  {
+   "title": "\"AI가 알잘딱깔센 가전제어\"...LG전자, IFA서 차세대 AI 홈 선보여",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214699",
+   "summary": "LG전자는 오는 4일부터 8일까지 독일 베를린에서 열리는 유럽 최대 가전 전시회 'IFA 2026'에서 차세대 AI 홈을 공개한다고 1일 밝혔다.이번 전시에서는 AI 홈에 텍스트 기반 채팅으로 맞춤형 지원을 제공하는 '씽큐 클로(ThinQ Claw)'를 새롭게 선보인다.씽큐 클로는 캘린더 등 일상 서비스와 연동돼 별도 설정 없이도 사용자가 채팅으로 계획이나 상태를 공유하면 손님 접대에 맞춰 조리 기기를 관리하거나 귀가 전 실내 공기질·온도를 미리 조절하는 등의 서비스를 제공한다. 이를 통해 단순 가전 제어를 넘어 한층 개인화된 고객",
+   "publishedAt": 1788243307000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.9,
+   "hot": false
+  },
+  {
+   "title": "제논, AI 엔지니어 중심 전 직군 대규모 채용",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214691",
+   "summary": "생성 AI 전문 제논(대표 고석태)이 사업 및 제품 포트폴리오 확대에 발맞춰 AI 엔지니어를 중심으로 전 직군 대규모 채용에 나선다고 1일 밝혔다.이번 집중 채용 기간 동안 총 17개 포지션에서 50du명을 채용할 계획이다. 전체 임직원의 4분의 1에 해당하는 규모다. 지난 5월에 이어 올해 두 번째 진행하는 공개채용으로 개발 직군부터 프로젝트 관리, 사업개발까지 사업 전반에 걸쳐 인재를 모집한다.가장 많은 분야는 AI 엔지니어로, 고객 기업의 시스템과 데이터 환경에서 작동하는 생성 AI 에이전트를 설계·구축·운영하는 역할을 맡는다",
+   "publishedAt": 1788240025000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.6,
+   "hot": false
+  },
+  {
+   "title": "LGU+, 어라이즈 AI와 '신뢰 가능한 AI 에이전트' 체계 구축한다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214696",
+   "summary": "LG유플러스(대표 홍범식)는 '어라이즈 AI'와 AI 에이전트 운영관리 효율화를 위한 전략적 업무협약(MOU)을 체결했다고 1일 밝혔다.양사는 이번 협약을 통해 AI 에이전트의 성능과 응답 품질을 점검하고, 운영 과정에서 발생할 수 있는 오류를 분석·관리해 안전성을 높이는 기술 분야에서 협력한다.구체적으로 ▲한국어·음성 기반 AI 평가 기술 개발 협력 ▲AI가 부정확하거나 부적절한 답변을 생성하지 않도록 하는 안전장치 기술 협력 ▲국내 B2B 시장 공동 사업 기회 발굴 등을 추진할 방침이다.어라이즈 AI는 생성 AI와 AI 에이전트",
+   "publishedAt": 1788239865000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.6,
+   "hot": false
+  },
+  {
+   "title": "비드래프트, “AI 문명은 창발인가 암송인가”…라이브 실험세계 ‘ai-월드’ 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214701",
+   "summary": "AI 전문 비드래프트(대표 김민식)가 다중 에이전트의 ‘창발(emergence)’을 실험적으로 검증하는 라이브 연구 플랫폼 ‘ai-월드(CIVOS)’를 공개했다. 수천~수만개의 AI 에이전트를 풀어놓으면 사회·분업·문명과 유사한 구조가 나타난다는 연구가 이어지고 있다. 비드래프트는 그 현상이 진짜 새로운 탐색인지 아니면 언어모델이 이미 학습한 인류사를 다시 꺼내는 ‘암송’인지 구분하지 않으면 창발이라는 결론을 내릴 수 없다고 지적한다.핵심은 대조군이다. 회사는 과제 구조는 그대로 둔 채 모델이 가진 사전지식을 사용할 수 없게 하거나",
+   "publishedAt": 1788239793000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.6,
+   "hot": false
+  },
+  {
+   "title": "F/OSS Comics #1: 찰스 배비지와 에이다 러브레이스",
+   "url": "https://news.hada.io/topic?id=33072",
+   "summary": "기존 사이트(https://joone.net)에서 https://fosscomics.com으로 옮기면서 예전 그렸던 만화를 다시 다듬고 있습니다: 그림도 다시 그리고, 새 그림도 추가했습니다. 내용도 업데이트 되었으니, 다시 한번 읽어도 좋을 것 같습니다. 업데이트되는데, 에피소스를 공유하겠습니다.",
+   "publishedAt": 1788158854000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 30.5,
+   "hot": false
+  },
+  {
+   "title": "AI 업계의 반격...AI 옹호 단체 통해 '데이터센터 홍보' 나서",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214695",
+   "summary": "전기료 인상과 물 부족, 소음 공해 등에 따른 미국 유권자들의 데이터센터 거부감이 폭발적인 정치적 쟁점으로 떠오른 가운데, AI 업계가 전면적인 여론 반격에 나섰다.악시오와 블룸버그 등에 따르면, 비영리 단체 '빌드 아메리칸 AI(Build American AI)'는 31일(현지시간) 캔자스와 오하이오, 위스콘신 등 미 중간선거의 핵심 격전지 주를 중심으로 데이터센터 유치의 당위성을 알리는 대대적인 캠페인을 시작한다고 발표했다. 현재 5000만달러(약 685억원) 규모의 자금을 확보한 이 단체는 유료 광고와 유권자 참여, 정책 연구",
+   "publishedAt": 1788239340000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.5,
+   "hot": false
+  },
+  {
+   "title": "엔비디아, '칩 설계' 미디어텍에 4.7조 투자...GPU 독점 넘어 '생태계 표준' 노린다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214681",
+   "summary": "엔비디아가 대만 반도체 설계업체 미디어텍에 35억달러(약 4조7000억원)를 투자하며 빅테크의 자체 AI 칩 확대에 본격적으로 대응하고 나섰다. 자체 AI 칩을 개발하는 기업이 늘어나는 상황에서 엔비디아는 GPU 판매에만 의존하기보다 초고속 연결 기술과 데이터센터 아키텍처를 업계 표준으로 확대해 AI 인프라 전체에서 주도권을 유지하겠다는 전략이다.로이터 등에 따르면, 엔비디아는 1일(현지시간) 미디어텍이 발행하는 39억달러 규모의 달러화 전환사채 가운데 35억달러어치를 인수한다고 밝혔다.이는 엔비디아가 미국 외 기업에 단행한 직접",
+   "publishedAt": 1788236631000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.3,
+   "hot": false
+  },
+  {
+   "title": "슈퍼브에이아이, ‘지하주차장 전기차 화재 조기 감지 AI’ 개발…“오경보율 80% 감소”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214687",
+   "summary": "비전 인텔리전스 전문 슈퍼브에이아이(대표 김현수)는 국립소방연구원과의 공동 연구를 통해 지하주차장 내 전기차 화재를 조기 감지하는 AI 모델을 개발했다고 1일 밝혔다. 전기차가 밀집한 지하주차장은 진입로가 제한적이고 불길 확산 속도가 빠른 데다 재발화 가능성도 높아 화재에 특히 취약한 공간으로 꼽힌다.이에, 슈퍼브에이아이는 소방청 소속 국가 연구기관인 국립소방연구원과 공동 연구를 진행하며 전기차 화재·연기 인식 AI 기술 개발을 주도해 왔다. 연구는 6개월 단위, 총 4개 차수로 설계됐다.배터리 열폭주 초기의 옅은 연기를 포착하는",
+   "publishedAt": 1788236174000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.2,
+   "hot": false
+  },
+  {
+   "title": "중국 CXMT, 'HBM3E' 소량 생산 성공...양산·수율 확보는 과제",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214679",
+   "summary": "중국 최대 메모리 반도체 업체인 창신메모리(CXMT)가 AI 칩에 핵심적으로 사용되는 고대역폭메모리(HBM) 최신 제품군 가운데 하나인 HBM3E의 소량 생산에 들어간 것으로 알려졌다. 미국의 반도체 수출 규제로 첨단 HBM 확보에 어려움을 겪어온 중국이 자체 AI 반도체 생태계 구축에 필요한 핵심 메모리를 국산화하는 데 한 걸음 더 다가섰다는 평가다.31일(현지시간) 디 인포메이션에 따르면, CXMT는 최근 HBM3E를 소규모로 생산하기 시작했다.HBM3E는 엔비디아의 H200과 블랙웰 계열 등 주요 AI 프로세서에 탑재되는 메모",
+   "publishedAt": 1788234124000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.1,
+   "hot": false
+  },
+  {
+   "title": "'대학생 AI 에이전트' 튜링, 70억 시리즈B 투자 유치",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214674",
+   "summary": "Ai 전문 튜링(대표 신지은·김지윤)은 70억원 규모의 시리즈B 투자를 유치했다고 1일 밝혔다.이번 투자에는 산업은행, 킹고투자파트너스, 컴퍼니케이파트너스가 신규 투자사로 참여했으며, 기존 투자사인 코오롱인베스트먼트도 후속 투자에 나섰다.튜링은 대학생의 워크플로우 전반을 지원하는 AI 에이전트 'GPAI'를 운영하고 있다. 복잡한 문제를 해결하는 추론 기술과 자체 이미지 엔진 기반 시각화, AI 네이티브 문서 처리 기술 등을 통해 강의 학습부터 과제·시험 준비, 팀 프로젝트까지 대학생활에서 필요한 결과물을 정확하게 제공하는 것이 특",
+   "publishedAt": 1788233694000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30,
+   "hot": false
+  },
+  {
+   "title": "트럼프, 데이터센터 반대 지역에 \"낙후되고 가난해질 것\" 경고",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214678",
+   "summary": "도널드 트럼프 미국 대통령이 AI 데이터센터 건설에 반대하는 미국 지역사회를 향해 “낙후되고 가난해질 것”이라고 강하게 경고했다. AI 산업 육성과 데이터센터 확대를 국가 경쟁력과 일자리 창출의 핵심으로 내세우는 트럼프 대통령이 최근 데이터센터에 대한 초당적 반발이 확산하자 직접적인 여론전에 나선 것이다.트럼프 대통령은 31일(현지시간) 소셜미디어 트루스소셜에 “미국 전역의 지역사회가 데이터센터를 원하지 않는 유일한 이유는 낙후되고 가난해지기를 원하기 때문”이라며 “성공하고 부유해지기를 원한다면 데이터가 지배하도록 내버려둬야 한다”",
+   "publishedAt": 1788233509000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, '챗GPT' 광고 200일 만에 연 매출 1.4조 돌파",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214677",
+   "summary": "오픈AI의 '챗GPT' 광고 사업이 출시 200여일 만에 연간 반복 매출(ARR) 10억달러(약 1조4000억원)를 넘어섰다. 무료 및 저가 요금제를 중심으로 챗GPT 사용자가 빠르게 늘어나는 가운데 광고주도 수만 곳으로 확대되면서, 구독료와 기업용 서비스에 이어 광고가 새로운 핵심 수익원으로 떠오르고 있다.오픈AI는 31일(현지시간) 챗GPT 광고(Ads)의 ARR이 10억달러에 도달했다고 밝혔다.지난 2월 미국에서 광고 테스트를 시작한 지 200일이 채 되지 않은 시점이다. 출시 6주 만인 지난 4월 미국 광고 사업 ARR이 1",
+   "publishedAt": 1788231648000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 29.9,
+   "hot": false
+  },
+  {
+   "title": "Burning Man 공동창립자 “축제는 영혼을 잃었다”",
+   "url": "https://news.hada.io/topic?id=33070",
+   "summary": "초기 Burning Man은 소유자와 지휘자, 공식 이념 없이 참가자들이 직접 만들어낸 무정부주의적 협업 공동체 였지만, 지금은 부유층이 완성된 경험을 구매하는 상업적 축제로 변했다는 공동창립자 John Law의 비판 Cacophony Society의 즉흥적인 사막 탐험과 Desert Site Works의",
+   "publishedAt": 1788147451000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 29.7,
+   "hot": false
+  },
+  {
+   "title": "Haiku R1/beta6 출시, Firefox와 QEMU 하드웨어 가상화 추가",
+   "url": "https://news.hada.io/topic?id=33069",
+   "summary": "이전 베타 이후 약 2년간의 개발을 반영해 530건 이상의 버그와 개선 요청 을 처리하고, 성능과 안정성, 최신 x86 하드웨어 호환성을 높임 Mozilla의 허가를 받은 정식 Firefox 브랜드 빌드 가 HaikuDepot에 추가됐으며, LibreWolf, Waterfox, Floorp, Icedove 등도 ...",
+   "publishedAt": 1788147083000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 29.7,
+   "hot": false
+  },
+  {
+   "title": "이더넷 패치 케이블로 파일 전송하기",
+   "url": "https://news.hada.io/topic?id=33065",
+   "summary": "두 컴퓨터를 이더넷 패치 케이블로 직접 연결 하고 IP 주소만 설정하면 별도 네트워크 장비 없이 대용량 파일을 전송할 수 있음 Linux에서는 양쪽 인터페이스에 IPv6 주소를 지정한 뒤 socat 과 dd 를 이용해 TCP로 파일을 복사 할 수 있음...",
+   "publishedAt": 1788145275000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 29.6,
+   "hot": false
+  },
+  {
+   "title": "MS·오픈AI 동시 장애 발생...클라우드 인프라 연관성에 주목",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214676",
+   "summary": "마이크로소프트(MS)의 기업용 이메일·일정 관리 서비스인 엑스체인지 온라인(Exchange Online)과 아웃룩(Outlook)에서 대규모 장애가 발생한 가운데, 비슷한 시간대에 오픈AI의 기업용 AI 에이전트 챗GPT 워크(ChatGPT Work)에서도 접속 지연과 오류가 잇따랐다. 글로벌 기업들의 업무에 광범위하게 활용되는 두 서비스가 동시에 차질을 빚으면서 이메일과 일정 관리부터 AI 기반 업무 수행까지 기업 업무 현장 곳곳에서 불편이 발생했다.MS는 31일(현지시간) 오전부터 엑스체인지 온라인에서 접속 및 기능 저하 문제가",
+   "publishedAt": 1788228559000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 29.6,
+   "hot": false
+  },
+  {
+   "title": "AI 네이티브 기업 실행전략 세미나 9일 개최...동원·다이닝브랜즈·크몽 등 사례 발표",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214668",
+   "summary": "단순한 AI 도입을 넘어, 조직이 일하는 방식 자체를 AI 중심으로 재설계하려는 움직임이 산업 현장 전반으로 확대되는 가운데, AI 네이티브 기업으로 변모하기 위해 무엇을 어떻게 실행해야 하는지를 실제 기업 사례로 짚어보는 자리가 마련된다.데브멘토(대표 이병희)는 9일 서울 잠실 한국광고문화회관에서 'AI 사원, 믿고 일 시켜도 되는가 : AI 네이티브 기업으로 가는 길과 실행전략' 세미나를 개최한다고 밝혔다.이날 행사에서는 60여개 AI 사원을 실전 배치한 동원그룹, 일할 곳을 먼저 정의해 업무를 최적화한 다이닝브랜즈그룹, 사내",
+   "publishedAt": 1788228000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 29.6,
+   "hot": false
+  },
+  {
+   "title": "“단어를 신중하게 골랐을 뿐”: 문장으로 만든 양쪽 정렬",
+   "url": "https://news.hada.io/topic?id=33063",
+   "summary": "1990년대 후반에 작성된 Super Metroid 공략 글은 17000단어가 넘는 본문에서 모든 줄의 오른쪽 끝을 글자로 정확하게 맞춤 고정폭 글꼴은 모든 글자/공백의 너비가 같아 양쪽 정렬을 적용하면 단어 사이가 벌어지고, 남은 공간을 고르게 나누기도 어려움 조판에서 사용하는...",
+   "publishedAt": 1788143501000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 29.5,
    "hot": false
   }
  ]
