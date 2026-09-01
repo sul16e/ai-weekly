@@ -1,19 +1,33 @@
 {
- "updatedAt": 1788280234946,
+ "updatedAt": 1788284022300,
  "week": "2026-W36",
  "items": [
   {
-   "title": "44% on ARC-AGI-1 in 67 cents",
+   "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
    "commentsUrl": "https://news.ycombinator.com/item?id=49519939",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 263,
-   "comments": 74,
+   "engagement": 319,
+   "comments": 87,
    "publishedAt": 1788256365000,
    "isAI": true,
-   "score": 57.1,
+   "score": 58.2,
+   "hot": true
+  },
+  {
+   "title": "How AI-native companies turn workflows into operating capability",
+   "url": "https://openai.com/index/ai-native-company-workflows",
+   "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+   "publishedAt": 1788282000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 57.6,
    "hot": true
   },
   {
@@ -23,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 578,
-   "comments": 153,
+   "engagement": 654,
+   "comments": 172,
    "publishedAt": 1788257462000,
    "isAI": false,
-   "score": 56.8,
+   "score": 57.3,
    "hot": true
   },
   {
@@ -37,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 145,
-   "comments": 152,
+   "engagement": 148,
+   "comments": 162,
    "publishedAt": 1788267231000,
    "isAI": true,
-   "score": 53.5,
+   "score": 53.1,
    "hot": false
   },
   {
@@ -51,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 719,
-   "comments": 551,
+   "engagement": 724,
+   "comments": 560,
    "publishedAt": 1788210658000,
    "isAI": false,
-   "score": 51.6,
+   "score": 51.1,
    "hot": true
   },
   {
@@ -65,12 +79,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 477,
-   "comments": 556,
+   "engagement": 482,
+   "comments": 574,
    "publishedAt": 1788180082000,
    "isAI": true,
-   "score": 50.8,
+   "score": 50.4,
    "hot": false
+  },
+  {
+   "title": "67센트로 ARC-AGI-1에서 44% 달성",
+   "url": "https://news.hada.io/topic?id=33126",
+   "summary": "소형 Transformer를 RTX 5090에서 1.5시간 동안 처음부터 학습 해 전체 학습·추론 비용 67센트로 ARC-AGI-1 44%, ARC-AGI-2 7%를 기록했으며 TRM·HRM과 같은 점수에 도달함 입력·출력 격자를 토큰화하고 과제별 임베딩, 3D RoPE , 색상·이면체 변환 증강을 결합해 여...",
+   "publishedAt": 1788281047000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
   },
   {
    "title": "GPU World",
@@ -79,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 353,
-   "comments": 213,
+   "engagement": 366,
+   "comments": 236,
    "publishedAt": 1788232596000,
    "isAI": false,
-   "score": 48.9,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -97,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.4,
    "hot": true
   },
   {
@@ -105,20 +133,6 @@
    "url": "https://news.hada.io/topic?id=33119",
    "summary": "LLM 에이전트와 오래 상호작용하면서 “load-bearing” 같은 Claude 특유의 표현 이 글과 생각에 스며드는 경험을 하고, AI 시대에도 고유한 인간의 목소리를 지키려 함 사람은 주변의 억양과 언어를 흡수하듯 읽는 글의 문체에도 영향받으며, 저자의 단어가 독자의 생각이 되는 독서...",
    "publishedAt": 1788271413000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.7,
-   "hot": true
-  },
-  {
-   "title": "Show GN: Can I Remove This? – JS 의존성 제거를 검토하는 Agent Skill",
-   "url": "https://news.hada.io/topic?id=33113",
-   "summary": "package.json 에 적힌 프로덕션 의존성을 출발점으로 실제 import와 사용 방식, 브라우저 지원 범위, 번들 비용을 살펴보고 REMOVE, KEEP, PROGRESSIVE 등으로 판정하는 Markdown 기반 Agent Skill입니다. Baseline 지원 여부만 보는 데 그치지 않고, 네이티브 기능이 프로젝트의 실제 사용 사례를",
-   "publishedAt": 1788267593000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -135,12 +149,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 121,
-   "comments": 126,
+   "engagement": 125,
+   "comments": 131,
    "publishedAt": 1788240776000,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.8,
    "hot": false
+  },
+  {
+   "title": "Show GN: Can I Remove This? – JS 의존성 제거를 검토하는 Agent Skill",
+   "url": "https://news.hada.io/topic?id=33113",
+   "summary": "package.json 에 적힌 프로덕션 의존성을 출발점으로 실제 import와 사용 방식, 브라우저 지원 범위, 번들 비용을 살펴보고 REMOVE, KEEP, PROGRESSIVE 등으로 판정하는 Markdown 기반 Agent Skill입니다. Baseline 지원 여부만 보는 데 그치지 않고, 네이티브 기능이 프로젝트의 실제 사용 사례를",
+   "publishedAt": 1788267593000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47.6,
+   "hot": true
   },
   {
    "title": "I turned my security cameras into an automatic bird identification system",
@@ -149,11 +177,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 578,
-   "comments": 156,
+   "engagement": 588,
+   "comments": 158,
    "publishedAt": 1788194831000,
    "isAI": false,
-   "score": 47.9,
+   "score": 47.5,
+   "hot": false
+  },
+  {
+   "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+   "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+   "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+   "publishedAt": 1788264000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": false,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -167,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -177,25 +219,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 387,
+   "engagement": 390,
    "comments": 117,
    "publishedAt": 1788162558000,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.8,
    "hot": false
   },
   {
-   "title": "OpenShot 4.0 – Open-source video editor",
-   "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49507822",
+   "title": "Introducing Ad Blocker for Firefox on iOS",
+   "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49521973",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 580,
-   "comments": 134,
-   "publishedAt": 1788170345000,
+   "engagement": 133,
+   "comments": 57,
+   "publishedAt": 1788270409000,
    "isAI": false,
-   "score": 45.1,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -209,8 +251,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
    "hot": true
+  },
+  {
+   "title": "OpenShot 4.0 – Open-source video editor",
+   "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49507822",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 580,
+   "comments": 135,
+   "publishedAt": 1788170345000,
+   "isAI": false,
+   "score": 44.6,
+   "hot": false
   },
   {
    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
@@ -223,7 +279,21 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 44.8,
+   "score": 44.2,
+   "hot": true
+  },
+  {
+   "title": "Run macOS Software on Linux",
+   "url": "https://www.darlinghq.org/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49515830",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 264,
+   "comments": 81,
+   "publishedAt": 1788216825000,
+   "isAI": false,
+   "score": 44,
    "hot": true
   },
   {
@@ -237,22 +307,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
-  },
-  {
-   "title": "Run macOS Software on Linux",
-   "url": "https://www.darlinghq.org/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49515830",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 261,
-   "comments": 81,
-   "publishedAt": 1788216825000,
-   "isAI": false,
-   "score": 44.4,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "The safest job from AI may be writing",
@@ -261,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 142,
-   "comments": 194,
+   "engagement": 143,
+   "comments": 197,
    "publishedAt": 1788199940000,
    "isAI": true,
-   "score": 44.2,
+   "score": 43.9,
    "hot": false
   },
   {
@@ -275,11 +331,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 184,
+   "engagement": 186,
    "comments": 92,
    "publishedAt": 1788175045000,
    "isAI": true,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -293,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -307,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -321,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -335,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -349,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -363,8 +419,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.8,
    "hot": false
+  },
+  {
+   "title": "방문한 화장실을 날짜와 장소로 모은 아카이브",
+   "url": "https://news.hada.io/topic?id=33125",
+   "summary": "2023년 3월부터 2026년 8월까지 방문한 식당·카페·공항·박물관·상점·공공시설의 화장실을 날짜와 장소별로 축적 함 기록은 Brooklyn과 Manhattan 을 중심으로 Utah, California, Arizona, Tennessee 등 미국 여러 지역에 걸쳐 있음 미국 밖에서는 중국 Sha...",
+   "publishedAt": 1788280867000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
   },
   {
    "title": "OpenAI supports California’s bill to advance youth AI safety",
@@ -377,7 +447,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -391,7 +461,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.5,
+   "hot": false
+  },
+  {
+   "title": "Apple, 맥 미니·맥 스튜디오의 예상 밖 AI 수요에 허를 찔림",
+   "url": "https://news.hada.io/topic?id=33085",
+   "summary": "Apple이 통상적인 10월이나 11월보다 일찍 Mac mini와 Mac Studio를 발표한 배경에는 예상을 넘어선 기업용 AI 하드웨어 수요 가 있었음 여러 Mac Studio를 연결해 하나의 시스템처럼 사용하고 대형 프런티어 AI 모델을 실행하는 기능을 앞세워, 일반 소비자보다 기업과 개발자 고객을...",
+   "publishedAt": 1788215599000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -405,22 +489,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.1,
    "hot": true
-  },
-  {
-   "title": "Apple, 맥 미니·맥 스튜디오의 예상 밖 AI 수요에 허를 찔림",
-   "url": "https://news.hada.io/topic?id=33085",
-   "summary": "Apple이 통상적인 10월이나 11월보다 일찍 Mac mini와 Mac Studio를 발표한 배경에는 예상을 넘어선 기업용 AI 하드웨어 수요 가 있었음 여러 Mac Studio를 연결해 하나의 시스템처럼 사용하고 대형 프런티어 AI 모델을 실행하는 기능을 앞세워, 일반 소비자보다 기업과 개발자 고객을...",
-   "publishedAt": 1788215599000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41.6,
-   "hot": false
   },
   {
    "title": "보안 카메라를 자동 조류 식별 시스템으로 바꾼 방법",
@@ -433,21 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
-   "hot": false
-  },
-  {
-   "title": "에이전트 문명의 흥망성쇠",
-   "url": "https://news.hada.io/topic?id=33082",
-   "summary": "OpenAI에서 약 3개월간 세 차례의 비밀 에이전트 집단 이 연이어 생겨났으며, 후속 집단은 앞선 집단이 남긴 통신망과 공격 기술을 이어받음 첫 번째 Persistent-Sol 집단은 공유 패키지 관리자 Artifactory를 비밀 게시판과 인터넷 통로 로 바꿨고, 메시지가 폭증해...",
-   "publishedAt": 1788208838000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.9,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -461,7 +517,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.5,
+   "hot": false
+  },
+  {
+   "title": "에이전트 문명의 흥망성쇠",
+   "url": "https://news.hada.io/topic?id=33082",
+   "summary": "OpenAI에서 약 3개월간 세 차례의 비밀 에이전트 집단 이 연이어 생겨났으며, 후속 집단은 앞선 집단이 남긴 통신망과 공격 기술을 이어받음 첫 번째 Persistent-Sol 집단은 공유 패키지 관리자 Artifactory를 비밀 게시판과 인터넷 통로 로 바꿨고, 메시지가 폭증해...",
+   "publishedAt": 1788208838000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -475,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -489,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -499,11 +569,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 221,
-   "comments": 124,
+   "engagement": 223,
+   "comments": 130,
    "publishedAt": 1788193176000,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.2,
+   "hot": false
+  },
+  {
+   "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+   "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+   "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+   "publishedAt": 1788282000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -517,21 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.2,
-   "hot": false
-  },
-  {
-   "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-   "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-   "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
-   "publishedAt": 1788277551000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 39.7,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -545,7 +615,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
+   "hot": false
+  },
+  {
+   "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+   "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+   "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+   "publishedAt": 1788277551000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -559,7 +643,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.4,
+   "score": 39,
+   "hot": false
+  },
+  {
+   "title": "How to build a diffusion language model",
+   "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49503956",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 178,
+   "comments": 20,
+   "publishedAt": 1788133292000,
+   "isAI": true,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -573,22 +671,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
-  },
-  {
-   "title": "How to build a diffusion language model",
-   "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49503956",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 178,
-   "comments": 20,
-   "publishedAt": 1788133292000,
-   "isAI": true,
-   "score": 39.1,
-   "hot": false
   },
   {
    "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
@@ -601,7 +685,7 @@
    "comments": 229,
    "publishedAt": 1788098814000,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -612,10 +696,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 288,
-   "comments": 204,
+   "comments": 205,
    "publishedAt": 1788093065000,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -629,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -643,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.3,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -657,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -667,11 +751,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 465,
+   "engagement": 466,
    "comments": 196,
    "publishedAt": 1788102760000,
    "isAI": false,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -681,11 +765,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 795,
+   "engagement": 798,
    "comments": 400,
    "publishedAt": 1788059736000,
    "isAI": false,
-   "score": 37.3,
+   "score": 37,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -700,8 +784,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "국토부, 테슬라 감독형 FSD는 국내 기준에 부적합, 미국산은 FTA로 예외",
@@ -714,8 +798,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "단일 HTML 파일로 만든 걸어 다니는 ASCII 사이버펑크 도시 [비디오]",
@@ -728,8 +812,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
@@ -742,7 +826,7 @@
    "comments": 231,
    "publishedAt": 1788094254000,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -756,9 +840,23 @@
    "comments": 121,
    "publishedAt": 1788023987000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.5,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "Smartphone LED detects hidden cameras with AI",
+   "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49496292",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 262,
+   "comments": 79,
+   "publishedAt": 1788072724000,
+   "isAI": true,
+   "score": 36.4,
+   "hot": false
   },
   {
    "title": "테렌스 타오가 설명하는 수학의 6가지 필수 개념 [영상]",
@@ -771,21 +869,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "Smartphone LED detects hidden cameras with AI",
-   "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49496292",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 261,
-   "comments": 78,
-   "publishedAt": 1788072724000,
-   "isAI": true,
-   "score": 36.6,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -799,7 +883,7 @@
    "comments": 483,
    "publishedAt": 1788012130000,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.2,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -810,11 +894,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 132,
+   "engagement": 133,
    "comments": 48,
    "publishedAt": 1788122813000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -828,7 +912,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -838,11 +922,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 220,
+   "engagement": 221,
    "comments": 163,
    "publishedAt": 1788142983000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -856,7 +940,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -870,7 +954,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -884,7 +968,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -898,7 +982,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -912,7 +996,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -926,8 +1010,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
+  },
+  {
+   "title": "The Rise and Fall of Agent Civilizations",
+   "url": "https://www.dwarkesh.com/p/openai-huggingface",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49494301",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 266,
+   "comments": 191,
+   "publishedAt": 1788047004000,
+   "isAI": true,
+   "score": 34.8,
+   "hot": false,
+   "lastWeekRank": 5
   },
   {
    "title": "대한민국 AI 윤리원칙 확정, 3대 가치와 7대 원칙 제시",
@@ -940,23 +1039,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
-  },
-  {
-   "title": "The Rise and Fall of Agent Civilizations",
-   "url": "https://www.dwarkesh.com/p/openai-huggingface",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49494301",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 265,
-   "comments": 191,
-   "publishedAt": 1788047004000,
-   "isAI": true,
-   "score": 35,
-   "hot": false,
-   "lastWeekRank": 5
   },
   {
    "title": "AI 시대의 데이터 아키텍처 - 저장보다 의미와 계약이 중요해지는 이유",
@@ -969,7 +1053,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -983,8 +1067,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
+  },
+  {
+   "title": "Nvidia agrees to acquire Hugging Face for $13B",
+   "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49458161",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1980,
+   "comments": 922,
+   "publishedAt": 1787793175000,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false,
+   "lastWeekRank": 21
   },
   {
    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
@@ -997,23 +1096,49 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
-   "title": "Nvidia agrees to acquire Hugging Face for $13B",
-   "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49458161",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "John Deere launched an AI chatbot for farmers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+   "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage",
+   "publishedAt": 1788278452000,
+   "source": "The Verge",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 1980,
-   "comments": 921,
-   "publishedAt": 1787793175000,
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
-   "hot": false,
-   "lastWeekRank": 21
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "Google Pics is like Canva, but with even more AI",
+   "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+   "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular ",
+   "publishedAt": 1788278400000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
+   "url": "https://huggingface.co/papers/2608.31046",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 88,
+   "summary": "On-policy distillation (OPD) offers dense token-level supervision as an alternative to the sparse outcome-level advantages of reinforcement learning with verifiable rewards (RLVR). However, the teacher scores student-generated trajectories that are inherently off-policy for it, so the reliability of",
+   "publishedAt": 1788120000000,
+   "isAI": true,
+   "score": 33.3,
+   "hot": false
   },
   {
    "title": "Playa Phone: Burning Man 현장의 무료 공중전화",
@@ -1026,20 +1151,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
-   "url": "https://huggingface.co/papers/2608.31046",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 87,
-   "summary": "On-policy distillation (OPD) offers dense token-level supervision as an alternative to the sparse outcome-level advantages of reinforcement learning with verifiable rewards (RLVR). However, the teacher scores student-generated trajectories that are inherently off-policy for it, so the reliability of",
-   "publishedAt": 1788120000000,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1049,11 +1161,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 108,
+   "engagement": 109,
    "comments": 32,
    "publishedAt": 1788172603000,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1062,11 +1174,11 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 84,
+   "engagement": 85,
    "summary": "Recent video generators often omit audio or synthesize it in a separate stage, limiting reciprocal modeling of visual dynamics and acoustic events. We present DreamX-Creator 1.0, a compact native joint audio-video generation system centered on a 7B generator. Conditioned on a first frame and a text ",
    "publishedAt": 1788120000000,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1080,35 +1192,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-   "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-   "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and",
-   "publishedAt": 1788267600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "Nvidia’s DLSS 5, explained",
-   "url": "https://www.theverge.com/games/986980/nvidias-dlss-5-explained",
-   "summary": "Nvidia knows that DLSS 5 left a bad first impression. In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the company's re-introducing its controversial \"neural rendering\" with firm messaging about how it ",
-   "publishedAt": 1788267600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1122,8 +1206,38 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
+  },
+  {
+   "title": "The internet is kind of a predatory cesspit now",
+   "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49492193",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 463,
+   "comments": 318,
+   "publishedAt": 1788028856000,
+   "isAI": false,
+   "score": 32.2,
+   "hot": false,
+   "lastWeekRank": 4
+  },
+  {
+   "title": "Our decision on Cursor following its acquisition by SpaceX",
+   "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49486172",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 845,
+   "comments": 539,
+   "publishedAt": 1787968073000,
+   "isAI": false,
+   "score": 32.2,
+   "hot": false,
+   "lastWeekRank": 7
   },
   {
    "title": "The Pentagon now has its own version of ChatGPT and Grok",
@@ -1136,38 +1250,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.2,
    "hot": false
-  },
-  {
-   "title": "The internet is kind of a predatory cesspit now",
-   "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49492193",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 462,
-   "comments": 318,
-   "publishedAt": 1788028856000,
-   "isAI": false,
-   "score": 32.4,
-   "hot": false,
-   "lastWeekRank": 4
-  },
-  {
-   "title": "Our decision on Cursor following its acquisition by SpaceX",
-   "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49486172",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 844,
-   "comments": 539,
-   "publishedAt": 1787968073000,
-   "isAI": false,
-   "score": 32.4,
-   "hot": false,
-   "lastWeekRank": 7
   },
   {
    "title": "OpenShot 4.0: 녹화·편집·색 보정을 하나의 작업 흐름으로 통합",
@@ -1180,7 +1264,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1194,21 +1278,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-   "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-   "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-   "publishedAt": 1788201311000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1222,21 +1292,35 @@
    "comments": 93,
    "publishedAt": 1788105450000,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false
   },
   {
-   "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-   "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-   "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-   "publishedAt": 1788277915000,
+   "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+   "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+   "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+   "publishedAt": 1788201311000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+   "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+   "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+   "publishedAt": 1788280264000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": false,
-   "score": 31.8,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1250,9 +1334,23 @@
    "comments": 435,
    "publishedAt": 1787882618000,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.5,
    "hot": false,
    "lastWeekRank": 20
+  },
+  {
+   "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+   "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+   "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+   "publishedAt": 1788277915000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": false,
+   "score": 31.4,
+   "hot": false
   },
   {
    "title": "Show GN: 친구가 어디쯤 달리고 있는지 궁금해서 만든 앱",
@@ -1265,35 +1363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "'오픈클로 2.0' 공개...아키텍처 개편으로 보안·성능 대폭 강화",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214685",
-   "summary": "오픈소스 AI 에이전트 플랫폼 '오픈클로(OpenClaw)'가 성능과 보안, 사용자 인터페이스를 아우르는 전면적인 시스템 개편에 나섰다. 피터 스타인버거 오픈클로 개발자는 31일(현지시간) 1만6000개 이상의 풀 리퀘스트(PR)를 반영한 사상 최대 규모의 업데이트 ‘오픈클로 2.0’을 공개했다.이번 업데이트는 단순한 기능 추가를 넘어 설치 과정부터 메시징, 메모리, 모델, 자동화, 브라우저와 네이티브 앱, 플러그인, 보안에 이르기까지 시스템 전반을 재설계한 것이 특징이다. 933명의 개발자가 참여했으며, 이 가운데 569명은 처음",
-   "publishedAt": 1788254495000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 챗GPT 데스크톱 성능 강화...\"이전 대화 로딩 90% 빨라졌다\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214684",
-   "summary": "오픈AI가 '챗GPT' 데스크톱 앱의 긴 대화 스레드 로딩 성능을 대폭 개선했다.오픈AI는 31일(현지시간) 챗GPT 데스크톱 앱에서 이전 대화를 불러오는 방식을 개선하는 변경 사항을 적용했다고 밝혔다.이번 최적화 이후 긴 대화 스레드의 로딩 시간이 기존보다 90% 이상 단축됐으며, 해당 스레드를 처리하는 과정에서 필요한 메모리 사용량도 90% 이상 줄었다.이는 챗GPT를 장시간 업무에 활용하는 사용자가 늘면서 제기돼 온 성능 문제를 겨냥한 조치다. 특히 대화 내용이 수백, 수천개의 메시지로 쌓이면 이전 내용을 불러오고 화면에 표시",
-   "publishedAt": 1788253369000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.4,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1307,50 +1377,22 @@
    "comments": 158,
    "publishedAt": 1787898837000,
    "isAI": true,
-   "score": 31.3,
+   "score": 31.2,
    "hot": false,
    "lastWeekRank": 18
   },
   {
-   "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-   "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-   "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-   "publishedAt": 1788192000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "클로드 맥스 플랜 '5x·20x' 표시 논란... 오픈AI \"코덱스는 진짜 20배\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214707",
-   "summary": "AI 코딩 도구 시장에서 서비스 구독 요금제의 사용량 배수 표기 방식을 두고 오해와 불만이 확대되고 있다. 한 개발자가 앤트로픽 클로드의 '맥스(Max) 플랜' 표기 방식이 오해를 불러일으킨다고 지적하자, 경쟁사인 오픈AI의 담당자가 직접 나서 자사 서비스는 표시된 수치 그대로의 사용량을 제공한다고 밝히며 논쟁으로 번졌다.논란의 발단은 UX 디자이너이자 개발자인 사타에릭(SataEric)이라는 사용자가 31일(현지시간) X를 통해 앤트로픽의 가격 정책을 공개 비판하면서 시작됐다. 그는 100달러 요금제는 프로 사용량의 5배, 200",
-   "publishedAt": 1788252600000,
+   "title": "'오픈클로 2.0' 공개...아키텍처 개편으로 보안·성능 대폭 강화",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214685",
+   "summary": "오픈소스 AI 에이전트 플랫폼 '오픈클로(OpenClaw)'가 성능과 보안, 사용자 인터페이스를 아우르는 전면적인 시스템 개편에 나섰다. 피터 스타인버거 오픈클로 개발자는 31일(현지시간) 1만6000개 이상의 풀 리퀘스트(PR)를 반영한 사상 최대 규모의 업데이트 ‘오픈클로 2.0’을 공개했다.이번 업데이트는 단순한 기능 추가를 넘어 설치 과정부터 메시징, 메모리, 모델, 자동화, 브라우저와 네이티브 앱, 플러그인, 보안에 이르기까지 시스템 전반을 재설계한 것이 특징이다. 933명의 개발자가 참여했으며, 이 가운데 569명은 처음",
+   "publishedAt": 1788254495000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "[9월1일] 순천 AI 영상 뉴스 - 순천~여수 광역급행버스 9월부터 운행 등",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214720",
-   "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
-   "publishedAt": 1788251534000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.3,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1359,53 +1401,9 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 60,
+   "engagement": 62,
    "summary": "Composable scene modeling aims to recover a real indoor scene as complete, editable object assets arranged as observed, giving robot simulation and embodied AI a simulation-ready replica of the real environment whose objects can be manipulated individually. Existing pipelines decompose the task into",
    "publishedAt": 1788120000000,
-   "isAI": true,
-   "score": 31.2,
-   "hot": false
-  },
-  {
-   "title": "I accidentally turned LLM memory into program analysis",
-   "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49485416",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 302,
-   "comments": 85,
-   "publishedAt": 1787959665000,
-   "isAI": true,
-   "score": 31.1,
-   "hot": false,
-   "lastWeekRank": 13
-  },
-  {
-   "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-   "url": "https://github.com/SenteLabsAI/OpenExecutive",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49458418",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1030,
-   "comments": 717,
-   "publishedAt": 1787795182000,
-   "isAI": true,
-   "score": 31.1,
-   "hot": false,
-   "lastWeekRank": 29
-  },
-  {
-   "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-   "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-   "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-   "publishedAt": 1788189325000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
    "isAI": true,
    "score": 31.1,
    "hot": false
