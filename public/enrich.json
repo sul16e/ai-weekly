@@ -1331,7 +1331,15 @@
  },
  "Google Antigravity TOS: 3rd party usage can get Google account suspended": {
   "ko": "구글 안티그래비티 약관, 제3자 방식 사용 시 계정 정지될 수도",
-  "tldr": "구글의 AI 코딩 도구 '안티그래비티'를 이용약관과 다르게 제3자 방식으로 사용하면 구글 계정이 정지될 수 있다는 내용이 논란이 되고 있다."
+  "tldr": "구글의 AI 코딩 도구 '안티그래비티'를 이용약관과 다르게 제3자 방식으로 사용하면 구글 계정이 정지될 수 있다는 내용이 논란이 되고 있다.",
+  "img": "https://pbs.twimg.com/media/HRSLs9oXUAE-rRn.jpg:large",
+  "hook": "안티그래비티, 계정 정지 위험?",
+  "detail": "개발자 Gergely Orosz는 X에서 구글의 AI 코딩 도구 Antigravity 이용약관이 OpenClaw 같은 제3자 방식으로 사용한다고 판단될 경우 구글 계정 자체를 정지할 수 있다고 명시하고 있다고 지적했다. Theo(t3.gg)도 구글 제미나이 구독을 공식 창구 밖에서 쓰는 것이 계정 전체 정지로 이어질 수 있어 위험하다고 동조했다. 이에 대해 Antigravity 총괄인 Varun Mohan은 해당 주장이 사실과 다르며, 다른 표면(surface)에서의 사용을 허용하는 방안을 논의 중이라고 반박했다. 하지만 Orosz는 Antigravity와 무관한 Gemini CLI 계정까지 정지된 사례를 제보받았다며 재반박했고, Mohan은 과거 정지는 Antigravity 제품 사용에 한정된 조치였다고 재차 해명했다. 논쟁은 구글의 실제 약관(T&C) 문구와 실제 집행 사례 사이의 간극을 두고 계속되는 상황이다. 방송 전 체크: 이후 구글 또는 Antigravity 측의 약관 개정이나 공식 해명이 있었는지 최신 상태를 확인해야 한다.",
+  "bullets": [
+   "Gergely Orosz는 Google Antigravity 이용약관상 OpenClaw 같은 제3자 방식 사용으로 판단되면 구글 계정 자체가 정지될 수 있다고 지적함",
+   "Antigravity 총괄 Varun Mohan은 해당 주장이 사실과 다르다고 반박했으나, Orosz는 Antigravity와 무관한 Gemini CLI 계정까지 정지된 사례를 제보받았다고 재반박함",
+   "방송 전 체크: 이후 구글의 약관 개정이나 공식 해명이 있었는지 최신 상태 확인 필요"
+  ]
  },
  "Show GN: First Mind - 정보보안에 있어서 진입장벽을 없애보자": {
   "tldr": "초등학교 4학년부터 독학해온 고등학교 1학년 개발자가 정보보안 학습의 난해함과 진입장벽을 낮추기 위해 'First Mind' 프로젝트를 공개했다."
@@ -1343,8 +1351,8 @@
   "tldr": "기술 업계 은퇴자는 드물며, 대부분은 번아웃을 겪은 뒤 다른 일을 찾아 떠나는 경우가 많다는 경험담을 다룬 글이다."
  },
  "Google's latest AI weather model gives you no excuse to forget your umbrella": {
-  "ko": "구글, 더 정확해진 AI 기상 예보 모델 'WeatherNext 3' 공개",
-  "tldr": "구글 딥마인드와 구글 리서치가 대기 변화를 더 정밀하게 포착하고 더 자주 예측하는 새 AI 기상 모델 'WeatherNext 3'를 공개했다."
+  "ko": "구글, 우산 깜빡할 핑계 없앤 AI 날씨 예보 모델",
+  "tldr": "구글의 신형 AI 날씨 모델 WeatherNext 3가 검색·지도·제미나이의 날씨 정보에 반영될 예정이다."
  },
  "Nvidia confirms it will buy Hugging Face for $12.9 billion": {
   "ko": "엔비디아, 허깅페이스 129억 달러에 인수 확정",
@@ -1361,5 +1369,123 @@
  "Google says its AI weather model is getting better": {
   "ko": "구글, AI 기상 모델 WeatherNext 3로 예보 정확도 개선",
   "tldr": "구글이 강수·강설 예측 정확도를 높인 업데이트된 AI 기상 모델 'WeatherNext 3'를 공개하며 '전례 없는 해상도'의 예보가 가능하다고 밝혔다."
+ },
+ "Grok outage": {
+  "img": null,
+  "ko": "그록(Grok) 장애 발생",
+  "hook": "그록도 결국 멈췄다",
+  "tldr": "xAI의 챗봇 Grok에서 장애가 발생한 것으로 보인다.",
+  "detail": "xAI의 챗봇 Grok에서 장애가 발생했다는 소식이 제목만으로 전해졌다. 원문에 별도 본문이나 요약이 없어 장애의 원인, 영향 범위, 지속 시간 등 구체적 내용은 확인되지 않는다. 같은 시간대에 OpenAI ChatGPT와 Anthropic Claude에서도 장애가 보고되며 커뮤니티에서는 공용 인프라 문제 가능성이 함께 거론됐다. 방송 전 체크: Grok 장애의 정확한 원인과 지속 시간을 xAI 공식 상태 페이지에서 확인해야 한다.",
+  "bullets": [
+   "제목만 전해져 장애 원인·영향 범위·지속 시간 등 구체적 내용은 확인되지 않음",
+   "같은 시간대 ChatGPT·Claude 장애와 함께 거론되며 공용 인프라 문제 가능성이 논의됨 (방송 전 체크: 실제 연관성)"
+  ]
+ },
+ "ChatGPT 페이지에서 404 오류 발생": {
+  "img": null,
+  "hook": "챗GPT 404 페이지에 숨은 정보",
+  "tldr": "ChatGPT의 한 페이지가 404 오류를 냈는데, 남은 캐시 내용에는 대화 검색·맞춤 답변·Deep Research 등 기능 소개가 담겨 있던 것으로 확인됐다.",
+  "detail": "ChatGPT의 한 페이지가 404 오류를 반환했으나, 남아있던 페이지 설명에는 여러 기능 소개가 담겨 있던 것으로 확인됐다. 해당 페이지는 원래 AI와의 대화 입력창, 사진·파일 첨부, 웹 검색 기능을 안내하던 것으로 보인다. 로그인한 사용자는 과거 저장된 대화를 검색해 이전 작업을 이어가거나 맞춤형 답변을 받을 수 있다는 설명도 포함돼 있었다. 또한 Deep Research 기능이 여러 단계에 걸쳐 조사를 진행하고 출처를 비교·인용한다는 내용도 확인된다. 다만 이 페이지가 정확히 어떤 URL이었는지, 왜 404가 발생했는지는 요약만으로는 확인되지 않는다. 방송 전 체크: 원문 GeekNews 기사와 실제 404 페이지 URL을 확인해 정확한 맥락을 파악해야 한다.",
+  "bullets": [
+   "404가 뜬 페이지는 원래 AI 대화 입력창과 사진·파일 첨부, 웹 검색 기능을 안내하던 페이지였던 것으로 보임",
+   "로그인 시 저장된 대화를 검색해 이전 작업을 이어가고 맞춤형 답변을 받을 수 있다는 설명이 포함돼 있었음",
+   "Deep Research 기능은 여러 단계로 조사하고 출처를 비교해 인용하는 방식으로 소개된 것으로 보임 (방송 전 체크: 원문 전체 확인 필요)"
+  ]
+ },
+ "Qwen 3.8 27B available on Cerebras at 1500 tokens/s": {
+  "img": "https://cerebras-inference.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DModel%2BCatalog%26description%3DBrowse%2Ball%2Bmodels%2Bavailable%2Bon%2BCerebras%2Bpublic%2Bendpoints.%26theme%3D0d969de00f05bf51f42e2bb2&w=1200&q=100",
+  "ko": "Qwen 3.8 27B, Cerebras에서 초당 1500토큰 속도로 제공",
+  "hook": "1초에 1500토큰, 이 조합 실화냐",
+  "tldr": "Cerebras가 270억 파라미터 모델 Qwen 3.8 27B를 초당 약 1500토큰 속도로 서비스한다.",
+  "detail": "Cerebras가 자사 추론 API 모델 카탈로그에 Qwen 3.8 27B를 추가하며 초당 약 1500토큰의 처리 속도를 제공한다고 밝혔다. 이 모델은 270억 파라미터 규모로, 무료 티어에서는 6.4만 토큰, 유료 티어에서는 12.8만 토큰까지 컨텍스트를 지원한다. 같은 카탈로그에 있는 OpenAI GPT OSS 120B(1200억 파라미터)는 초당 약 3000토큰으로 더 빠르지만, 이는 모델 크기 차이에 따른 것으로 보인다. Cerebras는 공개 엔드포인트에서 pruning된 모델은 서비스하지 않으며 원본 아키텍처를 그대로 유지하고, 저장 단계에서만 선택적 가중치 양자화를 적용한다고 설명했다. 연구용 REAP 프루닝 모델은 허깅페이스에 별도 공개하되 상용 API에는 포함하지 않는다고 덧붙였다.",
+  "bullets": [
+   "Cerebras 모델 카탈로그에 Qwen 3.8 27B(270억 파라미터)가 추가돼 무료/유료 티어에서 각각 6.4만/12.8만 토큰 컨텍스트를 지원함",
+   "같은 카탈로그의 GPT OSS 120B(초당 약 3000토큰)보다는 느리지만 일반 GPU 추론 대비 매우 빠른 편으로 보임",
+   "Cerebras는 공개 엔드포인트에 pruning 없는 원본 가중치만 서빙하며 저장 단계에서만 선택적 양자화를 적용한다고 밝힘"
+  ]
+ },
+ "Claude outage – Resolved": {
+  "img": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+  "ko": "클로드 장애 해결, 일부 모델 오류 발생했었다",
+  "hook": "클로드, 3시간 만에 복구된 사연",
+  "tldr": "Anthropic이 Claude Mythos/Fable 5.1과 Opus 5 등 일부 모델의 오류를 약 3시간 만에 해결했다.",
+  "detail": "Anthropic이 일부 Claude 모델에서 발생한 오류율 상승 문제를 약 3시간 만에 해결했다. 2026년 9월 3일 13:26 UTC에 Claude Mythos 5.1, Fable 5.1, Opus 5에서 오류 조사가 시작됐고, 이후 Mythos/Fable 5, Opus 4.8, Opus 4.6까지 포함된 것으로 확인됐다. 16:06 UTC에 수정 사항이 배포됐고, 16:16 UTC에 영향이 종료되며 최종 'Resolved' 처리됐다. 이번 장애는 claude.ai 웹, Claude API(api.anthropic.com), Claude Code, Claude Cowork 등 주요 서비스 전반에 영향을 미쳤다. 같은 시간대에 OpenAI ChatGPT와 xAI Grok에서도 별도 장애가 보고되며, 세 서비스가 동시에 다운된 이유에 대한 논의가 커뮤니티에서 이어졌다.",
+  "bullets": [
+   "9월 3일 13:26 UTC에 오류 조사가 시작돼 16:16 UTC에 영향이 종료되며 약 3시간 만에 복구됨",
+   "초기엔 Mythos/Fable 5.1과 Opus 5가, 이후 Opus 4.8·4.6까지 포함된 것으로 확인됨",
+   "claude.ai, API, Claude Code, Claude Cowork 등 주요 서비스 전반에 영향을 미침"
+  ]
+ },
+ "Nvidia to acquire Hugging Face": {
+  "img": "https://image.cnbcfm.com/api/v1/image/108358351-1788440424844-108358351-1788440038288-gettyimages-2151605984-BLOOMBERG_TECHNOLOGY_SUMMIT.jpg?v=1788452709&w=1920&h=1080",
+  "ko": "엔비디아, 허깅페이스 인수 나서",
+  "hook": "엔비디아, 허깅페이스 인수설",
+  "tldr": "엔비디아가 허깅페이스 인수를 추진한다는 소식이 전해졌으나 세부 조건은 확인되지 않았다.",
+  "detail": "엔비디아가 AI 모델 허브 허깅페이스(Hugging Face) 인수에 나섰다는 소식이 제목을 통해 전해졌다. 다만 원문 페이지에서 실제 기사 본문을 확인할 수 없어 인수 금액, 구조, 발표 시점 등 구체적 내용은 파악되지 않는다. 사실이라면 엔비디아가 AI 하드웨어에서 모델·데이터셋 유통 플랫폼까지 영역을 넓히는 큰 행보가 된다. 방송 전 체크: 공식 보도자료나 양사 발표를 통해 인수 사실과 조건을 반드시 재확인해야 한다.",
+  "bullets": [
+   "방송 전 체크: 인수 금액, 거래 구조, 완료 시점 등 구체적 조건이 원문에서 확인되지 않아 별도 확인 필요",
+   "방송 전 체크: 엔비디아·허깅페이스 양측의 공식 발표 여부 확인 필요"
+  ]
+ },
+ "Mamdani bans AI in NYC schools": {
+  "img": null,
+  "ko": "맘다니, 뉴욕시 공립학교 AI 사용 금지",
+  "hook": "뉴욕시, 학교서 AI 전면 금지",
+  "tldr": "뉴욕시장 조란 맘다니가 공립학교에서의 AI 사용을 금지한 것으로 보인다.",
+  "detail": "뉴욕시장 조란 맘다니(Zohran Mamdani)가 뉴욕시 공립학교에서 AI 사용을 금지했다는 소식이 제목으로 전해졌다. 원문 요약이나 본문이 제공되지 않아 금지 대상 범위(학생 개인 기기, 학교 시스템, 특정 도구 등), 시행 시점, 예외 조항 등 구체적 내용은 확인되지 않는다. 이 조치가 사실이라면 미국 대도시 교육 현장에서 AI 정책을 둘러싼 논쟁에 큰 영향을 줄 수 있는 사안으로 보인다. 방송 전 체크: 뉴욕시 교육청(NYC DOE) 공식 발표와 정확한 금지 범위를 반드시 확인해야 한다.",
+  "bullets": [
+   "방송 전 체크: 금지 대상이 학생용인지 교사·행정 업무까지 포함하는지 원문 확인 필요",
+   "방송 전 체크: 시행 시점과 법적 근거(행정명령, 교육청 지침 등) 확인 필요"
+  ]
+ },
+ "OpenAI begins rolling out GPT-6 Astra": {
+  "img": "https://image.cnbcfm.com/api/v1/image/108357917-1788370763021-gettyimages-2292626781-AFP_C77688U.jpeg?v=1788370796&w=1920&h=1080",
+  "ko": "OpenAI, GPT-6 'Astra' 순차 출시 시작",
+  "hook": "OpenAI 다음 모델 이름은 Astra",
+  "tldr": "OpenAI가 차세대 모델 GPT-6 Astra의 순차 배포를 시작한 것으로 보인다.",
+  "detail": "OpenAI가 신모델 GPT-6 Astra의 순차 배포를 시작했다는 소식이 제목으로 전해졌다. 다만 원문 페이지에서 실제 본문 내용을 확인할 수 없어, 성능·기능·출시 범위 등 구체적 정보는 파악되지 않는다. 다른 소스에서는 Astra가 '컴퓨터·브라우저 사용의 새 지평'이라 주장하며 속도·정확성·안전성에서 독보적이라고 홍보했다는 보도가 확인된다. 방송 전 체크: GPT-6라는 명칭과 버전 체계, 실제 출시 대상(전체 사용자인지 일부인지)을 공식 발표로 재확인해야 한다.",
+  "bullets": [
+   "OpenAI가 신모델 'Astra' 출시를 시작했다는 소식으로, 구체적 성능·범위는 원문에서 확인되지 않음",
+   "다른 소스에서 Astra가 '컴퓨터·브라우저 사용의 새 지평'을 주장하며 속도·정확성·안전성을 강조했다는 보도가 함께 확인됨",
+   "방송 전 체크: GPT-6라는 명칭·버전 체계와 실제 출시 대상 범위를 공식 발표로 재확인 필요"
+  ]
+ },
+ "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?": {
+  "img": null,
+  "ko": "OpenAI·Claude·Grok 동시 다운, 원인은 뭐였나",
+  "hook": "AI 3대장 동시 먹통, 진짜 이유는",
+  "tldr": "OpenAI·Anthropic(Claude)·xAI(Grok) 서비스가 비슷한 시간대에 함께 장애를 겪으면서 공용 클라우드 인프라 장애 가능성이 제기됐다.",
+  "detail": "OpenAI, Anthropic(Claude), xAI(Grok)가 비슷한 시간대에 나란히 서비스 장애를 겪으면서 Hacker News에 원인을 묻는 스레드가 올라왔다. 최다 추천 댓글은 Cloudflare, Azure, AWS, Google Cloud 등 주요 클라우드에서 같은 시간대(대략 7:30)에 에러 신고가 동시에 급증했다는 Downdetector 데이터를 근거로, 공용 인프라 장애가 여러 AI 서비스로 파급됐을 가능성을 제기했다. 다만 Cloudflare CTO는 X를 통해 자사 문제가 아니라고 공식 부인했다. 스레드에는 관련 개별 장애 신고 링크로 'ChatGPT outage – Resolved', 'Claude outage – Resolved', 'Grok outage'가 함께 걸려 있어, 세 서비스 모두 한때 장애를 인정했음을 보여준다. 이후 댓글들은 대부분 원인 추정보다 농담으로 흘러갔다. 방송 전 체크: 실제 공통 원인이 무엇으로 최종 결론 났는지는 이 스레드만으로는 확인되지 않는다.",
+  "bullets": [
+   "HN 유저들은 Cloudflare, Azure, AWS, Google Cloud에서 같은 시간대(약 7:30)에 에러 신고가 동시에 급증했다는 Downdetector 데이터를 근거로 공용 인프라 장애 가능성을 제기함",
+   "Cloudflare CTO는 X를 통해 자사 문제가 아니라고 공식 부인함",
+   "ChatGPT·Claude·Grok 각각의 개별 장애 신고가 모두 별도로 'Resolved' 처리됐음이 관련 링크로 확인됨 (방송 전 체크: 최종 공통 원인 결론 여부)"
+  ]
+ },
+ ".name 3단계 도메인 종료": {
+  "tldr": "Verisign 제안과 ICANN 승인으로 .name 3단계 도메인(xxx.yyy.name)이 폐지되며, 25년간 운영된 neil.fraser.name 같은 주소도 사라질 예정이다."
+ },
+ "Polars 2.0 프리릴리스": {
+  "tldr": "Polars 2.0rc1은 새 기능 추가보다 API 정리에 집중했으며, 모든 LazyFrame 쿼리가 기본적으로 스트리밍 엔진을 사용해 메모리 효율과 성능이 약 5배 개선됐다."
+ },
+ "Abliteration.ai is making a business out of removing AI guardrails": {
+  "ko": "가드레일 제거 AI로 사업하는 'Abliteration.ai'",
+  "tldr": "Abliteration.AI는 가드레일 없는 강력한 AI 모델 접근을 쉽게 만들며, 방어자도 공격자와 같은 도구를 가져야 보안이 개선된다는 논리를 내세운다."
+ },
+ "Meta is paying to peek at how you use their latest AI model": {
+  "ko": "메타, AI 사용 내역 넘기면 요금 대폭 할인",
+  "tldr": "메타가 신규 코딩 에이전트용 모델 Muse Spark에서, 프롬프트와 결과물을 향후 모델 개발에 제공하는 사용자에게 평균 약 95% 할인을 제공한다."
+ },
+ "OpenAI launches Astra, its powerful (and controversial) new model": {
+  "ko": "OpenAI, 강력하지만 논란의 신모델 'Astra' 출시",
+  "tldr": "OpenAI는 Astra가 컴퓨터·브라우저 사용의 새 지평을 열었다며 속도·정확성·안전성에서 독보적이라고 주장한다."
+ },
+ "Ollie is betting its focus on privacy can help it win the AI assistant race": {
+  "ko": "올리, '프라이버시'로 AI 비서 시장 승부수",
+  "tldr": "가족용 AI 비서 Ollie는 일상 정보 접근 권한을 요구하지만, 이를 AI 학습이나 제3자 공유에 쓰지 않겠다고 약속한다."
+ },
+ "The browser's main thread is expensive": {
+  "ko": "브라우저 메인 스레드는 비싸다",
+  "tldr": "브라우저의 메인 스레드 자원을 사용하는 데 상당한 비용이 따른다는 내용으로 보인다."
  }
 }
