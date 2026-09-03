@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788435709101,
+ "updatedAt": 1788450030326,
  "week": "2026-W36",
  "items": [
   {
@@ -9,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1052,
-   "comments": 587,
+   "engagement": 1120,
+   "comments": 630,
    "publishedAt": 1788361960000,
    "isAI": true,
-   "score": 60.5,
+   "score": 58.7,
+   "hot": false
+  },
+  {
+   "title": "Nvidia to Acquire Hugging Face",
+   "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49548952",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 159,
+   "comments": 44,
+   "publishedAt": 1788437433000,
+   "isAI": true,
+   "score": 54.4,
    "hot": true
   },
   {
@@ -23,12 +37,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 443,
-   "comments": 214,
+   "engagement": 490,
+   "comments": 239,
    "publishedAt": 1788357599000,
    "isAI": true,
-   "score": 53.2,
-   "hot": true
+   "score": 52,
+   "hot": false
   },
   {
    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
@@ -37,12 +51,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1396,
-   "comments": 1357,
+   "engagement": 1400,
+   "comments": 1361,
    "publishedAt": 1788285233000,
    "isAI": true,
-   "score": 52,
+   "score": 50.4,
    "hot": false
+  },
+  {
+   "title": "Fable 5.1 월드 모델링",
+   "url": "https://news.hada.io/topic?id=33194",
+   "summary": "Claude Fable 5.1 에이전트 군집 이 실제 장소를 조사·모델링·검수하고, 브라우저에서 탐색할 수 있는 Three.js 기반 세계로 재구성함 게임 엔진이나 독점 3D 타일 없이 공개 데이터와 참조 이미지로 건물·상점·표지판·식생·교통시설을 생성하며, 관련 코드와 생성 자산을 저장소에 ...",
+   "publishedAt": 1788449501000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
   },
   {
    "title": "Mamdani Bans AI in NYC Schools",
@@ -51,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 182,
-   "comments": 139,
+   "engagement": 199,
+   "comments": 150,
    "publishedAt": 1788382624000,
    "isAI": true,
-   "score": 49.6,
+   "score": 48.4,
    "hot": true
   },
   {
@@ -65,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 852,
-   "comments": 1024,
+   "engagement": 857,
+   "comments": 1033,
    "publishedAt": 1788287715000,
    "isAI": true,
-   "score": 49.1,
+   "score": 47.6,
    "hot": false
   },
   {
@@ -83,22 +111,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.6,
+   "score": 46.6,
    "hot": true
-  },
-  {
-   "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-   "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49543841",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 115,
-   "comments": 94,
-   "publishedAt": 1788390527000,
-   "isAI": true,
-   "score": 46.9,
-   "hot": false
   },
   {
    "title": "Google avoids a breakup of its ad tech business",
@@ -107,12 +121,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 410,
-   "comments": 286,
+   "engagement": 447,
+   "comments": 320,
    "publishedAt": 1788360376000,
    "isAI": false,
-   "score": 46.5,
-   "hot": true
+   "score": 45.4,
+   "hot": false
+  },
+  {
+   "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+   "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49543841",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 118,
+   "comments": 98,
+   "publishedAt": 1788390527000,
+   "isAI": true,
+   "score": 45.3,
+   "hot": false
   },
   {
    "title": "zg(zvec-grep) - 키워드를 넘어서는 로컬 검색 인프라",
@@ -125,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.4,
+   "score": 44.6,
    "hot": true
   },
   {
@@ -139,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.4,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -149,12 +177,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 170,
-   "comments": 56,
+   "engagement": 175,
+   "comments": 58,
    "publishedAt": 1788356594000,
    "isAI": true,
-   "score": 45.7,
-   "hot": true
+   "score": 44.3,
+   "hot": false
   },
   {
    "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
@@ -163,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 287,
+   "engagement": 288,
    "comments": 108,
    "publishedAt": 1788322556000,
    "isAI": true,
-   "score": 45.6,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -177,12 +205,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 171,
-   "comments": 128,
+   "engagement": 177,
+   "comments": 132,
    "publishedAt": 1788351800000,
    "isAI": true,
-   "score": 45.2,
-   "hot": true
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "Quasar 438B: Europe's Leading AI Model",
@@ -191,11 +219,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 184,
-   "comments": 121,
+   "engagement": 186,
+   "comments": 124,
    "publishedAt": 1788343361000,
    "isAI": true,
-   "score": 44.8,
+   "score": 43.3,
+   "hot": false
+  },
+  {
+   "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+   "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49519939",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 660,
+   "comments": 164,
+   "publishedAt": 1788256365000,
+   "isAI": true,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -209,8 +251,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
-   "hot": true
+   "score": 43,
+   "hot": false
   },
   {
    "title": "Claude로 커머스 에이전트 구축하기",
@@ -223,8 +265,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
-   "hot": true
+   "score": 43,
+   "hot": false
   },
   {
    "title": "Claude Fable 5.1 프롬프팅 가이드",
@@ -237,21 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
-   "hot": true
-  },
-  {
-   "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-   "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49519939",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 658,
-   "comments": 164,
-   "publishedAt": 1788256365000,
-   "isAI": true,
-   "score": 44.3,
+   "score": 43,
    "hot": false
   },
   {
@@ -261,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 130,
-   "comments": 21,
+   "engagement": 137,
+   "comments": 23,
    "publishedAt": 1788357755000,
    "isAI": true,
-   "score": 43.8,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -274,11 +302,25 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 342,
+   "engagement": 353,
    "summary": "Autonomous agents are beginning to carry out machine-learning (ML) research end to end. These agents combine a model backbone with a harness for planning, execution, memory, and verification, but this architecture still leaves domain-specific know-how outside the agent. We call this missing layer op",
    "publishedAt": 1788292800000,
    "isAI": true,
-   "score": 43.7,
+   "score": 42.5,
+   "hot": false
+  },
+  {
+   "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+   "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49548452",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 101,
+   "comments": 69,
+   "publishedAt": 1788433264000,
+   "isAI": false,
+   "score": 42,
    "hot": false
   },
   {
@@ -292,8 +334,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 41.5,
    "hot": false
+  },
+  {
+   "title": "Show GN: First Mind - 정보보안에 있어서 진입장벽을 없애보자",
+   "url": "https://news.hada.io/topic?id=33193",
+   "summary": "배경 나는 고1이며 초4때 프로그래밍을 접해 지금까지 보안과 개발을 독학중임. 정보보안을 어릴 때 부터 공부해온 입장에서 가장 힘들었던 것은 난해한 설명과 추상성이었음. 지금은 나에게 너무나도 당연한 개념이나 혼자 dreamhack 강의만을 통해 공부하기는 무리를 느낀 용어들도 있음....",
+   "publishedAt": 1788444742000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
+  },
+  {
+   "title": "Audacity 4.0 출시",
+   "url": "https://news.hada.io/topic?id=33192",
+   "summary": "Qt 기반 인터페이스 와 새로운 클립 편집 모델을 도입했으며, Audacity 3의 작업 흐름은 대부분 유지하지만 일부 제어 방식과 위치가 달라짐 여러 클립을 직접 선택해 함께 이동·트리밍·시간 늘이기할 수 있고, 클립 그룹화 와 트랙 간 자유로운 이동, 겹친 영역 교체...",
+   "publishedAt": 1788442310000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41,
+   "hot": true
   },
   {
    "title": "Mistral, Enterprise 제외 사용자 입출력을 기본 학습에 활용",
@@ -306,22 +376,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 40.7,
    "hot": false
-  },
-  {
-   "title": "노화한 뇌는 기억을 단순히 잊기보다 서로 뒤섞음",
-   "url": "https://news.hada.io/topic?id=33189",
-   "summary": "18~74세 성인의 해마 활동을 분석한 결과, 노화한 뇌는 기억을 약하게 보존하는 데 그치지 않고 관련 없는 경험의 조각까지 폭넓게 재생해 잘못된 연결 을 만들 수 있음 젊은 성인은 학습과 회상 때의 뇌 활동 패턴 이 비슷할수록 정확도가 높았지만, 고령자에게서는...",
-   "publishedAt": 1788435159000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.9,
-   "hot": true
   },
   {
    "title": "Paint.net 5.2 alpha now runs on Linux",
@@ -330,11 +386,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 196,
-   "comments": 159,
+   "engagement": 203,
+   "comments": 166,
    "publishedAt": 1788369519000,
    "isAI": false,
-   "score": 41.8,
+   "score": 40.5,
+   "hot": true
+  },
+  {
+   "title": "기술 업계를 떠난 뒤에는 무엇을 할 건가요?",
+   "url": "https://news.hada.io/topic?id=33190",
+   "summary": "주변에서 기술 업계에서 은퇴한 사람 을 찾기 어려우며, 경험상 이런 사례는 매우 드묾 대부분은 번아웃 을 겪은 뒤 기술 업계를 떠나 다른 일을 하는 것으로 보임 ...",
+   "publishedAt": 1788436903000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -348,21 +418,35 @@
    "comments": 186,
    "publishedAt": 1788293951000,
    "isAI": true,
-   "score": 41.6,
+   "score": 40.3,
    "hot": false
   },
   {
-   "title": "세계 최대 암흑물질 검출기, 이상한 입자 하나를 포착",
-   "url": "https://news.hada.io/topic?id=33188",
-   "summary": "7톤의 액체 제논을 사용하는 LUX-ZEPLIN(LZ) 이 배경 현상으로 설명할 수 없는 단일 사건을 감지했지만, 암흑물질 발견으로 판단하기에는 통계적 근거가 크게 부족함 기존 5~55keV였던 검색 범위를 270keV 까지 넓힌 결과, 원자핵이 248keV의 높은 에너지로 반동한 ...",
-   "publishedAt": 1788431515000,
+   "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+   "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49520022",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 916,
+   "comments": 277,
+   "publishedAt": 1788257462000,
+   "isAI": false,
+   "score": 40.2,
+   "hot": false
+  },
+  {
+   "title": "노화한 뇌는 기억을 단순히 잊기보다 서로 뒤섞음",
+   "url": "https://news.hada.io/topic?id=33189",
+   "summary": "나이가 들며 생기는 기억 오류는 정보를 잃는 데 그치지 않고, 서로 다른 경험의 조각을 꺼내 하나의 기억처럼 잘못 이어 붙이는 현상 일 수 있음 18~74세 성인 61명이 얼굴과 사물 또는 장면의 짝을 외우고 다시 찾는 동안, MRI로 해마의 활동 패턴을 비교함 젊은 참가자는...",
+   "publishedAt": 1788435159000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -376,21 +460,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 40,
    "hot": false
   },
   {
-   "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-   "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49520022",
-   "source": "Hacker News",
+   "title": "세계 최대 암흑물질 검출기, 이상한 입자 하나를 포착",
+   "url": "https://news.hada.io/topic?id=33188",
+   "summary": "7톤의 액체 제논을 사용하는 LUX-ZEPLIN(LZ) 이 배경 현상으로 설명할 수 없는 단일 사건을 감지했지만, 암흑물질 발견으로 판단하기에는 통계적 근거가 크게 부족함 기존 5~55keV였던 검색 범위를 270keV 까지 넓힌 결과, 원자핵이 248keV의 높은 에너지로 반동한 ...",
+   "publishedAt": 1788431515000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 913,
-   "comments": 274,
-   "publishedAt": 1788257462000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 39.8,
+   "hot": true
+  },
+  {
+   "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+   "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+   "summary": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learni",
+   "publishedAt": 1788447600000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -400,11 +498,67 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 483,
-   "comments": 247,
+   "engagement": 485,
+   "comments": 249,
    "publishedAt": 1788293277000,
    "isAI": false,
-   "score": 40.5,
+   "score": 39.3,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+   "url": "https://masteranza.github.io/weedout/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49528895",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 179,
+   "comments": 81,
+   "publishedAt": 1788300417000,
+   "isAI": true,
+   "score": 38.9,
+   "hot": false
+  },
+  {
+   "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+   "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49523720",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 239,
+   "comments": 247,
+   "publishedAt": 1788278022000,
+   "isAI": true,
+   "score": 38.8,
+   "hot": false
+  },
+  {
+   "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+   "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+   "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+   "publishedAt": 1788439365000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 38.7,
+   "hot": false
+  },
+  {
+   "title": "Introducing Ad Blocker for Firefox on iOS",
+   "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49521973",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 580,
+   "comments": 197,
+   "publishedAt": 1788270409000,
+   "isAI": false,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -418,36 +572,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 38.5,
    "hot": true
-  },
-  {
-   "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-   "url": "https://masteranza.github.io/weedout/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49528895",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 178,
-   "comments": 81,
-   "publishedAt": 1788300417000,
-   "isAI": true,
-   "score": 40.1,
-   "hot": false
-  },
-  {
-   "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-   "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49523720",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 239,
-   "comments": 246,
-   "publishedAt": 1788278022000,
-   "isAI": true,
-   "score": 40,
-   "hot": false
   },
   {
    "title": "The efficient frontier of LLM inference",
@@ -457,24 +583,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 153,
-   "comments": 43,
+   "comments": 44,
    "publishedAt": 1788306485000,
    "isAI": true,
-   "score": 39.7,
-   "hot": false
-  },
-  {
-   "title": "Introducing Ad Blocker for Firefox on iOS",
-   "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49521973",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 580,
-   "comments": 196,
-   "publishedAt": 1788270409000,
-   "isAI": false,
-   "score": 39.7,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -488,7 +600,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 39.4,
+   "score": 38,
    "hot": false
   },
   {
@@ -502,7 +614,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.1,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -516,7 +628,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.8,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -530,21 +642,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
-   "hot": true
-  },
-  {
-   "title": "원격근무가 아니라 서투른 비동기 소통이 문제다",
-   "url": "https://news.hada.io/topic?id=33178",
-   "summary": "원격근무의 장점을 유지하려면 사무실 복귀보다 비동기 소통 방식을 개선해야 하며 , 이를 통해 유연성과 생산성을 함께 지킬 수 있음 7,700명 대상 연구에서는 원격근무자의 웰빙이 높고 이직률은 낮았지만, 팬데믹 당시의 갑작스러운 전환은 소통과 협업을 약화한 것으로 나타남",
-   "publishedAt": 1788401102000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -558,7 +656,49 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.6,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "원격근무가 아니라 서투른 비동기 소통이 문제다",
+   "url": "https://news.hada.io/topic?id=33178",
+   "summary": "원격근무의 장점을 유지하려면 사무실 복귀보다 비동기 소통 방식을 개선해야 하며 , 이를 통해 유연성과 생산성을 함께 지킬 수 있음 7,700명 대상 연구에서는 원격근무자의 웰빙이 높고 이직률은 낮았지만, 팬데믹 당시의 갑작스러운 전환은 소통과 협업을 약화한 것으로 나타남",
+   "publishedAt": 1788401102000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+   "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49508982",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 499,
+   "comments": 591,
+   "publishedAt": 1788180082000,
+   "isAI": true,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "Async Rust vs RTOS showdown (2022)",
+   "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49540415",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 106,
+   "comments": 54,
+   "publishedAt": 1788373944000,
+   "isAI": false,
+   "score": 36,
    "hot": false
   },
   {
@@ -572,8 +712,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 35.9,
+   "hot": false
   },
   {
    "title": "범용 로봇은 어디까지 왔나 [유튜브]",
@@ -586,8 +726,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+   "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49514878",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 755,
+   "comments": 611,
+   "publishedAt": 1788210658000,
+   "isAI": false,
+   "score": 35.8,
+   "hot": false
   },
   {
    "title": "스마트폰이 없습니다… 아니 없었으면 좋겠습니다",
@@ -600,8 +754,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 35.8,
+   "hot": false
   },
   {
    "title": "오픈소스에서 정상화되는 파시즘, DHH 재단에 약정된 1,200만 달러",
@@ -614,21 +768,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
-  },
-  {
-   "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-   "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49508982",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 498,
-   "comments": 591,
-   "publishedAt": 1788180082000,
-   "isAI": true,
-   "score": 37,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -642,7 +782,20 @@
    "comments": 192,
    "publishedAt": 1788267231000,
    "isAI": true,
-   "score": 36.8,
+   "score": 35.7,
+   "hot": false
+  },
+  {
+   "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
+   "url": "https://huggingface.co/papers/2609.02886",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 120,
+   "summary": "We introduce SolarWM, a fully open foundation for building interactive video world models from data preparation through long-horizon inference. Training across heterogeneous data sources and video backbones is challenging: datasets differ in temporal scale, camera geometry, visual quality, motion, a",
+   "publishedAt": 1788292800000,
+   "isAI": true,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -652,25 +805,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 108,
-   "comments": 128,
+   "engagement": 109,
+   "comments": 129,
    "publishedAt": 1788365238000,
    "isAI": false,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-   "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49514878",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 754,
-   "comments": 611,
-   "publishedAt": 1788210658000,
-   "isAI": false,
-   "score": 36.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -684,7 +823,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 36.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -698,7 +837,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36.6,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -712,20 +851,20 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.5,
+   "score": 35.3,
    "hot": false
   },
   {
-   "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
-   "url": "https://huggingface.co/papers/2609.02886",
+   "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
+   "url": "https://huggingface.co/papers/2609.02783",
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 110,
-   "summary": "We introduce SolarWM, a fully open foundation for building interactive video world models from data preparation through long-horizon inference. Training across heterogeneous data sources and video backbones is challenging: datasets differ in temporal scale, camera geometry, visual quality, motion, a",
+   "engagement": 106,
+   "summary": "Evaluating LLM agents is essential for guiding their development, yet it has grown prohibitively expensive: a single pass of a frontier model over an agentic benchmark can cost hundreds to thousands of dollars, a price paid repeatedly across iterative development cycles. Prior efforts, centered on b",
    "publishedAt": 1788292800000,
    "isAI": true,
-   "score": 36.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -739,7 +878,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -753,7 +892,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -767,7 +906,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -781,7 +920,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "AI Can Make You Suck Faster Too",
+   "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49518316",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 191,
+   "comments": 173,
+   "publishedAt": 1788240776000,
+   "isAI": true,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -795,7 +948,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -809,21 +962,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "AI Can Make You Suck Faster Too",
-   "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49518316",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 190,
-   "comments": 173,
-   "publishedAt": 1788240776000,
-   "isAI": true,
-   "score": 35.7,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -837,7 +976,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -851,7 +990,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.5,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -865,7 +1004,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.5,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -879,35 +1018,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.5,
+   "score": 34.3,
    "hot": false
   },
   {
-   "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-   "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-   "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-   "publishedAt": 1788389096000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "Show GN: Ratatosk - CNCF 주요 프로젝트 릴리스 노트에서 보안 수정, 브레이킹 체인지와 같은 중요한 정보를 골...",
-   "url": "https://news.hada.io/topic?id=33164",
-   "summary": "안녕하세요. 처음 글 써 봅니다. 쿠버네티스 를 실제로 운영해보면 여러 모듈들의 패치 속도가 너무 빠르다고 느낍니다. 게다가 쓸데없이 버전 업그레이드로 잘 돌아가는 시스템에 장애라도 생기면... 그 부담 때문에 업그레이드를 매번 하지도 못하구요. 그래도 어쩔 수 없이 미뤄둔 업그레이",
-   "publishedAt": 1788371110000,
-   "source": "GeekNews",
+   "title": "The Browser's Main Thread Is Expensive",
+   "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49522137",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 271,
+   "comments": 92,
+   "publishedAt": 1788271215000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34,
    "hot": false
   },
   {
@@ -921,34 +1046,35 @@
    "comments": 121,
    "publishedAt": 1788162558000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34,
    "hot": false
   },
   {
-   "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
-   "url": "https://huggingface.co/papers/2609.02783",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
+   "title": "I turned my security cameras into an automatic bird identification system",
+   "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49511856",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": 87,
-   "summary": "Evaluating LLM agents is essential for guiding their development, yet it has grown prohibitively expensive: a single pass of a frontier model over an agentic benchmark can cost hundreds to thousands of dollars, a price paid repeatedly across iterative development cycles. Prior efforts, centered on b",
-   "publishedAt": 1788292800000,
-   "isAI": true,
-   "score": 34.8,
+   "engagement": 626,
+   "comments": 171,
+   "publishedAt": 1788194831000,
+   "isAI": false,
+   "score": 33.8,
    "hot": false
   },
   {
-   "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-   "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-   "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-   "publishedAt": 1788387849000,
-   "source": "TechCrunch AI",
+   "title": "Google says its AI weather model is getting better",
+   "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+   "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can pr",
+   "publishedAt": 1788447600000,
+   "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
-   "baseWeight": 32,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 34.8,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -962,21 +1088,7 @@
    "comments": 283,
    "publishedAt": 1788232596000,
    "isAI": false,
-   "score": 34.6,
-   "hot": false
-  },
-  {
-   "title": "I turned my security cameras into an automatic bird identification system",
-   "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49511856",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 625,
-   "comments": 171,
-   "publishedAt": 1788194831000,
-   "isAI": false,
-   "score": 34.6,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -990,7 +1102,49 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.5,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+   "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+   "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+   "publishedAt": 1788389096000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "Show GN: Ratatosk - CNCF 주요 프로젝트 릴리스 노트에서 보안 수정, 브레이킹 체인지와 같은 중요한 정보를 골...",
+   "url": "https://news.hada.io/topic?id=33164",
+   "summary": "안녕하세요. 처음 글 써 봅니다. 쿠버네티스 를 실제로 운영해보면 여러 모듈들의 패치 속도가 너무 빠르다고 느낍니다. 게다가 쓸데없이 버전 업그레이드로 잘 돌아가는 시스템에 장애라도 생기면... 그 부담 때문에 업그레이드를 매번 하지도 못하구요. 그래도 어쩔 수 없이 미뤄둔 업그레이",
+   "publishedAt": 1788371110000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+   "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+   "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+   "publishedAt": 1788387849000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1004,21 +1158,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "LWN 구독료 20% 인상 안내",
-   "url": "https://news.hada.io/topic?id=33158",
-   "summary": "LWN은 변동성이 크고 감시 중심인 광고 시장에서 독립하기 위해 2002년 말 도입한 독자 구독 모델 을 유지해 옴 2022년 초 이후 소비자물가가 약 20% 오르고 의료보험 등 일부 비용은 더 크게 상승해, 월간·그룹 구독료를 약 20% 인상 함 새 월 요금은 Star...",
-   "publishedAt": 1788363091000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.2,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1032,7 +1172,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+   "url": "https://www.norirobotics.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49525153",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 198,
+   "comments": 66,
+   "publishedAt": 1788284110000,
+   "isAI": false,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "LWN 구독료 20% 인상 안내",
+   "url": "https://news.hada.io/topic?id=33158",
+   "summary": "LWN은 변동성이 크고 감시 중심인 광고 시장에서 독립하기 위해 2002년 말 도입한 독자 구독 모델 을 유지해 옴 2022년 초 이후 소비자물가가 약 20% 오르고 의료보험 등 일부 비용은 더 크게 상승해, 월간·그룹 구독료를 약 20% 인상 함 새 월 요금은 Star...",
+   "publishedAt": 1788363091000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33,
    "hot": false
   },
   {
@@ -1046,21 +1214,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.1,
+   "score": 32.8,
    "hot": false
   },
   {
-   "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-   "url": "https://www.norirobotics.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49525153",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Nvidia is buying Hugging Face for almost $13 billion",
+   "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+   "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI developers a space to ",
+   "publishedAt": 1788437526000,
+   "source": "The Verge",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 197,
-   "comments": 65,
-   "publishedAt": 1788284110000,
-   "isAI": false,
-   "score": 34,
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1074,7 +1242,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1088,21 +1256,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 32.4,
    "hot": false
   },
   {
-   "title": "67센트로 1.5시간 학습한 소형 Transformer, ARC-AGI-1에서 여러 LLM을 앞서다",
-   "url": "https://news.hada.io/topic?id=33126",
-   "summary": "RTX 5090 한 장에서 소형 Transformer를 처음부터 학습해 ARC-AGI-1 44%, ARC-AGI-2 7% 를 기록했으며, 전체 학습과 추론에 1.5시간과 67센트가 들었음 입력·출력 격자를 토큰화하고 과제별 임베딩, 3D RoPE , 색상·이면체 변환 증강을 결합해 여러 퍼즐을 함께 학습...",
-   "publishedAt": 1788281047000,
-   "source": "GeekNews",
+   "title": "OpenShot 4.0 – Open-source video editor",
+   "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49507822",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 33.4,
+   "lang": "en",
+   "engagement": 598,
+   "comments": 139,
+   "publishedAt": 1788170345000,
+   "isAI": false,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1116,7 +1284,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.1,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1130,7 +1298,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.1,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1144,49 +1312,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, '아스트라'에 '순환 추론' 적용...성능 높였지만 보안 우려도",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214782",
-   "summary": "오픈AI가 차세대 AI 모델의 성능을 높이기 위해 기존의 모델 확장 방식에서 벗어난 새로운 추론 기술을 꺼내 들었다. 같은 신경망을 반복적으로 활용해 작은 규모의 모델로도 더 깊은 사고와 복잡한 작업 수행을 가능하게 하는 방식이다. 하지만 AI가 인간에게 보여주지 않는 내부 계산이 늘어날수록 모델의 행동을 감시하고 위험 신호를 포착하는 일은 더욱 어려워질 수 있어, 성능 향상 이면의 새로운 안전성 문제가 부상하고 있다. 2일(현지시간) 디 인포메이션에 따르면, 오픈AI가 차세대 AI 모델 ‘아스트라(Astra)’에 새로운 ‘순환 깊",
-   "publishedAt": 1788426554000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "OpenShot 4.0 – Open-source video editor",
-   "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49507822",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 598,
-   "comments": 138,
-   "publishedAt": 1788170345000,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
-   "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
-   "summary": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates. The ",
-   "publishedAt": 1788425949000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1200,7 +1326,48 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33,
+   "score": 31.8,
+   "hot": false
+  },
+  {
+   "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+   "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+   "summary": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates. The ",
+   "publishedAt": 1788425949000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, '아스트라'에 '순환 추론' 적용...성능 높였지만 보안 우려도",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214782",
+   "summary": "오픈AI가 차세대 AI 모델의 성능을 높이기 위해 기존의 모델 확장 방식에서 벗어난 새로운 추론 기술을 꺼내 들었다. 같은 신경망을 반복적으로 활용해 작은 규모의 모델로도 더 깊은 사고와 복잡한 작업 수행을 가능하게 하는 방식이다. 하지만 AI가 인간에게 보여주지 않는 내부 계산이 늘어날수록 모델의 행동을 감시하고 위험 신호를 포착하는 일은 더욱 어려워질 수 있어, 성능 향상 이면의 새로운 안전성 문제가 부상하고 있다. 2일(현지시간) 디 인포메이션에 따르면, 오픈AI가 차세대 AI 모델 ‘아스트라(Astra)’에 새로운 ‘순환 깊",
+   "publishedAt": 1788426554000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
+   "url": "https://huggingface.co/papers/2609.00111",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 360,
+   "summary": "We present Qwen-Drive-1.0, an initial step towards a vision-language foundation model for autonomous driving. Qwen-Drive-1.0 retains the architecture of the pretrained vision-language model (VLM) and integrates 3D perception, visual question answering, and motion planning within a unified framework.",
+   "publishedAt": 1788120000000,
+   "isAI": true,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1214,7 +1381,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1228,175 +1395,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "[9월3일] 순천 AI 영상 뉴스 - 순천, 신혼·다자녀 142가구 주택대출 이자 지원 등",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214819",
-   "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
-   "publishedAt": 1788424248000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "AI '기억 저장 순서' 바꿨더니 성능 향상...고속 가중치 어텐션 프레임워크 '팰컨' 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214807",
-   "summary": "대형언어모델(LLM)이 학습을 끝낸 뒤에도 새로운 정보를 처리하는 과정에서 내부 기억을 계속 갱신하도록 만드는 ‘지속학습(continual learning)’ 연구가 속도를 내고 있다. 바이트댄스와 프린스턴대학교, 칭화대학교, UCLA, 하이퍼볼릭 랩스 공동 연구진은 최근 순환형 AI 모델이 새로운 정보를 기억하고 업데이트하는 과정에서 발생하는 문제를 분석하고 이를 개선한 ‘고속 가중치 어텐션(Fast Weight Attention)’ 프레임워크 ‘팰컨(Falcon)’을 온라인 아카이브를 통해 공개했다. 대부분의 LLM은 학습이 끝",
-   "publishedAt": 1788424205000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "순천, 신혼·다자녀 142가구 주택대출 이자 지원…월 최대 25만원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214811",
-   "summary": "AI 생성 영상순천시가 신혼부부와 다자녀가정 142가구를 대상으로 주택 구입 대출이자를 월 최대 25만원씩 최장 36개월 지원한다. 신청은 내달 16일까지이며, 일정 기간 내 순천에서 6억원 이하 주택을 구입한 무주택 가구가 대상이다.순천은 ‘2026년 신혼부부·다자녀가정 보금자리 지원사업’ 신규 대상자를 모집한다고 밝혔다.지원 대상은 한국주택금융공사 등의 보금자리론이나 디딤돌 대출 심사를 통과하고, 2025년 10월1일부터 2026년 9월30일까지 순천 소재 6억원 이하 주택을 구입한 무주택 신혼부부 또는 다자녀가정이다.선정 가구",
-   "publishedAt": 1788423137000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-   "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-   "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-   "publishedAt": 1788364908000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "[게시판] 라온피플, 702억 규모 ‘피지컬 AI 국책사업’ 선정 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214820",
-   "summary": "■ 라온피플(대표 이석중)은 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 '무인공장 운용-피지컬AI SDF(Software-Defined Factory) 특화 기반 모델 연구 개발' 과제에 선정됐다고 밝혔다. 목표는 공장을 무인으로 운용하기 위한 피지컬 AI 파운데이션 모델을 개발하는 것이다. 라온피플은 AI 모델 개발 및 상용화에 참여하게 되며, 컨소시엄에서 만든 피지컬 AI파운데이션 모델을 자동차 부품 및 로보틱스 기업 공장에 적용할 수 있도록 실전 AI 기술을 구현, 검증하게 된다.■ AI 데이터 및 솔루션 전문",
-   "publishedAt": 1788422400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "[게시판] 마인드로직, 고교생 대상 챗GPT·제미나이 무상 제공 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214805",
-   "summary": "■ 마인드로직(대표 김용우·김진욱)은 교육부와 한국장학재단이 추진하는 '2026년 AI 온이음 사업'에 선정됐다고 밝혔다. 총 사업비 95억원 규모로, 취약계층과 농어촌 지역 고등학생 등 총 12만명을 대상으로 멀티 대형언어모델(LLM) 기반 AI 서비스를 무상 제공한다. 하나의 계정으로 챗GPT·제미나이·클로드 등을 선택해 이용할 수 있으며, 스터디 튜터 등 교육 특화 기능도 추가 제공할 예정이다.■ 에임인텔리전스(대표 유상윤)는 정부 주도 '모두의 AI' 프로젝트에 SK텔레콤 컨소시엄으로 참여한다고 밝혔다. AI 레드티밍과 AI",
-   "publishedAt": 1788422400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, 트럼프 행정부와 관계 회복...상무장관 \"다시 올바른 편에 섰다\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214792",
-   "summary": "앤트로픽과 도널드 트럼프 행정부가 국가안보와 AI 안전장치를 둘러싼 갈등을 뒤로하고 관계 회복에 나섰다. 하워드 러트닉 미국 상무장관이 앤트로픽을 다시 신뢰한다는 입장을 공개적으로 밝히면서 양측의 충돌이 사실상 새로운 국면에 접어들었다는 평가가 나온다.러트닉 장관은 2일(현지시간) 악시오스와의 인터뷰에서 다리오 아모데이 앤트로픽 CEO를 신뢰하느냐는 질문에 \"우리는 앤트로픽을 신뢰한다\"며 \"그들은 우리가 요구한 대로 이행했고, 다시 올바른 편에 섰다(they're back on the right side)\"라고 말했다.블룸버그와의",
-   "publishedAt": 1788421945000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "뉴욕시 공립학교 초·중생 AI 사용 1년 전면 중단… \"기술보다 인간적 교류 우선\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214814",
-   "summary": "미국 최대 규모 교육구인 뉴욕시가 다가오는 새 학기부터 초등학교 및 중학교 교실 내 AI 도구 활용을 1년간 전면 금지하기로 결정했다. 조란 맘다니 뉴욕시장과 카마르 사무엘스 뉴욕시 교육감은 2일(현지시간) 2-K(만 2세 유아 과정)부터 8학년(한국 기준 중학교 2학년)까지의 공립학교 학생을 대상으로 생성 AI 소프트웨어 및 컴패니언 챗봇 사용을 2026~2027학년도 동안 일시 중단하는 정책을 공식 발표했다.이번 조치는 뉴욕시 전체 공립학교 학생의 3분의 2에 달하는 60만명이 직접적인 영향을 받게 된다. 이번 금지 조치는 무분",
-   "publishedAt": 1788421486000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "목포자연사박물관, ‘한반도 공룡의 길’ 거점 선정…7개 화석 명소 잇는다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214810",
-   "summary": "AI 생성 영상목포자연사박물관이 전국의 공룡·익룡·새발자국 화석산지를 잇는 국가유산 방문코스에 포함됐다. 9월부터 방문객은 목포를 포함한 7개 거점을 돌며 ‘방문자 여권2’에 스탬프를 모으고, 코스를 모두 완주하면 기념 배지와 메달도 받을 수 있다.목포시는 목포자연사박물관이 국가유산청과 국가유산진흥원이 운영하는 국가유산 방문 캠페인의 신규 코스 ‘한반도 공룡의 길’ 거점으로 선정됐다고 3일 밝혔다.‘한반도 공룡의 길’은 공룡과 익룡, 새발자국 화석을 주제로 전국 7개 거점을 연결한다. 목포자연사박물관을 비롯해 고성 덕명리, 여수 낭",
-   "publishedAt": 1788421200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
-   "url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
-   "summary": "Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can process your footage without it ever leaving your home. It's also announcing a handful of other smart home security products at the IFA tech show in B",
-   "publishedAt": 1788420600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-   "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-   "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-   "publishedAt": 1788361283000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-   "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-   "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-   "publishedAt": 1788360994000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.4,
+   "score": 31.6,
    "hot": false
   }
  ]
