@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788684585205,
+ "updatedAt": 1788688274166,
  "week": "2026-W36",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 2181,
-   "comments": 1540,
+   "engagement": 2186,
+   "comments": 1544,
    "publishedAt": 1788522893000,
    "isAI": true,
-   "score": 53.6,
+   "score": 53.1,
    "hot": false
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 173,
-   "comments": 124,
+   "engagement": 180,
+   "comments": 136,
    "publishedAt": 1788659565000,
    "isAI": true,
-   "score": 53.2,
+   "score": 53,
    "hot": true
   },
   {
@@ -37,8 +37,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 373,
-   "comments": 170,
+   "engagement": 397,
+   "comments": 189,
    "publishedAt": 1788653009000,
    "isAI": false,
    "score": 51.6,
@@ -51,8 +51,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 372,
-   "comments": 50,
+   "engagement": 399,
+   "comments": 60,
    "publishedAt": 1788651587000,
    "isAI": false,
    "score": 51.4,
@@ -65,12 +65,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 380,
+   "engagement": 382,
    "comments": 333,
    "publishedAt": 1788594770000,
    "isAI": true,
-   "score": 50.5,
+   "score": 50,
    "hot": false
+  },
+  {
+   "title": "독자의 반란",
+   "url": "https://news.hada.io/topic?id=33279",
+   "summary": "LLM이 대신 쓴 공개 글 은 독자가 기대하는 진정성과 신뢰를 훼손해, 글로 독자를 모으려는 목적 자체를 무너뜨릴 수 있음 글쓰기는 생각을 전달하면서 검증하고 정제하는 과정 이며, 글쓴이가 직접 만들지 않은 문장을 독자만 애써 이해해야 한다면 작가와 독자 사이...",
+   "publishedAt": 1788687299000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
   },
   {
    "title": "grep이 LSP를 이긴다고? 코딩 에이전트가 더 정교한 도구를 무시하는 이유",
@@ -83,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -93,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 2230,
+   "engagement": 2233,
    "comments": 2046,
    "publishedAt": 1788460865000,
    "isAI": true,
-   "score": 47.4,
+   "score": 47.1,
    "hot": false
   },
   {
@@ -108,10 +122,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 408,
-   "comments": 219,
+   "comments": 222,
    "publishedAt": 1788551309000,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.5,
    "hot": false
   },
   {
@@ -121,12 +135,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 338,
-   "comments": 98,
+   "engagement": 342,
+   "comments": 99,
    "publishedAt": 1788615398000,
    "isAI": false,
-   "score": 45.7,
+   "score": 45.4,
    "hot": true
+  },
+  {
+   "title": "Learn Programming with OCaml",
+   "url": "https://usr.lmf.cnrs.fr/lpo/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49578280",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 255,
+   "comments": 93,
+   "publishedAt": 1788626702000,
+   "isAI": false,
+   "score": 44.4,
+   "hot": true
+  },
+  {
+   "title": "GPT-6 Astra on OpenRouter",
+   "url": "https://openrouter.ai/openai/gpt-6-astra",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49570545",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 312,
+   "comments": 225,
+   "publishedAt": 1788557959000,
+   "isAI": true,
+   "score": 44.4,
+   "hot": false
   },
   {
    "title": "유럽을 벗어나지 않는 Git 호스팅",
@@ -139,35 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
-   "hot": true
-  },
-  {
-   "title": "GPT-6 Astra on OpenRouter",
-   "url": "https://openrouter.ai/openai/gpt-6-astra",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49570545",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 311,
-   "comments": 222,
-   "publishedAt": 1788557959000,
-   "isAI": true,
-   "score": 44.7,
-   "hot": false
-  },
-  {
-   "title": "Learn Programming with OCaml",
-   "url": "https://usr.lmf.cnrs.fr/lpo/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49578280",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 245,
-   "comments": 93,
-   "publishedAt": 1788626702000,
-   "isAI": false,
-   "score": 44.6,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -177,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 257,
-   "comments": 162,
+   "engagement": 258,
+   "comments": 164,
    "publishedAt": 1788565130000,
    "isAI": true,
-   "score": 44.2,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -209,7 +223,7 @@
    "comments": 299,
    "publishedAt": 1788536025000,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -223,7 +237,7 @@
    "comments": 74,
    "publishedAt": 1788523155000,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -251,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -265,8 +279,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
+  },
+  {
+   "title": "strip 유틸리티를 통한 Linux 배포판 전체의 Trusting-Trust 공격",
+   "url": "https://news.hada.io/topic?id=33278",
+   "summary": "소스 코드 검토를 우회하는 trusting-trust 공격 이 컴파일러가 아닌 GNU strip 에서도 가능하며, NixOS 부트스트랩부터 최종 환경까지 감염이 이어지는 것을 실증함 공격은 소스를 검사·생성·수정하지 않고 완성된 ELF 파일만 변환 하며, 깨끗한 소...",
+   "publishedAt": 1788685312000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
   },
   {
    "title": "Chrome, 사용자 사이트 데이터 설정에서 Google을 또다시 예외 처리",
@@ -279,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.4,
    "hot": true
   },
   {
@@ -289,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 476,
-   "comments": 217,
+   "engagement": 480,
+   "comments": 225,
    "publishedAt": 1788554089000,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": true
   },
   {
@@ -318,10 +346,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 687,
-   "comments": 225,
+   "comments": 226,
    "publishedAt": 1788460333000,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -335,7 +363,7 @@
    "comments": 4,
    "publishedAt": 1788542962000,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -345,11 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 167,
-   "comments": 32,
+   "engagement": 173,
+   "comments": 33,
    "publishedAt": 1788615065000,
    "isAI": false,
-   "score": 40.2,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -363,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -377,7 +405,7 @@
    "comments": 245,
    "publishedAt": 1788540419000,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -391,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -402,10 +430,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 397,
-   "comments": 122,
+   "comments": 125,
    "publishedAt": 1788542288000,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -419,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -433,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -443,11 +471,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1155,
-   "comments": 663,
+   "engagement": 1156,
+   "comments": 664,
    "publishedAt": 1788361960000,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -461,8 +489,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "AI가 내 두뇌를 망치고 있을까?",
@@ -475,7 +503,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.3,
+   "score": 36.9,
+   "hot": false
+  },
+  {
+   "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+   "url": "https://news.ycombinator.com/item?id=49551096",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49551096",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 400,
+   "comments": 701,
+   "publishedAt": 1788448021000,
+   "isAI": true,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -489,21 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.1,
-   "hot": false
-  },
-  {
-   "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-   "url": "https://news.ycombinator.com/item?id=49551096",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49551096",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 400,
-   "comments": 700,
-   "publishedAt": 1788448021000,
-   "isAI": true,
-   "score": 37,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -517,7 +545,21 @@
    "comments": 148,
    "publishedAt": 1788470434000,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+   "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49550375",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 377,
+   "comments": 132,
+   "publishedAt": 1788445698000,
+   "isAI": true,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -531,21 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
-   "hot": false
-  },
-  {
-   "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-   "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49550375",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 376,
-   "comments": 132,
-   "publishedAt": 1788445698000,
-   "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -559,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -573,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -601,21 +629,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "네덜란드, 미국·캐나다 보관 금 86톤 회수",
-   "url": "https://news.hada.io/topic?id=33262",
-   "summary": "네덜란드 중앙은행 DNB는 지정학적 불안 에 대비해 미국·캐나다에 보관하던 금 86톤을 영국과 네덜란드로 옮겨 위기 대응력을 강화함 2026년 3~8월 북미 보관분 313톤 중 86톤을 이전했으며, 영란은행(Bank of England) 보관 금은 국제 거래 표준을 충족해 위기 때 ...",
-   "publishedAt": 1788629693000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -629,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -643,7 +657,21 @@
    "comments": 253,
    "publishedAt": 1788459502000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "네덜란드, 미국·캐나다 보관 금 86톤 회수",
+   "url": "https://news.hada.io/topic?id=33262",
+   "summary": "네덜란드 중앙은행 DNB는 지정학적 불안 에 대비해 미국·캐나다에 보관하던 금 86톤을 영국과 네덜란드로 옮겨 위기 대응력을 강화함 2026년 3~8월 북미 보관분 313톤 중 86톤을 이전했으며, 영란은행(Bank of England) 보관 금은 국제 거래 표준을 충족해 위기 때 ...",
+   "publishedAt": 1788629693000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -657,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -671,7 +699,7 @@
    "comments": 106,
    "publishedAt": 1788437433000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -685,7 +713,21 @@
    "comments": 155,
    "publishedAt": 1788464700000,
    "isAI": true,
-   "score": 35.2,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49525378",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1415,
+   "comments": 1385,
+   "publishedAt": 1788285233000,
+   "isAI": true,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -699,21 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49525378",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1414,
-   "comments": 1384,
-   "publishedAt": 1788285233000,
-   "isAI": true,
-   "score": 35,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -727,7 +755,7 @@
    "comments": 186,
    "publishedAt": 1788397882000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -741,7 +769,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -755,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -769,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -783,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -797,21 +825,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "Statichost.eu - 100% 유럽 기반 정적 사이트 호스팅",
-   "url": "https://news.hada.io/topic?id=33255",
-   "summary": "Statichost.eu 는 Git 배포부터 CDN까지 유럽 기업이 소유한 인프라에서 운영되는 정적 웹사이트 호스팅 서비스임 Git 저장소를 여러 정적 사이트 생성기로 빌드하며, Git push·CMS 업데이트·웹훅을 통한 자동 재빌드 를 지원함 사용자 지정 도메인과 자동 ...",
-   "publishedAt": 1788611483000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.2,
+   "score": 34,
    "hot": false
   },
   {
@@ -825,7 +839,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "Statichost.eu - 100% 유럽 기반 정적 사이트 호스팅",
+   "url": "https://news.hada.io/topic?id=33255",
+   "summary": "Statichost.eu 는 Git 배포부터 CDN까지 유럽 기업이 소유한 인프라에서 운영되는 정적 웹사이트 호스팅 서비스임 Git 저장소를 여러 정적 사이트 생성기로 빌드하며, Git push·CMS 업데이트·웹훅을 통한 자동 재빌드 를 지원함 사용자 지정 도메인과 자동 ...",
+   "publishedAt": 1788611483000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -839,7 +867,7 @@
    "comments": 49,
    "publishedAt": 1788544149000,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -853,21 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214904",
-   "summary": "마이크로소프트(MS)가 AI 개발자를 겨냥해 불필요한 설정과 기능을 줄이고 개발 도구와 AI 실행 환경을 사전 구성한 윈도우11 기반 ‘프로젝트 제니스(Project Zenith)’를 공개했다. 64기가바이트(GB) 이상의 통합 메모리와 초당 250GB 이상의 메모리 대역폭을 갖춘 개발자용 PC를 전제로 설계해, 대규모 AI 모델을 클라우드가 아닌 PC에서 직접 실행할 수 있도록 한 것이 핵심이다.MS는 4일(현지시간) 개발자용 윈도우 환경을 발전시키기 위해 지난 6월 ‘빌드 2026’에서 개발에 최적화된 윈도우11 경험을 소개한",
-   "publishedAt": 1788679619000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -881,7 +895,21 @@
    "comments": 250,
    "publishedAt": 1788357599000,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214904",
+   "summary": "마이크로소프트(MS)가 AI 개발자를 겨냥해 불필요한 설정과 기능을 줄이고 개발 도구와 AI 실행 환경을 사전 구성한 윈도우11 기반 ‘프로젝트 제니스(Project Zenith)’를 공개했다. 64기가바이트(GB) 이상의 통합 메모리와 초당 250GB 이상의 메모리 대역폭을 갖춘 개발자용 PC를 전제로 설계해, 대규모 AI 모델을 클라우드가 아닌 PC에서 직접 실행할 수 있도록 한 것이 핵심이다.MS는 4일(현지시간) 개발자용 윈도우 환경을 발전시키기 위해 지난 6월 ‘빌드 2026’에서 개발에 최적화된 윈도우11 경험을 소개한",
+   "publishedAt": 1788679619000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -895,21 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Show GN: Anthills - 음악 아카이빙 & 소셜 플랫폼",
-   "url": "https://news.hada.io/topic?id=33253",
-   "summary": "음악을 너무 좋아하는 1인입니다. 평소에 영화를 보고나면 Letterboxd에 평점과 리뷰를 남기고 모아두곤 하는데, 음악은 RYM이 있긴하지만 UI도 제 마음에는 들지 않고 뭔가 조금 더 재밌는 기능이 많았으면 좋겠다는 생각이 들더라구요. 그래서 그냥 제가 만들어봤습니다..! 아직 수익모델은 없구...",
-   "publishedAt": 1788601213000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -923,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -937,35 +951,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "AI라는 소행성이 강타한 프론트엔드 웹 개발",
-   "url": "https://news.hada.io/topic?id=33223",
-   "summary": "AI 에이전트가 숙련자도 어려워하던 브라우저 성능 분석 까지 수행하는 가운데, 프런트엔드 지식과 교육에 투자할 유인이 약해지고 주요 교육자들도 활동을 중단하거나 축소하고 있음 프론트엔드는 데이터베이스 마이그레이션 같은 백엔드 작업보다 일시적이고 교체하기 쉬워 에이전트...",
-   "publishedAt": 1788528201000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Quasar 438B: 유럽 최고 성능 AI 모델",
-   "url": "https://news.hada.io/topic?id=33222",
-   "summary": "Multiverse Computing의 Quasar 438B 는 기업용 에이전트와 코딩을 겨냥한 영어·스페인어 추론 모델로, Artificial Analysis Intelligence Index에서 유럽 모델 최고인 43점 을 기록함 9개 평가를 종합한 Intelligence Index v4.1.1에서 Mistral Medium 3.5와 NVIDIA...",
-   "publishedAt": 1788528034000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   },
   {
@@ -979,21 +965,21 @@
    "comments": 151,
    "publishedAt": 1788442152000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false
   },
   {
-   "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214901",
-   "summary": "구글이 고품질 음악 생성 모델 ‘리리아 3.5(Lyria 3.5)’를 AI 챗봇 ‘제미나이’에 탑재하며 AI 음악 생성 기능의 대중화에 나섰다.구글은 4일(현지시간) 리리아 3.5를 제미나이 앱에서 제공하기 시작했다.지난 7월 말 음악 창작자를 위한 ‘구글 플로우 뮤직(Flow Music)’에 처음 적용한 데 이어 제미나이 앱과 API, 구글 AI 스튜디오(AI Studio), 구글 비즈(Vids) 등으로 지원 범위를 확대하면서 일반 사용자와 개발자도 손쉽게 완성도 높은 음악을 제작할 수 있게 됐다.웹과 모바일에서 전 세계 사용자가",
-   "publishedAt": 1788675924000,
-   "source": "AI타임스",
-   "sourceType": "media",
+   "title": "Show GN: Anthills - 음악 아카이빙 & 소셜 플랫폼",
+   "url": "https://news.hada.io/topic?id=33253",
+   "summary": "음악을 너무 좋아하는 1인입니다. 평소에 영화를 보고나면 Letterboxd에 평점과 리뷰를 남기고 모아두곤 하는데, 음악은 RYM이 있긴하지만 UI도 제 마음에는 들지 않고 뭔가 조금 더 재밌는 기능이 많았으면 좋겠다는 생각이 들더라구요. 그래서 그냥 제가 만들어봤습니다..! 아직 수익모델은 없구...",
+   "publishedAt": 1788601213000,
+   "source": "GeekNews",
+   "sourceType": "community",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1007,7 +993,21 @@
    "comments": 1051,
    "publishedAt": 1788287715000,
    "isAI": true,
-   "score": 33,
+   "score": 32.8,
+   "hot": false
+  },
+  {
+   "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214901",
+   "summary": "구글이 고품질 음악 생성 모델 ‘리리아 3.5(Lyria 3.5)’를 AI 챗봇 ‘제미나이’에 탑재하며 AI 음악 생성 기능의 대중화에 나섰다.구글은 4일(현지시간) 리리아 3.5를 제미나이 앱에서 제공하기 시작했다.지난 7월 말 음악 창작자를 위한 ‘구글 플로우 뮤직(Flow Music)’에 처음 적용한 데 이어 제미나이 앱과 API, 구글 AI 스튜디오(AI Studio), 구글 비즈(Vids) 등으로 지원 범위를 확대하면서 일반 사용자와 개발자도 손쉽게 완성도 높은 음악을 제작할 수 있게 됐다.웹과 모바일에서 전 세계 사용자가",
+   "publishedAt": 1788675924000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1021,21 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "An open DNS recursive service for free security and high privacy",
-   "url": "https://quad9.net/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49569663",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 125,
-   "comments": 37,
-   "publishedAt": 1788552788000,
-   "isAI": false,
-   "score": 32.5,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1049,7 +1035,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "An open DNS recursive service for free security and high privacy",
+   "url": "https://quad9.net/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49569663",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 125,
+   "comments": 37,
+   "publishedAt": 1788552788000,
+   "isAI": false,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1063,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.3,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1077,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.3,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1091,21 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "NX 비트는 보안만을 위한 것이 아니다",
-   "url": "https://news.hada.io/topic?id=33250",
-   "summary": "ARM64 베어메탈 하이퍼바이저에서 CTR_EL0 인터셉트를 켤 때 기기가 멈춘 원인은 분기 예측에 따른 추측적 명령어 인출 이 실행 가능하게 매핑된 MMIO 영역에 접근했기 때문이었음 직접 호출인 bl 은 작동하고 간접 호출인 blr 은 실패했으며, ...",
-   "publishedAt": 1788588131000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.2,
+   "score": 32,
    "hot": false
   },
   {
@@ -1119,7 +1105,7 @@
    "comments": 158,
    "publishedAt": 1788449161000,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1133,7 +1119,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
+   "hot": false
+  },
+  {
+   "title": "NX 비트는 보안만을 위한 것이 아니다",
+   "url": "https://news.hada.io/topic?id=33250",
+   "summary": "ARM64 베어메탈 하이퍼바이저에서 CTR_EL0 인터셉트를 켤 때 기기가 멈춘 원인은 분기 예측에 따른 추측적 명령어 인출 이 실행 가능하게 매핑된 MMIO 영역에 접근했기 때문이었음 직접 호출인 bl 은 작동하고 간접 호출인 blr 은 실패했으며, ...",
+   "publishedAt": 1788588131000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1146,7 +1146,7 @@
    "summary": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable n",
    "publishedAt": 1788379200000,
    "isAI": true,
-   "score": 32,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1160,7 +1160,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1174,7 +1174,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1188,7 +1188,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1202,7 +1202,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1216,7 +1216,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1230,21 +1230,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "에이수스 “풀 스펙트럼 전략으로 ‘소버린 AI’ 시장 공략”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214897",
-   "summary": "“각 국가와 기업들이 추구하는 다양한 개념의 ‘소버린 AI’를 지원하기 위해 다양한 규모의 서버부터 스토리지, 소프트웨어부터 서비스까지 ‘풀 스펙트럼 AI’를 구현, 에이수스 AI 팩토리를 실현하겠습니다”대만의 대표적인 컴퓨팅 하드웨어 전문 에이수스는 3일 서울 여의도 콘래드 호텔에서 ‘AI 테크 2026’을 개최했다. AI 시스템을 넘어 AI 팩토리의 구축과 운영을 아우르는 AI 인프라 전략을 소개하는 자리였다.폴 주 에이수스 수석 부사장은 한국을 찾아 ‘올인 온 AI (All in on AI) 전략을 강조했다. 기존의 하드웨어",
-   "publishedAt": 1788659400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.6,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1258,7 +1244,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.2,
+   "hot": false
+  },
+  {
+   "title": "에이수스 “풀 스펙트럼 전략으로 ‘소버린 AI’ 시장 공략”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214897",
+   "summary": "“각 국가와 기업들이 추구하는 다양한 개념의 ‘소버린 AI’를 지원하기 위해 다양한 규모의 서버부터 스토리지, 소프트웨어부터 서비스까지 ‘풀 스펙트럼 AI’를 구현, 에이수스 AI 팩토리를 실현하겠습니다”대만의 대표적인 컴퓨팅 하드웨어 전문 에이수스는 3일 서울 여의도 콘래드 호텔에서 ‘AI 테크 2026’을 개최했다. AI 시스템을 넘어 AI 팩토리의 구축과 운영을 아우르는 AI 인프라 전략을 소개하는 자리였다.폴 주 에이수스 수석 부사장은 한국을 찾아 ‘올인 온 AI (All in on AI) 전략을 강조했다. 기존의 하드웨어",
+   "publishedAt": 1788659400000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1271,7 +1271,7 @@
    "summary": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedbac",
    "publishedAt": 1788379200000,
    "isAI": true,
-   "score": 31.2,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1285,7 +1285,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.2,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1299,7 +1299,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.2,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1313,7 +1313,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.2,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1327,7 +1327,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.2,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1341,21 +1341,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214898",
-   "summary": "앤트로픽이 신규 모델 공개와 미국 노동절 연휴를 맞아 최고 등급 유료 플랜인 '클로드 맥스(Claude Max)' 이용자 전원의 주간 사용량 제한을 기습적으로 일괄 초기화했다. 오픈AI 'GPT-6 아스트라'의 초반 돌풍에 대응해 이용자 이탈을 막고 코딩 시장 주도권을 확보하기 위한 공격적인 전략이다.앤트로픽의 기술 연구원 리디아 할리는 5일(현지시간) X를 통해 \"클로드 맥스 플랜을 이용하는 모든 유저의 주간 사용량 제한을 초기화했다\"며 \"신규 업데이트 버전인 '페이블 5.1' 출시와 다가오는 긴 연휴 동안 개발자와 크리에이터들이",
-   "publishedAt": 1788653084000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1369,7 +1355,21 @@
    "comments": 166,
    "publishedAt": 1788256365000,
    "isAI": true,
-   "score": 30.8,
+   "score": 30.7,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214898",
+   "summary": "앤트로픽이 신규 모델 공개와 미국 노동절 연휴를 맞아 최고 등급 유료 플랜인 '클로드 맥스(Claude Max)' 이용자 전원의 주간 사용량 제한을 기습적으로 일괄 초기화했다. 오픈AI 'GPT-6 아스트라'의 초반 돌풍에 대응해 이용자 이탈을 막고 코딩 시장 주도권을 확보하기 위한 공격적인 전략이다.앤트로픽의 기술 연구원 리디아 할리는 5일(현지시간) X를 통해 \"클로드 맥스 플랜을 이용하는 모든 유저의 주간 사용량 제한을 초기화했다\"며 \"신규 업데이트 버전인 '페이블 5.1' 출시와 다가오는 긴 연휴 동안 개발자와 크리에이터들이",
+   "publishedAt": 1788653084000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.7,
    "hot": false
   },
   {
@@ -1383,21 +1383,21 @@
    "comments": 219,
    "publishedAt": 1788433264000,
    "isAI": false,
-   "score": 30.7,
+   "score": 30.5,
    "hot": false
   },
   {
-   "title": "GPT-6 아스트라, AI 최초 수능 '완전 만점'...탐구 4과목까지 석권",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214896",
-   "summary": "오픈AI의 ‘GPT-6 아스트라’가 AI 모델 중 최초로 수능 전 문항 만점을 달성했다.6일 공개된 ‘2026 수능 LLM 풀이 대시보드’에서 GPT-6 아스트라는 2026 수능 총점 450점 만점에 450점으로 전체 1위에 올랐다.이 대시보드는 AI 수능 벤치마크로 유명한 구유겸 순천향대학교 컴퓨터소프트웨어공학과 학생이 직접 개발한 ‘테스트-채점-통계’ 자동 처리 시스템을 토대로 한 결과다. 한 문항씩 제공해 풀도록 하는 ‘일반 모드’와 과목 별로 모든 문제를 한번에 제공하는 ‘고난도 모드’로 구성된다.평가는 국어, 수학 선택과목",
-   "publishedAt": 1788649201000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
+   "title": "Mamdani bans AI in NYC schools",
+   "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49542443",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 220,
+   "comments": 180,
+   "publishedAt": 1788382624000,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.3,
    "hot": false
   }
  ]
