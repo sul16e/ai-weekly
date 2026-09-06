@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788677258138,
+ "updatedAt": 1788680910558,
  "week": "2026-W36",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 2160,
-   "comments": 1536,
+   "engagement": 2170,
+   "comments": 1538,
    "publishedAt": 1788522893000,
    "isAI": true,
-   "score": 54.4,
+   "score": 54,
    "hot": false
   },
   {
@@ -23,25 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 143,
-   "comments": 95,
+   "engagement": 160,
+   "comments": 110,
    "publishedAt": 1788659565000,
    "isAI": true,
-   "score": 52.6,
-   "hot": false
-  },
-  {
-   "title": "AI handles incidents, engineers lose touch with their systems",
-   "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49574167",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 376,
-   "comments": 332,
-   "publishedAt": 1788594770000,
-   "isAI": true,
-   "score": 51.3,
+   "score": 53.1,
    "hot": true
   },
   {
@@ -51,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 316,
-   "comments": 133,
+   "engagement": 347,
+   "comments": 155,
    "publishedAt": 1788653009000,
    "isAI": false,
-   "score": 51.2,
+   "score": 51.5,
    "hot": true
   },
   {
@@ -65,17 +51,31 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 282,
-   "comments": 42,
+   "engagement": 331,
+   "comments": 46,
    "publishedAt": 1788651587000,
    "isAI": false,
-   "score": 50,
+   "score": 50.9,
+   "hot": true
+  },
+  {
+   "title": "AI handles incidents, engineers lose touch with their systems",
+   "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49574167",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 378,
+   "comments": 333,
+   "publishedAt": 1788594770000,
+   "isAI": true,
+   "score": 50.9,
    "hot": true
   },
   {
    "title": "grep이 LSP를 이긴다고? 코딩 에이전트가 더 정교한 도구를 무시하는 이유",
    "url": "https://news.hada.io/topic?id=33273",
-   "summary": "Claude 모델 3종의 코드 탐색·편집 실험에서 단순 위치 찾기의 의미 기반 도구 호출 비중은 0~6% 에 그쳤고, 이를 먼저 쓰도록 강제하자 해당 실험군의 성공률이 100%에서 89%로 떨어짐 검색 정확도만큼 반환하는 맥락과 출력 형식 도 중요함: LSP 결과에 소스 코드...",
+   "summary": "Claude 모델 3종을 비교한 소규모 실험에서, 코드 구조를 이해하는 LSP 기반 탐색 도구를 제공해도 단순 코드 위치 찾기에는 대부분 grep을 사용 했으며 LSP를 먼저 쓰도록 강제하면 성공률이 떨어지기도 함 차이는 검색 정확도뿐 아니라 결과를 바로 활용할 수 있는지",
    "publishedAt": 1788672435000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -83,7 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -93,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 2225,
-   "comments": 2044,
+   "engagement": 2228,
+   "comments": 2046,
    "publishedAt": 1788460865000,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.7,
    "hot": false
   },
   {
@@ -107,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 404,
-   "comments": 214,
+   "engagement": 405,
+   "comments": 216,
    "publishedAt": 1788551309000,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.2,
    "hot": false
   },
   {
@@ -121,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 328,
+   "engagement": 332,
    "comments": 98,
    "publishedAt": 1788615398000,
    "isAI": false,
-   "score": 46.4,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -139,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -149,11 +149,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 308,
+   "engagement": 310,
    "comments": 222,
    "publishedAt": 1788557959000,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.1,
    "hot": false
   },
   {
@@ -163,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 228,
-   "comments": 86,
+   "engagement": 240,
+   "comments": 91,
    "publishedAt": 1788626702000,
    "isAI": false,
-   "score": 44.9,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -177,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 253,
-   "comments": 160,
+   "engagement": 257,
+   "comments": 162,
    "publishedAt": 1788565130000,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.6,
    "hot": false
   },
   {
@@ -195,8 +195,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.4,
    "hot": true
+  },
+  {
+   "title": "Corporate America is getting hooked on open-source AI",
+   "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49566137",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 324,
+   "comments": 299,
+   "publishedAt": 1788536025000,
+   "isAI": true,
+   "score": 43.2,
+   "hot": false
+  },
+  {
+   "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+   "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49563386",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 394,
+   "comments": 74,
+   "publishedAt": 1788523155000,
+   "isAI": true,
+   "score": 43.2,
+   "hot": false
   },
   {
    "title": "AI가 장애를 처리할수록 엔지니어는 시스템 감각을 잃는다",
@@ -209,35 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.6,
-   "hot": false
-  },
-  {
-   "title": "Corporate America is getting hooked on open-source AI",
-   "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49566137",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 322,
-   "comments": 299,
-   "publishedAt": 1788536025000,
-   "isAI": true,
-   "score": 43.5,
-   "hot": false
-  },
-  {
-   "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-   "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49563386",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 393,
-   "comments": 74,
-   "publishedAt": 1788523155000,
-   "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -251,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -265,8 +265,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
+  },
+  {
+   "title": "Cloud in a Bottle: 누구나 쉽게 쓸 수 있는 셀프 호스팅을 향해",
+   "url": "https://news.hada.io/topic?id=33275",
+   "summary": "Cloud in a Bottle 은 컨테이너형 앱과 통합 인증을 결합한 오픈소스 개인 클라우드로, 셀프 호스팅을 시스템 관리 부업이 아니라 웹앱을 제공하는 스마트폰처럼 쉽게 만드는 것이 목표임 Ubuntu 기반 서버의 루트 권한 없는 보안 강화 컨테이너 에서 앱을 실행하며,...",
+   "publishedAt": 1788679999000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.9,
+   "hot": true
   },
   {
    "title": "Statichost.eu – European static site hosting",
@@ -275,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 464,
-   "comments": 208,
+   "engagement": 471,
+   "comments": 211,
    "publishedAt": 1788554089000,
    "isAI": false,
-   "score": 42.1,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -289,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 685,
+   "engagement": 687,
    "comments": 225,
    "publishedAt": 1788460333000,
    "isAI": true,
-   "score": 41.4,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -307,22 +321,8 @@
    "comments": 4,
    "publishedAt": 1788542962000,
    "isAI": true,
-   "score": 41.1,
-   "hot": false
-  },
-  {
-   "title": "Show GN: PDF Simple Editor - WinUI 3로 만든 가벼운 PDF 편집기",
-   "url": "https://news.hada.io/topic?id=33272",
-   "summary": "기존 PDF 편집 프로그램들이 유료거나 광고가 붙는 것들이 많고 웹 기반이거나 너무 복잡하거나 기능제한이 있는 것이 많아서, 자주 쓰는 기능에 집중한 간단한 무료 포터블 Windows용 PDF 편집기를 만들어봤습니다. PDF의 기존 텍스트를 선택·이동·삭제하고 더블클릭으로 직접 수정 (기존 폰트 유지 or",
-   "publishedAt": 1788667742000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 40.8,
-   "hot": true
+   "hot": false
   },
   {
    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
@@ -331,18 +331,18 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 160,
-   "comments": 31,
+   "engagement": 163,
+   "comments": 32,
    "publishedAt": 1788615065000,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.4,
    "hot": true
   },
   {
-   "title": "Bespoke: ‘부탁합니다’라고 말하는 사람들을 위한 프로그래밍 언어",
-   "url": "https://news.hada.io/topic?id=33270",
-   "summary": "Bespoke 는 명령 대신 정중한 요청과 감사 인사를 요구하는 정적 타입 언어 구상으로, .charming 소스 파일에 빅토리아 시대식 예절을 담음 할당·변경은 Compiler, 출력은 Output Console, 파일·런타임 작업은 Host Environment에 요청하며, 호칭·문장부호·맺...",
-   "publishedAt": 1788663805000,
+   "title": "Show GN: PDF Simple Editor - WinUI 3로 만든 가벼운 PDF 편집기",
+   "url": "https://news.hada.io/topic?id=33272",
+   "summary": "기존 PDF 편집 프로그램들이 유료거나 광고가 붙는 것들이 많고 웹 기반이거나 너무 복잡하거나 기능제한이 있는 것이 많아서, 자주 쓰는 기능에 집중한 간단한 무료 포터블 Windows용 PDF 편집기를 만들어봤습니다. PDF의 기존 텍스트를 선택·이동·삭제하고 더블클릭으로 직접 수정 (기존 폰트 유지 or",
+   "publishedAt": 1788667742000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -359,12 +359,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 428,
+   "engagement": 430,
    "comments": 245,
    "publishedAt": 1788540419000,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.9,
    "hot": false
+  },
+  {
+   "title": "Bespoke: ‘부탁합니다’라고 말하는 사람들을 위한 프로그래밍 언어",
+   "url": "https://news.hada.io/topic?id=33270",
+   "summary": "Bespoke 는 명령 대신 정중한 요청과 감사 인사를 요구하는 정적 타입 언어 구상으로, .charming 소스 파일에 빅토리아 시대식 예절을 담음 할당·변경은 Compiler, 출력은 Output Console, 파일·런타임 작업은 Host Environment에 요청하며, 호칭·문장부호·맺...",
+   "publishedAt": 1788663805000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.9,
+   "hot": true
   },
   {
    "title": "Show HN: Open-Source eInk Bike Computer",
@@ -373,11 +387,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 393,
+   "engagement": 395,
    "comments": 121,
    "publishedAt": 1788542288000,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -391,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -405,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -419,8 +433,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
+  },
+  {
+   "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49537553",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1155,
+   "comments": 663,
+   "publishedAt": 1788361960000,
+   "isAI": true,
+   "score": 37.6,
+   "hot": false
   },
   {
    "title": "AI가 내 두뇌를 망치고 있을까?",
@@ -433,21 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38,
-   "hot": false
-  },
-  {
-   "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49537553",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1154,
-   "comments": 663,
-   "publishedAt": 1788361960000,
-   "isAI": true,
-   "score": 37.8,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -461,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -471,11 +485,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 398,
+   "engagement": 399,
    "comments": 700,
    "publishedAt": 1788448021000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -489,7 +503,7 @@
    "comments": 148,
    "publishedAt": 1788470434000,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -503,21 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
-  },
-  {
-   "title": "wigolo - AI 에이전트를 위한 로컬 우선 웹 검색/수집 도구",
-   "url": "https://news.hada.io/topic?id=33246",
-   "summary": "AI 에이전트에 검색/페이지 읽기/크롤링/데이터 추출/캐시/유사 문서 검색/리서치 기능을 하나의 MCP 인터페이스로 제공함 검색은 18개 엔진 을 함께 조회한 뒤 결과를 합치고 로컬 모델로 재정렬 하며, 각 결과에 원문 발췌와 출처 위치/인용 ID/평...",
-   "publishedAt": 1788568202000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.1,
+   "score": 37,
    "hot": false
   },
   {
@@ -531,7 +531,21 @@
    "comments": 132,
    "publishedAt": 1788445698000,
    "isAI": true,
-   "score": 37,
+   "score": 36.8,
+   "hot": false
+  },
+  {
+   "title": "wigolo - AI 에이전트를 위한 로컬 우선 웹 검색/수집 도구",
+   "url": "https://news.hada.io/topic?id=33246",
+   "summary": "AI 에이전트에 검색/페이지 읽기/크롤링/데이터 추출/캐시/유사 문서 검색/리서치 기능을 하나의 MCP 인터페이스로 제공함 검색은 18개 엔진 을 함께 조회한 뒤 결과를 합치고 로컬 모델로 재정렬 하며, 각 결과에 원문 발췌와 출처 위치/인용 ID/평...",
+   "publishedAt": 1788568202000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -545,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -559,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -573,21 +587,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "네덜란드, 미국·캐나다 보관 금 86톤 회수",
-   "url": "https://news.hada.io/topic?id=33262",
-   "summary": "네덜란드 중앙은행 DNB는 지정학적 불안 에 대비해 미국·캐나다에 보관하던 금 86톤을 영국과 네덜란드로 옮겨 위기 대응력을 강화함 2026년 3~8월 북미 보관분 313톤 중 86톤을 이전했으며, 영란은행(Bank of England) 보관 금은 국제 거래 표준을 충족해 위기 때 ...",
-   "publishedAt": 1788629693000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.6,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -601,7 +601,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
+   "hot": false
+  },
+  {
+   "title": "네덜란드, 미국·캐나다 보관 금 86톤 회수",
+   "url": "https://news.hada.io/topic?id=33262",
+   "summary": "네덜란드 중앙은행 DNB는 지정학적 불안 에 대비해 미국·캐나다에 보관하던 금 86톤을 영국과 네덜란드로 옮겨 위기 대응력을 강화함 2026년 3~8월 북미 보관분 313톤 중 86톤을 이전했으며, 영란은행(Bank of England) 보관 금은 국제 거래 표준을 충족해 위기 때 ...",
+   "publishedAt": 1788629693000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -615,7 +629,7 @@
    "comments": 253,
    "publishedAt": 1788459502000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -629,20 +643,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "OpenTrailPaper - 오픈소스 전자잉크 자전거 컴퓨터",
-   "url": "https://news.hada.io/topic?id=33259",
-   "summary": "OpenTrailPaper 는 LilyGO T5S3 4.7\" E-Paper PRO에서 주행 데이터와 오프라인 지도를 표시하며, GPX 경로 안내·FIT 기록·Bluetooth 센서 연결을 지원하는 DIY 펌웨어임 지도와 경로를 미리 저장하면 휴대전화나 데이터 연결 없이 GPS 주행 기록, 턴바이턴 안내...",
-   "publishedAt": 1788622317000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 35.9,
    "hot": false
   },
@@ -657,7 +657,7 @@
    "comments": 155,
    "publishedAt": 1788464700000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -667,11 +667,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 326,
+   "engagement": 327,
    "comments": 106,
    "publishedAt": 1788437433000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "OpenTrailPaper - 오픈소스 전자잉크 자전거 컴퓨터",
+   "url": "https://news.hada.io/topic?id=33259",
+   "summary": "OpenTrailPaper 는 LilyGO T5S3 4.7\" E-Paper PRO에서 주행 데이터와 오프라인 지도를 표시하며, GPX 경로 안내·FIT 기록·Bluetooth 센서 연결을 지원하는 DIY 펌웨어임 지도와 경로를 미리 저장하면 휴대전화나 데이터 연결 없이 GPS 주행 기록, 턴바이턴 안내...",
+   "publishedAt": 1788622317000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -685,7 +699,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -699,7 +713,7 @@
    "comments": 186,
    "publishedAt": 1788397882000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -713,7 +727,7 @@
    "comments": 1384,
    "publishedAt": 1788285233000,
    "isAI": true,
-   "score": 35.2,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -727,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -741,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -755,7 +769,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -769,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -783,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -797,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -811,7 +825,7 @@
    "comments": 49,
    "publishedAt": 1788544149000,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -825,7 +839,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214904",
+   "summary": "마이크로소프트(MS)가 AI 개발자를 겨냥해 불필요한 설정과 기능을 줄이고 개발 도구와 AI 실행 환경을 사전 구성한 윈도우11 기반 ‘프로젝트 제니스(Project Zenith)’를 공개했다. 64기가바이트(GB) 이상의 통합 메모리와 초당 250GB 이상의 메모리 대역폭을 갖춘 개발자용 PC를 전제로 설계해, 대규모 AI 모델을 클라우드가 아닌 PC에서 직접 실행할 수 있도록 한 것이 핵심이다.MS는 4일(현지시간) 개발자용 윈도우 환경을 발전시키기 위해 지난 6월 ‘빌드 2026’에서 개발에 최적화된 윈도우11 경험을 소개한",
+   "publishedAt": 1788679619000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -839,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -853,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -867,21 +895,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214901",
-   "summary": "구글이 고품질 음악 생성 모델 ‘리리아 3.5(Lyria 3.5)’를 AI 챗봇 ‘제미나이’에 탑재하며 AI 음악 생성 기능의 대중화에 나섰다.구글은 4일(현지시간) 리리아 3.5를 제미나이 앱에서 제공하기 시작했다.지난 7월 말 음악 창작자를 위한 ‘구글 플로우 뮤직(Flow Music)’에 처음 적용한 데 이어 제미나이 앱과 API, 구글 AI 스튜디오(AI Studio), 구글 비즈(Vids) 등으로 지원 범위를 확대하면서 일반 사용자와 개발자도 손쉽게 완성도 높은 음악을 제작할 수 있게 됐다.웹과 모바일에서 전 세계 사용자가",
-   "publishedAt": 1788675924000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
+   "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+   "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49536375",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 516,
+   "comments": 250,
+   "publishedAt": 1788357599000,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -895,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -909,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -923,21 +951,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
-   "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-   "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49536375",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 515,
-   "comments": 250,
-   "publishedAt": 1788357599000,
+   "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214901",
+   "summary": "구글이 고품질 음악 생성 모델 ‘리리아 3.5(Lyria 3.5)’를 AI 챗봇 ‘제미나이’에 탑재하며 AI 음악 생성 기능의 대중화에 나섰다.구글은 4일(현지시간) 리리아 3.5를 제미나이 앱에서 제공하기 시작했다.지난 7월 말 음악 창작자를 위한 ‘구글 플로우 뮤직(Flow Music)’에 처음 적용한 데 이어 제미나이 앱과 API, 구글 AI 스튜디오(AI Studio), 구글 비즈(Vids) 등으로 지원 범위를 확대하면서 일반 사용자와 개발자도 손쉽게 완성도 높은 음악을 제작할 수 있게 됐다.웹과 모바일에서 전 세계 사용자가",
+   "publishedAt": 1788675924000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -951,7 +979,7 @@
    "comments": 151,
    "publishedAt": 1788442152000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -965,7 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -979,7 +1007,7 @@
    "comments": 1051,
    "publishedAt": 1788287715000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -993,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1003,11 +1031,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 122,
+   "engagement": 123,
    "comments": 37,
    "publishedAt": 1788552788000,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1021,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1035,21 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "NX 비트는 보안만을 위한 것이 아니다",
-   "url": "https://news.hada.io/topic?id=33250",
-   "summary": "ARM64 베어메탈 하이퍼바이저에서 CTR_EL0 인터셉트를 켤 때 기기가 멈춘 원인은 분기 예측에 따른 추측적 명령어 인출 이 실행 가능하게 매핑된 MMIO 영역에 접근했기 때문이었음 직접 호출인 bl 은 작동하고 간접 호출인 blr 은 실패했으며, ...",
-   "publishedAt": 1788588131000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1063,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1077,21 +1091,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false
   },
   {
-   "title": "머스크, 미네소타 ‘AI 딥페이크 누드 금지법’ 저지 실패",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214908",
-   "summary": "일론 머스크 CEO의 xAI(스페이스XAI)가 미네소타주의 AI 생성 가짜 나체 이미지 금지법을 저지하기 위해 제기한 소송에서 패소했다. 미국 연방법원은 xAI가 해당 법의 시행을 막아야 할 긴급한 필요성을 입증하지 못했다고 판단했다. 다만 법 자체의 위헌 여부에 대해서는 본안 심리를 통해 충분히 검토하겠다고 밝혀, 법적 공방은 계속될 전망이다.로이터에 따르면, 미국 미네소타주 연방법원 도너번 프랭크 판사는 4일(현지시간) xAI가 요청한 예비적 금지명령을 기각했다.미네소타주의 관련 법은 지난 8월 1일부터 시행됐으며, 웹사이트 운",
-   "publishedAt": 1788663062000,
-   "source": "AI타임스",
-   "sourceType": "media",
+   "title": "NX 비트는 보안만을 위한 것이 아니다",
+   "url": "https://news.hada.io/topic?id=33250",
+   "summary": "ARM64 베어메탈 하이퍼바이저에서 CTR_EL0 인터셉트를 켤 때 기기가 멈춘 원인은 분기 예측에 따른 추측적 명령어 인출 이 실행 가능하게 매핑된 MMIO 영역에 접근했기 때문이었음 직접 호출인 bl 은 작동하고 간접 호출인 blr 은 실패했으며, ...",
+   "publishedAt": 1788588131000,
+   "source": "GeekNews",
+   "sourceType": "community",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1105,7 +1119,7 @@
    "comments": 158,
    "publishedAt": 1788449161000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1119,7 +1133,34 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+   "url": "https://huggingface.co/papers/2609.04199",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 314,
+   "summary": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable n",
+   "publishedAt": 1788379200000,
+   "isAI": true,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "머스크, 미네소타 ‘AI 딥페이크 누드 금지법’ 저지 실패",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214908",
+   "summary": "일론 머스크 CEO의 xAI(스페이스XAI)가 미네소타주의 AI 생성 가짜 나체 이미지 금지법을 저지하기 위해 제기한 소송에서 패소했다. 미국 연방법원은 xAI가 해당 법의 시행을 막아야 할 긴급한 필요성을 입증하지 못했다고 판단했다. 다만 법 자체의 위헌 여부에 대해서는 본안 심리를 통해 충분히 검토하겠다고 밝혀, 법적 공방은 계속될 전망이다.로이터에 따르면, 미국 미네소타주 연방법원 도너번 프랭크 판사는 4일(현지시간) xAI가 요청한 예비적 금지명령을 기각했다.미네소타주의 관련 법은 지난 8월 1일부터 시행됐으며, 웹사이트 운",
+   "publishedAt": 1788663062000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1133,7 +1174,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1147,7 +1188,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1161,7 +1202,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1175,20 +1216,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32,
    "hot": false
   },
   {
-   "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
-   "url": "https://huggingface.co/papers/2609.04199",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 313,
-   "summary": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable n",
-   "publishedAt": 1788379200000,
+   "title": "LGU+, PMDC 얼라이언스 출범…AI 데이터센터 건축기간 줄인다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214909",
+   "summary": "LG유플러스(대표 홍범식)가 GS건설, 자이C&A 등과 손잡고 사전제작형 모듈러 데이터센터(PMDC) 표준모델 확보에 나선다. 급증하는 AI 인프라 수요에 대응하기 위해 AI 데이터센터(AIDC) 구축 기간을 단축하고 품질을 표준화할 수 있는 협력체계를 마련한다는 전략이다.LGU+는 경기 안양시 평촌메가센터에서 GS건설, 자이C&A, 간삼건축, D&O CM과 ‘PMDC 얼라이언스(Alliance) 구축을 위한 업무협약’을 체결했다고 6일 밝혔다. 협약식에는 홍범식 LGU+ 대표를 비롯해 GS건설 허윤홍 대표, 자이C&A 김욱수 대표",
+   "publishedAt": 1788660300000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1202,7 +1244,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1216,7 +1258,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1230,7 +1272,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1244,7 +1286,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1258,7 +1300,20 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+   "url": "https://huggingface.co/papers/2609.04148",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 268,
+   "summary": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedbac",
+   "publishedAt": 1788379200000,
+   "isAI": true,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1272,7 +1327,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1286,20 +1341,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-   "url": "https://huggingface.co/papers/2609.04148",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 268,
-   "summary": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedbac",
-   "publishedAt": 1788379200000,
-   "isAI": true,
-   "score": 31.6,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1313,7 +1355,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
+   "score": 31,
    "hot": false
   },
   {
@@ -1323,11 +1365,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 333,
+   "engagement": 334,
    "comments": 219,
    "publishedAt": 1788433264000,
    "isAI": false,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1341,7 +1383,7 @@
    "comments": 166,
    "publishedAt": 1788256365000,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1355,48 +1397,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "Mamdani bans AI in NYC schools",
-   "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49542443",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 220,
-   "comments": 180,
-   "publishedAt": 1788382624000,
-   "isAI": true,
    "score": 30.8,
-   "hot": false
-  },
-  {
-   "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
-   "url": "https://huggingface.co/papers/2609.03796",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 225,
-   "summary": "We introduce LLaDA-Image, a unified framework that pairs a 6B Diffusion Transformer (DiT) trained from scratch with a frozen vision-language understanding module built on the LLaDA2.0-Mini diffusion language model backbone. Instead of relying heavily on paired image-text data from the beginning, we ",
-   "publishedAt": 1788379200000,
-   "isAI": true,
-   "score": 30.7,
-   "hot": false
-  },
-  {
-   "title": "성인 영화 제작사, 토렌트로 파일 2만 개 받은 이용자를 Meta 임원으로 지목",
-   "url": "https://news.hada.io/topic?id=33241",
-   "summary": "성인 영화 제작사 Strike 3 Holdings 가 토렌트로 약 2만 개 파일을 받은 회선의 가입자를 Meta Reality Labs 임원으로 지목하고, 기존 최대 4억 4,600만 달러 규모의 Meta 상대 소송 과 사건을 연결해 달라고 요청함 Meta의 회사 IP에서 발생한 다운로드를 통보한 지...",
-   "publishedAt": 1788562096000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 30.7,
    "hot": false
   }
  ]
