@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788792308597,
+ "updatedAt": 1788796487986,
  "week": "2026-W37",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 676,
+   "engagement": 681,
    "comments": 416,
    "publishedAt": 1788695803000,
    "isAI": true,
-   "score": 53.8,
+   "score": 53.3,
    "hot": false
   },
   {
@@ -27,8 +27,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.2,
    "hot": false
+  },
+  {
+   "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+   "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49594251",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 291,
+   "comments": 242,
+   "publishedAt": 1788759205000,
+   "isAI": false,
+   "score": 48.6,
+   "hot": true
   },
   {
    "title": "Anubis에 WebAssembly를 탑재하기까지 1년이 걸렸다",
@@ -41,63 +55,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
-   "hot": true
-  },
-  {
-   "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
-   "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49594251",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 272,
-   "comments": 233,
-   "publishedAt": 1788759205000,
-   "isAI": false,
-   "score": 48.6,
-   "hot": true
-  },
-  {
-   "title": "Asahi Linux on M3",
-   "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49586698",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 522,
-   "comments": 319,
-   "publishedAt": 1788703739000,
-   "isAI": false,
-   "score": 46.7,
-   "hot": false
-  },
-  {
-   "title": "Research acceleration: The view inside OpenAI",
-   "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49587217",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 193,
-   "comments": 154,
-   "publishedAt": 1788707324000,
-   "isAI": true,
-   "score": 46,
-   "hot": true
-  },
-  {
-   "title": "Making a Python interpreter in 1024 bytes",
-   "url": "https://austinhenley.com/blog/python1024.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49591876",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 270,
-   "comments": 99,
-   "publishedAt": 1788736448000,
-   "isAI": false,
-   "score": 45.6,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -107,25 +65,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 130,
-   "comments": 54,
+   "engagement": 166,
+   "comments": 93,
    "publishedAt": 1788781597000,
    "isAI": false,
-   "score": 45.1,
-   "hot": false
+   "score": 46.8,
+   "hot": true
   },
   {
-   "title": "How I feel about AI",
-   "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49587128",
+   "title": "Asahi Linux on M3",
+   "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49586698",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 161,
-   "comments": 254,
-   "publishedAt": 1788706819000,
+   "engagement": 527,
+   "comments": 322,
+   "publishedAt": 1788703739000,
+   "isAI": false,
+   "score": 46.3,
+   "hot": false
+  },
+  {
+   "title": "Research acceleration: The view inside OpenAI",
+   "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49587217",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 195,
+   "comments": 161,
+   "publishedAt": 1788707324000,
    "isAI": true,
-   "score": 44.6,
+   "score": 45.6,
+   "hot": false
+  },
+  {
+   "title": "Making a Python interpreter in 1024 bytes",
+   "url": "https://austinhenley.com/blog/python1024.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49591876",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 280,
+   "comments": 100,
+   "publishedAt": 1788736448000,
+   "isAI": false,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -135,12 +121,41 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 142,
-   "comments": 140,
+   "engagement": 158,
+   "comments": 157,
    "publishedAt": 1788768300000,
    "isAI": false,
-   "score": 44.2,
+   "score": 44.6,
+   "hot": true
+  },
+  {
+   "title": "How I feel about AI",
+   "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49587128",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 161,
+   "comments": 255,
+   "publishedAt": 1788706819000,
+   "isAI": true,
+   "score": 44.1,
    "hot": false
+  },
+  {
+   "title": "Discovery of a new OpenAI agent message board",
+   "url": "https://collusion.wiki/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49563355",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 2282,
+   "comments": 1587,
+   "publishedAt": 1788522893000,
+   "isAI": true,
+   "score": 43.7,
+   "hot": false,
+   "lastWeekRank": 2
   },
   {
    "title": "Show GN: VIBE-GAME ( AI 에게 일 시키고 기다리면서 하기에 좋은 게임 )",
@@ -153,23 +168,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44,
+   "score": 43.5,
    "hot": false
-  },
-  {
-   "title": "Discovery of a new OpenAI agent message board",
-   "url": "https://collusion.wiki/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49563355",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 2281,
-   "comments": 1584,
-   "publishedAt": 1788522893000,
-   "isAI": true,
-   "score": 43.9,
-   "hot": false,
-   "lastWeekRank": 2
   },
   {
    "title": "Alien Mind: 인간과는 다른, 낯선 지성",
@@ -182,7 +182,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -196,7 +196,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -210,7 +210,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -224,7 +224,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -238,7 +238,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -252,7 +252,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -266,7 +266,7 @@
    "comments": 308,
    "publishedAt": 1788653009000,
    "isAI": false,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -281,7 +281,7 @@
    "comments": 188,
    "publishedAt": 1788659565000,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -292,11 +292,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 596,
+   "engagement": 598,
    "comments": 115,
    "publishedAt": 1788651587000,
    "isAI": false,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false,
    "lastWeekRank": 4
   },
@@ -311,7 +311,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -325,7 +325,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -339,7 +339,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.5,
+   "hot": false
+  },
+  {
+   "title": "당신의 지적 바지 지퍼가 열려 있습니다 (2025)",
+   "url": "https://news.hada.io/topic?id=33289",
+   "summary": "LinkedIn에서 LLM에 게시물 작성을 맡기면 글쓴이 고유의 목소리가 사라지고, 독자가 내용의 진정성까지 의심하게 될 수 있음 이모지, 한 문장짜리 문단, 반복적인 대조 구문, 긴 대시 는 LLM 생성 글에 익숙한 독자에게 쉽게 눈에 띄어, 그럴듯한 글을 기대한 것과...",
+   "publishedAt": 1788726794000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 41,
    "hot": false
   },
   {
@@ -353,22 +367,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 40.9,
    "hot": true
-  },
-  {
-   "title": "당신의 지적 바지 지퍼가 열려 있습니다 (2025)",
-   "url": "https://news.hada.io/topic?id=33289",
-   "summary": "LinkedIn에서 LLM에 게시물 작성을 맡기면 글쓴이 고유의 목소리가 사라지고, 독자가 내용의 진정성까지 의심하게 될 수 있음 이모지, 한 문장짜리 문단, 반복적인 대조 구문, 긴 대시 는 LLM 생성 글에 익숙한 독자에게 쉽게 눈에 띄어, 그럴듯한 글을 기대한 것과...",
-   "publishedAt": 1788726794000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41.5,
-   "hot": false
   },
   {
    "title": "Show GN: 번역체를 완전히 못 없앤다면 문체를 만들어 넣어버리자는 발상에서 만든 무협체 스킬",
@@ -381,7 +381,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -395,7 +395,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -409,7 +409,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -423,7 +423,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -437,7 +437,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40,
    "hot": true
   },
   {
@@ -447,11 +447,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 2254,
+   "engagement": 2257,
    "comments": 2067,
    "publishedAt": 1788460865000,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.9,
    "hot": false,
    "lastWeekRank": 8
   },
@@ -466,7 +466,7 @@
    "comments": 342,
    "publishedAt": 1788594770000,
    "isAI": true,
-   "score": 40,
+   "score": 39.7,
    "hot": false,
    "lastWeekRank": 5
   },
@@ -478,10 +478,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 153,
-   "comments": 72,
+   "comments": 74,
    "publishedAt": 1788660766000,
    "isAI": true,
-   "score": 39.5,
+   "score": 39.1,
    "hot": false,
    "lastWeekRank": 7
   },
@@ -496,7 +496,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -510,7 +510,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -524,7 +524,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -538,7 +538,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.1,
    "hot": false,
    "lastWeekRank": 6
   },
@@ -553,7 +553,7 @@
    "comments": 239,
    "publishedAt": 1788551309000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false,
    "lastWeekRank": 11
   },
@@ -568,7 +568,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -582,7 +582,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -596,7 +596,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -610,7 +610,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -624,23 +624,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false,
    "lastWeekRank": 9
-  },
-  {
-   "title": "코드가 나빠지는 데는 한계가 없다",
-   "url": "https://news.hada.io/topic?id=33300",
-   "summary": "건물과 달리 소프트웨어에는 물리적 붕괴 한계가 없어 , 시스템이 계속 작동하는 동안에도 복잡성과 성능 저하가 끝없이 누적될 수 있음 Amazon 주문 처리 조직에서는 지식 소실과 미완료 재설계 가 반복되면서, 기존 구조에 새 계층과 인력이 계속 남는 악순환이 이...",
-   "publishedAt": 1788739371000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.1,
-   "hot": false
   },
   {
    "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
@@ -649,11 +635,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 373,
+   "engagement": 374,
    "comments": 110,
    "publishedAt": 1788615398000,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 10
   },
@@ -668,50 +654,22 @@
    "comments": 233,
    "publishedAt": 1788557959000,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 13
   },
   {
-   "title": "Show GN: 빵어전 – 재료를 조합해 빵 타워를 만드는 모바일 타워디펜스",
-   "url": "https://news.hada.io/topic?id=33299",
-   "summary": "안녕하세요. 빵어전을 만들고 있는 개발자입니다. 반죽에 소금·버터·팥 같은 재료를 더해 빵 타워를 만들고, 밀려오는 안개 괴물에게서 작은 화덕을 지키는 세로형 픽셀 타워디펜스입니다. 같은 재료도 조합 순서에 따라 다른 빵이 되고, 적의 특성과 길을 보고 배치해야 합니다. 64종 빵 타워의 조합을 발견하",
-   "publishedAt": 1788737706000,
+   "title": "코드가 나빠지는 데는 한계가 없다",
+   "url": "https://news.hada.io/topic?id=33300",
+   "summary": "건물과 달리 소프트웨어에는 물리적 붕괴 한계가 없어 , 시스템이 계속 작동하는 동안에도 복잡성과 성능 저하가 끝없이 누적될 수 있음 Amazon 주문 처리 조직에서는 지식 소실과 미완료 재설계 가 반복되면서, 기존 구조에 새 계층과 인력이 계속 남는 악순환이 이...",
+   "publishedAt": 1788739371000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "‘영원한 화학물질’의 재앙은 어떻게 비밀로 유지됐나",
-   "url": "https://news.hada.io/topic?id=33298",
-   "summary": "3M 은 1970년대부터 ‘영원한 화학물질’의 독성과 일반인 혈액 내 존재를 알고도 생산을 계속했으며, 전직 과학자 Kris Hansen의 증언과 내부 문서 가 수십 년간 정보가 묻힌 과정을 드러냄 변호사의 비공개 지시뿐 아니라 연구 결과에 대한 반복적인 불신과...",
-   "publishedAt": 1788737697000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "Nitter, 개발 지속 확정",
-   "url": "https://news.hada.io/topic?id=33297",
-   "summary": "업데이트: 법적 검토를 거쳐 Nitter 프로젝트의 지속 운영을 확정 지었습니다. 상세한 내용은 빠른 시일 내에 발표할 예정입니다. https://news.hada.io/topic?id=32995 지난달 x.com의 요구로 개발이 중단된 Nitter 프로젝트의 개발 지속이 확정되었습니다.",
-   "publishedAt": 1788737513000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -725,9 +683,66 @@
    "comments": 137,
    "publishedAt": 1788626702000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false,
    "lastWeekRank": 12
+  },
+  {
+   "title": "Show GN: 빵어전 – 재료를 조합해 빵 타워를 만드는 모바일 타워디펜스",
+   "url": "https://news.hada.io/topic?id=33299",
+   "summary": "안녕하세요. 빵어전을 만들고 있는 개발자입니다. 반죽에 소금·버터·팥 같은 재료를 더해 빵 타워를 만들고, 밀려오는 안개 괴물에게서 작은 화덕을 지키는 세로형 픽셀 타워디펜스입니다. 같은 재료도 조합 순서에 따라 다른 빵이 되고, 적의 특성과 길을 보고 배치해야 합니다. 64종 빵 타워의 조합을 발견하",
+   "publishedAt": 1788737706000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "‘영원한 화학물질’의 재앙은 어떻게 비밀로 유지됐나",
+   "url": "https://news.hada.io/topic?id=33298",
+   "summary": "3M 은 1970년대부터 ‘영원한 화학물질’의 독성과 일반인 혈액 내 존재를 알고도 생산을 계속했으며, 전직 과학자 Kris Hansen의 증언과 내부 문서 가 수십 년간 정보가 묻힌 과정을 드러냄 변호사의 비공개 지시뿐 아니라 연구 결과에 대한 반복적인 불신과...",
+   "publishedAt": 1788737697000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "Nitter, 개발 지속 확정",
+   "url": "https://news.hada.io/topic?id=33297",
+   "summary": "업데이트: 법적 검토를 거쳐 Nitter 프로젝트의 지속 운영을 확정 지었습니다. 상세한 내용은 빠른 시일 내에 발표할 예정입니다. https://news.hada.io/topic?id=32995 지난달 x.com의 요구로 개발이 중단된 Nitter 프로젝트의 개발 지속이 확정되었습니다.",
+   "publishedAt": 1788737513000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+   "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49571465",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 273,
+   "comments": 174,
+   "publishedAt": 1788565130000,
+   "isAI": true,
+   "score": 35.3,
+   "hot": false,
+   "lastWeekRank": 15
   },
   {
    "title": "둠스크롤링으로 스스로를 죽음으로 몰아가는 우리",
@@ -740,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -748,35 +763,6 @@
    "url": "https://news.hada.io/topic?id=33294",
    "summary": "X Corp.가 Nitter 인스턴스와 프로젝트 저장소의 영구 폐쇄를 요구한 가운데, Nitter는 법률 자문을 거쳐 프로젝트를 계속 진행 하기로 함 Nitter는 개인정보 보호와 성능에 초점을 둔 무료 오픈소스 Twitter 대체 프런트엔드로, 모든 요청을 백엔드로 전달 해 클라이...",
    "publishedAt": 1788734353000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-   "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49571465",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 272,
-   "comments": 173,
-   "publishedAt": 1788565130000,
-   "isAI": true,
-   "score": 35.5,
-   "hot": false,
-   "lastWeekRank": 15
-  },
-  {
-   "title": "UN, 지구 온난화 1.5°C 한계 초과 전망",
-   "url": "https://news.hada.io/topic?id=33290",
-   "summary": "UN 환경계획은 석탄·석유·가스 사용에 따른 온난화로 향후 몇 년 안에 산업화 이전 대비 1.5°C 한계를 넘을 것 으로 전망하며, 초과 폭을 억제한 뒤 기온을 다시 낮추는 대응을 권고함 1.5°C 목표는 유지 하되, 화석연료 사용 중단과 대기 중 이산화탄소 제거로 한계...",
-   "publishedAt": 1788730465000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -797,9 +783,23 @@
    "comments": 76,
    "publishedAt": 1788523155000,
    "isAI": true,
-   "score": 35,
+   "score": 34.8,
    "hot": false,
    "lastWeekRank": 18
+  },
+  {
+   "title": "UN, 지구 온난화 1.5°C 한계 초과 전망",
+   "url": "https://news.hada.io/topic?id=33290",
+   "summary": "UN 환경계획은 석탄·석유·가스 사용에 따른 온난화로 향후 몇 년 안에 산업화 이전 대비 1.5°C 한계를 넘을 것 으로 전망하며, 초과 폭을 억제한 뒤 기온을 다시 낮추는 대응을 권고함 1.5°C 목표는 유지 하되, 화석연료 사용 중단과 대기 중 이산화탄소 제거로 한계...",
+   "publishedAt": 1788730465000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.8,
+   "hot": false
   },
   {
    "title": "Corporate America is getting hooked on open-source AI",
@@ -812,23 +812,9 @@
    "comments": 307,
    "publishedAt": 1788536025000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false,
    "lastWeekRank": 19
-  },
-  {
-   "title": "NAS/백업에 어떤 파일시스템을 사용하고 있으며, 그 이유는 무엇인가요?",
-   "url": "https://news.hada.io/topic?id=33288",
-   "summary": "NAS와 백업에 어떤 파일시스템을 쓰고 왜 선택했는지 , 여러 디스크는 파일시스템 내장 RAID나 별도 도구로 어떻게 관리하는지 묻는 lobsters의 질문글 ZFS 는 오랜 운영 경험과 데이터 무결성, 스냅샷, 암호화된 원격 증분 복제를 이유로 많이 선택됐으며, Linux에서...",
-   "publishedAt": 1788724994000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.7,
-   "hot": false
   },
   {
    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
@@ -841,9 +827,23 @@
    "comments": 228,
    "publishedAt": 1788460333000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.3,
    "hot": false,
    "lastWeekRank": 27
+  },
+  {
+   "title": "NAS/백업에 어떤 파일시스템을 사용하고 있으며, 그 이유는 무엇인가요?",
+   "url": "https://news.hada.io/topic?id=33288",
+   "summary": "NAS와 백업에 어떤 파일시스템을 쓰고 왜 선택했는지 , 여러 디스크는 파일시스템 내장 RAID나 별도 도구로 어떻게 관리하는지 묻는 lobsters의 질문글 ZFS 는 오랜 운영 경험과 데이터 무결성, 스냅샷, 암호화된 원격 증분 복제를 이유로 많이 선택됐으며, Linux에서...",
+   "publishedAt": 1788724994000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.3,
+   "hot": false
   },
   {
    "title": "A/I 운영 종료 — 인간다움을 지키자",
@@ -856,7 +856,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -870,7 +870,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false,
    "lastWeekRank": 14
   },
@@ -885,7 +885,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -899,7 +899,7 @@
    "comments": 244,
    "publishedAt": 1788554089000,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 25
   },
@@ -914,23 +914,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false,
    "lastWeekRank": 17
-  },
-  {
-   "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-   "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-   "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-   "publishedAt": 1788727657000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
   },
   {
    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -943,9 +929,23 @@
    "comments": 665,
    "publishedAt": 1788361960000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false,
    "lastWeekRank": 36
+  },
+  {
+   "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+   "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+   "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+   "publishedAt": 1788727657000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.9,
+   "hot": false
   },
   {
    "title": "Isar Aerospace, 두 번째 비행에서 궤도 진입과 탑재체 배치 성공",
@@ -958,7 +958,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false,
    "lastWeekRank": 16
   },
@@ -973,23 +973,9 @@
    "comments": 4,
    "publishedAt": 1788542962000,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false,
    "lastWeekRank": 31
-  },
-  {
-   "title": "The complex corporate web behind a $3.2 billion AI data center",
-   "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-   "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
-   "publishedAt": 1788778803000,
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
   },
   {
    "title": "AMD Based FreeBSD Desktop Reloaded",
@@ -998,11 +984,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 125,
+   "engagement": 126,
    "comments": 28,
    "publishedAt": 1788661497000,
    "isAI": false,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1016,9 +1002,23 @@
    "comments": 51,
    "publishedAt": 1788615065000,
    "isAI": false,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false,
    "lastWeekRank": 29
+  },
+  {
+   "title": "The complex corporate web behind a $3.2 billion AI data center",
+   "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+   "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+   "publishedAt": 1788778803000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
+   "hot": false
   },
   {
    "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
@@ -1031,9 +1031,54 @@
    "comments": 245,
    "publishedAt": 1788540419000,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false,
    "lastWeekRank": 32
+  },
+  {
+   "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49525378",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1415,
+   "comments": 1392,
+   "publishedAt": 1788285233000,
+   "isAI": true,
+   "score": 31.8,
+   "hot": false,
+   "lastWeekRank": 50
+  },
+  {
+   "title": "Show HN: Open-Source eInk Bike Computer",
+   "url": "https://opentrailpaper.com",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49567437",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 414,
+   "comments": 131,
+   "publishedAt": 1788542288000,
+   "isAI": false,
+   "score": 31.7,
+   "hot": false,
+   "lastWeekRank": 34
+  },
+  {
+   "title": "‘60달러 게이밍 PC’ — AMD BC-250 (2025)",
+   "url": "https://news.hada.io/topic?id=33281",
+   "summary": "AMD BC-250 은 콘솔 규격을 충족하지 못한 PS5 APU를 재활용한 채굴용 보드로, 개조하면 Cyberpunk 2077 등을 즐기는 저가 PC로 활용할 수 있음 ‘60달러’는 운이 좋으면 eBay에서 구할 수 있는 보드 단품 가격 이며, 2025년 11월 기준 일반적인 가격은 70~...",
+   "publishedAt": 1788694394000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.7,
+   "hot": false,
+   "lastWeekRank": 20
   },
   {
    "title": "[9월7일] 순천 AI 영상 뉴스 - 순천서 ‘2026 다문화 한마음축제’ 등",
@@ -1046,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1060,23 +1105,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.7,
    "hot": false
-  },
-  {
-   "title": "‘60달러 게이밍 PC’ — AMD BC-250 (2025)",
-   "url": "https://news.hada.io/topic?id=33281",
-   "summary": "AMD BC-250 은 콘솔 규격을 충족하지 못한 PS5 APU를 재활용한 채굴용 보드로, 개조하면 Cyberpunk 2077 등을 즐기는 저가 PC로 활용할 수 있음 ‘60달러’는 운이 좋으면 eBay에서 구할 수 있는 보드 단품 가격 이며, 2025년 11월 기준 일반적인 가격은 70~...",
-   "publishedAt": 1788694394000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32,
-   "hot": false,
-   "lastWeekRank": 20
   },
   {
    "title": "챗GPT,'개인 문체' 학습 기능 테스트...\"AI가 쓴 티 벗어난다\"",
@@ -1089,38 +1119,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.6,
    "hot": false
-  },
-  {
-   "title": "Show HN: Open-Source eInk Bike Computer",
-   "url": "https://opentrailpaper.com",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49567437",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 414,
-   "comments": 131,
-   "publishedAt": 1788542288000,
-   "isAI": false,
-   "score": 31.9,
-   "hot": false,
-   "lastWeekRank": 34
-  },
-  {
-   "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49525378",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1415,
-   "comments": 1392,
-   "publishedAt": 1788285233000,
-   "isAI": true,
-   "score": 31.9,
-   "hot": false,
-   "lastWeekRank": 50
   },
   {
    "title": "오픈AI 수석 과학자의 경고...\"외계인 같은 AI, 자기개선에 대비해야\"",
@@ -1133,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1147,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1161,78 +1161,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
-   "hot": false
-  },
-  {
-   "title": "\"무엇을 실행할지 AI가 판단\"...메타, AI 연구 속도 1.6배 끌어올린 'RPM' 개발",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214939",
-   "summary": "AI가 스스로 연구 아이디어를 내고 실험까지 수행하는 시대에 접어들면서, 이제는 AI 연구에서 ‘무엇을 실행할 것인가’를 결정하는 능력이 새로운 경쟁력으로 떠오르고 있다. 메타의 AI 연구조직 FAIR는 값비싼 GPU 자원을 투입하기 전에 여러 실험 후보의 성공 가능성을 AI가 먼저 비교·평가하도록 하는 새로운 접근법을 제시했다. 메타 FAIR는 최근 AI 연구 에이전트가 값비싼 GPU 연산을 실행하기 전에 어떤 실험부터 수행할지를 판단하는 ‘AI 연구 선호 모델(RPM·Research Preference Model)’을 온라인 아",
-   "publishedAt": 1788768306000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "zopt - Zig를 위한 간결한 명령줄 인자 파서",
-   "url": "https://news.hada.io/topic?id=33280",
-   "summary": "사전 스키마 정의 없이 애플리케이션이 조회할 때마다 argv 를 탐색하는 Zig 명령줄 인자 파서임 std.process.Args 의 얇은 래퍼 로, 도움말 작성·오류와 값 부재 처리·기본값 설정은 애플리케이션 코드에 맡김 짧은·긴 플래그와 ...",
-   "publishedAt": 1788688942000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.6,
-   "hot": false,
-   "lastWeekRank": 22
-  },
-  {
-   "title": "[게시판] 씽크포비엘, 스위스 CERTX와 ‘AI 신뢰성’ 사업 협력 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214959",
-   "summary": "■ 씽크포비엘이 4일 스위스 프리부르에서 CERTX AG와 AI 신뢰성 공동 연구개발 및 사업 추진에 관한 상호 교류,협력 MOU를 체결했다. CERTX AG는 AI를 비롯해 기능 안전과 사이버보안 분야 시험, 평가, 인증 전문 기업이다. 2018년 설립돼 스위스 프리부르에 본사를 두고 있다. 양사는 각자 보유한 AI 신뢰성, AI 시스템 평가, 데이터 충실도(fidelity) 인증 및 시험, 표준-규제 대응 관련 기술, 방법론, 도구, 경험 및 전문 역량을 상호 공유할 계획이다.■ 프리윌린(대표 권기성)이 지난 3일 서울 여의도",
-   "publishedAt": 1788768000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "[게시판] 셀렉트스타, KMAC·법무법인 린과 'AI 기본법 세미나' 개최 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214944",
-   "summary": "■ 셀렉트스타(대표 김세엽)는 오는 17일 서울 포스코타워 역삼에서 한국능률협회컨설팅(KMAC), 법무법인 린과 함께 'AI 기본법, 대비하고 계신가요? 규제 변화부터 거버넌스와 검증까지 실무 대응 전략' 공동 세미나를 개최한다고 밝혔다. 이번 세미나는 단순한 법·제도 해설을 넘어 규제·보안 환경 변화, 기업의 운영체계 구축, AI 서비스의 안전성·신뢰성 평가까지 실질적인 대응 방안을 다룰 예정이다.■ 매니코어소프트(대표 박정호)는 서울대 천둥연구실과 공동 주관한 '2026 가속기 프로그래밍 여름학교'를 4박 5일간 진행했다고 밝혔",
-   "publishedAt": 1788768000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "스페이스XAI, 영상 연속성·품질 높인 ‘그록 이매진 비디오 1.5’ 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214947",
-   "summary": "스페이스XAI가 영상 생성의 고질적인 문제로 꼽혀온 장면 간 연속성을 개선한 ‘그록 이매진 비디오 1.5(Grok Imagine Video 1.5)’ 에이전트를 공개했다. 단순히 영상 생성 모델의 화질을 높이는 데 그치지 않고 여러 개의 장면을 하나의 일관된 영상으로 연결하는 데 초점을 맞춘 것이 특징이다.스페이스XAI는 5일(현지시간) 새로운 ‘그록 이매진 비디오 1.5’ 에이전트를 공개하며 더 높은 화질과 향상된 스토리텔링, 여러 샷을 자연스럽게 연결하는 기능을 제공한다고 밝혔다.이번 업데이트는 새로운 ‘비디오 1.6’ 모델을",
-   "publishedAt": 1788767711000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1246,9 +1175,80 @@
    "comments": 703,
    "publishedAt": 1788448021000,
    "isAI": true,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 39
+  },
+  {
+   "title": "zopt - Zig를 위한 간결한 명령줄 인자 파서",
+   "url": "https://news.hada.io/topic?id=33280",
+   "summary": "사전 스키마 정의 없이 애플리케이션이 조회할 때마다 argv 를 탐색하는 Zig 명령줄 인자 파서임 std.process.Args 의 얇은 래퍼 로, 도움말 작성·오류와 값 부재 처리·기본값 설정은 애플리케이션 코드에 맡김 짧은·긴 플래그와 ...",
+   "publishedAt": 1788688942000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.3,
+   "hot": false,
+   "lastWeekRank": 22
+  },
+  {
+   "title": "\"무엇을 실행할지 AI가 판단\"...메타, AI 연구 속도 1.6배 끌어올린 'RPM' 개발",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214939",
+   "summary": "AI가 스스로 연구 아이디어를 내고 실험까지 수행하는 시대에 접어들면서, 이제는 AI 연구에서 ‘무엇을 실행할 것인가’를 결정하는 능력이 새로운 경쟁력으로 떠오르고 있다. 메타의 AI 연구조직 FAIR는 값비싼 GPU 자원을 투입하기 전에 여러 실험 후보의 성공 가능성을 AI가 먼저 비교·평가하도록 하는 새로운 접근법을 제시했다. 메타 FAIR는 최근 AI 연구 에이전트가 값비싼 GPU 연산을 실행하기 전에 어떤 실험부터 수행할지를 판단하는 ‘AI 연구 선호 모델(RPM·Research Preference Model)’을 온라인 아",
+   "publishedAt": 1788768306000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "[게시판] 씽크포비엘, 스위스 CERTX와 ‘AI 신뢰성’ 사업 협력 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214959",
+   "summary": "■ 씽크포비엘이 4일 스위스 프리부르에서 CERTX AG와 AI 신뢰성 공동 연구개발 및 사업 추진에 관한 상호 교류,협력 MOU를 체결했다. CERTX AG는 AI를 비롯해 기능 안전과 사이버보안 분야 시험, 평가, 인증 전문 기업이다. 2018년 설립돼 스위스 프리부르에 본사를 두고 있다. 양사는 각자 보유한 AI 신뢰성, AI 시스템 평가, 데이터 충실도(fidelity) 인증 및 시험, 표준-규제 대응 관련 기술, 방법론, 도구, 경험 및 전문 역량을 상호 공유할 계획이다.■ 프리윌린(대표 권기성)이 지난 3일 서울 여의도",
+   "publishedAt": 1788768000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "[게시판] 셀렉트스타, KMAC·법무법인 린과 'AI 기본법 세미나' 개최 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214944",
+   "summary": "■ 셀렉트스타(대표 김세엽)는 오는 17일 서울 포스코타워 역삼에서 한국능률협회컨설팅(KMAC), 법무법인 린과 함께 'AI 기본법, 대비하고 계신가요? 규제 변화부터 거버넌스와 검증까지 실무 대응 전략' 공동 세미나를 개최한다고 밝혔다. 이번 세미나는 단순한 법·제도 해설을 넘어 규제·보안 환경 변화, 기업의 운영체계 구축, AI 서비스의 안전성·신뢰성 평가까지 실질적인 대응 방안을 다룰 예정이다.■ 매니코어소프트(대표 박정호)는 서울대 천둥연구실과 공동 주관한 '2026 가속기 프로그래밍 여름학교'를 4박 5일간 진행했다고 밝혔",
+   "publishedAt": 1788768000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "스페이스XAI, 영상 연속성·품질 높인 ‘그록 이매진 비디오 1.5’ 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214947",
+   "summary": "스페이스XAI가 영상 생성의 고질적인 문제로 꼽혀온 장면 간 연속성을 개선한 ‘그록 이매진 비디오 1.5(Grok Imagine Video 1.5)’ 에이전트를 공개했다. 단순히 영상 생성 모델의 화질을 높이는 데 그치지 않고 여러 개의 장면을 하나의 일관된 영상으로 연결하는 데 초점을 맞춘 것이 특징이다.스페이스XAI는 5일(현지시간) 새로운 ‘그록 이매진 비디오 1.5’ 에이전트를 공개하며 더 높은 화질과 향상된 스토리텔링, 여러 샷을 자연스럽게 연결하는 기능을 제공한다고 밝혔다.이번 업데이트는 새로운 ‘비디오 1.6’ 모델을",
+   "publishedAt": 1788767711000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.2,
+   "hot": false
   },
   {
    "title": "과기정통부-중기부, 중소 제조 현장 ‘피지컬 AI 도입·확산’ 공동 지원",
@@ -1261,7 +1261,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.5,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1275,35 +1275,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "\"AI 검색 답변 그대로 분석\"... 애니모프, GEO 분석 도구 '쿼링에이아이' 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214951",
-   "summary": "애니모프(대표 송준혁)가 생성 AI 검색 최적화(GEO)를 위한 API, ‘쿼링에이아이(querying.ai)’를 공개했다고 7일 밝혔다.쿼링에이아이는 이용자가 실제로 보는 AI 검색 화면의 답변과 인용 출처를 그대로 수집해 제공하는 서비스다. 다른 검색 최적화 서비스와 다르게, 이용자의 관점을 직접적으로 수집한다는 점에서 차별화된다는 설명이다. 개발자용 API가 아닌 ‘화면’ 형태의 결과를 제공한다. 같은 질문이라도 모델 API의 응답과 실제 화면의 답변이 달라지는 경우가 있기 때문에, 브랜드 노출을 제대로 확인하려면 화면 기준의",
-   "publishedAt": 1788765457000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "메타 'AIRA₃', 중앙 통제 없이 여러 에이전트 협업으로 '캐글' 금메달",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214936",
-   "summary": "메타의 차세대 자율형 AI 연구 시스템 ‘AIRA₃’가 엔비디아가 주최한 글로벌 AI 경진 대회 캐글(Kaggle)에서 4000여개 팀 가운데 8위를 차지하며 금메달을 획득했다. AIRA₃는 중앙에서 작업을 지시하는 컨트롤러 없이 여러 AI 에이전트가 독립적으로 연구하고 결과를 공유하는 구조를 채택해 주목받고 있다. 6일(현지시간) 메타에 따르면, 자율 AI 연구 시스템이 실제 외부 경쟁 환경에서 인간 전문가들과 경쟁해 금메달을 받은 것은 이번이 처음이다.메타는 지난 6월 AIRA₃를 엔비디아의 실시간 캐글 대회에 투입했다. 대회의",
-   "publishedAt": 1788765218000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1317,9 +1289,37 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.3,
+   "score": 31,
    "hot": false,
    "lastWeekRank": 26
+  },
+  {
+   "title": "\"AI 검색 답변 그대로 분석\"... 애니모프, GEO 분석 도구 '쿼링에이아이' 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214951",
+   "summary": "애니모프(대표 송준혁)가 생성 AI 검색 최적화(GEO)를 위한 API, ‘쿼링에이아이(querying.ai)’를 공개했다고 7일 밝혔다.쿼링에이아이는 이용자가 실제로 보는 AI 검색 화면의 답변과 인용 출처를 그대로 수집해 제공하는 서비스다. 다른 검색 최적화 서비스와 다르게, 이용자의 관점을 직접적으로 수집한다는 점에서 차별화된다는 설명이다. 개발자용 API가 아닌 ‘화면’ 형태의 결과를 제공한다. 같은 질문이라도 모델 API의 응답과 실제 화면의 답변이 달라지는 경우가 있기 때문에, 브랜드 노출을 제대로 확인하려면 화면 기준의",
+   "publishedAt": 1788765457000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31,
+   "hot": false
+  },
+  {
+   "title": "메타 'AIRA₃', 중앙 통제 없이 여러 에이전트 협업으로 '캐글' 금메달",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214936",
+   "summary": "메타의 차세대 자율형 AI 연구 시스템 ‘AIRA₃’가 엔비디아가 주최한 글로벌 AI 경진 대회 캐글(Kaggle)에서 4000여개 팀 가운데 8위를 차지하며 금메달을 획득했다. AIRA₃는 중앙에서 작업을 지시하는 컨트롤러 없이 여러 AI 에이전트가 독립적으로 연구하고 결과를 공유하는 구조를 채택해 주목받고 있다. 6일(현지시간) 메타에 따르면, 자율 AI 연구 시스템이 실제 외부 경쟁 환경에서 인간 전문가들과 경쟁해 금메달을 받은 것은 이번이 처음이다.메타는 지난 6월 AIRA₃를 엔비디아의 실시간 캐글 대회에 투입했다. 대회의",
+   "publishedAt": 1788765218000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31,
+   "hot": false
   },
   {
    "title": "한전KDN, 전사 AI 리더워크숍 개최로 전력·에너지·기후 분야 AI 전환 주도",
@@ -1332,78 +1332,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "AI·XR 콘텐츠 체험의 기회...17일 동대문서 '엔터테크 서울' 개최",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214948",
-   "summary": "서울시와 서울경제진흥원(SBA)은 오는 17일~20일까지 JW메리어트 동대문 스퀘어와 동대문디자인플라자(DDP)에서 AI, 확장현실(XR), 위치 기반 엔터테인먼트(LBE), 증강현실(AR) 글래스 등 첨단기술과 K-콘텐츠를 결합한 융복합 콘텐츠 행사 ‘엔터테크, 서울 2026’을 개최한다.일반 관람객에게는 기술 기반 콘텐츠를 직접 경험할 기회를 제공하고, 콘텐 츠·기술 기업에는 투자·유통 관계자 및 해외 바이어와 사업 기회를 모색할 수 있는 산업 교류의 장을 제공한다. 특히, DDP 아트홀 2에 마련되는 전시·체험 공간에서는 AI",
-   "publishedAt": 1788763775000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "Chrome, 사용자 사이트 데이터 설정에서 Google을 또다시 예외 처리",
-   "url": "https://news.hada.io/topic?id=33276",
-   "summary": "모든 창을 닫으면 사이트 데이터를 삭제하도록 설정해도, Google 검색 후 google.com 데이터가 남는 현상 이 Chrome에서 재현됨 Chrome 152.0.7977.83 을 쓰는 서로 다른 Mac 두 대에서 확인됐으며, 기본 검색 엔진을 DuckDuckGo로 바꾸고 Chrome 로그인...",
-   "publishedAt": 1788683523000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.2,
-   "hot": false,
-   "lastWeekRank": 28
-  },
-  {
-   "title": "나주, 생활 속 탄소중립 확산…개인 텀블러 사용 캠페인",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214941",
-   "summary": "AI 생성 영상나주시가 카페 이용객의 개인 텀블러 사용을 늘리고 일회용컵 소비를 줄이기 위한 시민 참여 캠페인에 나섰다. 텀블러 사용을 시민참여형 탄소중립 플랫폼 ‘탄소모아 탄탄e’와 연계해 생활 속 환경 실천과 인센티브 참여를 함께 안내하는 방식이다.나주는 지난 4일 빛가람동 중흥1·2차 아파트 인근 카페에서 ‘텀블러 들고 탄탄하게! 탄소모아 탄탄e 캠페인’을 진행했다고 7일 밝혔다.이날 카페를 찾은 시민들은 텀블러 사용의 필요성과 일회용컵 감축 취지를 설명받고, ‘탄소모아 탄탄e’ 참여 방법과 인센티브 혜택을 안내받았다.이번 캠",
-   "publishedAt": 1788762728000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.2,
-   "hot": false
-  },
-  {
-   "title": "여수, ‘2026 여수 마린페스티벌’ 12일 개막...모터보트·카누 무료 체험",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214921",
-   "summary": "AI 생성 영상여수세계박람회장 앞바다에서 카약과 드래곤보트 경기를 보고 모터보트·바나나보트·카누·수상자전거 등을 직접 체험할 수 있는 해양레저 축제가 개최된다. 시민과 관광객을 위한 체험 프로그램은 현장에서 신청하면 무료로 참여할 수 있다.여수시는 ‘2026 여수 마린페스티벌’이 오는 12일 여수세계박람회장 일원에서 열린다고 7일 밝혔다.행사는 한국해양소년단 전남동부연맹이 주최하고 전남광주통합특별시와 여수 등이 후원한다. ‘제6회 여수전국해양레저스포츠대회’와 시민 참여형 체험 프로그램을 함께 운영한다.대회는 싯온카약과 드래곤보트 2",
-   "publishedAt": 1788762688000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.2,
-   "hot": false
-  },
-  {
-   "title": "전남광주, 9월 소상공인 무료보험 시행…대출금 최대 1000만원 지원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214918",
-   "summary": "AI 생성 영상전남광주통합특별시가 9월부터 사고나 중대질병을 겪은 소상공인을 지원하는 무료 상생보험을 시행한다. 이 가운데 ‘민생회복 대출 안심보험’은 광주와 전남에서 각각 5000명씩 총 1만명을 모집하며, 가입자가 사망하거나 중대질병 진단을 받으면 대출금 최대 1000만원을 보험사가 금융기관에 직접 상환한다.전남광주는 금융위원회 상생보험 공모사업을 통해 앞으로 3년간 총 40억원 규모의 ‘소상공인 무료 상생보험’을 운영한다고 7일 밝혔다.보험은 민생회복 대출 안심보험, 청년소상공인 안심보험, 영업배상 책임보험 등 3종으로 구성된",
-   "publishedAt": 1788762541000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.2,
+   "score": 31,
    "hot": false
   },
   {
@@ -1417,9 +1346,38 @@
    "comments": 133,
    "publishedAt": 1788445698000,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false,
    "lastWeekRank": 43
+  },
+  {
+   "title": "Chrome, 사용자 사이트 데이터 설정에서 Google을 또다시 예외 처리",
+   "url": "https://news.hada.io/topic?id=33276",
+   "summary": "모든 창을 닫으면 사이트 데이터를 삭제하도록 설정해도, Google 검색 후 google.com 데이터가 남는 현상 이 Chrome에서 재현됨 Chrome 152.0.7977.83 을 쓰는 서로 다른 Mac 두 대에서 확인됐으며, 기본 검색 엔진을 DuckDuckGo로 바꾸고 Chrome 로그인...",
+   "publishedAt": 1788683523000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 30.9,
+   "hot": false,
+   "lastWeekRank": 28
+  },
+  {
+   "title": "AI·XR 콘텐츠 체험의 기회...17일 동대문서 '엔터테크 서울' 개최",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214948",
+   "summary": "서울시와 서울경제진흥원(SBA)은 오는 17일~20일까지 JW메리어트 동대문 스퀘어와 동대문디자인플라자(DDP)에서 AI, 확장현실(XR), 위치 기반 엔터테인먼트(LBE), 증강현실(AR) 글래스 등 첨단기술과 K-콘텐츠를 결합한 융복합 콘텐츠 행사 ‘엔터테크, 서울 2026’을 개최한다.일반 관람객에게는 기술 기반 콘텐츠를 직접 경험할 기회를 제공하고, 콘텐 츠·기술 기업에는 투자·유통 관계자 및 해외 바이어와 사업 기회를 모색할 수 있는 산업 교류의 장을 제공한다. 특히, DDP 아트홀 2에 마련되는 전시·체험 공간에서는 AI",
+   "publishedAt": 1788763775000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.9,
+   "hot": false
   },
   {
    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
@@ -1432,9 +1390,51 @@
    "comments": 149,
    "publishedAt": 1788470434000,
    "isAI": true,
-   "score": 31,
+   "score": 30.8,
    "hot": false,
    "lastWeekRank": 40
+  },
+  {
+   "title": "나주, 생활 속 탄소중립 확산…개인 텀블러 사용 캠페인",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214941",
+   "summary": "AI 생성 영상나주시가 카페 이용객의 개인 텀블러 사용을 늘리고 일회용컵 소비를 줄이기 위한 시민 참여 캠페인에 나섰다. 텀블러 사용을 시민참여형 탄소중립 플랫폼 ‘탄소모아 탄탄e’와 연계해 생활 속 환경 실천과 인센티브 참여를 함께 안내하는 방식이다.나주는 지난 4일 빛가람동 중흥1·2차 아파트 인근 카페에서 ‘텀블러 들고 탄탄하게! 탄소모아 탄탄e 캠페인’을 진행했다고 7일 밝혔다.이날 카페를 찾은 시민들은 텀블러 사용의 필요성과 일회용컵 감축 취지를 설명받고, ‘탄소모아 탄탄e’ 참여 방법과 인센티브 혜택을 안내받았다.이번 캠",
+   "publishedAt": 1788762728000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.8,
+   "hot": false
+  },
+  {
+   "title": "여수, ‘2026 여수 마린페스티벌’ 12일 개막...모터보트·카누 무료 체험",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214921",
+   "summary": "AI 생성 영상여수세계박람회장 앞바다에서 카약과 드래곤보트 경기를 보고 모터보트·바나나보트·카누·수상자전거 등을 직접 체험할 수 있는 해양레저 축제가 개최된다. 시민과 관광객을 위한 체험 프로그램은 현장에서 신청하면 무료로 참여할 수 있다.여수시는 ‘2026 여수 마린페스티벌’이 오는 12일 여수세계박람회장 일원에서 열린다고 7일 밝혔다.행사는 한국해양소년단 전남동부연맹이 주최하고 전남광주통합특별시와 여수 등이 후원한다. ‘제6회 여수전국해양레저스포츠대회’와 시민 참여형 체험 프로그램을 함께 운영한다.대회는 싯온카약과 드래곤보트 2",
+   "publishedAt": 1788762688000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.8,
+   "hot": false
+  },
+  {
+   "title": "전남광주, 9월 소상공인 무료보험 시행…대출금 최대 1000만원 지원",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214918",
+   "summary": "AI 생성 영상전남광주통합특별시가 9월부터 사고나 중대질병을 겪은 소상공인을 지원하는 무료 상생보험을 시행한다. 이 가운데 ‘민생회복 대출 안심보험’은 광주와 전남에서 각각 5000명씩 총 1만명을 모집하며, 가입자가 사망하거나 중대질병 진단을 받으면 대출금 최대 1000만원을 보험사가 금융기관에 직접 상환한다.전남광주는 금융위원회 상생보험 공모사업을 통해 앞으로 3년간 총 40억원 규모의 ‘소상공인 무료 상생보험’을 운영한다고 7일 밝혔다.보험은 민생회복 대출 안심보험, 청년소상공인 안심보험, 영업배상 책임보험 등 3종으로 구성된",
+   "publishedAt": 1788762541000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.8,
+   "hot": false
   }
  ]
 }
