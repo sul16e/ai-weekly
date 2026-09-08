@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788869752389,
+ "updatedAt": 1788873392980,
  "week": "2026-W37",
  "items": [
   {
@@ -9,11 +9,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 569,
-   "comments": 399,
+   "engagement": 616,
+   "comments": 433,
    "publishedAt": 1788843983000,
    "isAI": true,
    "score": 63.6,
+   "hot": true
+  },
+  {
+   "title": "The Work Now Within Reach",
+   "url": "https://openai.com/index/the-work-now-within-reach",
+   "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+   "publishedAt": 1788872400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 57.8,
+   "hot": true
+  },
+  {
+   "title": "Show GN: /take-my-data - 코딩 에이전트 세션을 로컬에서 정제해 공개 데이터셋으로 기부하는 스킬",
+   "url": "https://news.hada.io/topic?id=33361",
+   "summary": "코딩 에이전트(Claude Code, Codex, Pi, OpenCode) 세션 로그를 기부받아 CC0 공개 데이터셋으로 만드는 도구와 허브입니다. 한국어 에이전트 궤적(툴콜, 가져오기, 테스트 결과가 포함된 세션) 공개 데이터가 거의 없어서 시작했습니다. 동작 방식 에이전트 안에서 /take-my-data 실행 로컬에서",
+   "publishedAt": 1788872626000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
    "hot": true
   },
   {
@@ -23,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 264,
-   "comments": 257,
+   "engagement": 273,
+   "comments": 276,
    "publishedAt": 1788842890000,
    "isAI": false,
-   "score": 49.3,
+   "score": 49,
    "hot": true
   },
   {
@@ -41,7 +69,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.6,
+   "hot": true
+  },
+  {
+   "title": "There's a new \"Google Jail\" for independent wikis",
+   "url": "https://weirdgloop.org/blog/google-jail",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49604870",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 275,
+   "comments": 100,
+   "publishedAt": 1788832643000,
+   "isAI": false,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -55,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -69,21 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.7,
-   "hot": true
-  },
-  {
-   "title": "There's a new \"Google Jail\" for independent wikis",
-   "url": "https://weirdgloop.org/blog/google-jail",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49604870",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 232,
-   "comments": 81,
-   "publishedAt": 1788832643000,
-   "isAI": false,
-   "score": 46.7,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -93,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 247,
-   "comments": 17,
+   "engagement": 255,
+   "comments": 22,
    "publishedAt": 1788824262000,
    "isAI": false,
-   "score": 46.2,
+   "score": 46,
    "hot": true
   },
   {
@@ -111,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -125,7 +153,7 @@
    "comments": 431,
    "publishedAt": 1788695803000,
    "isAI": true,
-   "score": 45.4,
+   "score": 45.1,
    "hot": false
   },
   {
@@ -139,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -153,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -167,8 +195,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 44.1,
+   "hot": false
   },
   {
    "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
@@ -178,10 +206,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 125,
-   "comments": 140,
+   "comments": 141,
    "publishedAt": 1788799232000,
    "isAI": true,
-   "score": 44.4,
+   "score": 44,
    "hot": false
   },
   {
@@ -195,8 +223,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "Apache Maka - 에이전트가 한 일을 기록으로 남기는 로컬 우선 워크스페이스",
@@ -209,8 +237,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.2,
-   "hot": true
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
@@ -220,10 +248,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 294,
-   "comments": 196,
+   "comments": 197,
    "publishedAt": 1788781597000,
    "isAI": false,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -233,11 +261,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 349,
-   "comments": 277,
+   "engagement": 353,
+   "comments": 278,
    "publishedAt": 1788759205000,
    "isAI": false,
-   "score": 41.4,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -279,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -317,23 +345,9 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 106,
+   "engagement": 107,
    "comments": 2,
    "publishedAt": 1788829248000,
-   "isAI": false,
-   "score": 39.7,
-   "hot": false
-  },
-  {
-   "title": "Asahi Linux on M3",
-   "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49586698",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 559,
-   "comments": 350,
-   "publishedAt": 1788703739000,
    "isAI": false,
    "score": 39.4,
    "hot": false
@@ -345,13 +359,27 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 2289,
+   "engagement": 2290,
    "comments": 1594,
    "publishedAt": 1788522893000,
    "isAI": true,
-   "score": 39.4,
+   "score": 39.2,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "Asahi Linux on M3",
+   "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49586698",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 559,
+   "comments": 351,
+   "publishedAt": 1788703739000,
+   "isAI": false,
+   "score": 39.1,
+   "hot": false
   },
   {
    "title": "Research acceleration: The view inside OpenAI",
@@ -364,7 +392,7 @@
    "comments": 187,
    "publishedAt": 1788707324000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -378,7 +406,21 @@
    "comments": 110,
    "publishedAt": 1788736448000,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.2,
+   "hot": false
+  },
+  {
+   "title": "Programming is Art",
+   "url": "https://orchidfiles.com/programming-is-art/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49595360",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 189,
+   "comments": 191,
+   "publishedAt": 1788768300000,
+   "isAI": false,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -392,22 +434,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
-  },
-  {
-   "title": "Programming is Art",
-   "url": "https://orchidfiles.com/programming-is-art/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49595360",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 189,
-   "comments": 190,
-   "publishedAt": 1788768300000,
-   "isAI": false,
-   "score": 37.9,
-   "hot": false
   },
   {
    "title": "Lovable의 하트는 어떻게 만들어졌나",
@@ -420,7 +448,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -434,7 +462,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -448,8 +476,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Show GN: Dol(돌) - 자체 CouchDB 서버로 동기화하는 마크다운 노트 앱",
@@ -462,8 +490,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "CarPlay 탑재·미탑재 차량 판매의 우연한 A/B 테스트, 결과는 놀랍지 않았다",
@@ -476,8 +504,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "스마트폰 제조사들, EU의 수리 정보 공개 의무도 제대로 지키지 않아",
@@ -490,8 +518,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "How I feel about AI",
@@ -500,11 +528,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 162,
+   "engagement": 163,
    "comments": 258,
    "publishedAt": 1788706819000,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -518,8 +546,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "가장 짧은 IPv6 주소를 찾아서",
@@ -532,7 +560,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -546,7 +574,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -560,23 +588,9 @@
    "comments": 2069,
    "publishedAt": 1788460865000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.5,
    "hot": false,
    "lastWeekRank": 8
-  },
-  {
-   "title": "빌 게이츠의 MovieMaker 설치 시도(2003)",
-   "url": "https://news.hada.io/topic?id=33333",
-   "summary": "빌 게이츠 는 MovieMaker 다운로드와 Digital Plus 패키지 구매에 한 시간 넘게 매달렸지만 둘 다 이용하지 못했고, Windows 사용성과 프로그램 관리 조직의 대응을 강하게 비판함 Microsoft.com의 느린 검색과 혼란스러운 다운로드 목록에 이어 Windows Update의 검사·업데...",
-   "publishedAt": 1788820451000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.4,
-   "hot": false
   },
   {
    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
@@ -589,7 +603,7 @@
    "comments": 314,
    "publishedAt": 1788653009000,
    "isAI": false,
-   "score": 36.3,
+   "score": 36.1,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -604,7 +618,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.3,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "빌 게이츠의 MovieMaker 설치 시도(2003)",
+   "url": "https://news.hada.io/topic?id=33333",
+   "summary": "빌 게이츠 는 MovieMaker 다운로드와 Digital Plus 패키지 구매에 한 시간 넘게 매달렸지만 둘 다 이용하지 못했고, Windows 사용성과 프로그램 관리 조직의 대응을 강하게 비판함 Microsoft.com의 느린 검색과 혼란스러운 다운로드 목록에 이어 Windows Update의 검사·업데...",
+   "publishedAt": 1788820451000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "Speculative Decoding in vLLM on AMD GPUs",
+   "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49596054",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 139,
+   "comments": 51,
+   "publishedAt": 1788773201000,
+   "isAI": false,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -618,21 +660,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "Speculative Decoding in vLLM on AMD GPUs",
-   "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49596054",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 138,
-   "comments": 51,
-   "publishedAt": 1788773201000,
-   "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -646,7 +674,7 @@
    "comments": 189,
    "publishedAt": 1788659565000,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -661,7 +689,7 @@
    "comments": 117,
    "publishedAt": 1788651587000,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 4
   },
@@ -676,7 +704,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -690,7 +718,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -704,7 +732,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -718,7 +746,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -732,21 +760,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "1024바이트로 Python 인터프리터 만들기",
-   "url": "https://news.hada.io/topic?id=33329",
-   "summary": "매크로나 라이브러리 편법 없이 C 소스 1024바이트 에 Python 문법 일부를 실행하는 인터프리터를 담음 토큰화·AST·바이트코드 생성 대신 소스를 파싱하면서 즉시 실행 하며, 반복문과 함수 호출은 소스 위치를 이동해 다시 파싱하는 방식으로 처리함 정수 ...",
-   "publishedAt": 1788809613000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.4,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -760,7 +774,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -774,14 +788,14 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
-   "title": "스위스 연방정부, 컴퓨터 3,000대에서 Microsoft를 대체한다",
-   "url": "https://news.hada.io/topic?id=33328",
-   "summary": "스위스 연방정부가 전체 인력의 약 7%인 3,000명 을 대상으로 Microsoft 365를 오픈소스 대안으로 전환하는 파일럿을 시작했으며, 2027년 말 완료를 목표로 함 직원 172명이 참여한 openDesk 개념검증 에서 문서 처리와 이메일은 긍정적인 평가를 받...",
-   "publishedAt": 1788805992000,
+   "title": "1024바이트로 Python 인터프리터 만들기",
+   "url": "https://news.hada.io/topic?id=33329",
+   "summary": "매크로나 라이브러리 편법 없이 C 소스 1024바이트 에 Python 문법 일부를 실행하는 인터프리터를 담음 토큰화·AST·바이트코드 생성 대신 소스를 파싱하면서 즉시 실행 하며, 반복문과 함수 호출은 소스 위치를 이동해 다시 파싱하는 방식으로 처리함 정수 ...",
+   "publishedAt": 1788809613000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -802,9 +816,37 @@
    "comments": 342,
    "publishedAt": 1788594770000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.7,
    "hot": false,
    "lastWeekRank": 5
+  },
+  {
+   "title": "스위스 연방정부, 컴퓨터 3,000대에서 Microsoft를 대체한다",
+   "url": "https://news.hada.io/topic?id=33328",
+   "summary": "스위스 연방정부가 전체 인력의 약 7%인 3,000명 을 대상으로 Microsoft 365를 오픈소스 대안으로 전환하는 파일럿을 시작했으며, 2027년 말 완료를 목표로 함 직원 172명이 참여한 openDesk 개념검증 에서 문서 처리와 이메일은 긍정적인 평가를 받...",
+   "publishedAt": 1788805992000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+   "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+   "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the ",
+   "publishedAt": 1788872400000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
   },
   {
    "title": "It's time for Mark Zuckerberg to resign from Meta",
@@ -814,10 +856,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 105,
-   "comments": 135,
+   "comments": 139,
    "publishedAt": 1788767961000,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -831,7 +873,7 @@
    "comments": 76,
    "publishedAt": 1788660766000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 7
   },
@@ -846,7 +888,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -860,7 +902,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -874,7 +916,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -888,35 +930,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "단순함을 쉽게 만들기 (2011)",
-   "url": "https://news.hada.io/topic?id=33320",
-   "summary": "단순함은 요소가 서로 얽히지 않은 상태 이고, 쉬움은 접근성·익숙함·개인의 역량에 따라 달라짐 — 기술을 선택할 때는 작성 편의보다 실행하고 유지보수할 소프트웨어의 구조를 평가해야 함 인간이 동시에 이해할 수 있는 요소는 제한적이므로 복잡성은 이해·변경·디버깅 ...",
-   "publishedAt": 1788782802000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "아이렌 \"AI 컴퓨팅 수요 무한 확장...공급이 수요 못 따라가\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214985",
-   "summary": "AI 산업의 급성장으로 데이터센터와 컴퓨팅 인프라 투자가 폭발적으로 늘고 있지만, 컴퓨팅 파워 공급이 AI 수요를 따라잡기는 사실상 어려울 것이라는 전망이 나왔다. 엔비디아의 주요 네오클라우드 파트너인 아이렌(Iren)의 다니엘 로버츠 공동 CEO는 AI 데이터센터 구축이 과거의 일반적인 투자 사이클과는 근본적으로 다른 양상을 보인다고 진단했다.로버츠 CEO는 7일(현지시간) 파이낸셜타임스(FT)와의 인터뷰에서 \"공급 곡선이 수요를 앞지를 가능성을 상상하기 정말 어렵다\"고 말했다. 일반 산업에서는 생산설비를 늘리면 기존 수요가 충족",
-   "publishedAt": 1788858683000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -930,9 +944,23 @@
    "comments": 239,
    "publishedAt": 1788551309000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false,
    "lastWeekRank": 11
+  },
+  {
+   "title": "단순함을 쉽게 만들기 (2011)",
+   "url": "https://news.hada.io/topic?id=33320",
+   "summary": "단순함은 요소가 서로 얽히지 않은 상태 이고, 쉬움은 접근성·익숙함·개인의 역량에 따라 달라짐 — 기술을 선택할 때는 작성 편의보다 실행하고 유지보수할 소프트웨어의 구조를 평가해야 함 인간이 동시에 이해할 수 있는 요소는 제한적이므로 복잡성은 이해·변경·디버깅 ...",
+   "publishedAt": 1788782802000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32.6,
+   "hot": false
   },
   {
    "title": "OCaml로 프로그래밍 배우기",
@@ -945,7 +973,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "아이렌 \"AI 컴퓨팅 수요 무한 확장...공급이 수요 못 따라가\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214985",
+   "summary": "AI 산업의 급성장으로 데이터센터와 컴퓨팅 인프라 투자가 폭발적으로 늘고 있지만, 컴퓨팅 파워 공급이 AI 수요를 따라잡기는 사실상 어려울 것이라는 전망이 나왔다. 엔비디아의 주요 네오클라우드 파트너인 아이렌(Iren)의 다니엘 로버츠 공동 CEO는 AI 데이터센터 구축이 과거의 일반적인 투자 사이클과는 근본적으로 다른 양상을 보인다고 진단했다.로버츠 CEO는 7일(현지시간) 파이낸셜타임스(FT)와의 인터뷰에서 \"공급 곡선이 수요를 앞지를 가능성을 상상하기 정말 어렵다\"고 말했다. 일반 산업에서는 생산설비를 늘리면 기존 수요가 충족",
+   "publishedAt": 1788858683000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -959,7 +1001,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -973,7 +1015,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -987,7 +1029,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1001,7 +1043,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1015,7 +1057,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1029,7 +1071,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1043,7 +1085,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1057,7 +1099,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1071,7 +1113,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1085,21 +1127,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "삼성SDS, '로봇 오케스트레이션'으로 생산라인 1000곳 RX 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215002",
-   "summary": "삼성SDS가 업무의 AI전환(AX)과 제조 및 생산 라인의 로보틱스 전환(RX) 추진을 위해 관련 투자를 확대한다. 수익 모델을 발굴하고 핵심 인력 확보에도 나선다.삼성SDS(대표 이준희)는 8일 서울 코엑스 컨벤션센터에서 AX 컨퍼런스 ‘리얼 서밋(REAL Summit) 2026'을 개최, 사업 확대와 국내외 파트너십 현황을 구체적으로 밝혔다.우선, 지난 4월 발표된 ‘10조원 투자 계획’에 로보틱스 추가 투자를 발표했다. 삼성SDS는 오는 2031년까지 ▲AI인프라(5조원) ▲AX 및 AI 서비스 ▲플랫폼, 솔루션(1조원) ▲전",
-   "publishedAt": 1788850144000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1113,7 +1141,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "삼성SDS, '로봇 오케스트레이션'으로 생산라인 1000곳 RX 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215002",
+   "summary": "삼성SDS가 업무의 AI전환(AX)과 제조 및 생산 라인의 로보틱스 전환(RX) 추진을 위해 관련 투자를 확대한다. 수익 모델을 발굴하고 핵심 인력 확보에도 나선다.삼성SDS(대표 이준희)는 8일 서울 코엑스 컨벤션센터에서 AX 컨퍼런스 ‘리얼 서밋(REAL Summit) 2026'을 개최, 사업 확대와 국내외 파트너십 현황을 구체적으로 밝혔다.우선, 지난 4월 발표된 ‘10조원 투자 계획’에 로보틱스 추가 투자를 발표했다. 삼성SDS는 오는 2031년까지 ▲AI인프라(5조원) ▲AX 및 AI 서비스 ▲플랫폼, 솔루션(1조원) ▲전",
+   "publishedAt": 1788850144000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1127,49 +1169,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "우리 서버가 계속 운영될 수 있도록 도와주세요",
-   "url": "https://news.hada.io/topic?id=33316",
-   "summary": "Internet Archive 는 210페타바이트의 지식을 보존하고 누구나 접근할 수 있도록 자체 인프라를 유지하기 위해 정기 후원을 요청함 이용자 데이터 판매나 광고 없이 누구에게나 무료로 개방하며, 핵심 기술을 외부 기업에 맡기지 않고 자체 시스템 ...",
-   "publishedAt": 1788769928000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "[부음] 유상모(한국 델 테크놀로지스 사장)씨 모친상",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215010",
-   "summary": "▲이창순 씨 별세, 유상모 한국 델 테크놀로지스 사장 모친상=서울성모병원 장례식장 2호실 (서울 서초구 반포대로 222, 02-2258-5940), 발인 10일, 용인추모원.AI타임스 news@aitimes.com",
-   "publishedAt": 1788848400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "EU \"형식적 보고는 안 된다\"...오픈AI, '독일 웹사이트 장악' 사고 보고서 제출",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214999",
-   "summary": "오픈AI가 자사 AI 에이전트들이 독일의 한 웹사이트를 장악한 사고와 관련해 유럽연합(EU) 집행위원회에 공식 보고서를 제출했다. EU는 이번 보고가 단순한 형식적 신고에 그쳐서는 안 되며, 사고를 막기 위해 어떤 조치를 취했는지 구체적이고 정확한 내용을 담아야 한다고 강조했다.로이터에 따르면, 토마스 레그니에 EU 집행위원회 대변인은 7일(현지시간) 오픈AI가 이른바 '불량 에이전트'의 독일 웹사이트 장악 사건과 관련한 사고 보고서를 제출했다고 밝혔다. 다만 오픈AI가 정확히 언제 집행위에 보고했는지는 공개하지 않았다.레그니에 대",
-   "publishedAt": 1788847656000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1183,9 +1183,51 @@
    "comments": 233,
    "publishedAt": 1788557959000,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.6,
    "hot": false,
    "lastWeekRank": 13
+  },
+  {
+   "title": "우리 서버가 계속 운영될 수 있도록 도와주세요",
+   "url": "https://news.hada.io/topic?id=33316",
+   "summary": "Internet Archive 는 210페타바이트의 지식을 보존하고 누구나 접근할 수 있도록 자체 인프라를 유지하기 위해 정기 후원을 요청함 이용자 데이터 판매나 광고 없이 누구에게나 무료로 개방하며, 핵심 기술을 외부 기업에 맡기지 않고 자체 시스템 ...",
+   "publishedAt": 1788769928000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "[부음] 유상모(한국 델 테크놀로지스 사장)씨 모친상",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215010",
+   "summary": "▲이창순 씨 별세, 유상모 한국 델 테크놀로지스 사장 모친상=서울성모병원 장례식장 2호실 (서울 서초구 반포대로 222, 02-2258-5940), 발인 10일, 용인추모원.AI타임스 news@aitimes.com",
+   "publishedAt": 1788848400000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "EU \"형식적 보고는 안 된다\"...오픈AI, '독일 웹사이트 장악' 사고 보고서 제출",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214999",
+   "summary": "오픈AI가 자사 AI 에이전트들이 독일의 한 웹사이트를 장악한 사고와 관련해 유럽연합(EU) 집행위원회에 공식 보고서를 제출했다. EU는 이번 보고가 단순한 형식적 신고에 그쳐서는 안 되며, 사고를 막기 위해 어떤 조치를 취했는지 구체적이고 정확한 내용을 담아야 한다고 강조했다.로이터에 따르면, 토마스 레그니에 EU 집행위원회 대변인은 7일(현지시간) 오픈AI가 이른바 '불량 에이전트'의 독일 웹사이트 장악 사건과 관련한 사고 보고서를 제출했다고 밝혔다. 다만 오픈AI가 정확히 언제 집행위에 보고했는지는 공개하지 않았다.레그니에 대",
+   "publishedAt": 1788847656000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.5,
+   "hot": false
   },
   {
    "title": "AI가 설계한 폐 질환 신약, 환자 생물학적 나이 최대 6년 낮췄다",
@@ -1198,133 +1240,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
-   "hot": false
-  },
-  {
-   "title": "피씨엔, 강남 ‘PCN AI센터’ 개소…기술개발·사업 확대 강화",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214993",
-   "summary": "AI 플랫폼 전문 피씨엔(PCN, 대표 송광헌)이 AI 사업 확대와 관련 업무 강화를 위해 서울 강남구 논현동 본사 인근에 ‘PCN AI센터(PCN AI center)’를 개소했다고 8일 밝혔다.총 4층 규모의 PCN AI센터를 개소하고, AI 관련 인력과 업무를 한 공간에 모아 기술 개발과 프로젝트 수행, 부서 간 협업을 강화한다는 계획이다.최근 자체 AI 솔루션인 ‘오즈AI(OzAI)’를 공공·법률·재정 등 여러 분야로 확대하고 있는 만큼, 관련 사업을 빠르게 고도화하기 위해서다. 생성 AI와 검색증강생성(RAG) 기술을 탑재한",
-   "publishedAt": 1788846409000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "목포, 종합청렴도 평가 앞두고 반부패·청렴시책 점검",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214996",
-   "summary": "AI 생성 영상목포시가 종합청렴도 평가를 앞두고 부서별 반부패·청렴시책 추진상황을 점검하고 미흡한 과제 보완에 나선다.목포는 7일 ‘2026년도 청렴시책추진단 반부패·청렴시책 이행점검회의 2차’를 열고 ‘반부패·청렴시책 추진계획’의 이행상황을 점검했다고 8일 밝혔다.회의에서는 부서별 추진 현황과 미흡·미완료 과제의 이행상황을 비롯해 반부패·청렴교육 이수율, 부패영향평가 개선권고 이행 실적 등 주요 평가 지표를 살폈다.목포는 종합청렴도 평가 전까지 미흡한 과제를 보완하고 관련 실적을 관리하도록 각 부서에 당부했다.청렴체감도 향상을 위",
-   "publishedAt": 1788846392000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "순천, 황금로서 드로잉·재즈·버스킹…주말의 광장 열린다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214991",
-   "summary": "AI 생성 영상순천시가 팔마문화제와 연계해 오는 12~13일 황금로 패션거리 일원에서 ‘2026 도심 해방로드, 주말의 광장’을 연다. 이틀간 중앙동 패션거리를 차 없는 거리로 운영하고, 거리예술과 공연, 지역상권 소비를 연계한 프로그램을 마련한다고 8일 밝혔다.이번 행사는 지난 8월 신대지구에 이어 열리는 세 번째 ‘주말의 광장’이다. 순천은 가을 거리 전체를 하나의 도화지로 꾸며 시민과 예술가가 함께 참여하는 야외 문화공간을 조성할 계획이다.행사장 입구에는 잔디로드와 단풍길을 설치한다. 빈 상가 유리창에서는 현장 드로잉이 진행되",
-   "publishedAt": 1788846360000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "뤼튼 캐릭터챗 '크랙', 내년부터 청소년 '하루 3시간·월 10만원' 제한",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214990",
-   "summary": "뤼튼테크놀로지스(대표 이세영)는 AI 엔터테인먼트 콘텐츠 플랫폼 ‘크랙(Crack)’의 청소년 보호 정책 강화 계획을 8일 발표했다.AI 대화와 청소년 보호에 대한 사회적 관심이 커짐에 따라 국내외 사례 검토와 전문가 자문을 거쳐 청소년 일일 이용 시간을 최대 3시간, 월 결제액을 10만원으로 제한할 예정이다.이 기준을 초과하면, 보호자 인증과 동의 절차를 필수로 거쳐야 한다.이 외에도 콘텐츠 생성 정책과 연령 등급 관리, 작품 검수 시스템, 검색·추천 제한, 신고·차단 기능, 위반 계정 제재 등 청소년 보호 정책 전반을 보완하고,",
-   "publishedAt": 1788845756000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "뉴엔AI-W컨셉 \"AI로 패션 트렌드 포착해 마케팅 활용\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214988",
-   "summary": "AI 분석 전문 뉴엔AI(대표 배성환)는 패션 플랫폼 W컨셉(더블유컨셉코리아)과 'AI 기반 분석 플랫폼 공급 계약'을 체결했다고 8일 밝혔다.뉴엔AI는 주요 소셜 미디어, 온라인 커뮤니티, 이커머스 채널 등에서 수집되는 소비자 트렌드 데이터를 API 방식으로 실시간 제공하고, ‘산업 맞춤형 AI 분석 플랫폼’을 통해 W컨셉의 비즈니스 의사결정을 지원할 예정이다.특히, 이번 협력에는 뉴엔AI의 패션 특화 AI 기술이 다각도로 활용된다. 소비자가 소셜 미디어에서 표현하는 미세한 감정이나 뉘앙스를 포착하는 ‘감성 분석 AI’ 기술이 더",
-   "publishedAt": 1788845643000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "KT, 로봇 데이터 관리 ‘통합 엣지AI 플랫폼’ 구현 나서",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214986",
-   "summary": "KT가 피지컬 AI 기반의 무인화 공장 및 제조 공정 자율화 기술 개발에 나선다. 통합 데이터 플랫폼과 엣지 AI를 활용해 다양한 로봇과 AI 시스템을 하나로 연결하고 실시간 관리하는 체계를 구축할 방침이다.KT(대표 박윤영)는 한국과학기술원(KAIST, 총장 배충식), 다임리서치와 피지컬 AI 기술 개발과 실증, 사업화를 위한 MOU를 체결했다고 8일 밝혔다. 이번 협약은 과학기술정보통신부 주관 ‘피지컬 AI 얼라이언스’ 2기 활동을 계기로 추진됐다. 각자의 전문 역량을 결합해 ▲무인화 공장 구현을 위한 다크팩토리(Dark Fac",
-   "publishedAt": 1788845558000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "Show GN: yukari-rubi : 일본어 사이트 한자 히라가나 브라우저 확장기능",
-   "url": "https://news.hada.io/topic?id=33315",
-   "summary": "이번에 Chrome 또한 지원하게 되어 글을 올립니다. Firefox 확장기능으로 소개했던, yukari-rubi입니다. 일본어 사이트 한자에, 히라가나로 읽기를 달아주는 브라우저 확장기능입니다. 완전히 로컬로, WASM을 이용해 작동합니다! Firefox, Chrome 확장기능으로서 이용 가능합니다! 좋",
-   "publishedAt": 1788766546000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "쿤텍, 온디바이스 AI 정보 유출 방지 위한 모델 난독화 기술 개발",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214935",
-   "summary": "쿤텍(대표 방혁준)은 ‘온디바이스 AI 정보 유출 방지를 위한 AI 구현 정보 은닉 기술 개발’ 과제를 통해 모델 난독화 및 데이터 흐름 분석 기술을 개발했다고 7일 밝혔다.이번 과제는 과학기술정보통신부와 정보통신기획평가원(IITP)의 지원을 받아 진행하며, 온디바이스 환경에서 AI 모델과 추론 프로그램의 핵심 구현 정보가 외부 분석을 통해 노출되는 것을 방지하는 기술 개발을 목표로 한다.온디바이스 AI는 스마트폰, IoT 장비, 차량 등 기기 내부에서 직접 AI 연산을 수행하고, AI 모델과 응용 프로그램이 단말에 배포되기 때문에",
-   "publishedAt": 1788845405000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "구글 딥마인드 실권 잡은 카부크추오글루 “목표는 오직 프론티어 복귀”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214995",
-   "summary": "구글 딥마인드의 수장으로 올라선 코레이 카부크추오글루 수석부사장이 취임 후 첫 자체 인터뷰를 통해 정면 승부수를 던졌다. 경쟁사들과의 성능 격차 지적에 대해 피하지 않고 직설적으로 이를 인정하는 동시에, 프론티어 AI 주도권을 반드시 탈환하겠다는 메시지를 전달했다.카부크추오글루 수석부사장은 최근 구글 개발자 유튜브 채널 '릴리즈 노트'를 통해 진행된 대담에서 \"현재 우리 모델의 품질이 최첨단 프론티어 수준에 비해 다소 밑돌고 있다는 시장의 평가를 잘 알고 있으며, 이는 정당한 지적\"이라고 말했다.그러나 그는 \"우리에게 프론티어 정상",
-   "publishedAt": 1788844546000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.6,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1338,9 +1254,121 @@
    "comments": 228,
    "publishedAt": 1788460333000,
    "isAI": true,
-   "score": 31.5,
+   "score": 31.4,
    "hot": false,
    "lastWeekRank": 27
+  },
+  {
+   "title": "피씨엔, 강남 ‘PCN AI센터’ 개소…기술개발·사업 확대 강화",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214993",
+   "summary": "AI 플랫폼 전문 피씨엔(PCN, 대표 송광헌)이 AI 사업 확대와 관련 업무 강화를 위해 서울 강남구 논현동 본사 인근에 ‘PCN AI센터(PCN AI center)’를 개소했다고 8일 밝혔다.총 4층 규모의 PCN AI센터를 개소하고, AI 관련 인력과 업무를 한 공간에 모아 기술 개발과 프로젝트 수행, 부서 간 협업을 강화한다는 계획이다.최근 자체 AI 솔루션인 ‘오즈AI(OzAI)’를 공공·법률·재정 등 여러 분야로 확대하고 있는 만큼, 관련 사업을 빠르게 고도화하기 위해서다. 생성 AI와 검색증강생성(RAG) 기술을 탑재한",
+   "publishedAt": 1788846409000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.4,
+   "hot": false
+  },
+  {
+   "title": "목포, 종합청렴도 평가 앞두고 반부패·청렴시책 점검",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214996",
+   "summary": "AI 생성 영상목포시가 종합청렴도 평가를 앞두고 부서별 반부패·청렴시책 추진상황을 점검하고 미흡한 과제 보완에 나선다.목포는 7일 ‘2026년도 청렴시책추진단 반부패·청렴시책 이행점검회의 2차’를 열고 ‘반부패·청렴시책 추진계획’의 이행상황을 점검했다고 8일 밝혔다.회의에서는 부서별 추진 현황과 미흡·미완료 과제의 이행상황을 비롯해 반부패·청렴교육 이수율, 부패영향평가 개선권고 이행 실적 등 주요 평가 지표를 살폈다.목포는 종합청렴도 평가 전까지 미흡한 과제를 보완하고 관련 실적을 관리하도록 각 부서에 당부했다.청렴체감도 향상을 위",
+   "publishedAt": 1788846392000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.4,
+   "hot": false
+  },
+  {
+   "title": "순천, 황금로서 드로잉·재즈·버스킹…주말의 광장 열린다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214991",
+   "summary": "AI 생성 영상순천시가 팔마문화제와 연계해 오는 12~13일 황금로 패션거리 일원에서 ‘2026 도심 해방로드, 주말의 광장’을 연다. 이틀간 중앙동 패션거리를 차 없는 거리로 운영하고, 거리예술과 공연, 지역상권 소비를 연계한 프로그램을 마련한다고 8일 밝혔다.이번 행사는 지난 8월 신대지구에 이어 열리는 세 번째 ‘주말의 광장’이다. 순천은 가을 거리 전체를 하나의 도화지로 꾸며 시민과 예술가가 함께 참여하는 야외 문화공간을 조성할 계획이다.행사장 입구에는 잔디로드와 단풍길을 설치한다. 빈 상가 유리창에서는 현장 드로잉이 진행되",
+   "publishedAt": 1788846360000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.4,
+   "hot": false
+  },
+  {
+   "title": "Show GN: yukari-rubi : 일본어 사이트 한자 히라가나 브라우저 확장기능",
+   "url": "https://news.hada.io/topic?id=33315",
+   "summary": "이번에 Chrome 또한 지원하게 되어 글을 올립니다. Firefox 확장기능으로 소개했던, yukari-rubi입니다. 일본어 사이트 한자에, 히라가나로 읽기를 달아주는 브라우저 확장기능입니다. 완전히 로컬로, WASM을 이용해 작동합니다! Firefox, Chrome 확장기능으로서 이용 가능합니다! 좋",
+   "publishedAt": 1788766546000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "뤼튼 캐릭터챗 '크랙', 내년부터 청소년 '하루 3시간·월 10만원' 제한",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214990",
+   "summary": "뤼튼테크놀로지스(대표 이세영)는 AI 엔터테인먼트 콘텐츠 플랫폼 ‘크랙(Crack)’의 청소년 보호 정책 강화 계획을 8일 발표했다.AI 대화와 청소년 보호에 대한 사회적 관심이 커짐에 따라 국내외 사례 검토와 전문가 자문을 거쳐 청소년 일일 이용 시간을 최대 3시간, 월 결제액을 10만원으로 제한할 예정이다.이 기준을 초과하면, 보호자 인증과 동의 절차를 필수로 거쳐야 한다.이 외에도 콘텐츠 생성 정책과 연령 등급 관리, 작품 검수 시스템, 검색·추천 제한, 신고·차단 기능, 위반 계정 제재 등 청소년 보호 정책 전반을 보완하고,",
+   "publishedAt": 1788845756000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "뉴엔AI-W컨셉 \"AI로 패션 트렌드 포착해 마케팅 활용\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214988",
+   "summary": "AI 분석 전문 뉴엔AI(대표 배성환)는 패션 플랫폼 W컨셉(더블유컨셉코리아)과 'AI 기반 분석 플랫폼 공급 계약'을 체결했다고 8일 밝혔다.뉴엔AI는 주요 소셜 미디어, 온라인 커뮤니티, 이커머스 채널 등에서 수집되는 소비자 트렌드 데이터를 API 방식으로 실시간 제공하고, ‘산업 맞춤형 AI 분석 플랫폼’을 통해 W컨셉의 비즈니스 의사결정을 지원할 예정이다.특히, 이번 협력에는 뉴엔AI의 패션 특화 AI 기술이 다각도로 활용된다. 소비자가 소셜 미디어에서 표현하는 미세한 감정이나 뉘앙스를 포착하는 ‘감성 분석 AI’ 기술이 더",
+   "publishedAt": 1788845643000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "KT, 로봇 데이터 관리 ‘통합 엣지AI 플랫폼’ 구현 나서",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214986",
+   "summary": "KT가 피지컬 AI 기반의 무인화 공장 및 제조 공정 자율화 기술 개발에 나선다. 통합 데이터 플랫폼과 엣지 AI를 활용해 다양한 로봇과 AI 시스템을 하나로 연결하고 실시간 관리하는 체계를 구축할 방침이다.KT(대표 박윤영)는 한국과학기술원(KAIST, 총장 배충식), 다임리서치와 피지컬 AI 기술 개발과 실증, 사업화를 위한 MOU를 체결했다고 8일 밝혔다. 이번 협약은 과학기술정보통신부 주관 ‘피지컬 AI 얼라이언스’ 2기 활동을 계기로 추진됐다. 각자의 전문 역량을 결합해 ▲무인화 공장 구현을 위한 다크팩토리(Dark Fac",
+   "publishedAt": 1788845558000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "쿤텍, 온디바이스 AI 정보 유출 방지 위한 모델 난독화 기술 개발",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214935",
+   "summary": "쿤텍(대표 방혁준)은 ‘온디바이스 AI 정보 유출 방지를 위한 AI 구현 정보 은닉 기술 개발’ 과제를 통해 모델 난독화 및 데이터 흐름 분석 기술을 개발했다고 7일 밝혔다.이번 과제는 과학기술정보통신부와 정보통신기획평가원(IITP)의 지원을 받아 진행하며, 온디바이스 환경에서 AI 모델과 추론 프로그램의 핵심 구현 정보가 외부 분석을 통해 노출되는 것을 방지하는 기술 개발을 목표로 한다.온디바이스 AI는 스마트폰, IoT 장비, 차량 등 기기 내부에서 직접 AI 연산을 수행하고, AI 모델과 응용 프로그램이 단말에 배포되기 때문에",
+   "publishedAt": 1788845405000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.3,
+   "hot": false
   },
   {
    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
@@ -1350,10 +1378,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 276,
-   "comments": 174,
+   "comments": 176,
    "publishedAt": 1788565130000,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false,
    "lastWeekRank": 15
   },
@@ -1368,52 +1396,22 @@
    "comments": 76,
    "publishedAt": 1788523155000,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false,
    "lastWeekRank": 18
   },
   {
-   "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-   "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49576386",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 376,
-   "comments": 111,
-   "publishedAt": 1788615398000,
-   "isAI": false,
-   "score": 31.2,
-   "hot": false,
-   "lastWeekRank": 10
-  },
-  {
-   "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49537553",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1158,
-   "comments": 665,
-   "publishedAt": 1788361960000,
-   "isAI": true,
-   "score": 31.1,
-   "hot": false,
-   "lastWeekRank": 36
-  },
-  {
-   "title": "오픈AI, 29일 데브데이서 인프라 구축 없는 '관리형 에이전트' 공개 유력",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214976",
-   "summary": "오픈AI가 오는 29일(현지시간) 미국 샌프란시스코에서 열리는 개발자 행사 '데브데이'에서 인프라 구축 없이 에이전트를 운영할 수 있는 '관리형 에이전트(Managed Agents)' 서비스를 공개할 것이라는 관측이 나왔다. 7일 테스팅카탈로그에 따르면, 오픈AI는 개발자가 플랫폼 내에서 에이전트, 실행 환경, 세션을 직접 생성하고 관리하는 기능을 준비 중인 것으로 포착됐다. 최근 AI 에이전트가 실제 업무를 수행하는 단계로 진화함에 따라, 주요 AI·클라우드 기업들이 보안과 메모리, 서버 실행 환경을 통합해 제공하는 관리형 에이전",
-   "publishedAt": 1788839405000,
+   "title": "구글 딥마인드 실권 잡은 카부크추오글루 “목표는 오직 프론티어 복귀”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214995",
+   "summary": "구글 딥마인드의 수장으로 올라선 코레이 카부크추오글루 수석부사장이 취임 후 첫 자체 인터뷰를 통해 정면 승부수를 던졌다. 경쟁사들과의 성능 격차 지적에 대해 피하지 않고 직설적으로 이를 인정하는 동시에, 프론티어 AI 주도권을 반드시 탈환하겠다는 메시지를 전달했다.카부크추오글루 수석부사장은 최근 구글 개발자 유튜브 채널 '릴리즈 노트'를 통해 진행된 대담에서 \"현재 우리 모델의 품질이 최첨단 프론티어 수준에 비해 다소 밑돌고 있다는 시장의 평가를 잘 알고 있으며, 이는 정당한 지적\"이라고 말했다.그러나 그는 \"우리에게 프론티어 정상",
+   "publishedAt": 1788844546000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.1,
+   "score": 31.2,
    "hot": false
   }
  ]
