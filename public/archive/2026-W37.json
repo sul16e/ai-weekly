@@ -1,7 +1,21 @@
 {
- "updatedAt": 1788840112356,
+ "updatedAt": 1788843817257,
  "week": "2026-W37",
  "items": [
+  {
+   "title": "Ask GN: 단 하나만 구독할 수 있다면 어떤걸 하시겠어요?",
+   "url": "https://news.hada.io/topic?id=33351",
+   "summary": "claude, gpt 단 하나만 (플랜 무관) 구독할 수 있는 상황이라면 어떤 걸 구독하시겠어요? 개인 사이드프로젝트에 사용해보려고해요!",
+   "publishedAt": 1788840834000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
+  },
   {
    "title": "Build vs Buy - AI로 개발은 싸졌지만, 3년 뒤 유지보수는 누가 맡을까?",
    "url": "https://news.hada.io/topic?id=33346",
@@ -13,7 +27,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -27,8 +41,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.1,
    "hot": true
+  },
+  {
+   "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+   "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49585644",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 717,
+   "comments": 433,
+   "publishedAt": 1788695803000,
+   "isAI": true,
+   "score": 48,
+   "hot": false
   },
   {
    "title": "지속형 에이전트 시대를 위한 Grok Bot 설계",
@@ -41,22 +69,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
-  },
-  {
-   "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-   "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49585644",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 714,
-   "comments": 433,
-   "publishedAt": 1788695803000,
-   "isAI": true,
-   "score": 48.4,
-   "hot": false
   },
   {
    "title": "Ask HN: 스킬 파일을 어떻게 관리하시나요?",
@@ -69,8 +83,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.9,
    "hot": true
+  },
+  {
+   "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+   "url": "https://news.ycombinator.com/item?id=49600233",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49600233",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 124,
+   "comments": 134,
+   "publishedAt": 1788799232000,
+   "isAI": true,
+   "score": 47.6,
+   "hot": false
   },
   {
    "title": "Apache Maka - 에이전트가 한 일을 기록으로 남기는 로컬 우선 워크스페이스",
@@ -83,22 +111,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.6,
    "hot": true
-  },
-  {
-   "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-   "url": "https://news.ycombinator.com/item?id=49600233",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49600233",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 123,
-   "comments": 135,
-   "publishedAt": 1788799232000,
-   "isAI": true,
-   "score": 48,
-   "hot": false
   },
   {
    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
@@ -107,12 +121,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 276,
-   "comments": 170,
+   "engagement": 278,
+   "comments": 172,
    "publishedAt": 1788781597000,
    "isAI": false,
-   "score": 45.4,
+   "score": 45.1,
    "hot": true
+  },
+  {
+   "title": "TALA Is Open-Source",
+   "url": "https://d2lang.com/blog/tala-is-open-source/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49604150",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 143,
+   "comments": 10,
+   "publishedAt": 1788824262000,
+   "isAI": false,
+   "score": 44.8,
+   "hot": false
   },
   {
    "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
@@ -121,11 +149,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 340,
+   "engagement": 341,
    "comments": 265,
    "publishedAt": 1788759205000,
    "isAI": false,
-   "score": 44.4,
+   "score": 44,
    "hot": true
   },
   {
@@ -139,21 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.3,
-   "hot": true
-  },
-  {
-   "title": "TALA Is Open-Source",
-   "url": "https://d2lang.com/blog/tala-is-open-source/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49604150",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 125,
-   "comments": 10,
-   "publishedAt": 1788824262000,
-   "isAI": false,
-   "score": 44.1,
+   "score": 43.9,
    "hot": false
   },
   {
@@ -167,8 +181,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.1,
-   "hot": true
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "Supporting independent journalism in Ukraine",
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -191,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 551,
+   "engagement": 552,
    "comments": 342,
    "publishedAt": 1788703739000,
    "isAI": false,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -209,7 +223,7 @@
    "comments": 180,
    "publishedAt": 1788707324000,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": true
   },
   {
@@ -234,10 +248,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 311,
-   "comments": 106,
+   "comments": 107,
    "publishedAt": 1788736448000,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -251,7 +265,7 @@
    "comments": 1591,
    "publishedAt": 1788522893000,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.7,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -266,7 +280,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -280,7 +294,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -290,11 +304,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 184,
+   "engagement": 185,
    "comments": 186,
    "publishedAt": 1788768300000,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -308,7 +322,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -322,7 +336,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -336,7 +350,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -350,7 +364,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -364,7 +378,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -378,7 +392,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -392,7 +406,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -406,7 +420,7 @@
    "comments": 258,
    "publishedAt": 1788706819000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -420,7 +434,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -434,7 +448,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -445,10 +459,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 135,
-   "comments": 49,
+   "comments": 50,
    "publishedAt": 1788773201000,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
+   "hot": false
+  },
+  {
+   "title": "An Alien Mind",
+   "url": "https://openai.com/index/an-alien-mind",
+   "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+   "publishedAt": 1788685200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -462,22 +490,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
-  },
-  {
-   "title": "An Alien Mind",
-   "url": "https://openai.com/index/an-alien-mind",
-   "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-   "publishedAt": 1788685200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 38.7,
-   "hot": false
   },
   {
    "title": "Show GN: VIBE-GAME ( AI 에게 일 시키고 기다리면서 하기에 좋은 게임 )",
@@ -490,7 +504,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -500,27 +514,13 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 635,
+   "engagement": 636,
    "comments": 312,
    "publishedAt": 1788653009000,
    "isAI": false,
-   "score": 38.4,
+   "score": 38.2,
    "hot": false,
    "lastWeekRank": 3
-  },
-  {
-   "title": "1024바이트로 Python 인터프리터 만들기",
-   "url": "https://news.hada.io/topic?id=33329",
-   "summary": "매크로나 라이브러리 편법 없이 C 소스 1024바이트 에 Python 문법 일부를 실행하는 인터프리터를 담음 토큰화·AST·바이트코드 생성 대신 소스를 파싱하면서 즉시 실행 하며, 반복문과 함수 호출은 소스 위치를 이동해 다시 파싱하는 방식으로 처리함 정수 ...",
-   "publishedAt": 1788809613000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.4,
-   "hot": true
   },
   {
    "title": "Alien Mind: 인간과는 다른, 낯선 지성",
@@ -533,8 +533,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
+  },
+  {
+   "title": "1024바이트로 Python 인터프리터 만들기",
+   "url": "https://news.hada.io/topic?id=33329",
+   "summary": "매크로나 라이브러리 편법 없이 C 소스 1024바이트 에 Python 문법 일부를 실행하는 인터프리터를 담음 토큰화·AST·바이트코드 생성 대신 소스를 파싱하면서 즉시 실행 하며, 반복문과 함수 호출은 소스 위치를 이동해 다시 파싱하는 방식으로 처리함 정수 ...",
+   "publishedAt": 1788809613000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38,
+   "hot": true
   },
   {
    "title": "GPT-6 Astra on robot arms",
@@ -547,7 +561,7 @@
    "comments": 189,
    "publishedAt": 1788659565000,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.9,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -562,21 +576,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.2,
-   "hot": false
-  },
-  {
-   "title": "기존 강자들이 몰려온다: 특화 AI 스타트업은 어디서 이길 수 있을까",
-   "url": "https://news.hada.io/topic?id=33306",
-   "summary": "Salesforce와 Docusign 같은 기존 소프트웨어 기업이 데이터를 보관하는 데서 업무를 직접 수행하는 AI로 확장 하면서, 일부 업무는 기존 시스템과 범용 에이전트의 결합만으로 충분해질 수 있음 그러나 계약서를 관리하는 것과 법률 사안을 해결하는 것은 다르며, 특화 AI 스타트업에...",
-   "publishedAt": 1788742502000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.2,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -590,9 +590,38 @@
    "comments": 118,
    "publishedAt": 1788651587000,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false,
    "lastWeekRank": 4
+  },
+  {
+   "title": "기존 강자들이 몰려온다: 특화 AI 스타트업은 어디서 이길 수 있을까",
+   "url": "https://news.hada.io/topic?id=33306",
+   "summary": "Salesforce와 Docusign 같은 기존 소프트웨어 기업이 데이터를 보관하는 데서 업무를 직접 수행하는 AI로 확장 하면서, 일부 업무는 기존 시스템과 범용 에이전트의 결합만으로 충분해질 수 있음 그러나 계약서를 관리하는 것과 법률 사안을 해결하는 것은 다르며, 특화 AI 스타트업에...",
+   "publishedAt": 1788742502000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 37.8,
+   "hot": false
+  },
+  {
+   "title": "GPT-6 Astra",
+   "url": "https://openai.com/index/gpt-6-astra/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49554643",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 2266,
+   "comments": 2069,
+   "publishedAt": 1788460865000,
+   "isAI": true,
+   "score": 37.7,
+   "hot": false,
+   "lastWeekRank": 8
   },
   {
    "title": "브라운필드의 코끼리: AI로 개인은 빨라졌는데, 조직은 왜 그대로인가",
@@ -605,7 +634,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.7,
+   "hot": false
+  },
+  {
+   "title": "GPT-6 Astra: 하네스가 곧 제품이다",
+   "url": "https://news.hada.io/topic?id=33301",
+   "summary": "같은 GPT-6 Astra도 ARC-AGI-3의 동일한 High 추론 설정에서 하네스에 따라 54.8%와 99.9% 를 기록함. 즉, 장기 실행 에이전트는 모델뿐 아니라 메모리, 도구, 문맥 관리, 제어 루프를 합친 시스템으로 평가해야 함 요청 사이에 이전 추론 상태를 보존하고...",
+   "publishedAt": 1788740702000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -619,37 +662,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
-  },
-  {
-   "title": "GPT-6 Astra: 하네스가 곧 제품이다",
-   "url": "https://news.hada.io/topic?id=33301",
-   "summary": "같은 GPT-6 Astra도 ARC-AGI-3의 동일한 High 추론 설정에서 하네스에 따라 54.8%와 99.9% 를 기록함. 즉, 장기 실행 에이전트는 모델뿐 아니라 메모리, 도구, 문맥 관리, 제어 루프를 합친 시스템으로 평가해야 함 요청 사이에 이전 추론 상태를 보존하고...",
-   "publishedAt": 1788740702000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38,
-   "hot": false
-  },
-  {
-   "title": "GPT-6 Astra",
-   "url": "https://openai.com/index/gpt-6-astra/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49554643",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 2265,
-   "comments": 2069,
-   "publishedAt": 1788460865000,
-   "isAI": true,
-   "score": 37.8,
-   "hot": false,
-   "lastWeekRank": 8
   },
   {
    "title": "AI로 도구를 만드는 것과 기업을 바꾸는 것은 다른 일이다",
@@ -662,7 +676,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -676,21 +690,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.1,
-   "hot": false
-  },
-  {
-   "title": "Artificial Analysis, AAII v4.2 발표 - 실제 업무 평가 강화, 비공개 테스트 확대",
-   "url": "https://news.hada.io/topic?id=33291",
-   "summary": "AI 모델의 종합 성능을 비교하는 Intelligence Index v4.2 를 공개하며, 복잡한 업무 수행과 장문 문서 분석을 평가에 추가함 수천 개의 자료를 활용하는 에이전트 지식 업무 와 여러 페이지에 흩어진 근거를 종합하는 전문 문서 추론 을 평가하고, ...",
-   "publishedAt": 1788730557000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -704,7 +704,7 @@
    "comments": 342,
    "publishedAt": 1788594770000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.4,
    "hot": false,
    "lastWeekRank": 5
   },
@@ -719,7 +719,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -733,7 +733,7 @@
    "comments": 130,
    "publishedAt": 1788767961000,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -747,7 +747,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -761,8 +761,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.6,
    "hot": false
+  },
+  {
+   "title": "AI, Tools and Transformation",
+   "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49582656",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 155,
+   "comments": 76,
+   "publishedAt": 1788660766000,
+   "isAI": true,
+   "score": 35.4,
+   "hot": false,
+   "lastWeekRank": 7
   },
   {
    "title": "Show GN: 번역체를 완전히 못 없앤다면 문체를 만들어 넣어버리자는 발상에서 만든 무협체 스킬",
@@ -775,23 +790,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
-  },
-  {
-   "title": "AI, Tools and Transformation",
-   "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49582656",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 154,
-   "comments": 75,
-   "publishedAt": 1788660766000,
-   "isAI": true,
-   "score": 35.6,
-   "hot": false,
-   "lastWeekRank": 7
   },
   {
    "title": "단순함을 쉽게 만들기 (2011)",
@@ -804,7 +804,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -818,7 +818,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -832,7 +832,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35,
    "hot": false
   },
   {
@@ -846,7 +846,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -860,7 +860,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -874,7 +874,7 @@
    "comments": 239,
    "publishedAt": 1788551309000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34,
    "hot": false,
    "lastWeekRank": 11
   },
@@ -889,7 +889,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -903,7 +903,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -917,7 +917,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -931,7 +931,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -945,7 +945,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -959,7 +959,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -973,7 +973,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -987,21 +987,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "구글, 태양광·배터리 결합 프로젝트로 데이터센터 전력 공급",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214968",
-   "summary": "구글이 AI 데이터센터의 전력수요에 대응하기 위해 미국 웨스트버지니아에서 86메가와트(MW) 규모 태양광과 총 380메가와트시(MWh)의 배터리 저장장치를 결합한 로젝트에 참여한다. 태양광에 단기 저장용 리튬이온 배터리와 10시간 동안 전력을 공급할 수 있는 장주기 에너지저장장치(LDES)를 함께 배치해 필요할 때 전력을 공급할 수 있는 자원으로 활용하는 것이 핵심이다.미국 전력사업자 MN8 에너지와 구글, 에너지저장장치업체 Eos 에너지는 2일(현지시간) 웨스트버지니아 카나와카운티에서 '매머드 솔라(Mammoth Solar)' 프",
-   "publishedAt": 1788833700000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1015,9 +1001,23 @@
    "comments": 233,
    "publishedAt": 1788557959000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false,
    "lastWeekRank": 13
+  },
+  {
+   "title": "구글, 태양광·배터리 결합 프로젝트로 데이터센터 전력 공급",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214968",
+   "summary": "구글이 AI 데이터센터의 전력수요에 대응하기 위해 미국 웨스트버지니아에서 86메가와트(MW) 규모 태양광과 총 380메가와트시(MWh)의 배터리 저장장치를 결합한 로젝트에 참여한다. 태양광에 단기 저장용 리튬이온 배터리와 10시간 동안 전력을 공급할 수 있는 장주기 에너지저장장치(LDES)를 함께 배치해 필요할 때 전력을 공급할 수 있는 자원으로 활용하는 것이 핵심이다.미국 전력사업자 MN8 에너지와 구글, 에너지저장장치업체 Eos 에너지는 2일(현지시간) 웨스트버지니아 카나와카운티에서 '매머드 솔라(Mammoth Solar)' 프",
+   "publishedAt": 1788833700000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
   },
   {
    "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
@@ -1030,7 +1030,7 @@
    "comments": 111,
    "publishedAt": 1788615398000,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false,
    "lastWeekRank": 10
   },
@@ -1045,7 +1045,7 @@
    "comments": 174,
    "publishedAt": 1788565130000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false,
    "lastWeekRank": 15
   },
@@ -1060,7 +1060,7 @@
    "comments": 76,
    "publishedAt": 1788523155000,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.4,
    "hot": false,
    "lastWeekRank": 18
   },
@@ -1075,9 +1075,24 @@
    "comments": 228,
    "publishedAt": 1788460333000,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.4,
    "hot": false,
    "lastWeekRank": 27
+  },
+  {
+   "title": "Learn Programming with OCaml",
+   "url": "https://usr.lmf.cnrs.fr/lpo/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49578280",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 314,
+   "comments": 139,
+   "publishedAt": 1788626702000,
+   "isAI": false,
+   "score": 32.3,
+   "hot": false,
+   "lastWeekRank": 12
   },
   {
    "title": "삼성SDS, '다차원 AI 풀스택' 공개…AI 보안·피지컬 AI로 영역 확장",
@@ -1090,23 +1105,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.2,
    "hot": false
-  },
-  {
-   "title": "Learn Programming with OCaml",
-   "url": "https://usr.lmf.cnrs.fr/lpo/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49578280",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 312,
-   "comments": 139,
-   "publishedAt": 1788626702000,
-   "isAI": false,
-   "score": 32.5,
-   "hot": false,
-   "lastWeekRank": 12
   },
   {
    "title": "Corporate America is getting hooked on open-source AI",
@@ -1119,7 +1119,7 @@
    "comments": 307,
    "publishedAt": 1788536025000,
    "isAI": true,
-   "score": 32.3,
+   "score": 32.1,
    "hot": false,
    "lastWeekRank": 19
   },
@@ -1134,62 +1134,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "Databasus - 실제 복원까지 검증하는 셀프 호스팅 데이터베이스 백업 도구",
-   "url": "https://news.hada.io/topic?id=33305",
-   "summary": "백업 일정과 저장 위치, 보관 기간을 관리하고 백업한 데이터가 실제로 복원되는지까지 자동으로 확인 하는 도구 PostgreSQL/MySQL/MariaDB/MongoDB의 논리 백업 지원 PostgreSQL은 전체/증분 물리 백업과 특정 시점 복구(PITR) 도 가능 WAL 변경...",
-   "publishedAt": 1788741602000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "M3 Mac을 지원하는 Asahi Linux",
-   "url": "https://news.hada.io/topic?id=33303",
-   "summary": "Asahi Linux의 M3 지원 코드 가 설치 프로그램에 병합되어, M3·M3 Pro·M3 Max 기반 MacBook과 iMac에서도 사용할 수 있음 M1·M2에서 지원하던 기능 대부분 이 작동하며, 웹캠·내장 마이크·WiFi·Bluetooth·최대 USB 3 10Gb/s와 AV1 하드웨어 가속 디코딩",
-   "publishedAt": 1788741137000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "LLGo - C와 Python 라이브러리를 활용하는 LLVM 기반 Go 컴파일러",
-   "url": "https://news.hada.io/topic?id=33302",
-   "summary": "Go로 코드를 작성하면서 C와 Python 생태계의 라이브러리를 함께 사용 할 수 있도록 만든 컴파일러 Go 소스를 LLVM으로 컴파일하며, C 라이브러리와는 C ABI 공통 호출 규약 으로 연결 C 함수를 직접 호출해 일반 Go의 cgo 에서 발생하는 스택과...",
-   "publishedAt": 1788741003000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "[9월7일] “일주일에 4개나 출시”...커지는 ‘모델 피로감’",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214925",
-   "summary": "지난주에는 불과 일주일 사이 앤트로픽의 페이블 5.1, 메타의 뮤즈 스파크 1.3, 구글의 제미나이 3.8 플래시, 오픈AI의 GPT-6 아스트라까지 주요 AI 기업들이 잇달아 핵심 모델을 내놨습니다. 그런데 새로운 모델이 나올 때마다 시장이 환호하기보다 “또 나왔네”라는 반응을 보이는 현상도 나타나고 있습니다. CNBC는 이를 ‘모델 피로감(Model Fatigue)’이라고 표현했습니다.런포드(Runpod)의 젠 루 CEO는 “모델 피로감은 실제로 존재한다고 느낀다”고 말했습니다. 새로운 모델이 계속 등장하면서 기업들이 성능과 가",
-   "publishedAt": 1788818400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 31.9,
    "hot": false
   },
@@ -1204,9 +1148,51 @@
    "comments": 665,
    "publishedAt": 1788361960000,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.7,
    "hot": false,
    "lastWeekRank": 36
+  },
+  {
+   "title": "Databasus - 실제 복원까지 검증하는 셀프 호스팅 데이터베이스 백업 도구",
+   "url": "https://news.hada.io/topic?id=33305",
+   "summary": "백업 일정과 저장 위치, 보관 기간을 관리하고 백업한 데이터가 실제로 복원되는지까지 자동으로 확인 하는 도구 PostgreSQL/MySQL/MariaDB/MongoDB의 논리 백업 지원 PostgreSQL은 전체/증분 물리 백업과 특정 시점 복구(PITR) 도 가능 WAL 변경...",
+   "publishedAt": 1788741602000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "M3 Mac을 지원하는 Asahi Linux",
+   "url": "https://news.hada.io/topic?id=33303",
+   "summary": "Asahi Linux의 M3 지원 코드 가 설치 프로그램에 병합되어, M3·M3 Pro·M3 Max 기반 MacBook과 iMac에서도 사용할 수 있음 M1·M2에서 지원하던 기능 대부분 이 작동하며, 웹캠·내장 마이크·WiFi·Bluetooth·최대 USB 3 10Gb/s와 AV1 하드웨어 가속 디코딩",
+   "publishedAt": 1788741137000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "LLGo - C와 Python 라이브러리를 활용하는 LLVM 기반 Go 컴파일러",
+   "url": "https://news.hada.io/topic?id=33302",
+   "summary": "Go로 코드를 작성하면서 C와 Python 생태계의 라이브러리를 함께 사용 할 수 있도록 만든 컴파일러 Go 소스를 LLVM으로 컴파일하며, C 라이브러리와는 C ABI 공통 호출 규약 으로 연결 C 함수를 직접 호출해 일반 Go의 cgo 에서 발생하는 스택과...",
+   "publishedAt": 1788741003000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.7,
+   "hot": false
   },
   {
    "title": "코드가 나빠지는 데는 한계가 없다",
@@ -1219,7 +1205,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.8,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "[9월7일] “일주일에 4개나 출시”...커지는 ‘모델 피로감’",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214925",
+   "summary": "지난주에는 불과 일주일 사이 앤트로픽의 페이블 5.1, 메타의 뮤즈 스파크 1.3, 구글의 제미나이 3.8 플래시, 오픈AI의 GPT-6 아스트라까지 주요 AI 기업들이 잇달아 핵심 모델을 내놨습니다. 그런데 새로운 모델이 나올 때마다 시장이 환호하기보다 “또 나왔네”라는 반응을 보이는 현상도 나타나고 있습니다. CNBC는 이를 ‘모델 피로감(Model Fatigue)’이라고 표현했습니다.런포드(Runpod)의 젠 루 CEO는 “모델 피로감은 실제로 존재한다고 느낀다”고 말했습니다. 새로운 모델이 계속 등장하면서 기업들이 성능과 가",
+   "publishedAt": 1788818400000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1233,7 +1233,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1247,7 +1247,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1261,7 +1261,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1275,7 +1275,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1289,7 +1289,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1303,7 +1303,7 @@
    "comments": 244,
    "publishedAt": 1788554089000,
    "isAI": false,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false,
    "lastWeekRank": 25
   },
@@ -1318,7 +1318,7 @@
    "comments": 1392,
    "publishedAt": 1788285233000,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.8,
    "hot": false,
    "lastWeekRank": 50
   },
@@ -1333,24 +1333,9 @@
    "comments": 4,
    "publishedAt": 1788542962000,
    "isAI": true,
-   "score": 30.3,
+   "score": 30.2,
    "hot": false,
    "lastWeekRank": 31
-  },
-  {
-   "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-   "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49567053",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 438,
-   "comments": 245,
-   "publishedAt": 1788540419000,
-   "isAI": false,
-   "score": 29.8,
-   "hot": false,
-   "lastWeekRank": 32
   },
   {
    "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
@@ -1363,9 +1348,24 @@
    "comments": 705,
    "publishedAt": 1788448021000,
    "isAI": true,
-   "score": 29.8,
+   "score": 29.7,
    "hot": false,
    "lastWeekRank": 39
+  },
+  {
+   "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+   "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49567053",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 438,
+   "comments": 245,
+   "publishedAt": 1788540419000,
+   "isAI": false,
+   "score": 29.6,
+   "hot": false,
+   "lastWeekRank": 32
   },
   {
    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
@@ -1378,7 +1378,7 @@
    "comments": 52,
    "publishedAt": 1788615065000,
    "isAI": false,
-   "score": 29.7,
+   "score": 29.5,
    "hot": false,
    "lastWeekRank": 29
   },
@@ -1393,23 +1393,9 @@
    "comments": 132,
    "publishedAt": 1788542288000,
    "isAI": false,
-   "score": 29.6,
+   "score": 29.5,
    "hot": false,
    "lastWeekRank": 34
-  },
-  {
-   "title": "AMD Based FreeBSD Desktop Reloaded",
-   "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49582719",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 126,
-   "comments": 28,
-   "publishedAt": 1788661497000,
-   "isAI": false,
-   "score": 29.4,
-   "hot": false
   },
   {
    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
@@ -1422,9 +1408,23 @@
    "comments": 133,
    "publishedAt": 1788445698000,
    "isAI": true,
-   "score": 29.4,
+   "score": 29.3,
    "hot": false,
    "lastWeekRank": 43
+  },
+  {
+   "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+   "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+   "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+   "publishedAt": 1788727657000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 29.2,
+   "hot": false
   }
  ]
 }
