@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788921786615,
+ "updatedAt": 1788925525381,
  "week": "2026-W37",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 650,
+   "engagement": 654,
    "comments": 217,
    "publishedAt": 1788876357000,
    "isAI": true,
-   "score": 61.3,
+   "score": 60.7,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 344,
-   "comments": 343,
+   "engagement": 362,
+   "comments": 377,
    "publishedAt": 1788895500000,
    "isAI": true,
-   "score": 59.1,
+   "score": 58.9,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 809,
-   "comments": 567,
+   "engagement": 812,
+   "comments": 568,
    "publishedAt": 1788843983000,
    "isAI": true,
-   "score": 57.8,
+   "score": 57.3,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 369,
+   "engagement": 370,
    "comments": 62,
    "publishedAt": 1788874885000,
    "isAI": true,
-   "score": 56.3,
+   "score": 55.8,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 173,
-   "comments": 115,
+   "engagement": 211,
+   "comments": 149,
    "publishedAt": 1788901252000,
    "isAI": true,
-   "score": 53.9,
+   "score": 55.1,
    "hot": true
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 118,
-   "comments": 126,
+   "engagement": 146,
+   "comments": 178,
    "publishedAt": 1788914440000,
    "isAI": true,
-   "score": 52.5,
+   "score": 53.9,
    "hot": false
   },
   {
@@ -93,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 157,
+   "engagement": 158,
    "comments": 58,
    "publishedAt": 1788896833000,
    "isAI": true,
-   "score": 52.4,
+   "score": 51.9,
    "hot": true
   },
   {
@@ -111,7 +111,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 52.4,
+   "score": 51.8,
    "hot": true
   },
   {
@@ -125,7 +125,63 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 50.3,
+   "score": 49.8,
+   "hot": false
+  },
+  {
+   "title": "Show GN: Quiz Gate - PR을 만들면 git diff 기반으로 코드 변경점에 대한 문제를 풀어볼 수 있는 앱",
+   "url": "https://news.hada.io/topic?id=33405",
+   "summary": "얼마 전에 AWS에서 발표한 AI를 어떻게 활용하냐에 따라 팀의 생산성이 달라지는지에 대한 동영상을 보았습니다. 저는 AI가 작성한 코드의 컨텍스트를 확실히 알고 있는 팀이 더 생산성이 높았다는 걸로 이해를 했기 때문에 이를 위한 간단한 깃허브 앱을 만들었습니다. 머지 하기 전에 간단하게 코드",
+   "publishedAt": 1788923177000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
+  },
+  {
+   "title": "GPT-6 Astra를 위한 스킬과 프롬프트 다시 생각하기",
+   "url": "https://news.hada.io/topic?id=33404",
+   "summary": "코딩 에이전트의 성능 향상으로 과거에 필요했던 세세한 유도와 보조 절차의 필요성이 줄어들었으며, GPT-6 Astra 에서는 누적된 Skills/AGENTS.md/작업 프롬프트를 재검토하는 일이 더욱 중요해짐 스킬 설명은 짧고 사용 조건이 명확해야 하며 , 여러 작업 흐름을 다...",
+   "publishedAt": 1788922803000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
+  },
+  {
+   "title": "프로그래밍은 예술이다",
+   "url": "https://news.hada.io/topic?id=33401",
+   "summary": "프로그래밍의 동기는 제품과 수익을 얻기 위한 수단 인지, 코드를 쓰는 과정 자체의 즐거움 인지에 따라 달라지며, 이 차이는 AI를 받아들이는 태도에도 영향을 줌 제품 개발이 목적이라면 직접 코드를 쓰든 다른 사람에게 위임하든 중요하지 않지만, 프로그래밍 자체...",
+   "publishedAt": 1788922146000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "Show HN: LLM Attention Visualization",
+   "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49613068",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 138,
+   "comments": 23,
+   "publishedAt": 1788886781000,
+   "isAI": true,
+   "score": 49.3,
    "hot": false
   },
   {
@@ -139,22 +195,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.6,
+   "score": 49.1,
    "hot": true
-  },
-  {
-   "title": "Show HN: LLM Attention Visualization",
-   "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49613068",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 133,
-   "comments": 22,
-   "publishedAt": 1788886781000,
-   "isAI": true,
-   "score": 49.5,
-   "hot": false
   },
   {
    "title": "Caltech Mathathon — 연구 수준의 수학에 전념하는 최초의 해커톤",
@@ -167,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -181,7 +223,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.3,
    "hot": false
   },
   {
@@ -195,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -209,7 +251,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.9,
    "hot": false
   },
   {
@@ -223,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -237,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -251,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -261,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 524,
-   "comments": 223,
+   "engagement": 528,
+   "comments": 224,
    "publishedAt": 1788832643000,
    "isAI": false,
-   "score": 46.7,
+   "score": 46.3,
    "hot": false
   },
   {
@@ -279,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -293,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 45,
    "hot": true
   },
   {
@@ -307,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -321,7 +363,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.5,
+   "score": 44,
    "hot": false
   },
   {
@@ -335,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -349,7 +391,7 @@
    "comments": 336,
    "publishedAt": 1788842890000,
    "isAI": false,
-   "score": 43.6,
+   "score": 43.2,
    "hot": true
   },
   {
@@ -363,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -374,10 +416,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 114,
-   "comments": 75,
+   "comments": 76,
    "publishedAt": 1788844823000,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -391,7 +433,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -405,8 +447,64 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
+  },
+  {
+   "title": "Trey Parker와 Matt Stone, South Park의 이름을 South America로 변경",
+   "url": "https://news.hada.io/topic?id=33403",
+   "summary": "South Park 가 Emmy의 Outstanding Animated Program 부문 수상 이후 작품명 변경을 발표함 제작자 Trey Parker와 Matt Stone 이 직접 이름을 바꾼다고 밝힘 발표문에 표기된 새 이름은 SOUTH AMERICA 임 이름을...",
+   "publishedAt": 1788922506000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
+  },
+  {
+   "title": "내 피드, 내 방식",
+   "url": "https://news.hada.io/topic?id=33402",
+   "summary": "호주 Albanese 정부가 소셜미디어 연령 제한에 이어 디지털 주의 의무(Digital Duty of Care) 법안 초안 을 공개하고, 온라인 안전 기준과 이용자 선택권에 관한 이해관계자 의견 수렴에 나섬 My Feed, My Way 구상은 소셜미디어의 신규·기존 이용자 모두에게 기본 ...",
+   "publishedAt": 1788922326000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
+  },
+  {
+   "title": "벨기에 대중교통 실시간 지도",
+   "url": "https://news.hada.io/topic?id=33400",
+   "summary": "벨기에 대중교통 지도 페이지에 “Map unavailable” 오류 가 표시되어 지도를 볼 수 없는 상태임 WebGL 초기화 실패 로 지도에 필요한 WebGL 컨텍스트를 생성하지 못함 진단 정보에는 webglcontextcreationerror 와 B...",
+   "publishedAt": 1788921966000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
+  },
+  {
+   "title": "SSD 4개에서 스트리밍해 MacBook Pro에서 Kimi K3(2.8T)를 초당 1토큰으로 실행",
+   "url": "https://news.hada.io/topic?id=33399",
+   "summary": "ARGODRIVE Deltafin 은 128GB 메모리의 M5 Max MacBook Pro 한 대에서 1.45TB의 전문가 가중치를 SSD 4개로부터 스트리밍해 2.8조 파라미터 Kimi K3를 실행하며, 512토큰 생성 구간에서 1.0015토큰/초 를 기록함 전문가를 제거하거나 전문가 가중치를 재인코딩해 속도...",
+   "publishedAt": 1788921786000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
   },
   {
    "title": "Show GN: CartCut - 오픈소스 영상편집기",
@@ -419,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.5,
    "hot": true
   },
   {
@@ -429,11 +527,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 302,
+   "engagement": 303,
    "comments": 23,
    "publishedAt": 1788824262000,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -447,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -461,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -475,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -489,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -503,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -517,91 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
-   "hot": true
-  },
-  {
-   "title": "모든 곳의 보안을 바로잡을 시간은 1년뿐이다",
-   "url": "https://news.hada.io/topic?id=33390",
-   "summary": "저렴하게 실행하고 악성 요청을 거부하는 기능도 제거할 수 있는 오픈 웨이트 모델이 발전하면서, 공격자보다 먼저 취약점을 찾아 고칠 시간이 빠르게 줄고 있다 는 경고 현재 GLM 5.3-flash 의 실제 공격 자동화 수준은 불확실하지만, 1년 안에 최상위 모델...",
-   "publishedAt": 1788915370000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.2,
-   "hot": true
-  },
-  {
-   "title": "D2의 다이어그램 자동 배치 엔진 TALA, 오픈소스로 공개",
-   "url": "https://news.hada.io/topic?id=33389",
-   "summary": "소프트웨어 아키텍처 다이어그램의 자동 배치를 위한 TALA 가 텍스트로 다이어그램을 만드는 D2와 동일한 MPL-2.0 라이선스로 공개됐으며, D2 v0.9.0에 기본 포함됨 한 방향으로 뻗는 DAG 중심 배치보다 화이트보드 그림에 가까운 직교 배치 를 지향...",
-   "publishedAt": 1788915190000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.2,
-   "hot": true
-  },
-  {
-   "title": "DHS ‘예측 치안’ 부서, 미국인의 금융 습관 분석",
-   "url": "https://news.hada.io/topic?id=33387",
-   "summary": "미국 국경순찰대(Border Patrol)가 미국인의 데이터를 분석해 지역 경찰의 차량 정차 단속으로 연결하는 비밀스러운 예측 치안 부서들을 운영 중임 분석에는 금융 활동과 기타 데이터 가 쓰이며, 여기서 얻은 정보가 지역 경찰에 전달됨 정차 대상자들은 ...",
-   "publishedAt": 1788915010000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.2,
-   "hot": true
-  },
-  {
-   "title": "Show GN: Hermeum - 팀에 필요한 Hermes agent를 딸깍으로 만들고 배포해주는 오픈소스 플랫폼",
-   "url": "https://news.hada.io/topic?id=33357",
-   "summary": "회사에서 팀 마다 직접 에이전트를 만들고 슬랙에 연동하다 보니 사일로가 늘어나는 게 보였습니다. Hermeum은 이 문제를 해결하기 위해서 시작한 프로젝트입니다. Hermeum은 Hermes agent에 소울(soul), 스킬, mcp, 플러그인, 크론을 자동 설정해서 팀에 맞는 에이전트를 바로 만들어 줍니다. 가장 큰",
-   "publishedAt": 1788853966000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41.2,
-   "hot": false
-  },
-  {
-   "title": "Paramount, 약 167조원 합병 지지 여론 조성에 ‘위장 풀뿌리’ 단체 활용하다 적발",
-   "url": "https://news.hada.io/topic?id=33386",
-   "summary": "Paramount가 약 1,110억 달러($111b) 규모의 Warner Brothers 합병 에 대한 대중의 지지를 부풀리기 위해 비영리단체 Neighbors for Strong Communities 를 활용함 이 단체는 캘리포니아 주민들에게 문자를 보내 Rob Bonta 주 법무장관의 반독점 소송 철회...",
-   "publishedAt": 1788914829000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.1,
-   "hot": true
-  },
-  {
-   "title": "fnprint - 실행 동작을 비교해 바이너리 속 함수를 식별하는 도구",
-   "url": "https://news.hada.io/topic?id=33385",
-   "summary": "소스코드가 없고 함수 이름도 제거된 실행 파일 에서, 이름이 알려진 함수들과 동작을 대조해 어떤 함수인지 식별 하는 역공학 도구 예: 이름을 알 수 없는 함수를 분석해, “zlib의 압축 함수 compress2 와 동작이 비슷하다”는 결과를 얻을 수 있음",
-   "publishedAt": 1788914701000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.1,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -615,8 +629,92 @@
    "comments": 433,
    "publishedAt": 1788695803000,
    "isAI": true,
-   "score": 41,
+   "score": 40.8,
    "hot": false
+  },
+  {
+   "title": "Show GN: Hermeum - 팀에 필요한 Hermes agent를 딸깍으로 만들고 배포해주는 오픈소스 플랫폼",
+   "url": "https://news.hada.io/topic?id=33357",
+   "summary": "회사에서 팀 마다 직접 에이전트를 만들고 슬랙에 연동하다 보니 사일로가 늘어나는 게 보였습니다. Hermeum은 이 문제를 해결하기 위해서 시작한 프로젝트입니다. Hermeum은 Hermes agent에 소울(soul), 스킬, mcp, 플러그인, 크론을 자동 설정해서 팀에 맞는 에이전트를 바로 만들어 줍니다. 가장 큰",
+   "publishedAt": 1788853966000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 40.8,
+   "hot": false
+  },
+  {
+   "title": "모든 곳의 보안을 바로잡을 시간은 1년뿐이다",
+   "url": "https://news.hada.io/topic?id=33390",
+   "summary": "저렴하게 실행하고 악성 요청을 거부하는 기능도 제거할 수 있는 오픈 웨이트 모델이 발전하면서, 공격자보다 먼저 취약점을 찾아 고칠 시간이 빠르게 줄고 있다 는 경고 현재 GLM 5.3-flash 의 실제 공격 자동화 수준은 불확실하지만, 1년 안에 최상위 모델...",
+   "publishedAt": 1788915370000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.7,
+   "hot": true
+  },
+  {
+   "title": "D2의 다이어그램 자동 배치 엔진 TALA, 오픈소스로 공개",
+   "url": "https://news.hada.io/topic?id=33389",
+   "summary": "소프트웨어 아키텍처 다이어그램의 자동 배치를 위한 TALA 가 텍스트로 다이어그램을 만드는 D2와 동일한 MPL-2.0 라이선스로 공개됐으며, D2 v0.9.0에 기본 포함됨 한 방향으로 뻗는 DAG 중심 배치보다 화이트보드 그림에 가까운 직교 배치 를 지향...",
+   "publishedAt": 1788915190000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.7,
+   "hot": true
+  },
+  {
+   "title": "DHS ‘예측 치안’ 부서, 미국인의 금융 습관 분석",
+   "url": "https://news.hada.io/topic?id=33387",
+   "summary": "미국 국경순찰대(Border Patrol)가 미국인의 데이터를 분석해 지역 경찰의 차량 정차 단속으로 연결하는 비밀스러운 예측 치안 부서들을 운영 중임 분석에는 금융 활동과 기타 데이터 가 쓰이며, 여기서 얻은 정보가 지역 경찰에 전달됨 정차 대상자들은 ...",
+   "publishedAt": 1788915010000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.7,
+   "hot": true
+  },
+  {
+   "title": "Paramount, 약 167조원 합병 지지 여론 조성에 ‘위장 풀뿌리’ 단체 활용하다 적발",
+   "url": "https://news.hada.io/topic?id=33386",
+   "summary": "Paramount가 약 1,110억 달러($111b) 규모의 Warner Brothers 합병 에 대한 대중의 지지를 부풀리기 위해 비영리단체 Neighbors for Strong Communities 를 활용함 이 단체는 캘리포니아 주민들에게 문자를 보내 Rob Bonta 주 법무장관의 반독점 소송 철회...",
+   "publishedAt": 1788914829000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.7,
+   "hot": true
+  },
+  {
+   "title": "fnprint - 실행 동작을 비교해 바이너리 속 함수를 식별하는 도구",
+   "url": "https://news.hada.io/topic?id=33385",
+   "summary": "소스코드가 없고 함수 이름도 제거된 실행 파일 에서, 이름이 알려진 함수들과 동작을 대조해 어떤 함수인지 식별 하는 역공학 도구 예: 이름을 알 수 없는 함수를 분석해, “zlib의 압축 함수 compress2 와 동작이 비슷하다”는 결과를 얻을 수 있음",
+   "publishedAt": 1788914701000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.7,
+   "hot": true
   },
   {
    "title": "극단적인 서버 사이드 렌더링 (2025)",
@@ -629,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -643,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -657,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -671,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -685,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -699,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -713,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -727,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -741,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -755,7 +853,7 @@
    "comments": 83,
    "publishedAt": 1788881989000,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -769,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -783,7 +881,7 @@
    "comments": 145,
    "publishedAt": 1788799232000,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -797,50 +895,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.5,
    "hot": true
-  },
-  {
-   "title": "Build vs Buy - AI로 개발은 싸졌지만, 3년 뒤 유지보수는 누가 맡을까?",
-   "url": "https://news.hada.io/topic?id=33346",
-   "summary": "AI는 소프트웨어의 초기 개발 비용 을 크게 낮췄지만, 수년간 유지보수와 보안, 장애 대응을 책임지는 운영 비용 까지 없애지는 못함 직접 만들지는 가격뿐 아니라 장애나 침해의 피해 범위, 장기 운영 책임자, 사업 차별화, 교체할 경로 를 기준으로...",
-   "publishedAt": 1788831335000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.9,
-   "hot": false
-  },
-  {
-   "title": "Show GN: Claude Code에서 GPT-6 Astra를 메인 모델로 쓰기",
-   "url": "https://news.hada.io/topic?id=33344",
-   "summary": "Claude Code 하나에서 OpenAI 모델과 Claude 모델을 섞어 쓰려고 만들었습니다. 메인 모델은 GPT-6 Astra로, 서브 에이전트는 Claude로 돌리는게 가능합니다! Anthropic API 앞단에서 자체 CA로 TLS를 종료하며 api.anthropic.com 인 척 응답합니다. ANTHROPIC_BASE_URL</code",
-   "publishedAt": 1788830908000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.8,
-   "hot": false
-  },
-  {
-   "title": "지속형 에이전트 시대를 위한 Grok Bot 설계",
-   "url": "https://news.hada.io/topic?id=33343",
-   "summary": "Grok Bot은 정체성·기억·실행 환경을 유지하는 에이전트 에 장기적인 책임을 맡길 수 있도록, 개별 대화 기록 대신 Bot 목록을 제품의 중심에 둠 인터페이스를 Bots·Chats·Prompts·Tools·Artifacts 라는 다섯 개념으로 정리하고, 아바타 움직임과 필요할 때만 확인하...",
-   "publishedAt": 1788829818000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.7,
-   "hot": false
   },
   {
    "title": "1Password increases engineering productivity 21% with Codex",
@@ -853,7 +909,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -867,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -881,7 +937,7 @@
    "comments": 200,
    "publishedAt": 1788781597000,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -895,7 +951,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -909,7 +965,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -923,8 +979,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Discovery of a new OpenAI agent message board",
@@ -933,11 +989,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 2292,
-   "comments": 1595,
+   "engagement": 2293,
+   "comments": 1596,
    "publishedAt": 1788522893000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.9,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -948,11 +1004,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 363,
+   "engagement": 364,
    "comments": 283,
    "publishedAt": 1788759205000,
    "isAI": false,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -966,7 +1022,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -980,7 +1036,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -994,7 +1050,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -1008,7 +1064,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -1022,7 +1078,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -1036,7 +1092,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1050,7 +1106,7 @@
    "comments": 357,
    "publishedAt": 1788703739000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1064,7 +1120,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.4,
+   "score": 35,
    "hot": false
   },
   {
@@ -1078,8 +1134,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
+  },
+  {
+   "title": "GPT-6 Astra",
+   "url": "https://openai.com/index/gpt-6-astra/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49554643",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 2271,
+   "comments": 2075,
+   "publishedAt": 1788460865000,
+   "isAI": true,
+   "score": 34.8,
+   "hot": false,
+   "lastWeekRank": 8
   },
   {
    "title": "Mistral raises €3B as sovereign AI becomes big business",
@@ -1092,7 +1163,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.8,
+   "hot": false
+  },
+  {
+   "title": "Research acceleration: The view inside OpenAI",
+   "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49587217",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 210,
+   "comments": 193,
+   "publishedAt": 1788707324000,
+   "isAI": true,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1106,50 +1191,7 @@
    "comments": 2,
    "publishedAt": 1788829248000,
    "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "Research acceleration: The view inside OpenAI",
-   "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49587217",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 209,
-   "comments": 193,
-   "publishedAt": 1788707324000,
-   "isAI": true,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "GPT-6 Astra",
-   "url": "https://openai.com/index/gpt-6-astra/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49554643",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 2270,
-   "comments": 2075,
-   "publishedAt": 1788460865000,
-   "isAI": true,
-   "score": 34.9,
-   "hot": false,
-   "lastWeekRank": 8
-  },
-  {
-   "title": "Jellyfin 12.0",
-   "url": "https://news.hada.io/topic?id=33355",
-   "summary": "10.11의 데이터베이스 전환을 바탕으로 라이브러리 탐색 성능 을 개선하고, 에피소드 다중 버전과 서버 내장 도서·만화 지원을 추가한 새 안정 버전임 재생목록·컬렉션 항목을 개별 행으로 저장 해 전체 목록을 읽거나 다시 쓰지 않고도 개수·페이지 조회와 개별 항목...",
-   "publishedAt": 1788852985000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.6,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1163,7 +1205,175 @@
    "comments": 111,
    "publishedAt": 1788736448000,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.3,
+   "hot": false
+  },
+  {
+   "title": "Jellyfin 12.0",
+   "url": "https://news.hada.io/topic?id=33355",
+   "summary": "10.11의 데이터베이스 전환을 바탕으로 라이브러리 탐색 성능 을 개선하고, 에피소드 다중 버전과 서버 내장 도서·만화 지원을 추가한 새 안정 버전임 재생목록·컬렉션 항목을 개별 행으로 저장 해 전체 목록을 읽거나 다시 쓰지 않고도 개수·페이지 조회와 개별 항목...",
+   "publishedAt": 1788852985000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "카카오, AI 영상 생성 연산 비용 대폭 줄이는 적응형 토큰화 기술 'KATok' 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215036",
+   "summary": "카카오가 컴퓨터 비전 분야의 '유럽 컴퓨터 비전 학회(ECCV) 2026'에서 AI 영상 생성 모델의 난제로 꼽혀 온 방대한 연산량과 높은 계산 비용 문제를 해결하기 위한 신기술을 발표한다고 9일 밝혔다.ECCV는 CVPR(컴퓨터 비전 및 패턴 인식 학회), ICCV(국제 컴퓨터 비전 학회)와 함께 세계 3대 컴퓨터 비전 학회로, 올해는 오는 12일까지 스웨덴에서 개최된다. 이번 연구를 주도한 이연경 카카오 리서치 엔지니어가 학회에 참여해, 10일 포스터 세션2에서 직접 논문 발표에 나선다.고해상도·장시간 비디오 생성으로 연구 흐름",
+   "publishedAt": 1788924993000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "래블업, 기술 컨퍼런스 ‘lab | up > /conf/6’ 개최…“AI산업 시대의 엔드투엔드”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215035",
+   "summary": "AI 인프라 관리 전문 래블업(대표 신정규)은 오는 29일 서울 삼성동 코엑스 3층 컨퍼런스룸에서 연례 기술 컨퍼런스 ‘lab | up > /conf/6’를 개최한다고 밝혔다.올해로 6회째를 맞는 컨퍼런스로 래블업의 AI 인프라 기술과 연구개발 성과를 공유하는 자리다. AI 업계의 기업 관계자와 개발자들이 기술적 과제와 해결 방안을 논의하기 위한 것이다. 2021년 온라인으로 처음 시작된 이후 매년 AI 산업의 주요 기술 변화에 맞춰 주제를 확장해 왔다.올해 컨퍼런스의 주제는 ‘Make AI Composable²(AI를 조립 가능하",
+   "publishedAt": 1788924820000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "PFCT, 토스와 대안신용평가 모델 고도화 협력",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215031",
+   "summary": "PFCT(대표 이수환)는 '토스' 운영사 비바리퍼블리카와 금융 기관의 대안신용평가 모형 고도화 및 컨설팅을 위한 전략적 업무협약(MOU)을 체결했다고 9일 밝혔다.양사는 금융 기관의 여신 업무가 리스크 관리에 집중되는 한계를 넘어 여신승인전략까지 지원하도록 AI·대안정보 기반 솔루션 서비스를 공동 추진한다.토스는 한국평가데이터(KoDATA)와 개발한 대안신용평가 스코어와 대안정보를 기반으로 금융회사별 특성에 맞춘 신용평가모형(CSS) 패키지를 개발하고, PFCT는 해당 패키지를 자체 AI 렌딩테크 솔루션 '에어팩'에 탑재한다.이를",
+   "publishedAt": 1788924474000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "팀네이버, 프랑스와 AI 팩토리·산업·콘텐츠 협업 비전 제시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215034",
+   "summary": "팀네이버가 이재명 대통령의 프랑스 순방을 계기로 프랑스 핵심 기업, 기관들과 AI 분야를 중심으로 한 다양한 비즈니스 협력 확대를 모색했다.최수연 네이버 대표와 김유원 네이버클라우드 대표는 대통령 프랑스 순방 기간 동안 프랑스 미디어·IT·에너지·모빌리티·금융 분야 대표 기업 CEO 등 참석자들과 만나 AI 협업 기회 발굴에 나섰다고 8일 밝혔다.특히, 인프라와 산업 특화 AI 및 콘텐츠 분야에서의 협력을 모색했다. 먼저, 최수연 대표는 8일(현지 시간) 진행된 한-프랑스 경제인 비즈니스 라운드 테이블에서 모두 발언을 통해 ▲글로벌",
+   "publishedAt": 1788924407000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, '스케치' 탑재한 '챗GPT 이미지 2.5' 공개…아레나 1위 석권",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215030",
+   "summary": "오픈AI가 AI 이미지 생성 기술의 속도와 정밀도를 한단계 끌어올리며 이미지 제작 경험을 확장했다. 여기에 사용자가 직접 그린 간단한 손그림을 AI에 전달해 원하는 이미지를 만들 수 있도록 하는 새로운 기능까지 추가하며 텍스트 중심의 이미지 생성 방식에서 한 단계 나아갔다. 오픈AI는 8일(현지시간) 이미지 생성 속도와 편집 정밀도를 크게 높인 새로운 이미지 생성 모델 ‘챗GPT 이미지 2.5(ChatGPT Images 2.5)’를 공개했다.특히 사용자가 직접 그린 간단한 그림을 이미지 생성의 참고 자료로 활용할 수 있는 ‘스케치(",
+   "publishedAt": 1788924206000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "AWS, 국내 우주·위성 스타트업 대상 엑셀러레이터 프로그램 실시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215029",
+   "summary": "아마존웹서비스(AWS)는 우주항공청(KASA), 메가존클라우드와 국내 우주·위성 스타트업을 지원하는 'AWS 스페이스 엑셀러레이터: 한국 2026'을 시작한다고 9일 밝혔다.2021년 출범해 6년째를 맞는 이번 프로그램은 4주간 진행되며, 선정 스타트업에는 최대 10만달러 상당의 클라우드 크레딧을 포함해 전문가 기술 멘토링, 우주산업 리더의 비즈니스 코칭, 벤처캐피탈 및 잠재 고객과의 네트워킹 기회가 제공된다.지원 대상은 위성 제조·운영, 지구관측, 발사체, 궤도 서비스, 우주 통신, 우주 분야 AI, 우주 소프트웨어 등이며, 프리",
+   "publishedAt": 1788923150000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "순천, 팔마문화제 12~13일 개최…효린 공연·최태성 토크콘서트",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215028",
+   "summary": "AI 생성 영상순천 원도심이 이번 주말 공연과 역사 체험, 전시를 한자리에서 즐기는 축제 공간으로 바뀐다. 가수 효린의 축하공연과 역사강사 최태성의 토크콘서트, 가족 미션투어, 갤러리 스탬프 투어 등이 이틀간 이어진다.순천시는 오는 12일부터 13일까지 남문터광장과 문화의 거리 일원에서 ‘제43회 순천팔마문화제’를 개최한다고 밝혔다.올해 문화제는 ‘팔마정신 : 울림에서 이음으로’를 주제로 청렴과 배려의 가치를 공연·전시·체험 콘텐츠로 풀어낸다. 지역예술인이 직접 무대에 오르고 시민 참여 프로그램을 확대하는 데 초점을 맞췄다.첫날인",
+   "publishedAt": 1788923054000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "목포 북항서 11일 ‘가을밤의 국악대향연’…판소리·검무·남도민요 한자리",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215020",
+   "summary": "AI 생성 영상목포 북항 노을공원에서 판소리와 가야금병창, 검무, 남도민요를 한자리에서 즐길 수 있는 야외 국악공연이 열린다.목포시립국악원은 오는 11일 오후 7시 북항 노을공원 야외무대에서 ‘제26회 가을밤의 국악대향연’을 개최한다고 9일 밝혔다.이번 공연은 기악과 민요, 판소리, 무용 등 국악의 여러 장르를 한 무대에서 선보이는 방식으로 구성된다.가야금병창 ‘야월삼경’을 비롯해 ‘군밤타령’ ‘옹헤야’가 무대에 오르고, 역동적인 검무와 목포의 풍경을 담은 신민요 ‘목포팔경’도 선보인다.판소리 춘향가 중 ‘동헌경사대목’과 창작무용",
+   "publishedAt": 1788923033000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "전남광주, 사회연대경제박람회 11일 개막…기업 60여곳 참여",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215019",
+   "summary": "AI 생성 영상전남광주지역 사회연대경제기업 60여곳이 참여하는 박람회가 오는 11일부터 13일까지 김대중컨벤션센터 야외광장에서 열린다. 지역 상품 판매와 체험뿐 아니라 추석선물전, 공공기관 우선구매 상담, 창업상담, 학술포럼 등이 함께 진행된다.전남광주통합특별시는 사흘간 ‘2026 전남광주통합특별시 사회연대경제박람회’를 개최한다고 9일 밝혔다.행사장은 판매·체험관과 유관기관 홍보관, 사회적기업 창업팀 홍보관, 이벤트 부스 등 모두 80개 부스로 구성된다. 이 가운데 전남광주지역 사회연대경제기업 60여곳이 참여해 제품과 서비스를 소개",
+   "publishedAt": 1788922953000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "여수, 아동 목소리 정책으로…25개 요구항목 평가한다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215025",
+   "summary": "AI 생성 영상여수시가 아동들이 직접 제안한 25개 정책 요구를 놓고 시민 의견을 추가로 수렴한다. 중요도와 시급성을 평가해 2028~2031년 아동친화도시 4개년 추진계획의 우선과제로 반영하는 것이 목적이다.여수는 이번달 3일부터 21일까지 시민 200여명을 대상으로 ‘아동요구 확인조사’를 온라인으로 진행한다고 9일 밝혔다.조사 대상이 되는 25개 항목은 지난달 22일 열린 시민참여 원탁토론회에서 아동들이 직접 제안한 의견 가운데 선정됐다.이번 조사에서는 각 요구사항이 실제 정책으로 얼마나 중요한지, 얼마나 시급하게 추진할 필요가",
+   "publishedAt": 1788922877000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "한국MS, 산업별 AX 사례 공유하는 '인더스트리 서밋' 개최",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215026",
+   "summary": "한국마이크로소프트(MS)는 오는 30일 서울 코엑스 그랜드볼룸에서 산업별 AX 전략과 현장 사례를 공유하는 '마이크로소프트 인더스트리 서밋'을 개최한다고 밝혔다.이번 행사는 금융, 리테일, 제조, 헬스케어·교육 분야의 AI 활용 경험과 프론티어 트랜스포메이션 방향을 공유하며, 마이크로소프트 365 코파일럿·파운드리·애저 등을 활용한 산업별 고객 사례와 기술 세션이 진행된다.금융 부문은 금융권 규제·보안을 고려한 AI 개발과 데이터 활용, 에이전트 거버넌스 전략도 다룬다. SC제일은행, 신한투자증권, 신한캐피탈, KB국민은행 등이 참",
+   "publishedAt": 1788921579000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1177,35 +1387,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "제주, '에너지제로 마을' 실증…태양광·ESS·전기차 AI 통합 관리",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215018",
-   "summary": "제주에서 태양광과 에너지저장장치(ESS), 전기차, 히트펌프 등을 가정·마을 단위로 AI가 통합 관리하고 남는 전력을 이웃과 나눠 쓰는 '에너지제로 마을' 실증사업이 추진된다.기후에너지환경부는 '2026년 AI 기반 분산에너지 특화지역 지원사업' 공모를 통해 선정된 분산에너지 사업을 제주에서 우선 추진한다고 지난 8일 밝혔다.우선 제주 한림읍 또는 대정읍의 약 20가구를 대상으로 태양광과 히트펌프, 전기차, ESS, AI 가전을 하나의 시스템으로 연결한 에너지제로 주택단지를 구축한다.각 가정에서 생산하고 남은 전력을 마을 안에서 나",
-   "publishedAt": 1788918788000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "태양광발전소 풀숲까지 AI가 본다…위성으로 화재위험 예측",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215017",
-   "summary": "호주 연구진이 대규모 태양광발전소의 식생 상태를 위성과 AI로 분석해 산불 위험과 가축 방목을 함께 관리하는 기술 개발에 나섰다. 사람이 직접 풀의 높이와 건조상태를 확인하던 방식 대신, 발전소 전역의 식생과 수분 상태를 정량적으로 파악하는 것이 목표다.호주연방과학산업연구원(CSIRO)은 지난 3일(현지시간) 맥쿼리대, 재생에너지기업 ACEN 오스트레이리아와 함께 뉴사우스웨일스주 뉴잉글랜드 솔라 발전소에서 위성 원격탐사와 AI를 활용한 식생 관리 연구를 진행하고 있다고 밝혔다.뉴잉글랜드 솔라는 우랄라 인근 약 2000헥타르의 방목지",
-   "publishedAt": 1788918709000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1219,193 +1401,7 @@
    "comments": 194,
    "publishedAt": 1788768300000,
    "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "How I feel about AI",
-   "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49587128",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 163,
-   "comments": 261,
-   "publishedAt": 1788706819000,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-   "url": "https://cloudinabottle.org/blog/launch-post",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49582000",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 646,
-   "comments": 317,
-   "publishedAt": 1788653009000,
-   "isAI": false,
-   "score": 33.2,
-   "hot": false,
-   "lastWeekRank": 3
-  },
-  {
-   "title": "VoiceStudio - 음성 복제, 더빙, 받아쓰기를 로컬에서 처리하는 오픈소스 스튜디오",
-   "url": "https://news.hada.io/topic?id=33349",
-   "summary": "계정이나 API 키, 구독 없이 내 컴퓨터에서 음성 작업 을 처리하는 데스크톱 앱으로, 필요한 모델을 내려받으면 오프라인에서도 사용 가능 깨끗한 음성 샘플 5~15초로 별도 학습 없이 목소리를 복제 하고, 입력한 문장을 그 목소리로 읽게 할 수 있음 기존 ...",
-   "publishedAt": 1788835502000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "Chrome again exempts Google from user site data settings",
-   "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49581870",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 613,
-   "comments": 117,
-   "publishedAt": 1788651587000,
-   "isAI": false,
-   "score": 32.9,
-   "hot": false,
-   "lastWeekRank": 4
-  },
-  {
-   "title": "An Alien Mind",
-   "url": "https://openai.com/index/an-alien-mind",
-   "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-   "publishedAt": 1788685200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "GPT-6 Astra on robot arms",
-   "url": "https://openai.robocurve.org/gpt-6-astra/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49582582",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 240,
-   "comments": 189,
-   "publishedAt": 1788659565000,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false,
-   "lastWeekRank": 1
-  },
-  {
-   "title": "Lovable의 하트는 어떻게 만들어졌나",
-   "url": "https://news.hada.io/topic?id=33347",
-   "summary": "Lovable의 첫 디자이너이자 네 번째 직원 은 화면 디자인뿐 아니라 고객 정의, 제품 경험, 커뮤니티와 브랜드까지 맡으며 초기 제품을 함께 만들어감 2024년 11월 출시 때 사용한 시각 정체성은 30분 만에 만든 시제품 이었으며, 60일 만에 ARR 1,000만 달러에 도달하...",
-   "publishedAt": 1788831570000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "‘You Can See Everything’ 리뷰: Nathan Fielder가 들여다본 Elizabeth Holmes",
-   "url": "https://news.hada.io/topic?id=33345",
-   "summary": "Nathan Fielder와 Lance Oppenheim 이 공동 연출한 174분 다큐멘터리는 투자자 사기로 11년형을 선고받은 Elizabeth Holmes의 수감 전 일상을 따라가며, 유무죄보다 그가 자신의 이야기를 믿는 방식을 파고듦 Holmes는 Theranos 기기가 작동했고 검사에 필요한 화학적 문제만 해결하지...",
-   "publishedAt": 1788831259000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "Xteink X3, 70달러짜리 초소형 전자책 리더",
-   "url": "https://news.hada.io/topic?id=33342",
-   "summary": "신용카드 크기의 자석식 전자책 리더 Xteink X3는 iPhone 뒷면에 붙여 부담 없이 휴대할 수 있어, 자투리 시간을 독서 시간으로 바꿔 줌 한 페이지에 한두 문단만 들어가는 작은 화면 이 계속 읽도록 유도하며, 사용 후기에서는 한 달간 책 3권을 읽고 iPhone의 일평...",
-   "publishedAt": 1788829640000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "Show GN: Dol(돌) - 자체 CouchDB 서버로 동기화하는 마크다운 노트 앱",
-   "url": "https://news.hada.io/topic?id=33341",
-   "summary": "직접 만든 마크다운 노트 앱 Dol(돌) 입니다. 왜 만들었나 기존 노트 앱을 쓰면서 두 가지가 계속 걸렸습니다. Obsidian은 로컬 저장이 기본이지만, 기기 간 동기화를 하려면 유료 Sync를 쓰거나 서드파티 플러그인을 붙여야 합니다 노션이나 에버노트 계열은 동기화는 편하지",
-   "publishedAt": 1788829509000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "AI handles incidents, engineers lose touch with their systems",
-   "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49574167",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 415,
-   "comments": 344,
-   "publishedAt": 1788594770000,
-   "isAI": true,
-   "score": 32.4,
-   "hot": false,
-   "lastWeekRank": 5
-  },
-  {
-   "title": "[9월8일] 오픈AI 내부에서 무슨 일이 벌어지고 있나…현실이 된 ‘AI 연구 인턴’",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=214978",
-   "summary": "오픈AI가 6일(현지시간) 공식 블로그를 통해 자사 연구 조직에서 AI 에이전트가 어떻게 활용되고 있는지를 공개했습니다. 연구원들이 AI 에이전트에 하루 수백~수천달러의 추론 비용을 쓰고 있으며, AI에 맡기는 작업도 점점 복잡해지고 있고, 연구원들이 작성하는 코드와 수행하는 실험도 크게 늘었다는 내용입니다.하지만 이번 발표에서 가장 주목할 대목은 단순한 사용량 지표가 아니라, 오픈AI가 지난해 10월 공언했던 ‘AI 연구 인턴’ 목표의 이행 여부를 공식적으로 검증했다는 점입니다.당시 샘 알트먼 오픈AI CEO와 야쿠브 파초키 수석",
-   "publishedAt": 1788904800000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "Speculative Decoding in vLLM on AMD GPUs",
-   "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49596054",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 143,
-   "comments": 53,
-   "publishedAt": 1788773201000,
-   "isAI": false,
-   "score": 32.1,
+   "score": 33.3,
    "hot": false
   }
  ]
