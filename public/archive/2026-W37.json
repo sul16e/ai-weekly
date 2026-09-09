@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788946916658,
+ "updatedAt": 1788950611886,
  "week": "2026-W37",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 563,
-   "comments": 741,
+   "engagement": 577,
+   "comments": 767,
    "publishedAt": 1788914440000,
    "isAI": true,
-   "score": 62.3,
+   "score": 61.9,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 500,
-   "comments": 544,
+   "engagement": 525,
+   "comments": 564,
    "publishedAt": 1788895500000,
    "isAI": true,
-   "score": 58.1,
+   "score": 57.9,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 680,
-   "comments": 229,
+   "engagement": 681,
+   "comments": 232,
    "publishedAt": 1788876357000,
    "isAI": true,
-   "score": 57.6,
+   "score": 57,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 365,
-   "comments": 320,
+   "engagement": 374,
+   "comments": 327,
    "publishedAt": 1788901252000,
    "isAI": true,
-   "score": 56.4,
+   "score": 56,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 822,
+   "engagement": 823,
    "comments": 583,
    "publishedAt": 1788843983000,
    "isAI": true,
-   "score": 54.4,
+   "score": 53.9,
    "hot": false
   },
   {
@@ -79,11 +79,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 376,
+   "engagement": 378,
    "comments": 65,
    "publishedAt": 1788874885000,
    "isAI": true,
-   "score": 52.8,
+   "score": 52.3,
+   "hot": true
+  },
+  {
+   "title": "Show HN: LLM 어텐션 시각화",
+   "url": "https://news.hada.io/topic?id=33435",
+   "summary": "LLM이 토큰을 생성할 때 어떤 이전 토큰을 참조했는지 살펴보는 도구로, 생성된 토큰을 누르거나 마우스를 올리면 참조 정보를 불투명도로 표시함 어텐션 가중치에 값 벡터의 크기를 반영 하고 모든 헤드와 레이어의 정보를 합산해, 이전 토큰마다 하나의 수치로 보...",
+   "publishedAt": 1788950208000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
    "hot": true
   },
   {
@@ -97,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.9,
+   "score": 49.4,
    "hot": true
   },
   {
@@ -111,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -125,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.4,
+   "score": 48.9,
    "hot": true
   },
   {
@@ -139,21 +153,7 @@
    "comments": 60,
    "publishedAt": 1788896833000,
    "isAI": true,
-   "score": 49.1,
-   "hot": true
-  },
-  {
-   "title": "OpenAI, 수학 난제 해결 경쟁에서 부당한 수단을 썼다는 의혹",
-   "url": "https://news.hada.io/topic?id=33426",
-   "summary": "NYU 수학 교수 Tristan Buckmaster 는 Levent Alpöge와 증명 3건을 발표하면서, OpenAI가 비공개 연구 진척 정보를 전달받은 뒤 같은 난제 해결에 뛰어들었다고 주장함 뒤이어 OpenAI는 Navier–Stokes 존재성과 매끄러움 문제의 완전한 증명 을 공개하고, 미공개 차...",
-   "publishedAt": 1788939208000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.9,
+   "score": 48.6,
    "hot": true
   },
   {
@@ -167,8 +167,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.4,
    "hot": false
+  },
+  {
+   "title": "OpenAI, 수학 난제 해결 경쟁에서 부당한 수단을 썼다는 의혹",
+   "url": "https://news.hada.io/topic?id=33426",
+   "summary": "NYU 수학 교수 Tristan Buckmaster 는 Levent Alpöge와 증명 3건을 발표하면서, OpenAI가 비공개 연구 진척 정보를 전달받은 뒤 같은 난제 해결에 뛰어들었다고 주장함 뒤이어 OpenAI는 Navier–Stokes 존재성과 매끄러움 문제의 완전한 증명 을 공개하고, 미공개 차...",
+   "publishedAt": 1788939208000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.3,
+   "hot": true
   },
   {
    "title": "Show GN: AI 운동 카운터 - 카메라로 푸시업·스쿼트 횟수를 세는 iPhone 앱",
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "comments": 24,
    "publishedAt": 1788886781000,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
    "hot": false
   },
   {
@@ -251,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -265,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -279,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -293,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 46,
    "hot": true
   },
   {
@@ -307,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -321,7 +335,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": false
   },
   {
@@ -335,21 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
-   "hot": true
-  },
-  {
-   "title": "Qwen-Drive-1.0 - 도로 상황을 이해하고 주행 경로까지 계획하는 자율주행 AI 모델",
-   "url": "https://news.hada.io/topic?id=33383",
-   "summary": "주변 환경의 3D 인식, 주행 상황에 대한 질의응답, 차량의 이동 경로 계획 을 하나로 결합한 모델 Qwen3.5-4B의 기본 구조를 유지 하면서 주변 공간을 인식하는 모듈과 주행 경로를 생성하는 모듈을 추가 주변 물체의 위치와 공간 점유 상태, 도로 구조를 파...",
-   "publishedAt": 1788913802000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.4,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -363,8 +363,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.9,
    "hot": false
+  },
+  {
+   "title": "Qwen-Drive-1.0 - 도로 상황을 이해하고 주행 경로까지 계획하는 자율주행 AI 모델",
+   "url": "https://news.hada.io/topic?id=33383",
+   "summary": "주변 환경의 3D 인식, 주행 상황에 대한 질의응답, 차량의 이동 경로 계획 을 하나로 결합한 모델 Qwen3.5-4B의 기본 구조를 유지 하면서 주변 공간을 인식하는 모듈과 주행 경로를 생성하는 모듈을 추가 주변 물체의 위치와 공간 점유 상태, 도로 구조를 파...",
+   "publishedAt": 1788913802000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 44.9,
+   "hot": true
   },
   {
    "title": "나비에-스토크스 해법 발표의 이면: 수학자가 공개한 OpenAI와의 협의 과정",
@@ -377,21 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
-   "hot": true
-  },
-  {
-   "title": "DaVinci Resolve 21.1",
-   "url": "https://news.hada.io/topic?id=33376",
-   "summary": "편집·색보정용 새 도구와 제어 기능 100개 이상 을 담은 DaVinci Resolve 21.1이 출시됐으며, AI 어시스턴트 연동과 사진 포맷·멀티캠 지원을 확대하고 공식 웹사이트에서 무료 다운로드를 제공함 Claude, Claude Code, ChatGPT Codex 에 자연어로 프로젝트 분석, 미...",
-   "publishedAt": 1788907190000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.5,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -401,12 +401,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 549,
+   "engagement": 550,
    "comments": 226,
    "publishedAt": 1788832643000,
    "isAI": false,
-   "score": 44.2,
+   "score": 43.8,
    "hot": false
+  },
+  {
+   "title": "대규모 언어 모델은 적응적 탐색을 통해 새로운 사회적 편향을 형성함",
+   "url": "https://news.hada.io/topic?id=33434",
+   "summary": "대규모 언어 모델은 적응적 탐색을 통해 새로운 사회적 편향을 형성함",
+   "publishedAt": 1788950028000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.9,
+   "hot": true
   },
   {
    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
@@ -419,7 +433,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -433,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -447,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41,
    "hot": true
   },
   {
@@ -461,7 +475,20 @@
    "comments": 347,
    "publishedAt": 1788842890000,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
+   "hot": false
+  },
+  {
+   "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
+   "url": "https://huggingface.co/papers/2609.08183",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 191,
+   "summary": "Recursive self-improvement (RSI) requires a concrete mechanism through which an AI system observes its capabilities and converts that evidence into the next round of learning. We present NeoHorse-1, a family of agent-native models developed to explore this path through agentic post-training. Our sys",
+   "publishedAt": 1788811200000,
+   "isAI": true,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -475,7 +502,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -489,7 +516,7 @@
    "comments": 80,
    "publishedAt": 1788844823000,
    "isAI": true,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
@@ -503,7 +530,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -517,21 +544,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.7,
    "hot": true
-  },
-  {
-   "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
-   "url": "https://huggingface.co/papers/2609.08183",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 179,
-   "summary": "Recursive self-improvement (RSI) requires a concrete mechanism through which an AI system observes its capabilities and converts that evidence into the next round of learning. We present NeoHorse-1, a family of agent-native models developed to explore this path through agentic post-training. Our sys",
-   "publishedAt": 1788811200000,
-   "isAI": true,
-   "score": 40.1,
-   "hot": false
   },
   {
    "title": "Introducing ChatGPT Images 2.5",
@@ -544,7 +558,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -558,7 +572,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -572,7 +586,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -586,7 +600,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -600,7 +614,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -614,7 +628,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -628,7 +642,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -642,7 +656,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -656,7 +670,7 @@
    "comments": 23,
    "publishedAt": 1788824262000,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": false
   },
   {
@@ -670,7 +684,7 @@
    "comments": 433,
    "publishedAt": 1788695803000,
    "isAI": true,
-   "score": 39.3,
+   "score": 39,
    "hot": false
   },
   {
@@ -684,7 +698,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -698,7 +712,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -712,7 +726,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -726,7 +740,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -740,7 +754,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -754,7 +768,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -768,7 +782,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -782,7 +796,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -796,7 +810,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -810,7 +824,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -824,7 +838,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -838,7 +852,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -852,7 +866,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -866,7 +880,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -880,7 +894,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -894,7 +908,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -908,7 +922,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -922,7 +936,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -936,7 +950,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -950,7 +964,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -964,22 +978,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
-  },
-  {
-   "title": "손에 흙을 묻히는 것이 건강에 좋은 이유",
-   "url": "https://news.hada.io/topic?id=33375",
-   "summary": "흙·식물 같은 자연물과 접촉하면 피부 미생물 다양성 이 늘어나며, 어린이와 성인 대상 연구에서 피부뿐 아니라 면역 조절 지표 에도 변화가 나타남 다양한 미생물은 서로를 견제해 병원성 세균 이 우세해지는 것을 억제함. 자연 접촉 실험에서는 염...",
-   "publishedAt": 1788907094000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "US police fear Meta smart glasses could be used to secretly record them",
@@ -992,7 +992,7 @@
    "comments": 83,
    "publishedAt": 1788881989000,
    "isAI": false,
-   "score": 37.3,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -1006,7 +1006,7 @@
    "comments": 146,
    "publishedAt": 1788799232000,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -1017,12 +1017,25 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 2293,
-   "comments": 1597,
+   "comments": 1598,
    "publishedAt": 1788522893000,
    "isAI": true,
-   "score": 36.2,
+   "score": 36,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
+   "url": "https://huggingface.co/papers/2609.08936",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 96,
+   "summary": "We introduce AuK, an open-source foundational model that unifies speech generation and editing through a common interface of natural-language instructions and audio context. To support this broad capability set, we construct approximately 3.03 billion instruction--audio instances and 1.95 million ho",
+   "publishedAt": 1788811200000,
+   "isAI": true,
+   "score": 35.7,
+   "hot": false
   },
   {
    "title": "1Password increases engineering productivity 21% with Codex",
@@ -1035,7 +1048,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1049,7 +1062,7 @@
    "comments": 202,
    "publishedAt": 1788781597000,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1063,7 +1076,7 @@
    "comments": 285,
    "publishedAt": 1788759205000,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1077,7 +1090,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1091,7 +1104,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1105,21 +1118,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.7,
-   "hot": false
-  },
-  {
-   "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-   "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-   "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
-   "publishedAt": 1788894000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.4,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1133,9 +1132,50 @@
    "comments": 2075,
    "publishedAt": 1788460865000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.2,
    "hot": false,
    "lastWeekRank": 8
+  },
+  {
+   "title": "Omni Interaction Agent Technical Report",
+   "url": "https://huggingface.co/papers/2609.08977",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 75,
+   "summary": "In this work, we present Gander, an end-to-end model that unifies omni perception, realtime interaction, and agentic capabilities within a single framework. In contrast to turn-based conventional paradigms, Gander continuously receives streaming inputs across multiple modalities, including video, sp",
+   "publishedAt": 1788811200000,
+   "isAI": true,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+   "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+   "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+   "publishedAt": 1788894000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "클로드 유료 계정 토큰 탈취 잇달아…'인포스틸러' 주의보",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215037",
+   "summary": "'클로드' 유료 구독자들의 계정이 해킹돼 할당된 AI 토큰이 사용자의 동의 없이 소진되는 피해가 잇따르고 있다. 앤트로픽은 피해 원인으로 컴퓨터에 침투해 브라우저의 로그인 정보와 세션 데이터를 훔치는 ‘인포스틸러(Infostealer)’ 악성코드를 지목하고, 의심스러운 계정의 세션과 인증 권한을 무효화하는 등 대응에 나섰다.이번 사건은 한 피해 이용자가 온라인 커뮤니티에 자신의 사례를 올리면서 알려지기 시작했다. 독립 AI 컨설턴트로 활동하는 그랜트 드 스워트는 최근 레딧 게시글을 통해 자신의 월 200달러짜리 ‘클로드 맥스 20x",
+   "publishedAt": 1788948503000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
   },
   {
    "title": "Asahi Linux on M3",
@@ -1148,34 +1188,49 @@
    "comments": 360,
    "publishedAt": 1788703739000,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false
   },
   {
-   "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
-   "url": "https://huggingface.co/papers/2609.08936",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 69,
-   "summary": "We introduce AuK, an open-source foundational model that unifies speech generation and editing through a common interface of natural-language instructions and audio context. To support this broad capability set, we construct approximately 3.03 billion instruction--audio instances and 1.95 million ho",
-   "publishedAt": 1788811200000,
-   "isAI": true,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-   "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-   "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-   "publishedAt": 1788888735000,
-   "source": "TechCrunch AI",
+   "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+   "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot co",
+   "publishedAt": 1788947788000,
+   "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
-   "baseWeight": 32,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, ‘아스트라’ 사이버 모델 준비…“강력한 성능은 곧 강력한 보안”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215065",
+   "summary": "오픈AI가 ‘GPT-6 아스트라’의 강력한 성능을 바탕으로 하는 차세대 사이버 모델 출시를 준비 중이라고 밝혔다. 아스트라도 이미 사이버 방어 측면에서 우수하지만, 더 강력한 방어책을 위해 사이버 보안 특화 모델을 준비한다는 전략이다.오픈AI는 9일 서울 강남구 조선팰리스 호텔에서 한국 오피스 공식 출범 1주년 기념 기자회견을 개최했다. 우선 1년 간 국내 시장에서 이룬 성과와 파트너십 확대를 소개했다. 지난 8월 말 기준 국내 '챗GPT 엔터프라이즈' 도입 규모는 사용자 수 기준 전년 동기 대비 28배로 증가한 것으로 나타났다.",
+   "publishedAt": 1788947695000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "코난테크 \"AI ROI 체감 못하는 이유는...워크플로우·KPI 뜯어 고쳐야\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215067",
+   "summary": "기업들이 AI 도입 후 기대만큼의 투자수익률(ROI)을 거두지 못하는 원인은 기술 한계가 아닌 기존 업무 방식과의 불협화음 때문이라는 지적이 나왔다. 이를 해결하기 위해 단순 도구 활용을 넘어 AI 관측성과 에이전틱 워크플로우 구축, 조직 체계 및 핵심성과지표(KPI)의 근본적인 체감 전환이 필요하다는 제언이다.코난테크놀로지(대표 김영섬)는 9일 서울 양재동 엘타워에서 '제4회 코난 AI 서밋'을 열었다. 키노트 연사로 나선 양승현 코난테크놀로지 최고 운영책임자(COO)는 \"프론티어 AI 모델은 상향 평준화됐지만 막상 현장에서는 예",
+   "publishedAt": 1788946928000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1189,7 +1244,34 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation",
+   "url": "https://huggingface.co/papers/2609.08798",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 68,
+   "summary": "Weak-to-strong generalization asks whether stronger models can learn from weaker supervisors and surpass them. This question is particularly important for successive model generations and multi-domain consolidation, where repeating frontier-scale post-training from scratch can be prohibitively expen",
+   "publishedAt": 1788811200000,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+   "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+   "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+   "publishedAt": 1788888735000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1203,7 +1285,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1217,7 +1299,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1231,7 +1313,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1245,35 +1327,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-   "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-   "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-   "publishedAt": 1788884431000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "미국, 딥시크·문샷 등 중국 AI 기업 6곳 비난...\"미국 기술 악의적 복제\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215064",
-   "summary": "미국 정부가 중국 AI 기업들이 미국 AI 기업의 기술을 ‘증류(distillation)’ 방식으로 악의적으로 복제하고 있다며 공개적으로 비난했다. 이달 말 양국 정상회담을 앞두고 터져 나온 이번 발표로 인해 양국 간 AI 기술 경쟁과 지식재산권 갈등이 더 격화할 가능성이 제기된다.로이터에 따르면, 미국 법 집행 및 정보기관 관계자들은 8일(현지시간) 중국 AI 기업 6곳이 미국 AI 연구소의 지식재산을 활용해 자체 AI 모델을 더 빠르게 개발하고 있다고 주장했다.지목된 기업에는 딥시크, 문샷AI, 알리바바, 미니맥스, 스텝펀, 지",
-   "publishedAt": 1788941527000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1287,20 +1341,35 @@
    "comments": 193,
    "publishedAt": 1788707324000,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
-   "title": "Omni Interaction Agent Technical Report",
-   "url": "https://huggingface.co/papers/2609.08977",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
+   "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+   "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+   "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+   "publishedAt": 1788884431000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 64,
-   "summary": "In this work, we present Gander, an end-to-end model that unifies omni perception, realtime interaction, and agentic capabilities within a single framework. In contrast to turn-based conventional paradigms, Gander continuously receives streaming inputs across multiple modalities, including video, sp",
-   "publishedAt": 1788811200000,
+   "engagement": null,
+   "baseWeight": 32,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "미국, 딥시크·문샷 등 중국 AI 기업 6곳 비난...\"미국 기술 악의적 복제\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215064",
+   "summary": "미국 정부가 중국 AI 기업들이 미국 AI 기업의 기술을 ‘증류(distillation)’ 방식으로 악의적으로 복제하고 있다며 공개적으로 비난했다. 이달 말 양국 정상회담을 앞두고 터져 나온 이번 발표로 인해 양국 간 AI 기술 경쟁과 지식재산권 갈등이 더 격화할 가능성이 제기된다.로이터에 따르면, 미국 법 집행 및 정보기관 관계자들은 8일(현지시간) 중국 AI 기업 6곳이 미국 AI 연구소의 지식재산을 활용해 자체 AI 모델을 더 빠르게 개발하고 있다고 주장했다.지목된 기업에는 딥시크, 문샷AI, 알리바바, 미니맥스, 스텝펀, 지",
+   "publishedAt": 1788941527000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1314,7 +1383,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1328,76 +1397,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation",
-   "url": "https://huggingface.co/papers/2609.08798",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 63,
-   "summary": "Weak-to-strong generalization asks whether stronger models can learn from weaker supervisors and surpass them. This question is particularly important for successive model generations and multi-domain consolidation, where repeating frontier-scale post-training from scratch can be prohibitively expen",
-   "publishedAt": 1788811200000,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "엔비디아, GPU 커널까지 러스트로 개발하는 ‘CUDA 러스트’ 공개...안전한 AI 인프라 구축",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215062",
-   "summary": "엔비디아가 AI 시스템의 핵심 영역인 GPU 커널 개발에 프로그래밍 언어 러스트(Rust)를 본격 도입한다. 기존에는 러스트로 CUDA 커널을 호출하는 수준에 머물렀으나, 앞으로는 GPU 커널 자체를 러스트로 직접 작성해 네이티브 PTX 코드로 컴파일하는 ‘CUDA 러스트’를 추진하며 소프트웨어 생태계 전환에 나섰다.엔비디아는 8일(현지시간) CUDA 러스트를 공개하고 2027년 이후까지 관련 기술을 지속 발전시킬 계획이라고 밝혔다. CUDA C++와 CUDA 파이썬이 구축해 온 엔터프라이즈급 개발 환경에 러스트를 추가해 선택지를",
-   "publishedAt": 1788940200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "[9월9일] 순천 AI 영상 뉴스 - 순천, 팔마문화제 개최 등",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215047",
-   "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
-   "publishedAt": 1788940193000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "전 세계 농가 생성 AI 도입 급증…불황 속 17%가 필수 도구로 채택",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215063",
-   "summary": "글로벌 농업 시장이 고물가와 원자재 가격 변동성으로 진통을 겪는 가운데, 전 세계 농부들이 경영 난관을 극복하기 위한 핵심 솔루션으로 생성 AI를 빠르게 도입하고 있다. 로봇이나 지속가능성 소프트웨어 등 기존 농업 기술의 보급이 더딘 상황에서 생성 AI가 농업 분야 내 가장 가파른 성장세를 보이며 필수 경영 도구로 자리 잡았다는 분석이다.맥킨지앤드컴퍼니가 8일(현지시간) 발표한 '글로벌 농부 인사이트 2026' 보고서에 따르면, 전 세계 농가의 17%가 이미 농업 관련 작업과 경영 계획 수립에 생성 AI를 활용하는 것으로 나타났다.",
-   "publishedAt": 1788939989000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "과기부, 국가 슈퍼컴퓨터 6호기 산학연 사용자 모집",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215059",
-   "summary": "과학기술정보통신부(장관 배경훈)는 9일부터 한국과학기술정보연구원(KISTI)과 ‘2026 국가슈퍼컴퓨터 6호기 혁신지원사업’ 사용자 공모를 실시한다고 밝혔다. 국가 슈퍼컴퓨터 6호기의 초고성능 연산자원을 활용할 산학연 연구자를 모집한다. 국가 핵심 과학 인프라로서 거대 계산과학, 데이터 시뮬레이션, AI기반 과학연구 등에 폭넓게 활용될 예정이다.슈퍼컴퓨터 6호기는 엔비디아의 ‘GH200’ 등 최신 GPU 8496개와 CPU 9936개를 탑재했으며 614페타플롭스(PFLOPS) 이론 연산성능, 205페타바이트(PB)의 저장공간, 초당",
-   "publishedAt": 1788938461000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   }
  ]
