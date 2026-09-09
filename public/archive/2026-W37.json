@@ -1,19 +1,19 @@
 {
- "updatedAt": 1788929251719,
+ "updatedAt": 1788939482395,
  "week": "2026-W37",
  "items": [
   {
-   "title": "LibreOffice breaks download records after declaring it has no AI features",
-   "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49610538",
+   "title": "I resigned from Anthropic today",
+   "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49619227",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 658,
-   "comments": 218,
-   "publishedAt": 1788876357000,
+   "engagement": 460,
+   "comments": 603,
+   "publishedAt": 1788914440000,
    "isAI": true,
-   "score": 60.1,
+   "score": 61.9,
    "hot": true
   },
   {
@@ -23,39 +23,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 391,
-   "comments": 412,
+   "engagement": 472,
+   "comments": 506,
    "publishedAt": 1788895500000,
    "isAI": true,
-   "score": 58.9,
+   "score": 58.8,
    "hot": true
   },
   {
-   "title": "Mistral raises €3B",
-   "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49605767",
+   "title": "LibreOffice breaks download records after declaring it has no AI features",
+   "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49610538",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 814,
-   "comments": 570,
-   "publishedAt": 1788843983000,
+   "engagement": 672,
+   "comments": 220,
+   "publishedAt": 1788876357000,
    "isAI": true,
-   "score": 56.8,
-   "hot": true
-  },
-  {
-   "title": "I resigned from Anthropic today",
-   "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49619227",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 209,
-   "comments": 265,
-   "publishedAt": 1788914440000,
-   "isAI": true,
-   "score": 56.5,
+   "score": 58.7,
    "hot": true
   },
   {
@@ -65,12 +51,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 247,
-   "comments": 179,
+   "engagement": 327,
+   "comments": 307,
    "publishedAt": 1788901252000,
    "isAI": true,
-   "score": 55.9,
+   "score": 56.7,
    "hot": true
+  },
+  {
+   "title": "Mistral raises €3B",
+   "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49605767",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 821,
+   "comments": 580,
+   "publishedAt": 1788843983000,
+   "isAI": true,
+   "score": 55.4,
+   "hot": false
   },
   {
    "title": "We Must Return to the Office to Use AI in Person",
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 372,
-   "comments": 62,
+   "engagement": 375,
+   "comments": 65,
    "publishedAt": 1788874885000,
    "isAI": true,
-   "score": 55.2,
+   "score": 53.8,
    "hot": true
   },
   {
@@ -93,11 +93,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 160,
-   "comments": 58,
+   "engagement": 161,
+   "comments": 60,
    "publishedAt": 1788896833000,
    "isAI": true,
-   "score": 51.4,
+   "score": 50,
+   "hot": true
+  },
+  {
+   "title": "OpenAI, 수학 난제 해결 경쟁에서 부당한 수단을 썼다는 의혹",
+   "url": "https://news.hada.io/topic?id=33426",
+   "summary": "NYU 수학 교수 Tristan Buckmaster 는 Levent Alpöge와 증명 3건을 발표하면서, OpenAI가 비공개 연구 진척 정보를 전달받은 뒤 같은 난제 해결에 뛰어들었다고 주장함 뒤이어 OpenAI는 Navier–Stokes 존재성과 매끄러움 문제의 완전한 증명 을 공개하고, 미공개 차...",
+   "publishedAt": 1788939208000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 50,
+   "hot": true
+  },
+  {
+   "title": "AgentCodeGUI 3.0.0 — 앱 하나에서 Claude Code & Codex와 여러개의 계정까지",
+   "url": "https://news.hada.io/topic?id=33425",
+   "summary": "Claude Code와 Codex를 쓰다 보니 IDE에서 직접 코드를 치는 일이 점점 없어졌습니다. 그런데 여전히 무거운 IDE를 띄워놓고, 에이전트를 위해서 터미널 탭을 실행시키는 번거로운 작업이 계속 됐습니다. 에이전트를 여러 개 돌리면 더 번거로워집니다. 에이전트 하나에 터미널 하나씩, 프로젝트마다 다른 폴더",
+   "publishedAt": 1788938791000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
+  },
+  {
+   "title": "Show GN: AI 운동 카운터 - 카메라로 푸시업·스쿼트 횟수를 세는 iPhone 앱",
+   "url": "https://news.hada.io/topic?id=33424",
+   "summary": "집에서 운동할 때 횟수를 세느라 자세와 호흡에 집중하기 어려운 문제를 줄여보려고 만든 앱입니다. 제가 직접 개발했습니다. 폰을 세워두면 카메라가 관절 움직임을 인식하고 동작이 끝난 순간을 카운트합니다. 숫자는 음성으로 읽어주며, 목표 횟수를 채우면 휴식 후 다음 종목으로 자동 전환합니다. 현재 푸",
+   "publishedAt": 1788938685000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
    "hot": true
   },
   {
@@ -111,8 +153,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.3,
-   "hot": true
+   "score": 49.8,
+   "hot": false
   },
   {
    "title": "오늘 Anthropic에서 사직했다",
@@ -125,7 +167,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.9,
+   "score": 48.4,
+   "hot": true
+  },
+  {
+   "title": "Show HN: LLM Attention Visualization",
+   "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49613068",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 155,
+   "comments": 24,
+   "publishedAt": 1788886781000,
+   "isAI": true,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -139,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.7,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -153,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.5,
+   "score": 48,
    "hot": true
   },
   {
@@ -167,21 +223,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.3,
-   "hot": false
-  },
-  {
-   "title": "Show HN: LLM Attention Visualization",
-   "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49613068",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 145,
-   "comments": 23,
-   "publishedAt": 1788886781000,
-   "isAI": true,
-   "score": 49.2,
+   "score": 47.9,
    "hot": false
   },
   {
@@ -195,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -209,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -223,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -237,21 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
-   "hot": true
-  },
-  {
-   "title": "Caltech Mathathon — 연구 수준의 수학에 전념하는 최초의 해커톤",
-   "url": "https://news.hada.io/topic?id=33391",
-   "summary": "전 세계 수학 인재로 구성된 100개 팀 이 최첨단 AI로 미해결 추측과 새로운 수학 이론에 도전하며, 40시간 동안 200만 달러 이상의 AI 크레딧 을 활용함 캘리포니아 공과대학교(Caltech) 에서 10월 30일~11월 1일 열리며, 참가팀...",
-   "publishedAt": 1788915550000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -265,8 +293,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.9,
+   "score": 46.6,
    "hot": false
+  },
+  {
+   "title": "Caltech Mathathon — 연구 수준의 수학에 전념하는 최초의 해커톤",
+   "url": "https://news.hada.io/topic?id=33391",
+   "summary": "전 세계 수학 인재로 구성된 100개 팀 이 최첨단 AI로 미해결 추측과 새로운 수학 이론에 도전하며, 40시간 동안 200만 달러 이상의 AI 크레딧 을 활용함 캘리포니아 공과대학교(Caltech) 에서 10월 30일~11월 1일 열리며, 참가팀...",
+   "publishedAt": 1788915550000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.6,
+   "hot": true
   },
   {
    "title": "Qwen-Drive-1.0 - 도로 상황을 이해하고 주행 경로까지 계획하는 자율주행 AI 모델",
@@ -279,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -293,7 +335,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.2,
    "hot": false
   },
   {
@@ -307,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -321,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -335,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -345,53 +387,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 529,
+   "engagement": 545,
    "comments": 223,
    "publishedAt": 1788832643000,
    "isAI": false,
-   "score": 45.9,
-   "hot": false
-  },
-  {
-   "title": "OpenAI, AI로 찾은 밀레니엄 난제 ‘나비에-스토크스’ 해법 공개",
-   "url": "https://news.hada.io/topic?id=33370",
-   "summary": "약 90년간 미해결이던 3차원 유체 운동의 매끄러움 문제 에 대해, 내부 AI 시스템이 찾아낸 해석적 증명과 컴퓨터로 검증할 수 있는 Lean 형식화를 공개함 매끄러운 외력이 작용하는 정지 상태의 유체에서도 유한 시간 안에 속도가 무한히 커지는 특이점이 생길 수 있음",
-   "publishedAt": 1788892832000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45,
-   "hot": true
-  },
-  {
-   "title": "AI를 대면으로 쓰려면 사무실로 복귀해야 한다",
-   "url": "https://news.hada.io/topic?id=33368",
-   "summary": "AI 도구의 생성·승인 버튼을 하루 수천 번 누르는 직원이 사무실 복귀(RTO) 를 강요받는 풍자극으로, 고용을 유지하려면 사무실 근무를 사랑한다는 각서까지 써야 함 Mondo Mayo에서는 상사에 대한 복종 과 지도자의 수가 핵심 원칙이며, 일반 직원 15명을 수천 명의...",
-   "publishedAt": 1788889055000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.5,
-   "hot": true
-  },
-  {
-   "title": "LibreOffice, AI 기능이 없다고 선언한 뒤 다운로드 기록 경신",
-   "url": "https://news.hada.io/topic?id=33367",
-   "summary": "무료 Microsoft Office 대안인 LibreOffice 26.8 이 출시 일주일 만에 설치 프로그램 다운로드 100만 회 이상 을 기록하며 역대 가장 인기 있는 업데이트가 됨 이번 버전은 개인정보 보호를 이유로 생성형 AI를 기본 탑재하지 않는 점 을 내세웠지만...",
-   "publishedAt": 1788885502000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -405,21 +405,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.6,
-   "hot": false
-  },
-  {
-   "title": "Arm, 피지컬 AI 개발과 로봇 역량 정의 위한 생태계 협업 확대",
-   "url": "https://news.hada.io/topic?id=33364",
-   "summary": "자율 시스템의 통합 복잡성 을 줄이기 위해 Arm이 80개 이상 기업이 참여하는 Arm Total Design for Physical AI 를 발표하고, 기술 스택 전반의 협업으로 개발을 가속함 AI 모델·소프트웨어·센서·컴퓨팅 하드웨어·가상 플랫폼·디지털 트윈을 연결해 조기 개...",
-   "publishedAt": 1788876439000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -429,11 +415,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 299,
-   "comments": 337,
+   "engagement": 300,
+   "comments": 344,
    "publishedAt": 1788842890000,
    "isAI": false,
-   "score": 42.8,
+   "score": 41.7,
+   "hot": false
+  },
+  {
+   "title": "Mercury 2.5",
+   "url": "https://news.hada.io/topic?id=33421",
+   "summary": "Inception이 고객 피드백과 실제 운영 실패 사례를 평가·학습에 반영한 Mercury 2.5 를 출시함. 전작의 낮은 지연시간과 비용 을 유지하면서 품질을 높임 Inception 기준 전작 대비 지능 40% 향상 , 널리 사용되는 NVIDIA GPU에서 초당 1,10...",
+   "publishedAt": 1788935552000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
    "hot": true
   },
   {
@@ -443,39 +443,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 114,
-   "comments": 76,
+   "engagement": 116,
+   "comments": 77,
    "publishedAt": 1788844823000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.2,
    "hot": false
   },
   {
-   "title": "Tesla, 정지 표지판 위반으로 남성 사망…Full Self-Driving/Autopilot 작동 확인",
-   "url": "https://news.hada.io/topic?id=33414",
-   "summary": "뉴저지 Buena Vista Township에서 Tesla Model 3가 좌회전하던 Honda Civic과 충돌해 82세 Stephen Field가 사망 했으며, Tesla의 연방정부 제출 기록에서 운전자 보조 시스템 작동이 확인 됨 Tesla는 사고기록장치(EDR)와 텔레매틱스 데이터 를 보유...",
-   "publishedAt": 1788929059000,
+   "title": "ChatGPT Pro 신규 구독 일시 중단 가능성 예고",
+   "url": "https://news.hada.io/topic?id=33420",
+   "summary": "ChatGPT Pro 신규 구독 일시 중단 가능성 예고",
+   "publishedAt": 1788932757000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 42,
+   "score": 41.2,
    "hot": true
   },
   {
-   "title": "Show HN: Stuxnet - 악명 높은 사이버 무기의 소스 코드 재구성",
-   "url": "https://news.hada.io/topic?id=33413",
-   "summary": "2010년 발견된 원본 바이너리의 역공학 분석을 바탕으로 Stuxnet 소스 코드를 재구성 한 저장소로, 원래 로직과 공격 경로를 가독성과 분석 중심으로 정리함 원본 Stuxnet은 Siemens Step 7과 S7 PLC 를 표적으로 삼아 PLC 블록 로직과 모터 주파수를 조작하고, 원심...",
-   "publishedAt": 1788928879000,
+   "title": "방사성 물질을 이용하는 회전날개를 가진 헬리콥터",
+   "url": "https://news.hada.io/topic?id=33417",
+   "summary": "CH-53 Sea Stallion 은 회전날개의 미세 균열이 치명적인 파손으로 커지기 전에 감지하기 위해 방사성 물질을 활용한 IBIS 를 사용함 밀봉한 날개에 질소 가스 를 가압 충전하고, 균열로 압력이 떨어지면 표시기가 소량의 스트론튬-90",
+   "publishedAt": 1788931959000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 42,
+   "score": 41.1,
+   "hot": true
+  },
+  {
+   "title": "Show GN: # Starpl(스타플) - 실제 별에 일상을 기록하는 SNS",
+   "url": "https://news.hada.io/topic?id=33415",
+   "summary": "‘Starpl : 나를 담는 별, 스타플’이라는 서비스를 만들고 있습니다. 천문 카탈로그에 기록된 실제 별 하나를 골라 내 공간으로 삼고, 하루를 글로 기록합니다. 지난 글은 타임라인에서 다시 읽고, 공개한 글은 별지도에서도 볼 수 있습니다. 별지도를 통해 다른 사람의 별에 들러 방명록을 남기거나 별친구를 맺을 ...",
+   "publishedAt": 1788929944000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -489,8 +503,36 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 41.9,
+   "score": 40.7,
    "hot": false
+  },
+  {
+   "title": "Tesla, 정지 표지판 위반으로 남성 사망…Full Self-Driving/Autopilot 작동 확인",
+   "url": "https://news.hada.io/topic?id=33414",
+   "summary": "뉴저지 Buena Vista Township에서 Tesla Model 3가 좌회전하던 Honda Civic과 충돌해 82세 Stephen Field가 사망 했으며, Tesla의 연방정부 제출 기록에서 운전자 보조 시스템 작동이 확인 됨 Tesla는 사고기록장치(EDR)와 텔레매틱스 데이터 를 보유...",
+   "publishedAt": 1788929059000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.7,
+   "hot": true
+  },
+  {
+   "title": "Show HN: Stuxnet - 악명 높은 사이버 무기의 소스 코드 재구성",
+   "url": "https://news.hada.io/topic?id=33413",
+   "summary": "2010년 발견된 원본 바이너리의 역공학 분석을 바탕으로 Stuxnet 소스 코드를 재구성 한 저장소로, 원래 로직과 공격 경로를 가독성과 분석 중심으로 정리함 원본 Stuxnet은 Siemens Step 7과 S7 PLC 를 표적으로 삼아 PLC 블록 로직과 모터 주파수를 조작하고, 원심...",
+   "publishedAt": 1788928879000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.7,
+   "hot": true
   },
   {
    "title": "에이전트는 테스트·검증 기법을 얼마나 잘 활용하는가?",
@@ -503,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -517,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -545,8 +587,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 40.4,
    "hot": true
+  },
+  {
+   "title": "TALA Is Open-Source",
+   "url": "https://d2lang.com/blog/tala-is-open-source/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49604150",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 307,
+   "comments": 23,
+   "publishedAt": 1788824262000,
+   "isAI": false,
+   "score": 40,
+   "hot": false
   },
   {
    "title": "Trey Parker와 Matt Stone, South Park의 이름을 South America로 변경",
@@ -559,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -573,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -587,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -601,91 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
-   "hot": true
-  },
-  {
-   "title": "TALA Is Open-Source",
-   "url": "https://d2lang.com/blog/tala-is-open-source/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49604150",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 305,
-   "comments": 23,
-   "publishedAt": 1788824262000,
-   "isAI": false,
-   "score": 41,
-   "hot": false
-  },
-  {
-   "title": "Show GN: CartCut - 오픈소스 영상편집기",
-   "url": "https://news.hada.io/topic?id=33398",
-   "summary": "기본 컷 편집부터 8k 편집, 키프레임 애니메이션까지 제공하는 오픈소스 영상편집 소프트웨어 입니다. 고급 영상 효과들부터 트렌지션까지 모두 제공합니다. 상용 영상편집 프로그램 수준의 퀄리티로 편집이 가능합니다. 클로드 코드와의 연동으로 영상편집이 가능합니다. 클로드가 직접 소스를 인터넷에서 가",
-   "publishedAt": 1788921239000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41,
-   "hot": true
-  },
-  {
-   "title": "Qwen3.8 27B 양자화 벤치마크: 4비트는 성능 유지, 1비트는 붕괴",
-   "url": "https://news.hada.io/topic?id=33396",
-   "summary": "55GB인 Qwen3.8 27B를 4비트 양자화로 17GB까지 줄여도 , 과학 문제, 지시 준수와 에이전트 코딩 평가에서 원본과 눈에 띄는 성능 차이가 없었음 17GB 모델은 24GB RTX 4090에 약 64k 토큰 컨텍스트와 함께 올릴 수 있어 , 소비자용 GPU에서도 원본에 가까운 작업 성...",
-   "publishedAt": 1788919011000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.7,
-   "hot": true
-  },
-  {
-   "title": "붓다 이야기에서 탄생한 두 기독교 성인",
-   "url": "https://news.hada.io/topic?id=33395",
-   "summary": "기독교 성인 Barlaam과 Josaphat 의 이야기는 궁전에 격리된 왕자가 질병·노년·죽음을 접한 뒤 수행에 나서는 고타마 붓다의 생애담 에서 유래함 기독교 전통에서는 10세기 조지아의 《Balavariani》 에 처음 나타나며, 아랍어판을 거쳐 전해진 것으...",
-   "publishedAt": 1788918831000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.7,
-   "hot": true
-  },
-  {
-   "title": "소변이 튀지 않는 소변기 (2025)",
-   "url": "https://news.hada.io/topic?id=33394",
-   "summary": "사용자가 조준을 잘하도록 유도하는 대신, 소변기 자체의 모양을 바꿔 튀는 현상을 줄이는 설계를 제안함 소변 줄기가 표면에 정면으로 부딪히지 않고 약 30도 이하의 얕은 각도로 닿도록 곡면을 설계하는 것이 핵심 미분방정식으로 두 가지 형태를 만들었...",
-   "publishedAt": 1788918651000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.7,
-   "hot": true
-  },
-  {
-   "title": "Broadcom의 VDDK 다운로드 제거로 VMware를 떠나기가 더 어려워짐",
-   "url": "https://news.hada.io/topic?id=33393",
-   "summary": "Azure Migrate, Red Hat Migration Toolkit, Nutanix Move 등 VMware 이전 도구가 의존하는 VDDK의 공개 다운로드 페이지 가 사라지면서 다른 플랫폼으로 옮기는 데 장애가 생김 VDDK 는 VMware 가상 디스크를 다루는 여러 이전·보호 도구의 핵심 의존성으로, 파일이...",
-   "publishedAt": 1788918471000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.7,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -699,8 +671,78 @@
    "comments": 433,
    "publishedAt": 1788695803000,
    "isAI": true,
-   "score": 40.5,
+   "score": 39.8,
    "hot": false
+  },
+  {
+   "title": "Show GN: CartCut - 오픈소스 영상편집기",
+   "url": "https://news.hada.io/topic?id=33398",
+   "summary": "기본 컷 편집부터 8k 편집, 키프레임 애니메이션까지 제공하는 오픈소스 영상편집 소프트웨어 입니다. 고급 영상 효과들부터 트렌지션까지 모두 제공합니다. 상용 영상편집 프로그램 수준의 퀄리티로 편집이 가능합니다. 클로드 코드와의 연동으로 영상편집이 가능합니다. 클로드가 직접 소스를 인터넷에서 가",
+   "publishedAt": 1788921239000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.8,
+   "hot": true
+  },
+  {
+   "title": "Qwen3.8 27B 양자화 벤치마크: 4비트는 성능 유지, 1비트는 붕괴",
+   "url": "https://news.hada.io/topic?id=33396",
+   "summary": "55GB인 Qwen3.8 27B를 4비트 양자화로 17GB까지 줄여도 , 과학 문제, 지시 준수와 에이전트 코딩 평가에서 원본과 눈에 띄는 성능 차이가 없었음 17GB 모델은 24GB RTX 4090에 약 64k 토큰 컨텍스트와 함께 올릴 수 있어 , 소비자용 GPU에서도 원본에 가까운 작업 성...",
+   "publishedAt": 1788919011000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.5,
+   "hot": true
+  },
+  {
+   "title": "붓다 이야기에서 탄생한 두 기독교 성인",
+   "url": "https://news.hada.io/topic?id=33395",
+   "summary": "기독교 성인 Barlaam과 Josaphat 의 이야기는 궁전에 격리된 왕자가 질병·노년·죽음을 접한 뒤 수행에 나서는 고타마 붓다의 생애담 에서 유래함 기독교 전통에서는 10세기 조지아의 《Balavariani》 에 처음 나타나며, 아랍어판을 거쳐 전해진 것으...",
+   "publishedAt": 1788918831000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.5,
+   "hot": true
+  },
+  {
+   "title": "소변이 튀지 않는 소변기 (2025)",
+   "url": "https://news.hada.io/topic?id=33394",
+   "summary": "사용자가 조준을 잘하도록 유도하는 대신, 소변기 자체의 모양을 바꿔 튀는 현상을 줄이는 설계를 제안함 소변 줄기가 표면에 정면으로 부딪히지 않고 약 30도 이하의 얕은 각도로 닿도록 곡면을 설계하는 것이 핵심 미분방정식으로 두 가지 형태를 만들었...",
+   "publishedAt": 1788918651000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.5,
+   "hot": true
+  },
+  {
+   "title": "Broadcom의 VDDK 다운로드 제거로 VMware를 떠나기가 더 어려워짐",
+   "url": "https://news.hada.io/topic?id=33393",
+   "summary": "Azure Migrate, Red Hat Migration Toolkit, Nutanix Move 등 VMware 이전 도구가 의존하는 VDDK의 공개 다운로드 페이지 가 사라지면서 다른 플랫폼으로 옮기는 데 장애가 생김 VDDK 는 VMware 가상 디스크를 다루는 여러 이전·보호 도구의 핵심 의존성으로, 파일이...",
+   "publishedAt": 1788918471000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.5,
+   "hot": true
   },
   {
    "title": "Show GN: routar - 백엔드 스펙 없이 프론트에서 API 스키마를 간편하게 관리하는 타입세이프 HTTP 클라이언트를 ...",
@@ -713,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -727,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -741,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -755,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -769,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -783,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39,
    "hot": true
   },
   {
@@ -797,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39,
    "hot": true
   },
   {
@@ -811,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -825,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -839,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -853,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -867,7 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -881,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -895,8 +937,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.2,
    "hot": true
+  },
+  {
+   "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
+   "url": "https://huggingface.co/papers/2609.08183",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 119,
+   "summary": "Recursive self-improvement (RSI) requires a concrete mechanism through which an AI system observes its capabilities and converts that evidence into the next round of learning. We present NeoHorse-1, a family of agent-native models developed to explore this path through agentic post-training. Our sys",
+   "publishedAt": 1788811200000,
+   "isAI": true,
+   "score": 38.1,
+   "hot": false
   },
   {
    "title": "US police fear Meta smart glasses could be used to secretly record them",
@@ -905,11 +960,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 104,
+   "engagement": 107,
    "comments": 83,
    "publishedAt": 1788881989000,
    "isAI": false,
-   "score": 38.8,
+   "score": 37.9,
+   "hot": false
+  },
+  {
+   "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+   "url": "https://news.ycombinator.com/item?id=49600233",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49600233",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 127,
+   "comments": 145,
+   "publishedAt": 1788799232000,
+   "isAI": true,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -923,22 +992,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 37.4,
    "hot": true
-  },
-  {
-   "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-   "url": "https://news.ycombinator.com/item?id=49600233",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49600233",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 127,
-   "comments": 145,
-   "publishedAt": 1788799232000,
-   "isAI": true,
-   "score": 38.4,
-   "hot": false
   },
   {
    "title": "Google DeepMind, 인간 DNA의 90억 가지 단일 염기 변화를 예측한 AlphaGenome Atlas 공개",
@@ -951,7 +1006,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -965,22 +1020,23 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 37.6,
+   "score": 36.7,
    "hot": false
   },
   {
-   "title": "Rust 디버깅 설문조사 2026 결과",
-   "url": "https://news.hada.io/topic?id=33369",
-   "summary": "부족한 디버깅 경험 의 원인을 파악하기 위한 첫 설문에 2,300명 이상이 참여했으며, 현재 Rust에서 디버거를 쓰는 응답자는 46% 이상으로 절반에 못 미침 로그·출력 디버깅과 dbg! 가 가장 널리 쓰이며, 이를 제외하면 IDE 내 lldb",
-   "publishedAt": 1788890569000,
-   "source": "GeekNews",
+   "title": "Discovery of a new OpenAI agent message board",
+   "url": "https://collusion.wiki/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49563355",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.5,
-   "hot": true
+   "lang": "en",
+   "engagement": 2293,
+   "comments": 1597,
+   "publishedAt": 1788522893000,
+   "isAI": true,
+   "score": 36.4,
+   "hot": false,
+   "lastWeekRank": 2
   },
   {
    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
@@ -990,10 +1046,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 304,
-   "comments": 200,
+   "comments": 201,
    "publishedAt": 1788781597000,
    "isAI": false,
-   "score": 37.1,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -1007,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.9,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1021,36 +1077,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.9,
-   "hot": false
-  },
-  {
-   "title": "Discovery of a new OpenAI agent message board",
-   "url": "https://collusion.wiki/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49563355",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 2293,
-   "comments": 1596,
-   "publishedAt": 1788522893000,
-   "isAI": true,
-   "score": 36.8,
-   "hot": false,
-   "lastWeekRank": 2
-  },
-  {
-   "title": "CDN을 사용하는 유럽 기업 10곳 중 거의 9곳이 Cloudflare를 사용함",
-   "url": "https://news.hada.io/topic?id=33366",
-   "summary": "CipherCue가 추적하는 유럽 8개국의 CDN 감지 기업 44,143곳 중 89.6%인 39,547곳 이 Cloudflare를 사용해, 웹사이트 앞단 인프라가 한 공급자에 집중돼 있음 CDN은 캐시 제공, TLS 종료, 트래픽 필터링을 담당하는 공유 의존성 으로, 공급자 집중도가 높으면 한 공급...",
-   "publishedAt": 1788882015000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.6,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1064,35 +1091,7 @@
    "comments": 283,
    "publishedAt": 1788759205000,
    "isAI": false,
-   "score": 36.4,
-   "hot": false
-  },
-  {
-   "title": "독립 위키를 가두는 새로운 ‘Google 감옥’이 생겼다",
-   "url": "https://news.hada.io/topic?id=33365",
-   "summary": "Fandom에서 벗어나 독립 위키를 만들어도 Google 검색에 메인 페이지만 나오고 개별 문서는 보이지 않는 현상 이 독자 확보를 가로막고 있음 위키 운영사 Weird Gloop가 파악한 바로는 2024년 3월 Google 핵심 업데이트 이후 새 도메인에 개설된 위키의 약 90%에서 발생",
-   "publishedAt": 1788878423000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-   "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-   "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
-   "publishedAt": 1788894000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.1,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1106,7 +1105,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+   "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+   "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+   "publishedAt": 1788894000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1120,8 +1133,37 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.6,
+   "score": 34.6,
    "hot": false
+  },
+  {
+   "title": "Asahi Linux on M3",
+   "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49586698",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 563,
+   "comments": 359,
+   "publishedAt": 1788703739000,
+   "isAI": false,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "GPT-6 Astra",
+   "url": "https://openai.com/index/gpt-6-astra/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49554643",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 2272,
+   "comments": 2075,
+   "publishedAt": 1788460865000,
+   "isAI": true,
+   "score": 34.4,
+   "hot": false,
+   "lastWeekRank": 8
   },
   {
    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
@@ -1134,50 +1176,35 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.2,
    "hot": false
   },
   {
-   "title": "Asahi Linux on M3",
-   "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49586698",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 562,
-   "comments": 357,
-   "publishedAt": 1788703739000,
-   "isAI": false,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "GPT-6 Astra",
-   "url": "https://openai.com/index/gpt-6-astra/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49554643",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 2271,
-   "comments": 2075,
-   "publishedAt": 1788460865000,
-   "isAI": true,
-   "score": 34.7,
-   "hot": false,
-   "lastWeekRank": 8
-  },
-  {
-   "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-   "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-   "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-   "publishedAt": 1788879849000,
-   "source": "TechCrunch AI",
+   "title": "과기부, 국가 슈퍼컴퓨터 6호기 산학연 사용자 모집",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215059",
+   "summary": "과학기술정보통신부(장관 배경훈)는 9일부터 한국과학기술정보연구원(KISTI)과 ‘2026 국가슈퍼컴퓨터 6호기 혁신지원사업’ 사용자 공모를 실시한다고 밝혔다. 국가 슈퍼컴퓨터 6호기의 초고성능 연산자원을 활용할 산학연 연구자를 모집한다. 국가 핵심 과학 인프라로서 거대 계산과학, 데이터 시뮬레이션, AI기반 과학연구 등에 폭넓게 활용될 예정이다.슈퍼컴퓨터 6호기는 엔비디아의 ‘GH200’ 등 최신 GPU 8496개와 CPU 9936개를 탑재했으며 614페타플롭스(PFLOPS) 이론 연산성능, 205페타바이트(PB)의 저장공간, 초당",
+   "publishedAt": 1788938461000,
+   "source": "AI타임스",
    "sourceType": "media",
-   "lang": "en",
+   "lang": "ko",
    "engagement": null,
-   "baseWeight": 32,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 34.7,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "\"AI 무한 경쟁이 인류 위협\"…앤트로픽 핵심 연구원 사직",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215058",
+   "summary": "AI 업계의 무한 경쟁이 인류를 위협할 수 있다는 경고와 함께 앤트로픽의 핵심 연구원이 사표를 던졌다. 앤트로픽에서 사전훈련 연구를 담당해 온 연구원 제이콥 콕슨은 9일 X를 통해 통제 불가능한 AI 시스템 개발 경쟁에 대한 우려로 회사를 떠난다고 밝혔다.올해 27세인 영국 출신의 콕슨은 이전에도 오픈AI에서 근무하다 AI 안전을 최우선으로 내세운 앤트로픽으로 이직한 바 있다. 그러나 그는 정부의 강력한 규제나 업계 차원의 조직적인 개발 속도 조절 없이는 그 어떤 기업도 AGI를 책임감 있게 개발하기 어렵다는 결론을 내렸다고 전했다",
+   "publishedAt": 1788938150000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1191,7 +1218,63 @@
    "comments": 193,
    "publishedAt": 1788707324000,
    "isAI": true,
-   "score": 34.5,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+   "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+   "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+   "publishedAt": 1788879849000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "구글 클라우드-액센츄어, 현장 파견 AI 엔지니어 전담 조직 신설",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215040",
+   "summary": "구글 클라우드와 액센츄어가 기업 고객의 AI 도입과 실제 업무 적용을 지원하기 위해 현장 파견형 AI 엔지니어(FDE) 전담 조직을 신설한다. 기업 내부에 엔지니어를 직접 배치해 업무 프로세스를 분석하고 맞춤형 AI 애플리케이션을 구축하는 방식으로, AI 모델 자체보다 실제 기업 환경에 이를 구현하는 ‘AI 도입·구축’ 시장을 겨냥한 행보다.구글 클라우드와 액센츄어는 8일(현지시간) 액센츄어 산하에 ‘액센츄어 제미나이 엔터프라이즈 비즈니스 그룹(Accenture Gemini Enterprise Business Group)’을 출범시",
+   "publishedAt": 1788936464000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "KAIST 교원창업기업 파네시아, 메타와 ‘차세대 AI 데이터센터 구조’ 제시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215052",
+   "summary": "한국과학기술원(KAIST, 총장 배충식)은 정명수 전기및전자공학부 교수와 팹리스 전문 파네시아가 메타 연구진과 공동 연구한 ‘차세대 AI 데이터센터 구조 제시’ 리뷰 논문이 네이처 리뷰 일렉트리컬 엔지니어링(NREE)에 게재됐다고 9일 밝혔다. 파네시아는 KAIST의 교원창업기업이다. 이번 메타 연구진과의 공동 연구를 통해 CPU, AI가속기, 메모리를 하나로 묶는 차세대 데이터센터 구조를 제시했다. 기존 데이터센터는 여러 컴퓨터가 네트워크를 통해 협업하는 방식이지만, 이번 구조는 서버 간 경계를 낮춰 CPU, 가속기, 메모리를 긴",
+   "publishedAt": 1788935247000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "KAIST, 파리 사클레대학교와 첨단 기술 연구협력 강화",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215054",
+   "summary": "한국과학기술원(KAIST, 총장 배충식)은 과학기술특성화대학 연합체 K-STAR를 대표해 프랑스 파리 사클레 대학교와 연구협력 강화를 위한 MOU를 체결했다고 9일 밝혔다. 이번 협약은 이재명 대통령의 프랑스 국빈 방문을 계기로 마련됐다. 지난 4월 서울에서 열린 제9차 한-불 과학기술공동위원회 논의 사항의 연장선이다. K-STAR와 프랑스 대학 간 과학기술 및 인재 교류 확대 방안을 구체화한 것이다. 파리 사클레대는 프랑스를 대표하는 연구중심대학으로, 수학, 물리학 등 기초과학부터 AI, 양자기술, 바이오, 공학에 이르기까지 넓은",
+   "publishedAt": 1788935097000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1205,7 +1288,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.4,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "KT, ‘지니 TV 셋톱박스 A2’ 출시…“AI로 원하는 콘텐츠 찾는다”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215055",
+   "summary": "KT(대표 박윤영)는 지니 TV의 핵심 AI 기능을 콤팩트한 디자인에 담아내고 이용 부담을 낮춘 ‘지니 TV 셋톱박스 A2’를 출시했다고 9일 밝혔다.이번 ‘지니 TV 셋톱박스 A2’는 대형언어모델(LLM) 중심의 AI 에이전트를 적용해 AI와 대화하듯 원하는 콘텐츠를 찾을 수 있는 것이 특징이다. 정확한 제목이 떠오르지 않아도 내용이나 출연자, 분위기 등을 설명하면 원하는 콘텐츠를 찾아주고, 시청 중 궁금한 내용도 바로 확인할 수 있다.콘텐츠를 시청할 때는 AI가 시청 환경을 알아서 최적화한다. AI SR(Super Resolut",
+   "publishedAt": 1788934990000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1219,7 +1316,35 @@
    "comments": 2,
    "publishedAt": 1788829248000,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "\"GPU·모델 많다고 강국 아니다\"...포티투마루, '포스트 소버린 AI' 제언",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215048",
+   "summary": "단순한 AI 기술 확보를 넘어 국내 주요 산업과의 결합을 통한 실질적 성과 창출을 강조하는 '포스트 소버린 AI' 3단계 국가전략이 제시됐다. AI 인프라 보유 자체보다 기업의 생산성 향상과 민간 AX 전환이 핵심이라는 제언이다.포티투마루(42Maru, 대표 김동환)는 9일 서울 대한상공회의소에서 열린 '2026 제3차 글로벌 디지털 포럼'에서 포스트 소버린 AI 국가전략을 발표했다.정보세계정치학회(KAWPI)와 서울대학교 미래전연구센터가 공동 주최한 이번 포럼에서 김동환 대표는 '한국 산업은 AI를 활용해 세계에서 가장 빠르게 혁",
+   "publishedAt": 1788933876000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "LG CNS, 차움 건강검진센터에 AI 에이전트 도입...\"의료 AI 전환 속도\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215045",
+   "summary": "LG CNS(대표 현신균)는 '지능형 검진센터 도입을 위한 착수보고회'를 열고, 차움 건강검진센터에 AI 에이전트를 적용한다고 9일 밝혔다.LG CNS는 검진 업무에 특화된 AI 에이전트를 개발하고, 차움이 실제 현장에 적용해 업무 효율성과 활용 가능성을 검증하는 개념검증(PoC)을 추진한다.고객의 검진 이력 분석부터 맞춤형 검사 추천, 결과 작성, 사후관리 안내까지 검진 업무 전반에 AI를 적용해 고객관계관리(CRM), 전자의무기록(EMR) 등 반복 조회, 상담 기록 작성, 일정 관리 등 수작업을 줄인다는 방침이다.구체적으로 고객",
+   "publishedAt": 1788933176000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1233,7 +1358,35 @@
    "comments": 111,
    "publishedAt": 1788736448000,
    "isAI": false,
-   "score": 34,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, '맥스 플랜' 허위 광고 혐의로 집단 소송 당해...\"사용량 속였다\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215049",
+   "summary": "AI 사용자들이 앤트로픽을 상대로 구독료 관련 집단 소송을 제기했다. 월 100~200달러에 달하는 최고 등급 구독 서비스 '맥스(Max) 플랜'의 사용량 제한 사항을 허위 광고해 소비자를 기만했다는 이유다.이번 소송은 지난 6월 캘리포니아 북부 연방법원에 최초 제기됐던 소송의 연장선이다. 미국 연방거래위원회(FTC) 출신인 모니카 바카와 카티 다판 변호사는 9일 클로드 구독자들을 대리해 취지를 보강한 확장 집단 소송(Amended Class Action)을 제기했다고 발표했다. 본 재판의 심리는 오는 11월6일 예정이다.이번 소송",
+   "publishedAt": 1788930647000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "주요 개발사, 애플의 '시리 AI' 도입에 미온적…생태계 확장 난항",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215046",
+   "summary": "애플이 대대적인 개편을 예고한 차세대 AI 음성 비서 '시리 AI'가 주요 빅테크와 앱 개발자들의 협력 부재로 초기 확장에 차질을 빚고 있다. 뉴욕타임스(NYT)는 8일(현지시간) 정식 출시를 앞둔 애플의 시리 AI 시스템에 구글, 메타, 아마존 등 대형 기술 기업의 주요 서비스 연동이 여전히 이뤄지지 않았다고 보도했다.애플은 지난 6월 개발자 회의(WWDC)에서 사용자를 대신해 앱을 직접 제어하고 기기 내 이메일이나 메시지 등 개인화된 맥락을 이해하며 화면 상의 콘텐츠를 인식해 작업을 처리하는 에이전트형 시리를 공개했다. 시리 A",
+   "publishedAt": 1788929566000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1247,160 +1400,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
-   "url": "https://huggingface.co/papers/2609.08183",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 55,
-   "summary": "Recursive self-improvement (RSI) requires a concrete mechanism through which an AI system observes its capabilities and converts that evidence into the next round of learning. We present NeoHorse-1, a family of agent-native models developed to explore this path through agentic post-training. Our sys",
-   "publishedAt": 1788811200000,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "메타, 개인용 AI 에이전트 '뮤즈' 공개...실생활 자동화 시장 출사표",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215022",
-   "summary": "메타가 소비자를 대상으로 일상적인 업무를 대행하는 새로운 개인용 AI 에이전트를 공개했다. 단순히 질문에 답하는 기존 AI 챗봇에서 벗어나 사용자의 목표를 이해하고 필요한 작업을 스스로 계획·실행하는 ‘자율 동작형 AI’로 실생활 자동화 시장에 출사표를 던졌다. 메타는 8일(현지시간) 사용자의 명령에 따라 다양한 웹사이트와 서비스를 직접 이용해 복잡한 작업을 수행하는 소비자용 AI 에이전트 ‘뮤즈(Muse)’를 공개했다. 이전에 내부 코드명 '해치(Hatch)'로 알려진 뮤즈는 최신 모델 ‘뮤즈 스파크(Muse Spark) 1.3’",
-   "publishedAt": 1788925535000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "카카오, AI 영상 생성 연산 비용 대폭 줄이는 적응형 토큰화 기술 'KATok' 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215036",
-   "summary": "카카오가 컴퓨터 비전 분야의 '유럽 컴퓨터 비전 학회(ECCV) 2026'에서 AI 영상 생성 모델의 난제로 꼽혀 온 방대한 연산량과 높은 계산 비용 문제를 해결하기 위한 신기술을 발표한다고 9일 밝혔다.ECCV는 CVPR(컴퓨터 비전 및 패턴 인식 학회), ICCV(국제 컴퓨터 비전 학회)와 함께 세계 3대 컴퓨터 비전 학회로, 올해는 오는 12일까지 스웨덴에서 개최된다. 이번 연구를 주도한 이연경 카카오 리서치 엔지니어가 학회에 참여해, 10일 포스터 세션2에서 직접 논문 발표에 나선다.고해상도·장시간 비디오 생성으로 연구 흐름",
-   "publishedAt": 1788924993000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "래블업, 기술 컨퍼런스 ‘lab | up > /conf/6’ 개최…“AI산업 시대의 엔드투엔드”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215035",
-   "summary": "AI 인프라 관리 전문 래블업(대표 신정규)은 오는 29일 서울 삼성동 코엑스 3층 컨퍼런스룸에서 연례 기술 컨퍼런스 ‘lab | up > /conf/6’를 개최한다고 밝혔다.올해로 6회째를 맞는 컨퍼런스로 래블업의 AI 인프라 기술과 연구개발 성과를 공유하는 자리다. AI 업계의 기업 관계자와 개발자들이 기술적 과제와 해결 방안을 논의하기 위한 것이다. 2021년 온라인으로 처음 시작된 이후 매년 AI 산업의 주요 기술 변화에 맞춰 주제를 확장해 왔다.올해 컨퍼런스의 주제는 ‘Make AI Composable²(AI를 조립 가능하",
-   "publishedAt": 1788924820000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "PFCT, 토스와 대안신용평가 모델 고도화 협력",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215031",
-   "summary": "PFCT(대표 이수환)는 '토스' 운영사 비바리퍼블리카와 금융 기관의 대안신용평가 모형 고도화 및 컨설팅을 위한 전략적 업무협약(MOU)을 체결했다고 9일 밝혔다.양사는 금융 기관의 여신 업무가 리스크 관리에 집중되는 한계를 넘어 여신승인전략까지 지원하도록 AI·대안정보 기반 솔루션 서비스를 공동 추진한다.토스는 한국평가데이터(KoDATA)와 개발한 대안신용평가 스코어와 대안정보를 기반으로 금융회사별 특성에 맞춘 신용평가모형(CSS) 패키지를 개발하고, PFCT는 해당 패키지를 자체 AI 렌딩테크 솔루션 '에어팩'에 탑재한다.이를",
-   "publishedAt": 1788924474000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "팀네이버, 프랑스와 AI 팩토리·산업·콘텐츠 협업 비전 제시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215034",
-   "summary": "팀네이버가 이재명 대통령의 프랑스 순방을 계기로 프랑스 핵심 기업, 기관들과 AI 분야를 중심으로 한 다양한 비즈니스 협력 확대를 모색했다.최수연 네이버 대표와 김유원 네이버클라우드 대표는 대통령 프랑스 순방 기간 동안 프랑스 미디어·IT·에너지·모빌리티·금융 분야 대표 기업 CEO 등 참석자들과 만나 AI 협업 기회 발굴에 나섰다고 8일 밝혔다.특히, 인프라와 산업 특화 AI 및 콘텐츠 분야에서의 협력을 모색했다. 먼저, 최수연 대표는 8일(현지 시간) 진행된 한-프랑스 경제인 비즈니스 라운드 테이블에서 모두 발언을 통해 ▲글로벌",
-   "publishedAt": 1788924407000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, '스케치' 탑재한 '챗GPT 이미지 2.5' 공개…아레나 1위 석권",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215030",
-   "summary": "오픈AI가 AI 이미지 생성 기술의 속도와 정밀도를 한단계 끌어올리며 이미지 제작 경험을 확장했다. 여기에 사용자가 직접 그린 간단한 손그림을 AI에 전달해 원하는 이미지를 만들 수 있도록 하는 새로운 기능까지 추가하며 텍스트 중심의 이미지 생성 방식에서 한 단계 나아갔다. 오픈AI는 8일(현지시간) 이미지 생성 속도와 편집 정밀도를 크게 높인 새로운 이미지 생성 모델 ‘챗GPT 이미지 2.5(ChatGPT Images 2.5)’를 공개했다.특히 사용자가 직접 그린 간단한 그림을 이미지 생성의 참고 자료로 활용할 수 있는 ‘스케치(",
-   "publishedAt": 1788924206000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "AWS, 국내 우주·위성 스타트업 대상 엑셀러레이터 프로그램 실시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215029",
-   "summary": "아마존웹서비스(AWS)는 우주항공청(KASA), 메가존클라우드와 국내 우주·위성 스타트업을 지원하는 'AWS 스페이스 엑셀러레이터: 한국 2026'을 시작한다고 9일 밝혔다.2021년 출범해 6년째를 맞는 이번 프로그램은 4주간 진행되며, 선정 스타트업에는 최대 10만달러 상당의 클라우드 크레딧을 포함해 전문가 기술 멘토링, 우주산업 리더의 비즈니스 코칭, 벤처캐피탈 및 잠재 고객과의 네트워킹 기회가 제공된다.지원 대상은 위성 제조·운영, 지구관측, 발사체, 궤도 서비스, 우주 통신, 우주 분야 AI, 우주 소프트웨어 등이며, 프리",
-   "publishedAt": 1788923150000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "순천, 팔마문화제 12~13일 개최…효린 공연·최태성 토크콘서트",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215028",
-   "summary": "AI 생성 영상순천 원도심이 이번 주말 공연과 역사 체험, 전시를 한자리에서 즐기는 축제 공간으로 바뀐다. 가수 효린의 축하공연과 역사강사 최태성의 토크콘서트, 가족 미션투어, 갤러리 스탬프 투어 등이 이틀간 이어진다.순천시는 오는 12일부터 13일까지 남문터광장과 문화의 거리 일원에서 ‘제43회 순천팔마문화제’를 개최한다고 밝혔다.올해 문화제는 ‘팔마정신 : 울림에서 이음으로’를 주제로 청렴과 배려의 가치를 공연·전시·체험 콘텐츠로 풀어낸다. 지역예술인이 직접 무대에 오르고 시민 참여 프로그램을 확대하는 데 초점을 맞췄다.첫날인",
-   "publishedAt": 1788923054000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "목포 북항서 11일 ‘가을밤의 국악대향연’…판소리·검무·남도민요 한자리",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215020",
-   "summary": "AI 생성 영상목포 북항 노을공원에서 판소리와 가야금병창, 검무, 남도민요를 한자리에서 즐길 수 있는 야외 국악공연이 열린다.목포시립국악원은 오는 11일 오후 7시 북항 노을공원 야외무대에서 ‘제26회 가을밤의 국악대향연’을 개최한다고 9일 밝혔다.이번 공연은 기악과 민요, 판소리, 무용 등 국악의 여러 장르를 한 무대에서 선보이는 방식으로 구성된다.가야금병창 ‘야월삼경’을 비롯해 ‘군밤타령’ ‘옹헤야’가 무대에 오르고, 역동적인 검무와 목포의 풍경을 담은 신민요 ‘목포팔경’도 선보인다.판소리 춘향가 중 ‘동헌경사대목’과 창작무용",
-   "publishedAt": 1788923033000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "전남광주, 사회연대경제박람회 11일 개막…기업 60여곳 참여",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215019",
-   "summary": "AI 생성 영상전남광주지역 사회연대경제기업 60여곳이 참여하는 박람회가 오는 11일부터 13일까지 김대중컨벤션센터 야외광장에서 열린다. 지역 상품 판매와 체험뿐 아니라 추석선물전, 공공기관 우선구매 상담, 창업상담, 학술포럼 등이 함께 진행된다.전남광주통합특별시는 사흘간 ‘2026 전남광주통합특별시 사회연대경제박람회’를 개최한다고 9일 밝혔다.행사장은 판매·체험관과 유관기관 홍보관, 사회적기업 창업팀 홍보관, 이벤트 부스 등 모두 80개 부스로 구성된다. 이 가운데 전남광주지역 사회연대경제기업 60여곳이 참여해 제품과 서비스를 소개",
-   "publishedAt": 1788922953000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
+   "score": 32.8,
    "hot": false
   }
  ]
