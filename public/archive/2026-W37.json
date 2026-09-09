@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788957949045,
+ "updatedAt": 1788962127934,
  "week": "2026-W37",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 599,
-   "comments": 811,
+   "engagement": 613,
+   "comments": 834,
    "publishedAt": 1788914440000,
    "isAI": true,
-   "score": 60.9,
+   "score": 60.4,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 551,
-   "comments": 604,
+   "engagement": 566,
+   "comments": 621,
    "publishedAt": 1788895500000,
    "isAI": true,
-   "score": 57.2,
+   "score": 56.7,
    "hot": true
   },
   {
@@ -37,11 +37,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 688,
+   "engagement": 690,
    "comments": 233,
    "publishedAt": 1788876357000,
    "isAI": true,
-   "score": 56,
+   "score": 55.5,
+   "hot": true
+  },
+  {
+   "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+   "url": "https://news.ycombinator.com/item?id=49624603",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49624603",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 166,
+   "comments": 54,
+   "publishedAt": 1788952766000,
+   "isAI": true,
+   "score": 55.3,
+   "hot": true
+  },
+  {
+   "title": "Claude, change the \"Add to Cart\" button to blue",
+   "url": "https://opusfived.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49623754",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 185,
+   "comments": 59,
+   "publishedAt": 1788946786000,
+   "isAI": true,
+   "score": 55.3,
    "hot": true
   },
   {
@@ -51,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 397,
-   "comments": 349,
+   "engagement": 423,
+   "comments": 364,
    "publishedAt": 1788901252000,
    "isAI": true,
-   "score": 55.4,
+   "score": 55.3,
    "hot": true
   },
   {
@@ -65,12 +93,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 127,
-   "comments": 116,
+   "engagement": 156,
+   "comments": 149,
    "publishedAt": 1788949541000,
    "isAI": true,
-   "score": 53,
-   "hot": false
+   "score": 54.2,
+   "hot": true
   },
   {
    "title": "Mistral raises €3B",
@@ -79,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 827,
-   "comments": 587,
+   "engagement": 831,
+   "comments": 588,
    "publishedAt": 1788843983000,
    "isAI": true,
-   "score": 53,
+   "score": 52.5,
    "hot": false
   },
   {
@@ -93,12 +121,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 380,
+   "engagement": 381,
    "comments": 65,
    "publishedAt": 1788874885000,
    "isAI": true,
-   "score": 51.3,
+   "score": 50.8,
+   "hot": false
+  },
+  {
+   "title": "AI의 수학적 돌파구는 어떻게 논란을 촉발했나",
+   "url": "https://news.hada.io/topic?id=33440",
+   "summary": "AI의 수학적 돌파구는 어떻게 논란을 촉발했나",
+   "publishedAt": 1788960898000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.8,
    "hot": true
+  },
+  {
+   "title": "Show GN: bitcoin-rs - ai 로 만든 bitcoin full node",
+   "url": "https://news.hada.io/topic?id=33439",
+   "summary": "핵심 요점 bitcoin-rs 는 Bitcoin Core를 Rust로 단순 재구현하는 프로젝트가 아니라, Bitcoin의 합의 규칙은 유지하면서 노드 아키텍처를 새롭게 설계하는 독립 구현체 임. AI 발전으로 소규모 팀도 복잡한 시스템 소프트웨어를 빠르게 구현하고 반복적으로 실...",
+   "publishedAt": 1788959228000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
+  },
+  {
+   "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+   "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49622561",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 106,
+   "comments": 82,
+   "publishedAt": 1788938566000,
+   "isAI": true,
+   "score": 49.1,
+   "hot": false
   },
   {
    "title": "Show HN: LLM 어텐션 시각화",
@@ -111,7 +181,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.3,
+   "hot": true
+  },
+  {
+   "title": "LLM은 기존 편견을 답습하는 데 그치지 않고, 경험에서 새로운 편향을 만들어냄",
+   "url": "https://news.hada.io/topic?id=33434",
+   "summary": "가상 채용 실험에서 능력 차이가 없는 집단을 서로 다른 직군에 몰아 배치 하는 편향이 나타남 초기의 우연한 성공을 반복 활용하면서, 다른 집단을 충분히 시험하지 않는 과정 이 편향을 굳힘 실험한 모델군에서는 새롭고 큰 모델일수록 집단별 배치가 더 ...",
+   "publishedAt": 1788950028000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -125,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -139,7 +223,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.6,
+   "hot": true
+  },
+  {
+   "title": "OpenAI fought dirty on career-making math problem",
+   "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49615926",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 165,
+   "comments": 60,
+   "publishedAt": 1788896833000,
+   "isAI": true,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -153,36 +251,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.2,
    "hot": true
-  },
-  {
-   "title": "OpenAI fought dirty on career-making math problem",
-   "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49615926",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 164,
-   "comments": 60,
-   "publishedAt": 1788896833000,
-   "isAI": true,
-   "score": 47.7,
-   "hot": true
-  },
-  {
-   "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-   "url": "https://openai.com/index/codex-quantum-computing-experiments",
-   "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-   "publishedAt": 1788886800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 47.4,
-   "hot": false
   },
   {
    "title": "OpenAI, 수학 난제 해결 경쟁에서 부당한 수단을 썼다는 의혹",
@@ -195,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -209,8 +279,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
+  },
+  {
+   "title": "I advertise malicious software on Google Ads",
+   "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49624856",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 146,
+   "comments": 69,
+   "publishedAt": 1788954201000,
+   "isAI": false,
+   "score": 46.6,
+   "hot": false
   },
   {
    "title": "Show HN: LLM Attention Visualization",
@@ -223,7 +307,7 @@
    "comments": 25,
    "publishedAt": 1788886781000,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -237,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -251,7 +335,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.2,
    "hot": false
   },
   {
@@ -265,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -279,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 45,
    "hot": true
   },
   {
@@ -293,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.6,
    "hot": true
   },
   {
@@ -307,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.6,
    "hot": true
   },
   {
@@ -321,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -335,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.1,
    "hot": true
   },
   {
@@ -349,7 +433,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.4,
+   "score": 44,
    "hot": false
   },
   {
@@ -363,8 +447,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.2,
-   "hot": true
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "Funding grants for new research into AI and teen development",
@@ -377,7 +461,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -391,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -401,12 +485,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 552,
-   "comments": 230,
+   "engagement": 554,
+   "comments": 232,
    "publishedAt": 1788832643000,
    "isAI": false,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
+  },
+  {
+   "title": "“Tweet”과 새 로고, 퍼블릭 도메인에 들어간 것으로 보임",
+   "url": "https://news.hada.io/topic?id=33441",
+   "summary": "Twitter의 X 리브랜딩 이후 이어진 상표 분쟁에서 법원은 TWEET과 새 로고는 포기됐을 가능성이 높지만 , TWITTER 상표는 계속 사용되고 있다고 판단함 TWITTER 상표 유지 의 근거는 Apple App Store의 “X (formerly known as Twitter)” 문구로, 기존 Twitter와 현...",
+   "publishedAt": 1788961078000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.9,
+   "hot": true
   },
   {
    "title": "Flock이 원하는 탈출구 없는 촘촘한 감시 세계",
@@ -419,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.4,
    "hot": true
   },
   {
@@ -433,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -447,21 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
-   "hot": true
-  },
-  {
-   "title": "대규모 언어 모델은 적응적 탐색을 통해 새로운 사회적 편향을 형성함",
-   "url": "https://news.hada.io/topic?id=33434",
-   "summary": "대규모 언어 모델은 적응적 탐색을 통해 새로운 사회적 편향을 형성함",
-   "publishedAt": 1788950028000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -475,7 +559,20 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.3,
+   "hot": false
+  },
+  {
+   "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
+   "url": "https://huggingface.co/papers/2609.08183",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 219,
+   "summary": "Recursive self-improvement (RSI) requires a concrete mechanism through which an AI system observes its capabilities and converts that evidence into the next round of learning. We present NeoHorse-1, a family of agent-native models developed to explore this path through agentic post-training. Our sys",
+   "publishedAt": 1788811200000,
+   "isAI": true,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -489,7 +586,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -503,8 +600,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
+  },
+  {
+   "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+   "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+   "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+   "publishedAt": 1788958800000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.6,
+   "hot": false
+  },
+  {
+   "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+   "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+   "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+   "publishedAt": 1788958800000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.6,
+   "hot": false
   },
   {
    "title": "We have a year to fix security everywhere",
@@ -517,20 +642,7 @@
    "comments": 350,
    "publishedAt": 1788842890000,
    "isAI": false,
-   "score": 39.9,
-   "hot": false
-  },
-  {
-   "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
-   "url": "https://huggingface.co/papers/2609.08183",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 196,
-   "summary": "Recursive self-improvement (RSI) requires a concrete mechanism through which an AI system observes its capabilities and converts that evidence into the next round of learning. We present NeoHorse-1, a family of agent-native models developed to explore this path through agentic post-training. Our sys",
-   "publishedAt": 1788811200000,
-   "isAI": true,
-   "score": 39.7,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -544,7 +656,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -558,7 +670,7 @@
    "comments": 80,
    "publishedAt": 1788844823000,
    "isAI": true,
-   "score": 39.4,
+   "score": 39,
    "hot": false
   },
   {
@@ -572,7 +684,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -586,21 +698,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
-   "hot": true
-  },
-  {
-   "title": "방사성 물질을 이용하는 회전날개를 가진 헬리콥터",
-   "url": "https://news.hada.io/topic?id=33417",
-   "summary": "CH-53 Sea Stallion 은 회전날개의 미세 균열이 치명적인 파손으로 커지기 전에 감지하기 위해 방사성 물질을 활용한 IBIS 를 사용함 밀봉한 날개에 질소 가스 를 가압 충전하고, 균열로 압력이 떨어지면 표시기가 소량의 스트론튬-90",
-   "publishedAt": 1788931959000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -614,21 +712,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": false
   },
   {
-   "title": "Show GN: # Starpl(스타플) - 실제 별에 일상을 기록하는 SNS",
-   "url": "https://news.hada.io/topic?id=33415",
-   "summary": "‘Starpl : 나를 담는 별, 스타플’이라는 서비스를 만들고 있습니다. 천문 카탈로그에 기록된 실제 별 하나를 골라 내 공간으로 삼고, 하루를 글로 기록합니다. 지난 글은 타임라인에서 다시 읽고, 공개한 글은 별지도에서도 볼 수 있습니다. 별지도를 통해 다른 사람의 별에 들러 방명록을 남기거나 별친구를 맺을 ...",
-   "publishedAt": 1788929944000,
+   "title": "방사성 물질을 이용하는 회전날개를 가진 헬리콥터",
+   "url": "https://news.hada.io/topic?id=33417",
+   "summary": "CH-53 Sea Stallion 은 회전날개의 미세 균열이 치명적인 파손으로 커지기 전에 감지하기 위해 방사성 물질을 활용한 IBIS 를 사용함 밀봉한 날개에 질소 가스 를 가압 충전하고, 균열로 압력이 떨어지면 표시기가 소량의 스트론튬-90",
+   "publishedAt": 1788931959000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -642,35 +740,21 @@
    "comments": 433,
    "publishedAt": 1788695803000,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.3,
    "hot": false
   },
   {
-   "title": "Tesla, 정지 표지판 위반으로 남성 사망…Full Self-Driving/Autopilot 작동 확인",
-   "url": "https://news.hada.io/topic?id=33414",
-   "summary": "뉴저지 Buena Vista Township에서 Tesla Model 3가 좌회전하던 Honda Civic과 충돌해 82세 Stephen Field가 사망 했으며, Tesla의 연방정부 제출 기록에서 운전자 보조 시스템 작동이 확인 됨 Tesla는 사고기록장치(EDR)와 텔레매틱스 데이터 를 보유...",
-   "publishedAt": 1788929059000,
+   "title": "Show GN: # Starpl(스타플) - 실제 별에 일상을 기록하는 SNS",
+   "url": "https://news.hada.io/topic?id=33415",
+   "summary": "‘Starpl : 나를 담는 별, 스타플’이라는 서비스를 만들고 있습니다. 천문 카탈로그에 기록된 실제 별 하나를 골라 내 공간으로 삼고, 하루를 글로 기록합니다. 지난 글은 타임라인에서 다시 읽고, 공개한 글은 별지도에서도 볼 수 있습니다. 별지도를 통해 다른 사람의 별에 들러 방명록을 남기거나 별친구를 맺을 ...",
+   "publishedAt": 1788929944000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
-   "hot": true
-  },
-  {
-   "title": "Show HN: Stuxnet - 악명 높은 사이버 무기의 소스 코드 재구성",
-   "url": "https://news.hada.io/topic?id=33413",
-   "summary": "2010년 발견된 원본 바이너리의 역공학 분석을 바탕으로 Stuxnet 소스 코드를 재구성 한 저장소로, 원래 로직과 공격 경로를 가독성과 분석 중심으로 정리함 원본 Stuxnet은 Siemens Step 7과 S7 PLC 를 표적으로 삼아 PLC 블록 로직과 모터 주파수를 조작하고, 원심...",
-   "publishedAt": 1788928879000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -684,8 +768,36 @@
    "comments": 23,
    "publishedAt": 1788824262000,
    "isAI": false,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
+  },
+  {
+   "title": "Tesla, 정지 표지판 위반으로 남성 사망…Full Self-Driving/Autopilot 작동 확인",
+   "url": "https://news.hada.io/topic?id=33414",
+   "summary": "뉴저지 Buena Vista Township에서 Tesla Model 3가 좌회전하던 Honda Civic과 충돌해 82세 Stephen Field가 사망 했으며, Tesla의 연방정부 제출 기록에서 운전자 보조 시스템 작동이 확인 됨 Tesla는 사고기록장치(EDR)와 텔레매틱스 데이터 를 보유...",
+   "publishedAt": 1788929059000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.1,
+   "hot": true
+  },
+  {
+   "title": "Show HN: Stuxnet - 악명 높은 사이버 무기의 소스 코드 재구성",
+   "url": "https://news.hada.io/topic?id=33413",
+   "summary": "2010년 발견된 원본 바이너리의 역공학 분석을 바탕으로 Stuxnet 소스 코드를 재구성 한 저장소로, 원래 로직과 공격 경로를 가독성과 분석 중심으로 정리함 원본 Stuxnet은 Siemens Step 7과 S7 PLC 를 표적으로 삼아 PLC 블록 로직과 모터 주파수를 조작하고, 원심...",
+   "publishedAt": 1788928879000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.1,
+   "hot": true
   },
   {
    "title": "코딩 에이전트는 테스트와 검증 기법을 얼마나 잘 활용할까?",
@@ -698,7 +810,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -712,7 +824,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -726,7 +838,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -740,7 +852,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -754,7 +866,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -768,7 +880,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -782,7 +894,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -796,7 +908,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -810,7 +922,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -824,7 +936,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -838,8 +950,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "소변이 튀지 않는 소변기 (2025)",
@@ -852,8 +964,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Broadcom의 VDDK 다운로드 제거로 VMware를 떠나기가 더 어려워짐",
@@ -866,8 +978,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
+  },
+  {
+   "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
+   "url": "https://huggingface.co/papers/2609.08936",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 132,
+   "summary": "We introduce AuK, an open-source foundational model that unifies speech generation and editing through a common interface of natural-language instructions and audio context. To support this broad capability set, we construct approximately 3.03 billion instruction--audio instances and 1.95 million ho",
+   "publishedAt": 1788811200000,
+   "isAI": true,
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Show GN: routar - 백엔드 스펙 없이 프론트에서 API 스키마를 간편하게 관리하는 타입세이프 HTTP 클라이언트를 ...",
@@ -880,8 +1005,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "모든 곳의 보안을 바로잡을 시간은 1년뿐이다",
@@ -894,8 +1019,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "D2의 다이어그램 자동 배치 엔진 TALA, 오픈소스로 공개",
@@ -908,8 +1033,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "DHS ‘예측 치안’ 부서, 미국인의 금융 습관 분석",
@@ -922,8 +1047,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.6,
+   "hot": false
   },
   {
    "title": "Paramount, 약 167조원 합병 지지 여론 조성에 ‘위장 풀뿌리’ 단체 활용하다 적발",
@@ -936,8 +1061,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.6,
+   "hot": false
   },
   {
    "title": "fnprint - 실행 동작을 비교해 바이너리 속 함수를 식별하는 도구",
@@ -950,7 +1075,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -964,62 +1089,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "2026년 유럽 클라우드 제공업체의 현황",
-   "url": "https://news.hada.io/topic?id=33382",
-   "summary": "개인용 공개 서버를 찾으며 유럽 제공업체 12곳과 VPS가 없는 bunny.net을 살펴봤지만, 시간 단위 과금과 실제 이용 가능성 을 충족해 비교를 마친 곳은 Hetzner·UpCloud·Leafcloud·Exoscale 네 곳임 월 10유로·20유로 예산 에서 가격, 실제 CPU, Geekbench, 네트워크...",
-   "publishedAt": 1788913783000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "2026년, 비밀번호 관리자 전환하기",
-   "url": "https://news.hada.io/topic?id=33381",
-   "summary": "iPhone/iPad의 지원 앱끼리는 비밀번호·패스키·인증 코드·메모를 한꺼번에 이전 할 수 있어 비밀번호 관리자를 바꾸기 쉬워졌으며, 1Password에서 Apple Passwords로 100개 항목을 옮긴 사례도 있음 Credential Exchange Format 과 운영체제의 보안 전송 기능을 결합해...",
-   "publishedAt": 1788913602000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.9,
-   "hot": false
-  },
-  {
-   "title": "내 소프트웨어의 기본 라이선스를 MIT에서 EUPL로 바꿨다",
-   "url": "https://news.hada.io/topic?id=33380",
-   "summary": "28년간 소프트웨어를 공개하며 LGPLv2와 MIT를 사용해 왔으나, 올해부터 기본 라이선스를 EUPL-1.2 로 바꾸고 최근 공개한 소프트웨어에 적용함 전환의 동기는 허용적 라이선스 가 사용자·개발자의 이익보다 대기업의 개발 비용 절감과 부의 축적에 기여했다는 판단에...",
-   "publishedAt": 1788913422000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.9,
-   "hot": false
-  },
-  {
-   "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
-   "url": "https://huggingface.co/papers/2609.08936",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 121,
-   "summary": "We introduce AuK, an open-source foundational model that unifies speech generation and editing through a common interface of natural-language instructions and audio context. To support this broad capability set, we construct approximately 3.03 billion instruction--audio instances and 1.95 million ho",
-   "publishedAt": 1788811200000,
-   "isAI": true,
-   "score": 36.6,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -1033,7 +1103,7 @@
    "comments": 83,
    "publishedAt": 1788881989000,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -1047,7 +1117,7 @@
    "comments": 146,
    "publishedAt": 1788799232000,
    "isAI": true,
-   "score": 36,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1061,7 +1131,7 @@
    "comments": 1598,
    "publishedAt": 1788522893000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.6,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -1076,7 +1146,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1090,7 +1160,20 @@
    "comments": 202,
    "publishedAt": 1788781597000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
+   "hot": false
+  },
+  {
+   "title": "Omni Interaction Agent Technical Report",
+   "url": "https://huggingface.co/papers/2609.08977",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 88,
+   "summary": "In this work, we present Gander, an end-to-end model that unifies omni perception, realtime interaction, and agentic capabilities within a single framework. In contrast to turn-based conventional paradigms, Gander continuously receives streaming inputs across multiple modalities, including video, sp",
+   "publishedAt": 1788811200000,
+   "isAI": true,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1104,33 +1187,6 @@
    "comments": 286,
    "publishedAt": 1788759205000,
    "isAI": false,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "Omni Interaction Agent Technical Report",
-   "url": "https://huggingface.co/papers/2609.08977",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 83,
-   "summary": "In this work, we present Gander, an end-to-end model that unifies omni perception, realtime interaction, and agentic capabilities within a single framework. In contrast to turn-based conventional paradigms, Gander continuously receives streaming inputs across multiple modalities, including video, sp",
-   "publishedAt": 1788811200000,
-   "isAI": true,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "Hackers are stealing Claude tokens from subscribers",
-   "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-   "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-   "publishedAt": 1788901827000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
    "score": 34.1,
    "hot": false
   },
@@ -1145,7 +1201,7 @@
    "comments": 2076,
    "publishedAt": 1788460865000,
    "isAI": true,
-   "score": 34,
+   "score": 33.9,
    "hot": false,
    "lastWeekRank": 8
   },
@@ -1160,7 +1216,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "Hackers are stealing Claude tokens from subscribers",
+   "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+   "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+   "publishedAt": 1788901827000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+   "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+   "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announceme",
+   "publishedAt": 1788958800000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1174,21 +1258,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-   "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-   "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
-   "publishedAt": 1788951610000,
-   "source": "Ars Technica",
+   "title": "Students who use AI generally score worse at school",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+   "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to ",
+   "publishedAt": 1788955501000,
+   "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1199,10 +1283,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 563,
-   "comments": 360,
+   "comments": 361,
    "publishedAt": 1788703739000,
    "isAI": false,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1216,7 +1300,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1225,25 +1309,25 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 70,
+   "engagement": 71,
    "summary": "Weak-to-strong generalization asks whether stronger models can learn from weaker supervisors and surpass them. This question is particularly important for successive model generations and multi-domain consolidation, where repeating frontier-scale post-training from scratch can be prohibitively expen",
    "publishedAt": 1788811200000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false
   },
   {
-   "title": "클로드 유료 계정 토큰 탈취 잇달아…'인포스틸러' 주의보",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215037",
-   "summary": "'클로드' 유료 구독자들의 계정이 해킹돼 할당된 AI 토큰이 사용자의 동의 없이 소진되는 피해가 잇따르고 있다. 앤트로픽은 피해 원인으로 컴퓨터에 침투해 브라우저의 로그인 정보와 세션 데이터를 훔치는 ‘인포스틸러(Infostealer)’ 악성코드를 지목하고, 의심스러운 계정의 세션과 인증 권한을 무효화하는 등 대응에 나섰다.이번 사건은 한 피해 이용자가 온라인 커뮤니티에 자신의 사례를 올리면서 알려지기 시작했다. 독립 AI 컨설턴트로 활동하는 그랜트 드 스워트는 최근 레딧 게시글을 통해 자신의 월 200달러짜리 ‘클로드 맥스 20x",
-   "publishedAt": 1788948503000,
-   "source": "AI타임스",
+   "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+   "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+   "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+   "publishedAt": 1788951610000,
+   "source": "Ars Technica",
    "sourceType": "media",
-   "lang": "ko",
+   "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1257,7 +1341,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "클로드 유료 계정 토큰 탈취 잇달아…'인포스틸러' 주의보",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215037",
+   "summary": "'클로드' 유료 구독자들의 계정이 해킹돼 할당된 AI 토큰이 사용자의 동의 없이 소진되는 피해가 잇따르고 있다. 앤트로픽은 피해 원인으로 컴퓨터에 침투해 브라우저의 로그인 정보와 세션 데이터를 훔치는 ‘인포스틸러(Infostealer)’ 악성코드를 지목하고, 의심스러운 계정의 세션과 인증 권한을 무효화하는 등 대응에 나섰다.이번 사건은 한 피해 이용자가 온라인 커뮤니티에 자신의 사례를 올리면서 알려지기 시작했다. 독립 AI 컨설턴트로 활동하는 그랜트 드 스워트는 최근 레딧 게시글을 통해 자신의 월 200달러짜리 ‘클로드 맥스 20x",
+   "publishedAt": 1788948503000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1271,35 +1369,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-   "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-   "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-   "publishedAt": 1788888735000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "코난테크 \"AI ROI 체감 못하는 이유는...워크플로우·KPI 뜯어 고쳐야\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215067",
-   "summary": "기업들이 AI 도입 후 기대만큼의 투자수익률(ROI)을 거두지 못하는 원인은 기술 한계가 아닌 기존 업무 방식과의 불협화음 때문이라는 지적이 나왔다. 이를 해결하기 위해 단순 도구 활용을 넘어 AI 관측성과 에이전틱 워크플로우 구축, 조직 체계 및 핵심성과지표(KPI)의 근본적인 체감 전환이 필요하다는 제언이다.코난테크놀로지(대표 김영섬)는 9일 서울 양재동 엘타워에서 '제4회 코난 AI 서밋'을 열었다. 키노트 연사로 나선 양승현 코난테크놀로지 최고 운영책임자(COO)는 \"프론티어 AI 모델은 상향 평준화됐지만 막상 현장에서는 예",
-   "publishedAt": 1788946928000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1313,84 +1383,14 @@
    "comments": 193,
    "publishedAt": 1788707324000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
-   "title": "구글 크롬, 보안 환경 변화에 따라 업데이트 주기 2주로 단축",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215051",
-   "summary": "구글이 웹브라우저 ‘크롬(Chrome)’의 정식 버전 업데이트 주기를 기존 4주에서 2주로 단축했다. 새로운 기능과 성능 개선을 더 빠르게 제공하는 동시에 AI를 활용한 보안 위협과 급증하는 취약점에 신속하게 대응하기 위한 조치다. 구글은 8일(현지시간) 데스크톱과 안드로이드, iOS용 ‘크롬 153(Chrome 153)’ 출시를 시작으로 2주 단위의 새로운 업데이트 주기를 공식 적용한다고 밝혔다. 앞서 올해 초 크롬의 출시 주기를 4주에서 2주로 줄이겠다는 계획을 발표한 데 따른 것이다.크롬은 그동안 출시 주기를 지속적으로 단축해",
-   "publishedAt": 1788946366000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "OECD 경고 \"AI에 과제 맡긴 학생들, 성적 1.5년 치 떨어졌다\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215044",
-   "summary": "AI 챗봇을 학교 과제에 자주 사용하는 학생들이 AI를 거의 사용하지 않는 학생보다 시험 성적이 낮다는 조사 결과가 나왔다. OECD는 AI가 학생들의 학습을 돕는 유용한 도구가 될 수 있지만, 어려운 사고 과정을 AI에 맡기는 ‘인지적 외주화(cognitive offloading)’가 확대되면 오히려 학습 능력과 성취도를 떨어뜨릴 수 있다고 경고했다.8일(현지시간) OECD가 발표한 '국제 학업성취도평가(PISA) 2025' 결과에 따르면, 글쓰기 과제를 위해 AI를 거의 사용하지 않는 학생들의 과학 평균 점수는 509점으로 나타",
-   "publishedAt": 1788946027000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "인셉션, 초당 1107토큰 생성하는 ‘머큐리 2.5’ 공개...\"지능·비용 다 잡았다\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215057",
-   "summary": "확산 언어모델(Diffusion LLM)로 유명한 인셉션 랩스(Inception Labs) 기존 LLM의 약점으로 꼽혀온 느린 응답 속도와 높은 비용 문제를 개선한 새 모델을 선보였다.인셉션은 8일(현지시간) 생성 품질을 크게 높이면서도 초저지연·저비용 특성을 유지한 ‘머큐리 2.5(Mercury 2.5)’를 공개했다.머큐리 2.5가 현재까지 출시된 가장 뛰어나며 가장 큰 규모의 확산 LLM이라는 점을 강조했다. 이전 버전인 머큐리 2보다 지능 성능이 40% 향상됐다. 비용 효율성이 중요한 경량급 프론티어 모델 'GPT-5.6 루나",
-   "publishedAt": 1788945061000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "딥시크, 백엔드 엔지니어 대규모 채용...모델 개발서 '서비스 체제'로 확장",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215053",
-   "summary": "딥시크가 급증하는 사용자 수요와 AI 에이전트의 컴퓨팅 부담에 대응하기 위해 백엔드 시스템 전면 개편에 나서면서 150여명의 고급 백엔드 엔지니어를 대규모로 채용한다.사우스차이나모닝포스트에 따르면, 딥시크의 하네스 팀을 이끄는 추이톈이는 8일 소셜미디어를 통해 150명의 시니어급 백엔드 엔지니어를 모집하고 있다고 밝혔다.지난 3월 딥시크에 합류한 추이톈이는 과거 퀀트 트레이딩 분야에서 활동한 전문가로, AI 에이전트 기술과 관련된 하네스 개발을 담당하고 있다.이번 채용은 딥시크가 자체적으로도 '전례 없는' 규모라고 평가할 정도로 대",
-   "publishedAt": 1788943781000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "\"모든 DNA 변이 AI로 본다\"...구글 딥마인드, '알파게놈 아틀라스' 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215033",
-   "summary": "구글 딥마인드가 인간 게놈에서 발생할 수 있는 90억개의 단일 염기 변이(Single Nucleotide Variant)가 생명 활동에 미치는 영향을 AI로 예측한 대규모 데이터베이스를 공개했다. 모든 가능한 DNA 한 글자 변이를 분석해 유전자 발현과 질병 등에 미칠 수 있는 영향을 한눈에 확인할 수 있도록 한 것으로, 희귀질환 원인 규명과 신약 개발 등 생명과학 연구를 가속화할 수 있을 것으로 기대된다.구글 딥마인드는 8일(현지시간) ‘알파게놈 아틀라스(AlphaGenome Atlas)’를 통해 인간 게놈에서 가능한 약 90억개",
-   "publishedAt": 1788943766000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-   "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-   "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-   "publishedAt": 1788884431000,
+   "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+   "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+   "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+   "publishedAt": 1788888735000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
