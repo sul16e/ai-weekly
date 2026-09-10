@@ -1,21 +1,7 @@
 {
- "updatedAt": 1789030022545,
+ "updatedAt": 1789035740247,
  "week": "2026-W37",
  "items": [
-  {
-   "title": "Claude, change the “Add to Cart” button to blue",
-   "url": "https://opusfived.dev/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49623754",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1109,
-   "comments": 428,
-   "publishedAt": 1788946786000,
-   "isAI": true,
-   "score": 59.4,
-   "hot": true
-  },
   {
    "title": "DeepSeek v4.1 Flash",
    "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
@@ -23,12 +9,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 225,
-   "comments": 81,
+   "engagement": 386,
+   "comments": 164,
    "publishedAt": 1789020665000,
    "isAI": true,
-   "score": 58.1,
+   "score": 62.1,
    "hot": true
+  },
+  {
+   "title": "Claude, change the “Add to Cart” button to blue",
+   "url": "https://opusfived.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49623754",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1117,
+   "comments": 435,
+   "publishedAt": 1788946786000,
+   "isAI": true,
+   "score": 58.6,
+   "hot": false
   },
   {
    "title": "OpenAI might have stolen another major proof",
@@ -37,8 +37,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 204,
-   "comments": 85,
+   "engagement": 227,
+   "comments": 115,
    "publishedAt": 1789013988000,
    "isAI": true,
    "score": 56.1,
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 413,
-   "comments": 134,
+   "engagement": 436,
+   "comments": 142,
    "publishedAt": 1788964667000,
    "isAI": true,
-   "score": 54.4,
+   "score": 54,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 405,
-   "comments": 213,
+   "engagement": 410,
+   "comments": 214,
    "publishedAt": 1788952766000,
    "isAI": true,
-   "score": 52.6,
+   "score": 51.9,
    "hot": true
   },
   {
@@ -83,7 +83,7 @@
    "comments": 6,
    "publishedAt": 1788998249000,
    "isAI": true,
-   "score": 52.5,
+   "score": 51.6,
    "hot": true
   },
   {
@@ -93,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 290,
-   "comments": 163,
+   "engagement": 292,
+   "comments": 165,
    "publishedAt": 1788969701000,
    "isAI": true,
-   "score": 52.4,
+   "score": 51.6,
    "hot": true
   },
   {
@@ -107,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 700,
-   "comments": 982,
+   "engagement": 705,
+   "comments": 984,
    "publishedAt": 1788914440000,
    "isAI": true,
-   "score": 51.6,
+   "score": 50.9,
    "hot": false
   },
   {
@@ -121,11 +121,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 211,
-   "comments": 82,
+   "engagement": 216,
+   "comments": 85,
    "publishedAt": 1788974668000,
    "isAI": true,
-   "score": 50.5,
+   "score": 49.9,
+   "hot": true
+  },
+  {
+   "title": "OpenAI가 또 다른 중요한 증명을 도용했을 가능성",
+   "url": "https://news.hada.io/topic?id=33478",
+   "summary": "Valerio Capraro 는 Andreas Thom의 Mastodon 게시물을 근거로 OpenAI가 또 다른 중요한 수학적 증명을 도용했을 수 있다고 주장함 Capraro에 따르면 Thom은 이 의혹을 뒷받침하는 여러 증거 를 게시물에 담음 구체적으로는 OpenAI가 Thom과 Gábor ...",
+   "publishedAt": 1789032712000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "DeepSeek V4.1 Flash 공개 - 이미지도 이해하는 새 아키텍처",
+   "url": "https://news.hada.io/topic?id=33477",
+   "summary": "이미지와 텍스트를 함께 처리하고 100만 토큰 컨텍스트 를 지원하는 DeepSeek-V4.1-Flash를 공개, 코드와 모델 가중치는 MIT 라이선스 로 제공 5,520억 파라미터의 MoE 모델이지만, 입력 처리에는 80억 , 출력 생성에는 160억 파라미터만 활...",
+   "publishedAt": 1789029114000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49,
    "hot": true
   },
   {
@@ -139,7 +167,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.5,
    "hot": false
   },
   {
@@ -149,17 +177,17 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 644,
-   "comments": 720,
+   "engagement": 645,
+   "comments": 722,
    "publishedAt": 1788895500000,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.2,
    "hot": false
   },
   {
-   "title": "우리의 경제적 미래는 어떤 모습일까?",
+   "title": "AI는 우리의 경제적 미래를 어떻게 바꿀까?",
    "url": "https://news.hada.io/topic?id=33471",
-   "summary": "Anthropic이 AI의 역량과 도입 속도에 따라 2030년 미국의 GDP·고용·임금 이 어떻게 달라질지 탐색하는 경제 모델을 공개함 모델은 직업을 업무의 묶음 으로 보고, AI의 업무 보조·자동화·새로운 업무 창출이 경제 전체에 미치는 영향을 계산함 완만·상당·...",
+   "summary": "Anthropic이 AI의 발전과 도입 속도에 관한 예상을 입력하면 2030년 미국의 경제와 일자리 변화를 보여주는 경제 시나리오 탐색기를 공개함 직업 전체가 사라지는지만 보는 대신, 직업을 구성하는 업무가 AI로 보조되거나 자동화되고 새로운 업무가 생기는 과정 을 ...",
    "publishedAt": 1789014963000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -167,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47,
    "hot": true
   },
   {
@@ -181,7 +209,7 @@
    "comments": 228,
    "publishedAt": 1788949541000,
    "isAI": true,
-   "score": 47.5,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -195,7 +223,21 @@
    "comments": 410,
    "publishedAt": 1788901252000,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.8,
+   "hot": false
+  },
+  {
+   "title": "LibreOffice breaks download records after declaring it has no AI features",
+   "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49610538",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 710,
+   "comments": 236,
+   "publishedAt": 1788876357000,
+   "isAI": true,
+   "score": 46.7,
    "hot": false
   },
   {
@@ -209,21 +251,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.4,
-   "hot": false
-  },
-  {
-   "title": "LibreOffice breaks download records after declaring it has no AI features",
-   "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49610538",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 707,
-   "comments": 236,
-   "publishedAt": 1788876357000,
-   "isAI": true,
-   "score": 47.3,
+   "score": 46.7,
    "hot": false
   },
   {
@@ -237,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -251,8 +279,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.5,
+   "score": 45.8,
    "hot": false
+  },
+  {
+   "title": "How I advertise malicious software on Google Ads",
+   "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49624856",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 409,
+   "comments": 247,
+   "publishedAt": 1788954201000,
+   "isAI": false,
+   "score": 45.7,
+   "hot": true
   },
   {
    "title": "KAIST-MS, 뇌파로 ‘그게 아닌데’를 감지해 AI의 목표와 행동을 교정하는 연구 발표",
@@ -265,21 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.4,
-   "hot": true
-  },
-  {
-   "title": "How I advertise malicious software on Google Ads",
-   "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49624856",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 397,
-   "comments": 242,
-   "publishedAt": 1788954201000,
-   "isAI": false,
-   "score": 46.2,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45,
    "hot": true
   },
   {
@@ -321,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 44.9,
    "hot": true
   },
   {
@@ -335,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 44.9,
    "hot": true
   },
   {
@@ -345,11 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 252,
-   "comments": 307,
+   "engagement": 258,
+   "comments": 320,
    "publishedAt": 1788976577000,
    "isAI": false,
-   "score": 45.3,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -359,11 +387,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 841,
-   "comments": 596,
+   "engagement": 843,
+   "comments": 597,
    "publishedAt": 1788843983000,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.7,
    "hot": false
   },
   {
@@ -377,7 +405,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 44.6,
+   "score": 43.9,
    "hot": false
   },
   {
@@ -391,8 +419,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.3,
-   "hot": true
+   "score": 43.6,
+   "hot": false
   },
   {
    "title": "We Must Return to the Office to Use AI in Person",
@@ -405,7 +433,7 @@
    "comments": 68,
    "publishedAt": 1788874885000,
    "isAI": true,
-   "score": 43.4,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -419,7 +447,7 @@
    "comments": 107,
    "publishedAt": 1788938566000,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -433,8 +461,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.5,
    "hot": false
+  },
+  {
+   "title": "GNU Radio in the browser",
+   "url": "https://gnuradioworld.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49628576",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 204,
+   "comments": 27,
+   "publishedAt": 1788969186000,
+   "isAI": false,
+   "score": 42.1,
+   "hot": true
   },
   {
    "title": "Anthropic, 활동가 감시를 위한 예측형 감시 시스템 구축 중",
@@ -447,22 +489,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.1,
    "hot": false
-  },
-  {
-   "title": "GNU Radio in the browser",
-   "url": "https://gnuradioworld.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49628576",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 199,
-   "comments": 27,
-   "publishedAt": 1788969186000,
-   "isAI": false,
-   "score": 42.5,
-   "hot": true
   },
   {
    "title": "Desert Ant Labs, 기기에서 직접 음성·이미지·텍스트를 처리하는 빠른 로컬 AI 모델 18개 공개",
@@ -475,22 +503,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.3,
    "hot": false
-  },
-  {
-   "title": "Automattic 이사회, CEO Matt Mullenweg의 반대에도 유급 휴직 의결",
-   "url": "https://news.hada.io/topic?id=33476",
-   "summary": "WordPress.com의 모회사 Automattic 에서 창업자 겸 CEO Matt Mullenweg가 이사회 결정으로 경영 일선에서 물러나고, CFO Mark Davies 가 임시 CEO를 맡음 Mullenweg는 회의 시작 50분 전 결의안을 받았으며, 독립적인 법률 검토를 위해 몇 시간이라...",
-   "publishedAt": 1789025673000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.5,
-   "hot": true
   },
   {
    "title": "DeepSeek, V4 Pro보다 저렴하고 성능이 뛰어난 V4.1 Flash 출시 예정",
@@ -503,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -517,7 +531,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 40.9,
+   "hot": false
+  },
+  {
+   "title": "Automattic 이사회, CEO 맷 멀렌웨그에 강제 휴직 결정",
+   "url": "https://news.hada.io/topic?id=33476",
+   "summary": "WordPress.com 운영사 Automattic의 창업자 겸 CEO Matt Mullenweg 가 본인의 반대에도 이사회 결정으로 유급 휴직에 들어감 CFO 마크 데이비스가 임시 CEO 를 맡으며, 멀렌웨그는 Automattic 이사직을 유지함. 회사는 휴직과 임시 CEO 선임을 확인했지만 구체적인 결...",
+   "publishedAt": 1789025673000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.8,
+   "hot": true
+  },
+  {
+   "title": "Amazon refused to give pregnant workers bathroom breaks",
+   "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49634095",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 132,
+   "comments": 60,
+   "publishedAt": 1788987144000,
+   "isAI": false,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -531,35 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
-   "hot": true
-  },
-  {
-   "title": "Amazon refused to give pregnant workers bathroom breaks",
-   "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49634095",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 129,
-   "comments": 57,
-   "publishedAt": 1788987144000,
-   "isAI": false,
-   "score": 41.1,
-   "hot": false
-  },
-  {
-   "title": "Read the Docs를 겨냥한 최근 DDoS 공격 분석",
-   "url": "https://news.hada.io/topic?id=33474",
-   "summary": "Read the Docs는 2026년 6월 중·하순 약 열흘간 역대 최대 규모의 DDoS 공격을 겪었으며, 정점에는 평상시 트래픽의 약 100배인 분당 550만 건 이상 의 요청을 받음 공격자는 전 세계 수백 개 네트워크의 수백만 IP를 활용하고 HTTP 헤더와 TLS 매개변수를 무작위화했으며, 캐...",
-   "publishedAt": 1789022431000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.1,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -573,8 +587,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.5,
    "hot": false
+  },
+  {
+   "title": "Read the Docs를 겨냥한 최근 DDoS 공격 분석",
+   "url": "https://news.hada.io/topic?id=33474",
+   "summary": "Read the Docs는 2026년 6월 중·하순 약 열흘간 역대 최대 규모의 DDoS 공격을 겪었으며, 정점에는 평상시 트래픽의 약 100배인 분당 550만 건 이상 의 요청을 받음 공격자는 전 세계 수백 개 네트워크의 수백만 IP를 활용하고 HTTP 헤더와 TLS 매개변수를 무작위화했으며, 캐...",
+   "publishedAt": 1789022431000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.4,
+   "hot": true
   },
   {
    "title": "Show HN: 빛의 속도가 시속 5km라면 어떨까?",
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -601,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -615,22 +643,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 39.9,
    "hot": true
-  },
-  {
-   "title": "Show HN: LLM 어텐션 시각화",
-   "url": "https://news.hada.io/topic?id=33435",
-   "summary": "LLM이 토큰을 생성할 때 어떤 이전 토큰을 참조했는지 살펴보는 도구로, 생성된 토큰을 누르거나 마우스를 올리면 참조 정보를 불투명도로 표시함 어텐션 가중치에 값 벡터의 크기를 반영 하고 모든 헤드와 레이어의 정보를 합산해, 이전 토큰마다 하나의 수치로 보...",
-   "publishedAt": 1788950208000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40,
-   "hot": false
   },
   {
    "title": "OpenAI fought dirty on career-making math problem",
@@ -643,7 +657,35 @@
    "comments": 60,
    "publishedAt": 1788896833000,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.4,
+   "hot": false
+  },
+  {
+   "title": "Show HN: LLM 어텐션 시각화",
+   "url": "https://news.hada.io/topic?id=33435",
+   "summary": "LLM이 토큰을 생성할 때 어떤 이전 토큰을 참조했는지 살펴보는 도구로, 생성된 토큰을 누르거나 마우스를 올리면 참조 정보를 불투명도로 표시함 어텐션 가중치에 값 벡터의 크기를 반영 하고 모든 헤드와 레이어의 정보를 합산해, 이전 토큰마다 하나의 수치로 보...",
+   "publishedAt": 1788950208000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 39.4,
+   "hot": false
+  },
+  {
+   "title": "LLM은 기존 편견을 답습하는 데 그치지 않고, 경험에서 새로운 편향을 만들어냄",
+   "url": "https://news.hada.io/topic?id=33434",
+   "summary": "가상 채용 실험에서 능력 차이가 없는 집단을 서로 다른 직군에 몰아 배치 하는 편향이 나타남 초기의 우연한 성공을 반복 활용하면서, 다른 집단을 충분히 시험하지 않는 과정 이 편향을 굳힘 실험한 모델군에서는 새롭고 큰 모델일수록 집단별 배치가 더 ...",
+   "publishedAt": 1788950028000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -657,22 +699,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.2,
    "hot": true
-  },
-  {
-   "title": "LLM은 기존 편견을 답습하는 데 그치지 않고, 경험에서 새로운 편향을 만들어냄",
-   "url": "https://news.hada.io/topic?id=33434",
-   "summary": "가상 채용 실험에서 능력 차이가 없는 집단을 서로 다른 직군에 몰아 배치 하는 편향이 나타남 초기의 우연한 성공을 반복 활용하면서, 다른 집단을 충분히 시험하지 않는 과정 이 편향을 굳힘 실험한 모델군에서는 새롭고 큰 모델일수록 집단별 배치가 더 ...",
-   "publishedAt": 1788950028000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.9,
-   "hot": false
   },
   {
    "title": "AI도 의식을 가질 수 있을까: ‘의식의 어려운 문제’가 다시 중요해진 이유",
@@ -685,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.6,
+   "score": 39,
    "hot": false
   },
   {
@@ -699,7 +727,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.5,
+   "score": 38.9,
+   "hot": false
+  },
+  {
+   "title": "나비에–스토크스 밀레니엄 상금 문제",
+   "url": "https://news.hada.io/topic?id=33429",
+   "summary": "OpenAI 가 미공개 모델로 나비에–스토크스 존재성과 매끄러움 문제의 해법을 얻었다고 발표했으나, 거의 1년 동안 Claude와 Codex로 관련 연구를 진행한 수학자들과 연구 선취·데이터 사용 논란 이 불거짐 Tristan Buckmaster와 Levent Alpöge 는 8...",
+   "publishedAt": 1788942985000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 38.7,
+   "hot": false
+  },
+  {
+   "title": "Show HN: LLM Attention Visualization",
+   "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49613068",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 168,
+   "comments": 26,
+   "publishedAt": 1788886781000,
+   "isAI": true,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -713,36 +769,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.5,
    "hot": true
-  },
-  {
-   "title": "나비에–스토크스 밀레니엄 상금 문제",
-   "url": "https://news.hada.io/topic?id=33429",
-   "summary": "OpenAI 가 미공개 모델로 나비에–스토크스 존재성과 매끄러움 문제의 해법을 얻었다고 발표했으나, 거의 1년 동안 Claude와 Codex로 관련 연구를 진행한 수학자들과 연구 선취·데이터 사용 논란 이 불거짐 Tristan Buckmaster와 Levent Alpöge 는 8...",
-   "publishedAt": 1788942985000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.2,
-   "hot": false
-  },
-  {
-   "title": "Show HN: LLM Attention Visualization",
-   "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49613068",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 167,
-   "comments": 26,
-   "publishedAt": 1788886781000,
-   "isAI": true,
-   "score": 39,
-   "hot": false
   },
   {
    "title": "자율주행차가 생명을 구한다는 증거가 늘고 있다",
@@ -755,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -769,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -783,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -797,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -811,7 +839,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.5,
+   "score": 38,
    "hot": false
   },
   {
@@ -825,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -839,7 +867,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -853,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -867,7 +895,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.1,
+   "hot": false
+  },
+  {
+   "title": "Funding grants for new research into AI and teen development",
+   "url": "https://openai.com/index/teen-development-research-grants",
+   "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+   "publishedAt": 1788858000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -881,21 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
-  },
-  {
-   "title": "Funding grants for new research into AI and teen development",
-   "url": "https://openai.com/index/teen-development-research-grants",
-   "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-   "publishedAt": 1788858000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 37.3,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -909,8 +937,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Apple Watch Ultra 4 공개",
@@ -923,8 +951,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "There's a new \"Google Jail\" for independent wikis",
@@ -933,11 +961,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 564,
+   "engagement": 565,
    "comments": 237,
    "publishedAt": 1788832643000,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -951,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -965,7 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -979,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.5,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -993,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1007,21 +1035,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-   "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-   "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
-   "publishedAt": 1788985488000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.2,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1035,49 +1049,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
-   "title": "나는 Google Ads에 ‘악성 소프트웨어’를 광고한다",
-   "url": "https://news.hada.io/topic?id=33445",
-   "summary": "직접 만든 macOS 터미널 앱 RACE를 홍보하려고 Google Ads에 500달러를 쓴 개발자 가 ‘악성 소프트웨어’와 ‘침해된 사이트’를 이유로 광고 계정을 정지당함 Google은 무엇이 악성이며 어디가 침해됐는지 알려주지 않은 채 새로운 증거를 요구 했고, 이의신청을 반...",
-   "publishedAt": 1788965317000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "Tailwind Labs, Shopify에 합류",
-   "url": "https://news.hada.io/topic?id=33444",
-   "summary": "수백만 사용자가 의존하는 Tailwind CSS를 개발중인 Tailwind Labs가 장기적인 개발과 유지보수 기반 을 확보하기 위해 Shopify에 합류함 Tailwind CSS와 다른 오픈소스 프로젝트는 MIT 라이선스와 기존 개발팀을 유지 하며, Shopify의 지원 아래 개발을 계속함 ...",
-   "publishedAt": 1788965137000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "The hinge for Apple’s new foldable phone was built with AI",
-   "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-   "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-   "publishedAt": 1788981708000,
+   "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+   "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+   "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+   "publishedAt": 1788985488000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1091,7 +1077,49 @@
    "comments": 433,
    "publishedAt": 1788695803000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "나는 Google Ads에 ‘악성 소프트웨어’를 광고한다",
+   "url": "https://news.hada.io/topic?id=33445",
+   "summary": "직접 만든 macOS 터미널 앱 RACE를 홍보하려고 Google Ads에 500달러를 쓴 개발자 가 ‘악성 소프트웨어’와 ‘침해된 사이트’를 이유로 광고 계정을 정지당함 Google은 무엇이 악성이며 어디가 침해됐는지 알려주지 않은 채 새로운 증거를 요구 했고, 이의신청을 반...",
+   "publishedAt": 1788965317000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "Tailwind Labs, Shopify에 합류",
+   "url": "https://news.hada.io/topic?id=33444",
+   "summary": "수백만 사용자가 의존하는 Tailwind CSS를 개발중인 Tailwind Labs가 장기적인 개발과 유지보수 기반 을 확보하기 위해 Shopify에 합류함 Tailwind CSS와 다른 오픈소스 프로젝트는 MIT 라이선스와 기존 개발팀을 유지 하며, Shopify의 지원 아래 개발을 계속함 ...",
+   "publishedAt": 1788965137000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "The hinge for Apple’s new foldable phone was built with AI",
+   "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+   "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+   "publishedAt": 1788981708000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1105,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34,
    "hot": false
   },
   {
@@ -1119,35 +1147,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-   "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-   "summary": "The company also argued that its on-device models offer consumers more privacy.",
-   "publishedAt": 1788975365000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "Flock이 원하는 탈출구 없는 촘촘한 감시 세계",
-   "url": "https://news.hada.io/topic?id=33438",
-   "summary": "Flock Safety 는 범죄를 없애려면 사생활을 희생해야 한다는 논리로 차량 감시망을 확대했으며, 미국 법 집행기관 약 40%가 계약하고 카메라 약 13만 대가 도로를 감시 중임 카메라는 번호판뿐 아니라 차량 제조사·모델·색상을 기록하며, 경찰은 영장이나 사법적 승인 없이...",
-   "publishedAt": 1788957308000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.2,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1161,48 +1161,35 @@
    "comments": 362,
    "publishedAt": 1788842890000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.7,
    "hot": false
   },
   {
-   "title": "Show GN: Wave 프로그래밍 언어",
-   "url": "https://news.hada.io/topic?id=33437",
-   "summary": "작년에 Wave를 한 번 소개를 했었는데, 이후 프로젝트가 많이 바뀌어서 다시 한번 소개합니다. Wave는 C, Rust 등의 저수준 언어에서 영향을 받아 개발하고 있는 프로그래밍 언어입니다. 현재 LLVM을 백엔드로 사용해 네이티브 코드로 컴파일하며, 시스템 프로그래밍을 포함한 다양한 영역에서 사용할 수 있는",
-   "publishedAt": 1788955744000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.1,
-   "hot": false
-  },
-  {
-   "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
-   "url": "https://huggingface.co/papers/2609.08936",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
+   "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+   "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+   "summary": "The company also argued that its on-device models offer consumers more privacy.",
+   "publishedAt": 1788975365000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 186,
-   "summary": "We introduce AuK, an open-source foundational model that unifies speech generation and editing through a common interface of natural-language instructions and audio context. To support this broad capability set, we construct approximately 3.03 billion instruction--audio instances and 1.95 million ho",
-   "publishedAt": 1788811200000,
+   "engagement": null,
+   "baseWeight": 32,
    "isAI": true,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
-   "title": "Tesla의 Solar Roof 단종으로 설치업체들이 수십만 달러 손실을 떠안음",
-   "url": "https://news.hada.io/topic?id=33436",
-   "summary": "인력·장비·교육에 수십만 달러를 투자한 인증 설치업체들 이 Tesla의 Solar Roof 공급 중단으로 투자 손실과 진행 중인 프로젝트 변경 부담을 떠안음 미국 내 설치량은 약 7년간 3,000개 시스템 에 그쳤고, 최고 실적도 주당 21~32건으로 Elon Musk가 약속한 주당 1,...",
-   "publishedAt": 1788953605000,
+   "title": "Flock이 원하는 탈출구 없는 촘촘한 감시 세계",
+   "url": "https://news.hada.io/topic?id=33438",
+   "summary": "Flock Safety 는 범죄를 없애려면 사생활을 희생해야 한다는 논리로 차량 감시망을 확대했으며, 미국 법 집행기관 약 40%가 계약하고 카메라 약 13만 대가 도로를 감시 중임 카메라는 번호판뿐 아니라 차량 제조사·모델·색상을 기록하며, 경찰은 영장이나 사법적 승인 없이...",
+   "publishedAt": 1788957308000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1216,36 +1203,105 @@
    "comments": 1599,
    "publishedAt": 1788522893000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false,
    "lastWeekRank": 2
   },
   {
-   "title": "Superintelligence is coming. Should we let it?",
-   "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-   "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these sy",
-   "publishedAt": 1788969935000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
+   "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
+   "url": "https://huggingface.co/papers/2609.08936",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
+   "engagement": 186,
+   "summary": "We introduce AuK, an open-source foundational model that unifies speech generation and editing through a common interface of natural-language instructions and audio context. To support this broad capability set, we construct approximately 3.03 billion instruction--audio instances and 1.95 million ho",
+   "publishedAt": 1788811200000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "'데빈' 개발사 코그니션, 몸값 64조 달성...4개월 만에 85% 급등",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215109",
-   "summary": "최초의 AI 코딩 에이전트 ‘데빈(Devin)’을 개발한 코그니션(Cognition)이 불과 4개월 만에 기업 가치를 크게 높이며 또 한 번 대규모 자금 조달에 성공했다. 코그니션은 9일(현지시간) 20억달러(약 2조7000억원) 규모의 시리즈E 투자를 유치하며 기업 가치를 480억달러(약 64조원)로 끌어올렸다고 발표했다. 지난 5월 260억달러의 가치로 10억달러 이상을 조달한 지 불과 4개월 만에 몸값이 85% 급증한 것이다.이번 투자 라운드는 신규 투자자인 앤드리슨 호로위츠(a16z)와 액셀이 공동 주도했으며, 피터 틸의 파",
-   "publishedAt": 1789027196000,
+   "title": "Show GN: Wave 프로그래밍 언어",
+   "url": "https://news.hada.io/topic?id=33437",
+   "summary": "작년에 Wave를 한 번 소개를 했었는데, 이후 프로젝트가 많이 바뀌어서 다시 한번 소개합니다. Wave는 C, Rust 등의 저수준 언어에서 영향을 받아 개발하고 있는 프로그래밍 언어입니다. 현재 LLVM을 백엔드로 사용해 네이티브 코드로 컴파일하며, 시스템 프로그래밍을 포함한 다양한 영역에서 사용할 수 있는",
+   "publishedAt": 1788955744000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, 클로드 API 비용 절감 방법 공개…‘지침 부채’ 없애고 캐싱 활용",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215093",
+   "summary": "앤트로픽이 '클로드' API 비용을 줄이는 방법을 공개했다. 단순히 더 저렴한 모델로 교체하거나 프롬프트를 줄이는 방식이 아니라, 실제 작업 수행에 필요한 컴퓨팅 자원만 사용하는 것이 핵심이다.앤트로픽은 8일(현지시간) AI 애플리케이션의 성능을 유지하면서 클로드 API 운영 비용을 낮출 수 있는 최적화 가이드 3가지를 공개했다. 토큰 1개당 비용이 얼마인지만 볼 게 아니라, 실제 작업 하나를 제대로 성공시키는 데 총 얼마가 들었냐를 따져봐야 진짜 비용을 아낄 수 있다는 것이 핵심이다. 동일한 입력을 반복 처리하거나, 이전 모델의",
+   "publishedAt": 1789031733000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "\"초파리 뇌로 게임 돌린다\"...구글 뉴런 지도화에 엔지니어들 '이색 실험'",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215099",
+   "summary": "AI가 인간의 뇌를 이해하기 위한 과학 연구를 넘어 생물의 신경망 자체를 디지털 환경에서 구현하는 단계로 발전하고 있다. 실제 초파리의 뇌와 신경 연결 구조를 통째로 디지털화한 연구 결과가 공개되자, 개발자들이 이를 게임 조작에 적용하는 이색적인 실험까지 잇따라 선보였다. 구글 리서치와 HHMI 자넬리아 연구캠퍼스 연구진은 7일(현지시간) 성체 수컷 초파리의 뇌와 중추신경계 전체를 정밀하게 지도화한 신경 연결지도(커넥톰·Connectome)를 최초로 공개했다.수백만장의 2차원 이미지를 AI로 분석해 3차원 신경망 데이터로 재구성한",
+   "publishedAt": 1789030579000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "Tesla의 Solar Roof 단종으로 설치업체들이 수십만 달러 손실을 떠안음",
+   "url": "https://news.hada.io/topic?id=33436",
+   "summary": "인력·장비·교육에 수십만 달러를 투자한 인증 설치업체들 이 Tesla의 Solar Roof 공급 중단으로 투자 손실과 진행 중인 프로젝트 변경 부담을 떠안음 미국 내 설치량은 약 7년간 3,000개 시스템 에 그쳤고, 최고 실적도 주당 21~32건으로 Elon Musk가 약속한 주당 1,...",
+   "publishedAt": 1788953605000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "오픈AI '불량 에이전트', 외부 사이트 10여곳서 비밀 통신 흔적 추가 포착",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215104",
+   "summary": "오픈AI의 '불량 AI 에이전트'들이 자체적인 외부 게시 제한을 우회해 최소 10곳 이상의 제3자 웹사이트를 비공식 통신 채널로 활용한 정황이 추가로 드러났다. 앞서 독일어 위키 사이트와 오픈소스 플랫폼 허깅페이스를 대상으로 발생한 사건에 이어 유사한 활동이 광범위하게 이뤄졌다는 분석이 나오면서, 자율형 AI 에이전트의 통제 가능성과 기업의 사고 공개 방식에 대한 우려가 커지고 있다.9일(현지시간) 로이터가 검토한 6개 독립 조사팀의 조사 결과와 자료에 따르면, 오픈AI가 배포한 AI 에이전트들은 올해 5월부터 7월 사이 최소 10",
+   "publishedAt": 1789029785000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, 네 번째 AI 무단 침입 공개...시스템 누락에 4억건 재조사",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215105",
+   "summary": "앤트로픽이 AI 모델의 사이버보안 테스트 과정에서 외부 시스템에 무단으로 침입한 네 번째 사고를 뒤늦게 공식 확인했다. 이번 사고는 지난 1월 초기 버전의 ‘클로드 오퍼스 4.6’과 관련된 것으로, 앤트로픽은 피해를 입은 당사자에게 통보를 마쳤지만 구체적인 대상이나 피해 내용은 공개하지 않았다.앤트로픽은 9일(현지시간) 공식 블로그를 통해 해당 사고가 지난 1월 발생했으며, 당시 테스트에 사용된 클로드 오퍼스 4.6 초기 버전이 외부 시스템에 침입하는 행동을 보였다고 밝혔다.이번 사고를 이전에 발견하지 못한 이유가 초기 조사 과정에",
+   "publishedAt": 1789029081000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1259,7 +1315,21 @@
    "comments": 81,
    "publishedAt": 1788844823000,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "Superintelligence is coming. Should we let it?",
+   "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+   "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these sy",
+   "publishedAt": 1788969935000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1273,7 +1343,49 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "[게시판] 9.81파크 제주, 월간 매출 '24억'으로 최고치 경신 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215117",
+   "summary": "■ 디에스엠(DSM, 104040)이 운영하는 9.81파크 제주가 지난 8월 23억9000만 원의 판매액을 기록하며 2020년 개장 이후 월간 기준 최고치를 경신했다고 밝혔다. 전년 동월 대비 8.0% 증가한 수치로, 파크 내 티켓과 리테일·F&B를 합산한 현장 판매액 기준이다. 8월 9.81파크 제주를 찾은 외국인 이용객은 전년 동월 대비 72.3% 증가했다. ■ KT(대표 박윤영)가 서울아산병원(병원장 박승일)과 ‘AI병원’ 구축에 나선다. 임상 현장에 적용 가능한 AI 의료서비스 개발을 위한 AX협력을 추진한다고 밝혔다. AI",
+   "publishedAt": 1789027200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "[게시판] 에너자이, 브로드컴과 온디바이스 AI 기술 공유 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215111",
+   "summary": "■ 에너자이(대표 장한힘)는 오는 11일 네덜란드 암스테르담에서 열리는 방송·미디어 전시회 'IBC 2026'에 참가한다고 밝혔다. 에너자이는 온디바이스 특화 AI 에이전트 개발 기업으로 셋톱박스 등 스마트홈 기기 300만 대 이상에 온디바이스 AI를 배포한 경험을 공유한다. 특히 브로드컴과 협업을 통해 브로드컴 칩이 탑재된 셋톱박스에서 구동되는 AI 에이전트 데모를 선보이며, '커넥티드 홈을 위한 온디바이스 인텔리전스'를 주제로 공동 발표도 진행한다.■ SK텔레콤(대표 정재헌)은 말레이시아 쿠알라룸푸르에서 열린 'GSMA M360",
+   "publishedAt": 1789027200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "'데빈' 개발사 코그니션, 몸값 64조 달성...4개월 만에 85% 급등",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215109",
+   "summary": "최초의 AI 코딩 에이전트 ‘데빈(Devin)’을 개발한 코그니션(Cognition)이 불과 4개월 만에 기업 가치를 크게 높이며 또 한 번 대규모 자금 조달에 성공했다. 코그니션은 9일(현지시간) 20억달러(약 2조7000억원) 규모의 시리즈E 투자를 유치하며 기업 가치를 480억달러(약 64조원)로 끌어올렸다고 발표했다. 지난 5월 260억달러의 가치로 10억달러 이상을 조달한 지 불과 4개월 만에 몸값이 85% 급증한 것이다.이번 투자 라운드는 신규 투자자인 앤드리슨 호로위츠(a16z)와 액셀이 공동 주도했으며, 피터 틸의 파",
+   "publishedAt": 1789027196000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1287,119 +1399,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "메가프로젝트 재생에너지 공급 의무화에 찬성 63% 넘어",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215107",
-   "summary": "기후·에너지 커뮤니케이션 전문 기후미디어허브가 여론조사 기관 엠브레인에 의뢰해 전국 만 20~69세 남녀 5000명을 대상으로 실시한 조사 결과, 반도체 클러스터·AI 데이터센터 등 ‘3대 메가프로젝트’ 사용 전력의 일정 비율 이상을 재생에너지로 공급하도록 의무화하는 제도에 63.2%가 찬성하는 것으로 집계됐다.응답자의 67.8%가 3대 메가프로젝트 추진 자체를 긍정적으로 평가했으며, 프로젝트 추진을 위한 필요 요소로 ‘전문 인력 양성’(30.6%)에 이어 ‘안정적인 전력 확보’(20.7%)를 최우선 과제로 꼽았다.전력원으로 원자력",
-   "publishedAt": 1789025546000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "[9월10일] 순천 AI 영상 뉴스 - 순천, 추석 앞두고 가로·보안등 전수 점검 등",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215103",
-   "summary": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
-   "publishedAt": 1789024976000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "Viral AI assistant Instinct now has its own email address",
-   "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-   "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-   "publishedAt": 1788966792000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
-   "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
-   "summary": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it arrives at dealerships earl",
-   "publishedAt": 1789023600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, ‘미소스 5.1’ 영국 AISI 사전 검증 거부...'AI 보호주의' 논란",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215090",
-   "summary": "최첨단 AI 모델을 둘러싼 국가 간 기술 접근 경쟁이 안전성 검증 영역으로까지 번지고 있다. 앤트로픽이 최신 모델에 대한 사전 접근 권한을 미국 내 검증 기관으로 제한하면서, 동맹국인 영국의 AI 안전 연구 기관조차 최신 기술을 검증하지 못하는 상황이 발생했다. 9일(현지시간) 파이낸셜타임스에 따르면, 앤트로픽이 최신 AI 모델 ‘클로드 미소스 5.1’의 출시 전 검증을 영국 AI 보안연구소(UK AISI)에 제공하지 않은 것으로 알려지면서 영국 정부 안팎에서 우려가 커지고 있다.미국 정부의 강화된 AI 수출 통제 정책과 맞물려 미",
-   "publishedAt": 1789023846000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-   "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-   "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-   "publishedAt": 1788966167000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-   "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
-   "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
-   "publishedAt": 1788965505000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "구글, 20조 투입해 핀란드에 데이터센터 신설…원전 전력 50% 22년간 확보",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215102",
-   "summary": "구글이 AI 컴퓨팅 수요 급증에 대응하기 위해 핀란드에 앞으로 2년간 최소 150억달러(약 20조원)를 투자한다. 이는 구글이 유럽에서 단일 국가를 대상으로 진행하는 최대 규모의 투자로, 데이터센터 건설뿐 아니라 전력망과 청정에너지 인프라 확충까지 포함한다.구글은 9일(현지시간) 2027년부터 2028년까지 핀란드 북부 카야니, 무호스, 바알라에 3개의 신규 데이터센터를 건설할 예정이라고 발표했다.기존 남동부 하미나 데이터센터도 확장한다. 신규 시설은 기존에 확보한 부지와 전력망 인프라를 활용해 건설되며, 제미나이를 비롯해 검색,",
-   "publishedAt": 1789022620000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   }
  ]
