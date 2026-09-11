@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789099592925,
+ "updatedAt": 1789103233474,
  "week": "2026-W37",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 948,
-   "comments": 530,
+   "engagement": 953,
+   "comments": 536,
    "publishedAt": 1789020665000,
    "isAI": true,
-   "score": 58.9,
+   "score": 58.4,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 738,
-   "comments": 679,
+   "engagement": 761,
+   "comments": 694,
    "publishedAt": 1789022983000,
    "isAI": true,
-   "score": 57.3,
+   "score": 57,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 440,
+   "engagement": 442,
    "comments": 178,
    "publishedAt": 1789047593000,
    "isAI": true,
-   "score": 57,
+   "score": 56.4,
    "hot": true
   },
   {
@@ -51,25 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 366,
-   "comments": 157,
+   "engagement": 383,
+   "comments": 162,
    "publishedAt": 1789054187000,
    "isAI": true,
-   "score": 56.5,
-   "hot": true
-  },
-  {
-   "title": "Rust is tier-1 language at Microsoft",
-   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49643546",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 633,
-   "comments": 359,
-   "publishedAt": 1789047556000,
-   "isAI": false,
-   "score": 53.1,
+   "score": 56.3,
    "hot": true
   },
   {
@@ -79,11 +65,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 176,
-   "comments": 106,
+   "engagement": 188,
+   "comments": 118,
    "publishedAt": 1789069402000,
    "isAI": true,
    "score": 52.6,
+   "hot": true
+  },
+  {
+   "title": "Rust is tier-1 language at Microsoft",
+   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49643546",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 636,
+   "comments": 366,
+   "publishedAt": 1789047556000,
+   "isAI": false,
+   "score": 52.6,
+   "hot": true
+  },
+  {
+   "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+   "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49650326",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 152,
+   "comments": 156,
+   "publishedAt": 1789075379000,
+   "isAI": true,
+   "score": 51.7,
    "hot": true
   },
   {
@@ -97,22 +111,8 @@
    "comments": 15,
    "publishedAt": 1789045634000,
    "isAI": true,
-   "score": 52.3,
+   "score": 51.7,
    "hot": true
-  },
-  {
-   "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
-   "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49650326",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 148,
-   "comments": 153,
-   "publishedAt": 1789075379000,
-   "isAI": true,
-   "score": 52,
-   "hot": false
   },
   {
    "title": "I have a theory that software drives people insane",
@@ -121,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 415,
-   "comments": 172,
+   "engagement": 422,
+   "comments": 176,
    "publishedAt": 1789056822000,
    "isAI": false,
-   "score": 50.9,
+   "score": 50.5,
    "hot": true
   },
   {
@@ -139,7 +139,7 @@
    "comments": 447,
    "publishedAt": 1788946786000,
    "isAI": true,
-   "score": 50.6,
+   "score": 50.2,
    "hot": false
   },
   {
@@ -153,8 +153,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 50.6,
+   "score": 50.1,
    "hot": false
+  },
+  {
+   "title": "OpenAI Agents API - Codex 기반 에이전트를 내 앱에 연결하기",
+   "url": "https://news.hada.io/topic?id=33516",
+   "summary": "애플리케이션에서 Codex의 에이전트 실행 기능을 API로 이용 할 수 있으며, OpenAI가 세션 관리, 작업 조율, 문맥 압축과 복구를 맡음 개발자가 도구와 실행 환경을 지정하면 에이전트가 코드 실행, 파일 편집, 외부 서비스 연결과 산출물 생성 을 수행함 같...",
+   "publishedAt": 1789097628000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.2,
+   "hot": true
   },
   {
    "title": "Google, Windows용 Gemini 앱 출시",
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.4,
+   "score": 48.8,
    "hot": true
   },
   {
@@ -177,12 +191,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 290,
+   "engagement": 291,
    "comments": 10,
    "publishedAt": 1789013988000,
    "isAI": true,
-   "score": 49,
-   "hot": true
+   "score": 48.5,
+   "hot": false
   },
   {
    "title": "OpenAI, 동시 청취·발화가 가능한 GPT‑Live‑1 API 출시",
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.6,
+   "score": 48,
    "hot": true
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 47.9,
    "hot": true
   },
   {
@@ -223,7 +237,7 @@
    "comments": 161,
    "publishedAt": 1788964667000,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.7,
    "hot": false
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.4,
    "hot": false
   },
   {
@@ -251,7 +265,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.4,
+   "hot": false
+  },
+  {
+   "title": "Detecting and countering misuse of AI: September 2026",
+   "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49647300",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 103,
+   "comments": 177,
+   "publishedAt": 1789061022000,
+   "isAI": true,
+   "score": 46.3,
    "hot": false
   },
   {
@@ -265,8 +293,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.3,
    "hot": true
+  },
+  {
+   "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+   "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49652105",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 150,
+   "comments": 111,
+   "publishedAt": 1789087361000,
+   "isAI": false,
+   "score": 45.7,
+   "hot": false
   },
   {
    "title": "What algorithm did Windows XP use to choose your initial user picture?",
@@ -275,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 343,
-   "comments": 171,
+   "engagement": 345,
+   "comments": 173,
    "publishedAt": 1789031054000,
    "isAI": false,
-   "score": 45.9,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -293,22 +335,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
-  },
-  {
-   "title": "Google will buy half the electricity of a nuclear power plant",
-   "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49652105",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 126,
-   "comments": 95,
-   "publishedAt": 1789087361000,
-   "isAI": false,
-   "score": 44.6,
-   "hot": false
   },
   {
    "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
@@ -321,7 +349,35 @@
    "comments": 217,
    "publishedAt": 1788952766000,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.2,
+   "hot": false
+  },
+  {
+   "title": "I resigned from Anthropic today",
+   "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49619227",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 724,
+   "comments": 1000,
+   "publishedAt": 1788914440000,
+   "isAI": true,
+   "score": 44.1,
+   "hot": false
+  },
+  {
+   "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+   "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49628704",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 308,
+   "comments": 175,
+   "publishedAt": 1788969701000,
+   "isAI": true,
+   "score": 44,
    "hot": false
   },
   {
@@ -335,35 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
-  },
-  {
-   "title": "I resigned from Anthropic today",
-   "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49619227",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 724,
-   "comments": 1000,
-   "publishedAt": 1788914440000,
-   "isAI": true,
-   "score": 44.4,
-   "hot": false
-  },
-  {
-   "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-   "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49628704",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 307,
-   "comments": 175,
-   "publishedAt": 1788969701000,
-   "isAI": true,
-   "score": 44.3,
+   "score": 44,
    "hot": false
   },
   {
@@ -377,7 +405,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 44.1,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -391,7 +419,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -405,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -419,7 +447,7 @@
    "comments": 8,
    "publishedAt": 1788998249000,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -433,8 +461,36 @@
    "comments": 93,
    "publishedAt": 1788974668000,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
+  },
+  {
+   "title": "Muse – Meta’s personal AI agent",
+   "url": "https://ai.meta.com/muse/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49615537",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 652,
+   "comments": 734,
+   "publishedAt": 1788895500000,
+   "isAI": true,
+   "score": 41.8,
+   "hot": false
+  },
+  {
+   "title": "WordPress는 누구의 것인가",
+   "url": "https://news.hada.io/article/who-owns-wordpress",
+   "summary": "2026년 9월 9일 Automattic 이사회가 창업자이자 CEO인 Matt Mullenweg를 강제로 유급 휴직 처리 했습니다. CFO였던 Mark Davies가 임시 CEO를 맡았고, Matt는 이사회에는 남지만 일상적인 경영에서는 물러납니다. 구체적인 이유는 공개되지 않았습니다.",
+   "publishedAt": 1789101506000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "모든 어른은 한때 어린이였지만, 그것을 기억하는 어른은 드물다",
@@ -447,21 +503,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
   },
   {
-   "title": "Muse – Meta’s personal AI agent",
-   "url": "https://ai.meta.com/muse/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49615537",
+   "title": "Show GN: tapl - Codex의 작업 이력과 기억을 관리하는 로컬 워크플로 도구",
+   "url": "https://news.hada.io/topic?id=33517",
+   "summary": "대화가 길어지거나 세션이 바뀌면 이전에 어떤 결정을 했는지, 어디까지 구현했는지, 무엇을 검증했는지 다시 확인해야 합니다. TAPL은 이 과정에서 반복되는 설명과 탐색을 줄이기 위해 요청·계획·작업·발견 사항·완료 이력을 저장소의 SQLite에 기록합니다. MCP와 hook으로 Codex에 연결되며, 설치 후에는",
+   "publishedAt": 1789100243000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
+  },
+  {
+   "title": "LibreOffice breaks download records after declaring it has no AI features",
+   "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49610538",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 652,
-   "comments": 733,
-   "publishedAt": 1788895500000,
+   "engagement": 711,
+   "comments": 237,
+   "publishedAt": 1788876357000,
    "isAI": true,
-   "score": 42.1,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -475,7 +545,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -489,49 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.3,
-   "hot": false
-  },
-  {
-   "title": "LibreOffice breaks download records after declaring it has no AI features",
-   "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49610538",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 711,
-   "comments": 237,
-   "publishedAt": 1788876357000,
-   "isAI": true,
-   "score": 41.1,
-   "hot": false
-  },
-  {
-   "title": "Xteink X4 Pro 리뷰",
-   "url": "https://news.hada.io/topic?id=33514",
-   "summary": "MagSafe로 휴대전화 뒷면에 붙이는 전자책 리더 로, 전용 독서 기기를 늘 휴대할 수 있어 실제 독서량을 늘리는 데 도움이 됐음 반응성 좋은 터치스크린과 밝기·색온도를 세밀하게 조절하는 프런트라이트 , 한 손 조작이 쉬운 페이지 버튼과 가벼운 무게가 장점임",
-   "publishedAt": 1789092099000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.1,
-   "hot": true
-  },
-  {
-   "title": "DeepSeek V4.1 Flash 공개 - 이미지도 이해하는 새 아키텍처",
-   "url": "https://news.hada.io/topic?id=33477",
-   "summary": "이미지와 텍스트를 함께 처리하고 100만 토큰 컨텍스트 를 지원하는 DeepSeek-V4.1-Flash를 공개, 코드와 모델 가중치는 MIT 라이선스 로 제공 5,520억 파라미터의 MoE 모델이지만, 입력 처리에는 80억 , 출력 생성에는 160억 파라미터만 활...",
-   "publishedAt": 1789029114000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -545,7 +573,7 @@
    "comments": 19,
    "publishedAt": 1789005851000,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -559,7 +587,35 @@
    "comments": 417,
    "publishedAt": 1788901252000,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.6,
+   "hot": false
+  },
+  {
+   "title": "Xteink X4 Pro 리뷰",
+   "url": "https://news.hada.io/topic?id=33514",
+   "summary": "MagSafe로 휴대전화 뒷면에 붙이는 전자책 리더 로, 전용 독서 기기를 늘 휴대할 수 있어 실제 독서량을 늘리는 데 도움이 됐음 반응성 좋은 터치스크린과 밝기·색온도를 세밀하게 조절하는 프런트라이트 , 한 손 조작이 쉬운 페이지 버튼과 가벼운 무게가 장점임",
+   "publishedAt": 1789092099000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.6,
+   "hot": true
+  },
+  {
+   "title": "DeepSeek V4.1 Flash 공개 - 이미지도 이해하는 새 아키텍처",
+   "url": "https://news.hada.io/topic?id=33477",
+   "summary": "이미지와 텍스트를 함께 처리하고 100만 토큰 컨텍스트 를 지원하는 DeepSeek-V4.1-Flash를 공개, 코드와 모델 가중치는 MIT 라이선스 로 제공 5,520억 파라미터의 MoE 모델이지만, 입력 처리에는 80억 , 출력 생성에는 160억 파라미터만 활...",
+   "publishedAt": 1789029114000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -573,7 +629,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.4,
+   "hot": true
+  },
+  {
+   "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
+   "url": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49641401",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 162,
+   "comments": 138,
+   "publishedAt": 1789036560000,
+   "isAI": false,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -587,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -601,21 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
-   "hot": true
-  },
-  {
-   "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
-   "url": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49641401",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 161,
-   "comments": 138,
-   "publishedAt": 1789036560000,
-   "isAI": false,
-   "score": 40.6,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -629,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -643,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -657,21 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
-   "hot": true
-  },
-  {
-   "title": "Multigres - Postgres의 수평 확장을 위한 오픈소스",
-   "url": "https://news.hada.io/topic?id=33505",
-   "summary": "MySQL을 여러 서버로 확장하는 Vitess의 접근을 Postgres에 적용해, 샤딩과 연결 풀링, 복제와 장애 전환을 함께 관리 하려는 프로젝트 별도의 호환 데이터베이스로 바꾸는 대신 실제 Postgres 앞에 쿼리 라우팅과 운영 계층 을 두는 구조 애플리케이션은 표...",
-   "publishedAt": 1789085942000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.3,
+   "score": 40,
    "hot": true
   },
   {
@@ -685,21 +727,21 @@
    "comments": 230,
    "publishedAt": 1788949541000,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.9,
    "hot": false
   },
   {
-   "title": "대화를 듣고 요약하는 Apple Watch, 녹음하지 않으면 괜찮을까?",
-   "url": "https://news.hada.io/topic?id=33503",
-   "summary": "Siri Recap 은 Apple Watch로 일상 대화를 듣고 나중에 기억을 되짚을 수 있는 요약을 만드는 기능으로, 올해 말 영어부터 베타 제공 예정임 사용자가 켜거나 시간/장소에 따라 작동하도록 설정하며, Apple에 따르면 원본 오디오를 녹음 파일로 남기지 않고 처리하고...",
-   "publishedAt": 1789083195000,
+   "title": "Multigres - Postgres의 수평 확장을 위한 오픈소스",
+   "url": "https://news.hada.io/topic?id=33505",
+   "summary": "MySQL을 여러 서버로 확장하는 Vitess의 접근을 Postgres에 적용해, 샤딩과 연결 풀링, 복제와 장애 전환을 함께 관리 하려는 프로젝트 별도의 호환 데이터베이스로 바꾸는 대신 실제 Postgres 앞에 쿼리 라우팅과 운영 계층 을 두는 구조 애플리케이션은 표...",
+   "publishedAt": 1789085942000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -713,8 +755,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.6,
    "hot": false
+  },
+  {
+   "title": "대화를 듣고 요약하는 Apple Watch, 녹음하지 않으면 괜찮을까?",
+   "url": "https://news.hada.io/topic?id=33503",
+   "summary": "Siri Recap 은 Apple Watch로 일상 대화를 듣고 나중에 기억을 되짚을 수 있는 요약을 만드는 기능으로, 올해 말 영어부터 베타 제공 예정임 사용자가 켜거나 시간/장소에 따라 작동하도록 설정하며, Apple에 따르면 원본 오디오를 녹음 파일로 남기지 않고 처리하고...",
+   "publishedAt": 1789083195000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.6,
+   "hot": true
   },
   {
    "title": "Mistral raises €3B",
@@ -727,8 +783,22 @@
    "comments": 599,
    "publishedAt": 1788843983000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.5,
    "hot": false
+  },
+  {
+   "title": "I think I hate the internet",
+   "url": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49639104",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 176,
+   "comments": 168,
+   "publishedAt": 1789020743000,
+   "isAI": false,
+   "score": 39.3,
+   "hot": true
   },
   {
    "title": "3 ways to prep for your next big race with Search",
@@ -741,22 +811,8 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
-  },
-  {
-   "title": "I think I hate the internet",
-   "url": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49639104",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 175,
-   "comments": 169,
-   "publishedAt": 1789020743000,
-   "isAI": false,
-   "score": 39.6,
-   "hot": true
   },
   {
    "title": "나는 인터넷이 싫은 것 같다",
@@ -769,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -783,22 +839,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
-  },
-  {
-   "title": "AI는 우리의 경제적 미래를 어떻게 바꿀까?",
-   "url": "https://news.hada.io/topic?id=33471",
-   "summary": "Anthropic이 AI의 발전과 도입 속도에 관한 예상을 입력하면 2030년 미국의 경제와 일자리 변화를 보여주는 경제 시나리오 탐색기를 공개함 직업 전체가 사라지는지만 보는 대신, 직업을 구성하는 업무가 AI로 보조되거나 자동화되고 새로운 업무가 생기는 과정 을 ...",
-   "publishedAt": 1789014963000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.5,
-   "hot": false
   },
   {
    "title": "How I advertise malicious software on Google Ads",
@@ -811,7 +853,35 @@
    "comments": 259,
    "publishedAt": 1788954201000,
    "isAI": false,
-   "score": 39.4,
+   "score": 39.1,
+   "hot": false
+  },
+  {
+   "title": "AI는 우리의 경제적 미래를 어떻게 바꿀까?",
+   "url": "https://news.hada.io/topic?id=33471",
+   "summary": "Anthropic이 AI의 발전과 도입 속도에 관한 예상을 입력하면 2030년 미국의 경제와 일자리 변화를 보여주는 경제 시나리오 탐색기를 공개함 직업 전체가 사라지는지만 보는 대신, 직업을 구성하는 업무가 AI로 보조되거나 자동화되고 새로운 업무가 생기는 과정 을 ...",
+   "publishedAt": 1789014963000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 39.1,
+   "hot": false
+  },
+  {
+   "title": "GPT-6 Astra: The next generation in intelligence for work",
+   "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+   "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+   "publishedAt": 1788951600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 39,
    "hot": false
   },
   {
@@ -825,22 +895,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
-  },
-  {
-   "title": "GPT-6 Astra: The next generation in intelligence for work",
-   "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-   "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-   "publishedAt": 1788951600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 39.3,
-   "hot": false
   },
   {
    "title": "누구도 당신의 커다란 케이블 상자를 가져가지 못하게 하라",
@@ -853,7 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -867,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -881,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -895,7 +951,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -909,7 +965,21 @@
    "comments": 374,
    "publishedAt": 1788976577000,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
+   "hot": false
+  },
+  {
+   "title": "KAIST-MS, 뇌파로 ‘그게 아닌데’를 감지해 AI의 목표와 행동을 교정하는 연구 발표",
+   "url": "https://news.hada.io/topic?id=33466",
+   "summary": "KAIST와 마이크로소프트연구소 아시아 공동연구진이 사람의 뇌파를 피드백으로 활용해 AI의 목표와 행동을 조정하는 신경 가치 정렬(NVA) 을 제안함 같은 행동에도 여러 목적이 있을 수 있다는 한계에 주목해, 겉으로 드러난 행동뿐 아니라 예상과 다른 결과나 상황을 마주했...",
+   "publishedAt": 1789004702000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -923,50 +993,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
-  },
-  {
-   "title": "KAIST-MS, 뇌파로 ‘그게 아닌데’를 감지해 AI의 목표와 행동을 교정하는 연구 발표",
-   "url": "https://news.hada.io/topic?id=33466",
-   "summary": "KAIST와 마이크로소프트연구소 아시아 공동연구진이 사람의 뇌파를 피드백으로 활용해 AI의 목표와 행동을 조정하는 신경 가치 정렬(NVA) 을 제안함 같은 행동에도 여러 목적이 있을 수 있다는 한계에 주목해, 겉으로 드러난 행동뿐 아니라 예상과 다른 결과나 상황을 마주했...",
-   "publishedAt": 1789004702000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.4,
-   "hot": false
-  },
-  {
-   "title": "Proliferate - 여러 코딩 에이전트를 병렬로 실행하는 오픈소스 AI IDE",
-   "url": "https://news.hada.io/topic?id=33463",
-   "summary": "Claude Code/Codex/OpenCode/Cursor/Grok에 서로 다른 작업을 맡기고, 진행 상황과 코드 변경을 한곳에서 확인 하는 데스크톱 IDE 작업마다 별도의 Git 브랜치와 작업 디렉터리(worktree)를 만들어, 에이전트들이 서로의 파일을 덮어쓰지 않고 동시에 작업 할 수 있음...",
-   "publishedAt": 1789000203000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38,
-   "hot": false
-  },
-  {
-   "title": "Addy Osmani, Google 떠나 Anthropic 합류",
-   "url": "https://news.hada.io/topic?id=33462",
-   "summary": "웹 성능과 소프트웨어 개발 관련 글로 널리 알려진 Addy Osmani가 9월 8일 Anthropic 합류를 발표 , Claude Code를 개발자들이 더 잘 사용할 수 있도록 개선하는 일을 맡는다고 밝힘 Google에서 14년 이상 근무 했으며, Chrome/DevTools/Lighthouse/Core Web Vitals의...",
-   "publishedAt": 1788999602000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38,
-   "hot": false
   },
   {
    "title": "We Must Return to the Office to Use AI in Person",
@@ -979,7 +1007,7 @@
    "comments": 68,
    "publishedAt": 1788874885000,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -993,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -1007,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -1021,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -1035,8 +1063,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Sony 웹사이트에서 디지털 게임을 ‘소유한다’고 표현한 사례 목록",
@@ -1049,8 +1077,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Rust, Microsoft의 Tier-1 언어로 자리 잡음",
@@ -1063,8 +1091,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
@@ -1077,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -1091,21 +1119,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.1,
-   "hot": false
-  },
-  {
-   "title": "Shopify, React Native에서 네이티브로 복귀",
-   "url": "https://news.hada.io/topic?id=33485",
-   "summary": "코딩 에이전트가 같은 기능을 iOS와 Android에 각각 구현하는 비용 을 크게 낮추면서, 모든 모바일 앱을 Swift와 Kotlin으로 전환하기로 함 React Native의 성능 문제가 아니라 코드를 공유해야 개발 비용을 줄일 수 있다는 전제가 달라진 것 이며, 플랫폼 기능과 공...",
-   "publishedAt": 1789054936000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.9,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -1119,7 +1133,21 @@
    "comments": 107,
    "publishedAt": 1788938566000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "Shopify, React Native에서 네이티브로 복귀",
+   "url": "https://news.hada.io/topic?id=33485",
+   "summary": "코딩 에이전트가 같은 기능을 iOS와 Android에 각각 구현하는 비용 을 크게 낮추면서, 모든 모바일 앱을 Swift와 Kotlin으로 전환하기로 함 React Native의 성능 문제가 아니라 코드를 공유해야 개발 비용을 줄일 수 있다는 전제가 달라진 것 이며, 플랫폼 기능과 공...",
+   "publishedAt": 1789054936000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -1133,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -1147,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1161,7 +1189,7 @@
    "comments": 33,
    "publishedAt": 1788969186000,
    "isAI": false,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -1175,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -1189,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1203,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1217,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1231,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1245,7 +1273,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1259,7 +1287,7 @@
    "comments": 66,
    "publishedAt": 1788987144000,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1273,7 +1301,7 @@
    "comments": 60,
    "publishedAt": 1788896833000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1287,35 +1315,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
-   "title": "async/await의 설계 공간 탐색",
-   "url": "https://news.hada.io/topic?id=33475",
-   "summary": "동시성 코드를 순차 코드처럼 작성하게 해주는 async/await 는 언어마다 실행 의미가 달라, 같은 백그라운드 로그 예제가 7개 런타임에서 4가지 출력 을 만듦 차이는 단순한 성능 문제가 아니라 관찰 가능한 동작을 바꾸는 설계 선택에서 발생하며, 연구는 이를 태스...",
-   "publishedAt": 1789023785000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, 중국 기업 '무단 증류' 폭로…\"프록시 타고 클로드 우회 복제\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215138",
-   "summary": "앤트로픽은 중국 AI 기업들이 '클로드'를 무단으로 활용해 핵심 기능을 복제하는'증류(distillation)' 공격을 벌였다고 주장했다. 특히 일부 기업은 제3자 프록시 네트워크와 가짜 계정을 이용해 접근 제한을 우회했으며, 자사 AI 서비스를 이용하는 실제 고객의 요청까지 클로드로 전달해 학습 자료로 활용한 정황이 확인됐다고 밝혔다.앤트로픽은 10일(현지시간) 9월 위협 인텔리전스 보고서를 통해 지난 2월 이후 중국 본토에 기반을 둔 AI 연구소들의 무단 증류 캠페인을 탐지·차단했다고 밝혔다.이에 따르면, 이들이 노린 것은 클로",
-   "publishedAt": 1789098324000,
+   "title": "오픈AI, 월가 겨냥한 '금융 특화 챗GPT' 공개...\"기업 분석부터 보고서 생성까지\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215141",
+   "summary": "오픈AI가 월스트리트 투자은행과 증권사의 신입 애널리스트나 은행원들이 담당해 온 기업 조사와 재무 분석, 투자 제안서 작성 등을 자동화하는 금융 특화 AI 서비스를 공개했다. 금융 데이터에 대한 직접적인 접근과 최신 AI 모델의 추론 능력을 결합해 금융권 기업용 시장을 본격적으로 공략한다는 전략이다.오픈AI는 10일(현지시간) 금융 서비스에 특화된 기업용 제품 '금융 서비스용 챗GPT(ChatGPT for Financial Services)'를 출시했다.이 제품은 기업용 AI 업무 환경인 '챗GPT 워크(ChatGPT Work)'를",
+   "publishedAt": 1789101643000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "젠슨 황, 내년 70% 성장 자신감…\"우리는 칩이 아니라 생태계를 판다\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215149",
+   "summary": "젠슨 황 엔비디아 CEO가 내년에도 70%에 달하는 기록적인 매출 성장을 자신했다. 경쟁업체들의 거센 추격과 AI 거품론 속에서도 이러한 압도적 성장을 확신하는 핵심은 '단순 칩 제조사'에서 'AI 생태계 통제자'로 진화한 사업 구조 때문이다.테크크런치와 비즈니스 인사이더 등에 따르면, 황 CEO는 10일(현지시간) 미국 샌프란시스코에서 열린 골드만삭스 컨퍼런스에 참석해 \"전년 대비 70% 성장이 가능하다고 확신한다\"라며 시장의 우려를 일축했다. 엔비디아가 이번 회계연도를 4000억달러(약 538조원)로 마감할 경우, 70% 성장은",
+   "publishedAt": 1789100816000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1329,7 +1357,21 @@
    "comments": 30,
    "publishedAt": 1788886781000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "async/await의 설계 공간 탐색",
+   "url": "https://news.hada.io/topic?id=33475",
+   "summary": "동시성 코드를 순차 코드처럼 작성하게 해주는 async/await 는 언어마다 실행 의미가 달라, 같은 백그라운드 로그 예제가 7개 런타임에서 4가지 출력 을 만듦 차이는 단순한 성능 문제가 아니라 관찰 가능한 동작을 바꾸는 설계 선택에서 발생하며, 연구는 이를 태스...",
+   "publishedAt": 1789023785000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1343,7 +1385,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1357,49 +1399,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "\"2조원 보상도 마다\"…스타 AI 연구원 앤드류 툴록, 앤트로픽 합류",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215133",
-   "summary": "지난해 메타가 최대 15억달러(약 2조원)에 달하는 파격적인 보상 패키지를 제시하며 영입했던 스타 AI 연구원 앤드류 툴록이 이직한 지 1년도 채 되지 않아 앤트로픽으로 다시 옮긴다.비즈니스 인사이더는 9일(현지시간) 앤트로픽 대변인을 인용, 툴록이 다음 주부터 합류해 AI 모델의 학습 과정과 사용자 응답 성능을 최적화하는 추론·성능 팀에서 일할 예정이라고 보도했다. 오랜 기간 대규모 AI 모델 개발에 참여한 경험을 바탕으로 앤트로픽의 모델 효율성과 추론 성능 향상에 집중할 것으로 알려졌다.툴록은 메타에서 11년간 근무한 뒤 202",
-   "publishedAt": 1789097402000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "\"스마트워치 없이도 수면 측정\"...비브레스트, '트랜슬립 AI' 앱 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215140",
-   "summary": "비브레스트(대표 하상우)는 AI 기반 수면 이상 측정 앱 '트랜슬립 AI'를 출시했다고 11일 밝혔다.트랜슬립 AI는 웨어러블 기기나 매트형 센서 없이 스마트폰만으로 수면 중 이상 신호를 기록·분석하는 앱이다. 스마트폰을 침대 주변에 두고 구동하면 코골이, 기침, 불규칙한 호흡 구간 등을 분석해 개선 방안을 제안하며, 주 단위 패턴 분석과 아침 컨디션 비교 기능도 제공한다.특히 코골이나 기침이 잦았던 구간은 녹음으로 다시 들을 수 있고, 수면 효율과 이상 신호별 발생 횟수·시간 등 정량 지표도 확인 가능하다. 녹음 파일은 서버로 전",
-   "publishedAt": 1789096860000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "웹 브라우저 벗어난 구글 '제미나이', 윈도우용 데스크톱 앱 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215128",
-   "summary": "구글이 AI 챗봇 '제미나이'의 윈도우용 데스크톱 앱을 출시하며 웹 브라우저 중심이었던 AI 사용 경험을 PC 운영체제 안으로 확장했다. 사용자는 작업 중인 애플리케이션을 벗어나지 않고도 제미나이를 호출해 문서 작성부터 정보 확인, 이미지·영상 생성까지 다양한 작업을 수행할 수 있게 됐다.구글은 10일(현지시간) 사용자가 기존 작업 환경을 벗어나지 않고 자주 사용하는 도구와 애플리케이션에서 제미나이를 손쉽게 활용할 수 있도록 윈도우용 제미나이 데스크톱 앱을 전 세계에 공식 출시했다고 밝혔다. 앞서 지난 4월 맥OS용 제미나이 앱을",
-   "publishedAt": 1789096718000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false
   }
  ]
