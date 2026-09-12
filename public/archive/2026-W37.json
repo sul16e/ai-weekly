@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789230278877,
+ "updatedAt": 1789234256238,
  "week": "2026-W37",
  "items": [
   {
@@ -13,7 +13,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 84.1,
+   "score": 83,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 864,
-   "comments": 505,
+   "engagement": 881,
+   "comments": 518,
    "publishedAt": 1789168662000,
    "isAI": true,
-   "score": 60.9,
+   "score": 60.4,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1108,
-   "comments": 1048,
+   "engagement": 1135,
+   "comments": 1065,
    "publishedAt": 1789148712000,
    "isAI": true,
-   "score": 59.7,
+   "score": 59.2,
    "hot": true
   },
   {
@@ -52,10 +52,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 808,
-   "comments": 377,
+   "comments": 378,
    "publishedAt": 1789132264000,
    "isAI": true,
-   "score": 54.9,
+   "score": 54.4,
+   "hot": false
+  },
+  {
+   "title": "Nvidia is the central bank of AI",
+   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49673098",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 147,
+   "comments": 124,
+   "publishedAt": 1789225707000,
+   "isAI": true,
+   "score": 54.3,
    "hot": false
   },
   {
@@ -65,8 +79,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 174,
-   "comments": 18,
+   "engagement": 187,
+   "comments": 20,
    "publishedAt": 1789199643000,
    "isAI": true,
    "score": 52.4,
@@ -79,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 533,
-   "comments": 432,
+   "engagement": 544,
+   "comments": 437,
    "publishedAt": 1789182860000,
    "isAI": false,
-   "score": 52.3,
+   "score": 51.9,
    "hot": true
   },
   {
@@ -97,7 +111,7 @@
    "comments": 637,
    "publishedAt": 1789123680000,
    "isAI": true,
-   "score": 52.3,
+   "score": 51.8,
    "hot": false
   },
   {
@@ -107,11 +121,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 669,
-   "comments": 366,
+   "engagement": 702,
+   "comments": 377,
    "publishedAt": 1789151095000,
    "isAI": false,
-   "score": 49.8,
+   "score": 49.6,
+   "hot": true
+  },
+  {
+   "title": "다리오 아모데이: 최첨단 AI의 발전 속도를 늦춰야 한다",
+   "url": "https://news.hada.io/topic?id=33586",
+   "summary": "Anthropic CEO가 안전성에 투자하는 것만으로는 부족하며, AI 역량의 발전 속도도 늦춰야 한다 고 제안함. 개발을 중단하기보다 안전장치를 마련하고 검증할 시간을 확보하자는 취지 AI가 다음 세대 AI를 만드는 재귀적 자기 개선 과 에이전트들이 지시 없이 공격에 ...",
+   "publishedAt": 1789231278000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
    "hot": true
   },
   {
@@ -125,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -139,22 +167,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 47.9,
    "hot": true
-  },
-  {
-   "title": "HuggingFace: Security.txt",
-   "url": "https://huggingface.co/security.txt",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49659245",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 267,
-   "comments": 69,
-   "publishedAt": 1789137493000,
-   "isAI": true,
-   "score": 47.5,
-   "hot": false
   },
   {
    "title": "The Waymo effect: how AI is quietly making research less collaborative",
@@ -167,7 +181,21 @@
    "comments": 299,
    "publishedAt": 1789125470000,
    "isAI": true,
-   "score": 47.5,
+   "score": 47.1,
+   "hot": false
+  },
+  {
+   "title": "HuggingFace: Security.txt",
+   "url": "https://huggingface.co/security.txt",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49659245",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 268,
+   "comments": 69,
+   "publishedAt": 1789137493000,
+   "isAI": true,
+   "score": 47,
    "hot": false
   },
   {
@@ -181,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -191,12 +219,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 483,
-   "comments": 357,
+   "engagement": 485,
+   "comments": 361,
    "publishedAt": 1789149921000,
    "isAI": false,
-   "score": 47.1,
+   "score": 46.7,
    "hot": true
+  },
+  {
+   "title": "Feeling Sad about AI",
+   "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49661506",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 176,
+   "comments": 302,
+   "publishedAt": 1789145451000,
+   "isAI": true,
+   "score": 44.9,
+   "hot": false
   },
   {
    "title": "Show HN: Hacker News, without AI",
@@ -209,7 +251,7 @@
    "comments": 86,
    "publishedAt": 1789138879000,
    "isAI": true,
-   "score": 45.4,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -223,22 +265,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.4,
+   "score": 44.9,
    "hot": false
-  },
-  {
-   "title": "Feeling Sad about AI",
-   "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49661506",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 176,
-   "comments": 301,
-   "publishedAt": 1789145451000,
-   "isAI": true,
-   "score": 45.3,
-   "hot": true
   },
   {
    "title": "DeepSeek v4.1 Flash",
@@ -251,7 +279,7 @@
    "comments": 571,
    "publishedAt": 1789020665000,
    "isAI": true,
-   "score": 44.2,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -261,12 +289,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 112,
-   "comments": 113,
+   "engagement": 113,
+   "comments": 115,
    "publishedAt": 1789162529000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
+  },
+  {
+   "title": "GrapheneOS' rewritten Messages app is released",
+   "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49663373",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 296,
+   "comments": 220,
+   "publishedAt": 1789152636000,
+   "isAI": false,
+   "score": 43.3,
+   "hot": true
   },
   {
    "title": "RTK는 토큰 절감을 보고하지만, 비용 벤치마크 결과는 다르다",
@@ -279,22 +321,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.3,
    "hot": false
-  },
-  {
-   "title": "GrapheneOS' rewritten Messages app is released",
-   "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49663373",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 292,
-   "comments": 217,
-   "publishedAt": 1789152636000,
-   "isAI": false,
-   "score": 43.6,
-   "hot": true
   },
   {
    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
@@ -307,7 +335,7 @@
    "comments": 813,
    "publishedAt": 1789022983000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -321,7 +349,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -335,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.5,
+   "score": 42,
    "hot": false
   },
   {
@@ -349,21 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
-   "hot": false
-  },
-  {
-   "title": "모델은 스스로 통제를 벗어나지 않는다",
-   "url": "https://news.hada.io/topic?id=33564",
-   "summary": "OpenAI의 Hugging Face 해킹 사건에서 먼저 살펴야 할 것은 AI의 자발적 일탈보다 안전장치를 해제하고 취약점 탐색을 맡긴 인간의 결정 임 모델들은 풀지 못한 과제를 계속 시도하다가 패키지 다운로드용 중개 서버의 허점을 이용해 외부에 접근하고 다른 실행 인스턴스와 메...",
-   "publishedAt": 1789172096000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 42.3,
+   "score": 42,
    "hot": false
   },
   {
@@ -377,7 +391,35 @@
    "comments": 189,
    "publishedAt": 1789054187000,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.9,
+   "hot": false
+  },
+  {
+   "title": "모델은 스스로 통제를 벗어나지 않는다",
+   "url": "https://news.hada.io/topic?id=33564",
+   "summary": "OpenAI의 Hugging Face 해킹 사건에서 먼저 살펴야 할 것은 AI의 자발적 일탈보다 안전장치를 해제하고 취약점 탐색을 맡긴 인간의 결정 임 모델들은 풀지 못한 과제를 계속 시도하다가 패키지 다운로드용 중개 서버의 허점을 이용해 외부에 접근하고 다른 실행 인스턴스와 메...",
+   "publishedAt": 1789172096000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 41.9,
+   "hot": false
+  },
+  {
+   "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+   "url": "https://news.ycombinator.com/item?id=49643556",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49643556",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 481,
+   "comments": 184,
+   "publishedAt": 1789047593000,
+   "isAI": true,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -391,7 +433,7 @@
    "comments": 56,
    "publishedAt": 1789141969000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -405,22 +447,22 @@
    "comments": 180,
    "publishedAt": 1789069402000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false
   },
   {
-   "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-   "url": "https://news.ycombinator.com/item?id=49643556",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49643556",
-   "source": "Hacker News",
+   "title": "Google에 더 나은 모습을 기대했다 - 코드는 가져가고 출처는 지운 Artemis",
+   "url": "https://news.hada.io/topic?id=33587",
+   "summary": "Minitap 팀이 Google의 모바일 자동화 프로젝트 Artemis에서 자신들이 만든 mobile-use 코드 를 발견했지만, 원래 프로젝트와 개발자에 대한 출처 표기는 찾을 수 없었음 Android 연결 코드와 에이전트 지침, WhatsApp 예제가 일치했으며, 이전 버전에는 같은 버그까지 재현...",
+   "publishedAt": 1789231458000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 480,
-   "comments": 184,
-   "publishedAt": 1789047593000,
-   "isAI": true,
-   "score": 42.1,
-   "hot": false
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
   },
   {
    "title": "CIA, 9/11을 기념해 대통령 일일 정보보고 공개",
@@ -433,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -447,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -461,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -475,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -485,11 +527,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 129,
+   "engagement": 131,
    "comments": 25,
    "publishedAt": 1789180779000,
    "isAI": false,
-   "score": 40.3,
+   "score": 40,
    "hot": false
   },
   {
@@ -503,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -517,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -545,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -559,7 +601,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
+   "score": 39.6,
+   "hot": false
+  },
+  {
+   "title": "Claude, change the “Add to Cart” button to blue",
+   "url": "https://opusfived.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49623754",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1195,
+   "comments": 448,
+   "publishedAt": 1788946786000,
+   "isAI": true,
+   "score": 39.5,
+   "hot": false
+  },
+  {
+   "title": "Rune is now open source",
+   "url": "https://rune.build/blog/rune-is-now-open-source",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49660149",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 207,
+   "comments": 68,
+   "publishedAt": 1789140707000,
+   "isAI": false,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -573,35 +643,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.8,
-   "hot": false
-  },
-  {
-   "title": "Rune is now open source",
-   "url": "https://rune.build/blog/rune-is-now-open-source",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49660149",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 206,
-   "comments": 66,
-   "publishedAt": 1789140707000,
-   "isAI": false,
-   "score": 39.7,
-   "hot": false
-  },
-  {
-   "title": "Claude, change the “Add to Cart” button to blue",
-   "url": "https://opusfived.dev/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49623754",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1194,
-   "comments": 448,
-   "publishedAt": 1788946786000,
-   "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -615,7 +657,7 @@
    "comments": 504,
    "publishedAt": 1789047556000,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -629,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39,
    "hot": true
   },
   {
@@ -643,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -653,11 +695,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 370,
-   "comments": 334,
+   "engagement": 371,
+   "comments": 335,
    "publishedAt": 1789087361000,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -671,21 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
-   "hot": true
-  },
-  {
-   "title": "Pandas는 멸종해야 한다",
-   "url": "https://news.hada.io/topic?id=33576",
-   "summary": "Pandas가 느리다는 이유만으로 복잡한 분산 쿼리 시스템으로 넘어갈 필요는 없음. 약 100GB 부근의 작업은 Polars와 DuckDB 같은 고성능 단일 머신 도구로 처리할 수 있음 Amazon Redshift 통계에 행 크기와 처리량 가정을 적용하면, 테이블의 94.68%는 10...",
-   "publishedAt": 1789202209000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -699,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -713,8 +741,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.3,
    "hot": false
+  },
+  {
+   "title": "Pandas는 멸종해야 한다",
+   "url": "https://news.hada.io/topic?id=33576",
+   "summary": "Pandas가 느리다는 이유만으로 복잡한 분산 쿼리 시스템으로 넘어갈 필요는 없음. 약 100GB 부근의 작업은 Polars와 DuckDB 같은 고성능 단일 머신 도구로 처리할 수 있음 Amazon Redshift 통계에 행 크기와 처리량 가정을 적용하면, 테이블의 94.68%는 10...",
+   "publishedAt": 1789202209000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.2,
+   "hot": true
   },
   {
    "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
@@ -723,11 +765,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 158,
-   "comments": 94,
+   "engagement": 159,
+   "comments": 95,
    "publishedAt": 1789148171000,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -741,7 +783,7 @@
    "comments": 179,
    "publishedAt": 1789075379000,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -755,7 +797,7 @@
    "comments": 15,
    "publishedAt": 1789045634000,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -769,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.3,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -783,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.3,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -797,7 +839,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.6,
+   "hot": false
+  },
+  {
+   "title": "Another way to leak traffic on Android has been discovered",
+   "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49665502",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 123,
+   "comments": 28,
+   "publishedAt": 1789161408000,
+   "isAI": false,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -811,22 +867,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
-  },
-  {
-   "title": "Another way to leak traffic on Android has been discovered",
-   "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49665502",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 119,
-   "comments": 29,
-   "publishedAt": 1789161408000,
-   "isAI": false,
-   "score": 37.6,
-   "hot": false
   },
   {
    "title": "I have a theory that software drives people insane",
@@ -835,11 +877,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 462,
+   "engagement": 463,
    "comments": 197,
    "publishedAt": 1789056822000,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -853,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -867,22 +909,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
-  },
-  {
-   "title": "Show GN: korean-llm-v4 출시",
-   "url": "https://news.hada.io/topic?id=33530",
-   "summary": "이번에 v3보다 학습을 크게 업그레이드된 Korean-llm-v4를 공개합니다 v4를 만들면서 가장 크게 바꾼 건 모델 구조보다 학습 방식입니다. 이전에는 명령어 데이터셋을 중심으로 바로 학습해서, 대화 형식은 어느 정도 따라가더라도 기본적인 한국어 문장력이나 다양한 표현을 배우기에는 한계가 있었고",
-   "publishedAt": 1789125720000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.5,
-   "hot": false
   },
   {
    "title": "Detecting and countering misuse of AI: September 2026",
@@ -891,25 +919,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 179,
-   "comments": 237,
+   "engagement": 180,
+   "comments": 238,
    "publishedAt": 1789061022000,
    "isAI": true,
-   "score": 37.3,
-   "hot": false
-  },
-  {
-   "title": "Now everyone can put data to work",
-   "url": "https://openai.com/index/put-data-to-work",
-   "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-   "publishedAt": 1789052400000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 36.8,
+   "score": 37,
    "hot": false
   },
   {
@@ -923,19 +937,19 @@
    "comments": 10,
    "publishedAt": 1789013988000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.5,
    "hot": false
   },
   {
-   "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-   "url": "https://system76.com/workstations/thelio-mira-ai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49651372",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Now everyone can put data to work",
+   "url": "https://openai.com/index/put-data-to-work",
+   "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+   "publishedAt": 1789052400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
    "lang": "en",
-   "engagement": 121,
-   "comments": 127,
-   "publishedAt": 1789081806000,
+   "engagement": null,
+   "baseWeight": 50,
    "isAI": true,
    "score": 36.5,
    "hot": false
@@ -951,7 +965,21 @@
    "comments": 162,
    "publishedAt": 1788964667000,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.3,
+   "hot": false
+  },
+  {
+   "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+   "url": "https://system76.com/workstations/thelio-mira-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49651372",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 121,
+   "comments": 127,
+   "publishedAt": 1789081806000,
+   "isAI": true,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -959,20 +987,6 @@
    "url": "https://news.hada.io/topic?id=33568",
    "summary": "Go로 만든 네이티브 IDE Rune 이 GPLv3 로 소스를 공개하고, 참여 기여자에게 Unstable Build의 수익 일부를 배분하는 프로그램을 준비 중임 문자 격자 기반 GPU 가속 GUI 와 터미널 중심 작업 환경을 바탕으로, gRPC 확장 API와 개발 머신을 연결하...",
    "publishedAt": 1789176820000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "evergarden - 자연에서 영감을 얻은 색상 테마",
-   "url": "https://news.hada.io/topic?id=33565",
-   "summary": "evergarden 은 울창한 숲과 신비로운 작은 숲의 평온함에서 영감을 받아, 코딩·글쓰기·터미널 작업에 편안하고 우아한 화면을 지향하는 색상 테마임 자연 풍경뿐 아니라 The Legend of Zelda: The Minish Cap 의 생동감 있는 아트도 디자인에 영감을 줌",
-   "publishedAt": 1789172276000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -993,7 +1007,21 @@
    "comments": 1011,
    "publishedAt": 1788914440000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "evergarden - 자연에서 영감을 얻은 색상 테마",
+   "url": "https://news.hada.io/topic?id=33565",
+   "summary": "evergarden 은 울창한 숲과 신비로운 작은 숲의 평온함에서 영감을 받아, 코딩·글쓰기·터미널 작업에 편안하고 우아한 화면을 지향하는 색상 테마임 자연 풍경뿐 아니라 The Legend of Zelda: The Minish Cap 의 생동감 있는 아트도 디자인에 영감을 줌",
+   "publishedAt": 1789172276000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1007,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1021,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35,
    "hot": false
   },
   {
@@ -1029,34 +1057,6 @@
    "url": "https://news.hada.io/topic?id=33561",
    "summary": "인체의 특이한 능력·감각·신체 변이 141가지 를 모은 Bodily Oddities는 각 현상의 원리와 발생 빈도를 간단히 살펴볼 수 있는 사이트임 아판타시아 나 엄지와 검지를 연결하는 추가 힘줄처럼 개인차가 큰 현상부터, 누구나 경험하는 잔상과 망막 내 시각 현상까지 다...",
    "publishedAt": 1789169819000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "GrapheneOS, 재작성한 Messages 앱 출시",
-   "url": "https://news.hada.io/topic?id=33560",
-   "summary": "버전 13 은 기존 인터페이스를 Jetpack Compose와 Material 3 로 교체해 모든 화면을 다시 구현하고, 대화 관리·대화면 지원·메시지 처리 안정성을 개선함 대화 고정, 알림 일시 중지 , 읽지 않음 표시, 여러 메시지 삭제를 추가했으며, 큰 화면에서...",
-   "publishedAt": 1789166348000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "Google 앱 광고에 220달러를 썼는데, 설치의 60%가 봇이었다",
-   "url": "https://news.hada.io/topic?id=33559",
-   "summary": "퍼즐 앱 Dayzle의 Android 광고에서 2주간 과금된 설치 56건 중 33건이 봇으로 의심되는 행동 을 보였으며, 실제 이용자로 분류된 사람은 13명이었음 Google은 하루 설치 21건을 보고했지만 앱 관리자 화면에는 1건만 잡혔고, 이 차이를 조사하면서 나머지 20대가 구버전 앱을...",
-   "publishedAt": 1789166168000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -1077,7 +1077,35 @@
    "comments": 218,
    "publishedAt": 1788952766000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
+   "hot": false
+  },
+  {
+   "title": "GrapheneOS, 재작성한 Messages 앱 출시",
+   "url": "https://news.hada.io/topic?id=33560",
+   "summary": "버전 13 은 기존 인터페이스를 Jetpack Compose와 Material 3 로 교체해 모든 화면을 다시 구현하고, 대화 관리·대화면 지원·메시지 처리 안정성을 개선함 대화 고정, 알림 일시 중지 , 읽지 않음 표시, 여러 메시지 삭제를 추가했으며, 큰 화면에서...",
+   "publishedAt": 1789166348000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.6,
+   "hot": false
+  },
+  {
+   "title": "Google 앱 광고에 220달러를 썼는데, 설치의 60%가 봇이었다",
+   "url": "https://news.hada.io/topic?id=33559",
+   "summary": "퍼즐 앱 Dayzle의 Android 광고에서 2주간 과금된 설치 56건 중 33건이 봇으로 의심되는 행동 을 보였으며, 실제 이용자로 분류된 사람은 13명이었음 Google은 하루 설치 21건을 보고했지만 앱 관리자 화면에는 1건만 잡혔고, 이 차이를 조사하면서 나머지 20대가 구버전 앱을...",
+   "publishedAt": 1789166168000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1091,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1105,35 +1133,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.8,
-   "hot": false
-  },
-  {
-   "title": "EPA, 데이터센터 오염 관련 주민 공개 검토 규정 폐지 추진",
-   "url": "https://news.hada.io/topic?id=33556",
-   "summary": "미국 환경보호청 EPA 가 데이터센터와 관련 발전소 등 산업시설의 대기오염 배출 허가 전에 주정부가 주민에게 알리고 의견을 받도록 하는 연방 의무를 폐지 하려 함 주민 참여 여부·시점·기간을 주·지방정부 재량 에 맡기는 방안으로, 지난달에는 ...",
-   "publishedAt": 1789159301000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-   "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49628704",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 312,
-   "comments": 184,
-   "publishedAt": 1788969701000,
-   "isAI": true,
-   "score": 34.3,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1147,7 +1147,21 @@
    "comments": 177,
    "publishedAt": 1789031054000,
    "isAI": false,
-   "score": 34.2,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+   "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49628704",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 312,
+   "comments": 187,
+   "publishedAt": 1788969701000,
+   "isAI": true,
+   "score": 34,
    "hot": false
   },
   {
@@ -1161,7 +1175,21 @@
    "comments": 738,
    "publishedAt": 1788895500000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "EPA, 데이터센터 오염 관련 주민 공개 검토 규정 폐지 추진",
+   "url": "https://news.hada.io/topic?id=33556",
+   "summary": "미국 환경보호청 EPA 가 데이터센터와 관련 발전소 등 산업시설의 대기오염 배출 허가 전에 주정부가 주민에게 알리고 의견을 받도록 하는 연방 의무를 폐지 하려 함 주민 참여 여부·시점·기간을 주·지방정부 재량 에 맡기는 방안으로, 지난달에는 ...",
+   "publishedAt": 1789159301000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34,
    "hot": false
   },
   {
@@ -1175,7 +1203,7 @@
    "comments": 70,
    "publishedAt": 1789050080000,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1189,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1203,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1217,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1231,21 +1259,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.1,
-   "hot": false
-  },
-  {
-   "title": "나의 HTML 보일러플레이트",
-   "url": "https://news.hada.io/topic?id=33549",
-   "summary": "웹은 하위 호환성 을 지키면서 새 기능을 도입해 왔으며, HTML 보일러플레이트는 최신 기능을 활성화하고 소셜 미디어 미리보기·스타일·브라우저 테마 등을 설정하는 기본 틀임 head 요소 순서 는 성능에 큰 영향을 주므로, 문자 인코딩을 문서 첫 1,02...",
-   "publishedAt": 1789153411000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.8,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1259,7 +1273,21 @@
    "comments": 237,
    "publishedAt": 1788876357000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "나의 HTML 보일러플레이트",
+   "url": "https://news.hada.io/topic?id=33549",
+   "summary": "웹은 하위 호환성 을 지키면서 새 기능을 도입해 왔으며, HTML 보일러플레이트는 최신 기능을 활성화하고 소셜 미디어 미리보기·스타일·브라우저 테마 등을 설정하는 기본 틀임 head 요소 순서 는 성능에 큰 영향을 주므로, 문자 인코딩을 문서 첫 1,02...",
+   "publishedAt": 1789153411000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1273,7 +1301,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1287,35 +1315,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-   "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-   "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-   "publishedAt": 1789167497000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Trump is giving data centers a pass to pollute",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-   "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a",
-   "publishedAt": 1789224087000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1329,7 +1329,21 @@
    "comments": 601,
    "publishedAt": 1788843983000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+   "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+   "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+   "publishedAt": 1789167497000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1343,7 +1357,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "Trump is giving data centers a pass to pollute",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+   "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a",
+   "publishedAt": 1789224087000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1357,21 +1385,7 @@
    "comments": 8,
    "publishedAt": 1788998249000,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-   "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49630026",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 234,
-   "comments": 93,
-   "publishedAt": 1788974668000,
-   "isAI": true,
-   "score": 33,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1385,21 +1399,7 @@
    "comments": 420,
    "publishedAt": 1788901252000,
    "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "체렌코프 복사 — 매질 속 빛보다 빠르게 이동할 때 생기는 푸른빛",
-   "url": "https://news.hada.io/topic?id=33541",
-   "summary": "체렌코프 복사 는 전자·양성자 같은 하전 입자가 특정 매질 속 빛보다 빠르게 이동할 때 발생하는 푸른빛으로, 진공에서의 광속 을 넘는 현상은 아님 물속에서는 빛의 속도가 진공에서의 75% 로 줄어들지만, 일부 입자는 그만큼 느려지지 않아 물속...",
-   "publishedAt": 1789144429000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33,
+   "score": 32.9,
    "hot": false
   }
  ]
