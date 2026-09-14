@@ -1941,7 +1941,15 @@
  },
  "Apple's Dimensional Drawings": {
   "ko": "애플의 제품 치수 도면",
-  "tldr": "애플이 제품 치수 정보를 담은 도면 자료를 공개한 것으로 보이는 게시물"
+  "tldr": "애플이 제품 치수 정보를 담은 도면 자료를 공개한 것으로 보이는 게시물",
+  "img": "https://developer.apple.com/news/images/og/accessories-og.jpg",
+  "hook": "애플 페이지에 등장한 미공개 기기명",
+  "detail": "Apple Developer 사이트의 액세서리 제조사용 '치수 도면(Dimensional Drawings)' 다운로드 페이지에 아직 공식 발표되지 않은 것으로 보이는 'MacBook Neo'라는 명칭이 목록에 두 차례 노출됐다. 이 페이지는 케이스·거치대 등 액세서리 제작사를 위해 Apple이 각 기기의 정확한 치수 도면을 PDF로 제공하는 공식 자료실이다. 현재 목록에는 iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, iPhone Air, iPad Pro 11/13형(M5), iPad Air(M4), AirPods Pro 3, Apple Watch SE 3·Series 11·Ultra 3 등 이미 출시된 최신 기기들이 포함돼 있다. 'MacBook Neo'는 이 목록에서 실제 출시 이력이 확인되지 않는 유일한 이름으로, 최신 기기 섹션 안에 다른 정식 출시 제품들과 나란히 배치돼 있다. 방송에서는 이 이름이 미공개 신제품의 노출인지, 페이지 오류나 placeholder인지 확정되지 않았다는 점을 명확히 짚어야 한다.",
+  "bullets": [
+   "Apple Developer의 '치수 도면' 다운로드 목록에 아직 공식 출시되지 않은 것으로 보이는 'MacBook Neo'라는 이름이 두 차례 등장함.",
+   "목록에는 iPhone 17/17 Pro/17 Pro Max, iPhone Air, iPad Pro(M5), AirPods Pro 3 등 최근 출시 기기들의 정식 치수 도면도 포함됨.",
+   "방송 전 체크: 'MacBook Neo'가 실제 신제품명인지, 페이지 오류·임시 코드네임인지 추가 확인 필요."
+  ]
  },
  "GNU Guix로 전환하기: 초보자의 시각": {
   "tldr": "10년 넘게 Arch Linux로 운영하던 홈 서버를 GNU Guix로 전환해, Git 기반 선언적 구성으로 시스템 상태를 관리하게 됐다는 사용기"
@@ -1951,5 +1959,29 @@
  },
  "Apple의 치수 도면 - 케이스와 액세서리를 만드는 사람들을 위한 설계 자료": {
   "tldr": "Apple이 케이스·액세서리 제작자를 위해 버튼·포트·카메라 위치와 모서리 곡면까지 담긴 기기별 정밀 치수 도면을 PDF로 공식 제공한다는 소식."
+ },
+ "Open-source AI and open models reading list": {
+  "img": "https://substackcdn.com/image/fetch/$s_!pdpS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
+  "ko": "오픈소스 AI·오픈 모델 완전정리 리딩 리스트",
+  "hook": "오픈 모델 논쟁 총정리 리딩리스트",
+  "tldr": "Nathan Lambert가 오픈 모델의 전략적 의미와 안전성 논쟁을 정리한 자료들을 추천 리딩 리스트로 공개했다.",
+  "detail": "AI 연구자 Nathan Lambert가 오픈소스 AI와 오픈 모델을 이해하기 위한 핵심 자료들을 모은 리딩 리스트를 공개했다. 정책·대중 대상 글쓰기를 준비하며 정리한 자료라고 밝혔으며, 2026년 9월 11일 게시 후 13일에 마지막으로 업데이트됐다. 리스트는 '기초' 섹션으로 시작해 오픈 모델이 무엇이고 기업들이 왜 이를 공개하는지, 비즈니스 전략과 어떤 관계인지를 다룬다. Mark Zuckerberg의 Llama 3 공개 발언, Bill Gurley의 오픈소스 전략 분석, Irene Solaiman의 '개방성의 그라데이션' 개념 등이 포함됐다. 오픈 모델이 향후 경제에서 폐쇄형 모델을 보완하는 역할을 할 것이라는 전망과, Thinking Machines Lab의 'A Safe Path to Open Weights' 등 안전성 확보 방안에 대한 논의도 다룬다. 최근 사례로는 Kimi K2와 GLM-5.2 등 중국의 강력한 오픈 웨이트 모델이 생태계에 미친 영향을 분석한 글도 포함됐다. Lambert는 댓글로 추천을 받아 리스트를 계속 업데이트하겠다고 밝혔다.",
+  "bullets": [
+   "Nathan Lambert가 정책·대중 대상 글을 준비하며 오픈 모델 관련 핵심 자료를 정리해 공개함.",
+   "리스트는 오픈소스 AI 전략, 개방성의 스펙트럼, 안전성 논쟁, 중국 오픈 모델(Kimi, GLM)의 영향까지 포괄함.",
+   "저자는 댓글로 추천작을 받아 리스트를 지속적으로 업데이트할 계획이라고 밝힘."
+  ]
+ },
+ "Show GN: 클라우드 낭비 계산기 - 비용 CSV를 브라우저 안에서만 분석해 확정 낭비를 찾아줍니다": {
+  "tldr": "AWS 등 클라우드 비용 CSV를 브라우저 안에서만 분석해 확정된 낭비 비용을 찾아주는 셀프 서비스 계산기 도구가 공개됐다."
+ },
+ "경험상 프로그래머들은 \"reduce\"를 좋아하지 않음": {
+  "tldr": "코드 리뷰 경험상 map·filter는 불만이 적지만 reduce는 가독성 문제로 자주 지적받는다는 의견이 제기됐다."
+ },
+ "JPEG XL에 반대하는 이유": {
+  "tldr": "JPEG XL이 웹 밖에서는 매력적이지만 웹에 필요한 손실 압축 효율과 디코딩 속도에서 AVIF보다 못해 브라우저 도입 명분이 부족하다는 주장이 제기됐다."
+ },
+ "Mullenweg, 이사회의 축출 시도 이후 CEO로 복귀": {
+  "tldr": "Automattic 이사회가 유급휴직 조치했던 Matt Mullenweg가 회장 겸 CEO로 공식 복귀했으나 애초 휴직 사유는 밝혀지지 않았다."
  }
 }
