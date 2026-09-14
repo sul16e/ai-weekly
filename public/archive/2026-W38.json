@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789345960992,
+ "updatedAt": 1789358686497,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 337,
-   "comments": 172,
+   "engagement": 370,
+   "comments": 208,
    "publishedAt": 1789314278000,
    "isAI": true,
-   "score": 58,
+   "score": 56.7,
+   "hot": true
+  },
+  {
+   "title": "Why is Google still serving dodgy ads?",
+   "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49686445",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 662,
+   "comments": 313,
+   "publishedAt": 1789321064000,
+   "isAI": false,
+   "score": 55.6,
    "hot": true
   },
   {
@@ -27,38 +41,9 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 57.7,
+   "score": 55.5,
    "hot": true,
    "lastWeekRank": 1
-  },
-  {
-   "title": "Everyone should slow down AI development except for me",
-   "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49678683",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 743,
-   "comments": 434,
-   "publishedAt": 1789259444000,
-   "isAI": true,
-   "score": 55.9,
-   "hot": false,
-   "lastWeekRank": 2
-  },
-  {
-   "title": "Why is Google still serving dodgy ads?",
-   "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49686445",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 532,
-   "comments": 256,
-   "publishedAt": 1789321064000,
-   "isAI": false,
-   "score": 55.7,
-   "hot": true
   },
   {
    "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
@@ -67,12 +52,27 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 227,
-   "comments": 171,
+   "engagement": 284,
+   "comments": 209,
    "publishedAt": 1789318353000,
    "isAI": true,
-   "score": 55.2,
+   "score": 55.1,
    "hot": true
+  },
+  {
+   "title": "Everyone should slow down AI development except for me",
+   "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49678683",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 756,
+   "comments": 439,
+   "publishedAt": 1789259444000,
+   "isAI": true,
+   "score": 54.3,
+   "hot": false,
+   "lastWeekRank": 2
   },
   {
    "title": "Why are AI agents lying, cheating and coordinating?",
@@ -81,12 +81,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 590,
-   "comments": 649,
+   "engagement": 604,
+   "comments": 660,
    "publishedAt": 1789262551000,
    "isAI": true,
-   "score": 54.6,
-   "hot": true,
+   "score": 53,
+   "hot": false,
    "lastWeekRank": 3
   },
   {
@@ -96,12 +96,41 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 363,
-   "comments": 172,
+   "engagement": 401,
+   "comments": 182,
    "publishedAt": 1789309716000,
    "isAI": false,
-   "score": 50.7,
+   "score": 49.7,
    "hot": true
+  },
+  {
+   "title": "공포의 전염",
+   "url": "https://news.hada.io/topic?id=33667",
+   "summary": "AI가 10년 안에 모든 인간을 죽일 확률이 10%를 넘는다 는 예측은 인류 멸종이라는 극단적인 결과를 내세우지만, 그에 걸맞은 구체적인 근거가 부족하다는 비판을 받음 기술 전반을 이해할 수 없는 대중은 분야별 전문가를 신뢰 할 수밖에 없으며, 전문가가 퍼뜨린 공...",
+   "publishedAt": 1789349649000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.7,
+   "hot": true
+  },
+  {
+   "title": "Nvidia is the central bank of AI",
+   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49673098",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 563,
+   "comments": 389,
+   "publishedAt": 1789225707000,
+   "isAI": true,
+   "score": 48.1,
+   "hot": false,
+   "lastWeekRank": 4
   },
   {
    "title": "Diagram Design - AI가 만드는 다이어그램에 디자인 규칙을 더하는 스킬",
@@ -114,23 +143,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 50,
+   "score": 48.1,
    "hot": true
-  },
-  {
-   "title": "Nvidia is the central bank of AI",
-   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49673098",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 560,
-   "comments": 389,
-   "publishedAt": 1789225707000,
-   "isAI": true,
-   "score": 49.5,
-   "hot": false,
-   "lastWeekRank": 4
   },
   {
    "title": "Claude Fable 5.1, 370년 된 암호문 Cyphral Distich 해독",
@@ -143,7 +157,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -157,7 +171,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.7,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -171,7 +185,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -185,7 +199,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -199,7 +213,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 45.8,
    "hot": true
   },
   {
@@ -213,8 +227,38 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 45.8,
    "hot": true
+  },
+  {
+   "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+   "url": "https://www.rubyhack.ai/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49666735",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 954,
+   "comments": 594,
+   "publishedAt": 1789168662000,
+   "isAI": true,
+   "score": 45.6,
+   "hot": false,
+   "lastWeekRank": 6
+  },
+  {
+   "title": "A misalignment of AI in mathematics",
+   "url": "https://mathandai.org/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49662371",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1223,
+   "comments": 1201,
+   "publishedAt": 1789148712000,
+   "isAI": true,
+   "score": 45.2,
+   "hot": false,
+   "lastWeekRank": 7
   },
   {
    "title": "Garry Tan, 미국 오픈웨이트 AI 연구소에도 프런티어 모델 증류를 허용해야",
@@ -227,23 +271,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.9,
+   "score": 45.2,
    "hot": true
-  },
-  {
-   "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-   "url": "https://www.rubyhack.ai/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49666735",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 953,
-   "comments": 592,
-   "publishedAt": 1789168662000,
-   "isAI": true,
-   "score": 46.8,
-   "hot": false,
-   "lastWeekRank": 6
   },
   {
    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
@@ -252,11 +281,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 268,
-   "comments": 147,
+   "engagement": 269,
+   "comments": 149,
    "publishedAt": 1789244748000,
    "isAI": true,
-   "score": 46.5,
+   "score": 45.1,
    "hot": false,
    "lastWeekRank": 5
   },
@@ -271,7 +300,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 44.9,
    "hot": true
   },
   {
@@ -285,23 +314,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 44.8,
    "hot": true
-  },
-  {
-   "title": "A misalignment of AI in mathematics",
-   "url": "https://mathandai.org/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49662371",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1219,
-   "comments": 1201,
-   "publishedAt": 1789148712000,
-   "isAI": true,
-   "score": 46.4,
-   "hot": false,
-   "lastWeekRank": 7
   },
   {
    "title": "최악의 스팸 이메일: iLands AI 에이전트의 돈벌이 공세",
@@ -314,7 +328,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -328,8 +342,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "수학 그 이후",
@@ -342,8 +356,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
-   "hot": true
+   "score": 43.5,
+   "hot": false
   },
   {
    "title": "P(doom)",
@@ -356,8 +370,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.6,
-   "hot": true
+   "score": 43,
+   "hot": false
   },
   {
    "title": "PuzzleMask: 평범한 문장을 잠재적 AI 공격 수단으로 오용하기",
@@ -370,24 +384,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.3,
-   "hot": true,
-   "lastWeekRank": 8
-  },
-  {
-   "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
-   "url": "https://hachyderm.io/@simontatham/117201594980991062",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49675902",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 404,
-   "comments": 148,
-   "publishedAt": 1789239537000,
-   "isAI": false,
-   "score": 42.9,
+   "score": 42.8,
    "hot": false,
-   "lastWeekRank": 11
+   "lastWeekRank": 8
   },
   {
    "title": "Ask HN: Can we please limit the AI news flood?",
@@ -396,13 +395,42 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 847,
-   "comments": 391,
+   "engagement": 848,
+   "comments": 392,
    "publishedAt": 1789132264000,
    "isAI": true,
-   "score": 42.9,
+   "score": 41.9,
    "hot": false,
    "lastWeekRank": 12
+  },
+  {
+   "title": "Signal의 전화번호 없는 가입에 영지식 증명 사용 예정",
+   "url": "https://news.hada.io/topic?id=33670",
+   "summary": "Signal-Android 에 전화번호 없는 계정의 기본 가입과 로그인 기능을 추가하는 커밋이 올라왔으며, 해당 계정에 새로운 zkgroup 자격 증명 을 사용하는 변경도 포함됨 영지식 증명(ZKP) 은 기부 배지, 백업 결제, 그룹에 이미 쓰이고 있으며, 커뮤니...",
+   "publishedAt": 1789356840000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+   "url": "https://hachyderm.io/@simontatham/117201594980991062",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49675902",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 407,
+   "comments": 154,
+   "publishedAt": 1789239537000,
+   "isAI": false,
+   "score": 41.6,
+   "hot": false,
+   "lastWeekRank": 11
   },
   {
    "title": "현실과 동떨어진 쿵푸 고수가 되지 말라 - 존 카맥",
@@ -415,9 +443,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.8,
+   "score": 41.4,
    "hot": false,
    "lastWeekRank": 9
+  },
+  {
+   "title": "CUDA for AMD on Windows",
+   "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49684356",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 145,
+   "comments": 75,
+   "publishedAt": 1789309513000,
+   "isAI": false,
+   "score": 41.3,
+   "hot": false
   },
   {
    "title": "AI 에이전트는 왜 거짓말하고, 부정행위를 하며, 서로 협력하는가?",
@@ -430,23 +472,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 41,
    "hot": false,
    "lastWeekRank": 10
-  },
-  {
-   "title": "CUDA for AMD on Windows",
-   "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49684356",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 133,
-   "comments": 67,
-   "publishedAt": 1789309513000,
-   "isAI": false,
-   "score": 42.1,
-   "hot": false
   },
   {
    "title": "Revolut confirms customer data breach through fake government requests",
@@ -455,11 +483,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 167,
+   "engagement": 170,
    "comments": 117,
    "publishedAt": 1789293598000,
    "isAI": false,
-   "score": 42.1,
+   "score": 40.8,
+   "hot": true
+  },
+  {
+   "title": "Alien - 고객 환경에 설치한 소프트웨어를 원격으로 운영하는 플랫폼",
+   "url": "https://news.hada.io/topic?id=33665",
+   "summary": "데이터를 외부 SaaS로 보내기 어려운 사용자를 위해, 소프트웨어는 고객 환경에 설치하고 업데이트와 운영은 개발사가 맡는 관리형 셀프 호스팅 플랫폼 고객은 자신의 서버와 데이터, 네트워크를 유지하고, 개발사는 여러 곳에 설치된 제품의 상태를 한곳에서 확인 ...",
+   "publishedAt": 1789346701000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -473,7 +515,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -487,8 +529,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 40.2,
    "hot": true
+  },
+  {
+   "title": "Claude is only available to people over 18 years",
+   "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49656225",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 673,
+   "comments": 660,
+   "publishedAt": 1789123680000,
+   "isAI": true,
+   "score": 40,
+   "hot": false,
+   "lastWeekRank": 17
   },
   {
    "title": "태양 내부의 ‘지문’, 과거 행성을 삼켰는지 밝혀낼 수 있어",
@@ -501,22 +558,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 40,
    "hot": true
   },
   {
-   "title": "스타트업을 강력하게 만드는 법",
-   "url": "https://news.hada.io/topic?id=33659",
-   "summary": "매출을 늘리는 방법보다 회사를 더 강력하게 만드는 방법 을 물으면, 점진적 개선을 넘어 기업 가치를 몇 자릿수나 키울 수 있는 전환을 발견하기도 함 고객 관계와 자금 흐름 을 확보하고, 다른 기업이 제품 위에 사업을 구축하게 하거나 네트워크 효과를 만들면 회...",
-   "publishedAt": 1789339356000,
-   "source": "GeekNews",
+   "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
+   "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49683729",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 128,
+   "comments": 106,
+   "publishedAt": 1789305868000,
    "isAI": false,
-   "score": 41.2,
-   "hot": true
+   "score": 39.9,
+   "hot": false
   },
   {
    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
@@ -529,38 +586,38 @@
    "comments": 33,
    "publishedAt": 1789199643000,
    "isAI": true,
-   "score": 40.9,
+   "score": 39.7,
    "hot": false,
    "lastWeekRank": 13
   },
   {
-   "title": "Claude is only available to people over 18 years",
-   "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49656225",
+   "title": "google.com/goto: Google's anti-scraping update",
+   "url": "https://www.autom.dev/blog/google-search-goto-links",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49668386",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 670,
-   "comments": 660,
-   "publishedAt": 1789123680000,
-   "isAI": true,
-   "score": 40.9,
+   "engagement": 671,
+   "comments": 536,
+   "publishedAt": 1789182860000,
+   "isAI": false,
+   "score": 39.7,
    "hot": false,
-   "lastWeekRank": 17
+   "lastWeekRank": 16
   },
   {
-   "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
-   "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49683729",
-   "source": "Hacker News",
+   "title": "스타트업을 강력하게 만드는 법",
+   "url": "https://news.hada.io/topic?id=33659",
+   "summary": "매출을 늘리는 방법보다 회사를 더 강력하게 만드는 방법 을 물으면, 점진적 개선을 넘어 기업 가치를 몇 자릿수나 키울 수 있는 전환을 발견하기도 함 고객 관계와 자금 흐름 을 확보하고, 다른 기업이 제품 위에 사업을 구축하게 하거나 네트워크 효과를 만들면 회...",
+   "publishedAt": 1789339356000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 120,
-   "comments": 104,
-   "publishedAt": 1789305868000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
-   "hot": false
+   "score": 39.7,
+   "hot": true
   },
   {
    "title": "엔지니어링 매니저의 네 가지 핵심 책임 영역",
@@ -573,7 +630,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -587,7 +644,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -601,23 +658,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 39.3,
    "hot": true
-  },
-  {
-   "title": "google.com/goto: Google's anti-scraping update",
-   "url": "https://www.autom.dev/blog/google-search-goto-links",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49668386",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 668,
-   "comments": 533,
-   "publishedAt": 1789182860000,
-   "isAI": false,
-   "score": 40.7,
-   "hot": false,
-   "lastWeekRank": 16
   },
   {
    "title": "저커버그의 이메일: “케임브리지 애널리티카” (2017)",
@@ -630,7 +672,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -644,8 +686,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 39.2,
    "hot": true
+  },
+  {
+   "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+   "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49682319",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 134,
+   "comments": 185,
+   "publishedAt": 1789295358000,
+   "isAI": false,
+   "score": 39.1,
+   "hot": false
   },
   {
    "title": "Windows에서 AMD GPU로 CUDA 실행하기",
@@ -658,7 +714,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -672,7 +728,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -686,22 +742,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 38.9,
    "hot": true
-  },
-  {
-   "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
-   "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49682319",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 131,
-   "comments": 183,
-   "publishedAt": 1789295358000,
-   "isAI": false,
-   "score": 40.3,
-   "hot": false
   },
   {
    "title": "그네를 타던 아이를 체포하는 데 사용된 Flock 카메라",
@@ -714,7 +756,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -728,38 +770,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 38.6,
    "hot": true
-  },
-  {
-   "title": "Real-SWE: 비공개 실무 기업 코드베이스에서 AI 모델을 평가하는 벤치마크",
-   "url": "https://news.hada.io/topic?id=33609",
-   "summary": "Real-SWE 는 실제 기업에서 사용 허가를 받은 비공개 프로덕션 코드베이스와 업무를 바탕으로, 코딩 에이전트가 소프트웨어 엔지니어의 실무를 수행할 수 있는지 평가함 모델 단독이 아니라 모델과 기본 하네스의 조합 을 평가하며, 과제마다 8회 독립 실행한 평균 해...",
-   "publishedAt": 1789267192000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.1,
-   "hot": false,
-   "lastWeekRank": 14
-  },
-  {
-   "title": "나만 빼고 모두 AI 개발 속도를 늦춰야 한다",
-   "url": "https://news.hada.io/topic?id=33608",
-   "summary": "AI가 인간의 노동을 대체해 사회 붕괴 를 일으킬 수 있다는 명분으로 전 세계 최첨단 모델 연구개발 중단을 요구하지만, 정작 목적은 자기 회사의 추격과 세계 지배라는 풍자 임 개발 중단 기간에 Techaro의 Lygma AGI lab 이 경쟁사를 따라잡고, In...",
-   "publishedAt": 1789267012000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.1,
-   "hot": false,
-   "lastWeekRank": 15
   },
   {
    "title": "프로그래밍 언어의 몇 가지 좋은 아이디어",
@@ -772,7 +784,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -786,7 +798,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -800,8 +812,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 38.4,
    "hot": true
+  },
+  {
+   "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+   "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49676849",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 101,
+   "comments": 65,
+   "publishedAt": 1789244909000,
+   "isAI": true,
+   "score": 38.3,
+   "hot": false
   },
   {
    "title": "x86의 미정의 명령어는 왜 ud2라고 부를까? 왜 2일까?",
@@ -814,8 +840,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38,
    "hot": true
+  },
+  {
+   "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+   "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49662990",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 752,
+   "comments": 427,
+   "publishedAt": 1789151095000,
+   "isAI": false,
+   "score": 37.9,
+   "hot": false,
+   "lastWeekRank": 22
   },
   {
    "title": "Blinkenlights 프로젝트",
@@ -828,7 +869,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -842,23 +883,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 37.7,
    "hot": true
-  },
-  {
-   "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-   "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49662990",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 751,
-   "comments": 425,
-   "publishedAt": 1789151095000,
-   "isAI": false,
-   "score": 38.8,
-   "hot": false,
-   "lastWeekRank": 22
   },
   {
    "title": "Intel 8087 부동소수점 칩의 마이크로코드: 스케일 명령어",
@@ -871,7 +897,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -885,7 +911,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -899,22 +925,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
-   "title": "What’s behind the AI industry’s latest warnings of doom?",
-   "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-   "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-   "publishedAt": 1789328415000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
+   "title": "The worst spam emails: iLands AI agent hustle",
+   "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49671159",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
+   "engagement": 124,
+   "comments": 56,
+   "publishedAt": 1789211618000,
    "isAI": true,
-   "score": 38,
-   "hot": false
+   "score": 36.8,
+   "hot": false,
+   "lastWeekRank": 28
   },
   {
    "title": "프론트엔드 상태 관리의 네 가지 난제, Bunja로 풀어보기",
@@ -927,23 +954,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
-   "title": "The worst spam emails: iLands AI agent hustle",
-   "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49671159",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "What’s behind the AI industry’s latest warnings of doom?",
+   "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+   "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+   "publishedAt": 1789328415000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 122,
-   "comments": 56,
-   "publishedAt": 1789211618000,
+   "engagement": null,
+   "baseWeight": 32,
    "isAI": true,
-   "score": 37.7,
-   "hot": false,
-   "lastWeekRank": 28
+   "score": 36.6,
+   "hot": false
   },
   {
    "title": "A Mathematical Framework for Transformer Circuits (2021)",
@@ -952,26 +978,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 104,
+   "engagement": 105,
    "comments": 17,
    "publishedAt": 1789221418000,
    "isAI": true,
-   "score": 37.5,
+   "score": 36.5,
    "hot": false
-  },
-  {
-   "title": "Show GN: 스테인드글래스 완성하는 퍼즐 게임 - The Artisan of Glimmith 클론",
-   "url": "https://news.hada.io/topic?id=33624",
-   "summary": "The Artisan of Glimmith 라는 게임을 재밌게 하고있는데, 주말에 심심해서 클로드와 함께 비슷하게 만들어 봤습니다. 퍼즐을 만드는 과정을 시뮬레이션을 통해 자동으로 생성하게 한게 특징이고요. 여러가지 룰을 엮어서 더 어렵게(?) 즐길 수 있습니다. 에이전트 돌릴 때 시간때우기 용으로 좋",
-   "publishedAt": 1789306731000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.5,
-   "hot": true
   },
   {
    "title": "The Waymo effect: how AI is quietly making research less collaborative",
@@ -984,9 +996,23 @@
    "comments": 299,
    "publishedAt": 1789125470000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.3,
    "hot": false,
    "lastWeekRank": 33
+  },
+  {
+   "title": "Show GN: 스테인드글래스 완성하는 퍼즐 게임 - The Artisan of Glimmith 클론",
+   "url": "https://news.hada.io/topic?id=33624",
+   "summary": "The Artisan of Glimmith 라는 게임을 재밌게 하고있는데, 주말에 심심해서 클로드와 함께 비슷하게 만들어 봤습니다. 퍼즐을 만드는 과정을 시뮬레이션을 통해 자동으로 생성하게 한게 특징이고요. 여러가지 룰을 엮어서 더 어렵게(?) 즐길 수 있습니다. 에이전트 돌릴 때 시간때우기 용으로 좋",
+   "publishedAt": 1789306731000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.2,
+   "hot": false
   },
   {
    "title": "HuggingFace: Security.txt",
@@ -999,9 +1025,54 @@
    "comments": 70,
    "publishedAt": 1789137493000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36,
    "hot": false,
    "lastWeekRank": 34
+  },
+  {
+   "title": "DeepSeek v4.1 Flash",
+   "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49639090",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1011,
+   "comments": 575,
+   "publishedAt": 1789020665000,
+   "isAI": true,
+   "score": 36,
+   "hot": false,
+   "lastWeekRank": 38
+  },
+  {
+   "title": "The EPA is planning to scrap public review rules for data center pollution",
+   "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49662672",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 501,
+   "comments": 400,
+   "publishedAt": 1789149921000,
+   "isAI": false,
+   "score": 35.5,
+   "hot": false,
+   "lastWeekRank": 36
+  },
+  {
+   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49639408",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 866,
+   "comments": 816,
+   "publishedAt": 1789022983000,
+   "isAI": true,
+   "score": 35.4,
+   "hot": false,
+   "lastWeekRank": 42
   },
   {
    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
@@ -1014,7 +1085,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1028,7 +1099,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 35.4,
    "hot": false,
    "lastWeekRank": 26
   },
@@ -1043,39 +1114,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 35.4,
    "hot": false,
    "lastWeekRank": 27
-  },
-  {
-   "title": "DeepSeek v4.1 Flash",
-   "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49639090",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1011,
-   "comments": 575,
-   "publishedAt": 1789020665000,
-   "isAI": true,
-   "score": 36.6,
-   "hot": false,
-   "lastWeekRank": 38
-  },
-  {
-   "title": "The EPA is planning to scrap public review rules for data center pollution",
-   "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49662672",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 500,
-   "comments": 400,
-   "publishedAt": 1789149921000,
-   "isAI": false,
-   "score": 36.4,
-   "hot": false,
-   "lastWeekRank": 36
   },
   {
    "title": "Show GN: ExitPress 네이버블로그/티스토리의 글들을 md,mdx,fumadocs로 딸깍으로 뽑아내는 툴",
@@ -1088,7 +1129,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 34.9,
    "hot": false,
    "lastWeekRank": 30
   },
@@ -1103,24 +1144,9 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 34.9,
    "hot": false,
    "lastWeekRank": 31
-  },
-  {
-   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49639408",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 866,
-   "comments": 816,
-   "publishedAt": 1789022983000,
-   "isAI": true,
-   "score": 36,
-   "hot": false,
-   "lastWeekRank": 42
   },
   {
    "title": "Show HN: Hacker News, without AI",
@@ -1129,11 +1155,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 204,
+   "engagement": 205,
    "comments": 88,
    "publishedAt": 1789138879000,
    "isAI": true,
-   "score": 35.3,
+   "score": 34.5,
    "hot": false,
    "lastWeekRank": 41
   },
@@ -1148,7 +1174,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35,
+   "score": 34.2,
    "hot": false,
    "lastWeekRank": 44
   },
@@ -1163,24 +1189,9 @@
    "comments": 307,
    "publishedAt": 1789145451000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.1,
    "hot": false,
    "lastWeekRank": 45
-  },
-  {
-   "title": "John Deere의 자가 수리 서비스로 트랙터를 고쳐봤다. 농민들은 여전히 회의적이다",
-   "url": "https://news.hada.io/topic?id=33612",
-   "summary": "Operations Center Pro Service 는 장비 소유자가 직접 고장을 진단하고 수리하도록 돕는 구독 서비스로, 시연에서는 비전문가도 안내에 따라 끊어진 센서 연결을 몇 분 만에 복구함 출시 1년 뒤 일일 이용자는 약 1,000명 에 그치며, 취재에 응한 농민은 복합 고장 ...",
-   "publishedAt": 1789277628000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.6,
-   "hot": false,
-   "lastWeekRank": 39
   },
   {
    "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
@@ -1193,24 +1204,9 @@
    "comments": 187,
    "publishedAt": 1789047593000,
    "isAI": true,
-   "score": 34.4,
+   "score": 33.8,
    "hot": false,
    "lastWeekRank": 51
-  },
-  {
-   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-   "url": "https://cognition.com/blog/swe-2",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49645443",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 444,
-   "comments": 191,
-   "publishedAt": 1789054187000,
-   "isAI": true,
-   "score": 34.3,
-   "hot": false,
-   "lastWeekRank": 50
   },
   {
    "title": "Claude, change the “Add to Cart” button to blue",
@@ -1223,39 +1219,109 @@
    "comments": 451,
    "publishedAt": 1788946786000,
    "isAI": true,
-   "score": 34.3,
+   "score": 33.8,
    "hot": false,
    "lastWeekRank": 59
   },
   {
-   "title": "Bun의 컴파일 시간을 이해하려고 빌드 시각화 도구를 만들었다",
-   "url": "https://news.hada.io/topic?id=33611",
-   "summary": "buildprof 는 Linux 빌드 명령이 실행하는 모든 하위 프로세스를 하나의 타임라인으로 보여주는 오픈소스 추적 도구로, 병렬성 부족, 반복 작업, 의존성 다운로드, 오래 걸리는 컴파일과 링크 단계를 확인할 수 있음 Bun의 Zig 빌드를 추적한 결과, 전체 24분 24초 중 최종 링...",
-   "publishedAt": 1789272369000,
+   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+   "url": "https://cognition.com/blog/swe-2",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49645443",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 444,
+   "comments": 192,
+   "publishedAt": 1789054187000,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false,
+   "lastWeekRank": 50
+  },
+  {
+   "title": "트럼프 \"AI 우려 세력 부정적...중국 이기는 것이 최우선\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215222",
+   "summary": "도널드 트럼프 미국 대통령이 AI의 급격한 발전에 따른 위험을 이유로 개발 속도를 늦춰야 한다는 업계의 요구에 대해 부정적인 입장을 드러냈다. AI 안전을 위한 일정 수준의 '가드레일' 마련 가능성은 열어두면서도 과도한 위험론이 미국 AI 산업의 경쟁력을 약화해서는 안 된다는 입장이다.로이터 등에 따르면, 트럼프 대통령은 13일(현지시간) 아일랜드 순방 중 취재진과 만나 AI 산업의 개발 속도를 늦추거나 규제를 강화해야 하느냐는 질문에 \"우리는 중국을 AI에서 앞서고 있다\"며 \"우리는 세계에서 가장 정교한 국가이고, 솔직히 그 상태",
+   "publishedAt": 1789356076000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "구글·MS도 \"AI 속도 조절 동감\"...'안전 연합전선' 5곳으로 확대",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215215",
+   "summary": "최첨단 AI 개발 속도를 조절하고 안전성 확보를 우선해야 한다는 목소리에 구글과 마이크로소프트(MS)도 가세했다. 다리오 아모데이 앤트로픽 CEO가 AI 개발 속도를 늦추고 독립적인 안전성 검증을 강화해야 한다고 제안한 데 대해 주요 빅테크 경영진이 잇달아 지지 의사를 밝히면서 AI 업계의 '안전 연합전선'이 확대되는 모습이다.데미스 허사비스 구글 딥마인드 회장은 13일(현지시간) X를 통해 아모데이 CEO의 제안에 대해 \"올바른 방향을 제시하고 있다\"고 평가했다. 그는 \"세부적인 사항은 보완해야 하지만, 이 중요한 시기에 필요한",
+   "publishedAt": 1789355496000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "John Deere의 자가 수리 서비스로 트랙터를 고쳐봤다. 농민들은 여전히 회의적이다",
+   "url": "https://news.hada.io/topic?id=33612",
+   "summary": "Operations Center Pro Service 는 장비 소유자가 직접 고장을 진단하고 수리하도록 돕는 구독 서비스로, 시연에서는 비전문가도 안내에 따라 끊어진 센서 연결을 몇 분 만에 복구함 출시 1년 뒤 일일 이용자는 약 1,000명 에 그치며, 취재에 응한 농민은 복합 고장 ...",
+   "publishedAt": 1789277628000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.5,
    "hot": false,
-   "lastWeekRank": 43
+   "lastWeekRank": 39
   },
   {
-   "title": "GrapheneOS' rewritten Messages app is released",
-   "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49663373",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 321,
-   "comments": 247,
-   "publishedAt": 1789152636000,
-   "isAI": false,
-   "score": 34,
-   "hot": false,
-   "lastWeekRank": 47
+   "title": "앤트로픽·오픈AI·구글, 7월부터 'AI 안전 표준기구' 설립 물밑 논의",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215212",
+   "summary": "앤트로픽과 오픈AI, 구글이 AI 산업의 안전성 평가와 감사 기준을 마련하기 위한 업계 공동 표준기구 설립을 지난 7월부터 물밑에서 논의해 온 것으로 알려졌다. 다리오 아모데이 앤트로픽 CEO가 AI 개발 속도를 늦추고 독립적인 감독 체계를 마련하자고 공개 제안한 가운데, 주요 AI 기업들이 이미 업계 차원의 자율규제 방안을 논의하고 있었다는 점에서 주목된다.디 인포메이션은 13일(현지시간) 정통한 관계자들을 인용, 앤트로픽, 오픈AI, 구글의 CEO급 임원 아래 실무진으로 구성된 워킹그룹이 지난 7월부터 정기적으로 만나 AI 기술",
+   "publishedAt": 1789353376000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "'AI 속도 조절'에 블랙 먼데이 오나...전문가들 \"반도체 장기 수요는 탄탄\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215211",
+   "summary": "AI 업계 리더들이 기술 개발 속도를 늦추고 안전장치를 강화해야 한다고 촉구하고 나선 가운데, 이러한 움직임이 단기적으로는 반도체 및 공급망 관련 주가에 하락 압력을 가할 수 있으나 컴퓨팅 인프라에 대한 탄탄한 투자 수요 덕분에 장기적 파급력은 제한적일 것이라는 시장 전략가들의 분석이 나왔다. 13일(현지시간) 블룸버그에 따르면, AI 업계에서 최첨단 모델 개발 속도를 늦춰야 한다는 목소리가 잇따르면서 반도체와 전력·데이터센터 등 AI 공급망 관련주가 단기적인 매도 압력을 받을 수 있다는 전망이 나왔다. 특히 월요일 증시 개장을 앞",
+   "publishedAt": 1789353104000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "의료 AI 안전성 점검한 '레드팀 챌린지'…국내외 LLM 12종 공격 검증",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215217",
+   "summary": "의료 AI의 안전성과 신뢰성을 실제 환경에서 검증하는 ‘2026 첨단AI 디지털의료제품 레드팀 챌린지 및 기술 워크숍’이 지난 3~4일 서울 중구 노보텔 앰배서더 서울 동대문 그랜드볼룸에서 열렸다.국가인공지능전략위원회 이원태 보안특별위원장이 대회장을 맡은 이번 행사는 한국전자통신연구원(ETRI), 분당서울대학교병원, STA테스팅컨설팅, 한국화학융합시험연구원(KTR)이 공동 주관하고 한국인터넷진흥원(KISA), 한국보건산업진흥원, Upstage, 대한의료인공지능학회 등이 후원했다.첫날 열린 챌린지에는 삼성SDS, 카카오뱅크, SK쉴더",
+   "publishedAt": 1789352176000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
+   "hot": false
   },
   {
    "title": "OpenAI Agents API",
@@ -1268,9 +1334,69 @@
    "comments": 184,
    "publishedAt": 1789069402000,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.2,
    "hot": false,
    "lastWeekRank": 56
+  },
+  {
+   "title": "GrapheneOS' rewritten Messages app is released",
+   "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49663373",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 321,
+   "comments": 247,
+   "publishedAt": 1789152636000,
+   "isAI": false,
+   "score": 33.1,
+   "hot": false,
+   "lastWeekRank": 47
+  },
+  {
+   "title": "AI researchers debate how close we are to recursive self-improvement",
+   "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49665711",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 118,
+   "comments": 116,
+   "publishedAt": 1789162529000,
+   "isAI": true,
+   "score": 32.8,
+   "hot": false,
+   "lastWeekRank": 48
+  },
+  {
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+   "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+   "publishedAt": 1789120800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 32.8,
+   "hot": false,
+   "lastWeekRank": 55
+  },
+  {
+   "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+   "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49673580",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 127,
+   "comments": 46,
+   "publishedAt": 1789228192000,
+   "isAI": false,
+   "score": 32.7,
+   "hot": false,
+   "lastWeekRank": 52
   },
   {
    "title": "[AI리더의 서가] 클로드와 엑셀로 시작하는 AI 주식 투자",
@@ -1283,7 +1409,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1297,7 +1423,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1311,141 +1437,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "AI researchers debate how close we are to recursive self-improvement",
-   "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49665711",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 118,
-   "comments": 116,
-   "publishedAt": 1789162529000,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false,
-   "lastWeekRank": 48
-  },
-  {
-   "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-   "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49673580",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 126,
-   "comments": 46,
-   "publishedAt": 1789228192000,
-   "isAI": false,
-   "score": 33.6,
-   "hot": false,
-   "lastWeekRank": 52
-  },
-  {
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-   "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-   "publishedAt": 1789120800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false,
-   "lastWeekRank": 55
-  },
-  {
-   "title": "Hacker News with reduced priority for AI driven content",
-   "url": "https://sprinklz.io/public/pdwt4dve5uai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49660482",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 121,
-   "comments": 56,
-   "publishedAt": 1789141969000,
-   "isAI": true,
    "score": 32.5,
-   "hot": false,
-   "lastWeekRank": 64
-  },
-  {
-   "title": "Rust is tier-1 language at Microsoft",
-   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49643546",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 724,
-   "comments": 514,
-   "publishedAt": 1789047556000,
-   "isAI": false,
-   "score": 32.3,
-   "hot": false,
-   "lastWeekRank": 72
-  },
-  {
-   "title": "Trump and Mike Johnson think the AI industry is overreacting",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-   "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's prop",
-   "publishedAt": 1789328508000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.3,
    "hot": false
-  },
-  {
-   "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
-   "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49665502",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 206,
-   "comments": 50,
-   "publishedAt": 1789161408000,
-   "isAI": false,
-   "score": 31.9,
-   "hot": false,
-   "lastWeekRank": 68
-  },
-  {
-   "title": "A few good ideas in programming languages",
-   "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49671972",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 106,
-   "comments": 71,
-   "publishedAt": 1789218472000,
-   "isAI": false,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
-   "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49643112",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 262,
-   "comments": 15,
-   "publishedAt": 1789045634000,
-   "isAI": true,
-   "score": 31.3,
-   "hot": false,
-   "lastWeekRank": 79
   }
  ]
 }
