@@ -2244,12 +2244,54 @@
   ]
  },
  "Microsoft patches Windows and Excel – breaks audio, remote access, and paste": {
-  "ko": "MS 윈도우·엑셀 패치, 오디오·원격 접속·붙여넣기 먹통 유발"
+  "ko": "MS 윈도우·엑셀 패치, 오디오·원격 접속·붙여넣기 먹통 유발",
+  "tldr": "마이크로소프트의 최신 Windows·Excel 보안 패치가 설치 후 오디오, 원격 접속, 붙여넣기 기능에 오류를 유발한 것으로 전해졌다."
  },
  "분산 시스템의 고전 논문들 (2017)": {
   "tldr": "분산 시스템 분야를 이해하는 출발점으로 삼을 만한 고전 논문 10편을 모은 2017년 목록이다."
  },
  "Steam Frame 가격, 1,059달러부터 시작": {
   "tldr": "Steam Frame 가격이 1,059달러부터 시작한다."
+ },
+ "iOS 27, iPadOS 27, macOS 27 업데이트 시작": {
+  "img": null,
+  "hook": "시리가 드디어 화면을 읽는다",
+  "tldr": "Apple이 iOS 27, iPadOS 27, macOS 27을 통해 개인 맥락과 화면 내용을 이해하는 새로운 Siri AI 등 Apple Intelligence 기능을 순차적으로 배포하기 시작했다.",
+  "detail": "Apple이 iOS 27, iPadOS 27, macOS 27 업데이트를 통해 새로운 Siri AI와 Apple Intelligence 기능을 순차적으로 제공하기 시작했다. 새로운 Siri AI는 사용자의 개인 맥락과 화면에 표시된 내용을 이해하고, 이를 바탕으로 앱 동작을 직접 수행할 수 있다. 또한 기기를 넘나들며 대화의 맥락을 이어갈 수 있는 기능도 포함됐다. 이번 업데이트에는 자녀 보호 도구 강화와 전반적인 성능 개선 사항도 함께 담겼다. 새로운 Siri AI 기능은 현재 영어 베타로 제공되고 있는 것으로 보이며, 다른 언어 지원 시점은 명확히 확인되지 않았다.",
+  "bullets": [
+   "Siri AI가 개인 맥락과 화면 내용을 이해해 앱 동작까지 수행할 수 있게 됨.",
+   "기기를 넘나들며 대화의 맥락을 이어갈 수 있는 기능이 추가됨.",
+   "방송 전 체크: 새 Siri AI는 현재 영어 베타로만 제공되는 것으로 보이며, 한국어 지원 시점 확인 필요."
+  ]
+ },
+ "OpenArch - LLM 아키텍처를 모델별 한 파일로 구현한 PyTorch 코드 모음": {
+  "img": null,
+  "hook": "LLM 아키텍처, 파일 하나로 해부하기",
+  "tldr": "Llama, Qwen, DeepSeek 등 주요 LLM의 내부 구조를 모델별로 하나의 PyTorch 파일에 직접 구현해 비교·학습할 수 있도록 만든 오픈소스 코드 모음이다.",
+  "detail": "LLM들의 내부 아키텍처를 코드 수준에서 비교하며 공부할 수 있도록, 주요 모델을 각각 하나의 PyTorch 파일로 직접 구현한 오픈소스 저장소가 공개됐다. Llama, Qwen, DeepSeek 등 여러 아키텍처가 포함되어 있다. 프로젝트는 실제 성능 최적화보다는 가독성과 학습을 우선순위로 두고 작성됐다. 어텐션 유형, 정규화 방식, 계층 구성, MoE(혼합 전문가) 라우팅, 위치 인코딩 같은 구조적 선택지를 모델별로 나란히 비교해 볼 수 있도록 구성된 것이 특징이다. 연구자나 개발자가 각 모델의 설계 차이를 직접 코드로 확인하고 싶을 때 참고하기 좋은 자료로 보인다.",
+  "bullets": [
+   "Llama, Qwen, DeepSeek 등 여러 LLM 아키텍처를 각각 하나의 PyTorch 파일로 직접 구현해 놓은 저장소임.",
+   "어텐션 유형, 정규화, MoE 라우팅, 위치 인코딩 등 구조적 선택을 모델별로 나란히 비교할 수 있게 구성됨.",
+   "성능 최적화보다 가독성과 학습을 우선한 프로젝트로 보임."
+  ]
+ },
+ "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.": {
+  "ko": "우주비행사 Christina Koch와 구글 James Manyika, 우주·기술·발견을 논하다",
+  "tldr": "우주비행사 Christina Koch가 구글 리서치 수석부사장 James Manyika와 우주, 기술, 발견을 주제로 대담을 나눴다."
+ },
+ "Steam Frame 가격 공개, 1,059달러부터 시작": {
+  "tldr": "Valve의 무선 VR 헤드셋 Steam Frame이 컨트롤러 포함 256GB 모델 1,059달러부터 예약 판매를 시작했다."
+ },
+ "How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)": {
+  "ko": "트럼프, 암호화폐로 얼마나 벌었나…2025년 연방 재산공개 기준 14억 달러",
+  "tldr": "2025년 연방 재산공개 자료에 따르면 트럼프가 암호화폐 관련 사업으로 약 14억 달러를 벌어들인 것으로 나타났다."
+ },
+ "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says": {
+  "ko": "OpenAI, 스마트폰 카메라 스타트업 Glass Imaging 3억 달러에 인수했다는 보도",
+  "tldr": "OpenAI가 애플의 인물사진 모드 개발을 이끌었던 전직 애플 엔지니어들이 세운 카메라 스타트업 Glass Imaging을 3억 달러에 인수했다는 보도가 나왔다."
+ },
+ "Houthis used Claude Code to develop missile guidance software: Anthropic": {
+  "ko": "후티 반군, Claude Code로 미사일 유도 소프트웨어 개발…Anthropic 발표",
+  "tldr": "Anthropic은 예멘 후티 반군이 자사의 Claude Code를 이용해 미사일 유도 소프트웨어를 개발한 정황을 확인했다고 밝혔다."
  }
 }
