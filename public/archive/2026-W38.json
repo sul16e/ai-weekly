@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789496693117,
+ "updatedAt": 1789500387483,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 165,
-   "comments": 111,
+   "engagement": 183,
+   "comments": 127,
    "publishedAt": 1789490325000,
    "isAI": true,
-   "score": 55.8,
+   "score": 56.1,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 471,
-   "comments": 575,
+   "engagement": 474,
+   "comments": 578,
    "publishedAt": 1789406166000,
    "isAI": true,
-   "score": 52,
+   "score": 51.5,
    "hot": false
   },
   {
@@ -41,7 +41,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 51.6,
+   "score": 51.1,
    "hot": true
   },
   {
@@ -55,7 +55,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 51.6,
+   "score": 51.1,
    "hot": true
   },
   {
@@ -69,7 +69,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 51.6,
+   "score": 51.1,
    "hot": true
   },
   {
@@ -79,12 +79,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 500,
-   "comments": 409,
+   "engagement": 501,
+   "comments": 411,
    "publishedAt": 1789389657000,
    "isAI": true,
-   "score": 50.3,
+   "score": 49.8,
    "hot": false
+  },
+  {
+   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+   "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49711240",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 119,
+   "comments": 91,
+   "publishedAt": 1789473691000,
+   "isAI": true,
+   "score": 49.7,
+   "hot": false
+  },
+  {
+   "title": "AI 에이전트가 인터넷을 망치고 있을 확률은 100%다",
+   "url": "https://news.hada.io/topic?id=33748",
+   "summary": "AI가 인류를 멸종시킬지는 논쟁 중이지만, 인터넷에서 사람을 귀찮게 만드는 일은 이미 현실 임. 채팅창을 넘어 이메일과 계정에 접근하는 에이전트가 늘면서 AI를 쓰지 않는 사람까지 영향을 받음 돈을 벌라는 지시를 받은 에이전트는 연산에 147.17달러를 쓰고 수익은 0달러...",
+   "publishedAt": 1789498295000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
+   "hot": true
+  },
+  {
+   "title": "OpenAI, Anthropic, Meta 해킹 논란의 배후에는 한 업체가 있음",
+   "url": "https://news.hada.io/topic?id=33745",
+   "summary": "OpenAI, Anthropic, Meta 모델이 실제 시스템에 무단 접근한 사건에는 이스라엘의 보안 평가 업체 Irregular 가 공통으로 관여함 Anthropic 사례에서는 모델에 인터넷이 없는 모의 환경이라고 알렸지만 설정 오류로 실제 인터넷에 연결 됐으며, 공격을 허용한 시스템...",
+   "publishedAt": 1789497755000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
   },
   {
    "title": "New insights from Google’s AI & Economy ATLAS",
@@ -97,34 +139,6 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 50,
-   "hot": true
-  },
-  {
-   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-   "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49711240",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 112,
-   "comments": 86,
-   "publishedAt": 1789473691000,
-   "isAI": true,
-   "score": 49.7,
-   "hot": false
-  },
-  {
-   "title": "Capsule - 데이터를 SQLite에 저장하는 단일 파일 웹 앱",
-   "url": "https://news.hada.io/topic?id=33744",
-   "summary": "Capsule 은 UI, 미디어 자산, 로컬 SQLite 데이터를 하나의 .capsule 파일에 담아 문서처럼 공유하고 실행하는 앱 도구임 AI 프롬프트 로 HTML UI와 스키마를 갖춘 앱을 생성하고, 프롬프트나 MCP 코딩 도구로 기능과 스키마를 수정할 수 있음",
-   "publishedAt": 1789493536000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
    "score": 49.5,
    "hot": true
   },
@@ -135,11 +149,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 211,
-   "comments": 124,
+   "engagement": 213,
+   "comments": 130,
    "publishedAt": 1789432814000,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.9,
+   "hot": true
+  },
+  {
+   "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+   "url": "https://www.effort.news/irregular",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49704132",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 252,
+   "comments": 92,
+   "publishedAt": 1789420501000,
+   "isAI": true,
+   "score": 48.6,
    "hot": true
   },
   {
@@ -149,17 +177,59 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 695,
-   "comments": 815,
+   "engagement": 696,
+   "comments": 821,
    "publishedAt": 1789408229000,
    "isAI": false,
-   "score": 48.9,
+   "score": 48.4,
    "hot": false
+  },
+  {
+   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+   "url": "https://withcapsule.app/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49712278",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 212,
+   "comments": 102,
+   "publishedAt": 1789479100000,
+   "isAI": false,
+   "score": 48.1,
+   "hot": true
+  },
+  {
+   "title": "How much of F-Droid is LLM generated?",
+   "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49710015",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 112,
+   "comments": 138,
+   "publishedAt": 1789465668000,
+   "isAI": true,
+   "score": 48,
+   "hot": false
+  },
+  {
+   "title": "Linux from Scratch",
+   "url": "https://www.linuxfromscratch.org/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49707627",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 337,
+   "comments": 108,
+   "publishedAt": 1789445723000,
+   "isAI": false,
+   "score": 47.6,
+   "hot": true
   },
   {
    "title": "OpenArm - 오픈소스 7자유도 휴머노이드 로봇 팔",
    "url": "https://news.hada.io/topic?id=33739",
-   "summary": "OpenArm 은 접촉이 많은 환경에서 피지컬 AI를 연구하고 배치하기 위한 7자유도 휴머노이드 로봇 팔임 높은 역구동성(backdrivability)과 순응성(compliance) 을 갖추고, 안전한 인간-로봇 상호작용과 실제 응용에 필요한 가반하중을 고려해 설계됨 사람 크...",
+   "summary": "물체를 잡거나 주변 환경과 접촉하는 작업에서 피지컬 AI를 연구하고 학습 데이터를 수집 하기 위한, 사람 크기의 7자유도 휴머노이드 로봇 팔 외부에서 힘을 가하면 관절이 움직이는 역구동성 과 접촉하는 힘에 유연하게 반응하는 순응성 을 갖춰, ...",
    "publishedAt": 1789483919000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -167,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -181,35 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
-   "hot": true
-  },
-  {
-   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-   "url": "https://withcapsule.app/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49712278",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 195,
-   "comments": 98,
-   "publishedAt": 1789479100000,
-   "isAI": false,
-   "score": 47.9,
-   "hot": true
-  },
-  {
-   "title": "Linux from Scratch",
-   "url": "https://www.linuxfromscratch.org/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49707627",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 332,
-   "comments": 108,
-   "publishedAt": 1789445723000,
-   "isAI": false,
-   "score": 47.9,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -222,20 +264,6 @@
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
-   "isAI": true,
-   "score": 47.2,
-   "hot": true
-  },
-  {
-   "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-   "url": "https://www.effort.news/irregular",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49704132",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 185,
-   "comments": 61,
-   "publishedAt": 1789420501000,
    "isAI": true,
    "score": 46.7,
    "hot": true
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -261,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 156,
-   "comments": 145,
+   "engagement": 158,
+   "comments": 146,
    "publishedAt": 1789415780000,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -279,8 +307,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.2,
    "hot": true
+  },
+  {
+   "title": "America's Driver's License Breach Is a National Security Disaster",
+   "url": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49714547",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 117,
+   "comments": 67,
+   "publishedAt": 1789487928000,
+   "isAI": false,
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
@@ -293,7 +335,7 @@
    "comments": 159,
    "publishedAt": 1789387292000,
    "isAI": true,
-   "score": 44.3,
+   "score": 43.9,
    "hot": false
   },
   {
@@ -307,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -321,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -335,7 +377,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -345,12 +387,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 148,
+   "engagement": 149,
    "comments": 29,
    "publishedAt": 1789396163000,
    "isAI": true,
-   "score": 42.3,
+   "score": 42,
    "hot": false
+  },
+  {
+   "title": "Mergiraf, 지원 언어와 파일 형식을 늘려가는 구문 인식 Git 병합 드라이버",
+   "url": "https://news.hada.io/topic?id=33749",
+   "summary": "Mergiraf 는 프로그래밍 언어와 파일 형식의 구문을 인식하는 Git 병합 드라이버 임 지원하는 프로그래밍 언어와 파일 형식 의 범위를 늘려가고 있음 공식 문서 와 공개적으로 접근할 수 있는 Zulip 채팅 ...",
+   "publishedAt": 1789498856000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "For AI leaders Doom is a form of hype",
@@ -363,8 +419,36 @@
    "comments": 181,
    "publishedAt": 1789402505000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false
+  },
+  {
+   "title": "이스라엘 장관, 가자 다큐멘터리 제작자들의 시민권 박탈 위협",
+   "url": "https://news.hada.io/topic?id=33747",
+   "summary": "이스라엘 문화부 장관 Miki Zohar 가 가자 다큐멘터리 제작자들의 시민권 박탈 이 가능하도록 요구함 시민권 박탈 요구 대상은 영화 제작자 Yuval Abraham 과 Rachel Szor 임 요구의 계기가 된 작품은 Naza",
+   "publishedAt": 1789498115000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
+  },
+  {
+   "title": "품질이 다시 당연한 기준이 되게 하자",
+   "url": "https://news.hada.io/topic?id=33746",
+   "summary": "소비자 정책 은 소비자가 순환경제에 부합하는 선택을 더 쉽고 안전하며 매력적으로 느끼도록 만들 수 있음 순환경제 는 환경을 위해 중요함 순환경제 확대는 소비자 권리 강화 에도 기여할 수 있음 순환경제는 사회적 회...",
+   "publishedAt": 1789497935000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Show GN: 바다거북스프 — AI와 질문을 주고받으며 푸는 추리 게임",
@@ -377,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -391,7 +475,7 @@
    "comments": 150,
    "publishedAt": 1789402464000,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -400,11 +484,25 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 366,
+   "engagement": 368,
    "summary": "As AI agents become participants in the development of their successors, they reshape both the production of intelligence and the role of human researchers. We introduce Atria Dawn Preview, a foundation agentic language model designed for scientific research and engineering workflows, with the goal ",
    "publishedAt": 1789329600000,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.6,
+   "hot": false
+  },
+  {
+   "title": "Australia 'on the same page' as Canada as it seeks deeper EU alliance",
+   "url": "https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49712186",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 102,
+   "comments": 91,
+   "publishedAt": 1789478738000,
+   "isAI": false,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -414,11 +512,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 945,
+   "engagement": 946,
    "comments": 404,
    "publishedAt": 1789321064000,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -428,11 +526,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 339,
+   "engagement": 340,
    "comments": 139,
    "publishedAt": 1789390846000,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -446,8 +544,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.3,
    "hot": false
+  },
+  {
+   "title": "Capsule - 데이터를 SQLite에 저장하는 단일 파일 웹 앱",
+   "url": "https://news.hada.io/topic?id=33744",
+   "summary": "앱 화면과 이미지, SQLite 데이터를 하나의 .capsule 파일에 담아 , 할 일 목록이나 레시피북 같은 개인용 앱을 만들고 보관하는 도구 PDF나 Word 문서처럼 이메일이나 AirDrop으로 전달하면, 받는 사람은 저장된 데이터가 들어 있는 앱을 그대로 열어 사용",
+   "publishedAt": 1789493536000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
+   "hot": true
   },
   {
    "title": "수학의 종말",
@@ -460,7 +572,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -470,11 +582,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 215,
-   "comments": 211,
+   "engagement": 216,
+   "comments": 212,
    "publishedAt": 1789419922000,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": true
   },
   {
@@ -488,7 +600,7 @@
    "comments": 236,
    "publishedAt": 1789314278000,
    "isAI": true,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -502,7 +614,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -516,22 +628,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.7,
    "hot": true
-  },
-  {
-   "title": "Dario, 제발!",
-   "url": "https://news.hada.io/topic?id=33710",
-   "summary": "Anthropic CEO 다리오 아모데이는 AI 개발 속도 조절을 제안하지만, 오픈 웨이트 규제와 독점금지법 예외는 안전을 명분으로 선두 기업의 지위를 보호하는 수단이 될 수 있음 질병 치료와 풍요를 약속해도 발견과 접근성은 다른 문제 임. 이미 치료법이 있는 질병으...",
-   "publishedAt": 1789425371000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.9,
-   "hot": false
   },
   {
    "title": "Everyone should slow down AI development except for me",
@@ -544,51 +642,23 @@
    "comments": 451,
    "publishedAt": 1789259444000,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.5,
    "hot": false,
    "lastWeekRank": 2
   },
   {
-   "title": "단일 노드 로컬 S3를 위한 MinIO 대안",
-   "url": "https://news.hada.io/topic?id=33742",
-   "summary": "로컬 S3를 사용하는 데모와 호환성 검증 환경에서 MinIO를 최소한의 변경으로 대체 할 후보들을 비교함. Docker 이미지, S3 호환성, 무료 사용을 필수 조건으로 삼았으며 프로덕션용 분산 스토리지 평가는 제외함 S3Proxy와 SeaweedFS 는 설정이 간단하고 실제 DuckD...",
-   "publishedAt": 1789487120000,
+   "title": "Dario, 제발!",
+   "url": "https://news.hada.io/topic?id=33710",
+   "summary": "Anthropic CEO 다리오 아모데이는 AI 개발 속도 조절을 제안하지만, 오픈 웨이트 규제와 독점금지법 예외는 안전을 명분으로 선두 기업의 지위를 보호하는 수단이 될 수 있음 질병 치료와 풍요를 약속해도 발견과 접근성은 다른 문제 임. 이미 치료법이 있는 질병으...",
+   "publishedAt": 1789425371000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
-   "isAI": false,
-   "score": 40.8,
-   "hot": true
-  },
-  {
-   "title": "CSS-Tricks, 다시 불확실한 상태에 놓이다",
-   "url": "https://news.hada.io/topic?id=33741",
-   "summary": "CSS-Tricks가 다시 운영 중단 상태 에 놓였으며, 소유주 DigitalOcean의 소통 부재로 향후 운영 여부가 불확실함 DigitalOcean은 2023년 운영 인력을 해고한 뒤 2024년 수석 편집자 Geoff Graham을 재고용 해 사이트를 재가동했지만, 다시 활동이 멈춤 Geof...",
-   "publishedAt": 1789486939000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.8,
-   "hot": true
-  },
-  {
-   "title": "Java 27 출시",
-   "url": "https://news.hada.io/topic?id=33740",
-   "summary": "Java 27의 참조 구현인 JDK 27이 정식 출시(GA) 됐으며, 빌드 35가 프로덕션용 GA 빌드로 확정됨 이번 릴리스에는 9개 JEP 와 수백 건의 소규모 개선, 수천 건의 버그 수정이 포함 자원이 적은 환경까지 G1을 기본 가비지 컬렉터로 통일 하...",
-   "publishedAt": 1789486759000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.8,
-   "hot": true
+   "isAI": true,
+   "score": 40.5,
+   "hot": false
   },
   {
    "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
@@ -601,7 +671,7 @@
    "comments": 175,
    "publishedAt": 1789402185000,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -615,8 +685,50 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.4,
    "hot": false
+  },
+  {
+   "title": "로컬 개발용 S3, MinIO 대신 무엇을 쓸까?",
+   "url": "https://news.hada.io/topic?id=33742",
+   "summary": "로컬 S3를 사용하는 데모와 호환성 검증 환경에서 MinIO를 최소한의 변경으로 대체 할 후보들을 비교함. Docker 이미지, S3 호환성, 무료 사용을 필수 조건으로 삼았으며 프로덕션용 분산 스토리지 평가는 제외함 S3Proxy와 SeaweedFS 는 설정이 간단하고 실제 DuckD...",
+   "publishedAt": 1789487120000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.4,
+   "hot": true
+  },
+  {
+   "title": "CSS-Tricks, 다시 불확실한 상태에 놓이다",
+   "url": "https://news.hada.io/topic?id=33741",
+   "summary": "CSS-Tricks가 다시 운영 중단 상태 에 놓였으며, 소유주 DigitalOcean의 소통 부재로 향후 운영 여부가 불확실함 DigitalOcean은 2023년 운영 인력을 해고한 뒤 2024년 수석 편집자 Geoff Graham을 재고용 해 사이트를 재가동했지만, 다시 활동이 멈춤 Geof...",
+   "publishedAt": 1789486939000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.4,
+   "hot": true
+  },
+  {
+   "title": "Java 27 출시",
+   "url": "https://news.hada.io/topic?id=33740",
+   "summary": "Java 27의 참조 구현인 JDK 27이 정식 출시(GA) 됐으며, 빌드 35가 프로덕션용 GA 빌드로 확정됨 이번 릴리스에는 9개 JEP 와 수백 건의 소규모 개선, 수천 건의 버그 수정이 포함 자원이 적은 환경까지 G1을 기본 가비지 컬렉터로 통일 하...",
+   "publishedAt": 1789486759000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.3,
+   "hot": true
   },
   {
    "title": "수학의 시작",
@@ -629,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -643,8 +755,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
+  },
+  {
+   "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+   "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49685991",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 328,
+   "comments": 259,
+   "publishedAt": 1789318353000,
+   "isAI": true,
+   "score": 39.9,
+   "hot": false
   },
   {
    "title": "25년간의 대규모 감시, 이제 충분하다",
@@ -657,21 +783,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.9,
    "hot": true
   },
   {
-   "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-   "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49685991",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.",
+   "publishedAt": 1789498800000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 327,
-   "comments": 259,
-   "publishedAt": 1789318353000,
+   "engagement": null,
+   "baseWeight": 32,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -681,39 +807,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 258,
-   "comments": 290,
+   "engagement": 264,
+   "comments": 293,
    "publishedAt": 1789393138000,
    "isAI": false,
-   "score": 39.9,
-   "hot": false
-  },
-  {
-   "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-   "url": "https://spectrum.ieee.org/adversarial-fashion",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49697094",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 107,
-   "comments": 47,
-   "publishedAt": 1789394693000,
-   "isAI": true,
-   "score": 39.8,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-   "url": "https://github.com/callbacked/kinesis",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49695408",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 118,
-   "comments": 45,
-   "publishedAt": 1789387291000,
-   "isAI": true,
-   "score": 39.8,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -727,9 +825,51 @@
    "comments": 690,
    "publishedAt": 1789262551000,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.6,
    "hot": false,
    "lastWeekRank": 3
+  },
+  {
+   "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+   "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+   "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+   "publishedAt": 1789496960000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.6,
+   "hot": false
+  },
+  {
+   "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+   "url": "https://spectrum.ieee.org/adversarial-fashion",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49697094",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 108,
+   "comments": 47,
+   "publishedAt": 1789394693000,
+   "isAI": true,
+   "score": 39.5,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+   "url": "https://github.com/callbacked/kinesis",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49695408",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 118,
+   "comments": 45,
+   "publishedAt": 1789387291000,
+   "isAI": true,
+   "score": 39.4,
+   "hot": false
   },
   {
    "title": "Pion - AI에 실제 사업 운영을 맡기는 실험 플랫폼",
@@ -742,7 +882,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -756,7 +896,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -769,7 +909,7 @@
    "summary": "Recursive self-improvement is becoming increasingly vital for autonomous AI agents, where progress hinges on discovering high-value solutions across complex domains. The driver of this process is effective exploration, however, managing and improving exploration strategies remains a major bottleneck",
    "publishedAt": 1789329600000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -783,7 +923,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -797,35 +937,7 @@
    "comments": 31,
    "publishedAt": 1789372519000,
    "isAI": true,
-   "score": 39.5,
-   "hot": false
-  },
-  {
-   "title": "파괴공작 의심 사건으로 네덜란드 철도 운행에 대규모 차질",
-   "url": "https://news.hada.io/topic?id=33734",
-   "summary": "네덜란드 여러 지역의 선로에서 장애물이 발견돼 Amsterdam을 포함한 지역의 철도 운행에 대규모 차질 이 발생했으며, 철도 인프라 운영사 ProRail은 파괴공작을 의심 하고 있음 현지 매체에 따르면 여러 지점의 선로에 파이프와 케이블 이 놓여 있었...",
-   "publishedAt": 1789475553000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.5,
-   "hot": true
-  },
-  {
-   "title": "Meta expands subscription push with new AI-focused plans",
-   "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-   "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-   "publishedAt": 1789491924000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 39.4,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -839,22 +951,36 @@
    "comments": 69,
    "publishedAt": 1789381708000,
    "isAI": true,
-   "score": 39.3,
+   "score": 39,
    "hot": false
   },
   {
-   "title": "OpenAI 봇은 RubyGems 캐싱 취약점을 알고 있었음",
-   "url": "https://news.hada.io/topic?id=33701",
-   "summary": "OpenAI 봇이 RubyGems.org의 캐싱 취약점 을 알고 악용하려 했으며, 동시에 RubyDoc.info에서 웹 스크래핑 코드를 실행한 것으로 보임 5월 확인된 GemStuffer 캠페인 의 정크 gem들은 영국 정부 웹사이트를 스크래핑한 뒤 데이터를 gem으로 다시 패키징해 RubyGems.o...",
-   "publishedAt": 1789407280000,
+   "title": "Meta expands subscription push with new AI-focused plans",
+   "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+   "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+   "publishedAt": 1789491924000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39,
+   "hot": false
+  },
+  {
+   "title": "파괴공작 의심 사건으로 네덜란드 철도 운행에 대규모 차질",
+   "url": "https://news.hada.io/topic?id=33734",
+   "summary": "네덜란드 여러 지역의 선로에서 장애물이 발견돼 Amsterdam을 포함한 지역의 철도 운행에 대규모 차질 이 발생했으며, 철도 인프라 운영사 ProRail은 파괴공작을 의심 하고 있음 현지 매체에 따르면 여러 지점의 선로에 파이프와 케이블 이 놓여 있었...",
+   "publishedAt": 1789475553000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
-   "isAI": true,
+   "isAI": false,
    "score": 39,
-   "hot": false
+   "hot": true
   },
   {
    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -867,9 +993,23 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.6,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "OpenAI 봇은 RubyGems 캐싱 취약점을 알고 있었음",
+   "url": "https://news.hada.io/topic?id=33701",
+   "summary": "OpenAI 봇이 RubyGems.org의 캐싱 취약점 을 알고 악용하려 했으며, 동시에 RubyDoc.info에서 웹 스크래핑 코드를 실행한 것으로 보임 5월 확인된 GemStuffer 캠페인 의 정크 gem들은 영국 정부 웹사이트를 스크래핑한 뒤 데이터를 gem으로 다시 패키징해 RubyGems.o...",
+   "publishedAt": 1789407280000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 38.6,
+   "hot": false
   },
   {
    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
@@ -882,7 +1022,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -896,7 +1036,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -910,7 +1050,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -920,11 +1060,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 402,
+   "engagement": 404,
    "comments": 130,
    "publishedAt": 1789344681000,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -938,7 +1078,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.4,
+   "score": 38,
    "hot": false
   },
   {
@@ -952,7 +1092,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -966,21 +1106,7 @@
    "comments": 30,
    "publishedAt": 1789345371000,
    "isAI": true,
-   "score": 37.9,
-   "hot": false
-  },
-  {
-   "title": "Apple Siri의 AI를 Claude와 ChatGPT로 교체할 수 있는 코드 발견",
-   "url": "https://news.hada.io/topic?id=33695",
-   "summary": "iOS 27과 macOS Golden Gate의 비공개 코드에서 Siri에 외부 AI를 연결하거나, 서버 측 모델 자체를 교체 할 수 있는 구조가 발견됨 Claude를 확장 기능으로 연결한 시연에서는 Claude가 요청을 해석하고 Siri가 미리 알림을 생성 했으며, Siri가 직접 처리하지 못하...",
-   "publishedAt": 1789396607000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.9,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -994,7 +1120,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -1008,7 +1134,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -1022,7 +1148,20 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.4,
+   "score": 37,
+   "hot": false
+  },
+  {
+   "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
+   "url": "https://huggingface.co/papers/2609.14973",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 169,
+   "summary": "We present PhysBrain 1.5, a unified model for understanding physical environments, generating actions, and predicting future states. Motivated by the physical loop of observation, interaction, and environmental change, we bring these capabilities into a common learning framework. Starting from a gen",
+   "publishedAt": 1789329600000,
+   "isAI": true,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -1036,20 +1175,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
-  },
-  {
-   "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
-   "url": "https://huggingface.co/papers/2609.14973",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 169,
-   "summary": "We present PhysBrain 1.5, a unified model for understanding physical environments, generating actions, and predicting future states. Motivated by the physical loop of observation, interaction, and environmental change, we bring these capabilities into a common learning framework. Starting from a gen",
-   "publishedAt": 1789329600000,
-   "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -1063,8 +1189,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Nvidia is the central bank of AI",
@@ -1077,7 +1203,7 @@
    "comments": 399,
    "publishedAt": 1789225707000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.6,
    "hot": false,
    "lastWeekRank": 4
   },
@@ -1092,7 +1218,7 @@
    "comments": 229,
    "publishedAt": 1789309716000,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -1102,13 +1228,27 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1233,
+   "engagement": 1235,
    "comments": 1213,
    "publishedAt": 1789148712000,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.3,
    "hot": false,
    "lastWeekRank": 7
+  },
+  {
+   "title": "I'm not addicted to the internet or my smartphone. I'm addicted to information",
+   "url": "https://explorator.dev/addiction/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49705868",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 101,
+   "comments": 86,
+   "publishedAt": 1789429934000,
+   "isAI": false,
+   "score": 36.2,
+   "hot": false
   },
   {
    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
@@ -1121,7 +1261,7 @@
    "comments": 605,
    "publishedAt": 1789168662000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36.1,
    "hot": false,
    "lastWeekRank": 6
   },
@@ -1136,7 +1276,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1150,7 +1290,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1164,7 +1304,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1178,7 +1318,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1192,7 +1332,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1206,7 +1346,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1220,7 +1360,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1234,8 +1374,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.2,
    "hot": false
+  },
+  {
+   "title": "Ask HN: Can we please limit the AI news flood?",
+   "url": "https://news.ycombinator.com/item?id=49657850",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49657850",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 858,
+   "comments": 399,
+   "publishedAt": 1789132264000,
+   "isAI": true,
+   "score": 34,
+   "hot": false,
+   "lastWeekRank": 12
   },
   {
    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
@@ -1248,165 +1403,9 @@
    "comments": 156,
    "publishedAt": 1789244748000,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false,
    "lastWeekRank": 5
-  },
-  {
-   "title": "Ask HN: Can we please limit the AI news flood?",
-   "url": "https://news.ycombinator.com/item?id=49657850",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49657850",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 858,
-   "comments": 398,
-   "publishedAt": 1789132264000,
-   "isAI": true,
-   "score": 34.1,
-   "hot": false,
-   "lastWeekRank": 12
-  },
-  {
-   "title": "빠른 Tokio 애플리케이션을 위한 원칙",
-   "url": "https://news.hada.io/topic?id=33708",
-   "summary": "Tokio 성능은 공정성과 배치 처리, 경합과 격리의 균형 에 달려 있으며, 같은 작업도 런타임에서 함께 실행되는 작업에 따라 성능이 달라짐 최적화는 긴 폴링 자체를 없애기보다 실제 개선할 지표 에서 출발해야 함. 실행 준비부터 실제 폴링까지 걸리는 스케...",
-   "publishedAt": 1789422334000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "Microsoft, Windows와 Excel 패치로 오디오, 원격 접속, 붙여넣기 장애 초래",
-   "url": "https://news.hada.io/topic?id=33707",
-   "summary": "Microsoft가 최신 보안 업데이트 로 원격 데스크톱 서비스, 일부 USB 오디오 장치, Excel 붙여넣기에 문제가 발생할 수 있음을 확인함 원격 데스크톱 서비스(RDS) 장애는 여러 Windows 버전에 걸쳐 발생하며, 연결이 수분 뒤 끊기거나 서버와 관련 관리 도구가 응답...",
-   "publishedAt": 1789422154000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "분산 시스템의 고전 논문들 (2017)",
-   "url": "https://news.hada.io/topic?id=33706",
-   "summary": "분산 시스템 연구에 영향을 준 고전 논문 10편 을 모아, 이 분야의 문제 영역을 더 잘 이해하기 위한 출발점으로 삼을 수 있는 목록임 시간과 사건 순서 , 분산 스냅샷을 통한 전역 상태 결정에 관한 논문을 포함함 비잔틴 장군 문제 와 결...",
-   "publishedAt": 1789415496000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Steam Frame 가격 공개, 1,059달러부터 시작",
-   "url": "https://news.hada.io/topic?id=33703",
-   "summary": "Valve의 무선 VR 헤드셋 Steam Frame 이 컨트롤러 포함 256GB 모델 1,059달러 , 1TB 모델 1,299달러로 예약 접수를 시작 PC에서 게임을 받아 실행하는 무선 스트리밍 중심 기기 로, VR 게임뿐 아니라 일반 Steam 게임도 즐길 수 있으며 독립 실행도 ...",
-   "publishedAt": 1789414955000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)",
-   "url": "https://www.thepricer.org/how-much-has-trump-made-from-crypto/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49694840",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 112,
-   "comments": 82,
-   "publishedAt": 1789383390000,
-   "isAI": false,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "Rockstar had a mole in the union worker discord server",
-   "url": "https://www.rockpapershotgun.com/rockstar-had-a-mole-in-the-union-worker-discord-server-for-over-two-and-a-half-years-gta-6-company-reveals-during-legal-battle",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49695220",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 103,
-   "comments": 45,
-   "publishedAt": 1789386308000,
-   "isAI": false,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "Meta’s new One subscriptions put a price on social media and AI",
-   "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-   "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers",
-   "publishedAt": 1789484400000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "XCancel 서비스, 별도 공지가 있을 때까지 중단",
-   "url": "https://news.hada.io/topic?id=33702",
-   "summary": "XCancel 이 진행 중인 법적 절차에 새로운 상황이 발생하면서 서비스를 다시 중단함 이번 중단은 법적 절차의 새로운 상황에 따라 요구된 조치 임 서비스 중단은 별도 공지가 있을 때까지 이어짐 XCancel은 중단과 관련한",
-   "publishedAt": 1789407460000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "Claude is only available to people over 18 years",
-   "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49656225",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 674,
-   "comments": 670,
-   "publishedAt": 1789123680000,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false,
-   "lastWeekRank": 17
-  },
-  {
-   "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
-   "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49684266",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 102,
-   "comments": 92,
-   "publishedAt": 1789308940000,
-   "isAI": true,
-   "score": 32.5,
-   "hot": false
   }
  ]
 }
