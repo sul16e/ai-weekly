@@ -2542,6 +2542,21 @@
  },
  "Linux from Scratch": {
   "ko": "밑바닥부터 만드는 나만의 리눅스, Linux From Scratch",
-  "tldr": "소스에서 직접 빌드해 나만의 리눅스 배포판을 만드는 프로젝트 'Linux From Scratch'를 다룬 것으로 보임."
+  "tldr": "소스에서 직접 빌드해 나만의 리눅스 배포판을 만드는 프로젝트 'Linux From Scratch'를 다룬 것으로 보임.",
+  "img": null,
+  "hook": "내 손으로 만드는 나만의 리눅스",
+  "detail": "Linux From Scratch(LFS)는 소스코드부터 시작해 처음부터 리눅스 시스템을 직접 빌드하는 방법을 단계별로 안내하는 프로젝트다. 1998년 Gerard Beekmans가 시작했으며, 웹사이트 디자인은 Jeremy Huntwork와 Matthew Burgess가 맡았다. 핵심이 되는 LFS 외에 여러 하위 프로젝트로 구성돼 있는데, 완성된 LFS 시스템을 확장하는 BLFS(Beyond Linux From Scratch), 빌드를 자동화하는 ALFS(Automated Linux From Scratch)가 대표적이다. 32비트 바이너리 실행을 지원하는 MLFS(Multilib LFS), Steam·Wine 같은 게이밍 소프트웨어 설치를 돕는 GLFS(Gaming LFS), BLFS 이후를 보완하는 SLFS(Supplemental LFS)도 있다. 이 외에 패치 모음인 Patches, LFS 확장 팁을 모은 Hints, 개발 프로세스를 담은 LFS Editor's Guide, 과거 버전을 보관하는 Museum 같은 서브 프로젝트도 함께 운영되고 있다.",
+  "bullets": [
+   "LFS는 소스코드부터 직접 빌드해 나만의 리눅스 시스템을 만드는 프로젝트임.",
+   "BLFS·ALFS·MLFS·GLFS·SLFS 등 하위 프로젝트로 게임 지원, 자동 빌드, 32비트 호환 등 확장이 가능함.",
+   "1998년부터 이어져 온 오래된 오픈소스 문서 프로젝트로 지금도 유지보수되고 있음."
+  ]
+ },
+ "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)": {
+  "ko": "메모이제이션으로 eBPF CPU 비용 90% 줄인 사례",
+  "tldr": "메모이제이션 기법을 적용해 eBPF의 CPU 사용 비용을 약 90% 절감했다는 내용."
+ },
+ "Show GN: JetBatang NF - JetBrains Mono Nerd Font에 RIDIBatang 한글을 합친 터미널 글꼴": {
+  "tldr": "JetBrains Mono Nerd Font에 RIDIBatang 한글을 결합해 터미널에서 한글을 예쁘게 표시하도록 만든 고정폭 글꼴 JetBatang NF를 공개함."
  }
 }
