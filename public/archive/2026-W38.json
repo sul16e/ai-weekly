@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789430611209,
+ "updatedAt": 1789434310245,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 264,
-   "comments": 273,
+   "engagement": 277,
+   "comments": 293,
    "publishedAt": 1789406166000,
    "isAI": true,
-   "score": 57,
+   "score": 56.9,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 352,
-   "comments": 304,
+   "engagement": 364,
+   "comments": 313,
    "publishedAt": 1789389657000,
    "isAI": true,
-   "score": 56.9,
+   "score": 56.6,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 217,
-   "comments": 152,
+   "engagement": 219,
+   "comments": 155,
    "publishedAt": 1789387292000,
    "isAI": true,
-   "score": 52.4,
+   "score": 52,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 313,
-   "comments": 343,
+   "engagement": 348,
+   "comments": 404,
    "publishedAt": 1789408229000,
    "isAI": false,
-   "score": 51.4,
+   "score": 51.8,
    "hot": true
   },
   {
@@ -69,14 +69,14 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.1,
+   "score": 50.6,
    "hot": false
   },
   {
-   "title": "Amazon 대 Perplexity 소송, 미국 제9연방항소법원",
-   "url": "https://news.hada.io/topic?id=33712",
-   "summary": "미국 제9연방항소법원이 Amazon에서 Comet의 AI 도구 사용을 막은 예비적 금지명령을 취소하고 사건을 환송 함 현재 소송기록상 Amazon 컴퓨터에 접근한 주체는 Perplexity가 아니라 Assistant를 도구로 사용하는 이용자 이므로, Amazon이 연방 및 캘리포니아 컴퓨터...",
-   "publishedAt": 1789429037000,
+   "title": "Meta가 AI 인프라의 매출 기여도를 측정한 방법",
+   "url": "https://news.hada.io/topic?id=33720",
+   "summary": "광고 모델을 개선해 매출이 늘어도 그 모델을 만든 인프라가 얼마나 기여했는지 는 알기 어려움. Meta는 개별 모델 출시 데이터를 분석해 7개 인프라 플랫폼의 기여도를 추정함 모델 개선 효과는 A/B 테스트로 측정할 수 있지만, 여러 팀이 공유하는 인프라는 사용 여부를 무작위로 나...",
+   "publishedAt": 1789432968000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -87,24 +87,52 @@
    "hot": true
   },
   {
+   "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+   "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49703003",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 103,
+   "comments": 107,
+   "publishedAt": 1789415780000,
+   "isAI": true,
+   "score": 49.6,
+   "hot": false
+  },
+  {
+   "title": "수학의 종말",
+   "url": "https://news.hada.io/topic?id=33715",
+   "summary": "AI가 수학에서 인간을 확실히 능가하더라도, 논문과 정리 생산을 보상하는 기존 제도 가 유지되면 수학의 발전은 정체될 수 있음. 이는 예측이 아니라 현재 추세가 이어질 때를 상상한 위험 시나리오임 수학적 산출물은 급증하지만 정확성, 흥미로움, 실질적인 검토 ...",
+   "publishedAt": 1789430829000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
+   "hot": true
+  },
+  {
    "title": "For AI leaders Doom is a form of hype",
    "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
    "commentsUrl": "https://news.ycombinator.com/item?id=49699384",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 122,
+   "engagement": 124,
    "comments": 170,
    "publishedAt": 1789402505000,
    "isAI": true,
-   "score": 49.7,
+   "score": 49.3,
    "hot": false
   },
   {
-   "title": "Dario, 제발!",
-   "url": "https://news.hada.io/topic?id=33710",
-   "summary": "Dario Amodei의 AI 개발 속도 조절 제안은 안전을 명분으로 권력을 집중한다는 비판 을 받음. 오픈 웨이트 규제, 증류 단속, 독점금지법 예외가 Anthropic과 OpenAI만 신뢰하라는 요구로 이어짐 질병 치료와 풍요의 약속 만으로는 접근성과 분배 문제가 해결되지 않음...",
-   "publishedAt": 1789425371000,
+   "title": "미 항소법원, Perplexity AI의 Amazon 이용을 막은 금지명령 취소",
+   "url": "https://news.hada.io/topic?id=33712",
+   "summary": "Amazon이 금지했더라도 이용자가 AI 도구로 접속한 것을 Perplexity의 무단 접근으로 보기는 어렵다 는 판단에 따라, Comet의 Amazon 이용을 막은 예비적 금지명령이 취소됨 Amazon은 이용자가 허락했어도 자사가 허가하지 않은 접근이라며 소송을 냈지만, 항소법원은 현재 기록상",
+   "publishedAt": 1789429037000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -115,17 +143,31 @@
    "hot": true
   },
   {
+   "title": "Dario, 제발!",
+   "url": "https://news.hada.io/topic?id=33710",
+   "summary": "Anthropic CEO 다리오 아모데이는 AI 개발 속도 조절을 제안하지만, 오픈 웨이트 규제와 독점금지법 예외는 안전을 명분으로 선두 기업의 지위를 보호하는 수단이 될 수 있음 질병 치료와 풍요를 약속해도 발견과 접근성은 다른 문제 임. 이미 치료법이 있는 질병으...",
+   "publishedAt": 1789425371000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.7,
+   "hot": true
+  },
+  {
    "title": "Claude is a Contrarian",
    "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
    "commentsUrl": "https://news.ycombinator.com/item?id=49699373",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 110,
-   "comments": 136,
+   "engagement": 114,
+   "comments": 138,
    "publishedAt": 1789402464000,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.6,
    "hot": false
   },
   {
@@ -139,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -153,7 +195,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -163,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 294,
+   "engagement": 298,
    "comments": 128,
    "publishedAt": 1789390846000,
    "isAI": false,
-   "score": 48.4,
+   "score": 48,
    "hot": true
   },
   {
@@ -177,11 +219,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 923,
-   "comments": 399,
+   "engagement": 924,
+   "comments": 400,
    "publishedAt": 1789321064000,
    "isAI": false,
-   "score": 48.4,
+   "score": 47.9,
+   "hot": false
+  },
+  {
+   "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+   "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49685253",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 405,
+   "comments": 233,
+   "publishedAt": 1789314278000,
+   "isAI": true,
+   "score": 47.3,
    "hot": false
   },
   {
@@ -195,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -209,22 +265,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.2,
    "hot": true
   },
   {
-   "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-   "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49685253",
+   "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+   "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49704008",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 405,
-   "comments": 231,
-   "publishedAt": 1789314278000,
-   "isAI": true,
-   "score": 47.7,
-   "hot": false
+   "engagement": 163,
+   "comments": 162,
+   "publishedAt": 1789419922000,
+   "isAI": false,
+   "score": 46.7,
+   "hot": true
+  },
+  {
+   "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+   "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49699297",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 201,
+   "comments": 120,
+   "publishedAt": 1789402185000,
+   "isAI": false,
+   "score": 46.2,
+   "hot": true
   },
   {
    "title": "OpenAI 봇은 RubyGems 캐싱 취약점을 알고 있었음",
@@ -237,22 +307,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.2,
    "hot": true
   },
   {
-   "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-   "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49704008",
+   "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+   "url": "https://github.com/callbacked/kinesis",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49695408",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 153,
-   "comments": 157,
-   "publishedAt": 1789419922000,
-   "isAI": false,
-   "score": 46.6,
-   "hot": true
+   "engagement": 108,
+   "comments": 34,
+   "publishedAt": 1789387291000,
+   "isAI": true,
+   "score": 46.1,
+   "hot": false
   },
   {
    "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
@@ -265,21 +335,7 @@
    "comments": 257,
    "publishedAt": 1789318353000,
    "isAI": true,
-   "score": 46.6,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-   "url": "https://github.com/callbacked/kinesis",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49695408",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 107,
-   "comments": 34,
-   "publishedAt": 1789387291000,
-   "isAI": true,
-   "score": 46.5,
+   "score": 46.1,
    "hot": false
   },
   {
@@ -293,7 +349,21 @@
    "comments": 67,
    "publishedAt": 1789381708000,
    "isAI": true,
-   "score": 46.5,
+   "score": 46,
+   "hot": false
+  },
+  {
+   "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+   "url": "https://github.com/anuj0456/OpenArch",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49693384",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 132,
+   "comments": 31,
+   "publishedAt": 1789372519000,
+   "isAI": true,
+   "score": 45.9,
    "hot": false
   },
   {
@@ -303,11 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 797,
+   "engagement": 799,
    "comments": 450,
    "publishedAt": 1789259444000,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.9,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -322,35 +392,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.3,
-   "hot": true
-  },
-  {
-   "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-   "url": "https://github.com/anuj0456/OpenArch",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49693384",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 129,
-   "comments": 31,
-   "publishedAt": 1789372519000,
-   "isAI": true,
-   "score": 46.2,
-   "hot": false
-  },
-  {
-   "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
-   "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49699297",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 187,
-   "comments": 110,
-   "publishedAt": 1789402185000,
-   "isAI": false,
-   "score": 46,
+   "score": 45.8,
    "hot": true
   },
   {
@@ -364,7 +406,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.1,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -375,11 +417,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 644,
+   "engagement": 645,
    "comments": 682,
    "publishedAt": 1789262551000,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.9,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -394,7 +436,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -404,12 +446,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 373,
-   "comments": 125,
+   "engagement": 376,
+   "comments": 126,
    "publishedAt": 1789344681000,
    "isAI": false,
-   "score": 44.5,
-   "hot": true
+   "score": 44.2,
+   "hot": false
   },
   {
    "title": "Open-source AI and open models reading list",
@@ -422,8 +464,8 @@
    "comments": 29,
    "publishedAt": 1789345371000,
    "isAI": true,
-   "score": 44.2,
-   "hot": true
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "오픈소스 AI와 오픈 모델 읽기 목록",
@@ -436,7 +478,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -450,7 +492,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 42.6,
+   "score": 42.2,
    "hot": true
   },
   {
@@ -464,11 +506,81 @@
    "comments": 228,
    "publishedAt": 1789309716000,
    "isAI": false,
-   "score": 42.4,
+   "score": 42,
    "hot": false
   },
   {
-   "title": "Oracle, 추가 감원 속 직원들에게 오전 6시 해고 이메일 통보",
+   "title": "Pinterest 임베딩 검색 플랫폼의 진화",
+   "url": "https://news.hada.io/topic?id=33719",
+   "summary": "Pinterest는 검색과 추천을 담당하는 자체 플랫폼 Manas 를 개선해, 수백억 개로 늘어나는 임베딩의 처리 비용을 낮추고 더 세밀한 의미를 검색에 반영하려 함 벡터를 압축하는 양자화 를 주요 제품에 적용해 인덱스 메모리를 50% 이상, 서빙 비용을 20~30% 줄였으며...",
+   "publishedAt": 1789432807000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "Show HN: Neobrutalism.dev - Base UI 지원과 새 색상 테마 추가",
+   "url": "https://news.hada.io/topic?id=33718",
+   "summary": "Neobrutalism.dev 는 React와 Tailwind v4용 네오브루탈리즘 스타일 UI 구성 요소 모음임 컴포넌트, 차트, 별 모양 을 합쳐 64개 제공함 shadcn/ui와 Base UI 를 기반으로 구축됨 이번 업데이트로 Base UI 지원과 새 색상...",
+   "publishedAt": 1789432759000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "내 전자책 리더의 줄무늬를 없앤 과정",
+   "url": "https://news.hada.io/topic?id=33717",
+   "summary": "초소형 전자책 리더 Xteink X3 의 회색조 이미지에서 발견한 세로 줄무늬를 추적해, 화면 구동 파형을 바꾸고 눈에 보이던 결함을 없앰 CrossPoint와 freeink-sdk 를 조사하면서 이미지 뷰어의 회색조 처리 누락과 어두운 회색이 검정으로 표시되는 오류도 수정함",
+   "publishedAt": 1789432579000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "pg_chdb - PostgreSQL에서 ClickHouse로 외부 데이터를 조회하고 가져오는 확장",
+   "url": "https://news.hada.io/topic?id=33716",
+   "summary": "S3나 로컬 파일의 데이터를 PostgreSQL에서 직접 조회하거나 테이블로 가져올 수 있게 하는 ClickHouse의 확장 도구 ClickHouse 기반 엔진인 chDB 를 사용하며, chdb_query() 에 쿼리를 넘기면 결과를 PostgreSQL의 행과 열로 반환 chdb...",
+   "publishedAt": 1789432202000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
+  },
+  {
+   "title": "여러분의 사고방식에 가장 큰 영향을 준 블로그 글은 무엇인가요?",
+   "url": "https://news.hada.io/topic?id=33714",
+   "summary": "사고방식에 가장 큰 영향을 준 블로그 글 을 묻는 질문으로, 소프트웨어 설계부터 제품 완성, 경력과 개발자의 책임까지 다양하게 추천됨 질문자는 개인적으로 가장 큰 영향을 받은 글로 Parse, Don’t Validate 와 초기 joelonsoftware 글들을 꼽음...",
+   "publishedAt": 1789430687000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
+  },
+  {
+   "title": "Oracle, 오전 6시에 이메일로 추가 해고 통보 “오늘이 마지막 근무일”",
    "url": "https://news.hada.io/topic?id=33713",
    "summary": "Oracle 이 추가 감원에 착수하며 월요일 이른 아침 직원들에게 당일 해고를 통보함. 이번 감원 규모는 공개되지 않음 2026 회계연도 구조조정 비용 추정치 를 7억 달러 늘려 약 28억 달러 로 상향했으며, 추가 퇴직금과 계약 해지 비용 등이 반영됨...",
    "publishedAt": 1789429217000,
@@ -478,7 +590,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.4,
    "hot": true
   },
   {
@@ -492,7 +604,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -506,7 +618,7 @@
    "comments": 396,
    "publishedAt": 1789225707000,
    "isAI": true,
-   "score": 41.4,
+   "score": 41.1,
    "hot": false,
    "lastWeekRank": 4
   },
@@ -521,7 +633,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.4,
+   "score": 41,
    "hot": false
   },
   {
@@ -535,7 +647,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.4,
+   "score": 41,
    "hot": false
   },
   {
@@ -549,7 +661,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -563,7 +675,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -577,35 +689,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
-   "hot": true
-  },
-  {
-   "title": "분산 시스템의 고전 논문들 (2017)",
-   "url": "https://news.hada.io/topic?id=33706",
-   "summary": "분산 시스템 연구에 영향을 준 고전 논문 10편 을 모아, 이 분야의 문제 영역을 더 잘 이해하기 위한 출발점으로 삼을 수 있는 목록임 시간과 사건 순서 , 분산 스냅샷을 통한 전역 상태 결정에 관한 논문을 포함함 비잔틴 장군 문제 와 결...",
-   "publishedAt": 1789415496000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.2,
-   "hot": true
-  },
-  {
-   "title": "Steam Frame 가격 공개, 1,059달러부터 시작",
-   "url": "https://news.hada.io/topic?id=33703",
-   "summary": "Valve의 무선 VR 헤드셋 Steam Frame 이 컨트롤러 포함 256GB 모델 1,059달러 , 1TB 모델 1,299달러로 예약 접수를 시작 PC에서 게임을 받아 실행하는 무선 스트리밍 중심 기기 로, VR 게임뿐 아니라 일반 Steam 게임도 즐길 수 있으며 독립 실행도 ...",
-   "publishedAt": 1789414955000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.1,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -619,7 +703,7 @@
    "comments": 603,
    "publishedAt": 1789168662000,
    "isAI": true,
-   "score": 40,
+   "score": 39.8,
    "hot": false,
    "lastWeekRank": 6
   },
@@ -634,9 +718,37 @@
    "comments": 1213,
    "publishedAt": 1789148712000,
    "isAI": true,
-   "score": 40,
+   "score": 39.8,
    "hot": false,
    "lastWeekRank": 7
+  },
+  {
+   "title": "분산 시스템의 고전 논문들 (2017)",
+   "url": "https://news.hada.io/topic?id=33706",
+   "summary": "분산 시스템 연구에 영향을 준 고전 논문 10편 을 모아, 이 분야의 문제 영역을 더 잘 이해하기 위한 출발점으로 삼을 수 있는 목록임 시간과 사건 순서 , 분산 스냅샷을 통한 전역 상태 결정에 관한 논문을 포함함 비잔틴 장군 문제 와 결...",
+   "publishedAt": 1789415496000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.7,
+   "hot": true
+  },
+  {
+   "title": "Steam Frame 가격 공개, 1,059달러부터 시작",
+   "url": "https://news.hada.io/topic?id=33703",
+   "summary": "Valve의 무선 VR 헤드셋 Steam Frame 이 컨트롤러 포함 256GB 모델 1,059달러 , 1TB 모델 1,299달러로 예약 접수를 시작 PC에서 게임을 받아 실행하는 무선 스트리밍 중심 기기 로, VR 게임뿐 아니라 일반 Steam 게임도 즐길 수 있으며 독립 실행도 ...",
+   "publishedAt": 1789414955000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.7,
+   "hot": true
   },
   {
    "title": "공포의 전염",
@@ -649,7 +761,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -663,7 +775,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.4,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -677,8 +789,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
+  },
+  {
+   "title": "How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)",
+   "url": "https://www.thepricer.org/how-much-has-trump-made-from-crypto/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49694840",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 107,
+   "comments": 81,
+   "publishedAt": 1789383390000,
+   "isAI": false,
+   "score": 38.6,
+   "hot": false
   },
   {
    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
@@ -691,7 +817,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -705,7 +831,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -719,64 +845,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
-  },
-  {
-   "title": "Claude Fable 5.1, 370년 된 암호문 Cyphral Distich 해독",
-   "url": "https://news.hada.io/topic?id=33658",
-   "summary": "Claude Fable 5.1 이 Sir Thomas Urquhart의 미해결 암호문 Cyphral Distich를 44분, 약 17만 6,000토큰, 추가 개입 없이 해독한 것으로 보임 해독의 열쇠는 외부 암호표가 아니라 책 자체 였음. 암호문 각 행의 32개 숫자를 바로 앞의 32개 Proquiritations에 대응시...",
-   "publishedAt": 1789339176000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.8,
-   "hot": false
-  },
-  {
-   "title": "How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)",
-   "url": "https://www.thepricer.org/how-much-has-trump-made-from-crypto/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49694840",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 103,
-   "comments": 81,
-   "publishedAt": 1789383390000,
-   "isAI": false,
-   "score": 38.7,
-   "hot": false
-  },
-  {
-   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-   "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-   "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-   "publishedAt": 1789418654000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 38.6,
-   "hot": false
-  },
-  {
-   "title": "에이전트형 AI를 위한 데이터 준비하기",
-   "url": "https://news.hada.io/topic?id=33657",
-   "summary": "사람이 경험으로 알아채던 데이터 오류와 업무 맥락을 에이전트가 스스로 보완하리라 기대할 수는 없음. 데이터의 품질과 의미, 사용 권한을 시스템에 명시 해야 함 데이터의 형식과 최신성, 품질 기준을 데이터 계약 으로 검증하고, 통과하지 못한 데이터는 에이전트...",
-   "publishedAt": 1789336965000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.6,
-   "hot": false
   },
   {
    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
@@ -789,9 +859,23 @@
    "comments": 154,
    "publishedAt": 1789244748000,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false,
    "lastWeekRank": 5
+  },
+  {
+   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+   "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+   "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+   "publishedAt": 1789418654000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 38.2,
+   "hot": false
   },
   {
    "title": "Show GN: Foundation Model Engineering - 학습부터 서빙까지 다루는 한·영 온라인 교재",
@@ -804,7 +888,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -818,7 +902,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -832,7 +916,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -846,7 +930,7 @@
    "comments": 91,
    "publishedAt": 1789308940000,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -860,8 +944,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
+  },
+  {
+   "title": "Ask HN: Can we please limit the AI news flood?",
+   "url": "https://news.ycombinator.com/item?id=49657850",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49657850",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 857,
+   "comments": 395,
+   "publishedAt": 1789132264000,
+   "isAI": true,
+   "score": 37,
+   "hot": false,
+   "lastWeekRank": 12
   },
   {
    "title": "시간 속으로 사라진 키 기호, 1편: PC 편",
@@ -874,23 +973,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
-  },
-  {
-   "title": "Ask HN: Can we please limit the AI news flood?",
-   "url": "https://news.ycombinator.com/item?id=49657850",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49657850",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 857,
-   "comments": 394,
-   "publishedAt": 1789132264000,
-   "isAI": true,
-   "score": 37.2,
-   "hot": false,
-   "lastWeekRank": 12
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "EuroBirdPortal - 유럽 전역의 실시간 조류 이동",
@@ -903,8 +987,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
@@ -917,7 +1001,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -931,7 +1015,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -945,7 +1029,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -959,7 +1043,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -973,7 +1057,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -987,7 +1071,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1001,37 +1085,9 @@
    "comments": 166,
    "publishedAt": 1789239537000,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.5,
    "hot": false,
    "lastWeekRank": 11
-  },
-  {
-   "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
-   "url": "https://calif.io/research/oempocalypse",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49691152",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 102,
-   "comments": 54,
-   "publishedAt": 1789352744000,
-   "isAI": false,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "CUDA for AMD on Windows",
-   "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49684356",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 174,
-   "comments": 105,
-   "publishedAt": 1789309513000,
-   "isAI": false,
-   "score": 35.6,
-   "hot": false
   },
   {
    "title": "Claude is only available to people over 18 years",
@@ -1044,9 +1100,23 @@
    "comments": 667,
    "publishedAt": 1789123680000,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.4,
    "hot": false,
    "lastWeekRank": 17
+  },
+  {
+   "title": "CUDA for AMD on Windows",
+   "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49684356",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 174,
+   "comments": 105,
+   "publishedAt": 1789309513000,
+   "isAI": false,
+   "score": 35.3,
+   "hot": false
   },
   {
    "title": "Show GN: 클라우드 낭비 계산기 - 비용 CSV를 브라우저 안에서만 분석해 확정 낭비를 찾아줍니다",
@@ -1059,7 +1129,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.3,
+   "hot": false
+  },
+  {
+   "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
+   "url": "https://calif.io/research/oempocalypse",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49691152",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 102,
+   "comments": 56,
+   "publishedAt": 1789352744000,
+   "isAI": false,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1073,7 +1157,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1087,7 +1171,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1101,7 +1185,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1115,7 +1199,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1129,21 +1213,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "Apple A20 Pro, 싱글스레드에서 데스크탑 Intel i9/AMD Ryzen 9보다 최대 32% 빨라",
-   "url": "https://news.hada.io/topic?id=33673",
-   "summary": "A20 Pro 의 Geekbench 7 결과 싱글스레드 4,006점, 멀티스레드 11,460점으로 A19 Pro보다 각각 23.3%, 27.1% 높음 싱글스레드 성능 은 Ryzen 9 9950X3D보다 약 26%, Core i9-14900KS보다 약 32% 높지만, 멀티스레드에서는 고급 데스크톱 CPU가 여전히 크게 앞섬 ...",
-   "publishedAt": 1789363360000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.7,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1157,7 +1227,7 @@
    "comments": 130,
    "publishedAt": 1789293598000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1171,9 +1241,23 @@
    "comments": 548,
    "publishedAt": 1789182860000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false,
    "lastWeekRank": 16
+  },
+  {
+   "title": "Apple A20 Pro, 싱글스레드에서 데스크탑 Intel i9/AMD Ryzen 9보다 최대 32% 빨라",
+   "url": "https://news.hada.io/topic?id=33673",
+   "summary": "A20 Pro 의 Geekbench 7 결과 싱글스레드 4,006점, 멀티스레드 11,460점으로 A19 Pro보다 각각 23.3%, 27.1% 높음 싱글스레드 성능 은 Ryzen 9 9950X3D보다 약 26%, Core i9-14900KS보다 약 32% 높지만, 멀티스레드에서는 고급 데스크톱 CPU가 여전히 크게 앞섬 ...",
+   "publishedAt": 1789363360000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.4,
+   "hot": false
   },
   {
    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
@@ -1186,7 +1270,7 @@
    "comments": 36,
    "publishedAt": 1789199643000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.3,
    "hot": false,
    "lastWeekRank": 13
   },
@@ -1201,7 +1285,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1215,7 +1299,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1229,7 +1313,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1243,8 +1327,23 @@
    "comments": 15,
    "publishedAt": 1789331598000,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
+  },
+  {
+   "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+   "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49662990",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 758,
+   "comments": 430,
+   "publishedAt": 1789151095000,
+   "isAI": false,
+   "score": 33.3,
+   "hot": false,
+   "lastWeekRank": 22
   },
   {
    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
@@ -1257,23 +1356,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
-  },
-  {
-   "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-   "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49662990",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 758,
-   "comments": 429,
-   "publishedAt": 1789151095000,
-   "isAI": false,
-   "score": 33.5,
-   "hot": false,
-   "lastWeekRank": 22
   },
   {
    "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
@@ -1286,7 +1370,7 @@
    "comments": 108,
    "publishedAt": 1789305868000,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1300,21 +1384,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "[9월14일] 잘나가던 AI 기업들이 ‘속도 늦추자’고 합의한 이유…‘죄수의 딜레마’",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215218",
-   "summary": "다리오 아모데이 앤트로픽 CEO가 AI 개발 속도를 늦추자고 하자, 샘 알트먼 오픈AI CEO와 일론 머스크 CEO까지 동의했습니다. 이어 데미스 허사비스 구글 딥마인드 회장과 사티아 나델라 마이크로소프트 CEO까지 여기에 합류했습니다.최근 AI 에이전트가 실제 시스템을 공격하거나 악용되는 사례가 잇따르면서, 모델의 능력이 안전장치보다 빠르게 발전하고 있다는 판단이 커진 것이 직접적인 이유로 보입니다. 아모데이는 개발을 중단하자는 것이 아니라 안전·정렬·모니터링이 따라올 시간을 벌자는 입장입니다.그런데 혼자 속도를 늦출 수 없다는",
-   "publishedAt": 1789423200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1324,11 +1394,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1011,
+   "engagement": 1012,
    "comments": 577,
    "publishedAt": 1789020665000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false,
    "lastWeekRank": 38
   },
@@ -1343,77 +1413,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "What execs and politicians are saying about slowing down AI development",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-   "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compi",
-   "publishedAt": 1789420902000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "내 Git 호스트가 정적 사이트 생성기라면?",
-   "url": "https://news.hada.io/topic?id=33662",
-   "summary": "sorcery 는 저장소가 갱신될 때 개요, 브랜치별 최신 디렉터리 트리, 구문 강조된 소스 코드를 정적 HTML로 생성하는 Git 저장소 뷰어임 작은 개인 서버에서 Forgejo가 디스크 부족과 스크래퍼 부하로 중단되는 문제에 대응해, 사전 생성 비용 을 치르고 이후 요청은...",
-   "publishedAt": 1789344548000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "말조심하라: Apple이 상시 청취 기술의 악몽 같은 세상으로 문을 열다",
-   "url": "https://news.hada.io/topic?id=33661",
-   "summary": "Apple이 최신 Apple Watch를 대상으로 상시 청취 기능 출시를 예고함. Live Rewind는 최근 15초의 주변 소리를 텍스트로 확인하게 하고, Siri Recap은 하루 동안의 대화를 요약해 iPhone에 보고서로 제공함 Apple은 오디오를 녹음하거나 저장하지 않으며 , 대화 요약...",
-   "publishedAt": 1789344368000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-   "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-   "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-   "publishedAt": 1789419872000,
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-   "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49676849",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 104,
-   "comments": 66,
-   "publishedAt": 1789244909000,
-   "isAI": true,
-   "score": 32.8,
    "hot": false
   }
  ]
