@@ -1,21 +1,7 @@
 {
- "updatedAt": 1789426926157,
+ "updatedAt": 1789430611209,
  "week": "2026-W38",
  "items": [
-  {
-   "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49695876",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 335,
-   "comments": 289,
-   "publishedAt": 1789389657000,
-   "isAI": true,
-   "score": 57,
-   "hot": true
-  },
   {
    "title": "Pion, an agent designed to run any company autonomously",
    "url": "https://andonlabs.com/blog/why-we-built-pion",
@@ -23,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 235,
-   "comments": 247,
+   "engagement": 264,
+   "comments": 273,
    "publishedAt": 1789406166000,
    "isAI": true,
-   "score": 56.6,
+   "score": 57,
+   "hot": true
+  },
+  {
+   "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49695876",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 352,
+   "comments": 304,
+   "publishedAt": 1789389657000,
+   "isAI": true,
+   "score": 56.9,
    "hot": true
   },
   {
@@ -37,11 +37,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 215,
-   "comments": 151,
+   "engagement": 217,
+   "comments": 152,
    "publishedAt": 1789387292000,
    "isAI": true,
-   "score": 52.9,
+   "score": 52.4,
+   "hot": true
+  },
+  {
+   "title": "iOS 27, iPadOS 27, and macOS 27",
+   "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49701004",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 313,
+   "comments": 343,
+   "publishedAt": 1789408229000,
+   "isAI": false,
+   "score": 51.4,
    "hot": true
   },
   {
@@ -55,21 +69,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.7,
-   "hot": true
+   "score": 51.1,
+   "hot": false
   },
   {
-   "title": "iOS 27, iPadOS 27, and macOS 27",
-   "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49701004",
-   "source": "Hacker News",
+   "title": "Amazon 대 Perplexity 소송, 미국 제9연방항소법원",
+   "url": "https://news.hada.io/topic?id=33712",
+   "summary": "미국 제9연방항소법원이 Amazon에서 Comet의 AI 도구 사용을 막은 예비적 금지명령을 취소하고 사건을 환송 함 현재 소송기록상 Amazon 컴퓨터에 접근한 주체는 Perplexity가 아니라 Assistant를 도구로 사용하는 이용자 이므로, Amazon이 연방 및 캘리포니아 컴퓨터...",
+   "publishedAt": 1789429037000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 287,
-   "comments": 304,
-   "publishedAt": 1789408229000,
-   "isAI": false,
-   "score": 51.2,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.8,
    "hot": true
   },
   {
@@ -80,10 +94,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 122,
-   "comments": 169,
+   "comments": 170,
    "publishedAt": 1789402505000,
    "isAI": true,
-   "score": 50.2,
+   "score": 49.7,
    "hot": false
   },
   {
@@ -97,13 +111,27 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.2,
    "hot": true
+  },
+  {
+   "title": "Claude is a Contrarian",
+   "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49699373",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 110,
+   "comments": 136,
+   "publishedAt": 1789402464000,
+   "isAI": true,
+   "score": 48.8,
+   "hot": false
   },
   {
    "title": "수학의 시작",
    "url": "https://news.hada.io/topic?id=33709",
-   "summary": "AI가 수학적 결과를 생산하는 능력과 인간의 수학적 이해 가 분리되고 있으며, 수학계는 논문과 정리 증명 중심의 평가 체계를 바꿀 필요가 있음 지켜야 할 것은 기존 학술 제도의 형태가 아니라 좋은 수학을 생산하고 이해하는 일 , 그리고 이를 이해하고 전달할 사...",
+   "summary": "AI로 수학 논문을 만들 수 있게 되면서, 좋은 결과물을 냈다는 사실만으로 그 사람의 이해와 전문성을 판단하기 어려워짐 . 논문과 정리 증명 중심의 평가 체계를 바꿀 필요가 있음 지켜야 할 것은 기존 학술 제도의 형태가 아니라 좋은 수학을 생산하고 이해하는 일",
    "publishedAt": 1789422514000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -111,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.8,
    "hot": true
   },
   {
@@ -125,22 +153,8 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.7,
    "hot": true
-  },
-  {
-   "title": "Claude is a Contrarian",
-   "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49699373",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 105,
-   "comments": 133,
-   "publishedAt": 1789402464000,
-   "isAI": true,
-   "score": 48.9,
-   "hot": false
   },
   {
    "title": "How to write an effective software design document",
@@ -149,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 289,
+   "engagement": 294,
    "comments": 128,
    "publishedAt": 1789390846000,
    "isAI": false,
-   "score": 48.8,
+   "score": 48.4,
    "hot": true
   },
   {
@@ -163,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 920,
-   "comments": 397,
+   "engagement": 923,
+   "comments": 399,
    "publishedAt": 1789321064000,
    "isAI": false,
-   "score": 48.8,
+   "score": 48.4,
    "hot": false
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -206,10 +220,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 405,
-   "comments": 230,
+   "comments": 231,
    "publishedAt": 1789314278000,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.7,
    "hot": false
   },
   {
@@ -223,7 +237,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
+   "hot": true
+  },
+  {
+   "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+   "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49704008",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 153,
+   "comments": 157,
+   "publishedAt": 1789419922000,
+   "isAI": false,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -233,11 +261,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 321,
+   "engagement": 322,
    "comments": 257,
    "publishedAt": 1789318353000,
    "isAI": true,
-   "score": 47,
+   "score": 46.6,
    "hot": false
   },
   {
@@ -247,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 106,
+   "engagement": 107,
    "comments": 34,
    "publishedAt": 1789387291000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.5,
    "hot": false
   },
   {
@@ -261,26 +289,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 114,
+   "engagement": 116,
    "comments": 67,
    "publishedAt": 1789381708000,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.5,
    "hot": false
-  },
-  {
-   "title": "OpenArch - LLM 아키텍처를 모델별 한 파일로 구현한 PyTorch 코드 모음",
-   "url": "https://news.hada.io/topic?id=33700",
-   "summary": "Llama, Qwen, DeepSeek 등 LLM의 내부 구조를 코드로 읽고 비교하며 공부할 수 있도록 , 각 아키텍처를 하나의 PyTorch 파일로 직접 구현한 저장소 가독성과 학습 을 우선하며, 어텐션 유형, 정규화, 계층 구성, MoE 라우팅, 위치 인코딩 같은 구조적 선택을 나란히 ...",
-   "publishedAt": 1789404320000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.8,
-   "hot": true
   },
   {
    "title": "Everyone should slow down AI development except for me",
@@ -293,9 +307,23 @@
    "comments": 450,
    "publishedAt": 1789259444000,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.3,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "OpenArch - LLM 아키텍처를 모델별 한 파일로 구현한 PyTorch 코드 모음",
+   "url": "https://news.hada.io/topic?id=33700",
+   "summary": "Llama, Qwen, DeepSeek 등 LLM의 내부 구조를 코드로 읽고 비교하며 공부할 수 있도록 , 각 아키텍처를 하나의 PyTorch 파일로 직접 구현한 저장소 가독성과 학습 을 우선하며, 어텐션 유형, 정규화, 계층 구성, MoE 라우팅, 위치 인코딩 같은 구조적 선택을 나란히 ...",
+   "publishedAt": 1789404320000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.3,
+   "hot": true
   },
   {
    "title": "OpenArch – PyTorch implementations of modern LLM architectures",
@@ -308,21 +336,7 @@
    "comments": 31,
    "publishedAt": 1789372519000,
    "isAI": true,
-   "score": 46.6,
-   "hot": false
-  },
-  {
-   "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-   "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49704008",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 135,
-   "comments": 138,
-   "publishedAt": 1789419922000,
-   "isAI": false,
-   "score": 46,
+   "score": 46.2,
    "hot": false
   },
   {
@@ -332,8 +346,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 176,
-   "comments": 94,
+   "engagement": 187,
+   "comments": 110,
    "publishedAt": 1789402185000,
    "isAI": false,
    "score": 46,
@@ -350,9 +364,24 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46,
+   "score": 45.5,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "Why are AI agents lying, cheating and coordinating?",
+   "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49678969",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 644,
+   "comments": 682,
+   "publishedAt": 1789262551000,
+   "isAI": true,
+   "score": 45.3,
+   "hot": false,
+   "lastWeekRank": 3
   },
   {
    "title": "Apple Siri의 AI를 Claude와 ChatGPT로 교체할 수 있는 코드 발견",
@@ -365,23 +394,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": true
-  },
-  {
-   "title": "Why are AI agents lying, cheating and coordinating?",
-   "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49678969",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 643,
-   "comments": 682,
-   "publishedAt": 1789262551000,
-   "isAI": true,
-   "score": 45.6,
-   "hot": false,
-   "lastWeekRank": 3
   },
   {
    "title": "Apple's Dimensional Drawings",
@@ -390,11 +404,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 371,
+   "engagement": 373,
    "comments": 125,
    "publishedAt": 1789344681000,
    "isAI": false,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -404,11 +418,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 151,
+   "engagement": 152,
    "comments": 29,
    "publishedAt": 1789345371000,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -422,7 +436,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -436,7 +450,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 43.1,
+   "score": 42.6,
    "hot": true
   },
   {
@@ -446,12 +460,55 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 464,
+   "engagement": 466,
    "comments": 228,
    "publishedAt": 1789309716000,
    "isAI": false,
-   "score": 42.7,
+   "score": 42.4,
    "hot": false
+  },
+  {
+   "title": "Oracle, 추가 감원 속 직원들에게 오전 6시 해고 이메일 통보",
+   "url": "https://news.hada.io/topic?id=33713",
+   "summary": "Oracle 이 추가 감원에 착수하며 월요일 이른 아침 직원들에게 당일 해고를 통보함. 이번 감원 규모는 공개되지 않음 2026 회계연도 구조조정 비용 추정치 를 7억 달러 늘려 약 28억 달러 로 상향했으며, 추가 퇴직금과 계약 해지 비용 등이 반영됨...",
+   "publishedAt": 1789429217000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "Show GN: PhotoSlimmer - 아이폰 사진 정리 앱, 중복·유사·흐림·눈 감은 사진을 기기에서 찾아 삭제",
+   "url": "https://news.hada.io/topic?id=33711",
+   "summary": "혼자 만든 아이폰 사진 정리 앱입니다. 중복과 스크린샷은 직접 찾기 쉬운데, 흔들리거나 눈을 감은 사진은 수천 장을 넘겨야 나옵니다. 그 부분을 자동으로 찾아 주는 데 집중했습니다. 무엇을 하는가 중복, 유사, 흐림, 눈 감음으로 묶어 보여 줍니다. 촬영 시각이 가까운 사진을",
+   "publishedAt": 1789427890000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
+  },
+  {
+   "title": "Nvidia is the central bank of AI",
+   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49673098",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 575,
+   "comments": 396,
+   "publishedAt": 1789225707000,
+   "isAI": true,
+   "score": 41.4,
+   "hot": false,
+   "lastWeekRank": 4
   },
   {
    "title": "Show GN: 네오프레스 - Next.js 기반 AI 웹사이트 빌더에 CMS·SEO·전환 분석을 묶었습니다",
@@ -464,7 +521,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -478,23 +535,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
-  },
-  {
-   "title": "Nvidia is the central bank of AI",
-   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49673098",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 575,
-   "comments": 396,
-   "publishedAt": 1789225707000,
-   "isAI": true,
-   "score": 41.7,
-   "hot": false,
-   "lastWeekRank": 4
   },
   {
    "title": "10억 명 이상의 ChatGPT 사용자를 지원하기 위한 온라인 스토리지의 빠른 확장",
@@ -507,7 +549,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -521,7 +563,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": true
   },
   {
@@ -535,7 +577,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": true
   },
   {
@@ -549,7 +591,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -563,7 +605,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -573,11 +615,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 962,
+   "engagement": 963,
    "comments": 603,
    "publishedAt": 1789168662000,
    "isAI": true,
-   "score": 40.3,
+   "score": 40,
    "hot": false,
    "lastWeekRank": 6
   },
@@ -592,7 +634,7 @@
    "comments": 1213,
    "publishedAt": 1789148712000,
    "isAI": true,
-   "score": 40.2,
+   "score": 40,
    "hot": false,
    "lastWeekRank": 7
   },
@@ -607,7 +649,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -621,7 +663,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -635,7 +677,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -649,7 +691,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.5,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -663,7 +705,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -677,22 +719,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
-  },
-  {
-   "title": "How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)",
-   "url": "https://www.thepricer.org/how-much-has-trump-made-from-crypto/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49694840",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 103,
-   "comments": 81,
-   "publishedAt": 1789383390000,
-   "isAI": false,
-   "score": 39.1,
-   "hot": false
   },
   {
    "title": "Claude Fable 5.1, 370년 된 암호문 Cyphral Distich 해독",
@@ -705,7 +733,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.8,
+   "hot": false
+  },
+  {
+   "title": "How Much Has Trump Made from Crypto? ($1.4B from 2025 Federal Disclosure)",
+   "url": "https://www.thepricer.org/how-much-has-trump-made-from-crypto/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49694840",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 103,
+   "comments": 81,
+   "publishedAt": 1789383390000,
+   "isAI": false,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -719,7 +761,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -733,7 +775,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -747,7 +789,7 @@
    "comments": 154,
    "publishedAt": 1789244748000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.5,
    "hot": false,
    "lastWeekRank": 5
   },
@@ -762,7 +804,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -776,7 +818,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -784,20 +826,6 @@
    "url": "https://news.hada.io/topic?id=33694",
    "summary": "FRANK 386 은 RP2350 기반 Raspberry Pi Pico 2에서 DOS, Windows 3.x, Windows 95, Linux 등을 부팅할 수 있는 i386 PC 에뮬레이터임 i386 전체 명령어 에뮬레이션 과 i486/i586 일부 기능, 선택적 x87 FPU를 지원하며, 8MB PSRAM을 사용해 최대 8MB RAM을 제공함...",
    "publishedAt": 1789396427000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.4,
-   "hot": true
-  },
-  {
-   "title": "XCancel, “진행 중인 법적 절차의 새로운 상황으로 인해” 서비스 중단",
-   "url": "https://news.hada.io/topic?id=33692",
-   "summary": "XCancel 이 진행 중인 법적 절차에서 새로운 상황이 발생해 서비스를 다시 중단함 이번 중단은 추가 공지가 있을 때까지 이어짐 서비스를 중단해야 하는 상황이며, 추가 세부 사항은 공개할 수 없음 찾고 있던 콘텐츠는",
-   "publishedAt": 1789392699000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -818,8 +846,22 @@
    "comments": 91,
    "publishedAt": 1789308940000,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.6,
    "hot": false
+  },
+  {
+   "title": "XCancel, “진행 중인 법적 절차의 새로운 상황으로 인해” 서비스 중단",
+   "url": "https://news.hada.io/topic?id=33692",
+   "summary": "XCancel 이 진행 중인 법적 절차에서 새로운 상황이 발생해 서비스를 다시 중단함 이번 중단은 추가 공지가 있을 때까지 이어짐 서비스를 중단해야 하는 상황이며, 추가 세부 사항은 공개할 수 없음 찾고 있던 콘텐츠는",
+   "publishedAt": 1789392699000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.6,
+   "hot": true
   },
   {
    "title": "시간 속으로 사라진 키 기호, 1편: PC 편",
@@ -832,21 +874,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
-   "hot": true
-  },
-  {
-   "title": "EuroBirdPortal - 유럽 전역의 실시간 조류 이동",
-   "url": "https://news.hada.io/topic?id=33690",
-   "summary": "EuroBirdPortal의 LIVE 지도 는 최근 52주 또는 그 직전 52주의 조류 관측 데이터를 보여줌 EBP 데이터의 99%는 매일 갱신 되지만, 일부 관측 포털은 제출 간격이 길어 최근 몇 주의 해당 지역이 빈칸으로 나타날 수 있음 최신 주차는 보통 전날까지...",
-   "publishedAt": 1789389257000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -860,9 +888,23 @@
    "comments": 394,
    "publishedAt": 1789132264000,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.2,
    "hot": false,
    "lastWeekRank": 12
+  },
+  {
+   "title": "EuroBirdPortal - 유럽 전역의 실시간 조류 이동",
+   "url": "https://news.hada.io/topic?id=33690",
+   "summary": "EuroBirdPortal의 LIVE 지도 는 최근 52주 또는 그 직전 52주의 조류 관측 데이터를 보여줌 EBP 데이터의 99%는 매일 갱신 되지만, 일부 관측 포털은 제출 간격이 길어 최근 몇 주의 해당 지역이 빈칸으로 나타날 수 있음 최신 주차는 보통 전날까지...",
+   "publishedAt": 1789389257000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.2,
+   "hot": true
   },
   {
    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
@@ -875,7 +917,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.3,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -889,8 +931,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Git에서 Fossil로 전환하기 (2025)",
@@ -903,8 +945,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
@@ -917,7 +959,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -931,7 +973,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -945,7 +987,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -959,37 +1001,9 @@
    "comments": 166,
    "publishedAt": 1789239537000,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 11
-  },
-  {
-   "title": "Show GN: 클라우드 낭비 계산기 - 비용 CSV를 브라우저 안에서만 분석해 확정 낭비를 찾아줍니다",
-   "url": "https://news.hada.io/topic?id=33685",
-   "summary": "지난 8월에 Show GN으로 소개했던 클라우드 청구서 채점\"의 셀프 마이너 버전입니다. 그때는 파일을 보내주셔야 진단이 됐는데, 이번에 브라우저에서 바로 돌려볼 수 있는 계산기로 만들었습니다. 하는 일: AWS Cost Explorer CSV(사용 유형별) 또는 파트너사 정산 CSV를 드롭하면 청",
-   "publishedAt": 1789373222000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "경험상 프로그래머들은 \"reduce\"를 좋아하지 않음",
-   "url": "https://news.hada.io/topic?id=33684",
-   "summary": "개인적인 코드 리뷰 경험에서 map 과 filter 사용에는 불만이 드물지만, reduce 에는 읽기 어렵다는 피드백을 자주 받음 reduce 는 map , filter , some",
-   "publishedAt": 1789372943000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36,
-   "hot": false
   },
   {
    "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
@@ -1002,7 +1016,7 @@
    "comments": 54,
    "publishedAt": 1789352744000,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1016,7 +1030,7 @@
    "comments": 105,
    "publishedAt": 1789309513000,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1030,9 +1044,37 @@
    "comments": 667,
    "publishedAt": 1789123680000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.6,
    "hot": false,
    "lastWeekRank": 17
+  },
+  {
+   "title": "Show GN: 클라우드 낭비 계산기 - 비용 CSV를 브라우저 안에서만 분석해 확정 낭비를 찾아줍니다",
+   "url": "https://news.hada.io/topic?id=33685",
+   "summary": "지난 8월에 Show GN으로 소개했던 클라우드 청구서 채점\"의 셀프 마이너 버전입니다. 그때는 파일을 보내주셔야 진단이 됐는데, 이번에 브라우저에서 바로 돌려볼 수 있는 계산기로 만들었습니다. 하는 일: AWS Cost Explorer CSV(사용 유형별) 또는 파트너사 정산 CSV를 드롭하면 청",
+   "publishedAt": 1789373222000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "경험상 프로그래머들은 \"reduce\"를 좋아하지 않음",
+   "url": "https://news.hada.io/topic?id=33684",
+   "summary": "개인적인 코드 리뷰 경험에서 map 과 filter 사용에는 불만이 드물지만, reduce 에는 읽기 어렵다는 피드백을 자주 받음 reduce 는 map , filter , some",
+   "publishedAt": 1789372943000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.6,
+   "hot": false
   },
   {
    "title": "JPEG XL에 반대하는 이유",
@@ -1045,7 +1087,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1059,7 +1101,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1073,7 +1115,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1087,7 +1129,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1101,7 +1143,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1115,7 +1157,7 @@
    "comments": 130,
    "publishedAt": 1789293598000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1129,7 +1171,7 @@
    "comments": 548,
    "publishedAt": 1789182860000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false,
    "lastWeekRank": 16
   },
@@ -1144,7 +1186,7 @@
    "comments": 36,
    "publishedAt": 1789199643000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false,
    "lastWeekRank": 13
   },
@@ -1159,7 +1201,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1173,7 +1215,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1187,7 +1229,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1201,7 +1243,7 @@
    "comments": 15,
    "publishedAt": 1789331598000,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1215,21 +1257,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "Apple Home’s new security camera features cost up to $60 a month",
-   "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
-   "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible secur",
-   "publishedAt": 1789424932000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1243,7 +1271,7 @@
    "comments": 429,
    "publishedAt": 1789151095000,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false,
    "lastWeekRank": 22
   },
@@ -1254,11 +1282,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 131,
+   "engagement": 132,
    "comments": 108,
    "publishedAt": 1789305868000,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "Apple Home’s new security camera features cost as much as $60 a month",
+   "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+   "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible secur",
+   "publishedAt": 1789424932000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1272,35 +1314,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Alien - 고객 환경에 설치한 소프트웨어를 원격으로 운영하는 플랫폼",
-   "url": "https://news.hada.io/topic?id=33665",
-   "summary": "데이터를 외부 SaaS로 보내기 어려운 사용자를 위해, 소프트웨어는 고객 환경에 설치하고 업데이트와 운영은 개발사가 맡는 관리형 셀프 호스팅 플랫폼 고객은 자신의 서버와 데이터, 네트워크를 유지하고, 개발사는 여러 곳에 설치된 제품의 상태를 한곳에서 확인 ...",
-   "publishedAt": 1789346701000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "What execs and politicians are saying about slowing down AI development",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-   "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compi",
-   "publishedAt": 1789420902000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1314,9 +1328,37 @@
    "comments": 577,
    "publishedAt": 1789020665000,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.2,
    "hot": false,
    "lastWeekRank": 38
+  },
+  {
+   "title": "Alien - 고객 환경에 설치한 소프트웨어를 원격으로 운영하는 플랫폼",
+   "url": "https://news.hada.io/topic?id=33665",
+   "summary": "데이터를 외부 SaaS로 보내기 어려운 사용자를 위해, 소프트웨어는 고객 환경에 설치하고 업데이트와 운영은 개발사가 맡는 관리형 셀프 호스팅 플랫폼 고객은 자신의 서버와 데이터, 네트워크를 유지하고, 개발사는 여러 곳에 설치된 제품의 상태를 한곳에서 확인 ...",
+   "publishedAt": 1789346701000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "What execs and politicians are saying about slowing down AI development",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+   "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compi",
+   "publishedAt": 1789420902000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
   },
   {
    "title": "내 Git 호스트가 정적 사이트 생성기라면?",
@@ -1329,7 +1371,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1343,49 +1385,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
-   "title": "Trump throws out power plant climate pollution rules",
-   "url": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
-   "summary": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric vehicles, and a revival of domestic manufacturing drive up power ",
-   "publishedAt": 1789418700000,
-   "source": "The Verge",
+   "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+   "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+   "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+   "publishedAt": 1789419872000,
+   "source": "Ars Technica",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "태양 내부의 ‘지문’, 과거 행성을 삼켰는지 밝혀낼 수 있어",
-   "url": "https://news.hada.io/topic?id=33660",
-   "summary": "젊은 태양이 슈퍼지구를 삼켰다면 , 그 사건이 남긴 구조적 변화와 화학적 흔적을 현재 태양 내부에서도 탐지할 수 있다는 연구 결과가 나옴 태양 진화 모형은 지구 질량의 5~10배인 행성 을 삼킨 시나리오를 지지하며, 태양 내부 관측과 낮은 리튬 함량을 동시에 재...",
-   "publishedAt": 1789342342000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
-   "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49682319",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 135,
-   "comments": 193,
-   "publishedAt": 1789295358000,
-   "isAI": false,
-   "score": 33,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1399,21 +1413,7 @@
    "comments": 66,
    "publishedAt": 1789244909000,
    "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "스타트업을 강력하게 만드는 법",
-   "url": "https://news.hada.io/topic?id=33659",
-   "summary": "매출을 늘리는 방법보다 회사를 더 강력하게 만드는 방법 을 물으면, 점진적 개선을 넘어 기업 가치를 몇 자릿수나 키울 수 있는 전환을 발견하기도 함 고객 관계와 자금 흐름 을 확보하고, 다른 기업이 제품 위에 사업을 구축하게 하거나 네트워크 효과를 만들면 회...",
-   "publishedAt": 1789339356000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.9,
+   "score": 32.8,
    "hot": false
   }
  ]
