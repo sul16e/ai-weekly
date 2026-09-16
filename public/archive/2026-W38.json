@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789574541617,
+ "updatedAt": 1789578257124,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 322,
-   "comments": 108,
+   "engagement": 360,
+   "comments": 119,
    "publishedAt": 1789546137000,
    "isAI": true,
-   "score": 58.1,
+   "score": 58.5,
    "hot": true
   },
   {
@@ -27,7 +27,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 58,
+   "score": 57.3,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 613,
-   "comments": 748,
+   "engagement": 620,
+   "comments": 763,
    "publishedAt": 1789552445000,
    "isAI": false,
-   "score": 57.5,
+   "score": 56.9,
    "hot": true
   },
   {
@@ -55,7 +55,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 56.1,
+   "score": 55.5,
+   "hot": true
+  },
+  {
+   "title": "How workers are unlocking new ways of working",
+   "url": "https://openai.com/index/unlocking-new-ways-of-working",
+   "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+   "publishedAt": 1789549200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 53.3,
    "hot": true
   },
   {
@@ -65,12 +79,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 465,
-   "comments": 310,
+   "engagement": 470,
+   "comments": 314,
    "publishedAt": 1789493898000,
    "isAI": true,
-   "score": 53.2,
+   "score": 52.8,
    "hot": true
+  },
+  {
+   "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
+   "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49727041",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 122,
+   "comments": 118,
+   "publishedAt": 1789566675000,
+   "isAI": true,
+   "score": 52.1,
+   "hot": false
   },
   {
    "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
@@ -79,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 220,
-   "comments": 132,
+   "engagement": 257,
+   "comments": 179,
    "publishedAt": 1789569036000,
    "isAI": false,
-   "score": 50.7,
+   "score": 51.6,
    "hot": true
   },
   {
@@ -93,11 +121,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 247,
-   "comments": 209,
+   "engagement": 265,
+   "comments": 240,
    "publishedAt": 1789557551000,
    "isAI": false,
-   "score": 50.1,
+   "score": 50.2,
+   "hot": true
+  },
+  {
+   "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+   "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49725800",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 106,
+   "comments": 33,
+   "publishedAt": 1789561195000,
+   "isAI": true,
+   "score": 50,
+   "hot": false
+  },
+  {
+   "title": "LLM 시대의 프로그래밍 학습",
+   "url": "https://news.hada.io/topic?id=33794",
+   "summary": "LLM으로 상당한 규모의 시스템을 만든 초보 개발자가 구현 능력과 이해 수준의 격차 에 부딪힘. 작동할 때는 보이지 않던 격차가 제품화와 오류 수정 과정에서 드러남 개발자는 오래전부터 완전히 이해하지 못하는 추상화 위에서 일해 왔으며, 실용적인 기준은 자신이 일하는...",
+   "publishedAt": 1789577462000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
+  },
+  {
+   "title": "PS5 Linux 핵심 개발자 하차: “LLM으로 자신도 이해하지 못하는 코드를 짜는 초보자들뿐”",
+   "url": "https://news.hada.io/topic?id=33792",
+   "summary": "PlayStation 해커이자 홈브루 개발자인 Andy ‘TheFlow0’ Nguyen 이 AI 바이브 코더의 증가를 이유로 PS5 커뮤니티 활동과 PS5 Linux 개발을 중단 함 수개월을 투자한 작업에는 PS5 Pro 지원을 완성해 2027년에 공개할 계획 도 있었으나, Nguyen은 ...",
+   "publishedAt": 1789577102000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.8,
    "hot": true
   },
   {
@@ -107,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 405,
-   "comments": 259,
+   "engagement": 425,
+   "comments": 271,
    "publishedAt": 1789524451000,
    "isAI": false,
-   "score": 49.7,
+   "score": 49.6,
    "hot": true
   },
   {
@@ -125,7 +195,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.1,
+   "hot": true
+  },
+  {
+   "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+   "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49725356",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 182,
+   "comments": 46,
+   "publishedAt": 1789559380000,
+   "isAI": false,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -139,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -153,8 +237,8 @@
    "comments": 165,
    "publishedAt": 1789490325000,
    "isAI": true,
-   "score": 47.2,
-   "hot": true
+   "score": 46.8,
+   "hot": false
   },
   {
    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
@@ -163,11 +247,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 652,
-   "comments": 221,
+   "engagement": 655,
+   "comments": 224,
    "publishedAt": 1789420501000,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.4,
    "hot": false
   },
   {
@@ -177,11 +261,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 392,
-   "comments": 240,
+   "engagement": 394,
+   "comments": 243,
    "publishedAt": 1789500603000,
    "isAI": false,
-   "score": 46.3,
+   "score": 45.9,
    "hot": true
   },
   {
@@ -195,22 +279,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46,
+   "score": 45.5,
    "hot": true
-  },
-  {
-   "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-   "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49725356",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 150,
-   "comments": 41,
-   "publishedAt": 1789559380000,
-   "isAI": false,
-   "score": 45.8,
-   "hot": false
   },
   {
    "title": "Learning Programming in an Age of LLMs",
@@ -219,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 165,
-   "comments": 111,
+   "engagement": 168,
+   "comments": 120,
    "publishedAt": 1789549954000,
    "isAI": false,
-   "score": 45.4,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -237,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -251,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -262,10 +332,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 146,
-   "comments": 50,
+   "comments": 51,
    "publishedAt": 1789494970000,
    "isAI": true,
-   "score": 44.5,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -279,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -293,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -303,11 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 155,
+   "engagement": 156,
    "comments": 19,
    "publishedAt": 1789482248000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -321,7 +391,7 @@
    "comments": 601,
    "publishedAt": 1789406166000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -331,11 +401,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 359,
-   "comments": 155,
+   "engagement": 360,
+   "comments": 156,
    "publishedAt": 1789479100000,
    "isAI": false,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -345,11 +415,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 304,
+   "engagement": 306,
    "comments": 195,
    "publishedAt": 1789487928000,
    "isAI": false,
-   "score": 42.9,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -363,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -377,35 +447,35 @@
    "comments": 417,
    "publishedAt": 1789389657000,
    "isAI": true,
-   "score": 42.3,
+   "score": 42,
    "hot": false
   },
   {
-   "title": "해커들이 Flock 카메라 내부에 접근, 데이터로 드러난 시스템 작동 방식",
-   "url": "https://news.hada.io/topic?id=33791",
-   "summary": "해커 집단이 Flock 카메라 한 대를 철거 한 뒤 내부 데이터를 추출함 확보한 파일에는 수천 개의 동영상 이 포함돼 있음 장치의 이미지 촬영 기록을 담은 로그 도 함께 추출함 로그에 따르면 이 카메라는 21일 동안 이미지...",
-   "publishedAt": 1789572944000,
+   "title": "초기 Sony PlayStation 2 보안 칩, 26년 만에 ‘완전히 뚫렸다’",
+   "url": "https://news.hada.io/topic?id=33795",
+   "summary": "레트로 하드웨어 개발자 DiscoStarslayer가 4년간의 작업 끝에 초기 PS2 Fat의 CXP102064 MechaCon 칩을 역공학하고 데이터를 추출하는 데 성공함 MechaCon 은 드라이브 제어뿐 아니라 광디스크 보안, Magic Gate 메모리 카드와 KELF 실행 파일 복...",
+   "publishedAt": 1789577642000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.9,
    "hot": true
   },
   {
-   "title": "Salesforce 전 세계 서비스 장애",
-   "url": "https://news.hada.io/topic?id=33790",
-   "summary": "Salesforce 전 세계 서비스 장애",
-   "publishedAt": 1789572764000,
+   "title": "다른 사람들의 일까지 하기",
+   "url": "https://news.hada.io/topic?id=33793",
+   "summary": "다른 사람의 일을 직접 할 수 있는 능력 은 그들의 업무 방식과 필요를 이해하는 데 도움이 되며, 담당자가 하지 않는 일을 끝내야 할 때 더욱 유용함 만든 제품의 도입, 조직 간 협업, 필요한 기능 추가가 막혔다면 직접 통합하거나 패치를 제공하는 방식 으로 일을...",
+   "publishedAt": 1789577282000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.9,
    "hot": true
   },
   {
@@ -419,8 +489,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
+  },
+  {
+   "title": "해커들이 Flock 카메라 내부에 접근, 데이터로 드러난 시스템 작동 방식",
+   "url": "https://news.hada.io/topic?id=33791",
+   "summary": "해커 집단이 Flock 카메라 한 대를 철거 한 뒤 내부 데이터를 추출함 확보한 파일에는 수천 개의 동영상 이 포함돼 있음 장치의 이미지 촬영 기록을 담은 로그 도 함께 추출함 로그에 따르면 이 카메라는 21일 동안 이미지...",
+   "publishedAt": 1789572944000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
+  },
+  {
+   "title": "Salesforce 전 세계 서비스 장애",
+   "url": "https://news.hada.io/topic?id=33790",
+   "summary": "Salesforce 전 세계 서비스 장애",
+   "publishedAt": 1789572764000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
   },
   {
    "title": "AI for Societal Impact",
@@ -433,7 +531,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -447,7 +545,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -461,7 +559,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -472,53 +570,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 111,
-   "comments": 78,
+   "comments": 79,
    "publishedAt": 1789486005000,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
-  },
-  {
-   "title": "FPGA로 Voodoo Graphics와 1990년대 후반 게이밍 PC 재현하기",
-   "url": "https://news.hada.io/topic?id=33789",
-   "summary": "zSST 는 3dfx Voodoo Graphics를 SystemVerilog로 구현한 오픈소스 프로젝트로, z486 CPU와 결합한 z486 XL 에서 Tomb Raider의 원래 3dfx 렌더러를 실행함 삼각형 렌더링, 텍스처 필터링과 밉매핑, 깊이/알파 테스트, 안개, 블렌딩 등 핵심 기능을 지원하며,",
-   "publishedAt": 1789569685000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.4,
-   "hot": true
-  },
-  {
-   "title": "Show GN: gksdud - 씹힘 없고 빠릿빠릿한 Mac 한영 전환",
-   "url": "https://news.hada.io/topic?id=33788",
-   "summary": "Mac에서 한영 전환을 세팅하는 게 항상 귀찮았습니다. 글자가 하나씩 씹혀서 이것저것 깔고 설정해 해결해야 했고, 맥을 세팅하는 지인에게 알려주기도 복잡했습니다. 그래서 복잡한 설정 없는 빠릿빠릿한 한영 전환 을 목표로 한영 키 유틸 gksdud 을 만들어봤습",
-   "publishedAt": 1789569531000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.4,
-   "hot": true
-  },
-  {
-   "title": "Google Play 앱 심사, 이제 일주일을 넘기는 일이 잦아짐",
-   "url": "https://news.hada.io/topic?id=33787",
-   "summary": "Google Play 앱 심사 에 이제 일주일 넘게 걸리는 일이 잦아졌다며 개발자 Daniel Gultsch가 불만을 표함 12년 이상 유지된 Android 앱 이 월 1회만 업데이트하는 경우에는 심사 우선순위를 높여야 한다고 요구함 댓글에서 한 개발자는 자신의 앱 심사가 보...",
-   "publishedAt": 1789569505000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.4,
-   "hot": true
   },
   {
    "title": "Google, 대화하며 추론하는 Gemini 3.8 Live와 Extended Thinking 출시",
@@ -531,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.4,
+   "score": 41,
    "hot": false
   },
   {
@@ -545,8 +601,50 @@
    "comments": 97,
    "publishedAt": 1789473691000,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.9,
    "hot": false
+  },
+  {
+   "title": "FPGA로 Voodoo Graphics와 1990년대 후반 게이밍 PC 재현하기",
+   "url": "https://news.hada.io/topic?id=33789",
+   "summary": "zSST 는 3dfx Voodoo Graphics를 SystemVerilog로 구현한 오픈소스 프로젝트로, z486 CPU와 결합한 z486 XL 에서 Tomb Raider의 원래 3dfx 렌더러를 실행함 삼각형 렌더링, 텍스처 필터링과 밉매핑, 깊이/알파 테스트, 안개, 블렌딩 등 핵심 기능을 지원하며,",
+   "publishedAt": 1789569685000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.9,
+   "hot": true
+  },
+  {
+   "title": "Show GN: gksdud - 씹힘 없고 빠릿빠릿한 Mac 한영 전환",
+   "url": "https://news.hada.io/topic?id=33788",
+   "summary": "Mac에서 한영 전환을 세팅하는 게 항상 귀찮았습니다. 글자가 하나씩 씹혀서 이것저것 깔고 설정해 해결해야 했고, 맥을 세팅하는 지인에게 알려주기도 복잡했습니다. 그래서 복잡한 설정 없는 빠릿빠릿한 한영 전환 을 목표로 한영 키 유틸 gksdud 을 만들어봤습",
+   "publishedAt": 1789569531000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.9,
+   "hot": true
+  },
+  {
+   "title": "Google Play 앱 심사, 이제 일주일을 넘기는 일이 잦아짐",
+   "url": "https://news.hada.io/topic?id=33787",
+   "summary": "Google Play 앱 심사 에 이제 일주일 넘게 걸리는 일이 잦아졌다며 개발자 Daniel Gultsch가 불만을 표함 12년 이상 유지된 Android 앱 이 월 1회만 업데이트하는 경우에는 심사 우선순위를 높여야 한다고 요구함 댓글에서 한 개발자는 자신의 앱 심사가 보...",
+   "publishedAt": 1789569505000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.9,
+   "hot": true
   },
   {
    "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
@@ -556,10 +654,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 226,
-   "comments": 136,
+   "comments": 137,
    "publishedAt": 1789432814000,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.8,
+   "hot": false
+  },
+  {
+   "title": "How much of F-Droid is LLM generated?",
+   "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49710015",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 140,
+   "comments": 178,
+   "publishedAt": 1789465668000,
+   "isAI": true,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -573,22 +685,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
-  },
-  {
-   "title": "How much of F-Droid is LLM generated?",
-   "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49710015",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 139,
-   "comments": 176,
-   "publishedAt": 1789465668000,
-   "isAI": true,
-   "score": 41,
-   "hot": false
   },
   {
    "title": "Jev - 문장 대신 판단과 확률을 반환하는 AI 모델",
@@ -601,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -611,11 +709,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 706,
-   "comments": 844,
+   "engagement": 707,
+   "comments": 847,
    "publishedAt": 1789408229000,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -629,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -643,7 +741,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -657,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.3,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -671,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.3,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -681,11 +779,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 373,
+   "engagement": 375,
    "comments": 111,
    "publishedAt": 1789445723000,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.8,
+   "hot": false
+  },
+  {
+   "title": "Anthropic merges Claude chat and Cowork in one interface",
+   "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+   "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+   "publishedAt": 1789576200000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -699,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -713,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -727,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -741,22 +853,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.4,
    "hot": true
-  },
-  {
-   "title": "OpenArm - 오픈소스 7자유도 휴머노이드 로봇 팔",
-   "url": "https://news.hada.io/topic?id=33739",
-   "summary": "물체를 잡거나 주변 환경과 접촉하는 작업에서 피지컬 AI를 연구하고 학습 데이터를 수집 하기 위한, 사람 크기의 7자유도 휴머노이드 로봇 팔 외부에서 힘을 가하면 관절이 움직이는 역구동성 과 접촉하는 힘에 유연하게 반응하는 순응성 을 갖춰, ...",
-   "publishedAt": 1789483919000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.9,
-   "hot": false
   },
   {
    "title": "작은 프로그래밍 요령들",
@@ -769,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -783,22 +881,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
-  },
-  {
-   "title": "Show HN: 새소리를 듣고 1800년대 삽화로 그려 보여주는 전자잉크 액자",
-   "url": "https://news.hada.io/topic?id=33737",
-   "summary": "fugleramme 는 새소리를 실시간으로 감지하고, 해당 새의 실제 1800년대 박물학 삽화를 Raspberry Pi 기반 전자잉크 액자에 보여주는 프로젝트로, AI 처리는 모두 로컬에서 실행됨 BirdNET-Go 가 마이크 입력을 분류하면 API를 주기적으로 조회해 종에 맞는 삽화를 배...",
-   "publishedAt": 1789483559000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.8,
-   "hot": false
   },
   {
    "title": "Former Infosys chief’s AI startup nabs another $53M",
@@ -811,7 +895,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -825,7 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -839,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -849,11 +933,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 139,
+   "engagement": 140,
    "comments": 13,
    "publishedAt": 1789495059000,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -864,10 +948,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 163,
-   "comments": 151,
+   "comments": 153,
    "publishedAt": 1789415780000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -881,7 +965,7 @@
    "comments": 161,
    "publishedAt": 1789387292000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -895,8 +979,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Ask GN: 홈페이지 외주 납품 후에 오는 수정 요청 어떻게 처리하시나요??",
@@ -909,8 +993,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "독일 Rheinmetall, Battlesuite 연결형 무기 시스템 프로토콜을 오픈소스로 공개",
@@ -923,8 +1007,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
@@ -936,7 +1020,7 @@
    "summary": "As AI agents become participants in the development of their successors, they reshape both the production of intelligence and the role of human researchers. We introduce Atria Dawn Preview, a foundation agentic language model designed for scientific research and engineering workflows, with the goal ",
    "publishedAt": 1789329600000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -950,7 +1034,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -960,11 +1044,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 954,
+   "engagement": 955,
    "comments": 404,
    "publishedAt": 1789321064000,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -978,7 +1062,7 @@
    "comments": 454,
    "publishedAt": 1789259444000,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -993,7 +1077,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+   "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49685253",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 413,
+   "comments": 236,
+   "publishedAt": 1789314278000,
+   "isAI": true,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1007,21 +1105,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-   "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49685253",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 412,
-   "comments": 236,
-   "publishedAt": 1789314278000,
-   "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1035,7 +1119,7 @@
    "comments": 29,
    "publishedAt": 1789396163000,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1049,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1063,7 +1147,7 @@
    "comments": 101,
    "publishedAt": 1789478738000,
    "isAI": false,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -1077,7 +1161,7 @@
    "comments": 690,
    "publishedAt": 1789262551000,
    "isAI": true,
-   "score": 35.2,
+   "score": 35,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -1092,7 +1176,7 @@
    "comments": 182,
    "publishedAt": 1789402505000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1106,7 +1190,7 @@
    "comments": 152,
    "publishedAt": 1789402464000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1120,7 +1204,7 @@
    "comments": 140,
    "publishedAt": 1789390846000,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1134,7 +1218,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1148,7 +1232,7 @@
    "comments": 260,
    "publishedAt": 1789318353000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1161,7 +1245,7 @@
    "summary": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts. Yet thes",
    "publishedAt": 1789416000000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1175,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1189,7 +1273,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1203,7 +1287,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1217,7 +1301,7 @@
    "comments": 217,
    "publishedAt": 1789419922000,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1228,10 +1312,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 290,
-   "comments": 315,
+   "comments": 317,
    "publishedAt": 1789393138000,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1245,7 +1329,7 @@
    "comments": 179,
    "publishedAt": 1789402185000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1259,7 +1343,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1273,7 +1357,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1287,7 +1371,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1301,7 +1385,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1315,92 +1399,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-   "url": "https://spectrum.ieee.org/adversarial-fashion",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49697094",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 111,
-   "comments": 48,
-   "publishedAt": 1789394693000,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-   "url": "https://github.com/callbacked/kinesis",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49695408",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 121,
-   "comments": 46,
-   "publishedAt": 1789387291000,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "A misalignment of AI in mathematics",
-   "url": "https://mathandai.org/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49662371",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1237,
-   "comments": 1213,
-   "publishedAt": 1789148712000,
-   "isAI": true,
    "score": 33.5,
-   "hot": false,
-   "lastWeekRank": 7
-  },
-  {
-   "title": "The sexy AI-powered dating app scams are here",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-   "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movie",
-   "publishedAt": 1789569900000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "Capsule - 데이터를 SQLite에 저장하는 단일 파일 웹 앱",
-   "url": "https://news.hada.io/topic?id=33744",
-   "summary": "앱 화면과 이미지, SQLite 데이터를 하나의 .capsule 파일에 담아 , 할 일 목록이나 레시피북 같은 개인용 앱을 만들고 보관하는 도구 PDF나 Word 문서처럼 이메일이나 AirDrop으로 전달하면, 받는 사람은 저장된 데이터가 들어 있는 앱을 그대로 열어 사용",
-   "publishedAt": 1789493536000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-   "url": "https://github.com/anuj0456/OpenArch",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49693384",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 139,
-   "comments": 32,
-   "publishedAt": 1789372519000,
-   "isAI": true,
-   "score": 33.4,
    "hot": false
   }
  ]
