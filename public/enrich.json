@@ -3381,5 +3381,28 @@
  "AI labs want in-house auditors — but maybe they should shut the front door first": {
   "ko": "AI 랩들, 사내 감사관 원하지만 먼저 '현관문'부터 잠가야",
   "tldr": "AI 기업들이 폭주하는 에이전트를 막기 위해 내부 감사 체계를 원하지만, 사실은 더 간단하고 이미 눈에 보이는 해법이 있다는 지적."
+ },
+ "OpenAI, Sponsored Agents로 ChatGPT 광고 확대": {
+  "img": null,
+  "hook": "ChatGPT에 광고 에이전트가 뜬다",
+  "tldr": "OpenAI가 ChatGPT 광고를 클릭하면 기업이 후원한 AI 에이전트와 대화할 수 있는 'Sponsored Agents'를 미국 일부 광고주 대상으로 테스트 중이다.",
+  "detail": "OpenAI가 ChatGPT 광고에 'Sponsored Agents(후원 에이전트)'를 도입해 테스트하고 있다는 것이 핵심이다. 사용자가 ChatGPT 내 광고를 클릭하면 해당 기업이 후원하는 별도의 AI 에이전트와 대화할 수 있는 방식으로 보인다. 이 후원 에이전트와의 대화는 일반 ChatGPT 답변과 명확히 구분 표시되며, 사용자의 기존 대화 맥락과는 분리되어 진행되는 것으로 보인다. 현재는 미국의 일부 광고주를 대상으로 한 제한적 테스트 단계로 파악된다. 방송 전 체크: 정식 출시 여부, 대상 광고주 범위, 수익화 모델의 구체적 조건 등은 원문 정보만으로는 확인이 어렵다.",
+  "bullets": [
+   "후원 에이전트와의 대화는 명확히 표시되며 ChatGPT의 기본 답변, 사용자의 기존 대화와는 분리되어 운영됨.",
+   "현재는 미국 일부 광고주를 대상으로 한 테스트 단계로 보임.",
+   "방송 전 체크: 정식 출시 시점과 광고주 참여 조건은 원문에 명시돼 있지 않아 확인 필요."
+  ]
+ },
+ "Small programming tricks": {
+  "img": null,
+  "ko": "사소하지만 알아두면 편한 프로그래밍 팁들",
+  "hook": "고수 개발자들만 아는 잔기술 모음",
+  "tldr": "터미널 검색부터 정규식, SQL, git까지 개발 생산성을 높이는 작은 지식 조각들을 모아 소개하는 글.",
+  "detail": "이 글은 거창한 이론보다 당장 써먹을 수 있는 작은 프로그래밍 잔기술들이 실제 생산성에 큰 영향을 준다는 내용이다. 저자는 터미널 명령어 히스토리를 퍼지 검색해주는 fzf, 이를 SQLite 기반 검색 가능한 히스토리로 바꿔주는 atuin, 디렉터리별로 히스토리를 구분해주는 per-directory-history 같은 도구를 예로 든다. SQL에서는 FROM 없이 SELECT만으로 값을 테스트할 수 있다는 점과, PostgreSQL·MySQL의 EXPLAIN ANALYZE로 쿼리 성능을 직접 확인할 수 있다는 점을 소개한다. 정규식에서는 단어 경계를 잡는 \\b, 메트릭에서는 로그 스케일로 값 분포를 버킷화하는 방법도 언급된다. 최신 JS의 Array.flatMap, Object.entries, Promise.withResolvers와 Node.js에서 https.Agent로 커넥션을 유지해 지연시간을 줄이는 방법도 다룬다. git 관련해서는 문자열이 추가·삭제된 커밋을 찾는 git log -S(피케이스)와 이전 브랜치로 바로 이동하는 git checkout -가 소개된다. 마지막으로 find 대신 셸의 glob 패턴(**/*.md)을, grep 대신 ripgrep(rg)을 쓰라고 권하며, zsh의 고급 자동완성 기능은 기본적으로 꺼져 있어 별도 설정이 필요하다고 덧붙인다.",
+  "bullets": [
+   "fzf, atuin 같은 도구로 터미널 명령어 히스토리를 퍼지 검색하면 작업 속도가 빨라짐.",
+   "git log -S(피케이스)로 특정 문자열이 추가·삭제된 커밋을 찾거나, git checkout -로 이전 브랜치로 바로 돌아갈 수 있음.",
+   "find 대신 셸의 glob(**/*.md)이나 grep 대신 ripgrep(rg)을 쓰면 더 빠르고 간단하게 파일을 검색할 수 있음."
+  ]
  }
 }
