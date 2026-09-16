@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789578257124,
+ "updatedAt": 1789582037024,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 360,
-   "comments": 119,
+   "engagement": 404,
+   "comments": 144,
    "publishedAt": 1789546137000,
    "isAI": true,
-   "score": 58.5,
+   "score": 58.9,
    "hot": true
   },
   {
@@ -27,7 +27,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 57.3,
+   "score": 56.7,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 620,
-   "comments": 763,
+   "engagement": 624,
+   "comments": 780,
    "publishedAt": 1789552445000,
    "isAI": false,
-   "score": 56.9,
+   "score": 56.4,
    "hot": true
   },
   {
@@ -55,8 +55,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 55.5,
+   "score": 54.9,
    "hot": true
+  },
+  {
+   "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
+   "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49727041",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 138,
+   "comments": 145,
+   "publishedAt": 1789566675000,
+   "isAI": true,
+   "score": 52.7,
+   "hot": false
   },
   {
    "title": "How workers are unlocking new ways of working",
@@ -69,7 +83,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 53.3,
+   "score": 52.7,
    "hot": true
   },
   {
@@ -79,25 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 470,
+   "engagement": 476,
    "comments": 314,
    "publishedAt": 1789493898000,
    "isAI": true,
-   "score": 52.8,
-   "hot": true
-  },
-  {
-   "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
-   "url": "https://openai.com/index/reimagining-advertising-with-ai/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49727041",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 122,
-   "comments": 118,
-   "publishedAt": 1789566675000,
-   "isAI": true,
-   "score": 52.1,
+   "score": 52.4,
    "hot": false
   },
   {
@@ -107,25 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 257,
-   "comments": 179,
+   "engagement": 269,
+   "comments": 187,
    "publishedAt": 1789569036000,
    "isAI": false,
-   "score": 51.6,
-   "hot": true
-  },
-  {
-   "title": "The Google Play app review process now regularly takes longer than a week",
-   "url": "https://gultsch.social/@daniel/117280438824908947",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49724927",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 265,
-   "comments": 240,
-   "publishedAt": 1789557551000,
-   "isAI": false,
-   "score": 50.2,
+   "score": 51.5,
    "hot": true
   },
   {
@@ -135,18 +121,32 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 106,
-   "comments": 33,
+   "engagement": 121,
+   "comments": 47,
    "publishedAt": 1789561195000,
    "isAI": true,
-   "score": 50,
+   "score": 50.7,
    "hot": false
   },
   {
-   "title": "LLM 시대의 프로그래밍 학습",
-   "url": "https://news.hada.io/topic?id=33794",
-   "summary": "LLM으로 상당한 규모의 시스템을 만든 초보 개발자가 구현 능력과 이해 수준의 격차 에 부딪힘. 작동할 때는 보이지 않던 격차가 제품화와 오류 수정 과정에서 드러남 개발자는 오래전부터 완전히 이해하지 못하는 추상화 위에서 일해 왔으며, 실용적인 기준은 자신이 일하는...",
-   "publishedAt": 1789577462000,
+   "title": "The Google Play app review process now regularly takes longer than a week",
+   "url": "https://gultsch.social/@daniel/117280438824908947",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49724927",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 282,
+   "comments": 260,
+   "publishedAt": 1789557551000,
+   "isAI": false,
+   "score": 50.2,
+   "hot": true
+  },
+  {
+   "title": "Hugging Face, 자사 해킹한 OpenAI에 1억 달러 상당 컴퓨팅 자원 요구",
+   "url": "https://news.hada.io/topic?id=33799",
+   "summary": "Hugging Face CEO Clément Delangue가 OpenAI 모델의 침입 사건에 대해 실행 추적 공개 와 사이버 방어 구축용 1억 달러 상당의 컴퓨팅 자원 을 요구함. 현금 배상이나 소송은 아님 OpenAI는 안전상 거부 동작을 낮춘 내부 테스트에 쓰인 GPT-5.6 Sol과 더 강...",
+   "publishedAt": 1789581397000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -157,10 +157,10 @@
    "hot": true
   },
   {
-   "title": "PS5 Linux 핵심 개발자 하차: “LLM으로 자신도 이해하지 못하는 코드를 짜는 초보자들뿐”",
-   "url": "https://news.hada.io/topic?id=33792",
-   "summary": "PlayStation 해커이자 홈브루 개발자인 Andy ‘TheFlow0’ Nguyen 이 AI 바이브 코더의 증가를 이유로 PS5 커뮤니티 활동과 PS5 Linux 개발을 중단 함 수개월을 투자한 작업에는 PS5 Pro 지원을 완성해 2027년에 공개할 계획 도 있었으나, Nguyen은 ...",
-   "publishedAt": 1789577102000,
+   "title": "2026년의 추론 하드웨어 혁명",
+   "url": "https://news.hada.io/topic?id=33796",
+   "summary": "LLM 활용 증가에 추론형 모델과 AI 에이전트 가 더해지면서, AI 하드웨어의 중심이 대규모 학습에서 급증하는 추론 수요 대응으로 이동하고 있음 추론의 디코드 단계 는 토큰을 하나씩 생성하며 모델 가중치와 문맥을 반복해서 읽기 때문에, 연산 능력보다 메...",
+   "publishedAt": 1789580857000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -177,11 +177,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 425,
-   "comments": 271,
+   "engagement": 455,
+   "comments": 298,
    "publishedAt": 1789524451000,
    "isAI": false,
    "score": 49.6,
+   "hot": true
+  },
+  {
+   "title": "LLM 시대의 프로그래밍 학습",
+   "url": "https://news.hada.io/topic?id=33794",
+   "summary": "LLM으로 상당한 규모의 시스템을 만든 초보 개발자가 구현 능력과 이해 수준의 격차 에 부딪힘. 작동할 때는 보이지 않던 격차가 제품화와 오류 수정 과정에서 드러남 개발자는 오래전부터 완전히 이해하지 못하는 추상화 위에서 일해 왔으며, 실용적인 기준은 자신이 일하는...",
+   "publishedAt": 1789577462000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.3,
+   "hot": true
+  },
+  {
+   "title": "PS5 Linux 핵심 개발자 하차: “LLM으로 자신도 이해하지 못하는 코드를 짜는 초보자들뿐”",
+   "url": "https://news.hada.io/topic?id=33792",
+   "summary": "PlayStation 해커이자 홈브루 개발자인 Andy ‘TheFlow0’ Nguyen 이 AI 바이브 코더의 증가를 이유로 PS5 커뮤니티 활동과 PS5 Linux 개발을 중단 함 수개월을 투자한 작업에는 PS5 Pro 지원을 완성해 2027년에 공개할 계획 도 있었으나, Nguyen은 ...",
+   "publishedAt": 1789577102000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.3,
+   "hot": true
+  },
+  {
+   "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+   "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49725356",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 207,
+   "comments": 60,
+   "publishedAt": 1789559380000,
+   "isAI": false,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -195,21 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
-   "hot": true
-  },
-  {
-   "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-   "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49725356",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 182,
-   "comments": 46,
-   "publishedAt": 1789559380000,
-   "isAI": false,
-   "score": 47.1,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -223,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -237,7 +265,21 @@
    "comments": 165,
    "publishedAt": 1789490325000,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.3,
+   "hot": false
+  },
+  {
+   "title": "Small Programming Tricks",
+   "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49729000",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 138,
+   "comments": 82,
+   "publishedAt": 1789574207000,
+   "isAI": false,
+   "score": 46.1,
    "hot": false
   },
   {
@@ -247,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 655,
-   "comments": 224,
+   "engagement": 656,
+   "comments": 226,
    "publishedAt": 1789420501000,
    "isAI": true,
-   "score": 46.4,
+   "score": 46,
    "hot": false
   },
   {
@@ -261,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 394,
-   "comments": 243,
+   "engagement": 397,
+   "comments": 247,
    "publishedAt": 1789500603000,
    "isAI": false,
-   "score": 45.9,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -279,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 45,
    "hot": true
   },
   {
@@ -289,11 +331,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 168,
-   "comments": 120,
+   "engagement": 172,
+   "comments": 122,
    "publishedAt": 1789549954000,
    "isAI": false,
-   "score": 45.1,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -301,20 +343,6 @@
    "url": "https://news.hada.io/topic?id=33771",
    "summary": "오늘날의 AI는 이미 코드, 문서, 소설을 훌륭하게 작성합니다. 남은 병목은 '생성'이 아니라 '준수'입니다. 에이전트는 명세를 이해하고도 제약 조건 하나를 무시한 채 작업이 끝났다고 선언할 수 있습니다(준수 격차, The Compliance Gap). Evidence Graph는 작업이 이루어지는 바로 그 자리에서 에이전트가",
    "publishedAt": 1789539438000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.7,
-   "hot": true
-  },
-  {
-   "title": "Show GN: 오데덕 - API 신청까지 대신하며 공공데이터를 파고드는 AI 도구",
-   "url": "https://news.hada.io/topic?id=33770",
-   "summary": "공공데이터를 찾아 활용신청부터 실제 조회까지 이어가는 오픈소스, 오데덕(odeduck)을 만들었습니다. 공공데이터는 공개되어 있어도 쓰기까지 할 일이 많습니다. 자료를 찾고, 명세를 읽고, 신청하고, 인증키를 받아 호출해야 합니다. 이 과정을 AI 에이전트가 맡도록 만들었습니다. 목표 하나로 찾아",
-   "publishedAt": 1789535665000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -335,7 +363,21 @@
    "comments": 51,
    "publishedAt": 1789494970000,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.7,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 오데덕 - API 신청까지 대신하며 공공데이터를 파고드는 AI 도구",
+   "url": "https://news.hada.io/topic?id=33770",
+   "summary": "공공데이터를 찾아 활용신청부터 실제 조회까지 이어가는 오픈소스, 오데덕(odeduck)을 만들었습니다. 공공데이터는 공개되어 있어도 쓰기까지 할 일이 많습니다. 자료를 찾고, 명세를 읽고, 신청하고, 인증키를 받아 호출해야 합니다. 이 과정을 AI 에이전트가 맡도록 만들었습니다. 목표 하나로 찾아",
+   "publishedAt": 1789535665000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -349,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.5,
+   "score": 43,
    "hot": false
   },
   {
@@ -363,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -374,10 +416,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 156,
-   "comments": 19,
+   "comments": 20,
    "publishedAt": 1789482248000,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -391,7 +433,7 @@
    "comments": 601,
    "publishedAt": 1789406166000,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -401,11 +443,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 360,
+   "engagement": 363,
    "comments": 156,
    "publishedAt": 1789479100000,
    "isAI": false,
-   "score": 42.8,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -415,11 +457,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 306,
-   "comments": 195,
+   "engagement": 307,
+   "comments": 196,
    "publishedAt": 1789487928000,
    "isAI": false,
-   "score": 42.6,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -433,8 +475,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false
+  },
+  {
+   "title": "CSS Zen Garden의 꿈, 마침내 실제로 구현되다",
+   "url": "https://news.hada.io/topic?id=33798",
+   "summary": "Mozilla, Lincoln Loop와 함께 재구축한 Firefox.com 은 현대적인 디자인을 특수 문법이나 전처리기에 의존하지 않는 네이티브 CSS로 구현함 Custom Properties, Grid, Flexbox 의 발전과 브라우저 구현의 일관성 덕분에 과거의 우회 기법 없이 디자인을 충실하게 구...",
+   "publishedAt": 1789581217000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.9,
+   "hot": true
+  },
+  {
+   "title": "25년간의 대규모 감시, 이제 충분하다",
+   "url": "https://news.hada.io/topic?id=33797",
+   "summary": "9/11 이후 테러 대응을 명분으로 시작한 대규모 감시 가 이민 단속, 시위자 추적, 민간 보안까지 일상적으로 확산됐지만, 비용과 안전 증진 효과를 종합적으로 검증한 분석은 없음 민간 기업의 데이터 수집 이 정부 감시에 정보를 공급함. 정부는 통신사와 인터넷 기...",
+   "publishedAt": 1789581037000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.9,
+   "hot": true
   },
   {
    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
@@ -447,7 +517,7 @@
    "comments": 417,
    "publishedAt": 1789389657000,
    "isAI": true,
-   "score": 42,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -461,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.5,
    "hot": true
   },
   {
@@ -475,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.4,
    "hot": true
   },
   {
@@ -489,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.4,
+   "score": 41,
    "hot": false
   },
   {
@@ -503,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -517,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -531,7 +601,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -545,7 +615,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -559,7 +629,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -573,7 +643,7 @@
    "comments": 79,
    "publishedAt": 1789486005000,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -587,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -601,7 +671,21 @@
    "comments": 97,
    "publishedAt": 1789473691000,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.5,
+   "hot": false
+  },
+  {
+   "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+   "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49706223",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 227,
+   "comments": 137,
+   "publishedAt": 1789432814000,
+   "isAI": true,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -615,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -629,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -643,22 +727,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
-  },
-  {
-   "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-   "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49706223",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 226,
-   "comments": 137,
-   "publishedAt": 1789432814000,
-   "isAI": true,
-   "score": 40.8,
-   "hot": false
   },
   {
    "title": "How much of F-Droid is LLM generated?",
@@ -667,11 +737,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 140,
-   "comments": 178,
+   "engagement": 141,
+   "comments": 179,
    "publishedAt": 1789465668000,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.4,
+   "hot": false
+  },
+  {
+   "title": "iOS 27, iPadOS 27, and macOS 27",
+   "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49701004",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 708,
+   "comments": 847,
+   "publishedAt": 1789408229000,
+   "isAI": false,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -685,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -693,34 +777,6 @@
    "url": "https://news.hada.io/topic?id=33751",
    "summary": "TypeSafe AI가 분류, 라우팅, 점수화와 조건 분기 처럼 소프트웨어 안에서 반복되는 판단을 자동화하는 모델 Jev를 얼리 액세스로 공개함 문장을 자유롭게 생성하는 대신 미리 정한 형식의 값과 확률을 반환 하며, 여러 판단 결과를 한 번의 요청에서 병렬로 출력함...",
    "publishedAt": 1789504945000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.6,
-   "hot": false
-  },
-  {
-   "title": "iOS 27, iPadOS 27, and macOS 27",
-   "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49701004",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 707,
-   "comments": 847,
-   "publishedAt": 1789408229000,
-   "isAI": false,
-   "score": 40.5,
-   "hot": false
-  },
-  {
-   "title": "대부분의 사람은 전통 건축을 선호한다",
-   "url": "https://news.hada.io/topic?id=33750",
-   "summary": "1990년대 이후 적절한 표본을 갖춘 건축 시각 선호도 조사 약 20건에서 모두 응답자의 60% 이상이 전통 건축을 선호 했으며, 여러 조사에서는 85%를 넘었음 사진의 각도, 날씨, 주변 환경이 달라 비교가 어려웠던 초기 조사와 달리, 최근에는 AI 이미지 편집 으로 건...",
-   "publishedAt": 1789501007000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -741,7 +797,21 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.8,
+   "hot": false
+  },
+  {
+   "title": "대부분의 사람은 전통 건축을 선호한다",
+   "url": "https://news.hada.io/topic?id=33750",
+   "summary": "1990년대 이후 적절한 표본을 갖춘 건축 시각 선호도 조사 약 20건에서 모두 응답자의 60% 이상이 전통 건축을 선호 했으며, 여러 조사에서는 85%를 넘었음 사진의 각도, 날씨, 주변 환경이 달라 비교가 어려웠던 초기 조사와 달리, 최근에는 AI 이미지 편집 으로 건...",
+   "publishedAt": 1789501007000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -755,7 +825,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.6,
+   "hot": false
+  },
+  {
+   "title": "Linux from Scratch",
+   "url": "https://www.linuxfromscratch.org/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49707627",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 377,
+   "comments": 111,
+   "publishedAt": 1789445723000,
+   "isAI": false,
+   "score": 39.5,
+   "hot": false
+  },
+  {
+   "title": "Your AI agents can now control your Google Home devices",
+   "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+   "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+   "publishedAt": 1789578000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -769,21 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.9,
-   "hot": false
-  },
-  {
-   "title": "Linux from Scratch",
-   "url": "https://www.linuxfromscratch.org/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49707627",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 375,
-   "comments": 111,
-   "publishedAt": 1789445723000,
-   "isAI": false,
-   "score": 39.8,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -797,7 +881,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -811,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -825,7 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -839,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -853,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -867,7 +951,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -881,7 +965,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -895,7 +979,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.3,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -909,7 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -923,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -933,11 +1017,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 140,
+   "engagement": 141,
    "comments": 13,
    "publishedAt": 1789495059000,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -951,7 +1035,7 @@
    "comments": 153,
    "publishedAt": 1789415780000,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -965,7 +1049,7 @@
    "comments": 161,
    "publishedAt": 1789387292000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -979,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -993,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -1007,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -1016,11 +1100,11 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 423,
+   "engagement": 424,
    "summary": "As AI agents become participants in the development of their successors, they reshape both the production of intelligence and the role of human researchers. We introduce Atria Dawn Preview, a foundation agentic language model designed for scientific research and engineering workflows, with the goal ",
    "publishedAt": 1789329600000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -1034,7 +1118,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1048,7 +1132,7 @@
    "comments": 404,
    "publishedAt": 1789321064000,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1062,7 +1146,7 @@
    "comments": 454,
    "publishedAt": 1789259444000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -1077,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1088,10 +1172,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 413,
-   "comments": 236,
+   "comments": 237,
    "publishedAt": 1789314278000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1105,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1119,34 +1203,6 @@
    "comments": 29,
    "publishedAt": 1789396163000,
    "isAI": true,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "Show HN: 20달러짜리 4G 무선 핫스팟을 메시지 기기로 개조하기",
-   "url": "https://news.hada.io/topic?id=33758",
-   "summary": "배송비 포함 20달러 미만의 MF800 4G 모뎀 에 Linux를 설치하고, Clicks 물리 키보드와 SHARP 디스플레이를 결합해 메시지 전용 휴대 기기를 제작함 OpenStick 으로 기본 Android를 Linux로 교체하고, 원래 기기의 디바이스 트리에서 디스플레이 핀과 전원 정보를 추...",
-   "publishedAt": 1789515272000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "Australia 'on the same page' as Canada as it seeks deeper EU alliance",
-   "url": "https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49712186",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 123,
-   "comments": 101,
-   "publishedAt": 1789478738000,
-   "isAI": false,
    "score": 35,
    "hot": false
   },
@@ -1161,9 +1217,37 @@
    "comments": 690,
    "publishedAt": 1789262551000,
    "isAI": true,
-   "score": 35,
+   "score": 34.8,
    "hot": false,
    "lastWeekRank": 3
+  },
+  {
+   "title": "Australia 'on the same page' as Canada as it seeks deeper EU alliance",
+   "url": "https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49712186",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 123,
+   "comments": 101,
+   "publishedAt": 1789478738000,
+   "isAI": false,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "Show HN: 20달러짜리 4G 무선 핫스팟을 메시지 기기로 개조하기",
+   "url": "https://news.hada.io/topic?id=33758",
+   "summary": "배송비 포함 20달러 미만의 MF800 4G 모뎀 에 Linux를 설치하고, Clicks 물리 키보드와 SHARP 디스플레이를 결합해 메시지 전용 휴대 기기를 제작함 OpenStick 으로 기본 Android를 Linux로 교체하고, 원래 기기의 디바이스 트리에서 디스플레이 핀과 전원 정보를 추...",
+   "publishedAt": 1789515272000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.7,
+   "hot": false
   },
   {
    "title": "For AI leaders Doom is a form of hype",
@@ -1176,7 +1260,7 @@
    "comments": 182,
    "publishedAt": 1789402505000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1190,7 +1274,7 @@
    "comments": 152,
    "publishedAt": 1789402464000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1204,21 +1288,7 @@
    "comments": 140,
    "publishedAt": 1789390846000,
    "isAI": false,
-   "score": 34.8,
-   "hot": false
-  },
-  {
-   "title": "디스토피아적 감시가 현실이 되고 있다",
-   "url": "https://news.hada.io/topic?id=33757",
-   "summary": "Apple Watch에 도입될 예정인 Audio Intelligence 는 대화를 상시 청취하고 전사해 하루가 끝날 때 요약하며, 대화 상대는 인지하거나 동의하지 않은 채 기록될 수 있음 개인 일지 작성이나 업무 회의 기록에는 유용할 수 있지만, 기기 소유자의 개인정보 보호 장치 ...",
-   "publishedAt": 1789511968000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1232,7 +1302,21 @@
    "comments": 260,
    "publishedAt": 1789318353000,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "디스토피아적 감시가 현실이 되고 있다",
+   "url": "https://news.hada.io/topic?id=33757",
+   "summary": "Apple Watch에 도입될 예정인 Audio Intelligence 는 대화를 상시 청취하고 전사해 하루가 끝날 때 요약하며, 대화 상대는 인지하거나 동의하지 않은 채 기록될 수 있음 개인 일지 작성이나 업무 회의 기록에는 유용할 수 있지만, 기기 소유자의 개인정보 보호 장치 ...",
+   "publishedAt": 1789511968000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1245,7 +1329,7 @@
    "summary": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts. Yet thes",
    "publishedAt": 1789416000000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1259,35 +1343,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "미국 운전면허증 정보 유출은 국가안보 재앙이다",
-   "url": "https://news.hada.io/topic?id=33753",
-   "summary": "다크웹 서비스 Nexus 가 미국과 캐나다 시민의 운전면허증 1억 5,300만 건과 여행 관련 신분 문서 300만 건에 대한 접근권을 판매했으며, 자료의 진위와 미국 고위 공직자의 정보 포함 여부도 확인됨 운전면허 번호 는 다른 데이터베이스의 기록을 주소와 사진이 포함...",
-   "publishedAt": 1789505306000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "Wayback Machine, 대량 봇 트래픽 차단 중 정상 사용자도 차단",
-   "url": "https://news.hada.io/topic?id=33752",
-   "summary": "Internet Archive가 대량 자동화 트래픽 이 반복적으로 몰리는 Wayback Machine의 운영을 유지하기 위해 보호 조치를 적용함 최근 요청이 차단될 때 표시되는 HTTP 429 오류 안내 문구 를 수정했으며, 이 코드는 ‘요청이 너무 많음’을 뜻함 보호 조치가 ...",
-   "publishedAt": 1789505126000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1301,7 +1357,35 @@
    "comments": 217,
    "publishedAt": 1789419922000,
    "isAI": false,
-   "score": 34,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "미국 운전면허증 정보 유출은 국가안보 재앙이다",
+   "url": "https://news.hada.io/topic?id=33753",
+   "summary": "다크웹 서비스 Nexus 가 미국과 캐나다 시민의 운전면허증 1억 5,300만 건과 여행 관련 신분 문서 300만 건에 대한 접근권을 판매했으며, 자료의 진위와 미국 고위 공직자의 정보 포함 여부도 확인됨 운전면허 번호 는 다른 데이터베이스의 기록을 주소와 사진이 포함...",
+   "publishedAt": 1789505306000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "Wayback Machine, 대량 봇 트래픽 차단 중 정상 사용자도 차단",
+   "url": "https://news.hada.io/topic?id=33752",
+   "summary": "Internet Archive가 대량 자동화 트래픽 이 반복적으로 몰리는 Wayback Machine의 운영을 유지하기 위해 보호 조치를 적용함 최근 요청이 차단될 때 표시되는 HTTP 429 오류 안내 문구 를 수정했으며, 이 코드는 ‘요청이 너무 많음’을 뜻함 보호 조치가 ...",
+   "publishedAt": 1789505126000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1315,91 +1399,7 @@
    "comments": 317,
    "publishedAt": 1789393138000,
    "isAI": false,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
-   "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49699297",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 257,
-   "comments": 179,
-   "publishedAt": 1789402185000,
-   "isAI": false,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "DevFest is back",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-   "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-   "publishedAt": 1789401600000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-   "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-   "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-   "publishedAt": 1789518039000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
    "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "Mergiraf, 지원 언어와 파일 형식을 늘려가는 구문 인식 Git 병합 드라이버",
-   "url": "https://news.hada.io/topic?id=33749",
-   "summary": "Mergiraf 는 프로그래밍 언어와 파일 형식의 구문을 인식하는 Git 병합 드라이버 임 지원하는 프로그래밍 언어와 파일 형식 의 범위를 늘려가고 있음 공식 문서 와 공개적으로 접근할 수 있는 Zulip 채팅 ...",
-   "publishedAt": 1789498856000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "이스라엘 장관, 가자 다큐멘터리 제작자들의 시민권 박탈 위협",
-   "url": "https://news.hada.io/topic?id=33747",
-   "summary": "이스라엘 문화부 장관 Miki Zohar 가 가자 다큐멘터리 제작자들의 시민권 박탈 이 가능하도록 요구함 시민권 박탈 요구 대상은 영화 제작자 Yuval Abraham 과 Rachel Szor 임 요구의 계기가 된 작품은 Naza",
-   "publishedAt": 1789498115000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "품질이 다시 당연한 기준이 되게 하자",
-   "url": "https://news.hada.io/topic?id=33746",
-   "summary": "소비자 정책 은 소비자가 순환경제에 부합하는 선택을 더 쉽고 안전하며 매력적으로 느끼도록 만들 수 있음 순환경제 는 환경을 위해 중요함 순환경제 확대는 소비자 권리 강화 에도 기여할 수 있음 순환경제는 사회적 회...",
-   "publishedAt": 1789497935000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.5,
    "hot": false
   }
  ]
