@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789615220391,
+ "updatedAt": 1789627143033,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 541,
-   "comments": 188,
+   "engagement": 557,
+   "comments": 191,
    "publishedAt": 1789546137000,
    "isAI": true,
-   "score": 56,
+   "score": 54.5,
    "hot": true
   },
   {
@@ -23,11 +23,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 206,
-   "comments": 212,
+   "engagement": 214,
+   "comments": 217,
    "publishedAt": 1789575985000,
    "isAI": true,
-   "score": 52.6,
+   "score": 51.2,
+   "hot": true
+  },
+  {
+   "title": "Small programming tricks",
+   "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49729000",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 482,
+   "comments": 208,
+   "publishedAt": 1789574207000,
+   "isAI": false,
+   "score": 50.7,
    "hot": true
   },
   {
@@ -41,8 +55,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 52,
-   "hot": true
+   "score": 50.3,
+   "hot": false
   },
   {
    "title": "EU chief opens door for Canada to become 'associate member'",
@@ -51,12 +65,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 651,
-   "comments": 828,
+   "engagement": 658,
+   "comments": 835,
    "publishedAt": 1789552445000,
    "isAI": false,
-   "score": 51.8,
+   "score": 50.2,
    "hot": true
+  },
+  {
+   "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+   "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49735410",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 106,
+   "comments": 8,
+   "publishedAt": 1789609187000,
+   "isAI": true,
+   "score": 49.9,
+   "hot": false
+  },
+  {
+   "title": "OpenSpec – A lightweight and configurable AI spec framework",
+   "url": "https://openspec.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49734264",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 121,
+   "comments": 48,
+   "publishedAt": 1789599999000,
+   "isAI": true,
+   "score": 49.8,
+   "hot": false
   },
   {
    "title": "Helping older adults use AI in everyday life",
@@ -69,21 +111,49 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.5,
-   "hot": true
+   "score": 49.8,
+   "hot": false
   },
   {
-   "title": "Small programming tricks",
-   "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49729000",
+   "title": "Nvidia announces native GPU programming in Rust",
+   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49724881",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 420,
-   "comments": 189,
-   "publishedAt": 1789574207000,
+   "engagement": 545,
+   "comments": 201,
+   "publishedAt": 1789557353000,
    "isAI": false,
-   "score": 51.2,
+   "score": 49.4,
+   "hot": true
+  },
+  {
+   "title": "DeepMind Institute",
+   "url": "https://news.hada.io/topic?id=33825",
+   "summary": "DeepMind Institute 는 AGI에 가까워지는 시점에 인류에 미칠 중대한 영향을 이해하기 위해 학제 간 사고 가 필요하다고 강조함 추론 투명성 을 통해 AI의 사고 과정을 읽고 계략과 기만을 감시할 수 있으며, 이 통로를 유지해야 함",
+   "publishedAt": 1789623132000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.4,
+   "hot": true
+  },
+  {
+   "title": "3진 LLM의 1.58비트 장벽을 넘어서",
+   "url": "https://news.hada.io/topic?id=33822",
+   "summary": "BITCOS 는 3진 LLM 가중치의 0 비중을 활용해 저장량을 줄이는 형식으로, 조사한 29개 모델 중 26개에서 기존 5트릿 패킹보다 작고 기호만 계산하면 최소 가중치당 1.485비트 를 달성함 모든 가중치에 비영 여부를 나타내는 비트 1개를 배정하고, 0이 아닌 가중치의 ...",
+   "publishedAt": 1789620132000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49,
    "hot": true
   },
   {
@@ -97,7 +167,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 50,
+   "score": 48.4,
    "hot": false
   },
   {
@@ -111,8 +181,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.5,
+   "score": 47.9,
    "hot": false
+  },
+  {
+   "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
+   "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49727041",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 153,
+   "comments": 173,
+   "publishedAt": 1789566675000,
+   "isAI": true,
+   "score": 47.2,
+   "hot": true
   },
   {
    "title": "Show GN: 옆 팀 레포는 그쪽 Claude가 제일 잘 안다 — 세션 간 질의응답 브로커",
@@ -125,21 +209,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
+   "score": 47.2,
    "hot": true
   },
   {
-   "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
-   "url": "https://openai.com/index/reimagining-advertising-with-ai/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49727041",
+   "title": "Australia says it could follow Canada in forging deeper ties with EU",
+   "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49734171",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 153,
-   "comments": 171,
-   "publishedAt": 1789566675000,
-   "isAI": true,
-   "score": 48.8,
+   "engagement": 209,
+   "comments": 161,
+   "publishedAt": 1789599408000,
+   "isAI": false,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -149,12 +233,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 160,
+   "engagement": 164,
    "comments": 66,
    "publishedAt": 1789561195000,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.1,
    "hot": true
+  },
+  {
+   "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49715947",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 482,
+   "comments": 322,
+   "publishedAt": 1789493898000,
+   "isAI": true,
+   "score": 47,
+   "hot": false
   },
   {
    "title": "Pixel 10에서 C2PA 출처 정보 위조하기",
@@ -167,22 +265,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
+   "score": 46.7,
    "hot": true
-  },
-  {
-   "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49715947",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 481,
-   "comments": 322,
-   "publishedAt": 1789493898000,
-   "isAI": true,
-   "score": 48.3,
-   "hot": false
   },
   {
    "title": "verygoodsoftwarenotvirus.ru의 끝",
@@ -195,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -209,22 +293,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.1,
+   "score": 46.6,
    "hot": false
-  },
-  {
-   "title": "Nvidia announces native GPU programming in Rust",
-   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49724881",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 373,
-   "comments": 142,
-   "publishedAt": 1789557353000,
-   "isAI": false,
-   "score": 48,
-   "hot": true
   },
   {
    "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
@@ -233,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 306,
-   "comments": 212,
+   "engagement": 311,
+   "comments": 215,
    "publishedAt": 1789569036000,
    "isAI": false,
-   "score": 47.9,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -251,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.6,
+   "score": 46,
    "hot": true
   },
   {
@@ -261,25 +331,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 343,
-   "comments": 331,
+   "engagement": 349,
+   "comments": 334,
    "publishedAt": 1789557551000,
    "isAI": false,
-   "score": 47.3,
-   "hot": true
-  },
-  {
-   "title": "Australia says it could follow Canada in forging deeper ties with EU",
-   "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49734171",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 177,
-   "comments": 127,
-   "publishedAt": 1789599408000,
-   "isAI": false,
-   "score": 47.2,
+   "score": 45.9,
    "hot": true
   },
   {
@@ -293,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.1,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -307,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 45,
    "hot": true
   },
   {
@@ -317,11 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 502,
+   "engagement": 506,
    "comments": 333,
    "publishedAt": 1789524451000,
    "isAI": false,
-   "score": 46.2,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -335,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -345,11 +401,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 265,
-   "comments": 76,
+   "engagement": 269,
+   "comments": 77,
    "publishedAt": 1789559380000,
    "isAI": false,
-   "score": 45.4,
+   "score": 44.1,
    "hot": true
   },
   {
@@ -363,8 +419,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.3,
-   "hot": true
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "2026년의 추론 하드웨어 혁명",
@@ -377,8 +433,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
-   "hot": true
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "LLM 시대의 프로그래밍 학습",
@@ -391,8 +447,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
-   "hot": true
+   "score": 43.3,
+   "hot": false
   },
   {
    "title": "PS5 Linux 핵심 개발자 하차: “LLM으로 자신도 이해하지 못하는 코드를 짜는 초보자들뿐”",
@@ -405,8 +461,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
-   "hot": true
+   "score": 43.3,
+   "hot": false
   },
   {
    "title": "Learning Programming in an Age of LLMs",
@@ -415,12 +471,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 234,
-   "comments": 175,
+   "engagement": 237,
+   "comments": 180,
    "publishedAt": 1789549954000,
    "isAI": false,
-   "score": 43.3,
+   "score": 42.1,
    "hot": true
+  },
+  {
+   "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+   "url": "https://www.effort.news/irregular",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49704132",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 672,
+   "comments": 238,
+   "publishedAt": 1789420501000,
+   "isAI": true,
+   "score": 42.1,
+   "hot": false
   },
   {
    "title": "Mistral x Mozilla: 프라이버시를 지키는 다국어 AI 브라우징",
@@ -433,21 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
-   "hot": false
-  },
-  {
-   "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-   "url": "https://www.effort.news/irregular",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49704132",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 671,
-   "comments": 237,
-   "publishedAt": 1789420501000,
-   "isAI": true,
-   "score": 43.1,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -458,11 +514,39 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 229,
-   "comments": 167,
+   "comments": 168,
    "publishedAt": 1789490325000,
    "isAI": true,
-   "score": 42.8,
+   "score": 41.7,
    "hot": false
+  },
+  {
+   "title": "블로그 글에 DOI를 발급받는 방법",
+   "url": "https://news.hada.io/topic?id=33824",
+   "summary": "Rogue Scholar 를 이용하면 개인 블로그에 글을 유지하면서 새 글마다 DOI를 자동 발급받을 수 있음 DOI 는 특정 글을 가리키는 고유하고 지속적인 식별자로, 도메인이나 글의 주소가 바뀌어도 새 위치로 연결할 수 있어 학술 인용에 유용함 등록하려면",
+   "publishedAt": 1789621932000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
+  },
+  {
+   "title": "Show GN: Trawling - 해외 기술 소식을 모아보는 한국어 브리핑",
+   "url": "https://news.hada.io/topic?id=33823",
+   "summary": "https://trawling.dev/ 해외 기술 소식과 프로젝트를 여러 출처에서 모아 한국어 요약과 해설로 보여주는 Trawling을 만들었습니다. 여러 사이트를 오가며 영어 제목과 본문을 확인하는 과정을, 한 목록에서 요약을 먼저 읽고 관심 있는 원문을 열어보는 흐름으로 묶었습니다. 개발 도구, 오픈소스, 하",
+   "publishedAt": 1789621127000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
   },
   {
    "title": "EU 집행위원장, 캐나다의 ‘준회원국’ 가입 가능성 열어",
@@ -475,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -485,11 +569,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 410,
-   "comments": 264,
+   "engagement": 412,
+   "comments": 268,
    "publishedAt": 1789500603000,
    "isAI": false,
-   "score": 42.1,
+   "score": 41,
+   "hot": false
+  },
+  {
+   "title": "macOS 27 Golden Gate – Review",
+   "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49732036",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 114,
+   "comments": 135,
+   "publishedAt": 1789588416000,
+   "isAI": false,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -503,22 +601,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 40.3,
    "hot": true
-  },
-  {
-   "title": "macOS 27 Golden Gate – Review",
-   "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49732036",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 110,
-   "comments": 126,
-   "publishedAt": 1789588416000,
-   "isAI": false,
-   "score": 41.6,
-   "hot": false
   },
   {
    "title": "호주, 캐나다처럼 EU와 관계를 강화할 수 있다고 밝혀",
@@ -531,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -545,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -559,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.1,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -573,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.9,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -587,8 +671,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 39.4,
    "hot": true
+  },
+  {
+   "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+   "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+   "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+   "publishedAt": 1789621200000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.3,
+   "hot": false
   },
   {
    "title": "Octane - React 프로그래밍 모델을 직접 DOM 코드로 컴파일하는 UI 프레임워크",
@@ -601,8 +699,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 39.3,
    "hot": true
+  },
+  {
+   "title": "Hugging Face is billing OpenAI $100M for hacking it",
+   "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49716241",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 147,
+   "comments": 51,
+   "publishedAt": 1789494970000,
+   "isAI": true,
+   "score": 39.2,
+   "hot": false
+  },
+  {
+   "title": "Pion, an agent designed to run any company autonomously",
+   "url": "https://andonlabs.com/blog/why-we-built-pion",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49700477",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 488,
+   "comments": 610,
+   "publishedAt": 1789406166000,
+   "isAI": true,
+   "score": 39.2,
+   "hot": false
   },
   {
    "title": "Show GN: Evidence Graph, 증거진술의무를 부여하여 스킬즈 지침 100% 따르게하기",
@@ -615,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -629,63 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
-   "hot": true
-  },
-  {
-   "title": "Hugging Face is billing OpenAI $100M for hacking it",
-   "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49716241",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 146,
-   "comments": 51,
-   "publishedAt": 1789494970000,
-   "isAI": true,
-   "score": 40.2,
-   "hot": false
-  },
-  {
-   "title": "Pion, an agent designed to run any company autonomously",
-   "url": "https://andonlabs.com/blog/why-we-built-pion",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49700477",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 488,
-   "comments": 609,
-   "publishedAt": 1789406166000,
-   "isAI": true,
-   "score": 40.1,
-   "hot": false
-  },
-  {
-   "title": "Xiaomi Mimo 2.6 실시간 사후 학습 대시보드",
-   "url": "https://news.hada.io/topic?id=33808",
-   "summary": "mimo-v2.6-pro와 mimo-v2.6-flash 의 학습 진행 단계, 누적 비용, 토큰 사용량, 평가 결과와 동적 샘플러 상태를 실시간 대시보드로 공개함 제공된 화면에서 dynsam/avg@n 은 pro 0.590, flash 0.603이며, 첫 단계 대비 각각 0.026과 0.089 상승함 ...",
-   "publishedAt": 1789598540000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40,
-   "hot": true
-  },
-  {
-   "title": "벡터화와 성능 이식성을 갖춘 Quicksort (2022)",
-   "url": "https://news.hada.io/topic?id=33807",
-   "summary": "Google이 SIMD 기반 Quicksort 코드를 오픈소스로 공개함. 수치 배열 정렬에서 C++ std::sort 보다 약 10배 빠르며, 기존 아키텍처 전용 정렬 알고리듬도 능가함 CPU 시간 대부분을 차지하는 분할 작업 을 벡터화함. 피벗보다 작은 원소와 나머지를",
-   "publishedAt": 1789598360000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -699,7 +769,91 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
+   "score": 38.8,
+   "hot": false
+  },
+  {
+   "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+   "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+   "publishedAt": 1789615800000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 38.7,
+   "hot": false
+  },
+  {
+   "title": "Xiaomi Mimo 2.6 실시간 사후 학습 대시보드",
+   "url": "https://news.hada.io/topic?id=33808",
+   "summary": "mimo-v2.6-pro와 mimo-v2.6-flash 의 학습 진행 단계, 누적 비용, 토큰 사용량, 평가 결과와 동적 샘플러 상태를 실시간 대시보드로 공개함 제공된 화면에서 dynsam/avg@n 은 pro 0.590, flash 0.603이며, 첫 단계 대비 각각 0.026과 0.089 상승함 ...",
+   "publishedAt": 1789598540000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.6,
+   "hot": true
+  },
+  {
+   "title": "벡터화와 성능 이식성을 갖춘 Quicksort (2022)",
+   "url": "https://news.hada.io/topic?id=33807",
+   "summary": "Google이 SIMD 기반 Quicksort 코드를 오픈소스로 공개함. 수치 배열 정렬에서 C++ std::sort 보다 약 10배 빠르며, 기존 아키텍처 전용 정렬 알고리듬도 능가함 CPU 시간 대부분을 차지하는 분할 작업 을 벡터화함. 피벗보다 작은 원소와 나머지를",
+   "publishedAt": 1789598360000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.6,
+   "hot": true
+  },
+  {
+   "title": "The Inference Hardware Revolution of 2026",
+   "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49713024",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 158,
+   "comments": 21,
+   "publishedAt": 1789482248000,
+   "isAI": true,
+   "score": 38.5,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+   "url": "https://withcapsule.app/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49712278",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 368,
+   "comments": 157,
+   "publishedAt": 1789479100000,
+   "isAI": false,
+   "score": 38.3,
+   "hot": false
+  },
+  {
+   "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49695876",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 509,
+   "comments": 418,
+   "publishedAt": 1789389657000,
+   "isAI": true,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -713,64 +867,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 38.2,
    "hot": true
-  },
-  {
-   "title": "The Inference Hardware Revolution of 2026",
-   "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49713024",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 157,
-   "comments": 21,
-   "publishedAt": 1789482248000,
-   "isAI": true,
-   "score": 39.5,
-   "hot": false
-  },
-  {
-   "title": "Navier-Stokes 이후에도 LLM 전망을 여전히 비관하는 이유",
-   "url": "https://news.hada.io/topic?id=33766",
-   "summary": "최첨단 AI 연구소의 기업가치는 지식 노동자의 완전 자동 대체 기대를 반영하지만, 현재 모델은 단순한 작업에도 상당한 감독과 안전장치가 필요함 모델은 학습한 특정 작업과 가까운 범위에서만 잘 일반화하며, 작은 변형에도 실패하거나 보상 해킹 을 일으킬 수 있...",
-   "publishedAt": 1789529656000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.4,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-   "url": "https://withcapsule.app/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49712278",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 366,
-   "comments": 156,
-   "publishedAt": 1789479100000,
-   "isAI": false,
-   "score": 39.3,
-   "hot": false
-  },
-  {
-   "title": "Show GN: 보시오와 보아요 프로젝트 - 정이십면체 프레임버퍼를 이용한 RTL/WM 프로젝트",
-   "url": "https://news.hada.io/topic?id=33765",
-   "summary": "안녕하세요, 저는 방구석 개발자 VARZero (비으비) 입니다. 저는 디지털 회로 설계에 관심이 많고, 이걸 OS와 연동하는데도 관심이 많습니다. 3DoF(3축) VR/AR HMD을 위한 구 공간의 디스플레잉 시스템을 만들어보고 싶었고, 요새 바이브 코딩, 에이전틱 AI가 발전해서 개발이 빨라졌다? 개발이 쉬",
-   "publishedAt": 1789528505000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.3,
-   "hot": false
   },
   {
    "title": "America's Driver's License Breach Is a National Security Disaster",
@@ -779,25 +877,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 314,
+   "engagement": 315,
    "comments": 200,
    "publishedAt": 1789487928000,
    "isAI": false,
-   "score": 39.1,
-   "hot": false
-  },
-  {
-   "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49695876",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 509,
-   "comments": 417,
-   "publishedAt": 1789389657000,
-   "isAI": true,
-   "score": 39.1,
+   "score": 38,
    "hot": false
   },
   {
@@ -811,11 +895,11 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 37.8,
    "hot": true
   },
   {
-   "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+   "title": "Al Gore says the real AI risk isn’t data centers",
    "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
    "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
    "publishedAt": 1789602189000,
@@ -825,7 +909,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.5,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -839,49 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
-   "hot": true
-  },
-  {
-   "title": "CSS Zen Garden의 꿈, 마침내 실제로 구현되다",
-   "url": "https://news.hada.io/topic?id=33798",
-   "summary": "같은 HTML을 CSS만 바꿔 전혀 다른 모습으로 만드는 CSS Zen Garden 의 이상을, 현대 CSS로 Firefox.com을 재구축하며 실제 서비스에 적용함 Custom Properties, Grid, Flexbox와 일관된 브라우저 지원 덕분에 전처리기나 각종 우회 기법 없이 디자인을 충실하게 구...",
-   "publishedAt": 1789581217000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38,
-   "hot": true
-  },
-  {
-   "title": "25년간의 대규모 감시, 이제 충분하다",
-   "url": "https://news.hada.io/topic?id=33797",
-   "summary": "9/11 이후 테러 대응을 명분으로 시작한 대규모 감시 가 이민 단속, 시위자 추적, 민간 보안까지 일상적으로 확산됐지만, 비용과 안전 증진 효과를 종합적으로 검증한 분석은 없음 민간 기업의 데이터 수집 이 정부 감시에 정보를 공급함. 정부는 통신사와 인터넷 기...",
-   "publishedAt": 1789581037000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38,
-   "hot": true
-  },
-  {
-   "title": "Cartesian – AI 3D Modeling for Design",
-   "url": "https://www.formas.ai/cartesian",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49713999",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 113,
-   "comments": 79,
-   "publishedAt": 1789486005000,
-   "isAI": true,
-   "score": 37.7,
+   "score": 37,
    "hot": false
   },
   {
@@ -892,52 +934,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 229,
-   "comments": 139,
+   "comments": 141,
    "publishedAt": 1789432814000,
    "isAI": true,
-   "score": 37.7,
-   "hot": false
-  },
-  {
-   "title": "AI for Societal Impact",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-   "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-   "publishedAt": 1789488000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 37.7,
-   "hot": false
-  },
-  {
-   "title": "Building AI to accelerate science and improve lives",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-   "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
-   "publishedAt": 1789488000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 37.7,
-   "hot": false
-  },
-  {
-   "title": "AI for everyone in every language",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-   "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-   "publishedAt": 1789488000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 37.7,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -951,7 +951,119 @@
    "comments": 850,
    "publishedAt": 1789408229000,
    "isAI": false,
-   "score": 37.6,
+   "score": 36.8,
+   "hot": false
+  },
+  {
+   "title": "CSS Zen Garden의 꿈, 마침내 실제로 구현되다",
+   "url": "https://news.hada.io/topic?id=33798",
+   "summary": "같은 HTML을 CSS만 바꿔 전혀 다른 모습으로 만드는 CSS Zen Garden 의 이상을, 현대 CSS로 Firefox.com을 재구축하며 실제 서비스에 적용함 Custom Properties, Grid, Flexbox와 일관된 브라우저 지원 덕분에 전처리기나 각종 우회 기법 없이 디자인을 충실하게 구...",
+   "publishedAt": 1789581217000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.8,
+   "hot": false
+  },
+  {
+   "title": "25년간의 대규모 감시, 이제 충분하다",
+   "url": "https://news.hada.io/topic?id=33797",
+   "summary": "9/11 이후 테러 대응을 명분으로 시작한 대규모 감시 가 이민 단속, 시위자 추적, 민간 보안까지 일상적으로 확산됐지만, 비용과 안전 증진 효과를 종합적으로 검증한 분석은 없음 민간 기업의 데이터 수집 이 정부 감시에 정보를 공급함. 정부는 통신사와 인터넷 기...",
+   "publishedAt": 1789581037000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.8,
+   "hot": false
+  },
+  {
+   "title": "Cartesian – AI 3D Modeling for Design",
+   "url": "https://www.formas.ai/cartesian",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49713999",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 113,
+   "comments": 79,
+   "publishedAt": 1789486005000,
+   "isAI": true,
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "AI for Societal Impact",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+   "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+   "publishedAt": 1789488000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "Building AI to accelerate science and improve lives",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+   "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+   "publishedAt": 1789488000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "AI for everyone in every language",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+   "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+   "publishedAt": 1789488000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+   "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49711240",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 129,
+   "comments": 97,
+   "publishedAt": 1789473691000,
+   "isAI": true,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "How much of F-Droid is LLM generated?",
+   "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49710015",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 143,
+   "comments": 180,
+   "publishedAt": 1789465668000,
+   "isAI": true,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -965,8 +1077,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
-   "hot": true
+   "score": 36.4,
+   "hot": false
   },
   {
    "title": "다른 사람들의 일까지 하기",
@@ -979,35 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
-   "hot": true
-  },
-  {
-   "title": "How much of F-Droid is LLM generated?",
-   "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49710015",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 143,
-   "comments": 179,
-   "publishedAt": 1789465668000,
-   "isAI": true,
-   "score": 37.5,
-   "hot": false
-  },
-  {
-   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-   "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49711240",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 128,
-   "comments": 98,
-   "publishedAt": 1789473691000,
-   "isAI": true,
-   "score": 37.4,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -1021,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.4,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -1035,8 +1119,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 35.9,
+   "hot": false
   },
   {
    "title": "Salesforce 전 세계 서비스 장애",
@@ -1049,49 +1133,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
-  },
-  {
-   "title": "FPGA로 Voodoo Graphics와 1990년대 후반 게이밍 PC 재현하기",
-   "url": "https://news.hada.io/topic?id=33789",
-   "summary": "zSST 는 3dfx Voodoo Graphics를 SystemVerilog로 구현한 오픈소스 프로젝트로, z486 CPU와 결합한 z486 XL 에서 Tomb Raider의 원래 3dfx 렌더러를 실행함 삼각형 렌더링, 텍스처 필터링과 밉매핑, 깊이/알파 테스트, 안개, 블렌딩 등 핵심 기능을 지원하며,",
-   "publishedAt": 1789569685000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "Show GN: gksdud - 씹힘 없고 빠릿빠릿한 Mac 한영 전환",
-   "url": "https://news.hada.io/topic?id=33788",
-   "summary": "Mac에서 한영 전환을 세팅하는 게 항상 귀찮았습니다. 글자가 하나씩 씹혀서 이것저것 깔고 설정해 해결해야 했고, 맥을 세팅하는 지인에게 알려주기도 복잡했습니다. 그래서 복잡한 설정 없는 빠릿빠릿한 한영 전환 을 목표로 한영 키 유틸 gksdud 을 만들어봤습",
-   "publishedAt": 1789569531000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "Google Play 앱 심사, 이제 일주일을 넘기는 일이 잦아짐",
-   "url": "https://news.hada.io/topic?id=33787",
-   "summary": "Google Play 앱 심사 에 이제 일주일 넘게 걸리는 일이 잦아졌다며 개발자 Daniel Gultsch가 불만을 표함 12년 이상 유지된 Android 앱 이 월 1회만 업데이트하는 경우에는 심사 우선순위를 높여야 한다고 요구함 댓글에서 한 개발자는 자신의 앱 심사가 보...",
-   "publishedAt": 1789569505000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.8,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -1105,7 +1147,7 @@
    "comments": 112,
    "publishedAt": 1789445723000,
    "isAI": false,
-   "score": 36.7,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1119,7 +1161,49 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36.7,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "FPGA로 Voodoo Graphics와 1990년대 후반 게이밍 PC 재현하기",
+   "url": "https://news.hada.io/topic?id=33789",
+   "summary": "zSST 는 3dfx Voodoo Graphics를 SystemVerilog로 구현한 오픈소스 프로젝트로, z486 CPU와 결합한 z486 XL 에서 Tomb Raider의 원래 3dfx 렌더러를 실행함 삼각형 렌더링, 텍스처 필터링과 밉매핑, 깊이/알파 테스트, 안개, 블렌딩 등 핵심 기능을 지원하며,",
+   "publishedAt": 1789569685000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "Show GN: gksdud - 씹힘 없고 빠릿빠릿한 Mac 한영 전환",
+   "url": "https://news.hada.io/topic?id=33788",
+   "summary": "Mac에서 한영 전환을 세팅하는 게 항상 귀찮았습니다. 글자가 하나씩 씹혀서 이것저것 깔고 설정해 해결해야 했고, 맥을 세팅하는 지인에게 알려주기도 복잡했습니다. 그래서 복잡한 설정 없는 빠릿빠릿한 한영 전환 을 목표로 한영 키 유틸 gksdud 을 만들어봤습",
+   "publishedAt": 1789569531000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "Google Play 앱 심사, 이제 일주일을 넘기는 일이 잦아짐",
+   "url": "https://news.hada.io/topic?id=33787",
+   "summary": "Google Play 앱 심사 에 이제 일주일 넘게 걸리는 일이 잦아졌다며 개발자 Daniel Gultsch가 불만을 표함 12년 이상 유지된 Android 앱 이 월 1회만 업데이트하는 경우에는 심사 우선순위를 높여야 한다고 요구함 댓글에서 한 개발자는 자신의 앱 심사가 보...",
+   "publishedAt": 1789569505000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1133,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1147,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1161,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.9,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1175,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1189,7 +1273,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1203,7 +1287,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1217,49 +1301,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "책이 물리적으로 너무 클 때, 여러 권으로 나누기",
-   "url": "https://news.hada.io/topic?id=33779",
-   "summary": "850쪽이 넘는 Lonesome Dove 같은 두꺼운 책은 여러 권으로 잘라 나누면 손에 들고 읽거나 휴대하기 편해짐 분권에는 몇 분과 간단한 도구 만 필요하며, 도서관 책이 아닌 직접 산 책으로 해야 함 책의 부나 장 경계 에서 나누되, 무선 제...",
-   "publishedAt": 1789548126000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.7,
-   "hot": false
-  },
-  {
-   "title": "작은 프로그래밍 요령들",
-   "url": "https://news.hada.io/topic?id=33778",
-   "summary": "엔지니어링 생산성의 상당 부분은 언어 기능, 명령어, 디버깅 단서 같은 작은 지식 에서 나옴 특히 많은 사전 지식 없이 활용할 수 있는 요령 이 유용하며, Python을 몰라도 python3 -m http.server 로 현재 디렉터리에 간단한 서버를 띄울 수 있음 ...",
-   "publishedAt": 1789547822000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.7,
-   "hot": false
-  },
-  {
-   "title": "Coreutils - 거절된 기능 요청들",
-   "url": "https://news.hada.io/topic?id=33777",
-   "summary": "Coreutils 개발에서 어려운 일 중 하나는 어떤 기능을 넣지 않을지 결정하고 그 이유를 설명하는 것 이며, 실제로 거절한 요청과 대안, 당시 논의를 공개함 기존 도구의 조합 이 여러 기능 요청의 대안이 됨. cp --resume 에는 rsync ,",
-   "publishedAt": 1789547619000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.7,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1273,21 +1315,7 @@
    "comments": 153,
    "publishedAt": 1789415780000,
    "isAI": true,
-   "score": 34.6,
-   "hot": false
-  },
-  {
-   "title": "Google copied our open-source code, removed engineers' names without credit",
-   "url": "https://www.reddit.com/r/reinforcementlearning/comments/1wg1unx/google_copied_our_opensource_code_removed_our/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49716265",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 146,
-   "comments": 13,
-   "publishedAt": 1789495059000,
-   "isAI": false,
-   "score": 34.5,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1301,21 +1329,7 @@
    "comments": 161,
    "publishedAt": 1789387292000,
    "isAI": true,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "Former Infosys chief’s AI startup nabs another $53M",
-   "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-   "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-   "publishedAt": 1789563600000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.5,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1329,78 +1343,64 @@
    "comments": 455,
    "publishedAt": 1789259444000,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.7,
    "hot": false,
    "lastWeekRank": 2
   },
   {
-   "title": "Show GN: 소빛 - 쿠팡 상품을 담아두면 값이 내릴 때 알려주는 앱",
-   "url": "https://news.hada.io/topic?id=33772",
-   "summary": "쿠팡에서 사고 싶은 상품을 발견하면 일단 담아두고, 가격이 내려갔을 때 알려주는 서비스를 만들었습니다. 비슷한 서비스는 이미 여럿 있습니다. 가격 추적 서비스의 핵심은 대부분 비슷하니까요. 상품을 담아두면 가격을 추적하고, 가격이 내려가면 알려주는 것. 항상 그렇듯이 처",
-   "publishedAt": 1789542632000,
+   "title": "책이 물리적으로 너무 클 때, 여러 권으로 나누기",
+   "url": "https://news.hada.io/topic?id=33779",
+   "summary": "850쪽이 넘는 Lonesome Dove 같은 두꺼운 책은 여러 권으로 잘라 나누면 손에 들고 읽거나 휴대하기 편해짐 분권에는 몇 분과 간단한 도구 만 필요하며, 도서관 책이 아닌 직접 산 책으로 해야 함 책의 부나 장 경계 에서 나누되, 무선 제...",
+   "publishedAt": 1789548126000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "Why is Google still serving dodgy ads?",
-   "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49686445",
-   "source": "Hacker News",
+   "title": "작은 프로그래밍 요령들",
+   "url": "https://news.hada.io/topic?id=33778",
+   "summary": "엔지니어링 생산성의 상당 부분은 언어 기능, 명령어, 디버깅 단서 같은 작은 지식 에서 나옴 특히 많은 사전 지식 없이 활용할 수 있는 요령 이 유용하며, Python을 몰라도 python3 -m http.server 로 현재 디렉터리에 간단한 서버를 띄울 수 있음 ...",
+   "publishedAt": 1789547822000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 956,
-   "comments": 404,
-   "publishedAt": 1789321064000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "애플, 18년 만에 AI 서버 시장 재도전…엔비디아와 손잡나",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215374",
-   "summary": "애플이 자체 개발한 칩을 탑재한 기업용 AI 서버를 개발하며 18년 만에 서버 시장 재진출을 추진하고 있다. 특히 오랫동안 관계가 냉랭했던 엔비디아와 AI 서버용 네트워크 기술 도입을 논의하고 있는 것으로 알려져 양사의 협력 관계에도 변화가 나타날지 주목된다.16일(현지시간) 디 인포메이션에 따르면, 애플은 AI 개발자와 기업, 정부 기관 등을 대상으로 판매할 기업용 서버를 개발하고 있다.제품은 애플의 차세대 최고 성능 프로세서인 'M8 울트라' 2개를 탑재한 소형 모델과 4개를 장착한 고성능 모델 등 두 가지 형태가 검토되고 있다",
-   "publishedAt": 1789614249000,
+   "title": "Coreutils - 거절된 기능 요청들",
+   "url": "https://news.hada.io/topic?id=33777",
+   "summary": "Coreutils 개발에서 어려운 일 중 하나는 어떤 기능을 넣지 않을지 결정하고 그 이유를 설명하는 것 이며, 실제로 거절한 요청과 대안, 당시 논의를 공개함 기존 도구의 조합 이 여러 기능 요청의 대안이 됨. cp --resume 에는 rsync ,",
+   "publishedAt": 1789547619000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "지니젠AI, 오픈라우터 426종 분석 '한국어 AI 품질 리더보드' 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215396",
+   "summary": "지니젠AI(대표 최선영)가 글로벌 AI 모델 중개 플랫폼 오픈라우터의 모델 426종을 분석, 한국어 품질 평가 결과를 담은 리더보드를 허깅페이스에 공개했다고 17일 밝혔다.오픈라우터는 앤트로픽, 구글, 오픈AI, xAI, 딥시크 등 다양한 AI 모델을 단일 API로 제공하는 플랫폼이다. 2026년 8월 기준 이용자 1000만명, 일 처리량 10조 토큰을 돌파했다.지니젠AI는 이 중 330종을 대상으로 높임말 정확도, 한국 제도 지식, 전문 용어, 지시 준수, 요약, 번역투 배제, 문체 일관성 등 7개 항목을 평가했다. 평가 결과 종",
+   "publishedAt": 1789623161000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "인핸스, '에이전트 OS'로 512억 시리즈 C 투자 유치",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215373",
-   "summary": "AI 전문 인핸스(대표 이승현)는 512억원 규모의 시리즈 C 투자를 유치하며 누적 투자금 810억원을 달성했다고 17일 밝혔다.이번 라운드는 기존 투자자인 타임폴리오자산운용과 신규 투자자로 합류한 스톤브릿지벤처스가 공동 리드했다. IMM인베스트먼트와 스틱벤처스가 신규 투자자로 참여했으며, L&S벤처캐피탈, AOA캐피탈파트너스, KT인베스트먼트, 현대기술투자 등이 후속 투자에 참여했다.특히 포스코·LG·롯데 그룹 등 고객사 그룹의 계열사인 포스코기술투자, LG CNS, 롯데벤처스 등이 투자에 참여해 주목받았다.인핸스는 SAP을 비롯",
-   "publishedAt": 1789613716000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, '코워크' 브랜드 접고 챗봇에 통합…'AI 슈퍼 앱' 경쟁 가열",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215371",
-   "summary": "앤트로픽이 별도 제공되던 '클로드 코워크(Claude Cowork)' 브랜드를 종료하고, 관련 에이전트 기능을 클로드 챗봇 기본 인터페이스 전반에 통합한다. 이에 따라 사용자는 대화형 인터페이스와 장기 실행 에이전트 작업 공간 중 하나를 직접 선택해야 했던 번거로움 없이, 하나의 대화창 안에서 질문부터 다단계 프로젝트 수행까지 자연스럽게 전환할 수 있게 됐다. 앤트로픽은 16일(현지시간) 업무용 AI 에이전트 기능인 '클로드 코워크(Cowork)'를 일반 대화형 서비스인 '클로드'에 통합하고, 문서와 프레젠테이션을 제작할 수 있는",
-   "publishedAt": 1789612602000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
+   "score": 33.6,
    "hot": false
   }
  ]
