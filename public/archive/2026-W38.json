@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789656400100,
+ "updatedAt": 1789660058834,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 198,
-   "comments": 152,
+   "engagement": 221,
+   "comments": 171,
    "publishedAt": 1789633629000,
    "isAI": true,
-   "score": 54.8,
+   "score": 55.2,
    "hot": true
   },
   {
@@ -23,11 +23,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 158,
-   "comments": 124,
+   "engagement": 164,
+   "comments": 130,
    "publishedAt": 1789634197000,
    "isAI": true,
-   "score": 52.8,
+   "score": 52.6,
+   "hot": true
+  },
+  {
+   "title": "Canada welcomes EU proposal to become 'associate member'",
+   "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49740507",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 228,
+   "comments": 276,
+   "publishedAt": 1789651837000,
+   "isAI": false,
+   "score": 50.7,
    "hot": true
   },
   {
@@ -37,46 +51,18 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 574,
+   "engagement": 575,
    "comments": 197,
    "publishedAt": 1789546137000,
    "isAI": true,
-   "score": 50.9,
+   "score": 50.4,
    "hot": false
   },
   {
-   "title": "GLM이 자신의 추론 인프라를 구축함",
+   "title": "재귀적 자기 개선을 향하여: GLM은 어떻게 자체 추론 인프라를 구축했는가",
    "url": "https://news.hada.io/topic?id=33843",
-   "summary": "GLM-5.3 기반 Infra Agent 가 엔지니어들과 함께 중국산 AI 가속기 10만 개 이상의 클러스터에 GLM-5.3-Flash용 프로덕션 추론 인프라를 구축함 초기 모델 적응부터 프로덕션 준비까지 2주 미만 이 걸렸으며, 메모리 최적화와 추론 단계 분리 등을 통해 초기 기준 대...",
+   "summary": "GLM-5.3 기반 에이전트가 엔지니어들과 함께 중국산 AI 가속기 10만 개 이상에서 GLM-5.3-Flash를 서비스하는 추론 인프라 를 구축함 초기 모델 적응부터 실서비스 준비까지 2주 미만 이 걸렸으며, 메모리 최적화와 추론 단계 분리 등을 통해 초기 기준 대비 전체 처...",
    "publishedAt": 1789656134000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 50,
-   "hot": true
-  },
-  {
-   "title": "HarnessTax: 코딩 에이전트에서 하네스는 얼마나 중요할까?",
-   "url": "https://news.hada.io/topic?id=33842",
-   "summary": "7개 모델과 3개 하네스의 21개 조합 을 평가한 결과, 두 벤치마크에서 하네스 선택은 작업 성공률보다 토큰 비용 에 더 큰 영향을 미쳤으며, 같은 모델이 비슷한 성공률을 내는 데 비용은 최대 5배 차이 났음 Claude Code 는 공통 모델 기준 SWE-ben...",
-   "publishedAt": 1789653134000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 49.5,
-   "hot": true
-  },
-  {
-   "title": "OpenSpec - 가볍고 구성을 조정할 수 있는 AI 명세 프레임워크",
-   "url": "https://news.hada.io/topic?id=33841",
-   "summary": "OpenSpec 은 만들려는 소프트웨어의 요구사항을 명세로 작성하고 관리하며, 작업이 진행되는 동안 팀과 코딩 에이전트가 같은 목표를 유지하도록 돕는 프레임워크임 요구사항을 구체화 하고 원하는 대상을 제대로 기술하는지 확인하며, 구현이 명세와 일치하...",
-   "publishedAt": 1789652535000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -87,17 +73,31 @@
    "hot": true
   },
   {
-   "title": "Canada welcomes EU proposal to become 'associate member'",
-   "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49740507",
-   "source": "Hacker News",
+   "title": "HarnessTax: 코딩 에이전트에서 하네스는 얼마나 중요할까?",
+   "url": "https://news.hada.io/topic?id=33842",
+   "summary": "7개 모델을 Claude Code, Codex CLI, Pi에 연결해 비교한 결과, 같은 모델이 비슷한 작업 성공률을 내면서도 토큰 비용은 최대 5배 차이 가 났음 읽기, 쓰기, 편집, bash만 제공하는 단순한 하네스 Pi도 비용 대비 성공률에서 경쟁력 을 보였으며, SWE-bench Lite에서...",
+   "publishedAt": 1789653134000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 184,
-   "comments": 153,
-   "publishedAt": 1789651837000,
-   "isAI": false,
-   "score": 49.2,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49,
+   "hot": true
+  },
+  {
+   "title": "OpenSpec - 코딩 에이전트와 구현 전에 명세를 맞추는 개발 도구",
+   "url": "https://news.hada.io/topic?id=33841",
+   "summary": "대화 기록에만 남아 있던 요구사항을 명세와 구현 계획으로 정리하고, 사람이 검토한 뒤 AI가 코드를 작성 하도록 돕는 도구 변경 작업마다 제안서, 요구사항과 시나리오, 기술 설계, 작업 목록을 별도 폴더에 모아 무엇을 왜 바꾸는지 함께 관리 문제 탐색...",
+   "publishedAt": 1789652535000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.9,
    "hot": true
   },
   {
@@ -107,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 830,
-   "comments": 332,
+   "engagement": 864,
+   "comments": 342,
    "publishedAt": 1789557353000,
    "isAI": false,
-   "score": 48.9,
+   "score": 48.7,
    "hot": false
   },
   {
@@ -121,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 171,
-   "comments": 84,
+   "engagement": 174,
+   "comments": 87,
    "publishedAt": 1789599999000,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -135,11 +135,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 598,
-   "comments": 261,
+   "engagement": 612,
+   "comments": 268,
    "publishedAt": 1789574207000,
    "isAI": false,
-   "score": 48.5,
+   "score": 48.3,
+   "hot": true
+  },
+  {
+   "title": "Claude Cowork and chat are now one Claude",
+   "url": "https://claude.com/blog/cowork-is-now-claude",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49729412",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 226,
+   "comments": 225,
+   "publishedAt": 1789575985000,
+   "isAI": true,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -153,21 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
-   "hot": true
-  },
-  {
-   "title": "Claude Cowork and chat are now one Claude",
-   "url": "https://claude.com/blog/cowork-is-now-claude",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49729412",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 225,
-   "comments": 223,
-   "publishedAt": 1789575985000,
-   "isAI": true,
-   "score": 47.7,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -181,7 +181,7 @@
    "comments": 10,
    "publishedAt": 1789609187000,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.8,
    "hot": false
   },
   {
@@ -191,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 675,
-   "comments": 865,
+   "engagement": 676,
+   "comments": 867,
    "publishedAt": 1789552445000,
    "isAI": false,
-   "score": 46.8,
+   "score": 46.4,
    "hot": false
   },
   {
@@ -209,7 +209,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.5,
+   "score": 46.1,
    "hot": false
   },
   {
@@ -223,13 +223,13 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.7,
    "hot": false
   },
   {
-   "title": "DeepMind Institute",
+   "title": "DeepMind Institute 출범 - AGI 시대의 안전과 사회 변화를 논의하는 플랫폼",
    "url": "https://news.hada.io/topic?id=33825",
-   "summary": "DeepMind Institute 는 AGI에 가까워지는 시점에 인류에 미칠 중대한 영향을 이해하기 위해 학제 간 사고 가 필요하다고 강조함 추론 투명성 을 통해 AI의 사고 과정을 읽고 계략과 기만을 감시할 수 있으며, 이 통로를 유지해야 함",
+   "summary": "Google과 Google DeepMind 연구자들이 AGI의 안전한 개발과 사회적 영향을 연구하고 토론하는 DeepMind Institute(DMI) 를 출범함 기술 개발뿐 아니라 일자리와 경제 정책, 인간의 가치, 제도와 거버넌스 까지 다루며, 외부 연구자와 인문학, 예술, 정부의 참여도 강...",
    "publishedAt": 1789623132000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -237,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 44.9,
    "hot": true
   },
   {
@@ -251,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -265,7 +265,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -279,7 +279,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.4,
+   "score": 44,
    "hot": false
   },
   {
@@ -290,10 +290,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 231,
-   "comments": 194,
+   "comments": 198,
    "publishedAt": 1789599408000,
    "isAI": false,
-   "score": 44.2,
+   "score": 43.8,
    "hot": true
   },
   {
@@ -307,7 +307,7 @@
    "comments": 325,
    "publishedAt": 1789493898000,
    "isAI": true,
-   "score": 44,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -321,7 +321,7 @@
    "comments": 174,
    "publishedAt": 1789566675000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -331,11 +331,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 170,
+   "engagement": 171,
    "comments": 66,
    "publishedAt": 1789561195000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -349,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.5,
+   "score": 43,
    "hot": false
   },
   {
@@ -363,8 +363,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
+  },
+  {
+   "title": "Cloudflare/Security-Audit-Skill",
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49736466",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 152,
+   "comments": 31,
+   "publishedAt": 1789619815000,
+   "isAI": false,
+   "score": 42.8,
+   "hot": true
   },
   {
    "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
@@ -377,7 +391,7 @@
    "comments": 220,
    "publishedAt": 1789569036000,
    "isAI": false,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -391,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -405,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -419,22 +433,22 @@
    "comments": 344,
    "publishedAt": 1789557551000,
    "isAI": false,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
-   "title": "Cloudflare/Security-Audit-Skill",
-   "url": "https://github.com/cloudflare/security-audit-skill",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49736466",
-   "source": "Hacker News",
+   "title": "캐나다, EU의 ‘준회원국’ 가입 제안 환영",
+   "url": "https://news.hada.io/topic?id=33846",
+   "summary": "캐나다 총리 Mark Carney 가 캐나다를 EU 최초의 준회원국 으로 받아들이자는 제안을 환영하며 국방, 핵심 광물, 에너지 안보 분야의 협력 확대를 촉구함 준회원국 지위는 현재 EU에 없는 제도 로, 구체적 형태가 불분명하고 도입에 수년이 걸릴 수 ...",
+   "publishedAt": 1789659734000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 141,
-   "comments": 23,
-   "publishedAt": 1789619815000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 42.6,
-   "hot": false
+   "score": 42,
+   "hot": true
   },
   {
    "title": "DeepSeek V4.1 Flash, 이제 Enclave의 최고 해킹 모델",
@@ -447,8 +461,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
    "hot": false
+  },
+  {
+   "title": "Unicode 18.0.0",
+   "url": "https://news.hada.io/topic?id=33845",
+   "summary": "Unicode 18.0 초안은 문자 13,007개 를 추가해 총 172,808개를 수록하며, Proto-Cuneiform 숫자, Jurchen, Seal 문자 체계를 새로 지원함 줄바꿈과 자소 클러스터 분할 규칙이 바뀌며, 대시/하이픈 처리와 Balinese, Zanabazar Square, Bengali 텍스트의 분할 동작을...",
+   "publishedAt": 1789657934000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Apple Reference Image: A New Approach for Verified Photography",
@@ -457,11 +485,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 517,
-   "comments": 345,
+   "engagement": 518,
+   "comments": 346,
    "publishedAt": 1789524451000,
    "isAI": false,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -475,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -489,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -503,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -517,7 +545,7 @@
    "comments": 84,
    "publishedAt": 1789559380000,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -531,35 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
-   "hot": true
-  },
-  {
-   "title": "후원으로 이어온 Servo 개발 1년",
-   "url": "https://news.hada.io/topic?id=33837",
-   "summary": "Servo는 월간 기부금으로 운영하는 첫 유급 역할 을 통해 장기 메인테이너 Josh Bowman-Matthews가 파트타임으로 기여자 경험을 개선하도록 지원함 지난 1년 동안 풀 리퀘스트 1,150건을 검토 하고 신규 메인테이너 8명을 추천하며 기여자 지원에 집중함 신...",
-   "publishedAt": 1789648934000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.1,
-   "hot": true
-  },
-  {
-   "title": "2014년에 만든 임시 PHP 코드가 설치 2,000만 회에 육박했다. 오늘 사용 중단을 권고한다",
-   "url": "https://news.hada.io/topic?id=33836",
-   "summary": "AOL CMS 이전을 위해 만든 174줄짜리 http_build_url 폴리필 이 12년간 설치 2,000만 회에 육박한 끝에 사용 중단 권고(deprecated) 상태로 전환됨 PHP 5.2에서 5.3으로 업그레이드하며 제거한 pecl_http v1의 함수 를 대신하도록 만들었으...",
-   "publishedAt": 1789648933000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -573,8 +573,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.7,
    "hot": false
+  },
+  {
+   "title": "후원으로 이어온 Servo 개발 1년",
+   "url": "https://news.hada.io/topic?id=33837",
+   "summary": "Servo는 월간 기부금으로 운영하는 첫 유급 역할 을 통해 장기 메인테이너 Josh Bowman-Matthews가 파트타임으로 기여자 경험을 개선하도록 지원함 지난 1년 동안 풀 리퀘스트 1,150건을 검토 하고 신규 메인테이너 8명을 추천하며 기여자 지원에 집중함 신...",
+   "publishedAt": 1789648934000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.6,
+   "hot": true
+  },
+  {
+   "title": "2014년에 만든 임시 PHP 코드가 설치 2,000만 회에 육박했다. 오늘 사용 중단을 권고한다",
+   "url": "https://news.hada.io/topic?id=33836",
+   "summary": "AOL CMS 이전을 위해 만든 174줄짜리 http_build_url 폴리필 이 12년간 설치 2,000만 회에 육박한 끝에 사용 중단 권고(deprecated) 상태로 전환됨 PHP 5.2에서 5.3으로 업그레이드하며 제거한 pecl_http v1의 함수 를 대신하도록 만들었으...",
+   "publishedAt": 1789648933000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.6,
+   "hot": true
   },
   {
    "title": "Hugging Face, 자사 해킹한 OpenAI에 1억 달러 상당 컴퓨팅 자원 요구",
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -595,34 +623,6 @@
    "url": "https://news.hada.io/topic?id=33796",
    "summary": "LLM 활용 증가에 추론형 모델과 AI 에이전트 가 더해지면서, AI 하드웨어의 중심이 대규모 학습에서 급증하는 추론 수요 대응으로 이동하고 있음 추론의 디코드 단계 는 토큰을 하나씩 생성하며 모델 가중치와 문맥을 반복해서 읽기 때문에, 연산 능력보다 메...",
    "publishedAt": 1789580857000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.4,
-   "hot": false
-  },
-  {
-   "title": "LLM 시대의 프로그래밍 학습",
-   "url": "https://news.hada.io/topic?id=33794",
-   "summary": "LLM으로 상당한 규모의 시스템을 만든 초보 개발자가 구현 능력과 이해 수준의 격차 에 부딪힘. 작동할 때는 보이지 않던 격차가 제품화와 오류 수정 과정에서 드러남 개발자는 오래전부터 완전히 이해하지 못하는 추상화 위에서 일해 왔으며, 실용적인 기준은 자신이 일하는...",
-   "publishedAt": 1789577462000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.1,
-   "hot": false
-  },
-  {
-   "title": "PS5 Linux 핵심 개발자 하차: “LLM으로 자신도 이해하지 못하는 코드를 짜는 초보자들뿐”",
-   "url": "https://news.hada.io/topic?id=33792",
-   "summary": "PlayStation 해커이자 홈브루 개발자인 Andy ‘TheFlow0’ Nguyen 이 AI 바이브 코더의 증가를 이유로 PS5 커뮤니티 활동과 PS5 Linux 개발을 중단 함 직접적인 갈등은 Linux 구동에 활용하려던 하이퍼바이저 취약점의 Sony 신고 로, Nguyen도 이미 ...",
-   "publishedAt": 1789577102000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -640,10 +640,38 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 676,
-   "comments": 244,
+   "comments": 245,
    "publishedAt": 1789420501000,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.7,
+   "hot": false
+  },
+  {
+   "title": "LLM 시대의 프로그래밍 학습",
+   "url": "https://news.hada.io/topic?id=33794",
+   "summary": "LLM으로 상당한 규모의 시스템을 만든 초보 개발자가 구현 능력과 이해 수준의 격차 에 부딪힘. 작동할 때는 보이지 않던 격차가 제품화와 오류 수정 과정에서 드러남 개발자는 오래전부터 완전히 이해하지 못하는 추상화 위에서 일해 왔으며, 실용적인 기준은 자신이 일하는...",
+   "publishedAt": 1789577462000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 39.7,
+   "hot": false
+  },
+  {
+   "title": "PS5 Linux 핵심 개발자 하차: “LLM으로 자신도 이해하지 못하는 코드를 짜는 초보자들뿐”",
+   "url": "https://news.hada.io/topic?id=33792",
+   "summary": "PlayStation 해커이자 홈브루 개발자인 Andy ‘TheFlow0’ Nguyen 이 AI 바이브 코더의 증가를 이유로 PS5 커뮤니티 활동과 PS5 Linux 개발을 중단 함 직접적인 갈등은 Linux 구동에 활용하려던 하이퍼바이저 취약점의 Sony 신고 로, Nguyen도 이미 ...",
+   "publishedAt": 1789577102000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -657,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -671,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -685,35 +713,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.7,
-   "hot": false
-  },
-  {
-   "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-   "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-   "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-   "publishedAt": 1789652776000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 39.6,
-   "hot": false
-  },
-  {
-   "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-   "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-   "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-   "publishedAt": 1789652313000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 39.5,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -727,7 +727,49 @@
    "comments": 187,
    "publishedAt": 1789549954000,
    "isAI": false,
-   "score": 39.4,
+   "score": 39.1,
+   "hot": false
+  },
+  {
+   "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+   "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+   "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+   "publishedAt": 1789652776000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.1,
+   "hot": false
+  },
+  {
+   "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+   "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+   "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+   "publishedAt": 1789652313000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.1,
+   "hot": false
+  },
+  {
+   "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+   "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49715113",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 230,
+   "comments": 168,
+   "publishedAt": 1789490325000,
+   "isAI": true,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -741,36 +783,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
-   "hot": true
-  },
-  {
-   "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-   "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49715113",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 230,
-   "comments": 168,
-   "publishedAt": 1789490325000,
-   "isAI": true,
-   "score": 39.1,
-   "hot": false
-  },
-  {
-   "title": "Mistral x Mozilla: 프라이버시를 지키는 다국어 AI 브라우징",
-   "url": "https://news.hada.io/topic?id=33785",
-   "summary": "Mistral과 Mozilla가 협력해 Firefox의 AI 브라우징 도우미 Smart Window 베타에 Mistral 모델을 적용 함 Smart Window는 복잡한 검색을 이해 하고, 이전에 열었다가 떠난 중요한 내용을 기억하며, 브라우저 탭을 바탕으로 필요한 정보를 찾도록 도움 Mistr...",
-   "publishedAt": 1789565554000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
    "score": 38.8,
-   "hot": false
+   "hot": true
   },
   {
    "title": "미국 전략비축유를 뒷받침하는 공학",
@@ -783,13 +797,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
    "title": "백업은 단순하지 않다",
    "url": "https://news.hada.io/topic?id=33827",
-   "summary": "신뢰할 수 있는 백업 은 파일을 다른 곳에 복사하는 것만으로 완성되지 않음. 장치 고장뿐 아니라 실수, 랜섬웨어, 데이터 손상에 대응하려면 과거 상태로 돌아갈 수 있어야 함 복구 시점 목표(RPO) 에 따라 스냅샷 주기를 정하고, 최근 백업은 촘촘하게, 오래된 백...",
+   "summary": "파일을 다른 곳에 복사하는 것으로 시작한 백업은, 실수와 랜섬웨어에 대비해 과거 상태를 보존하는 일 까지 필요해짐. RAID 1처럼 현재 상태를 복제하는 것만으로는 충분하지 않음 과거 상태를 계속 남기면 저장 공간이 늘어나므로 백업 주기와 보존 정책, 증분 백업과 중복...",
    "publishedAt": 1789627332000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -797,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -808,10 +822,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 415,
-   "comments": 276,
+   "comments": 278,
    "publishedAt": 1789500603000,
    "isAI": false,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -825,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -839,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.5,
    "hot": true
   },
   {
@@ -850,10 +864,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 120,
-   "comments": 152,
+   "comments": 154,
    "publishedAt": 1789588416000,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -863,11 +877,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 488,
+   "engagement": 489,
    "comments": 610,
    "publishedAt": 1789406166000,
    "isAI": true,
-   "score": 37.2,
+   "score": 37,
    "hot": false
   },
   {
@@ -881,8 +895,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "호주, 캐나다처럼 EU와 관계를 강화할 수 있다고 밝혀",
@@ -895,7 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -909,7 +923,7 @@
    "comments": 51,
    "publishedAt": 1789494970000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -923,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -934,10 +948,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 509,
-   "comments": 419,
+   "comments": 420,
    "publishedAt": 1789389657000,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -951,7 +965,7 @@
    "comments": 21,
    "publishedAt": 1789482248000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -965,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -979,7 +993,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+   "url": "https://withcapsule.app/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49712278",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 372,
+   "comments": 161,
+   "publishedAt": 1789479100000,
+   "isAI": false,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -993,35 +1021,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-   "url": "https://withcapsule.app/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49712278",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 372,
-   "comments": 160,
-   "publishedAt": 1789479100000,
-   "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "AWS, 이란 공격을 받은 중동 시설의 일부 데이터를 복구할 수 없다고 밝혀",
-   "url": "https://news.hada.io/topic?id=33811",
-   "summary": "AWS 가 봄철 이란 드론 공격을 받은 페르시아만 데이터센터에서 일부 고객 데이터에 대한 접근을 복구할 수 없다고 밝힘 바레인 AWS 데이터센터에만 저장된 데이터 와 아랍에미리트(UAE) 가용 영역 한 곳에만 저장된 데이터 는 복구가 불가능함 ...",
-   "publishedAt": 1789601534000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1035,35 +1035,21 @@
    "comments": 201,
    "publishedAt": 1789487928000,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.5,
    "hot": false
   },
   {
-   "title": "Xiaomi Mimo 2.6 실시간 사후 학습 대시보드",
-   "url": "https://news.hada.io/topic?id=33808",
-   "summary": "mimo-v2.6-pro와 mimo-v2.6-flash 의 학습 진행 단계, 누적 비용, 토큰 사용량, 평가 결과와 동적 샘플러 상태를 실시간 대시보드로 공개함 제공된 화면에서 dynsam/avg@n 은 pro 0.590, flash 0.603이며, 첫 단계 대비 각각 0.026과 0.089 상승함 ...",
-   "publishedAt": 1789598540000,
+   "title": "AWS, 이란 공격을 받은 중동 시설의 일부 데이터를 복구할 수 없다고 밝혀",
+   "url": "https://news.hada.io/topic?id=33811",
+   "summary": "AWS 가 봄철 이란 드론 공격을 받은 페르시아만 데이터센터에서 일부 고객 데이터에 대한 접근을 복구할 수 없다고 밝힘 바레인 AWS 데이터센터에만 저장된 데이터 와 아랍에미리트(UAE) 가용 영역 한 곳에만 저장된 데이터 는 복구가 불가능함 ...",
+   "publishedAt": 1789601534000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "벡터화와 성능 이식성을 갖춘 Quicksort (2022)",
-   "url": "https://news.hada.io/topic?id=33807",
-   "summary": "Google이 SIMD 기반 Quicksort 코드를 오픈소스로 공개함. 수치 배열 정렬에서 C++ std::sort 보다 약 10배 빠르며, 기존 아키텍처 전용 정렬 알고리듬도 능가함 CPU 시간 대부분을 차지하는 분할 작업 을 벡터화함. 피벗보다 작은 원소와 나머지를",
-   "publishedAt": 1789598360000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.6,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1077,7 +1063,35 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "Xiaomi Mimo 2.6 실시간 사후 학습 대시보드",
+   "url": "https://news.hada.io/topic?id=33808",
+   "summary": "mimo-v2.6-pro와 mimo-v2.6-flash 의 학습 진행 단계, 누적 비용, 토큰 사용량, 평가 결과와 동적 샘플러 상태를 실시간 대시보드로 공개함 제공된 화면에서 dynsam/avg@n 은 pro 0.590, flash 0.603이며, 첫 단계 대비 각각 0.026과 0.089 상승함 ...",
+   "publishedAt": 1789598540000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "벡터화와 성능 이식성을 갖춘 Quicksort (2022)",
+   "url": "https://news.hada.io/topic?id=33807",
+   "summary": "Google이 SIMD 기반 Quicksort 코드를 오픈소스로 공개함. 수치 배열 정렬에서 C++ std::sort 보다 약 10배 빠르며, 기존 아키텍처 전용 정렬 알고리듬도 능가함 CPU 시간 대부분을 차지하는 분할 작업 을 벡터화함. 피벗보다 작은 원소와 나머지를",
+   "publishedAt": 1789598360000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1091,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1105,21 +1119,7 @@
    "comments": 850,
    "publishedAt": 1789408229000,
    "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "Dream-RSI - 과거 시도를 재생하며 에이전트의 탐색 전략을 개선하기",
-   "url": "https://news.hada.io/topic?id=33804",
-   "summary": "코딩 에이전트가 문제를 풀 때 어느 시도를 이어가고, 병렬로 실행하거나 중단할지 정하는 전략 을 반복적으로 개선하는 프레임워크 과거 시도와 결과를 저장해 다른 탐색 전략을 기록 위에서 시험 하므로, 전략을 평가할 때마다 코드를 새로 생성하고 실행하는 비용...",
-   "publishedAt": 1789591277000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.9,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1133,7 +1133,21 @@
    "comments": 142,
    "publishedAt": 1789432814000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
+   "hot": false
+  },
+  {
+   "title": "Dream-RSI - 과거 시도를 재생하며 에이전트의 탐색 전략을 개선하기",
+   "url": "https://news.hada.io/topic?id=33804",
+   "summary": "코딩 에이전트가 문제를 풀 때 어느 시도를 이어가고, 병렬로 실행하거나 중단할지 정하는 전략 을 반복적으로 개선하는 프레임워크 과거 시도와 결과를 저장해 다른 탐색 전략을 기록 위에서 시험 하므로, 전략을 평가할 때마다 코드를 새로 생성하고 실행하는 비용...",
+   "publishedAt": 1789591277000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1147,7 +1161,7 @@
    "comments": 79,
    "publishedAt": 1789486005000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1161,21 +1175,7 @@
    "comments": 181,
    "publishedAt": 1789465668000,
    "isAI": true,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-   "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49711240",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 129,
-   "comments": 97,
-   "publishedAt": 1789473691000,
-   "isAI": true,
-   "score": 34.3,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1189,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1203,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1217,7 +1217,21 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+   "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49711240",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 129,
+   "comments": 97,
+   "publishedAt": 1789473691000,
+   "isAI": true,
+   "score": 34,
    "hot": false
   },
   {
@@ -1231,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1245,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1259,7 +1273,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1273,7 +1287,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1287,63 +1301,7 @@
    "comments": 113,
    "publishedAt": 1789445723000,
    "isAI": false,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-   "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-   "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft j",
-   "publishedAt": 1789653600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "AI is feared globally as the destroyer of jobs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-   "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority s",
-   "publishedAt": 1789653600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins",
-   "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
-   "summary": "Lunacy, purveyor of fine VST plugins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments available, built either by Lu",
-   "publishedAt": 1789653600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "초기 Sony PlayStation 2 보안 칩, 26년 만에 ‘완전히 뚫렸다’",
-   "url": "https://news.hada.io/topic?id=33795",
-   "summary": "초기 PS2의 MechaCon 보안 칩 내부 ROM을 추출 하는 데 성공했으며, 레트로 하드웨어 개발자 DiscoStarslayer가 4년간 진행한 역공학의 성과임 칩 패키지를 화학적으로 벗겨 내부를 현미경으로 분석하고, 불완전한 광학 덤프에서 취약점을 찾아 소프트웨어로 데이터를 추출...",
-   "publishedAt": 1789577642000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1357,7 +1315,63 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+   "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+   "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft j",
+   "publishedAt": 1789653600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "AI is feared globally as the destroyer of jobs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+   "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority s",
+   "publishedAt": 1789653600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+   "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+   "summary": "Lunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments available, built either by L",
+   "publishedAt": 1789653600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "초기 Sony PlayStation 2 보안 칩, 26년 만에 ‘완전히 뚫렸다’",
+   "url": "https://news.hada.io/topic?id=33795",
+   "summary": "초기 PS2의 MechaCon 보안 칩 내부 ROM을 추출 하는 데 성공했으며, 레트로 하드웨어 개발자 DiscoStarslayer가 4년간 진행한 역공학의 성과임 칩 패키지를 화학적으로 벗겨 내부를 현미경으로 분석하고, 불완전한 광학 덤프에서 취약점을 찾아 소프트웨어로 데이터를 추출...",
+   "publishedAt": 1789577642000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1371,35 +1385,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-   "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-   "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-   "publishedAt": 1789592844000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "해커들이 Flock 카메라 내부에 접근, 데이터로 드러난 시스템 작동 방식",
-   "url": "https://news.hada.io/topic?id=33791",
-   "summary": "해커 집단이 Flock 카메라 한 대를 철거 한 뒤 내부 데이터를 추출함 확보한 파일에는 수천 개의 동영상 이 포함돼 있음 장치의 이미지 촬영 기록을 담은 로그 도 함께 추출함 로그에 따르면 이 카메라는 21일 동안 이미지...",
-   "publishedAt": 1789572944000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+   "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49715813",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 209,
+   "comments": 72,
+   "publishedAt": 1789493318000,
+   "isAI": false,
+   "score": 33.2,
    "hot": false
   }
  ]
