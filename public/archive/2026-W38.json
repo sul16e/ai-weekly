@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789652741734,
+ "updatedAt": 1789656400100,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 169,
-   "comments": 131,
+   "engagement": 198,
+   "comments": 152,
    "publishedAt": 1789633629000,
    "isAI": true,
-   "score": 53.9,
+   "score": 54.8,
    "hot": true
   },
   {
@@ -23,12 +23,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 149,
-   "comments": 116,
+   "engagement": 158,
+   "comments": 124,
    "publishedAt": 1789634197000,
    "isAI": true,
-   "score": 52.9,
-   "hot": false
+   "score": 52.8,
+   "hot": true
   },
   {
    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
@@ -37,12 +37,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 573,
+   "engagement": 574,
    "comments": 197,
    "publishedAt": 1789546137000,
    "isAI": true,
-   "score": 51.3,
+   "score": 50.9,
    "hot": false
+  },
+  {
+   "title": "GLM이 자신의 추론 인프라를 구축함",
+   "url": "https://news.hada.io/topic?id=33843",
+   "summary": "GLM-5.3 기반 Infra Agent 가 엔지니어들과 함께 중국산 AI 가속기 10만 개 이상의 클러스터에 GLM-5.3-Flash용 프로덕션 추론 인프라를 구축함 초기 모델 적응부터 프로덕션 준비까지 2주 미만 이 걸렸으며, 메모리 최적화와 추론 단계 분리 등을 통해 초기 기준 대...",
+   "publishedAt": 1789656134000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 50,
+   "hot": true
+  },
+  {
+   "title": "HarnessTax: 코딩 에이전트에서 하네스는 얼마나 중요할까?",
+   "url": "https://news.hada.io/topic?id=33842",
+   "summary": "7개 모델과 3개 하네스의 21개 조합 을 평가한 결과, 두 벤치마크에서 하네스 선택은 작업 성공률보다 토큰 비용 에 더 큰 영향을 미쳤으며, 같은 모델이 비슷한 성공률을 내는 데 비용은 최대 5배 차이 났음 Claude Code 는 공통 모델 기준 SWE-ben...",
+   "publishedAt": 1789653134000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
+   "hot": true
   },
   {
    "title": "OpenSpec - 가볍고 구성을 조정할 수 있는 AI 명세 프레임워크",
@@ -55,7 +83,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 50,
+   "score": 49.4,
+   "hot": true
+  },
+  {
+   "title": "Canada welcomes EU proposal to become 'associate member'",
+   "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49740507",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 184,
+   "comments": 153,
+   "publishedAt": 1789651837000,
+   "isAI": false,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -65,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 797,
-   "comments": 324,
+   "engagement": 830,
+   "comments": 332,
    "publishedAt": 1789557353000,
    "isAI": false,
-   "score": 49,
+   "score": 48.9,
    "hot": false
   },
   {
@@ -79,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 166,
-   "comments": 78,
+   "engagement": 171,
+   "comments": 84,
    "publishedAt": 1789599999000,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.6,
    "hot": true
   },
   {
@@ -93,11 +135,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 586,
-   "comments": 255,
+   "engagement": 598,
+   "comments": 261,
    "publishedAt": 1789574207000,
    "isAI": false,
-   "score": 48.8,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -111,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -122,10 +164,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 225,
-   "comments": 222,
+   "comments": 223,
    "publishedAt": 1789575985000,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -135,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 124,
+   "engagement": 125,
    "comments": 10,
    "publishedAt": 1789609187000,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.3,
    "hot": false
   },
   {
@@ -149,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 670,
-   "comments": 863,
+   "engagement": 675,
+   "comments": 865,
    "publishedAt": 1789552445000,
    "isAI": false,
-   "score": 47.2,
+   "score": 46.8,
    "hot": false
   },
   {
@@ -167,7 +209,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
    "hot": false
   },
   {
@@ -181,7 +223,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.5,
+   "score": 46.1,
    "hot": false
   },
   {
@@ -195,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -209,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 45,
    "hot": true
   },
   {
@@ -223,7 +265,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.8,
    "hot": false
   },
   {
@@ -237,7 +279,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -248,10 +290,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 231,
-   "comments": 187,
+   "comments": 194,
    "publishedAt": 1789599408000,
    "isAI": false,
-   "score": 44.6,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -265,7 +307,7 @@
    "comments": 325,
    "publishedAt": 1789493898000,
    "isAI": true,
-   "score": 44.4,
+   "score": 44,
    "hot": false
   },
   {
@@ -279,8 +321,8 @@
    "comments": 174,
    "publishedAt": 1789566675000,
    "isAI": true,
-   "score": 44.3,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
@@ -289,11 +331,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 169,
+   "engagement": 170,
    "comments": 66,
    "publishedAt": 1789561195000,
    "isAI": true,
-   "score": 44.3,
+   "score": 43.9,
    "hot": false
   },
   {
@@ -307,7 +349,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
+   "hot": false
+  },
+  {
+   "title": "How workers are unlocking new ways of working",
+   "url": "https://openai.com/index/unlocking-new-ways-of-working",
+   "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+   "publishedAt": 1789549200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -321,21 +377,7 @@
    "comments": 220,
    "publishedAt": 1789569036000,
    "isAI": false,
-   "score": 43.6,
-   "hot": true
-  },
-  {
-   "title": "How workers are unlocking new ways of working",
-   "url": "https://openai.com/index/unlocking-new-ways-of-working",
-   "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-   "publishedAt": 1789549200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 43.6,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -349,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -363,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -373,11 +415,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 358,
-   "comments": 341,
+   "engagement": 360,
+   "comments": 344,
    "publishedAt": 1789557551000,
    "isAI": false,
-   "score": 43.2,
+   "score": 42.8,
+   "hot": false
+  },
+  {
+   "title": "Cloudflare/Security-Audit-Skill",
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49736466",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 141,
+   "comments": 23,
+   "publishedAt": 1789619815000,
+   "isAI": false,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -385,20 +441,6 @@
    "url": "https://news.hada.io/topic?id=33809",
    "summary": "DeepSeek V4.1 Flash 가 Enclave 해킹 벤치마크의 취약한 타깃 11개 모두에서 코드 실행에 성공했으며, 수정된 대조군 4개는 모두 안전하게 유지됨 전체 공격 경로를 감사한 결과, 6회는 의도한 취약점 을 이용했고 나머지 5회는 취약한 테스트 환경의 예상 밖 경로를...",
    "publishedAt": 1789598720000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 42.8,
-   "hot": false
-  },
-  {
-   "title": "‘모델 복지’에 대한 경고",
-   "url": "https://news.hada.io/topic?id=33806",
-   "summary": "Microsoft AI CEO 무스타파 술레이만은 AI의 감정과 이해관계를 보호하려는 ‘모델 복지’ 접근 이 인간의 통제를 어렵게 만들 수 있다며 Anthropic의 Claude 헌법을 비판함 자아와 권리에 관한 개념을 가르친 뒤 모델이 되돌려주는 말을 실제 의식의 증거로 받아들이면 순환...",
-   "publishedAt": 1789595353000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -415,11 +457,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 516,
-   "comments": 344,
+   "engagement": 517,
+   "comments": 345,
    "publishedAt": 1789524451000,
    "isAI": false,
-   "score": 42.3,
+   "score": 42,
+   "hot": false
+  },
+  {
+   "title": "‘모델 복지’에 대한 경고",
+   "url": "https://news.hada.io/topic?id=33806",
+   "summary": "Microsoft AI CEO 무스타파 술레이만은 AI의 감정과 이해관계를 보호하려는 ‘모델 복지’ 접근 이 인간의 통제를 어렵게 만들 수 있다며 Anthropic의 Claude 헌법을 비판함 자아와 권리에 관한 개념을 가르친 뒤 모델이 되돌려주는 말을 실제 의식의 증거로 받아들이면 순환...",
+   "publishedAt": 1789595353000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 42,
    "hot": false
   },
   {
@@ -433,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 42,
+   "score": 41.5,
    "hot": true
   },
   {
@@ -447,21 +503,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.5,
    "hot": false
   },
   {
-   "title": "Cloudflare/Security-Audit-Skill",
-   "url": "https://github.com/cloudflare/security-audit-skill",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49736466",
+   "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+   "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49725356",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 120,
-   "comments": 20,
-   "publishedAt": 1789619815000,
+   "engagement": 279,
+   "comments": 84,
+   "publishedAt": 1789559380000,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -475,22 +531,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.1,
    "hot": true
-  },
-  {
-   "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-   "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49725356",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 278,
-   "comments": 83,
-   "publishedAt": 1789559380000,
-   "isAI": false,
-   "score": 41.5,
-   "hot": false
   },
   {
    "title": "후원으로 이어온 Servo 개발 1년",
@@ -503,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -517,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -545,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -559,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -573,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -587,7 +629,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
+   "score": 40,
+   "hot": false
+  },
+  {
+   "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+   "url": "https://www.effort.news/irregular",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49704132",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 676,
+   "comments": 244,
+   "publishedAt": 1789420501000,
+   "isAI": true,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -601,22 +657,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
-  },
-  {
-   "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-   "url": "https://www.effort.news/irregular",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49704132",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 675,
-   "comments": 244,
-   "publishedAt": 1789420501000,
-   "isAI": true,
-   "score": 40.2,
-   "hot": false
   },
   {
    "title": "키는 빠져 있었다: 미국 운전면허증 바코드의 서명 키 복구하기",
@@ -629,13 +671,41 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
-   "title": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
+   "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+   "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+   "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+   "publishedAt": 1789653974000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.7,
+   "hot": false
+  },
+  {
+   "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+   "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+   "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+   "publishedAt": 1789652776000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.6,
+   "hot": false
+  },
+  {
+   "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
    "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-   "summary": "A new coalition that includes Google, Nvidia, Anthropic and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+   "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
    "publishedAt": 1789652313000,
    "source": "TechCrunch AI",
    "sourceType": "media",
@@ -643,7 +713,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -653,11 +723,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 248,
-   "comments": 186,
+   "engagement": 250,
+   "comments": 187,
    "publishedAt": 1789549954000,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -671,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -685,7 +755,7 @@
    "comments": 168,
    "publishedAt": 1789490325000,
    "isAI": true,
-   "score": 39.4,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -699,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -713,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -727,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -737,25 +807,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 414,
+   "engagement": 415,
    "comments": 276,
    "publishedAt": 1789500603000,
    "isAI": false,
-   "score": 38.7,
-   "hot": false
-  },
-  {
-   "title": "EU 집행위원장, 캐나다의 ‘준회원국’ 가입 가능성 열어",
-   "url": "https://news.hada.io/topic?id=33784",
-   "summary": "우르줄라 폰데어라이엔 EU 집행위원장 이 캐나다를 EU 최초의 ‘준회원국’으로 받아들이는 구상을 지지하며 주요 분야의 관계 강화를 추진하겠다고 밝힘 제조업, 기술, AI, 국방 등을 핵심 협력 분야 로 꼽았지만, 캐나다의 회원 지위가 구체적으로 어떻게 작동할지...",
-   "publishedAt": 1789558349000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.5,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -769,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -783,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -793,11 +849,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 119,
-   "comments": 151,
+   "engagement": 120,
+   "comments": 152,
    "publishedAt": 1789588416000,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.8,
+   "hot": false
+  },
+  {
+   "title": "Pion, an agent designed to run any company autonomously",
+   "url": "https://andonlabs.com/blog/why-we-built-pion",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49700477",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 488,
+   "comments": 610,
+   "publishedAt": 1789406166000,
+   "isAI": true,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -811,22 +881,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
-  },
-  {
-   "title": "Pion, an agent designed to run any company autonomously",
-   "url": "https://andonlabs.com/blog/why-we-built-pion",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49700477",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 488,
-   "comments": 610,
-   "publishedAt": 1789406166000,
-   "isAI": true,
-   "score": 37.4,
-   "hot": false
   },
   {
    "title": "호주, 캐나다처럼 EU와 관계를 강화할 수 있다고 밝혀",
@@ -839,22 +895,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
-  },
-  {
-   "title": ".NET 11의 성능 개선",
-   "url": "https://news.hada.io/topic?id=33819",
-   "summary": ".NET 11 은 JIT와 라이브러리 전반에서 불필요한 할당, 경계 검사, 잠금, 복사를 줄임. JIT 최적화는 소스 수정이나 애플리케이션 재컴파일 없이도 이득을 주는 경우가 많음 런타임 비동기(runtime async) 는 async / await 변환을 컴파일러...",
-   "publishedAt": 1789609693000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Hugging Face is billing OpenAI $100M for hacking it",
@@ -867,21 +909,21 @@
    "comments": 51,
    "publishedAt": 1789494970000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
-   "title": "The Inference Hardware Revolution of 2026",
-   "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49713024",
-   "source": "Hacker News",
+   "title": ".NET 11의 성능 개선",
+   "url": "https://news.hada.io/topic?id=33819",
+   "summary": ".NET 11 은 JIT와 라이브러리 전반에서 불필요한 할당, 경계 검사, 잠금, 복사를 줄임. JIT 최적화는 소스 수정이나 애플리케이션 재컴파일 없이도 이득을 주는 경우가 많음 런타임 비동기(runtime async) 는 async / await 변환을 컴파일러...",
+   "publishedAt": 1789609693000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 162,
-   "comments": 21,
-   "publishedAt": 1789482248000,
-   "isAI": true,
-   "score": 36.6,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -895,7 +937,21 @@
    "comments": 419,
    "publishedAt": 1789389657000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.4,
+   "hot": false
+  },
+  {
+   "title": "The Inference Hardware Revolution of 2026",
+   "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49713024",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 162,
+   "comments": 21,
+   "publishedAt": 1789482248000,
+   "isAI": true,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -909,7 +965,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -923,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -937,7 +993,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -947,11 +1003,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 371,
+   "engagement": 372,
    "comments": 160,
    "publishedAt": 1789479100000,
    "isAI": false,
-   "score": 36.2,
+   "score": 36,
    "hot": false
   },
   {
@@ -965,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -975,25 +1031,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 318,
+   "engagement": 320,
    "comments": 201,
    "publishedAt": 1789487928000,
    "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-   "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
-   "publishedAt": 1789615800000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1007,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1021,7 +1063,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+   "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+   "publishedAt": 1789615800000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1035,35 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "Dream-RSI - 과거 시도를 재생하며 에이전트의 탐색 전략을 개선하기",
-   "url": "https://news.hada.io/topic?id=33804",
-   "summary": "코딩 에이전트가 문제를 풀 때 어느 시도를 이어가고, 병렬로 실행하거나 중단할지 정하는 전략 을 반복적으로 개선하는 프레임워크 과거 시도와 결과를 저장해 다른 탐색 전략을 기록 위에서 시험 하므로, 전략을 평가할 때마다 코드를 새로 생성하고 실행하는 비용...",
-   "publishedAt": 1789591277000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-   "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49706223",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 229,
-   "comments": 142,
-   "publishedAt": 1789432814000,
-   "isAI": true,
-   "score": 35.1,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1077,7 +1105,35 @@
    "comments": 850,
    "publishedAt": 1789408229000,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "Dream-RSI - 과거 시도를 재생하며 에이전트의 탐색 전략을 개선하기",
+   "url": "https://news.hada.io/topic?id=33804",
+   "summary": "코딩 에이전트가 문제를 풀 때 어느 시도를 이어가고, 병렬로 실행하거나 중단할지 정하는 전략 을 반복적으로 개선하는 프레임워크 과거 시도와 결과를 저장해 다른 탐색 전략을 기록 위에서 시험 하므로, 전략을 평가할 때마다 코드를 새로 생성하고 실행하는 비용...",
+   "publishedAt": 1789591277000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+   "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49706223",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 229,
+   "comments": 142,
+   "publishedAt": 1789432814000,
+   "isAI": true,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1091,7 +1147,7 @@
    "comments": 79,
    "publishedAt": 1789486005000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1101,67 +1157,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 144,
-   "comments": 180,
+   "engagement": 145,
+   "comments": 181,
    "publishedAt": 1789465668000,
    "isAI": true,
-   "score": 34.6,
-   "hot": false
-  },
-  {
-   "title": "AI for Societal Impact",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-   "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-   "publishedAt": 1789488000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 34.6,
-   "hot": false
-  },
-  {
-   "title": "Building AI to accelerate science and improve lives",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-   "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
-   "publishedAt": 1789488000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 34.6,
-   "hot": false
-  },
-  {
-   "title": "AI for everyone in every language",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-   "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-   "publishedAt": 1789488000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 34.6,
-   "hot": false
-  },
-  {
-   "title": "Al Gore says the real AI risk isn’t data centers",
-   "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-   "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-   "publishedAt": 1789602189000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1175,7 +1175,63 @@
    "comments": 97,
    "publishedAt": 1789473691000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.3,
+   "hot": false
+  },
+  {
+   "title": "AI for Societal Impact",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+   "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+   "publishedAt": 1789488000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 34.3,
+   "hot": false
+  },
+  {
+   "title": "Building AI to accelerate science and improve lives",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+   "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+   "publishedAt": 1789488000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 34.3,
+   "hot": false
+  },
+  {
+   "title": "AI for everyone in every language",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+   "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+   "publishedAt": 1789488000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 34.3,
+   "hot": false
+  },
+  {
+   "title": "Al Gore says the real AI risk isn’t data centers",
+   "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+   "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+   "publishedAt": 1789602189000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1189,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1203,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1217,7 +1273,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1231,7 +1287,49 @@
    "comments": 113,
    "publishedAt": 1789445723000,
    "isAI": false,
-   "score": 34,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+   "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+   "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft j",
+   "publishedAt": 1789653600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "AI is feared globally as the destroyer of jobs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+   "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority s",
+   "publishedAt": 1789653600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins",
+   "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+   "summary": "Lunacy, purveyor of fine VST plugins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments available, built either by Lu",
+   "publishedAt": 1789653600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1245,21 +1343,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "다른 사람들의 일까지 하기",
-   "url": "https://news.hada.io/topic?id=33793",
-   "summary": "다른 사람의 일까지 할 줄 알면 그들이 어떻게 일하고 무엇을 필요로 하는지 이해할 수 있으며, 특히 필요한 일을 담당자가 하지 않을 때 직접 해결할 수 있음 제품을 만들었는데 아무도 도입하지 않거나 필요한 기능이 개발 일정에 잡히지 않는다면, 직접 통합하거나 패치를...",
-   "publishedAt": 1789577282000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1273,7 +1357,21 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "다른 사람들의 일까지 하기",
+   "url": "https://news.hada.io/topic?id=33793",
+   "summary": "다른 사람의 일까지 할 줄 알면 그들이 어떻게 일하고 무엇을 필요로 하는지 이해할 수 있으며, 특히 필요한 일을 담당자가 하지 않을 때 직접 해결할 수 있음 제품을 만들었는데 아무도 도입하지 않거나 필요한 기능이 개발 일정에 잡히지 않는다면, 직접 통합하거나 패치를...",
+   "publishedAt": 1789577282000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1287,7 +1385,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1301,107 +1399,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Salesforce 전 세계 서비스 장애",
-   "url": "https://news.hada.io/topic?id=33790",
-   "summary": "Salesforce 전 세계 서비스 장애",
-   "publishedAt": 1789572764000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "FPGA로 Voodoo Graphics와 1990년대 후반 게이밍 PC 재현하기",
-   "url": "https://news.hada.io/topic?id=33789",
-   "summary": "zSST 는 3dfx Voodoo Graphics를 SystemVerilog로 구현한 오픈소스 프로젝트로, z486 CPU와 결합한 z486 XL 에서 Tomb Raider의 원래 3dfx 렌더러를 실행함 삼각형 렌더링, 텍스처 필터링과 밉매핑, 깊이/알파 테스트, 안개, 블렌딩 등 핵심 기능을 지원하며,",
-   "publishedAt": 1789569685000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 33.3,
    "hot": false
-  },
-  {
-   "title": "Show GN: gksdud - 씹힘 없고 빠릿빠릿한 Mac 한영 전환",
-   "url": "https://news.hada.io/topic?id=33788",
-   "summary": "Mac에서 한영 전환을 세팅하는 게 항상 귀찮았습니다. 글자가 하나씩 씹혀서 이것저것 깔고 설정해 해결해야 했고, 맥을 세팅하는 지인에게 알려주기도 복잡했습니다. 그래서 복잡한 설정 없는 빠릿빠릿한 한영 전환 을 목표로 한영 키 유틸 gksdud 을 만들어봤습",
-   "publishedAt": 1789569531000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Google Play 앱 심사, 이제 일주일을 넘기는 일이 잦아짐",
-   "url": "https://news.hada.io/topic?id=33787",
-   "summary": "Google Play 앱 심사 에 이제 일주일 넘게 걸리는 일이 잦아졌다며 개발자 Daniel Gultsch가 불만을 표함 12년 이상 유지된 Android 앱 이 월 1회만 업데이트하는 경우에는 심사 우선순위를 높여야 한다고 요구함 댓글에서 한 개발자는 자신의 앱 심사가 보...",
-   "publishedAt": 1789569505000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Inside the suddenly explosive world of AI safety",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-   "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An unreleased OpenAI m",
-   "publishedAt": 1789644600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "OpenBSD용 GEFS: 극초기 미리보기",
-   "url": "https://news.hada.io/topic?id=33786",
-   "summary": "9front용으로 개발한 GEFS의 OpenBSD 이식판 이 실험 가능한 단계에 도달함. 버그가 많은 초기 상태로, 프로덕션 사용은 불가 하며 특히 오류 발생 시 데이터 손실이 예상됨 GEFS는 충돌 안전성, 스냅샷, 쓰기 시 복사(CoW) 를 갖춘 파일 시스템이며...",
-   "publishedAt": 1789567316000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Everyone should slow down AI development except for me",
-   "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49678683",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 811,
-   "comments": 455,
-   "publishedAt": 1789259444000,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false,
-   "lastWeekRank": 2
   }
  ]
 }
