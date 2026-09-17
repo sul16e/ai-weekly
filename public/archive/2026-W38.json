@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789660058834,
+ "updatedAt": 1789663716946,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 221,
-   "comments": 171,
+   "engagement": 241,
+   "comments": 202,
    "publishedAt": 1789633629000,
    "isAI": true,
-   "score": 55.2,
+   "score": 55.3,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 164,
-   "comments": 130,
+   "engagement": 168,
+   "comments": 132,
    "publishedAt": 1789634197000,
    "isAI": true,
-   "score": 52.6,
+   "score": 52.3,
    "hot": true
   },
   {
@@ -37,8 +37,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 228,
-   "comments": 276,
+   "engagement": 242,
+   "comments": 292,
    "publishedAt": 1789651837000,
    "isAI": false,
    "score": 50.7,
@@ -51,46 +51,32 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 575,
-   "comments": 197,
+   "engagement": 577,
+   "comments": 196,
    "publishedAt": 1789546137000,
    "isAI": true,
-   "score": 50.4,
+   "score": 50,
    "hot": false
+  },
+  {
+   "title": "AI 안전은 대부분 섹스 컬트다",
+   "url": "https://news.hada.io/topic?id=33850",
+   "summary": "SE Gyges의 비판적 논평 으로, AI 안전 담론의 중심에 있는 Eliezer Yudkowsky와 합리주의 공동체의 인적 관계와 종말론적 믿음이 정책에 미치는 영향을 문제 삼음 초지능 등장, 통제 상실, 인류 멸망 이라는 Yudkowsky의 구도가 AI 안전과 정렬 논의를 지배하며, 효...",
+   "publishedAt": 1789663334000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
   },
   {
    "title": "재귀적 자기 개선을 향하여: GLM은 어떻게 자체 추론 인프라를 구축했는가",
    "url": "https://news.hada.io/topic?id=33843",
    "summary": "GLM-5.3 기반 에이전트가 엔지니어들과 함께 중국산 AI 가속기 10만 개 이상에서 GLM-5.3-Flash를 서비스하는 추론 인프라 를 구축함 초기 모델 적응부터 실서비스 준비까지 2주 미만 이 걸렸으며, 메모리 최적화와 추론 단계 분리 등을 통해 초기 기준 대비 전체 처...",
    "publishedAt": 1789656134000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 49.4,
-   "hot": true
-  },
-  {
-   "title": "HarnessTax: 코딩 에이전트에서 하네스는 얼마나 중요할까?",
-   "url": "https://news.hada.io/topic?id=33842",
-   "summary": "7개 모델을 Claude Code, Codex CLI, Pi에 연결해 비교한 결과, 같은 모델이 비슷한 작업 성공률을 내면서도 토큰 비용은 최대 5배 차이 가 났음 읽기, 쓰기, 편집, bash만 제공하는 단순한 하네스 Pi도 비용 대비 성공률에서 경쟁력 을 보였으며, SWE-bench Lite에서...",
-   "publishedAt": 1789653134000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 49,
-   "hot": true
-  },
-  {
-   "title": "OpenSpec - 코딩 에이전트와 구현 전에 명세를 맞추는 개발 도구",
-   "url": "https://news.hada.io/topic?id=33841",
-   "summary": "대화 기록에만 남아 있던 요구사항을 명세와 구현 계획으로 정리하고, 사람이 검토한 뒤 AI가 코드를 작성 하도록 돕는 도구 변경 작업마다 제안서, 요구사항과 시나리오, 기술 설계, 작업 목록을 별도 폴더에 모아 무엇을 왜 바꾸는지 함께 관리 문제 탐색...",
-   "publishedAt": 1789652535000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -107,12 +93,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 864,
-   "comments": 342,
+   "engagement": 884,
+   "comments": 352,
    "publishedAt": 1789557353000,
    "isAI": false,
-   "score": 48.7,
+   "score": 48.4,
    "hot": false
+  },
+  {
+   "title": "HarnessTax: 코딩 에이전트에서 하네스는 얼마나 중요할까?",
+   "url": "https://news.hada.io/topic?id=33842",
+   "summary": "7개 모델을 Claude Code, Codex CLI, Pi에 연결해 비교한 결과, 같은 모델이 비슷한 작업 성공률을 내면서도 토큰 비용은 최대 5배 차이 가 났음 읽기, 쓰기, 편집, bash만 제공하는 단순한 하네스 Pi도 비용 대비 성공률에서 경쟁력 을 보였으며, SWE-bench Lite에서...",
+   "publishedAt": 1789653134000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.4,
+   "hot": true
+  },
+  {
+   "title": "OpenSpec - 코딩 에이전트와 구현 전에 명세를 맞추는 개발 도구",
+   "url": "https://news.hada.io/topic?id=33841",
+   "summary": "대화 기록에만 남아 있던 요구사항을 명세와 구현 계획으로 정리하고, 사람이 검토한 뒤 AI가 코드를 작성 하도록 돕는 도구 변경 작업마다 제안서, 요구사항과 시나리오, 기술 설계, 작업 목록을 별도 폴더에 모아 무엇을 왜 바꾸는지 함께 관리 문제 탐색...",
+   "publishedAt": 1789652535000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.4,
+   "hot": true
   },
   {
    "title": "OpenSpec – A lightweight and configurable AI spec framework",
@@ -121,11 +135,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 174,
-   "comments": 87,
+   "engagement": 180,
+   "comments": 89,
    "publishedAt": 1789599999000,
    "isAI": true,
-   "score": 48.3,
+   "score": 48.1,
    "hot": true
   },
   {
@@ -135,12 +149,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 612,
-   "comments": 268,
+   "engagement": 617,
+   "comments": 269,
    "publishedAt": 1789574207000,
    "isAI": false,
-   "score": 48.3,
-   "hot": true
+   "score": 47.9,
+   "hot": false
   },
   {
    "title": "Claude Cowork and chat are now one Claude",
@@ -149,12 +163,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 226,
+   "engagement": 227,
    "comments": 225,
    "publishedAt": 1789575985000,
    "isAI": true,
-   "score": 47.3,
-   "hot": true
+   "score": 46.9,
+   "hot": false
   },
   {
    "title": "Show GN: 텐배거랩 - 미국주식 탐색부터 분석·기록·회고까지 한곳에서",
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -181,7 +195,7 @@
    "comments": 10,
    "publishedAt": 1789609187000,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.3,
    "hot": false
   },
   {
@@ -191,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 676,
-   "comments": 867,
+   "engagement": 677,
+   "comments": 872,
    "publishedAt": 1789552445000,
    "isAI": false,
-   "score": 46.4,
+   "score": 46,
    "hot": false
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.7,
    "hot": false
   },
   {
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.2,
    "hot": false
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -251,8 +265,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 44.1,
+   "hot": false
   },
   {
    "title": "Reimagining advertising with AI",
@@ -265,7 +279,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.4,
+   "score": 44,
    "hot": false
   },
   {
@@ -279,7 +293,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -289,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 231,
-   "comments": 198,
+   "engagement": 233,
+   "comments": 200,
    "publishedAt": 1789599408000,
    "isAI": false,
-   "score": 43.8,
+   "score": 43.4,
    "hot": true
   },
   {
@@ -307,7 +321,7 @@
    "comments": 325,
    "publishedAt": 1789493898000,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -318,10 +332,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 156,
-   "comments": 174,
+   "comments": 175,
    "publishedAt": 1789566675000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -335,8 +349,22 @@
    "comments": 66,
    "publishedAt": 1789561195000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.1,
    "hot": false
+  },
+  {
+   "title": "Cloudflare/Security-Audit-Skill",
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49736466",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 165,
+   "comments": 33,
+   "publishedAt": 1789619815000,
+   "isAI": false,
+   "score": 43,
+   "hot": true
   },
   {
    "title": "Show GN: 옆 팀 레포는 그쪽 Claude가 제일 잘 안다 — 세션 간 질의응답 브로커",
@@ -349,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -363,22 +391,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
-  },
-  {
-   "title": "Cloudflare/Security-Audit-Skill",
-   "url": "https://github.com/cloudflare/security-audit-skill",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49736466",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 152,
-   "comments": 31,
-   "publishedAt": 1789619815000,
-   "isAI": false,
-   "score": 42.8,
-   "hot": true
   },
   {
    "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
@@ -388,10 +402,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 320,
-   "comments": 220,
+   "comments": 222,
    "publishedAt": 1789569036000,
    "isAI": false,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -405,7 +419,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.2,
+   "hot": false
+  },
+  {
+   "title": "The Google Play app review process now regularly takes longer than a week",
+   "url": "https://gultsch.social/@daniel/117280438824908947",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49724927",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 360,
+   "comments": 345,
+   "publishedAt": 1789557551000,
+   "isAI": false,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -419,35 +447,49 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.1,
    "hot": false
   },
   {
-   "title": "The Google Play app review process now regularly takes longer than a week",
-   "url": "https://gultsch.social/@daniel/117280438824908947",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49724927",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 360,
-   "comments": 344,
-   "publishedAt": 1789557551000,
-   "isAI": false,
-   "score": 42.4,
-   "hot": false
-  },
-  {
-   "title": "캐나다, EU의 ‘준회원국’ 가입 제안 환영",
-   "url": "https://news.hada.io/topic?id=33846",
-   "summary": "캐나다 총리 Mark Carney 가 캐나다를 EU 최초의 준회원국 으로 받아들이자는 제안을 환영하며 국방, 핵심 광물, 에너지 안보 분야의 협력 확대를 촉구함 준회원국 지위는 현재 EU에 없는 제도 로, 구체적 형태가 불분명하고 도입에 수년이 걸릴 수 ...",
-   "publishedAt": 1789659734000,
+   "title": "CCC, 모든 모범 시민을 40C3에 초대하다",
+   "url": "https://news.hada.io/topic?id=33849",
+   "summary": "Chaos Computer Club 이 2026년 12월 27~30일 제40회 Chaos Communication Congress인 40C3 를 개최하며, 강연과 예술, 음악 등 프로그램 참여자를 모집함 행사장을 함부르크 전시장 으로 옮기면서 창의적인 아이디어를 펼칠 공간이 넓어졌으며, 참가...",
+   "publishedAt": 1789660336000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 42,
+   "score": 41.6,
+   "hot": true
+  },
+  {
+   "title": "Fujitsu, 일본산 차세대 CPU FUJITSU-MONAKA 출시",
+   "url": "https://news.hada.io/topic?id=33848",
+   "summary": "Fujitsu가 일본에서 설계하고 개발한 FUJITSU-MONAKA CPU 와 이를 탑재한 일본산 서버를 발표하고, 2026년 11월부터 판매를 시작할 예정임 2nm 코어와 5nm 캐시/I/O를 결합한 3D 적층 구조 를 사용하며, 최대 동작 주파수 3.8GHz와 메모리 전송 속도 8800MT/s를 지원...",
+   "publishedAt": 1789660335000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
+  },
+  {
+   "title": "이란 학교 폭격, 미국이 참사 배후라고 믿을 근거 있다고 유엔 판단",
+   "url": "https://news.hada.io/topic?id=33847",
+   "summary": "유엔 독립 진상조사단은 2월 28일 이란 학교와 체육시설 공격에 대해, 미국이 무차별 공격에 따른 전쟁범죄 를 저질렀다고 믿을 합리적 근거가 있다고 판단함 Minab의 Shajareh Tayyebeh 초등학교 공격으로 어린이 120명을 포함한 민간인 156명 이 숨졌으며, 조사단은...",
+   "publishedAt": 1789660334000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
    "hot": true
   },
   {
@@ -461,7 +503,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
+   "hot": false
+  },
+  {
+   "title": "캐나다, EU의 ‘준회원국’ 가입 제안 환영",
+   "url": "https://news.hada.io/topic?id=33846",
+   "summary": "캐나다 총리 Mark Carney 가 캐나다를 EU 최초의 준회원국 으로 받아들이자는 제안을 환영하며 국방, 핵심 광물, 에너지 안보 분야의 협력 확대를 촉구함 준회원국 지위는 현재 EU에 없는 제도 로, 구체적 형태가 불분명하고 도입에 수년이 걸릴 수 ...",
+   "publishedAt": 1789659734000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
+  },
+  {
+   "title": "Apple Reference Image: A New Approach for Verified Photography",
+   "url": "https://security.apple.com/blog/apple-reference-image/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49721322",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 520,
+   "comments": 347,
+   "publishedAt": 1789524451000,
+   "isAI": false,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -475,22 +545,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": true
-  },
-  {
-   "title": "Apple Reference Image: A New Approach for Verified Photography",
-   "url": "https://security.apple.com/blog/apple-reference-image/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49721322",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 518,
-   "comments": 346,
-   "publishedAt": 1789524451000,
-   "isAI": false,
-   "score": 41.6,
-   "hot": false
   },
   {
    "title": "‘모델 복지’에 대한 경고",
@@ -503,7 +559,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
+   "hot": false
+  },
+  {
+   "title": "Claude Cowork과 채팅, 이제 하나의 Claude로 통합",
+   "url": "https://news.hada.io/topic?id=33803",
+   "summary": "Claude Cowork과 채팅이 통합 되어 작업마다 사용할 공간을 고를 필요 없이, 어떤 대화에서든 기존 맥락과 스킬, 커넥터를 활용해 업무를 맡길 수 있음 Claude Docs와 Claude Slides 가 새로 추가되고 Claude Design도 대화 안에서 작동함. 세 기능 모두 유료 플랜에...",
+   "publishedAt": 1789591097000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -517,22 +587,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
-  },
-  {
-   "title": "Claude Cowork과 채팅, 이제 하나의 Claude로 통합",
-   "url": "https://news.hada.io/topic?id=33803",
-   "summary": "Claude Cowork과 채팅이 통합 되어 작업마다 사용할 공간을 고를 필요 없이, 어떤 대화에서든 기존 맥락과 스킬, 커넥터를 활용해 업무를 맡길 수 있음 Claude Docs와 Claude Slides 가 새로 추가되고 Claude Design도 대화 안에서 작동함. 세 기능 모두 유료 플랜에...",
-   "publishedAt": 1789591097000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41.1,
-   "hot": false
   },
   {
    "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
@@ -541,11 +597,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 279,
+   "engagement": 280,
    "comments": 84,
    "publishedAt": 1789559380000,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -559,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -573,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -587,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -601,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -615,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -629,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -640,10 +696,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 676,
-   "comments": 245,
+   "comments": 247,
    "publishedAt": 1789420501000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -657,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -671,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -685,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -699,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -713,7 +769,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.3,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -724,10 +780,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 250,
-   "comments": 187,
+   "comments": 188,
    "publishedAt": 1789549954000,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -741,7 +797,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -755,7 +811,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -769,7 +825,7 @@
    "comments": 168,
    "publishedAt": 1789490325000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -783,35 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
-   "hot": true
-  },
-  {
-   "title": "미국 전략비축유를 뒷받침하는 공학",
-   "url": "https://news.hada.io/topic?id=33828",
-   "summary": "미국 전략비축유는 수억 배럴의 원유를 장기간 안전하게 보관하고 신속히 방출하기 위해 지하 소금 공동 을 활용함 상업용 지상 저장탱크 로 전체 용량을 확보하려면 막대한 부지가 필요하며, 탱크 손상에 따른 유출과 화재에도 취약함 소금 지층은",
-   "publishedAt": 1789627334000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.2,
-   "hot": true
-  },
-  {
-   "title": "백업은 단순하지 않다",
-   "url": "https://news.hada.io/topic?id=33827",
-   "summary": "파일을 다른 곳에 복사하는 것으로 시작한 백업은, 실수와 랜섬웨어에 대비해 과거 상태를 보존하는 일 까지 필요해짐. RAID 1처럼 현재 상태를 복제하는 것만으로는 충분하지 않음 과거 상태를 계속 남기면 저장 공간이 늘어나므로 백업 주기와 보존 정책, 증분 백업과 중복...",
-   "publishedAt": 1789627332000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.2,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -825,8 +853,36 @@
    "comments": 278,
    "publishedAt": 1789500603000,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false
+  },
+  {
+   "title": "미국 전략비축유를 뒷받침하는 공학",
+   "url": "https://news.hada.io/topic?id=33828",
+   "summary": "미국 전략비축유는 수억 배럴의 원유를 장기간 안전하게 보관하고 신속히 방출하기 위해 지하 소금 공동 을 활용함 상업용 지상 저장탱크 로 전체 용량을 확보하려면 막대한 부지가 필요하며, 탱크 손상에 따른 유출과 화재에도 취약함 소금 지층은",
+   "publishedAt": 1789627334000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.8,
+   "hot": true
+  },
+  {
+   "title": "백업은 단순하지 않다",
+   "url": "https://news.hada.io/topic?id=33827",
+   "summary": "파일을 다른 곳에 복사하는 것으로 시작한 백업은, 실수와 랜섬웨어에 대비해 과거 상태를 보존하는 일 까지 필요해짐. RAID 1처럼 현재 상태를 복제하는 것만으로는 충분하지 않음 과거 상태를 계속 남기면 저장 공간이 늘어나므로 백업 주기와 보존 정책, 증분 백업과 중복...",
+   "publishedAt": 1789627332000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.8,
+   "hot": true
   },
   {
    "title": "블로그 글에 DOI를 발급받는 방법",
@@ -839,21 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
-   "hot": true
-  },
-  {
-   "title": "Show GN: Trawling - 해외 기술 소식을 모아보는 한국어 브리핑",
-   "url": "https://news.hada.io/topic?id=33823",
-   "summary": "https://trawling.dev/ 해외 기술 소식과 프로젝트를 여러 출처에서 모아 한국어 요약과 해설로 보여주는 Trawling을 만들었습니다. 여러 사이트를 오가며 영어 제목과 본문을 확인하는 과정을, 한 목록에서 요약을 먼저 읽고 관심 있는 원문을 열어보는 흐름으로 묶었습니다. 개발 도구, 오픈소스, 하",
-   "publishedAt": 1789621127000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.5,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -867,8 +909,22 @@
    "comments": 154,
    "publishedAt": 1789588416000,
    "isAI": false,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
+  },
+  {
+   "title": "Show GN: Trawling - 해외 기술 소식을 모아보는 한국어 브리핑",
+   "url": "https://news.hada.io/topic?id=33823",
+   "summary": "https://trawling.dev/ 해외 기술 소식과 프로젝트를 여러 출처에서 모아 한국어 요약과 해설로 보여주는 Trawling을 만들었습니다. 여러 사이트를 오가며 영어 제목과 본문을 확인하는 과정을, 한 목록에서 요약을 먼저 읽고 관심 있는 원문을 열어보는 흐름으로 묶었습니다. 개발 도구, 오픈소스, 하",
+   "publishedAt": 1789621127000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.1,
+   "hot": true
   },
   {
    "title": "Pion, an agent designed to run any company autonomously",
@@ -881,7 +937,7 @@
    "comments": 610,
    "publishedAt": 1789406166000,
    "isAI": true,
-   "score": 37,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -895,7 +951,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -909,7 +965,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -923,21 +979,7 @@
    "comments": 51,
    "publishedAt": 1789494970000,
    "isAI": true,
-   "score": 36.4,
-   "hot": false
-  },
-  {
-   "title": ".NET 11의 성능 개선",
-   "url": "https://news.hada.io/topic?id=33819",
-   "summary": ".NET 11 은 JIT와 라이브러리 전반에서 불필요한 할당, 경계 검사, 잠금, 복사를 줄임. JIT 최적화는 소스 수정이나 애플리케이션 재컴파일 없이도 이득을 주는 경우가 많음 런타임 비동기(runtime async) 는 async / await 변환을 컴파일러...",
-   "publishedAt": 1789609693000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.3,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -951,7 +993,21 @@
    "comments": 420,
    "publishedAt": 1789389657000,
    "isAI": true,
-   "score": 36.2,
+   "score": 36,
+   "hot": false
+  },
+  {
+   "title": ".NET 11의 성능 개선",
+   "url": "https://news.hada.io/topic?id=33819",
+   "summary": ".NET 11 은 JIT와 라이브러리 전반에서 불필요한 할당, 경계 검사, 잠금, 복사를 줄임. JIT 최적화는 소스 수정이나 애플리케이션 재컴파일 없이도 이득을 주는 경우가 많음 런타임 비동기(runtime async) 는 async / await 변환을 컴파일러...",
+   "publishedAt": 1789609693000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36,
    "hot": false
   },
   {
@@ -965,7 +1021,21 @@
    "comments": 21,
    "publishedAt": 1789482248000,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+   "url": "https://withcapsule.app/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49712278",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 374,
+   "comments": 161,
+   "publishedAt": 1789479100000,
+   "isAI": false,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -979,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -993,21 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-   "url": "https://withcapsule.app/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49712278",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 372,
-   "comments": 161,
-   "publishedAt": 1789479100000,
-   "isAI": false,
-   "score": 35.7,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1021,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1032,10 +1088,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 320,
-   "comments": 201,
+   "comments": 202,
    "publishedAt": 1789487928000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1049,20 +1105,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-   "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
-   "publishedAt": 1789615800000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
    "score": 35.2,
    "hot": false
   },
@@ -1077,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1091,7 +1133,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+   "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+   "publishedAt": 1789615800000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.8,
+   "hot": false
+  },
+  {
+   "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+   "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49715813",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 279,
+   "comments": 108,
+   "publishedAt": 1789493318000,
+   "isAI": false,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1105,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1119,7 +1189,7 @@
    "comments": 850,
    "publishedAt": 1789408229000,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1133,7 +1203,7 @@
    "comments": 142,
    "publishedAt": 1789432814000,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1147,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1161,7 +1231,7 @@
    "comments": 79,
    "publishedAt": 1789486005000,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1175,49 +1245,7 @@
    "comments": 181,
    "publishedAt": 1789465668000,
    "isAI": true,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "AI for Societal Impact",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-   "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-   "publishedAt": 1789488000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 34.1,
-   "hot": false
-  },
-  {
-   "title": "Building AI to accelerate science and improve lives",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-   "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
-   "publishedAt": 1789488000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 34.1,
-   "hot": false
-  },
-  {
-   "title": "AI for everyone in every language",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-   "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-   "publishedAt": 1789488000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1231,7 +1259,49 @@
    "comments": 97,
    "publishedAt": 1789473691000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "AI for Societal Impact",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+   "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+   "publishedAt": 1789488000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "Building AI to accelerate science and improve lives",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+   "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+   "publishedAt": 1789488000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "AI for everyone in every language",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+   "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+   "publishedAt": 1789488000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1245,7 +1315,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1259,35 +1329,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "CSS Zen Garden의 꿈, 마침내 실제로 구현되다",
-   "url": "https://news.hada.io/topic?id=33798",
-   "summary": "같은 HTML을 CSS만 바꿔 전혀 다른 모습으로 만드는 CSS Zen Garden 의 이상을, 현대 CSS로 Firefox.com을 재구축하며 실제 서비스에 적용함 Custom Properties, Grid, Flexbox와 일관된 브라우저 지원 덕분에 전처리기나 각종 우회 기법 없이 디자인을 충실하게 구...",
-   "publishedAt": 1789581217000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "25년간의 대규모 감시, 이제 충분하다",
-   "url": "https://news.hada.io/topic?id=33797",
-   "summary": "9/11 이후 테러 대응을 명분으로 시작한 대규모 감시 가 이민 단속, 시위자 추적, 민간 보안까지 일상적으로 확산됐지만, 비용과 안전 증진 효과를 종합적으로 검증한 분석은 없음 민간 기업의 데이터 수집 이 정부 감시에 정보를 공급함. 정부는 통신사와 인터넷 기...",
-   "publishedAt": 1789581037000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.6,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1301,7 +1343,35 @@
    "comments": 113,
    "publishedAt": 1789445723000,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "CSS Zen Garden의 꿈, 마침내 실제로 구현되다",
+   "url": "https://news.hada.io/topic?id=33798",
+   "summary": "같은 HTML을 CSS만 바꿔 전혀 다른 모습으로 만드는 CSS Zen Garden 의 이상을, 현대 CSS로 Firefox.com을 재구축하며 실제 서비스에 적용함 Custom Properties, Grid, Flexbox와 일관된 브라우저 지원 덕분에 전처리기나 각종 우회 기법 없이 디자인을 충실하게 구...",
+   "publishedAt": 1789581217000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "25년간의 대규모 감시, 이제 충분하다",
+   "url": "https://news.hada.io/topic?id=33797",
+   "summary": "9/11 이후 테러 대응을 명분으로 시작한 대규모 감시 가 이민 단속, 시위자 추적, 민간 보안까지 일상적으로 확산됐지만, 비용과 안전 증진 효과를 종합적으로 검증한 분석은 없음 민간 기업의 데이터 수집 이 정부 감시에 정보를 공급함. 정부는 통신사와 인터넷 기...",
+   "publishedAt": 1789581037000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1315,7 +1385,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1329,77 +1399,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "AI is feared globally as the destroyer of jobs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-   "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority s",
-   "publishedAt": 1789653600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
-   "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
-   "summary": "Lunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments available, built either by L",
-   "publishedAt": 1789653600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "초기 Sony PlayStation 2 보안 칩, 26년 만에 ‘완전히 뚫렸다’",
-   "url": "https://news.hada.io/topic?id=33795",
-   "summary": "초기 PS2의 MechaCon 보안 칩 내부 ROM을 추출 하는 데 성공했으며, 레트로 하드웨어 개발자 DiscoStarslayer가 4년간 진행한 역공학의 성과임 칩 패키지를 화학적으로 벗겨 내부를 현미경으로 분석하고, 불완전한 광학 덤프에서 취약점을 찾아 소프트웨어로 데이터를 추출...",
-   "publishedAt": 1789577642000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "다른 사람들의 일까지 하기",
-   "url": "https://news.hada.io/topic?id=33793",
-   "summary": "다른 사람의 일까지 할 줄 알면 그들이 어떻게 일하고 무엇을 필요로 하는지 이해할 수 있으며, 특히 필요한 일을 담당자가 하지 않을 때 직접 해결할 수 있음 제품을 만들었는데 아무도 도입하지 않거나 필요한 기능이 개발 일정에 잡히지 않는다면, 직접 통합하거나 패치를...",
-   "publishedAt": 1789577282000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-   "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49715813",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 209,
-   "comments": 72,
-   "publishedAt": 1789493318000,
-   "isAI": false,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   }
  ]
