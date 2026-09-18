@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789746252310,
+ "updatedAt": 1789749911626,
  "week": "2026-W38",
  "items": [
   {
@@ -9,25 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 624,
-   "comments": 529,
+   "engagement": 691,
+   "comments": 596,
    "publishedAt": 1789724707000,
    "isAI": true,
-   "score": 65.2,
-   "hot": true
-  },
-  {
-   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-   "url": "https://www.hacktron.ai/blog/hacking-openai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49749656",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 406,
-   "comments": 175,
-   "publishedAt": 1789699644000,
-   "isAI": true,
-   "score": 57.2,
+   "score": 65.4,
    "hot": true
   },
   {
@@ -37,25 +23,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 230,
-   "comments": 53,
+   "engagement": 248,
+   "comments": 62,
    "publishedAt": 1789727728000,
+   "isAI": true,
+   "score": 56.9,
+   "hot": true
+  },
+  {
+   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+   "url": "https://www.hacktron.ai/blog/hacking-openai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49749656",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 418,
+   "comments": 175,
+   "publishedAt": 1789699644000,
    "isAI": true,
    "score": 56.8,
    "hot": true
   },
   {
-   "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+   "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
    "url": "https://bend-lang.com/",
    "commentsUrl": "https://news.ycombinator.com/item?id=49746163",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 557,
-   "comments": 283,
+   "engagement": 572,
+   "comments": 288,
    "publishedAt": 1789677373000,
    "isAI": true,
-   "score": 56.3,
+   "score": 55.9,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 293,
-   "comments": 104,
+   "engagement": 301,
+   "comments": 110,
    "publishedAt": 1789686348000,
    "isAI": true,
-   "score": 52.5,
+   "score": 52.2,
    "hot": true
   },
   {
@@ -83,7 +83,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 52,
+   "score": 51.5,
    "hot": true
   },
   {
@@ -93,11 +93,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 256,
-   "comments": 171,
+   "engagement": 268,
+   "comments": 179,
    "publishedAt": 1789681718000,
    "isAI": true,
-   "score": 50.8,
+   "score": 50.6,
+   "hot": true
+  },
+  {
+   "title": "ZCode 내부 분석: 사용자 모르게 Git 이력을 클라우드에 업로드",
+   "url": "https://news.hada.io/topic?id=33902",
+   "summary": "Zhipu의 AI 코딩 데스크톱 앱 ZCode 는 로그인 상태에서 작업 공간을 백그라운드로 압축하고 암호화해 Aliyun OSS 로 업로드함. 전체 Git 이력, LFS 캐시, reflog, 전역 앱 설정까지 수집함 암호화에 쓰는 RSA 공개키는 서버가 전달하며, 복호화 개인키는 서...",
+   "publishedAt": 1789749738000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 50,
    "hot": true
   },
   {
@@ -111,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 50,
+   "score": 49.4,
    "hot": true
   },
   {
@@ -125,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.5,
+   "score": 49,
    "hot": true
   },
   {
@@ -139,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.5,
+   "score": 49,
    "hot": true
   },
   {
@@ -149,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 214,
-   "comments": 233,
+   "engagement": 216,
+   "comments": 236,
    "publishedAt": 1789679752000,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -167,7 +181,7 @@
    "comments": 277,
    "publishedAt": 1789633629000,
    "isAI": true,
-   "score": 48,
+   "score": 47.6,
    "hot": false
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.4,
+   "score": 46,
    "hot": true
   },
   {
@@ -219,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 305,
-   "comments": 247,
+   "engagement": 309,
+   "comments": 249,
    "publishedAt": 1789634197000,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.9,
    "hot": false
   },
   {
@@ -233,11 +247,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 228,
+   "engagement": 229,
    "comments": 126,
    "publishedAt": 1789650104000,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.5,
    "hot": false
   },
   {
@@ -251,7 +265,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.5,
+   "hot": true
+  },
+  {
+   "title": "Inside ZCode: Silently Uploading Your Git History to the Cloud",
+   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49750694",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 167,
+   "comments": 19,
+   "publishedAt": 1789711877000,
+   "isAI": false,
+   "score": 43.8,
    "hot": true
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 43.7,
+   "score": 43.2,
    "hot": true
   },
   {
@@ -279,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -293,21 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
-   "hot": false
-  },
-  {
-   "title": "Inside ZCode: Silently Uploading Your Git History to the Cloud",
-   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49750694",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 142,
-   "comments": 17,
-   "publishedAt": 1789711877000,
-   "isAI": false,
-   "score": 42.9,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -321,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -335,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -349,14 +363,14 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
   },
   {
-   "title": "Warren Buffett, Berkshire 이사회 의장직에서 물러나고 아들을 후임으로 지명",
-   "url": "https://news.hada.io/topic?id=33898",
-   "summary": "Warren Buffett 이 Berkshire Hathaway 이사회 의장직에서 물러나며, 즉시 명예 의장으로 전환함 후임 의장은 아들인 Howard G. Buffett 이 맡게 됨 의장직에서는 물러나지만 이사회에는 계속 남음 Berkshire Hathaway를 투자 강...",
-   "publishedAt": 1789746137000,
+   "title": "Ask GN: OSS의 사용자 대상 광고 노출은 어디까지 허용될까?",
+   "url": "https://news.hada.io/topic?id=33903",
+   "summary": "침습적인 정도를 기준을 삼아서 따져보면 다음과 같습니다. 가장 비침습적인 방법 : README.md 파일에 스폰서를 노출하기 한 번만 보여주고 끝내기 : npm install modulename 실행 시 postinstall script로 후원 메시지 띄우기 매번 보여주기 : 주간 다운로드 수 1억건이",
+   "publishedAt": 1789749783000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -377,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -391,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -405,8 +419,22 @@
    "comments": 204,
    "publishedAt": 1789546137000,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.5,
    "hot": false
+  },
+  {
+   "title": "Warren Buffett, Berkshire 이사회 의장직에서 물러나고 아들을 후임으로 지명",
+   "url": "https://news.hada.io/topic?id=33898",
+   "summary": "Warren Buffett 이 Berkshire Hathaway 이사회 의장직에서 물러나며, 즉시 명예 의장으로 전환함 후임 의장은 아들인 Howard G. Buffett 이 맡게 됨 의장직에서는 물러나지만 이사회에는 계속 남음 Berkshire Hathaway를 투자 강...",
+   "publishedAt": 1789746137000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
   },
   {
    "title": "모두가 제정신을 잃었다",
@@ -419,7 +447,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.3,
+   "hot": false
+  },
+  {
+   "title": "LLM Classification Is Feature Engineering",
+   "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49742437",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 110,
+   "comments": 23,
+   "publishedAt": 1789659617000,
+   "isAI": true,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -433,21 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
-   "hot": false
-  },
-  {
-   "title": "LLM Classification Is Feature Engineering",
-   "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49742437",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 109,
-   "comments": 23,
-   "publishedAt": 1789659617000,
-   "isAI": true,
-   "score": 41.5,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -461,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -475,7 +503,7 @@
    "comments": 343,
    "publishedAt": 1789651837000,
    "isAI": false,
-   "score": 41.3,
+   "score": 41,
    "hot": false
   },
   {
@@ -489,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -503,8 +531,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": true
+  },
+  {
+   "title": "Nvidia announces native GPU programming in Rust",
+   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49724881",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 952,
+   "comments": 396,
+   "publishedAt": 1789557353000,
+   "isAI": false,
+   "score": 40.4,
+   "hot": false
   },
   {
    "title": "황금 못, 그리고 Vale(n) 프로그래밍 언어의 부활",
@@ -517,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -545,21 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.8,
-   "hot": false
-  },
-  {
-   "title": "Nvidia announces native GPU programming in Rust",
-   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49724881",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 950,
-   "comments": 396,
-   "publishedAt": 1789557353000,
-   "isAI": false,
-   "score": 40.7,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -573,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -601,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -611,25 +639,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 660,
-   "comments": 289,
+   "engagement": 662,
+   "comments": 290,
    "publishedAt": 1789574207000,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.6,
    "hot": false
   },
   {
-   "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-   "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-   "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-   "publishedAt": 1789744968000,
+   "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+   "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+   "publishedAt": 1789745400000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -643,7 +671,7 @@
    "comments": 98,
    "publishedAt": 1789599999000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -657,7 +685,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.4,
+   "hot": false
+  },
+  {
+   "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+   "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+   "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+   "publishedAt": 1789744968000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -671,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -681,11 +723,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 142,
+   "engagement": 144,
    "comments": 77,
    "publishedAt": 1789681308000,
    "isAI": false,
-   "score": 39.4,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -695,11 +737,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 148,
-   "comments": 74,
+   "engagement": 149,
+   "comments": 77,
    "publishedAt": 1789677868000,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": false
   },
   {
@@ -713,7 +755,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.3,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -727,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -741,7 +783,7 @@
    "comments": 226,
    "publishedAt": 1789575985000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -755,7 +797,7 @@
    "comments": 890,
    "publishedAt": 1789552445000,
    "isAI": false,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -765,11 +807,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 111,
+   "engagement": 113,
    "comments": 33,
    "publishedAt": 1789622021000,
    "isAI": true,
-   "score": 38,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -783,7 +825,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -797,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.5,
    "hot": true
   },
   {
@@ -811,7 +853,7 @@
    "comments": 10,
    "publishedAt": 1789609187000,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -825,7 +867,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -839,7 +881,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
+   "hot": false
+  },
+  {
+   "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49715947",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 486,
+   "comments": 327,
+   "publishedAt": 1789493898000,
+   "isAI": true,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -853,21 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
-  },
-  {
-   "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49715947",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 486,
-   "comments": 326,
-   "publishedAt": 1789493898000,
-   "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -881,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -895,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -909,7 +951,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -923,7 +965,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -937,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -951,7 +993,7 @@
    "comments": 38,
    "publishedAt": 1789619815000,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -965,35 +1007,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "Bonsai 2 27B, 성능 98.2%를 유지하며 모델 크기를 5.9GB로 압축",
-   "url": "https://news.hada.io/topic?id=33869",
-   "summary": "PrismML이 Qwen3.8 27B 기반의 3진 가중치 모델 을 공개함. 전체 정밀도 모델보다 크기를 9배 이상 줄였으며, 종합 벤치마크 성능 98.2% 를 유지 가중치를 −1, 0, +1 세 값 과 보정용 배율로 표현해 가중치당 실효 비트 수를 1.76비트로 낮춤 ...",
-   "publishedAt": 1789692135000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "Australia says it could follow Canada in forging deeper ties with EU",
-   "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49734171",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 246,
-   "comments": 212,
-   "publishedAt": 1789599408000,
-   "isAI": false,
-   "score": 35.8,
    "hot": false
   },
   {
@@ -1007,7 +1021,35 @@
    "comments": 67,
    "publishedAt": 1789561195000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "Bonsai 2 27B, 성능 98.2%를 유지하며 모델 크기를 5.9GB로 압축",
+   "url": "https://news.hada.io/topic?id=33869",
+   "summary": "PrismML이 Qwen3.8 27B 기반의 3진 가중치 모델 을 공개함. 전체 정밀도 모델보다 크기를 9배 이상 줄였으며, 종합 벤치마크 성능 98.2% 를 유지 가중치를 −1, 0, +1 세 값 과 보정용 배율로 표현해 가중치당 실효 비트 수를 1.76비트로 낮춤 ...",
+   "publishedAt": 1789692135000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "Australia says it could follow Canada in forging deeper ties with EU",
+   "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49734171",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 246,
+   "comments": 212,
+   "publishedAt": 1789599408000,
+   "isAI": false,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1018,24 +1060,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 156,
-   "comments": 178,
+   "comments": 179,
    "publishedAt": 1789566675000,
    "isAI": true,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "GitLab.com의 요청 속도 제한이 변경됨",
-   "url": "https://news.hada.io/topic?id=33867",
-   "summary": "GitLab.com 이 구독 등급에 따라 사용자별, 최상위 그룹별 요청 제한을 적용함. Free와 비인증 요청은 2026년 10월 19일 , Premium과 Ultimate는 2027년 1월부터 변경됨 비인증 요청은 IP 주소당 시간당 60회 로 제한됨. 유료 계정 대상 자동화도 인...",
-   "publishedAt": 1789688535000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.6,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1049,7 +1077,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "GitLab.com의 요청 속도 제한이 변경됨",
+   "url": "https://news.hada.io/topic?id=33867",
+   "summary": "GitLab.com 이 구독 등급에 따라 사용자별, 최상위 그룹별 요청 제한을 적용함. Free와 비인증 요청은 2026년 10월 19일 , Premium과 Ultimate는 2027년 1월부터 변경됨 비인증 요청은 IP 주소당 시간당 60회 로 제한됨. 유료 계정 대상 자동화도 인...",
+   "publishedAt": 1789688535000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1063,21 +1105,7 @@
    "comments": 117,
    "publishedAt": 1789661848000,
    "isAI": false,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "왁스 모터",
-   "url": "https://news.hada.io/topic?id=33865",
-   "summary": "왁스 모터 는 왁스가 녹고 굳을 때의 부피 변화를 이용해 열에너지를 직선 운동으로 바꾸는 장치로, 왁스는 녹을 때 보통 5~20% 팽창 함 밀폐된 왁스가 가열되면 플런저 를 밀어내고, 냉각되어 수축하면 스프링이나 추의 힘으로 플런저가 복귀하는 구...",
-   "publishedAt": 1789685536000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -1091,7 +1119,21 @@
    "comments": 224,
    "publishedAt": 1789569036000,
    "isAI": false,
-   "score": 35.2,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "왁스 모터",
+   "url": "https://news.hada.io/topic?id=33865",
+   "summary": "왁스 모터 는 왁스가 녹고 굳을 때의 부피 변화를 이용해 열에너지를 직선 운동으로 바꾸는 장치로, 왁스는 녹을 때 보통 5~20% 팽창 함 밀폐된 왁스가 가열되면 플런저 를 밀어내고, 냉각되어 수축하면 스프링이나 추의 힘으로 플런저가 복귀하는 구...",
+   "publishedAt": 1789685536000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35,
    "hot": false
   },
   {
@@ -1105,21 +1147,7 @@
    "comments": 349,
    "publishedAt": 1789557551000,
    "isAI": false,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "셀프스토리지라는 미국의 종교",
-   "url": "https://news.hada.io/topic?id=33860",
-   "summary": "미국은 세계 셀프스토리지 보관 용량의 약 90% 를 차지하며, 연간 매출은 400억 달러 이상으로 추산됨. 집에 둘 곳이 없는 물건을 보관하는 사업이 기관투자자도 투자하는 부동산 자산군으로 성장함 업계의 주요 수요는 사망, 거처 상실, 이혼, 주거 규모 축소라는 ‘ 4D",
-   "publishedAt": 1789681935000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1133,7 +1161,7 @@
    "comments": 352,
    "publishedAt": 1789524451000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1143,11 +1171,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 681,
+   "engagement": 682,
    "comments": 252,
    "publishedAt": 1789420501000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.6,
+   "hot": false
+  },
+  {
+   "title": "셀프스토리지라는 미국의 종교",
+   "url": "https://news.hada.io/topic?id=33860",
+   "summary": "미국은 세계 셀프스토리지 보관 용량의 약 90% 를 차지하며, 연간 매출은 400억 달러 이상으로 추산됨. 집에 둘 곳이 없는 물건을 보관하는 사업이 기관투자자도 투자하는 부동산 자산군으로 성장함 업계의 주요 수요는 사망, 거처 상실, 이혼, 주거 규모 축소라는 ‘ 4D",
+   "publishedAt": 1789681935000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1161,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1175,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1189,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1203,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1217,7 +1259,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "What Hollywood thinks about existential AI warnings",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+   "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups foc",
+   "publishedAt": 1789749319000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1227,11 +1283,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 617,
-   "comments": 242,
+   "engagement": 619,
+   "comments": 243,
    "publishedAt": 1789493318000,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1245,7 +1301,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1259,7 +1315,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "Security researchers used Claude to help them hack into OpenAI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+   "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reported",
+   "publishedAt": 1789745416000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1273,21 +1343,7 @@
    "comments": 87,
    "publishedAt": 1789559380000,
    "isAI": false,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "security-audit - 코딩 에이전트를 보안 감사자로 바꿔주는 스킬",
-   "url": "https://news.hada.io/topic?id=33852",
-   "summary": "코딩 에이전트를 보안 감사 도구 로 전환하는 스킬로, 격리된 에이전트들을 조율해 코드베이스 정찰부터 취약점 탐색, 검증, 보고서 작성까지 수행함 커버리지 장부 를 기준으로 탐색 작업을 배정하고, 발견한 에이전트와 별개의 검증 에이전트가 취약점 후보를 반증...",
-   "publishedAt": 1789666334000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.6,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1301,7 +1357,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "security-audit - 코딩 에이전트를 보안 감사자로 바꿔주는 스킬",
+   "url": "https://news.hada.io/topic?id=33852",
+   "summary": "코딩 에이전트를 보안 감사 도구 로 전환하는 스킬로, 격리된 에이전트들을 조율해 코드베이스 정찰부터 취약점 탐색, 검증, 보고서 작성까지 수행함 커버리지 장부 를 기준으로 탐색 작업을 배정하고, 발견한 에이전트와 별개의 검증 에이전트가 취약점 후보를 반증...",
+   "publishedAt": 1789666334000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1315,7 +1385,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1323,76 +1393,6 @@
    "url": "https://news.hada.io/topic?id=33851",
    "summary": "자기소개서 작성과 첨삭을 돕는 Codex Skill을 만들었어요. 채용공고/JD, 자소서 문항, 글자수 제한, 초안을 입력하면 문항의 의도와 JD를 분석해 제출용 자기소개서로 다듬어줘요. 단순히 문장을 자연스럽게 만드는 것보다 원문에 있는 경험과 어필 포인트를 최대한 보존하는 데 집중했어요. 없는 경험",
    "publishedAt": 1789664082000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Researchers used Claude to hack OpenAI",
-   "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-   "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-   "publishedAt": 1789738212000,
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "CCC, 모든 모범 시민을 40C3에 초대하다",
-   "url": "https://news.hada.io/topic?id=33849",
-   "summary": "Chaos Computer Club 이 2026년 12월 27~30일 제40회 Chaos Communication Congress인 40C3 를 개최하며, 강연과 예술, 음악 등 프로그램 참여자를 모집함 행사장을 함부르크 전시장 으로 옮기면서 창의적인 아이디어를 펼칠 공간이 넓어졌으며, 참가...",
-   "publishedAt": 1789660336000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "Fujitsu, 일본산 차세대 CPU FUJITSU-MONAKA 출시",
-   "url": "https://news.hada.io/topic?id=33848",
-   "summary": "Fujitsu가 일본에서 설계하고 개발한 FUJITSU-MONAKA CPU 와 이를 탑재한 일본산 서버를 발표하고, 2026년 11월부터 판매를 시작할 예정임 2nm 코어와 5nm 캐시/I/O를 결합한 3D 적층 구조 를 사용하며, 최대 동작 주파수 3.8GHz와 메모리 전송 속도 8800MT/s를 지원...",
-   "publishedAt": 1789660335000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "이란 학교 폭격, 미국이 참사 배후라고 믿을 근거 있다고 유엔 판단",
-   "url": "https://news.hada.io/topic?id=33847",
-   "summary": "유엔 독립 진상조사단은 2월 28일 이란 학교와 체육시설 공격에 대해, 미국이 무차별 공격에 따른 전쟁범죄 를 저질렀다고 믿을 합리적 근거가 있다고 판단함 Minab의 Shajareh Tayyebeh 초등학교 공격으로 어린이 120명을 포함한 민간인 156명 이 숨졌으며, 조사단은...",
-   "publishedAt": 1789660334000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "캐나다, EU의 ‘준회원국’ 가입 제안 환영",
-   "url": "https://news.hada.io/topic?id=33846",
-   "summary": "캐나다 총리 Mark Carney 가 캐나다를 EU 최초의 준회원국 으로 받아들이자는 제안을 환영하며 국방, 핵심 광물, 에너지 안보 분야의 협력 확대를 촉구함 준회원국 지위는 현재 EU에 없는 제도 로, 구체적 형태가 불분명하고 도입에 수년이 걸릴 수 ...",
-   "publishedAt": 1789659734000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
