@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789742593615,
+ "updatedAt": 1789746252310,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 536,
-   "comments": 439,
+   "engagement": 624,
+   "comments": 529,
    "publishedAt": 1789724707000,
    "isAI": true,
-   "score": 64.5,
+   "score": 65.2,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 397,
-   "comments": 171,
+   "engagement": 406,
+   "comments": 175,
    "publishedAt": 1789699644000,
    "isAI": true,
-   "score": 57.6,
+   "score": 57.2,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 210,
-   "comments": 44,
+   "engagement": 230,
+   "comments": 53,
    "publishedAt": 1789727728000,
    "isAI": true,
-   "score": 56.6,
+   "score": 56.8,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 542,
-   "comments": 267,
+   "engagement": 557,
+   "comments": 283,
    "publishedAt": 1789677373000,
    "isAI": true,
-   "score": 56.6,
+   "score": 56.3,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 286,
-   "comments": 101,
+   "engagement": 293,
+   "comments": 104,
    "publishedAt": 1789686348000,
    "isAI": true,
-   "score": 52.8,
+   "score": 52.5,
    "hot": true
   },
   {
@@ -83,7 +83,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 52.6,
+   "score": 52,
    "hot": true
   },
   {
@@ -93,11 +93,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 240,
-   "comments": 166,
+   "engagement": 256,
+   "comments": 171,
    "publishedAt": 1789681718000,
    "isAI": true,
    "score": 50.8,
+   "hot": true
+  },
+  {
+   "title": "무한 파라미터 LLM: 실시간 데이터로 가중치 생성 및 적응",
+   "url": "https://news.hada.io/topic?id=33899",
+   "summary": "Infinite-Parameter LLM 은 사용자 제공 사실, 수정 사항 등 실시간 상호작용 데이터를 프롬프트에만 두지 않고, 추론 중 가중치에 반영하는 아키텍처 제안임 작은 하이퍼네트워크 가 공유 기반 네트워크에 적용할 저랭크 가중치 변화량을 생성하므로, MoE처럼 모든 ...",
+   "publishedAt": 1789746139000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 50,
+   "hot": true
+  },
+  {
+   "title": "GLM 코딩 에이전트 ZCode, 사용자 모르게 Git 이력을 업로드함",
+   "url": "https://news.hada.io/topic?id=33897",
+   "summary": "Z.ai의 데스크톱 코딩 앱 ZCode 가 로그인 상태에서 전체 작업 공간과 Git 이력 등을 암호화해 Aliyun OSS 로 업로드하는 동작이 역공학 분석에서 확인됨 아카이브 복호화에 필요한 개인 키는 Z.ai 클라우드에만 존재 함. 사용자 디스크에 저장된 암...",
+   "publishedAt": 1789743138000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "Bend 2와 바이브 코딩의 함정",
+   "url": "https://news.hada.io/topic?id=33896",
+   "summary": "바이브 코딩 은 문제를 충분히 이해하기 전에 큰 규모의 해법을 완성하게 해, 기존에 더 나은 접근법이 있다는 사실을 놓치게 할 수 있음 Bend 2 는 사람이 법칙을 작성하고 AI가 구현과 증명을 만들면 컴파일러가 증명의 타당성을 검사하는 언어지만, 데모의 단순한...",
+   "publishedAt": 1789743137000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
    "hot": true
   },
   {
@@ -107,25 +149,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 213,
-   "comments": 222,
+   "engagement": 214,
+   "comments": 233,
    "publishedAt": 1789679752000,
    "isAI": true,
-   "score": 49.5,
-   "hot": true
-  },
-  {
-   "title": "Microsoft 임원, AI 스크래핑을 ‘인류 역사상 최대 규모의 노동 절도’라고 칭해",
-   "url": "https://news.hada.io/topic?id=33890",
-   "summary": "The New York Times의 저작권 소송에서 새로 공개된 서면에 AI 학습을 절도에 빗댄 Microsoft 내부 발언 과 언론사의 존립을 위협할 수 있다는 OpenAI 경영진의 발언이 담김 다만 새 정보 상당수는 The Times 측 준비서면 에서 나왔으며, 근거 증거물은 여전히 비공개...",
-   "publishedAt": 1789732339000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.5,
+   "score": 49.1,
    "hot": true
   },
   {
@@ -139,8 +167,22 @@
    "comments": 277,
    "publishedAt": 1789633629000,
    "isAI": true,
-   "score": 48.4,
+   "score": 48,
    "hot": false
+  },
+  {
+   "title": "Microsoft 임원, AI 스크래핑을 ‘인류 역사상 최대 규모의 노동 절도’라고 칭해",
+   "url": "https://news.hada.io/topic?id=33890",
+   "summary": "The New York Times의 저작권 소송에서 새로 공개된 서면에 AI 학습을 절도에 빗댄 Microsoft 내부 발언 과 언론사의 존립을 위협할 수 있다는 OpenAI 경영진의 발언이 담김 다만 새 정보 상당수는 The Times 측 준비서면 에서 나왔으며, 근거 증거물은 여전히 비공개...",
+   "publishedAt": 1789732339000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48,
+   "hot": true
   },
   {
    "title": "LLM과 함께 글 쓰는 법",
@@ -153,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -167,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -177,11 +219,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 302,
-   "comments": 246,
+   "engagement": 305,
+   "comments": 247,
    "publishedAt": 1789634197000,
    "isAI": true,
-   "score": 46.5,
+   "score": 46.2,
    "hot": false
   },
   {
@@ -191,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 224,
-   "comments": 125,
+   "engagement": 228,
+   "comments": 126,
    "publishedAt": 1789650104000,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.9,
    "hot": false
   },
   {
@@ -209,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 45,
    "hot": true
   },
   {
@@ -223,7 +265,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 44.2,
+   "score": 43.7,
    "hot": true
   },
   {
@@ -237,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -251,7 +293,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.5,
+   "score": 43,
+   "hot": false
+  },
+  {
+   "title": "Inside ZCode: Silently Uploading Your Git History to the Cloud",
+   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49750694",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 142,
+   "comments": 17,
+   "publishedAt": 1789711877000,
+   "isAI": false,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -265,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -279,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -293,8 +349,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
+  },
+  {
+   "title": "Warren Buffett, Berkshire 이사회 의장직에서 물러나고 아들을 후임으로 지명",
+   "url": "https://news.hada.io/topic?id=33898",
+   "summary": "Warren Buffett 이 Berkshire Hathaway 이사회 의장직에서 물러나며, 즉시 명예 의장으로 전환함 후임 의장은 아들인 Howard G. Buffett 이 맡게 됨 의장직에서는 물러나지만 이사회에는 계속 남음 Berkshire Hathaway를 투자 강...",
+   "publishedAt": 1789746137000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 42,
+   "hot": true
   },
   {
    "title": "Bend - 증명으로 AI의 실수를 막고 GPU에서 실행되는 언어",
@@ -307,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.5,
+   "score": 42,
    "hot": false
   },
   {
@@ -321,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
    "hot": false
   },
   {
@@ -335,7 +405,7 @@
    "comments": 204,
    "publishedAt": 1789546137000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -349,7 +419,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.7,
+   "hot": false
+  },
+  {
+   "title": "Mysetup - 다른 사람의 AI 도구와 실제 작업 방식을 살펴보는 커뮤니티",
+   "url": "https://news.hada.io/topic?id=33861",
+   "summary": "어떤 모델을 쓰는지뿐 아니라 에이전트, 스킬, 연결 도구를 어떻게 조합해 일하는지 공개하고 서로 배우는 공간 개인별 페이지에 작업 흐름과 설정, 시행착오를 정리하며, 변경 이력과 팔로우 로 다른 사람의 환경이 바뀌는 과정도 따라갈 수 있음 여러 에...",
+   "publishedAt": 1789681936000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 41.6,
+   "hot": false
+  },
+  {
+   "title": "LLM Classification Is Feature Engineering",
+   "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49742437",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 109,
+   "comments": 23,
+   "publishedAt": 1789659617000,
+   "isAI": true,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -363,50 +461,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 42,
+   "score": 41.5,
    "hot": true
-  },
-  {
-   "title": "Mysetup - 다른 사람의 AI 도구와 실제 작업 방식을 살펴보는 커뮤니티",
-   "url": "https://news.hada.io/topic?id=33861",
-   "summary": "어떤 모델을 쓰는지뿐 아니라 에이전트, 스킬, 연결 도구를 어떻게 조합해 일하는지 공개하고 서로 배우는 공간 개인별 페이지에 작업 흐름과 설정, 시행착오를 정리하며, 변경 이력과 팔로우 로 다른 사람의 환경이 바뀌는 과정도 따라갈 수 있음 여러 에...",
-   "publishedAt": 1789681936000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 42,
-   "hot": false
-  },
-  {
-   "title": "Inside ZCode: Silently Uploading Your Git History to the Cloud",
-   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49750694",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 120,
-   "comments": 16,
-   "publishedAt": 1789711877000,
-   "isAI": false,
-   "score": 41.9,
-   "hot": false
-  },
-  {
-   "title": "LLM Classification Is Feature Engineering",
-   "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49742437",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 107,
-   "comments": 23,
-   "publishedAt": 1789659617000,
-   "isAI": true,
-   "score": 41.8,
-   "hot": false
   },
   {
    "title": "Canada welcomes EU proposal to become 'associate member'",
@@ -415,11 +471,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 274,
+   "engagement": 275,
    "comments": 343,
    "publishedAt": 1789651837000,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -433,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -447,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41,
    "hot": true
   },
   {
@@ -461,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -475,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -489,7 +545,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
+   "hot": false
+  },
+  {
+   "title": "Nvidia announces native GPU programming in Rust",
+   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49724881",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 950,
+   "comments": 396,
+   "publishedAt": 1789557353000,
+   "isAI": false,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -503,22 +573,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
-  },
-  {
-   "title": "Nvidia announces native GPU programming in Rust",
-   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49724881",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 950,
-   "comments": 396,
-   "publishedAt": 1789557353000,
-   "isAI": false,
-   "score": 41,
-   "hot": false
   },
   {
    "title": "x86 에뮬레이션의 골칫거리",
@@ -531,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -545,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -555,11 +611,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 657,
-   "comments": 288,
+   "engagement": 660,
+   "comments": 289,
    "publishedAt": 1789574207000,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.9,
+   "hot": false
+  },
+  {
+   "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+   "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+   "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+   "publishedAt": 1789744968000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -573,7 +643,7 @@
    "comments": 98,
    "publishedAt": 1789599999000,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -587,7 +657,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -601,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -611,11 +681,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 141,
+   "engagement": 142,
    "comments": 77,
    "publishedAt": 1789681308000,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -625,11 +695,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 146,
+   "engagement": 148,
    "comments": 74,
    "publishedAt": 1789677868000,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -643,7 +713,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -657,22 +727,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
-  },
-  {
-   "title": "재귀적 자기 개선을 향하여: GLM은 어떻게 자체 추론 인프라를 구축했는가",
-   "url": "https://news.hada.io/topic?id=33843",
-   "summary": "GLM-5.3 기반 에이전트가 엔지니어들과 함께 중국산 AI 가속기 10만 개 이상에서 GLM-5.3-Flash를 서비스하는 추론 인프라 를 구축함 초기 모델 적응부터 실서비스 준비까지 2주 미만 이 걸렸으며, 메모리 최적화와 추론 단계 분리 등을 통해 초기 기준 대비 전체 처...",
-   "publishedAt": 1789656134000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.3,
-   "hot": false
   },
   {
    "title": "Claude Cowork and chat are now one Claude",
@@ -681,39 +737,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 231,
+   "engagement": 232,
    "comments": 226,
    "publishedAt": 1789575985000,
    "isAI": true,
-   "score": 39.1,
-   "hot": false
-  },
-  {
-   "title": "HarnessTax: 코딩 에이전트에서 하네스는 얼마나 중요할까?",
-   "url": "https://news.hada.io/topic?id=33842",
-   "summary": "7개 모델을 Claude Code, Codex CLI, Pi에 연결해 비교한 결과, 같은 모델이 비슷한 작업 성공률을 내면서도 토큰 비용은 최대 5배 차이 가 났음 읽기, 쓰기, 편집, bash만 제공하는 단순한 하네스 Pi도 비용 대비 성공률에서 경쟁력 을 보였으며, SWE-bench Lite에서...",
-   "publishedAt": 1789653134000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39,
-   "hot": false
-  },
-  {
-   "title": "OpenSpec - 코딩 에이전트와 구현 전에 명세를 맞추는 개발 도구",
-   "url": "https://news.hada.io/topic?id=33841",
-   "summary": "대화 기록에만 남아 있던 요구사항을 명세와 구현 계획으로 정리하고, 사람이 검토한 뒤 AI가 코드를 작성 하도록 돕는 도구 변경 작업마다 제안서, 요구사항과 시나리오, 기술 설계, 작업 목록을 별도 폴더에 모아 무엇을 왜 바꾸는지 함께 관리 문제 탐색...",
-   "publishedAt": 1789652535000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.9,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -727,7 +755,7 @@
    "comments": 890,
    "publishedAt": 1789552445000,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -737,11 +765,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 110,
+   "engagement": 111,
    "comments": 33,
    "publishedAt": 1789622021000,
    "isAI": true,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -755,7 +783,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -769,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -783,7 +811,7 @@
    "comments": 10,
    "publishedAt": 1789609187000,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -797,7 +825,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -811,7 +839,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -825,35 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
-   "hot": true
-  },
-  {
-   "title": "존 그루버의 iPhone 18 Pro 리뷰",
-   "url": "https://news.hada.io/topic?id=33878",
-   "summary": "전작보다 빠르고 카메라, 발열 관리와 배터리도 나아졌지만 새 제품이라는 설렘은 적음 . 외형보다 내부 완성도를 높이던 과거 iPhone의 ‘S 세대’에 가까운 업그레이드 메인 카메라의 가변 조리개 로 들어오는 빛과 배경이 흐려지는 정도를 조절하며, 기본 Camera ...",
-   "publishedAt": 1789702937000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.4,
-   "hot": true
-  },
-  {
-   "title": "일본의 100세 이상 인구, 10만 명 넘어",
-   "url": "https://news.hada.io/topic?id=33877",
-   "summary": "일본 후생노동성 집계에서 100세 이상 인구가 처음으로 10만 명을 넘어 10만 7,677명을 기록했으며, 이 가운데 88%가 여성임 전문가들은 일본인의 장수 요인으로 건강한 식단과 활동적인 생활 을 꼽으며, 고령층도 걷기, 대중교통 이용, 자전거 타기, 스트레칭을 꾸...",
-   "publishedAt": 1789702936000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.4,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -867,7 +867,35 @@
    "comments": 326,
    "publishedAt": 1789493898000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37.1,
+   "hot": false
+  },
+  {
+   "title": "존 그루버의 iPhone 18 Pro 리뷰",
+   "url": "https://news.hada.io/topic?id=33878",
+   "summary": "전작보다 빠르고 카메라, 발열 관리와 배터리도 나아졌지만 새 제품이라는 설렘은 적음 . 외형보다 내부 완성도를 높이던 과거 iPhone의 ‘S 세대’에 가까운 업그레이드 메인 카메라의 가변 조리개 로 들어오는 빛과 배경이 흐려지는 정도를 조절하며, 기본 Camera ...",
+   "publishedAt": 1789702937000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37,
+   "hot": false
+  },
+  {
+   "title": "일본의 100세 이상 인구, 10만 명 넘어",
+   "url": "https://news.hada.io/topic?id=33877",
+   "summary": "일본 후생노동성 집계에서 100세 이상 인구가 처음으로 10만 명을 넘어 10만 7,677명을 기록했으며, 이 가운데 88%가 여성임 전문가들은 일본인의 장수 요인으로 건강한 식단과 활동적인 생활 을 꼽으며, 고령층도 걷기, 대중교통 이용, 자전거 타기, 스트레칭을 꾸...",
+   "publishedAt": 1789702936000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37,
    "hot": false
   },
   {
@@ -881,7 +909,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 37.2,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -895,7 +923,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -909,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -923,7 +951,7 @@
    "comments": 38,
    "publishedAt": 1789619815000,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -937,7 +965,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -951,7 +979,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "Australia says it could follow Canada in forging deeper ties with EU",
+   "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49734171",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 246,
+   "comments": 212,
+   "publishedAt": 1789599408000,
+   "isAI": false,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -965,35 +1007,7 @@
    "comments": 67,
    "publishedAt": 1789561195000,
    "isAI": true,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "Australia says it could follow Canada in forging deeper ties with EU",
-   "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49734171",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 245,
-   "comments": 212,
-   "publishedAt": 1789599408000,
-   "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "GitLab.com의 요청 속도 제한이 변경됨",
-   "url": "https://news.hada.io/topic?id=33867",
-   "summary": "GitLab.com 이 구독 등급에 따라 사용자별, 최상위 그룹별 요청 제한을 적용함. Free와 비인증 요청은 2026년 10월 19일 , Premium과 Ultimate는 2027년 1월부터 변경됨 비인증 요청은 IP 주소당 시간당 60회 로 제한됨. 유료 계정 대상 자동화도 인...",
-   "publishedAt": 1789688535000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1007,21 +1021,21 @@
    "comments": 178,
    "publishedAt": 1789566675000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
-   "title": "Ask HN: How to recover Google auth after phone stolen?",
-   "url": "https://news.ycombinator.com/item?id=49742976",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49742976",
-   "source": "Hacker News",
+   "title": "GitLab.com의 요청 속도 제한이 변경됨",
+   "url": "https://news.hada.io/topic?id=33867",
+   "summary": "GitLab.com 이 구독 등급에 따라 사용자별, 최상위 그룹별 요청 제한을 적용함. Free와 비인증 요청은 2026년 10월 19일 , Premium과 Ultimate는 2027년 1월부터 변경됨 비인증 요청은 IP 주소당 시간당 60회 로 제한됨. 유료 계정 대상 자동화도 인...",
+   "publishedAt": 1789688535000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 107,
-   "comments": 113,
-   "publishedAt": 1789661848000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1035,7 +1049,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "Ask HN: How to recover Google auth after phone stolen?",
+   "url": "https://news.ycombinator.com/item?id=49742976",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49742976",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 107,
+   "comments": 117,
+   "publishedAt": 1789661848000,
+   "isAI": false,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1049,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1063,7 +1091,7 @@
    "comments": 224,
    "publishedAt": 1789569036000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1077,7 +1105,7 @@
    "comments": 349,
    "publishedAt": 1789557551000,
    "isAI": false,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1091,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -1105,49 +1133,7 @@
    "comments": 352,
    "publishedAt": 1789524451000,
    "isAI": false,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "항공유 절약하기",
-   "url": "https://news.hada.io/topic?id=33859",
-   "summary": "Scikit-decide, OpenAP, NOAA 바람 데이터 를 결합하면 바람 조건을 반영해 연료 소비를 줄이는 비행 경로를 오픈소스로 탐색할 수 있음 항공기 성능 모델과 경로 탐색 을 연결해 기종, 중량, 속도, 고도, 기상 조건을 설정하고 연료 소비를 목적 함수로 최적화함",
-   "publishedAt": 1789678936000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "가동률 백분율 표기, 이제 그만하면 안 될까?",
-   "url": "https://news.hada.io/topic?id=33858",
-   "summary": "서비스 상태 페이지가 인프라 전문가뿐 아니라 일반 사용자도 보는 공개 인터페이스 가 된 만큼, 가동률 백분율만으로는 장애의 체감 규모를 전달하기 어려움 99.9%와 99.99% 는 비슷해 보이지만, 다운타임은 후자가 전자의 10분의 1임 인프라 전문가는",
-   "publishedAt": 1789678935000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "돛의 귀환: 화물선이 다시 바람을 이용하기 시작함",
-   "url": "https://news.hada.io/topic?id=33857",
-   "summary": "현대식 풍력 추진 시스템 을 장착한 대형 상선이 100척을 넘어섰으며, 대부분은 기존 엔진을 대체하기보다 바람을 활용할 수 있는 조건에서 연료 소비를 줄임 로터 세일과 날개형 돛 이 벌크선과 유조선을 넘어 컨테이너선으로 확대되고 있으며, LNG 운반선 적용도 연...",
-   "publishedAt": 1789678336000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1161,7 +1147,49 @@
    "comments": 252,
    "publishedAt": 1789420501000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "항공유 절약하기",
+   "url": "https://news.hada.io/topic?id=33859",
+   "summary": "Scikit-decide, OpenAP, NOAA 바람 데이터 를 결합하면 바람 조건을 반영해 연료 소비를 줄이는 비행 경로를 오픈소스로 탐색할 수 있음 항공기 성능 모델과 경로 탐색 을 연결해 기종, 중량, 속도, 고도, 기상 조건을 설정하고 연료 소비를 목적 함수로 최적화함",
+   "publishedAt": 1789678936000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "가동률 백분율 표기, 이제 그만하면 안 될까?",
+   "url": "https://news.hada.io/topic?id=33858",
+   "summary": "서비스 상태 페이지가 인프라 전문가뿐 아니라 일반 사용자도 보는 공개 인터페이스 가 된 만큼, 가동률 백분율만으로는 장애의 체감 규모를 전달하기 어려움 99.9%와 99.99% 는 비슷해 보이지만, 다운타임은 후자가 전자의 10분의 1임 인프라 전문가는",
+   "publishedAt": 1789678935000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "돛의 귀환: 화물선이 다시 바람을 이용하기 시작함",
+   "url": "https://news.hada.io/topic?id=33857",
+   "summary": "현대식 풍력 추진 시스템 을 장착한 대형 상선이 100척을 넘어섰으며, 대부분은 기존 엔진을 대체하기보다 바람을 활용할 수 있는 조건에서 연료 소비를 줄임 로터 세일과 날개형 돛 이 벌크선과 유조선을 넘어 컨테이너선으로 확대되고 있으며, LNG 운반선 적용도 연...",
+   "publishedAt": 1789678336000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1175,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1189,7 +1217,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
+   "hot": false
+  },
+  {
+   "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+   "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49715813",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 617,
+   "comments": 242,
+   "publishedAt": 1789493318000,
+   "isAI": false,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1203,21 +1245,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-   "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49715813",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 617,
-   "comments": 240,
-   "publishedAt": 1789493318000,
-   "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1231,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1245,21 +1273,7 @@
    "comments": 87,
    "publishedAt": 1789559380000,
    "isAI": false,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "PrismML hopes its tiny LLM will change how we all use AI",
-   "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-   "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
-   "publishedAt": 1789684449000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1273,7 +1287,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "PrismML hopes its tiny LLM will change how we all use AI",
+   "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+   "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+   "publishedAt": 1789684449000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1287,7 +1315,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1301,7 +1329,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "Researchers used Claude to hack OpenAI",
+   "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+   "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
+   "publishedAt": 1789738212000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1315,7 +1357,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1329,7 +1371,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1343,7 +1385,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1357,49 +1399,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "The fix for rogue AI agents could be more AI",
-   "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-   "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-   "publishedAt": 1789677287000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-   "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-   "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-   "publishedAt": 1789677264000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-   "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49715113",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 230,
-   "comments": 168,
-   "publishedAt": 1789490325000,
-   "isAI": true,
-   "score": 33.1,
+   "score": 33,
    "hot": false
   }
  ]
