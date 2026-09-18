@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789757229260,
+ "updatedAt": 1789760887761,
  "week": "2026-W38",
  "items": [
   {
@@ -9,53 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 780,
-   "comments": 677,
+   "engagement": 800,
+   "comments": 698,
    "publishedAt": 1789724707000,
    "isAI": true,
-   "score": 65.1,
-   "hot": true
-  },
-  {
-   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-   "url": "https://www.hacktron.ai/blog/hacking-openai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49749656",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 438,
-   "comments": 184,
-   "publishedAt": 1789699644000,
-   "isAI": true,
-   "score": 56.1,
-   "hot": true
-  },
-  {
-   "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-   "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49752422",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 255,
-   "comments": 64,
-   "publishedAt": 1789727728000,
-   "isAI": true,
-   "score": 55.9,
-   "hot": true
-  },
-  {
-   "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
-   "url": "https://bend-lang.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49746163",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 583,
-   "comments": 294,
-   "publishedAt": 1789677373000,
-   "isAI": true,
-   "score": 55,
+   "score": 64.7,
    "hot": true
   },
   {
@@ -65,12 +23,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 110,
-   "comments": 42,
+   "engagement": 217,
+   "comments": 142,
    "publishedAt": 1789752481000,
    "isAI": true,
-   "score": 52.2,
-   "hot": false
+   "score": 58,
+   "hot": true
+  },
+  {
+   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+   "url": "https://www.hacktron.ai/blog/hacking-openai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49749656",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 447,
+   "comments": 189,
+   "publishedAt": 1789699644000,
+   "isAI": true,
+   "score": 55.7,
+   "hot": true
+  },
+  {
+   "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+   "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49752422",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 257,
+   "comments": 13,
+   "publishedAt": 1789727728000,
+   "isAI": true,
+   "score": 55.4,
+   "hot": true
+  },
+  {
+   "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
+   "url": "https://bend-lang.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49746163",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 587,
+   "comments": 295,
+   "publishedAt": 1789677373000,
+   "isAI": true,
+   "score": 54.6,
+   "hot": true
   },
   {
    "title": "Qwen 3.8 Omni Flash",
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 319,
-   "comments": 120,
+   "engagement": 321,
+   "comments": 122,
    "publishedAt": 1789686348000,
    "isAI": true,
-   "score": 51.6,
+   "score": 51.2,
    "hot": true
   },
   {
@@ -93,12 +93,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 109,
-   "comments": 35,
+   "engagement": 110,
+   "comments": 38,
    "publishedAt": 1789744533000,
    "isAI": true,
-   "score": 50.9,
+   "score": 50.5,
    "hot": false
+  },
+  {
+   "title": "How to Write with an LLM",
+   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49747070",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 295,
+   "comments": 208,
+   "publishedAt": 1789681718000,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
+  },
+  {
+   "title": "미군, AI 환각으로 만들어진 정보 보고서 활용하다 위기 겪어",
+   "url": "https://news.hada.io/topic?id=33907",
+   "summary": "미군이 중국 선박에 핵무기 프로그램 관련 부품이 실렸다는 허위 정보 를 토대로 차단 작전을 준비했으며, 작전 직전에야 AI가 화물을 잘못 식별한 사실을 확인함 특수작전사령부 분석관은 챗봇으로 공개출처정보와 기밀 신호정보 를 종합한 뒤, AI를 다시 사용해 결...",
+   "publishedAt": 1789760538000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
   },
   {
    "title": "New experts join Google’s AI & Economy team",
@@ -111,21 +139,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 50.4,
-   "hot": true
-  },
-  {
-   "title": "How to Write with an LLM",
-   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49747070",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 289,
-   "comments": 200,
-   "publishedAt": 1789681718000,
-   "isAI": true,
-   "score": 50.3,
+   "score": 49.8,
    "hot": true
   },
   {
@@ -139,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.4,
    "hot": true
   },
   {
@@ -153,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.9,
    "hot": true
   },
   {
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -191,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 216,
-   "comments": 241,
+   "engagement": 217,
+   "comments": 242,
    "publishedAt": 1789679752000,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -209,7 +223,7 @@
    "comments": 278,
    "publishedAt": 1789633629000,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.4,
    "hot": false
   },
   {
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 46,
    "hot": true
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 45,
    "hot": true
   },
   {
@@ -248,10 +262,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 309,
-   "comments": 250,
+   "comments": 252,
    "publishedAt": 1789634197000,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
    "hot": false
   },
   {
@@ -265,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -279,21 +293,21 @@
    "comments": 130,
    "publishedAt": 1789650104000,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.3,
    "hot": false
   },
   {
-   "title": "Inside ZCode: Silently Uploading Your Git History to the Cloud",
+   "title": "Inside ZCode: Silently uploading your Git history to the cloud",
    "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
    "commentsUrl": "https://news.ycombinator.com/item?id=49750694",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 182,
-   "comments": 23,
+   "engagement": 200,
+   "comments": 84,
    "publishedAt": 1789711877000,
    "isAI": false,
-   "score": 43.6,
+   "score": 44,
    "hot": true
   },
   {
@@ -307,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -321,7 +335,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 42.3,
+   "score": 41.9,
    "hot": true
   },
   {
@@ -335,8 +349,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false
+  },
+  {
+   "title": "선그리스어: 고대 그리스어 속에 숨겨진 잃어버린 언어",
+   "url": "https://news.hada.io/topic?id=33906",
+   "summary": "고대 그리스어의 약 1,000개 단어 는 인도유럽어족이나 주변의 알려진 언어로 기원을 추적하기 어려우며, 그리스인 도래 이전 에게해 주민들의 언어가 남긴 흔적으로 볼 수 있음 차용어 판별에는 어원 부재뿐 아니라 규칙적인 음운 변화로 설명되지 않는 소리 , 불규...",
+   "publishedAt": 1789757538000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
   },
   {
    "title": "스타트업을 피벗해야 할까? [동영상]",
@@ -349,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -363,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -377,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -391,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -405,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -419,7 +447,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
+   "hot": false
+  },
+  {
+   "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+   "url": "https://mistral.ai/news/mistral-x-mozilla/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49723408",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 582,
+   "comments": 204,
+   "publishedAt": 1789546137000,
+   "isAI": true,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -433,22 +475,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
-  },
-  {
-   "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-   "url": "https://mistral.ai/news/mistral-x-mozilla/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49723408",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 582,
-   "comments": 204,
-   "publishedAt": 1789546137000,
-   "isAI": true,
-   "score": 40.9,
-   "hot": false
   },
   {
    "title": "Bend - 증명으로 AI의 실수를 막고 GPU에서 실행되는 언어",
@@ -461,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -475,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -489,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -503,7 +531,7 @@
    "comments": 24,
    "publishedAt": 1789659617000,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -517,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -531,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
@@ -541,11 +569,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 276,
+   "engagement": 277,
    "comments": 346,
    "publishedAt": 1789651837000,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -559,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -573,7 +601,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
+   "hot": false
+  },
+  {
+   "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+   "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+   "publishedAt": 1789757370000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -584,24 +626,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 952,
-   "comments": 398,
+   "comments": 399,
    "publishedAt": 1789557353000,
    "isAI": false,
-   "score": 39.8,
-   "hot": false
-  },
-  {
-   "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-   "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-   "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-   "publishedAt": 1789754393000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 39.7,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -615,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -629,7 +657,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
+   "hot": false
+  },
+  {
+   "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+   "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+   "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+   "publishedAt": 1789754393000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -643,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -657,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -671,7 +713,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.5,
+   "score": 39,
    "hot": false
   },
   {
@@ -685,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -699,7 +741,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.3,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -713,7 +755,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.3,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -727,7 +769,7 @@
    "comments": 292,
    "publishedAt": 1789574207000,
    "isAI": false,
-   "score": 39,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -741,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -755,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -769,7 +811,7 @@
    "comments": 98,
    "publishedAt": 1789599999000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -783,7 +825,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -797,7 +839,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -811,7 +853,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -822,24 +864,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 146,
-   "comments": 77,
+   "comments": 79,
    "publishedAt": 1789681308000,
    "isAI": false,
-   "score": 38.5,
-   "hot": false
-  },
-  {
-   "title": "AI 안전은 대부분 섹스 컬트다",
-   "url": "https://news.hada.io/topic?id=33850",
-   "summary": "AI 안전 운동의 중심을 ‘섹스 컬트’로 규정하는 SE Gyges의 논평 으로, 합리주의 공동체의 사상과 인적 관계, 자금 구조가 AI 정책에 미치는 영향을 공격적으로 비판함 Eliezer Yudkowsky의 초지능 등장 → 통제 상실 → 인류 멸망 구도가 주요 AI 기업과 안전 담...",
-   "publishedAt": 1789663334000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -849,11 +877,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 150,
-   "comments": 77,
+   "engagement": 153,
+   "comments": 79,
    "publishedAt": 1789677868000,
    "isAI": false,
-   "score": 38.4,
+   "score": 38.1,
+   "hot": true
+  },
+  {
+   "title": "Claude Cowork and chat are now one Claude",
+   "url": "https://claude.com/blog/cowork-is-now-claude",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49729412",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 232,
+   "comments": 226,
+   "publishedAt": 1789575985000,
+   "isAI": true,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -867,21 +909,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38,
-   "hot": false
-  },
-  {
-   "title": "Claude Cowork and chat are now one Claude",
-   "url": "https://claude.com/blog/cowork-is-now-claude",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49729412",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 232,
-   "comments": 226,
-   "publishedAt": 1789575985000,
-   "isAI": true,
-   "score": 37.9,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -895,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -909,7 +937,7 @@
    "comments": 891,
    "publishedAt": 1789552445000,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -923,7 +951,7 @@
    "comments": 34,
    "publishedAt": 1789622021000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -937,7 +965,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -951,7 +979,7 @@
    "comments": 10,
    "publishedAt": 1789609187000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -965,7 +993,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -979,21 +1007,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "Helping older adults use AI in everyday life",
-   "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-   "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-   "publishedAt": 1789574400000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 36.5,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -1007,7 +1021,21 @@
    "comments": 327,
    "publishedAt": 1789493898000,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.2,
+   "hot": false
+  },
+  {
+   "title": "Helping older adults use AI in everyday life",
+   "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+   "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+   "publishedAt": 1789574400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -1021,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1035,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1049,21 +1077,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "Making global data easier to explore",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-   "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-   "publishedAt": 1789675200000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": false,
-   "score": 35.8,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1077,7 +1091,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "Making global data easier to explore",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+   "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+   "publishedAt": 1789675200000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": false,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1091,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1105,21 +1133,7 @@
    "comments": 38,
    "publishedAt": 1789619815000,
    "isAI": false,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "macOS 27 Golden Gate 리뷰",
-   "url": "https://news.hada.io/topic?id=33875",
-   "summary": "Tahoe의 Liquid Glass 디자인을 다듬고 일상 기능을 보강 한 업데이트로, Apple Intelligence도 실용성이 높아졌지만 전체 비활성화와 모델 삭제 옵션은 사라짐 유리 효과의 강도를 조절하고 창 모서리, 제목 표시줄과 사이드바를 정리해 화면의 시각적 혼잡과 불편 ...",
-   "publishedAt": 1789696336000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -1133,21 +1147,21 @@
    "comments": 95,
    "publishedAt": 1789606933000,
    "isAI": true,
-   "score": 35.2,
+   "score": 35,
    "hot": false
   },
   {
-   "title": "Australia says it could follow Canada in forging deeper ties with EU",
-   "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49734171",
-   "source": "Hacker News",
+   "title": "macOS 27 Golden Gate 리뷰",
+   "url": "https://news.hada.io/topic?id=33875",
+   "summary": "Tahoe의 Liquid Glass 디자인을 다듬고 일상 기능을 보강 한 업데이트로, Apple Intelligence도 실용성이 높아졌지만 전체 비활성화와 모델 삭제 옵션은 사라짐 유리 효과의 강도를 조절하고 창 모서리, 제목 표시줄과 사이드바를 정리해 화면의 시각적 혼잡과 불편 ...",
+   "publishedAt": 1789696336000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 248,
-   "comments": 213,
-   "publishedAt": 1789599408000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1161,7 +1175,21 @@
    "comments": 67,
    "publishedAt": 1789561195000,
    "isAI": true,
-   "score": 35,
+   "score": 34.8,
+   "hot": false
+  },
+  {
+   "title": "Australia says it could follow Canada in forging deeper ties with EU",
+   "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49734171",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 248,
+   "comments": 213,
+   "publishedAt": 1789599408000,
+   "isAI": false,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1175,7 +1203,7 @@
    "comments": 180,
    "publishedAt": 1789566675000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1189,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1203,21 +1231,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.7,
-   "hot": false
-  },
-  {
-   "title": "GitLab.com의 요청 속도 제한이 변경됨",
-   "url": "https://news.hada.io/topic?id=33867",
-   "summary": "GitLab.com 이 구독 등급에 따라 사용자별, 최상위 그룹별 요청 제한을 적용함. Free와 비인증 요청은 2026년 10월 19일 , Premium과 Ultimate는 2027년 1월부터 변경됨 비인증 요청은 IP 주소당 시간당 60회 로 제한됨. 유료 계정 대상 자동화도 인...",
-   "publishedAt": 1789688535000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1227,11 +1241,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 108,
+   "engagement": 109,
    "comments": 117,
    "publishedAt": 1789661848000,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1245,7 +1259,21 @@
    "comments": 224,
    "publishedAt": 1789569036000,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "GitLab.com의 요청 속도 제한이 변경됨",
+   "url": "https://news.hada.io/topic?id=33867",
+   "summary": "GitLab.com 이 구독 등급에 따라 사용자별, 최상위 그룹별 요청 제한을 적용함. Free와 비인증 요청은 2026년 10월 19일 , Premium과 Ultimate는 2027년 1월부터 변경됨 비인증 요청은 IP 주소당 시간당 60회 로 제한됨. 유료 계정 대상 자동화도 인...",
+   "publishedAt": 1789688535000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1259,35 +1287,7 @@
    "comments": 350,
    "publishedAt": 1789557551000,
    "isAI": false,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "왁스 모터",
-   "url": "https://news.hada.io/topic?id=33865",
-   "summary": "왁스 모터 는 왁스가 녹고 굳을 때의 부피 변화를 이용해 열에너지를 직선 운동으로 바꾸는 장치로, 왁스는 녹을 때 보통 5~20% 팽창 함 밀폐된 왁스가 가열되면 플런저 를 밀어내고, 냉각되어 수축하면 스프링이나 추의 힘으로 플런저가 복귀하는 구...",
-   "publishedAt": 1789685536000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "Apple Reference Image: A New Approach for Verified Photography",
-   "url": "https://security.apple.com/blog/apple-reference-image/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49721322",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 527,
-   "comments": 352,
-   "publishedAt": 1789524451000,
-   "isAI": false,
-   "score": 34.2,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1301,7 +1301,49 @@
    "comments": 252,
    "publishedAt": 1789420501000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "Apple Reference Image: A New Approach for Verified Photography",
+   "url": "https://security.apple.com/blog/apple-reference-image/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49721322",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 527,
+   "comments": 352,
+   "publishedAt": 1789524451000,
+   "isAI": false,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "왁스 모터",
+   "url": "https://news.hada.io/topic?id=33865",
+   "summary": "왁스 모터 는 왁스가 녹고 굳을 때의 부피 변화를 이용해 열에너지를 직선 운동으로 바꾸는 장치로, 왁스는 녹을 때 보통 5~20% 팽창 함 밀폐된 왁스가 가열되면 플런저 를 밀어내고, 냉각되어 수축하면 스프링이나 추의 힘으로 플런저가 복귀하는 구...",
+   "publishedAt": 1789685536000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+   "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+   "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+   "publishedAt": 1789759250000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1315,13 +1357,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.6,
    "hot": false
   },
   {
    "title": "Virginia governor creates an AI task force and moves to restrain data centers",
    "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-   "summary": "Virginia Gov. Abigail Spanberger (D) ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive bran",
+   "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch o",
    "publishedAt": 1789756157000,
    "source": "The Verge",
    "sourceType": "media",
@@ -1329,7 +1371,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1343,7 +1385,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1357,48 +1399,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "가동률 백분율 표기, 이제 그만하면 안 될까?",
-   "url": "https://news.hada.io/topic?id=33858",
-   "summary": "서비스 상태 페이지가 인프라 전문가뿐 아니라 일반 사용자도 보는 공개 인터페이스 가 된 만큼, 가동률 백분율만으로는 장애의 체감 규모를 전달하기 어려움 99.9%와 99.99% 는 비슷해 보이지만, 다운타임은 후자가 전자의 10분의 1임 인프라 전문가는",
-   "publishedAt": 1789678935000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "돛의 귀환: 화물선이 다시 바람을 이용하기 시작함",
-   "url": "https://news.hada.io/topic?id=33857",
-   "summary": "현대식 풍력 추진 시스템 을 장착한 대형 상선이 100척을 넘어섰으며, 대부분은 기존 엔진을 대체하기보다 바람을 활용할 수 있는 조건에서 연료 소비를 줄임 로터 세일과 날개형 돛 이 벌크선과 유조선을 넘어 컨테이너선으로 확대되고 있으며, LNG 운반선 적용도 연...",
-   "publishedAt": 1789678336000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Gavin Newsom is pushing for an AI kill switch",
-   "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-   "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendatio",
-   "publishedAt": 1789751091000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 33.4,
    "hot": false
   }
