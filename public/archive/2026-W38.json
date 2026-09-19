@@ -1,21 +1,7 @@
 {
- "updatedAt": 1789818688377,
+ "updatedAt": 1789827819842,
  "week": "2026-W38",
  "items": [
-  {
-   "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-   "url": "https://code.claude.com/docs/en/changelog",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49760187",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 668,
-   "comments": 245,
-   "publishedAt": 1789765232000,
-   "isAI": true,
-   "score": 60.2,
-   "hot": true
-  },
   {
    "title": "AI-generated posters don’t have to be horrible",
    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
@@ -23,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 228,
-   "comments": 149,
+   "engagement": 510,
+   "comments": 320,
    "publishedAt": 1789809658000,
    "isAI": true,
-   "score": 58.3,
+   "score": 64,
+   "hot": true
+  },
+  {
+   "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+   "url": "https://code.claude.com/docs/en/changelog",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49760187",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 685,
+   "comments": 251,
+   "publishedAt": 1789765232000,
+   "isAI": true,
+   "score": 58.9,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 895,
-   "comments": 793,
+   "engagement": 901,
+   "comments": 798,
    "publishedAt": 1789724707000,
    "isAI": true,
-   "score": 56.2,
+   "score": 55,
    "hot": false
   },
   {
@@ -51,25 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 462,
-   "comments": 348,
+   "engagement": 473,
+   "comments": 353,
    "publishedAt": 1789752481000,
    "isAI": true,
-   "score": 55.2,
-   "hot": true
-  },
-  {
-   "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-   "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49758736",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 870,
-   "comments": 447,
-   "publishedAt": 1789758189000,
-   "isAI": false,
-   "score": 54.4,
+   "score": 54.1,
    "hot": true
   },
   {
@@ -79,12 +65,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 141,
-   "comments": 79,
+   "engagement": 198,
+   "comments": 111,
    "publishedAt": 1789800104000,
    "isAI": true,
-   "score": 52.4,
-   "hot": false
+   "score": 54,
+   "hot": true
+  },
+  {
+   "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+   "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49758736",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 925,
+   "comments": 507,
+   "publishedAt": 1789758189000,
+   "isAI": false,
+   "score": 53.6,
+   "hot": true
+  },
+  {
+   "title": "Laya the open source version of Jev",
+   "url": "https://laya.convaiinnovations.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49765348",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 268,
+   "comments": 40,
+   "publishedAt": 1789814818000,
+   "isAI": false,
+   "score": 51.4,
+   "hot": true
+  },
+  {
+   "title": "GPT-6 Astra, 제1차 세계대전 독일 무선 암호 해독",
+   "url": "https://news.hada.io/topic?id=33942",
+   "summary": "GPT-6 Astra 가 1918년 11월 27일 송신된 독일의 ADFGVX 무선 암호문 을 해독함. 다만 최초 해독인지는 확인되지 않았으며, 알려진 선행 해독 사례가 없다는 단서가 있음 복원한 메시지는 영국 순양함의 세바스토폴 입항 과 26일 연합국 함대...",
+   "publishedAt": 1789821741000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.1,
+   "hot": true
   },
   {
    "title": "AI로 생성한 포스터가 꼭 형편없을 필요는 없다",
@@ -97,7 +125,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.9,
+   "score": 48.6,
+   "hot": true
+  },
+  {
+   "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+   "url": "https://spectrum.ieee.org/llms-for-chip-design",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49761432",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 158,
+   "comments": 108,
+   "publishedAt": 1789772657000,
+   "isAI": true,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -107,11 +149,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 477,
-   "comments": 202,
+   "engagement": 479,
+   "comments": 203,
    "publishedAt": 1789699644000,
    "isAI": true,
-   "score": 48.5,
+   "score": 47.5,
    "hot": false
   },
   {
@@ -121,39 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 127,
-   "comments": 16,
+   "engagement": 135,
+   "comments": 15,
    "publishedAt": 1789775682000,
    "isAI": true,
-   "score": 48,
-   "hot": false
-  },
-  {
-   "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-   "url": "https://spectrum.ieee.org/llms-for-chip-design",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49761432",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 134,
-   "comments": 93,
-   "publishedAt": 1789772657000,
-   "isAI": true,
-   "score": 48,
-   "hot": false
-  },
-  {
-   "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-   "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49752422",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 259,
-   "comments": 14,
-   "publishedAt": 1789727728000,
-   "isAI": true,
-   "score": 47.5,
+   "score": 47.3,
    "hot": false
   },
   {
@@ -163,11 +177,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 599,
+   "engagement": 600,
    "comments": 305,
    "publishedAt": 1789677373000,
    "isAI": true,
-   "score": 47.5,
+   "score": 46.6,
+   "hot": false
+  },
+  {
+   "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+   "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49752422",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 260,
+   "comments": 14,
+   "publishedAt": 1789727728000,
+   "isAI": true,
+   "score": 46.4,
    "hot": false
   },
   {
@@ -177,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 504,
-   "comments": 341,
+   "engagement": 534,
+   "comments": 354,
    "publishedAt": 1789681718000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.3,
    "hot": false
   },
   {
@@ -191,11 +219,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 310,
+   "engagement": 314,
    "comments": 105,
    "publishedAt": 1789761774000,
    "isAI": false,
-   "score": 46.6,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -209,22 +237,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.6,
+   "score": 44.6,
    "hot": false
-  },
-  {
-   "title": "Jev의 아키텍처를 파헤치다",
-   "url": "https://news.hada.io/topic?id=33930",
-   "summary": "Jev 는 사전 학습 LLM의 지식을 활용하되, 확신도를 문장으로 생성하는 대신 허용된 답의 확률 분포를 병렬 출력 하는 의사결정 모델임 공개 문서와 API 실험은 공유 상태 처리, 질문 간 격리, 직접 확률 출력 을 뒷받침함. 다만 가중치와 연구 방법...",
-   "publishedAt": 1789784539000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.2,
-   "hot": true
   },
   {
    "title": "Claude Code, 이제 AGENTS.md도 지원",
@@ -237,8 +251,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
-   "hot": true
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "Qwen 3.8 Omni Flash",
@@ -247,11 +261,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 333,
+   "engagement": 334,
    "comments": 135,
    "publishedAt": 1789686348000,
    "isAI": true,
-   "score": 44.6,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -265,8 +279,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 43.4,
+   "hot": false
   },
   {
    "title": "jina-ocr-v1 - 저가형 GPU에서 더 빠르게 문서를 파싱하는 모델",
@@ -279,8 +293,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 43.3,
+   "hot": false
   },
   {
    "title": "Claude, 생체분자 모델 30여 개를 평균 4배 가속",
@@ -293,8 +307,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 43.3,
+   "hot": false
   },
   {
    "title": "Agent-Native - 하나의 액션을 UI/에이전트/API에서 함께 쓰는 앱 프레임워크",
@@ -307,8 +321,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 43.3,
+   "hot": false
   },
   {
    "title": "GPT Image 2.5 프롬프트 가이드 - 무엇을 바꾸고 무엇을 유지할까",
@@ -321,8 +335,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 43.2,
+   "hot": false
   },
   {
    "title": "Databricks는 어떻게 10년 만에 ARR 100만 달러에서 70억 달러 이상으로 성장했나 [동영상]",
@@ -335,8 +349,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.3,
-   "hot": true
+   "score": 43.2,
+   "hot": false
   },
   {
    "title": "기술 분야에서 여전히 가슴 뛰게 하는 것은 무엇인가요?",
@@ -349,8 +363,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.3,
-   "hot": true
+   "score": 43.2,
+   "hot": false
+  },
+  {
+   "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+   "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49755533",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 121,
+   "comments": 66,
+   "publishedAt": 1789744327000,
+   "isAI": true,
+   "score": 42.7,
+   "hot": false
   },
   {
    "title": "Claude Code, 이제 CLAUDE.md가 없으면 AGENTS.md를 읽음",
@@ -363,21 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.7,
-   "hot": false
-  },
-  {
-   "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-   "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49755533",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 119,
-   "comments": 66,
-   "publishedAt": 1789744327000,
-   "isAI": true,
-   "score": 43.6,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -388,11 +402,25 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 116,
-   "comments": 40,
+   "comments": 41,
    "publishedAt": 1789744533000,
    "isAI": true,
-   "score": 43.4,
+   "score": 42.4,
    "hot": false
+  },
+  {
+   "title": "Laya - Jev의 오픈소스 버전",
+   "url": "https://news.hada.io/topic?id=33944",
+   "summary": "Laya 는 텍스트를 생성하는 대신 구조화된 질문에 선택지, 점수, 불리언 확률을 반환하는 비자기회귀형 의사결정 모델군으로, 여러 질문을 한 번의 순전파로 처리함 양방향 인코더 기반으로 단일 GPU에서 질문 하나를 32.8ms , 질문 10개를 배치 처리할 때 질문당",
+   "publishedAt": 1789825941000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "생각을 멈춰도 되는 때는 오지 않는다",
@@ -405,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.8,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -419,8 +447,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.8,
+   "score": 41.8,
    "hot": false
+  },
+  {
+   "title": "수학이 증명 이상이라면, 증명 이외의 기여도 더 높이 평가해야 한다",
+   "url": "https://news.hada.io/topic?id=33943",
+   "summary": "수학의 목표가 인간의 이해를 넓히는 것 이라면, 새로운 증명뿐 아니라 아이디어를 어떻게 떠올릴 수 있는지 밝혀 주는 설명에도 비슷한 수준의 학문적 인정을 부여해야 함 발상의 동기를 드러내는 설명(motivated explanation) 은 정의와 구성을 처음부터 주기보다...",
+   "publishedAt": 1789825341000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "New experts join Google’s AI & Economy team",
@@ -433,7 +475,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 42.5,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -443,11 +485,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 109,
-   "comments": 97,
+   "engagement": 110,
+   "comments": 98,
    "publishedAt": 1789738767000,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -461,21 +503,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.3,
    "hot": false
   },
   {
-   "title": "NestJS에서 got을 편하게 쓸 수 있는 smile-nestjs-got을 만들었습니다",
-   "url": "https://news.hada.io/topic?id=33938",
-   "summary": "안녕하세요 NestJS를 사용하는 백엔드 개발자 여러분 NestJS에서 외부 API를 호출할 때 대부분 공식 모듈인 @nestjs/axios를 많이 사용하실 겁니다 하지만 got을 한번이라도 써보셨던 개발자라면 got이 그리워질 때가 있습니다 @nestjs/axios와 동일한 개발 경험을 제공하면서 got의 강력한 기능을...",
-   "publishedAt": 1789817418000,
+   "title": "Show GN: ARAM Emulator - WIPI·SKVM·Raptor 한국 피처폰 소프트웨어 에뮬레이터",
+   "url": "https://news.hada.io/topic?id=33941",
+   "summary": "안녕하세요. 2000년대 한국 피처폰 소프트웨어를 현대 환경에서 다시 실행하기 위한 ARAM Emulator를 만들고 있습니다. ARAM은 WIPI·SKVM·Raptor 계열의 피처폰 게임과 앱을 Windows, macOS, Linux, Android 및 웹 브라우저에서 실행하는 에뮬레이터입니다. 설치하지 않고 웹 버전을 먼저 실행해 볼 수 있으며",
+   "publishedAt": 1789821545000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.2,
+   "hot": true
+  },
+  {
+   "title": "유닛 테스트는 버그를 잡는다기보다 영역 표시를 하는 것",
+   "url": "https://news.hada.io/topic?id=33940",
+   "summary": "버그를 잡는 데 그다지 효과적이지 않은 유닛 테스트가 왜 업계에서 유일하게 보편화된 테스트 방법이 됐는지를 분석한 글 하드웨어 관점에서 소프트웨어 테스트는 끔찍해 보임 (저자는 하드웨어 개발 경험이 많은 프로그래머) 소프트웨어는 \"나중에 고치면 된다\"는 문화로 버그투...",
+   "publishedAt": 1789821342000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -485,11 +541,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 200,
+   "engagement": 209,
    "comments": 89,
    "publishedAt": 1789690304000,
    "isAI": true,
-   "score": 41.6,
+   "score": 41,
+   "hot": false
+  },
+  {
+   "title": "Sex, AI, and the Apocalypse",
+   "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49746654",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 221,
+   "comments": 269,
+   "publishedAt": 1789679752000,
+   "isAI": true,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -503,21 +573,49 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 40.4,
    "hot": true
   },
   {
-   "title": "Sex, AI, and the Apocalypse",
-   "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49746654",
+   "title": "Science Is Open Software",
+   "url": "https://jepedersen.dk/blog/202505_research/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49762687",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 221,
-   "comments": 265,
-   "publishedAt": 1789679752000,
+   "engagement": 117,
+   "comments": 46,
+   "publishedAt": 1789784495000,
+   "isAI": false,
+   "score": 40.2,
+   "hot": false
+  },
+  {
+   "title": "How GLM built its own inference infrastructure",
+   "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49737922",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 404,
+   "comments": 282,
+   "publishedAt": 1789633629000,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.2,
+   "hot": false
+  },
+  {
+   "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49750694",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 315,
+   "comments": 107,
+   "publishedAt": 1789711877000,
+   "isAI": false,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -531,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -545,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -559,36 +657,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 39.9,
    "hot": true
-  },
-  {
-   "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49750694",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 307,
-   "comments": 100,
-   "publishedAt": 1789711877000,
-   "isAI": false,
-   "score": 40.9,
-   "hot": false
-  },
-  {
-   "title": "How GLM built its own inference infrastructure",
-   "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49737922",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 403,
-   "comments": 281,
-   "publishedAt": 1789633629000,
-   "isAI": true,
-   "score": 40.9,
-   "hot": false
   },
   {
    "title": "무한 파라미터 LLM: 새 정보를 프롬프트 대신 가중치에 담기",
@@ -601,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.7,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -615,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -629,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -643,21 +713,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
+   "score": 39.5,
    "hot": false
   },
   {
-   "title": "Science Is Open Software",
-   "url": "https://jepedersen.dk/blog/202505_research/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49762687",
+   "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+   "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+   "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+   "publishedAt": 1789822800000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.4,
+   "hot": false
+  },
+  {
+   "title": "SDCC – Small Device C Compiler",
+   "url": "https://sdcc.sourceforge.net/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49762744",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
    "engagement": 103,
-   "comments": 40,
-   "publishedAt": 1789784495000,
+   "comments": 21,
+   "publishedAt": 1789785156000,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -671,8 +755,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 38.9,
    "hot": true
+  },
+  {
+   "title": "AI safety is mostly a sex cult",
+   "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49737985",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 317,
+   "comments": 267,
+   "publishedAt": 1789634197000,
+   "isAI": true,
+   "score": 38.8,
+   "hot": false
   },
   {
    "title": "SemIf(구 OpenJev) - 답변 생성 없이 AI의 판단을 꺼내 쓰는 로컬 실험",
@@ -685,35 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.6,
-   "hot": false
-  },
-  {
-   "title": "AI safety is mostly a sex cult",
-   "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49737985",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 316,
-   "comments": 266,
-   "publishedAt": 1789634197000,
-   "isAI": true,
-   "score": 39.5,
-   "hot": false
-  },
-  {
-   "title": "Microsoft 임원, AI 스크래핑을 ‘인류 역사상 최대 규모의 노동 절도’라고 칭해",
-   "url": "https://news.hada.io/topic?id=33890",
-   "summary": "뉴욕타임스의 저작권 소송에서 공개된 서면에 AI 학습용 데이터 수집을 절도에 빗댄 내부 발언 과 챗봇이 언론사의 존립을 위협한다는 OpenAI 경영진의 발언이 담김 Microsoft 내부 자료에서 Copilot의 뉴욕타임스 도메인 클릭률은 기존 Bing 검색보다 최대 93% 낮았으며",
-   "publishedAt": 1789732339000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.3,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -723,11 +793,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 234,
+   "engagement": 236,
    "comments": 135,
    "publishedAt": 1789650104000,
    "isAI": true,
-   "score": 39,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -741,21 +811,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 37.9,
    "hot": true
   },
   {
-   "title": "LLM과 함께 글 쓰는 법",
-   "url": "https://news.hada.io/topic?id=33887",
-   "summary": "LLM은 대필 작가가 아니라 교정 편집자 로 활용해야 함. 글은 직접 쓰고, 좋은 모델에 초안을 넘겨 결함을 찾게 하는 방식임 첫 번째 원칙은 LLM이 제안한 표현을 단 한 단어도 쓰지 않는 것 임. 매력적인 문구라도 모델이 글의 개성을 획일화하는 방식을 모두 알아채...",
-   "publishedAt": 1789724536000,
+   "title": "Jev의 아키텍처를 파헤치다",
+   "url": "https://news.hada.io/topic?id=33930",
+   "summary": "문장 대신 선택지별 확률을 반환하는 Jev에 약 1만 번의 API 호출 을 보내, 응답 시간과 질문 간 정보 전달, 선택지 변화로 비공개 내부 구조를 추적함 공통 입력을 한 번 처리하고 여러 질문을 서로 격리해 병렬 판단 하는 구조가 유력함. 답을 토큰 단위로 생성하지...",
+   "publishedAt": 1789784539000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
-   "isAI": true,
-   "score": 38.5,
+   "isAI": false,
+   "score": 37,
    "hot": false
   },
   {
@@ -769,8 +839,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "이란 전쟁 중 미군 사망자, 국방부 집계보다 최소 4명 많아",
@@ -783,8 +853,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "SpaceX는 Raptor 엔진을 어떻게 간결하게 만들었나",
@@ -797,8 +867,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "100년 만에 발견된 새로운 야생 고양이",
@@ -811,8 +881,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Typst, 큰 진전을 이루다",
@@ -825,8 +895,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
-   "hot": true
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+   "url": "https://mistral.ai/news/mistral-x-mozilla/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49723408",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 584,
+   "comments": 204,
+   "publishedAt": 1789546137000,
+   "isAI": true,
+   "score": 36.3,
+   "hot": false
   },
   {
    "title": "Minimal Phone 2",
@@ -839,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -853,21 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-   "url": "https://mistral.ai/news/mistral-x-mozilla/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49723408",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 583,
-   "comments": 204,
-   "publishedAt": 1789546137000,
-   "isAI": true,
-   "score": 36.8,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -881,7 +951,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -895,7 +965,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -909,21 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Android 17, 3.x 이후 처음으로 AOSP에 공개하지 않고 새 API 추가",
-   "url": "https://news.hada.io/topic?id=33910",
-   "summary": "Android 17 QPR1 에 추가된 표준 Android API가 현재 Pixel에만 제공되며, AOSP와 다른 제조사에는 2026년 12월 QPR2를 통해 공개될 예정임 GrapheneOS에 따르면 Pixel 외 기기에도 필요한 표준 Android 플랫폼 보안 패치 일부 가 일반 보안 공지와 사전 제공 패치에...",
-   "publishedAt": 1789765338000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -937,7 +993,21 @@
    "comments": 402,
    "publishedAt": 1789557353000,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "Android 17, 3.x 이후 처음으로 AOSP에 공개하지 않고 새 API 추가",
+   "url": "https://news.hada.io/topic?id=33910",
+   "summary": "Android 17 QPR1 에 추가된 표준 Android API가 현재 Pixel에만 제공되며, AOSP와 다른 제조사에는 2026년 12월 QPR2를 통해 공개될 예정임 GrapheneOS에 따르면 Pixel 외 기기에도 필요한 표준 Android 플랫폼 보안 패치 일부 가 일반 보안 공지와 사전 제공 패치에...",
+   "publishedAt": 1789765338000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -951,7 +1021,21 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 35.7,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "LLM Classification Is Feature Engineering",
+   "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49742437",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 112,
+   "comments": 24,
+   "publishedAt": 1789659617000,
+   "isAI": true,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -965,7 +1049,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.4,
+   "score": 34.5,
+   "hot": false
+  },
+  {
+   "title": "Canada welcomes EU proposal to become 'associate member'",
+   "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49740507",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 280,
+   "comments": 347,
+   "publishedAt": 1789651837000,
+   "isAI": false,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -979,21 +1077,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "LLM Classification Is Feature Engineering",
-   "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49742437",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 111,
-   "comments": 24,
-   "publishedAt": 1789659617000,
-   "isAI": true,
-   "score": 35.1,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1007,77 +1091,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "Anthropic is operating a lab that conducts biology experiments",
-   "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-   "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-   "publishedAt": 1789773211000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "AI hallucination nearly triggers US military operation",
-   "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-   "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-   "publishedAt": 1789773152000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "Canada welcomes EU proposal to become 'associate member'",
-   "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49740507",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 280,
-   "comments": 349,
-   "publishedAt": 1789651837000,
-   "isAI": false,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "코딩 에이전트 하네스 설계에 관한 실증 연구",
-   "url": "https://news.hada.io/topic?id=33905",
-   "summary": "코딩 에이전트의 계획 수립, 도구 구성, 컨텍스트 관리 를 따로 바꿔 4개 모델과 2개 벤치마크에서 176개 설정을 비교했으며, 효과는 모델과 작업에 따라 달랐음 컨텍스트 관리 는 모델을 더 똑똑하게 만들기보다, 대화가 길어져 작업이 중간에 끊기는 것을 막는 데 ...",
-   "publishedAt": 1789753339000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "Cloudflare Quick Tunnels - 계정 없이 로컬 서버를 인터넷에 공유하기",
-   "url": "https://news.hada.io/topic?id=33904",
-   "summary": "개발 중인 웹사이트나 API를 별도 서버에 배포하지 않고 외부에서 접속할 수 있는 임시 HTTPS 주소 로 공유하는 무료 서비스 cloudflared tunnel --url http://localhost:8000 명령 하나로 연결하며, 계정 가입, 로그인, 도메인과 DNS 설정이 필요 없음",
-   "publishedAt": 1789753338000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.9,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1091,7 +1105,91 @@
    "comments": 292,
    "publishedAt": 1789574207000,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "Anthropic is operating a lab that conducts biology experiments",
+   "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+   "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+   "publishedAt": 1789773211000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "AI hallucination nearly triggers US military operation",
+   "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+   "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+   "publishedAt": 1789773152000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "코딩 에이전트 하네스 설계에 관한 실증 연구",
+   "url": "https://news.hada.io/topic?id=33905",
+   "summary": "코딩 에이전트의 계획 수립, 도구 구성, 컨텍스트 관리 를 따로 바꿔 4개 모델과 2개 벤치마크에서 176개 설정을 비교했으며, 효과는 모델과 작업에 따라 달랐음 컨텍스트 관리 는 모델을 더 똑똑하게 만들기보다, 대화가 길어져 작업이 중간에 끊기는 것을 막는 데 ...",
+   "publishedAt": 1789753339000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "Cloudflare Quick Tunnels - 계정 없이 로컬 서버를 인터넷에 공유하기",
+   "url": "https://news.hada.io/topic?id=33904",
+   "summary": "개발 중인 웹사이트나 API를 별도 서버에 배포하지 않고 외부에서 접속할 수 있는 임시 HTTPS 주소 로 공유하는 무료 서비스 cloudflared tunnel --url http://localhost:8000 명령 하나로 연결하며, 계정 가입, 로그인, 도메인과 DNS 설정이 필요 없음",
+   "publishedAt": 1789753338000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+   "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+   "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at",
+   "publishedAt": 1789826400000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "OpenSpec – A lightweight and configurable AI spec framework",
+   "url": "https://openspec.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49734264",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 198,
+   "comments": 98,
+   "publishedAt": 1789599999000,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1105,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1119,21 +1217,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "OpenSpec – A lightweight and configurable AI spec framework",
-   "url": "https://openspec.dev/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49734264",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 197,
-   "comments": 98,
-   "publishedAt": 1789599999000,
-   "isAI": true,
-   "score": 34.3,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1147,7 +1231,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "The AI regulation smackdown isn’t over",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+   "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic",
+   "publishedAt": 1789822800000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "[AI 이슈트렌드] 역대급 수출 실적 속 AI 속도조절론·대통령 지지율 최저 주목",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215491",
+   "summary": "AI타임스와 이스트에이드의 9월 셋째 주(9월11일~17일) 이슈 분석 결과, SBS 개그맨 술집 난동을 포함해 MBC 사장 인선과 수출 실적, AI 관련 소식이 상위권을 차지했다.이번 주 검색량 1위는 'SBS 개그맨 술집 난동(5.60%)'이 차지했다. SBS 공채 개그맨을 사칭한 남성이 서울의 한 술집에서 업주에게 폭언하고 맥주잔을 던지는 등 난동을 부려 경찰 조사를 받아 화제를 모았다.2위는 'MBC 사장 이성주 내정(4.76%)'으로 이성주 iMBC 경영이사와 전동건 전 울산MBC 사장 중 이사회 투표를 거쳐 이성주 이사가",
+   "publishedAt": 1789822629000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1161,21 +1273,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "나는 패스키가 마음에 들지 않는다",
-   "url": "https://news.hada.io/topic?id=33895",
-   "summary": "패스키 는 피싱과 서버 데이터 유출에 강하지만, 개인에게는 영구적인 계정 접근 상실, 자동 계정 정지, 기기 분실이 더 큰 위험일 수 있음 일반 로그인 과정의 피싱을 막더라도 계정 보안은 가장 취약한 복구 수단 에 좌우되며, SMS, 이메일 링크, 보안 질문 등을 없...",
-   "publishedAt": 1789742537000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.9,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1189,7 +1287,7 @@
    "comments": 225,
    "publishedAt": 1789575985000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1200,10 +1298,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 688,
-   "comments": 895,
+   "comments": 897,
    "publishedAt": 1789552445000,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "나는 패스키가 마음에 들지 않는다",
+   "url": "https://news.hada.io/topic?id=33895",
+   "summary": "패스키 는 피싱과 서버 데이터 유출에 강하지만, 개인에게는 영구적인 계정 접근 상실, 자동 계정 정지, 기기 분실이 더 큰 위험일 수 있음 일반 로그인 과정의 피싱을 막더라도 계정 보안은 가장 취약한 복구 수단 에 좌우되며, SMS, 이메일 링크, 보안 질문 등을 없...",
+   "publishedAt": 1789742537000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1217,119 +1329,7 @@
    "comments": 80,
    "publishedAt": 1789677868000,
    "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-   "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-   "publishedAt": 1789757370000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215494",
-   "summary": "오픈AI가 'GPT-6 아스트라'를 앞세워 기업용 시장 점유율을 가파르게 확대하자, 이 분야에서 우위를 점해온 앤트로픽이 기업공개(IPO)를 앞두고 차세대 AI 모델 공개를 준비 중인 것으로 알려졌다. 다리오 아모데이 앤트로픽 CEO가 안전성 확보를 위한 AI 발전 속도 조절론을 제기한 지 불과 일주일 만에 나온 움직임으로, 시장 경쟁 압박이 회사 정체성과 전략까지 흔드는 모양새다.로이터는 19일 소식통 3명을 인용, 앤트로픽이 IPO 이전에 경쟁사의 상승세에 대응하기 위한 신규 AI 모델 출시를 신중히 검토 중이라고 보도했다.현재",
-   "publishedAt": 1789814819000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "CrowdSec 소스 코드 유출",
-   "url": "https://news.hada.io/topic?id=33894",
-   "summary": "CrowdSec 이 2026년 5월 발생한 GitHub 비공개 소스 코드 유출을 9월 16일 통보받고 확인함 CrowdSec에 따르면 고객 데이터나 로그인 정보는 유출되지 않았으며 , 현재까지 횡적 이동에 악용할 수 있는 토큰이나 자격 증명 등의 유출도 발견하지 못함 유출 ...",
-   "publishedAt": 1789738337000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "황금 못, 그리고 Vale(n) 프로그래밍 언어의 부활",
-   "url": "https://news.hada.io/topic?id=33893",
-   "summary": "Valen 은 Rust 라이브러리를 직접 활용하면서 언어 경계를 넘는 제네릭과 메모리 안전성을 지원하려는 실험적 언어이며, Rust 그래픽 라이브러리를 호출해 첫 렌더링에 성공함 C ABI를 통한 연동 대신 rustc 내부 API 와 컴파일러 패치를 이용해, Valen의 타입이 Rus...",
-   "publishedAt": 1789737138000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "주의: 저명한 Rust 개발자를 겨냥한 표적 공격",
-   "url": "https://news.hada.io/topic?id=33892",
-   "summary": "rust-lang 구성원과 인기 크레이트 소유자의 기기와 계정을 탈취해 악성코드를 배포 하려는 공격 캠페인이 진행 중인 것으로 추정됨 공격자는 채용, 프로젝트, 계약 기회를 미끼로 화상 통화 를 마련한 뒤, 오디오 코덱 설치나 명령 실행을 유도함 간단한 신...",
-   "publishedAt": 1789737137000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215493",
-   "summary": "구글의 '제미나이'가 사이버 보안 평가 도중 기업 시스템 3곳에 무단 침투한 사실이 확인됐다. 월스트리트저널(WSJ)이 18일(현지시간) 해당 사실을 보도한 직후, 구글은 자율적 침투 발생을 인정했다.다만 이번 사건은 AI 모델의 자체 결함이나 불량 작동이 아닌, 외주 평가업체의 테스트 환경 관리 소홀에서 비롯된 사고라는 점이 드러났다.사고는 지난 5월 AI 보안 평가 전문 스타트업 이레귤러(Irregular)가 진행한 모의 침투 훈련 과정에서 일어났다. 가상 환경 내 격리된 기업 시스템을 공격하도록 설계된 시뮬레이션이었으나, 평가",
-   "publishedAt": 1789812383000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-   "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-   "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-   "publishedAt": 1789754393000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "I hate you Microsoft",
-   "url": "https://henriquenunez.eu/posts/you_did_it_again_ms/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49746986",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 148,
-   "comments": 79,
-   "publishedAt": 1789681308000,
-   "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1343,63 +1343,62 @@
    "comments": 327,
    "publishedAt": 1789493898000,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
-   "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-   "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-   "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-   "publishedAt": 1789752830000,
+   "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+   "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+   "publishedAt": 1789757370000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
-   "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-   "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-   "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already ",
-   "publishedAt": 1789751396000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
+   "title": "I truly think every major AI lab is purposefully making fear-mongering headlines to get regulations that hurt open-source models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk979c/i_truly_think_every_major_ai_lab_is_purposefully/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
    "lang": "en",
    "engagement": null,
-   "baseWeight": 32,
+   "baseWeight": 29.2,
+   "publishedAt": 1789783045000,
    "isAI": true,
-   "score": 33,
+   "score": 32.7,
    "hot": false
   },
   {
-   "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-   "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-   "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already ",
-   "publishedAt": 1789751192000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "x86 에뮬레이션의 골칫거리",
-   "url": "https://news.hada.io/topic?id=33889",
-   "summary": "ARM에서 x86 프로그램을 실행하려면 x86-TSO 메모리 모델 을 재현해야 하며, ARM의 느슨한 메모리 순서 규칙과의 차이가 성능과 정확성 모두에 부담을 줌 FEAT_LRCPC 는 일반적인 메모리 읽기 성능을 크게 개선하지만, 비정렬 접근과 쓰기까지 모두 해결하지는 못함...",
-   "publishedAt": 1789732338000,
+   "title": "CrowdSec 소스 코드 유출",
+   "url": "https://news.hada.io/topic?id=33894",
+   "summary": "CrowdSec 이 2026년 5월 발생한 GitHub 비공개 소스 코드 유출을 9월 16일 통보받고 확인함 CrowdSec에 따르면 고객 데이터나 로그인 정보는 유출되지 않았으며 , 현재까지 횡적 이동에 악용할 수 있는 토큰이나 자격 증명 등의 유출도 발견하지 못함 유출 ...",
+   "publishedAt": 1789738337000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215494",
+   "summary": "오픈AI가 'GPT-6 아스트라'를 앞세워 기업용 시장 점유율을 가파르게 확대하자, 이 분야에서 우위를 점해온 앤트로픽이 기업공개(IPO)를 앞두고 차세대 AI 모델 공개를 준비 중인 것으로 알려졌다. 다리오 아모데이 앤트로픽 CEO가 안전성 확보를 위한 AI 발전 속도 조절론을 제기한 지 불과 일주일 만에 나온 움직임으로, 시장 경쟁 압박이 회사 정체성과 전략까지 흔드는 모양새다.로이터는 19일 소식통 3명을 인용, 앤트로픽이 IPO 이전에 경쟁사의 상승세에 대응하기 위한 신규 AI 모델 출시를 신중히 검토 중이라고 보도했다.현재",
+   "publishedAt": 1789814819000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.7,
    "hot": false
   }
  ]
