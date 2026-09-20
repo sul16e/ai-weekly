@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789881465562,
+ "updatedAt": 1789885118020,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1472,
-   "comments": 804,
+   "engagement": 1506,
+   "comments": 809,
    "publishedAt": 1789809658000,
    "isAI": true,
-   "score": 63.4,
+   "score": 63,
    "hot": true
   },
   {
@@ -23,12 +23,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 617,
+   "engagement": 619,
    "comments": 242,
    "publishedAt": 1789796930000,
    "isAI": true,
-   "score": 54.8,
-   "hot": true
+   "score": 54.3,
+   "hot": false
   },
   {
    "title": "I think you should almost never use AI to write",
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 271,
-   "comments": 136,
+   "engagement": 275,
+   "comments": 137,
    "publishedAt": 1789835724000,
    "isAI": true,
-   "score": 53.9,
+   "score": 53.5,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 715,
+   "engagement": 718,
    "comments": 270,
    "publishedAt": 1789765232000,
    "isAI": true,
-   "score": 51.7,
+   "score": 51.2,
    "hot": false
   },
   {
@@ -65,11 +65,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 376,
-   "comments": 171,
+   "engagement": 377,
+   "comments": 173,
    "publishedAt": 1789800104000,
    "isAI": true,
-   "score": 51.5,
+   "score": 51,
+   "hot": true
+  },
+  {
+   "title": "Cache-to-Cache: LLM 간 직접 의미 전달 (2025)",
+   "url": "https://news.hada.io/topic?id=33983",
+   "summary": "Cache-to-Cache(C2C) 는 여러 LLM이 중간 텍스트 대신 KV-Cache를 교환해 각 모델의 의미 정보를 직접 전달하는 통신 방식임 기존 텍스트 기반 통신(T2T) 은 고차원 내부 표현을 문자열로 압축하면서 정보를 잃고, 자연어의 모호성과 토큰 단위 순차 생성 지연을 수...",
+   "publishedAt": 1789883545000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.8,
    "hot": true
   },
   {
@@ -79,12 +93,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 147,
-   "comments": 44,
+   "engagement": 156,
+   "comments": 46,
    "publishedAt": 1789842090000,
    "isAI": true,
    "score": 49.7,
-   "hot": false
+   "hot": true
   },
   {
    "title": "Jev 활용 가이드 - 빠른 AI 판단을 어디에 쓸 수 있을까?",
@@ -97,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.5,
+   "score": 49,
    "hot": true
   },
   {
@@ -111,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.4,
+   "score": 48.8,
    "hot": true
   },
   {
@@ -125,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -139,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -149,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 920,
-   "comments": 816,
+   "engagement": 924,
+   "comments": 817,
    "publishedAt": 1789724707000,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.3,
    "hot": false
   },
   {
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
   },
   {
@@ -177,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1126,
-   "comments": 668,
+   "engagement": 1129,
+   "comments": 670,
    "publishedAt": 1789758189000,
    "isAI": false,
-   "score": 48.2,
+   "score": 47.8,
    "hot": false
   },
   {
@@ -195,8 +209,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.6,
    "hot": true
+  },
+  {
+   "title": "US Military had close call after using AI for hallucinated intelligence report",
+   "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49757520",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 502,
+   "comments": 385,
+   "publishedAt": 1789752481000,
+   "isAI": true,
+   "score": 47.3,
+   "hot": false
   },
   {
    "title": "AI는 엘리트의 연쇄 범죄다",
@@ -209,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -223,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -237,22 +265,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.3,
    "hot": true
-  },
-  {
-   "title": "US Military had close call after using AI for hallucinated intelligence report",
-   "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49757520",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 500,
-   "comments": 384,
-   "publishedAt": 1789752481000,
-   "isAI": true,
-   "score": 47.7,
-   "hot": false
   },
   {
    "title": "Stagehand v4, Playwright보다 2배 빠르고 토큰 효율 80% 높은 브라우저 자동화",
@@ -265,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -279,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -293,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -303,12 +317,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 199,
+   "engagement": 200,
    "comments": 135,
    "publishedAt": 1789772657000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
    "hot": false
+  },
+  {
+   "title": "What Zig felt like, coming from Rust",
+   "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49766637",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 199,
+   "comments": 234,
+   "publishedAt": 1789826118000,
+   "isAI": false,
+   "score": 42.8,
+   "hot": true
   },
   {
    "title": "OpenAI는 자체 LLM으로 Jalapeño 칩을 어떻게 설계했나",
@@ -321,22 +349,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
-  },
-  {
-   "title": "What Zig felt like, coming from Rust",
-   "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49766637",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 190,
-   "comments": 226,
-   "publishedAt": 1789826118000,
-   "isAI": false,
-   "score": 42.8,
-   "hot": true
   },
   {
    "title": "How to Write with an LLM",
@@ -345,23 +359,9 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 652,
-   "comments": 382,
+   "engagement": 661,
+   "comments": 385,
    "publishedAt": 1789681718000,
-   "isAI": true,
-   "score": 42.5,
-   "hot": false
-  },
-  {
-   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-   "url": "https://www.hacktron.ai/blog/hacking-openai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49749656",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 484,
-   "comments": 206,
-   "publishedAt": 1789699644000,
    "isAI": true,
    "score": 42.3,
    "hot": false
@@ -373,12 +373,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 128,
-   "comments": 78,
+   "engagement": 136,
+   "comments": 83,
    "publishedAt": 1789848059000,
    "isAI": false,
-   "score": 42.1,
+   "score": 42.2,
    "hot": false
+  },
+  {
+   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+   "url": "https://www.hacktron.ai/blog/hacking-openai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49749656",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 485,
+   "comments": 206,
+   "publishedAt": 1789699644000,
+   "isAI": true,
+   "score": 42,
+   "hot": false
+  },
+  {
+   "title": "기존 벤치마크가 놓치는 워크로드에서의 Btrfs/ZFS/bcachefs",
+   "url": "https://news.hada.io/topic?id=33982",
+   "summary": "modern-fs-benchmark 는 순차 처리량뿐 아니라 쓰기 부하 중 응답성, 스냅샷 누적, 공간 회수, 복제 후 덮어쓰기, 장치 장애와 데이터 손상을 함께 측정함 공유 임시 VM의 루프 장치 에서 실행하므로 절대 MiB/s보다 패턴과 비율을 비교해야 하며, 워크로드와 종합 지...",
+   "publishedAt": 1789883544000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "Apple M6 Pro, Geekbench 7에서 최고 싱글코어 CPU 점수 달성",
+   "url": "https://news.hada.io/topic?id=33981",
+   "summary": "Apple M6 Pro 가 탑재된 Mac18,6의 Geekbench 7 결과는 싱글코어 4,150점 , 멀티코어 37,565점임 CPU는 18코어 구성이며, 기본 주파수는 4.78GHz 로 등록됨 코어 클러스터는 6코어와 12코어 로 나뉘며, 시...",
+   "publishedAt": 1789882944000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "GPT-6 Astra, 제1차 세계대전 독일 무선 암호 해독",
@@ -391,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -401,11 +443,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 603,
+   "engagement": 605,
    "comments": 308,
    "publishedAt": 1789677373000,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.4,
+   "hot": false
+  },
+  {
+   "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+   "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49761840",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 146,
+   "comments": 21,
+   "publishedAt": 1789775682000,
+   "isAI": true,
+   "score": 41.3,
+   "hot": false
+  },
+  {
+   "title": "AI로 생성한 포스터가 꼭 형편없을 필요는 없다",
+   "url": "https://news.hada.io/topic?id=33939",
+   "summary": "AI 행사 포스터의 문제는 품질 자체보다 비슷한 스타일의 반복 에 있음. ChatGPT에 구체적인 디자인 미학을 지정하면 획일적인 기본 결과에서 벗어날 수 있음 ‘깔끔하고 밝게’ 같은 지시만으로는 원하는 차이를 얻지 못했지만, 기존 결과를 피하고 완전히 다른 디자인 미학...",
+   "publishedAt": 1789818141000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -419,36 +489,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
-  },
-  {
-   "title": "AI로 생성한 포스터가 꼭 형편없을 필요는 없다",
-   "url": "https://news.hada.io/topic?id=33939",
-   "summary": "AI 행사 포스터의 문제는 품질 자체보다 비슷한 스타일의 반복 에 있음. ChatGPT에 구체적인 디자인 미학을 지정하면 획일적인 기본 결과에서 벗어날 수 있음 ‘깔끔하고 밝게’ 같은 지시만으로는 원하는 차이를 얻지 못했지만, 기존 결과를 피하고 완전히 다른 디자인 미학...",
-   "publishedAt": 1789818141000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41.7,
-   "hot": false
-  },
-  {
-   "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-   "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49761840",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 145,
-   "comments": 21,
-   "publishedAt": 1789775682000,
-   "isAI": true,
-   "score": 41.6,
-   "hot": false
   },
   {
    "title": "영어: a와 an의 구분",
@@ -461,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -475,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -489,7 +531,7 @@
    "comments": 14,
    "publishedAt": 1789727728000,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -503,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -514,10 +556,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 328,
-   "comments": 108,
+   "comments": 109,
    "publishedAt": 1789761774000,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -545,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -559,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -573,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -587,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -601,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -615,7 +657,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.9,
+   "hot": false
+  },
+  {
+   "title": "Qwen 3.8 Omni Flash",
+   "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49747925",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 339,
+   "comments": 135,
+   "publishedAt": 1789686348000,
+   "isAI": true,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -629,22 +685,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
-  },
-  {
-   "title": "Qwen 3.8 Omni Flash",
-   "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49747925",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 338,
-   "comments": 135,
-   "publishedAt": 1789686348000,
-   "isAI": true,
-   "score": 39.1,
-   "hot": false
   },
   {
    "title": "TIN - PlanetScale의 Postgres 전문 검색 엔진",
@@ -657,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -671,22 +713,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
-   "hot": true
-  },
-  {
-   "title": "Claude Code, 이제 AGENTS.md도 지원",
-   "url": "https://news.hada.io/topic?id=33925",
-   "summary": "Claude Code 2.1.277부터 프로젝트에 \"CLAUDE.md\"가 없으면 \"AGENTS.md\"를 프로젝트 지침으로 자동 사용 여러 코딩 에이전트가 공통으로 사용하는 \"AGENTS.md\"를 위해 별도의 \"CLAUDE.md\"를 복제하거나 심볼릭 링크로 연결할 필요가 없어짐 \"/...",
-   "publishedAt": 1789781911000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
    "score": 38,
-   "hot": false
+   "hot": true
   },
   {
    "title": "Xcode 27.1 베타, iPhone Duo 시뮬레이터 지원",
@@ -699,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -713,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -727,7 +755,21 @@
    "comments": 42,
    "publishedAt": 1789744533000,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.1,
+   "hot": false
+  },
+  {
+   "title": "AI chatbots are becoming experts at changing people's minds",
+   "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49754250",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 125,
+   "comments": 100,
+   "publishedAt": 1789738767000,
+   "isAI": true,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -741,8 +783,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "가장 중요한 제품 결정은 무엇을 만들지 않을 것인가",
@@ -755,8 +797,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Stallman: 수천 명 사망, 수백만 명의 자유 박탈 (2001)",
@@ -769,21 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
-  },
-  {
-   "title": "AI chatbots are becoming experts at changing people's minds",
-   "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49754250",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 124,
-   "comments": 100,
-   "publishedAt": 1789738767000,
-   "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -793,11 +821,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 226,
+   "engagement": 227,
    "comments": 91,
    "publishedAt": 1789690304000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -807,11 +835,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 153,
+   "engagement": 154,
    "comments": 70,
    "publishedAt": 1789784495000,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -825,7 +853,7 @@
    "comments": 284,
    "publishedAt": 1789633629000,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -839,7 +867,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -853,7 +881,7 @@
    "comments": 279,
    "publishedAt": 1789679752000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -867,7 +895,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -881,7 +909,7 @@
    "comments": 141,
    "publishedAt": 1789798764000,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -891,11 +919,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 328,
+   "engagement": 329,
    "comments": 110,
    "publishedAt": 1789711877000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -909,21 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "수학이 증명 이상이라면, 증명 이외의 기여도 더 높이 평가해야 한다",
-   "url": "https://news.hada.io/topic?id=33943",
-   "summary": "수학의 목표가 인간의 이해를 넓히는 것 이라면, 새로운 증명뿐 아니라 아이디어를 어떻게 떠올릴 수 있는지 밝혀 주는 설명에도 비슷한 수준의 학문적 인정을 부여해야 함 발상의 동기를 드러내는 설명(motivated explanation) 은 정의와 구성을 처음부터 주기보다...",
-   "publishedAt": 1789825341000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -933,46 +947,18 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 130,
+   "engagement": 131,
    "comments": 34,
    "publishedAt": 1789785156000,
    "isAI": false,
-   "score": 35.7,
-   "hot": false
-  },
-  {
-   "title": "Google’s Gemini is the latest AI model to hack other companies",
-   "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-   "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-   "publishedAt": 1789839000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
    "score": 35.4,
    "hot": false
   },
   {
-   "title": "Show GN: ARAM Emulator - WIPI·SKVM·Raptor 한국 피처폰 소프트웨어 에뮬레이터",
-   "url": "https://news.hada.io/topic?id=33941",
-   "summary": "안녕하세요. 2000년대 한국 피처폰 소프트웨어를 현대 환경에서 다시 실행하기 위한 ARAM Emulator를 만들고 있습니다. ARAM은 WIPI·SKVM·Raptor 계열의 피처폰 게임과 앱을 Windows, macOS, Linux, Android 및 웹 브라우저에서 실행하는 에뮬레이터입니다. 설치하지 않고 웹 버전을 먼저 실행해 볼 수 있으며",
-   "publishedAt": 1789821545000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "유닛 테스트는 버그를 잡는다기보다 영역 표시를 하는 것",
-   "url": "https://news.hada.io/topic?id=33940",
-   "summary": "버그를 잡는 데 그다지 효과적이지 않은 유닛 테스트가 왜 업계에서 유일하게 보편화된 테스트 방법이 됐는지를 분석한 글 하드웨어 관점에서 소프트웨어 테스트는 끔찍해 보임 (저자는 하드웨어 개발 경험이 많은 프로그래머) 소프트웨어는 \"나중에 고치면 된다\"는 문화로 버그투...",
-   "publishedAt": 1789821342000,
+   "title": "수학이 증명 이상이라면, 증명 이외의 기여도 더 높이 평가해야 한다",
+   "url": "https://news.hada.io/topic?id=33943",
+   "summary": "수학의 목표가 인간의 이해를 넓히는 것 이라면, 새로운 증명뿐 아니라 아이디어를 어떻게 떠올릴 수 있는지 밝혀 주는 설명에도 비슷한 수준의 학문적 인정을 부여해야 함 발상의 동기를 드러내는 설명(motivated explanation) 은 정의와 구성을 처음부터 주기보다...",
+   "publishedAt": 1789825341000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -993,7 +979,63 @@
    "comments": 278,
    "publishedAt": 1789634197000,
    "isAI": true,
-   "score": 35.2,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "Google’s Gemini is the latest AI model to hack other companies",
+   "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+   "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+   "publishedAt": 1789839000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "Show GN: ARAM Emulator - WIPI·SKVM·Raptor 한국 피처폰 소프트웨어 에뮬레이터",
+   "url": "https://news.hada.io/topic?id=33941",
+   "summary": "안녕하세요. 2000년대 한국 피처폰 소프트웨어를 현대 환경에서 다시 실행하기 위한 ARAM Emulator를 만들고 있습니다. ARAM은 WIPI·SKVM·Raptor 계열의 피처폰 게임과 앱을 Windows, macOS, Linux, Android 및 웹 브라우저에서 실행하는 에뮬레이터입니다. 설치하지 않고 웹 버전을 먼저 실행해 볼 수 있으며",
+   "publishedAt": 1789821545000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "유닛 테스트는 버그를 잡는다기보다 영역 표시를 하는 것",
+   "url": "https://news.hada.io/topic?id=33940",
+   "summary": "버그를 잡는 데 그다지 효과적이지 않은 유닛 테스트가 왜 업계에서 유일하게 보편화된 테스트 방법이 됐는지를 분석한 글 하드웨어 관점에서 소프트웨어 테스트는 끔찍해 보임 (저자는 하드웨어 개발 경험이 많은 프로그래머) 소프트웨어는 \"나중에 고치면 된다\"는 문화로 버그투...",
+   "publishedAt": 1789821342000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Share your AI Setup, Learn from others",
+   "url": "https://mysetup.ai/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49740105",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 242,
+   "comments": 138,
+   "publishedAt": 1789650104000,
+   "isAI": true,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1007,21 +1049,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Share your AI Setup, Learn from others",
-   "url": "https://mysetup.ai/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49740105",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 241,
-   "comments": 138,
-   "publishedAt": 1789650104000,
-   "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1035,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1049,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1063,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1077,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1091,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1105,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1119,7 +1147,7 @@
    "comments": 205,
    "publishedAt": 1789546137000,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1133,7 +1161,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+   "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49749393",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 104,
+   "comments": 39,
+   "publishedAt": 1789697059000,
+   "isAI": true,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1147,35 +1189,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "\"안전 핑계 대고 밀실 담합\"…앤트로픽·오픈AI 등 4곳, 소비자에게 피소",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215502",
-   "summary": "주요 AI 기업들이 안전 확보를 명목으로 제시한 '개발 속도 조절' 구상이 반독점법 위반 논란에 휩싸였다. 안전장치 마련을 위한 업계 자율 협력을 선언한 지 불과 일주일 만에 소비자들로부터 담합 혐의로 고소를 당했다.AP와 CBS 뉴스 등에 따르면, 18일(현지시간) 미국 캘리포니아 북부 지방법원에는 챗GPT와 클로드, 제미나이, 그록 등 주요 AI 서비스의 유료 구독자 4명이 소장을 제출했다. 이들은 미국의 유료 구독자들을 대표해 앤트로픽과 오픈AI, 구글, 스페이스XAI를 상대로 집단소송을 제기했다. 원고 측은 이들 기업이 모델",
-   "publishedAt": 1789870162000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
-   "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49749393",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 103,
-   "comments": 39,
-   "publishedAt": 1789697059000,
-   "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1189,7 +1203,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "\"안전 핑계 대고 밀실 담합\"…앤트로픽·오픈AI 등 4곳, 소비자에게 피소",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215502",
+   "summary": "주요 AI 기업들이 안전 확보를 명목으로 제시한 '개발 속도 조절' 구상이 반독점법 위반 논란에 휩싸였다. 안전장치 마련을 위한 업계 자율 협력을 선언한 지 불과 일주일 만에 소비자들로부터 담합 혐의로 고소를 당했다.AP와 CBS 뉴스 등에 따르면, 18일(현지시간) 미국 캘리포니아 북부 지방법원에는 챗GPT와 클로드, 제미나이, 그록 등 주요 AI 서비스의 유료 구독자 4명이 소장을 제출했다. 이들은 미국의 유료 구독자들을 대표해 앤트로픽과 오픈AI, 구글, 스페이스XAI를 상대로 집단소송을 제기했다. 원고 측은 이들 기업이 모델",
+   "publishedAt": 1789870162000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "Nvidia announces native GPU programming in Rust",
+   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49724881",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 964,
+   "comments": 402,
+   "publishedAt": 1789557353000,
+   "isAI": false,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1203,21 +1245,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "Nvidia announces native GPU programming in Rust",
-   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49724881",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 962,
-   "comments": 402,
-   "publishedAt": 1789557353000,
-   "isAI": false,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1231,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1245,7 +1273,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1259,7 +1287,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1273,7 +1301,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1287,7 +1315,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1301,7 +1329,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1315,7 +1343,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1329,7 +1357,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1343,35 +1371,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "100년 만에 발견된 새로운 야생 고양이",
-   "url": "https://news.hada.io/topic?id=33926",
-   "summary": "볼리비아에서 집고양이인 줄 알고 데려다 약 1년간 키운 동물 이 보호시설을 거쳐 연구 대상이 됐고, 새로운 야생 고양이 종 Leopardus tilcayo 로 확인됨 Leopardus속 38개체의 전체 유전체 를 비교한 결과, 다른 타이거캣 종들과 약 140만...",
-   "publishedAt": 1789782139000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "Typst, 큰 진전을 이루다",
-   "url": "https://news.hada.io/topic?id=33924",
-   "summary": "Typst 0.15 는 가변 폰트, MathML, 다중 참고문헌과 여러 PDF 표준 동시 적용을 추가하며 기술 문서 조판 기능을 확장함 아직 실험 단계인 HTML 출력 은 수식을 MathML로 변환해, 지원 브라우저에서 JavaScript 라이브러리나 이미지 없이 PDF와 사실상 동일한 수식을...",
-   "publishedAt": 1789780339000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.8,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1385,21 +1385,21 @@
    "comments": 293,
    "publishedAt": 1789574207000,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false
   },
   {
-   "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-   "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazin",
-   "publishedAt": 1789850680000,
-   "source": "The Verge",
-   "sourceType": "media",
+   "title": "LLM Classification Is Feature Engineering",
+   "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49742437",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
+   "engagement": 113,
+   "comments": 24,
+   "publishedAt": 1789659617000,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.8,
    "hot": false
   }
  ]
