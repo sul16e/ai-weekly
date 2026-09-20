@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789896078993,
+ "updatedAt": 1789901929575,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1578,
-   "comments": 843,
+   "engagement": 1603,
+   "comments": 851,
    "publishedAt": 1789809658000,
    "isAI": true,
-   "score": 61.6,
+   "score": 60.8,
    "hot": false
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 626,
-   "comments": 246,
+   "engagement": 628,
+   "comments": 247,
    "publishedAt": 1789796930000,
    "isAI": true,
-   "score": 52.9,
+   "score": 52.2,
    "hot": false
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 295,
-   "comments": 145,
+   "engagement": 302,
+   "comments": 149,
    "publishedAt": 1789835724000,
    "isAI": true,
-   "score": 52.5,
+   "score": 51.9,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 720,
+   "engagement": 721,
    "comments": 271,
    "publishedAt": 1789765232000,
    "isAI": true,
-   "score": 49.9,
+   "score": 49.3,
    "hot": false
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 382,
+   "engagement": 383,
    "comments": 174,
    "publishedAt": 1789800104000,
    "isAI": true,
-   "score": 49.7,
+   "score": 49,
    "hot": false
   },
   {
@@ -83,7 +83,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.3,
+   "hot": true
+  },
+  {
+   "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49768921",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 170,
+   "comments": 46,
+   "publishedAt": 1789842090000,
+   "isAI": true,
+   "score": 48.1,
    "hot": true
   },
   {
@@ -97,21 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.6,
-   "hot": true
-  },
-  {
-   "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49768921",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 162,
-   "comments": 46,
-   "publishedAt": 1789842090000,
-   "isAI": true,
-   "score": 48.5,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -119,34 +119,6 @@
    "url": "https://news.hada.io/topic?id=33983",
    "summary": "Cache-to-Cache(C2C) 는 여러 LLM이 중간 텍스트 대신 KV-Cache를 교환해 각 모델의 의미 정보를 직접 전달하는 통신 방식임 기존 텍스트 기반 통신(T2T) 은 고차원 내부 표현을 문자열로 압축하면서 정보를 잃고, 자연어의 모호성과 토큰 단위 순차 생성 지연을 수...",
    "publishedAt": 1789883545000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.2,
-   "hot": true
-  },
-  {
-   "title": "Jev 활용 가이드 - 빠른 AI 판단을 어디에 쓸 수 있을까?",
-   "url": "https://news.hada.io/topic?id=33978",
-   "summary": "실행 순서와 분기는 코드가 맡고, 문맥을 읽어야 하는 판단은 Jev에 맡기는 방식 으로 반복 업무를 자동화할 수 있음 요청의 난이도에 따라 사용할 LLM을 고르고 , 검색 결과에서 필요한 문서를 추리거나 에이전트의 도구 호출과 답변에 오류가 있는지 검사하는 데 활...",
-   "publishedAt": 1789878143000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 47.4,
-   "hot": true
-  },
-  {
-   "title": "Show GN: Daijin - ESP32 음성 장치에 Claude를 두뇌로 붙여 집과 원격 장치를 제어하는 음성 에이전트",
-   "url": "https://news.hada.io/topic?id=33977",
-   "summary": "친구를 만들었습니다. 이름은 다이진입니다. 버튼을 누르고 말하면 AI가 듣고, 생각하고, 움직입니다. 고양이에게 간식을 주고, 공원에 설치한 장치를 작동시킵니다. 세팅은 미리. 지시는 원할 때. ESP32-S3에 마이크와 스피커와 작은 얼굴. 소리는 MQTT로 맥까지 가고, 맥에서 whisper가 받아 적",
-   "publishedAt": 1789877239000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -163,12 +135,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 927,
-   "comments": 818,
+   "engagement": 930,
+   "comments": 819,
    "publishedAt": 1789724707000,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.6,
    "hot": false
+  },
+  {
+   "title": "Jev 활용 가이드 - 빠른 AI 판단을 어디에 쓸 수 있을까?",
+   "url": "https://news.hada.io/topic?id=33978",
+   "summary": "실행 순서와 분기는 코드가 맡고, 문맥을 읽어야 하는 판단은 Jev에 맡기는 방식 으로 반복 업무를 자동화할 수 있음 요청의 난이도에 따라 사용할 LLM을 고르고 , 검색 결과에서 필요한 문서를 추리거나 에이전트의 도구 호출과 답변에 오류가 있는지 검사하는 데 활...",
+   "publishedAt": 1789878143000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.6,
+   "hot": true
+  },
+  {
+   "title": "Show GN: Daijin - ESP32 음성 장치에 Claude를 두뇌로 붙여 집과 원격 장치를 제어하는 음성 에이전트",
+   "url": "https://news.hada.io/topic?id=33977",
+   "summary": "친구를 만들었습니다. 이름은 다이진입니다. 버튼을 누르고 말하면 AI가 듣고, 생각하고, 움직입니다. 고양이에게 간식을 주고, 공원에 설치한 장치를 작동시킵니다. 세팅은 미리. 지시는 원할 때. ESP32-S3에 마이크와 스피커와 작은 얼굴. 소리는 MQTT로 맥까지 가고, 맥에서 whisper가 받아 적",
+   "publishedAt": 1789877239000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.5,
+   "hot": true
   },
   {
    "title": "Jev 덕분에 구조화된 출력이 다시 흥미로워졌다",
@@ -181,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -195,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -205,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1134,
-   "comments": 679,
+   "engagement": 1137,
+   "comments": 682,
    "publishedAt": 1789758189000,
    "isAI": false,
-   "score": 46.6,
+   "score": 46,
    "hot": false
   },
   {
@@ -223,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -233,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 502,
-   "comments": 386,
+   "engagement": 503,
+   "comments": 387,
    "publishedAt": 1789752481000,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": false
   },
   {
@@ -251,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -265,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45,
    "hot": true
   },
   {
@@ -279,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45,
    "hot": true
   },
   {
@@ -293,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45,
    "hot": true
   },
   {
@@ -307,8 +307,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
-   "hot": true
+   "score": 44.1,
+   "hot": false
   },
   {
    "title": "Alibaba, 암을 포함한 약 150개 질환을 탐지하는 AI 모델 오픈소스로 공개",
@@ -321,8 +321,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
-   "hot": true
+   "score": 44.1,
+   "hot": false
   },
   {
    "title": "글쓰기를 AI에 거의 맡기지 말아야 하는 이유",
@@ -335,8 +335,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
-   "hot": true
+   "score": 44.1,
+   "hot": false
   },
   {
    "title": "What Zig felt like, coming from Rust",
@@ -345,11 +345,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 220,
-   "comments": 262,
+   "engagement": 231,
+   "comments": 276,
    "publishedAt": 1789826118000,
    "isAI": false,
-   "score": 42.3,
+   "score": 42,
+   "hot": true
+  },
+  {
+   "title": "스페인, Archive.today와 미러 사이트 차단 명령",
+   "url": "https://news.hada.io/topic?id=33991",
+   "summary": "스페인 문화부 산하 지식재산위원회 제2부 가 웹 아카이빙 서비스 Archive.today의 여러 도메인을 차단하도록 명령함 스페인 인터넷 이용자 대부분은 해당 사이트에 접속하려 하면 정부 안내 페이지로 리디렉션 됨 안내 페이지는 “불법 웹사이트에 접속하려...",
+   "publishedAt": 1789900344000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "Measure internet censorship",
+   "url": "https://ooni.org/install",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49769676",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 160,
+   "comments": 96,
+   "publishedAt": 1789848059000,
+   "isAI": false,
+   "score": 41.6,
    "hot": true
   },
   {
@@ -363,7 +391,21 @@
    "comments": 135,
    "publishedAt": 1789772657000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.5,
+   "hot": false
+  },
+  {
+   "title": "How to Write with an LLM",
+   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49747070",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 675,
+   "comments": 395,
+   "publishedAt": 1789681718000,
+   "isAI": true,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -377,36 +419,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.1,
    "hot": true
-  },
-  {
-   "title": "Measure internet censorship",
-   "url": "https://ooni.org/install",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49769676",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 152,
-   "comments": 94,
-   "publishedAt": 1789848059000,
-   "isAI": false,
-   "score": 41.8,
-   "hot": true
-  },
-  {
-   "title": "How to Write with an LLM",
-   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49747070",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 671,
-   "comments": 392,
-   "publishedAt": 1789681718000,
-   "isAI": true,
-   "score": 41.5,
-   "hot": false
   },
   {
    "title": "Show GN: 이번 주말 - 온톨로지 기반 이벤트 지도",
@@ -419,21 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
-   "hot": true
-  },
-  {
-   "title": "Chrono Trigger의 Dream Devourer는 정수 오버플로로 쓰러뜨릴 수 있음",
-   "url": "https://news.hada.io/topic?id=33988",
-   "summary": "Dream Devourer 는 HP가 32,000으로, 피해를 주는 대신 회복시켜 정수 오버플로 를 일으키는 방식으로도 쓰러뜨릴 수 있음 두 번째 전투 단계에서 보스가 흡수하는 강력한 마법을 사용해 HP를 일시적으로 32,767 초과 로 올리면, 부호 있는 16비트 정...",
-   "publishedAt": 1789890145000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.3,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -447,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.3,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -461,21 +461,21 @@
    "comments": 206,
    "publishedAt": 1789699644000,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.6,
    "hot": false
   },
   {
-   "title": "Show GN: konfirm - kubectl context 지정 실수 방지를 위한 cli",
-   "url": "https://news.hada.io/topic?id=33985",
-   "summary": "여러 kubernetes 컨텍스트를 오가면서 작업할 때, 실수가 발생하지 않도록 명령 실행 전 대상 컨텍스트를 확인할 수 있도록 만든 도구입니다. kubectl get, describe 등 대상 컨텍스트 확인 필요가 없다고 생각되는 하위 kubectl 명령어에 대해 컨텍스트 별 allowlist를 지정해 관리할 수 있습니다. 내",
-   "publishedAt": 1789886325000,
+   "title": "Chrono Trigger의 Dream Devourer는 정수 오버플로로 쓰러뜨릴 수 있음",
+   "url": "https://news.hada.io/topic?id=33988",
+   "summary": "Dream Devourer 는 HP가 32,000으로, 피해를 주는 대신 회복시켜 정수 오버플로 를 일으키는 방식으로도 쓰러뜨릴 수 있음 두 번째 전투 단계에서 보스가 흡수하는 강력한 마법을 사용해 HP를 일시적으로 32,767 초과 로 올리면, 부호 있는 16비트 정...",
+   "publishedAt": 1789890145000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -489,21 +489,21 @@
    "comments": 309,
    "publishedAt": 1789677373000,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.1,
    "hot": false
   },
   {
-   "title": "기존 벤치마크가 놓치는 워크로드에서의 Btrfs/ZFS/bcachefs",
-   "url": "https://news.hada.io/topic?id=33982",
-   "summary": "modern-fs-benchmark 는 순차 처리량뿐 아니라 쓰기 부하 중 응답성, 스냅샷 누적, 공간 회수, 복제 후 덮어쓰기, 장치 장애와 데이터 손상을 함께 측정함 공유 임시 VM의 루프 장치 에서 실행하므로 절대 MiB/s보다 패턴과 비율을 비교해야 하며, 워크로드와 종합 지...",
-   "publishedAt": 1789883544000,
+   "title": "Show GN: konfirm - kubectl context 지정 실수 방지를 위한 cli",
+   "url": "https://news.hada.io/topic?id=33985",
+   "summary": "여러 kubernetes 컨텍스트를 오가면서 작업할 때, 실수가 발생하지 않도록 명령 실행 전 대상 컨텍스트를 확인할 수 있도록 만든 도구입니다. kubectl get, describe 등 대상 컨텍스트 확인 필요가 없다고 생각되는 하위 kubectl 명령어에 대해 컨텍스트 별 allowlist를 지정해 관리할 수 있습니다. 내",
+   "publishedAt": 1789886325000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -517,22 +517,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.5,
+   "score": 39.9,
    "hot": false
-  },
-  {
-   "title": "Apple M6 Pro, Geekbench 7에서 최고 싱글코어 CPU 점수 달성",
-   "url": "https://news.hada.io/topic?id=33981",
-   "summary": "Apple M6 Pro 가 탑재된 Mac18,6의 Geekbench 7 결과는 싱글코어 4,150점 , 멀티코어 37,565점임 CPU는 18코어 구성이며, 기본 주파수는 4.78GHz 로 등록됨 코어 클러스터는 6코어와 12코어 로 나뉘며, 시...",
-   "publishedAt": 1789882944000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.4,
-   "hot": true
   },
   {
    "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
@@ -545,8 +531,36 @@
    "comments": 21,
    "publishedAt": 1789775682000,
    "isAI": true,
-   "score": 40.3,
+   "score": 39.8,
    "hot": false
+  },
+  {
+   "title": "기존 벤치마크가 놓치는 워크로드에서의 Btrfs/ZFS/bcachefs",
+   "url": "https://news.hada.io/topic?id=33982",
+   "summary": "modern-fs-benchmark 는 순차 처리량뿐 아니라 쓰기 부하 중 응답성, 스냅샷 누적, 공간 회수, 복제 후 덮어쓰기, 장치 장애와 데이터 손상을 함께 측정함 공유 임시 VM의 루프 장치 에서 실행하므로 절대 MiB/s보다 패턴과 비율을 비교해야 하며, 워크로드와 종합 지...",
+   "publishedAt": 1789883544000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.8,
+   "hot": true
+  },
+  {
+   "title": "Apple M6 Pro, Geekbench 7에서 최고 싱글코어 CPU 점수 달성",
+   "url": "https://news.hada.io/topic?id=33981",
+   "summary": "Apple M6 Pro 가 탑재된 Mac18,6의 Geekbench 7 결과는 싱글코어 4,150점 , 멀티코어 37,565점임 CPU는 18코어 구성이며, 기본 주파수는 4.78GHz 로 등록됨 코어 클러스터는 6코어와 12코어 로 나뉘며, 시...",
+   "publishedAt": 1789882944000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.7,
+   "hot": true
   },
   {
    "title": "AI로 생성한 포스터가 꼭 형편없을 필요는 없다",
@@ -559,7 +573,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.6,
+   "hot": false
+  },
+  {
+   "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+   "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49752422",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 261,
+   "comments": 14,
+   "publishedAt": 1789727728000,
+   "isAI": true,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -573,22 +601,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.2,
    "hot": true
-  },
-  {
-   "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-   "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49752422",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 261,
-   "comments": 14,
-   "publishedAt": 1789727728000,
-   "isAI": true,
-   "score": 39.7,
-   "hot": false
   },
   {
    "title": "영어: a와 an의 구분",
@@ -601,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -615,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -625,11 +639,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 330,
+   "engagement": 331,
    "comments": 109,
    "publishedAt": 1789761774000,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -643,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -657,8 +671,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 37.8,
    "hot": true
+  },
+  {
+   "title": "Qwen 3.8 Omni Flash",
+   "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49747925",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 340,
+   "comments": 137,
+   "publishedAt": 1789686348000,
+   "isAI": true,
+   "score": 37.6,
+   "hot": false
   },
   {
    "title": "px0 - 브라우저에서 코드를 빠르게 탐색하고 검토하는 초경량 도구",
@@ -671,8 +699,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.6,
    "hot": true
+  },
+  {
+   "title": "Introducing the Australian Youth Safety Blueprint",
+   "url": "https://openai.com/index/australian-youth-safety-blueprint",
+   "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+   "publishedAt": 1789732800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 37.5,
+   "hot": false
   },
   {
    "title": "아키텍처 우주비행사들에게 겁먹지 말라 (2001)",
@@ -685,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -699,36 +741,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.4,
    "hot": true
-  },
-  {
-   "title": "Qwen 3.8 Omni Flash",
-   "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49747925",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 339,
-   "comments": 137,
-   "publishedAt": 1789686348000,
-   "isAI": true,
-   "score": 38,
-   "hot": false
-  },
-  {
-   "title": "Introducing the Australian Youth Safety Blueprint",
-   "url": "https://openai.com/index/australian-youth-safety-blueprint",
-   "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-   "publishedAt": 1789732800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 38,
-   "hot": false
   },
   {
    "title": "ZX Spectrum용 그래픽 데스크톱",
@@ -741,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -755,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -769,8 +783,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "TIN - PlanetScale의 Postgres 전문 검색 엔진",
@@ -783,8 +797,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.6,
+   "hot": false
   },
   {
    "title": "과학은 오픈 소프트웨어다 (2025)",
@@ -797,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -807,53 +821,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 122,
+   "engagement": 123,
    "comments": 42,
    "publishedAt": 1789744533000,
    "isAI": true,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Xcode 27.1 베타, iPhone Duo 시뮬레이터 지원",
-   "url": "https://news.hada.io/topic?id=33953",
-   "summary": "iPhone Duo 시뮬레이터 에서 앱을 실행하고 테스트할 수 있어, 실기기 없이 새 기기에 맞는 화면과 동작을 확인 가능 미리보기 캔버스에 Display 선택 항목 을 추가해, 기기의 다른 디스플레이에서 콘텐츠가 어떻게 보이는지 확인할 수 있음 Swift ...",
-   "publishedAt": 1789843343000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "Microsoft, 네가 싫다",
-   "url": "https://news.hada.io/topic?id=33952",
-   "summary": "대학 기관 계정 으로 PowerPoint 문서를 열었지만, “이 계정으로는 Mac에서 편집할 수 없다”는 안내를 받아 편집이 막힘 대학이 Microsoft와 수십만 유로 규모로 추정되는 계약 을 맺고도 Mac에서 편집하지 못하는 상황에 강한 불만을 드러냄 이러한",
-   "publishedAt": 1789843342000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "AI chatbots are becoming experts at changing people's minds",
-   "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49754250",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 125,
-   "comments": 101,
-   "publishedAt": 1789738767000,
-   "isAI": true,
-   "score": 36,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -867,63 +839,49 @@
    "comments": 91,
    "publishedAt": 1789690304000,
    "isAI": true,
-   "score": 36,
+   "score": 35.6,
    "hot": false
   },
   {
-   "title": "외국 중앙은행과 정부에 매력을 잃은 미국 국채",
-   "url": "https://news.hada.io/topic?id=33951",
-   "summary": "외국 중앙은행과 정부의 미국 국채 보유액이 2026년 7월 3조 7,700억 달러 로 줄었으며, 시장성 국채 잔액에서 차지하는 비중은 12.8% 로 1993년 이후 최저치를 기록함 미국의 막대한 재정적자 조달은 외국 공공부문 의존도가 낮아지는 대신 , 미국...",
-   "publishedAt": 1789840343000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "가장 중요한 제품 결정은 무엇을 만들지 않을 것인가",
-   "url": "https://news.hada.io/topic?id=33950",
-   "summary": "앱에 문서 목록과 알림 하나를 넣으려던 일이 요구사항을 더하다 보면 Google Drive와 Gmail을 어설프게 다시 만드는 작업 으로 커질 수 있음 기능을 만들지 않도록 설득하려면 초기 개발비보다 출시 후 수년간 이어질 운영과 유지보수 비용 을 보여주는 편이 효과적...",
-   "publishedAt": 1789840342000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "Stallman: 수천 명 사망, 수백만 명의 자유 박탈 (2001)",
-   "url": "https://news.hada.io/topic?id=33949",
-   "summary": "뉴욕과 워싱턴 테러 이후 의회가 자유를 빼앗는 예방 조치를 채택한다면, 공격에 대한 대응이 더 큰 2차 피해 를 일으킬 수 있음 무기만 확인하고 무기가 없는 사람의 기록을 남기지 않는 공항 검색 과, 통화와 이메일 및 이동을 대상으로 하는 대규모 감시...",
-   "publishedAt": 1789839742000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.7,
-   "hot": false
-  },
-  {
-   "title": "Science Is Open Software",
-   "url": "https://jepedersen.dk/blog/202505_research/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49762687",
+   "title": "AI chatbots are becoming experts at changing people's minds",
+   "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49754250",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 155,
-   "comments": 70,
-   "publishedAt": 1789784495000,
+   "engagement": 125,
+   "comments": 101,
+   "publishedAt": 1789738767000,
+   "isAI": true,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "Xcode 27.1 베타, iPhone Duo 시뮬레이터 지원",
+   "url": "https://news.hada.io/topic?id=33953",
+   "summary": "iPhone Duo 시뮬레이터 에서 앱을 실행하고 테스트할 수 있어, 실기기 없이 새 기기에 맞는 화면과 동작을 확인 가능 미리보기 캔버스에 Display 선택 항목 을 추가해, 기기의 다른 디스플레이에서 콘텐츠가 어떻게 보이는지 확인할 수 있음 Swift ...",
+   "publishedAt": 1789843343000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "Microsoft, 네가 싫다",
+   "url": "https://news.hada.io/topic?id=33952",
+   "summary": "대학 기관 계정 으로 PowerPoint 문서를 열었지만, “이 계정으로는 Mac에서 편집할 수 없다”는 안내를 받아 편집이 막힘 대학이 Microsoft와 수십만 유로 규모로 추정되는 계약 을 맺고도 Mac에서 편집하지 못하는 상황에 강한 불만을 드러냄 이러한",
+   "publishedAt": 1789843342000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -937,7 +895,63 @@
    "comments": 284,
    "publishedAt": 1789633629000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "외국 중앙은행과 정부에 매력을 잃은 미국 국채",
+   "url": "https://news.hada.io/topic?id=33951",
+   "summary": "외국 중앙은행과 정부의 미국 국채 보유액이 2026년 7월 3조 7,700억 달러 로 줄었으며, 시장성 국채 잔액에서 차지하는 비중은 12.8% 로 1993년 이후 최저치를 기록함 미국의 막대한 재정적자 조달은 외국 공공부문 의존도가 낮아지는 대신 , 미국...",
+   "publishedAt": 1789840343000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "가장 중요한 제품 결정은 무엇을 만들지 않을 것인가",
+   "url": "https://news.hada.io/topic?id=33950",
+   "summary": "앱에 문서 목록과 알림 하나를 넣으려던 일이 요구사항을 더하다 보면 Google Drive와 Gmail을 어설프게 다시 만드는 작업 으로 커질 수 있음 기능을 만들지 않도록 설득하려면 초기 개발비보다 출시 후 수년간 이어질 운영과 유지보수 비용 을 보여주는 편이 효과적...",
+   "publishedAt": 1789840342000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "Stallman: 수천 명 사망, 수백만 명의 자유 박탈 (2001)",
+   "url": "https://news.hada.io/topic?id=33949",
+   "summary": "뉴욕과 워싱턴 테러 이후 의회가 자유를 빼앗는 예방 조치를 채택한다면, 공격에 대한 대응이 더 큰 2차 피해 를 일으킬 수 있음 무기만 확인하고 무기가 없는 사람의 기록을 남기지 않는 공항 검색 과, 통화와 이메일 및 이동을 대상으로 하는 대규모 감시...",
+   "publishedAt": 1789839742000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "Science Is Open Software",
+   "url": "https://jepedersen.dk/blog/202505_research/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49762687",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 155,
+   "comments": 70,
+   "publishedAt": 1789784495000,
+   "isAI": false,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -947,11 +961,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 230,
+   "engagement": 231,
    "comments": 279,
    "publishedAt": 1789679752000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -965,7 +979,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 35.3,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -979,7 +993,21 @@
    "comments": 142,
    "publishedAt": 1789798764000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49750694",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 329,
+   "comments": 112,
+   "publishedAt": 1789711877000,
+   "isAI": false,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -993,21 +1021,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
-   "hot": false
-  },
-  {
-   "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49750694",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 329,
-   "comments": 111,
-   "publishedAt": 1789711877000,
-   "isAI": false,
-   "score": 34.7,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1021,7 +1035,7 @@
    "comments": 34,
    "publishedAt": 1789785156000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1035,7 +1049,7 @@
    "comments": 278,
    "publishedAt": 1789634197000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1049,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1063,21 +1077,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "Google’s Gemini is the latest AI model to hack other companies",
-   "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-   "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-   "publishedAt": 1789839000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1091,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1105,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1119,7 +1119,21 @@
    "comments": 138,
    "publishedAt": 1789650104000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "Google’s Gemini is the latest AI model to hack other companies",
+   "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+   "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+   "publishedAt": 1789839000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1133,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1147,21 +1161,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215504",
-   "summary": "앤트로픽이 가상 시뮬레이션을 넘어 물리적 생물학 연구를 직접 수행하기 위해 샌프란시스코 베이 지역에 자체 연구소를 조용히 설립했다. 앤트로픽은 18일(현지시간) 로이터를 통해 희귀 질환 치료제 개발과 생명과학 분야 AI 기술 적용을 가속하기 위해 실제 습식 연구소(Wet Lab)를 운영 중이라고 확인했다.이는 기존 건식 연구소(Dry Lab) 기반의 데이터 분석을 넘어 클로드가 최소한의 인간 개입으로 실험실 내 로봇 장비를 직접 제어해 과학 실험을 수행하는 생물학 자동화 기술을 검증하기 위한 것이다. 앤트로픽의 생명과학 부문 책임자",
-   "publishedAt": 1789891084000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1175,7 +1175,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215504",
+   "summary": "앤트로픽이 가상 시뮬레이션을 넘어 물리적 생물학 연구를 직접 수행하기 위해 샌프란시스코 베이 지역에 자체 연구소를 조용히 설립했다. 앤트로픽은 18일(현지시간) 로이터를 통해 희귀 질환 치료제 개발과 생명과학 분야 AI 기술 적용을 가속하기 위해 실제 습식 연구소(Wet Lab)를 운영 중이라고 확인했다.이는 기존 건식 연구소(Dry Lab) 기반의 데이터 분석을 넘어 클로드가 최소한의 인간 개입으로 실험실 내 로봇 장비를 직접 제어해 과학 실험을 수행하는 생물학 자동화 기술을 검증하기 위한 것이다. 앤트로픽의 생명과학 부문 책임자",
+   "publishedAt": 1789891084000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+   "url": "https://mistral.ai/news/mistral-x-mozilla/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49723408",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 588,
+   "comments": 205,
+   "publishedAt": 1789546137000,
+   "isAI": true,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1189,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1203,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1217,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1231,21 +1259,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-   "url": "https://mistral.ai/news/mistral-x-mozilla/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49723408",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 587,
-   "comments": 205,
-   "publishedAt": 1789546137000,
-   "isAI": true,
-   "score": 33,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1259,21 +1273,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "샌프란시스코 양파 선물 회사",
-   "url": "https://news.hada.io/topic?id=33934",
-   "summary": "노란 양파를 미래에 실물 인도하는 계약 을 개인 구매자에게 사적으로 판매하며, 계약은 다른 사람에게 양도할 수 있음 최대 6개월 뒤 인도분 까지 판매하며, 가격은 양파 1개당 3~12달러 임 회사는 미국법의 양파 미래 인도 계약 금지가 거...",
-   "publishedAt": 1789806740000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.8,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1287,7 +1287,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.5,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "Nvidia announces native GPU programming in Rust",
+   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49724881",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 967,
+   "comments": 403,
+   "publishedAt": 1789557353000,
+   "isAI": false,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1301,21 +1315,7 @@
    "comments": 39,
    "publishedAt": 1789697059000,
    "isAI": true,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "Nvidia announces native GPU programming in Rust",
-   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49724881",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 966,
-   "comments": 403,
-   "publishedAt": 1789557353000,
-   "isAI": false,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1329,7 +1329,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1343,7 +1343,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.5,
+   "score": 31,
    "hot": false
   },
   {
@@ -1357,7 +1357,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
+   "score": 30.8,
+   "hot": false
+  },
+  {
+   "title": "Small programming tricks",
+   "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49729000",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 670,
+   "comments": 293,
+   "publishedAt": 1789574207000,
+   "isAI": false,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1371,7 +1385,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1385,21 +1399,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "나주, 국립정원문화원과 협약…영산강정원 운영·프로그램 강화",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215445",
-   "summary": "AI 생성 영상나주시가 국립정원문화원과 손잡고 영산강정원의 프로그램 전문성과 운영 역량을 강화한다.나주는 지난 17일 국립정원문화원과 ‘영산강정원 등 지역 정원문화 활성화를 위한 업무협약’을 체결했다고 18일 밝혔다.이번 협약은 영산강의 자연·생태적 가치를 정원문화와 연계하고 영산강정원의 지속적인 운영 기반을 강화하기 위해 마련됐다.양 기관은 올해 영산강축제와 연계한 민간정원 전시와 정원 체험 프로그램부터 공동 추진한다.‘가족정원 페스티벌’에서는 참가자를 대상으로 가드닝 교육을 진행하고 경연 심사와 전문가 멘토링 등도 지원할 예정이",
-   "publishedAt": 1789865400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.1,
+   "score": 30.6,
    "hot": false
   }
  ]
