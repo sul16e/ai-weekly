@@ -1,5 +1,5 @@
 {
- "updatedAt": 1790074322761,
+ "updatedAt": 1790077989347,
  "week": "2026-W39",
  "items": [
   {
@@ -9,25 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 580,
-   "comments": 489,
+   "engagement": 581,
+   "comments": 493,
    "publishedAt": 1790005815000,
    "isAI": true,
-   "score": 56.7,
-   "hot": true
-  },
-  {
-   "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-   "url": "https://linear.app/now/ci-bottleneck-reworked",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49792067",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 248,
-   "comments": 281,
-   "publishedAt": 1790018613000,
-   "isAI": true,
-   "score": 51.7,
+   "score": 56.1,
    "hot": true
   },
   {
@@ -37,11 +23,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 207,
-   "comments": 132,
+   "engagement": 281,
+   "comments": 205,
    "publishedAt": 1790064295000,
    "isAI": false,
-   "score": 49.5,
+   "score": 51.8,
+   "hot": true
+  },
+  {
+   "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+   "url": "https://linear.app/now/ci-bottleneck-reworked",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49792067",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 257,
+   "comments": 293,
+   "publishedAt": 1790018613000,
+   "isAI": true,
+   "score": 51.5,
    "hot": true
   },
   {
@@ -55,8 +55,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.8,
    "hot": true
+  },
+  {
+   "title": "Claude Status – Elevated errors for multiple models",
+   "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49795579",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 122,
+   "comments": 90,
+   "publishedAt": 1790039119000,
+   "isAI": true,
+   "score": 48.2,
+   "hot": false
   },
   {
    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
@@ -65,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 229,
-   "comments": 113,
+   "engagement": 230,
+   "comments": 114,
    "publishedAt": 1789999849000,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -83,22 +97,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.1,
    "hot": true
-  },
-  {
-   "title": "Claude Status – Elevated errors for multiple models",
-   "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49795579",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 117,
-   "comments": 85,
-   "publishedAt": 1790039119000,
-   "isAI": true,
-   "score": 48.3,
-   "hot": false
   },
   {
    "title": "Frontier AI on Your Own Hardware",
@@ -107,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 164,
+   "engagement": 167,
    "comments": 83,
    "publishedAt": 1790016781000,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -125,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -139,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -153,7 +153,7 @@
    "comments": 156,
    "publishedAt": 1790010023000,
    "isAI": true,
-   "score": 46.5,
+   "score": 46,
    "hot": false
   },
   {
@@ -167,13 +167,13 @@
    "comments": 196,
    "publishedAt": 1789909765000,
    "isAI": true,
-   "score": 46.4,
+   "score": 46,
    "hot": false
   },
   {
-   "title": "AI 코딩으로 병목이 된 CI, 개발 속도에 맞춰 재설계함",
+   "title": "AI 코딩으로 병목이 된 CI, Linear는 어떻게 개선했나",
    "url": "https://news.hada.io/topic?id=34105",
-   "summary": "Linear는 연초 이후 테스트 스위트가 거의 4배 로 늘어났는데도 PR의 CI 대기 시간을 6분 초과에서 5분 남짓으로 줄이고, 테스트당 러너 사용 시간을 약 절반으로 낮춤 더 빠른 외부 러너와 tsgo 로 전환하고 린트 규칙의 타입 정보 의존성을 제거해, ...",
+   "summary": "Linear는 연초 이후 테스트가 거의 4배로 늘었는데도 , PR의 CI 대기 시간을 6분 초과에서 5분 남짓으로 줄이고 테스트당 러너 사용 시간을 약 절반으로 낮춤 더 빠른 실행 환경과 네이티브 TypeScript 컴파일러 tsgo 로 전환하고, 린트에서 불필요한 ...",
    "publishedAt": 1790048540000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -181,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.9,
    "hot": true
   },
   {
@@ -191,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 321,
-   "comments": 199,
+   "engagement": 324,
+   "comments": 200,
    "publishedAt": 1790011821000,
    "isAI": false,
-   "score": 46.2,
+   "score": 45.8,
    "hot": true
   },
   {
@@ -209,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -223,7 +223,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": false
   },
   {
@@ -237,7 +237,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": false
   },
   {
@@ -251,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -262,10 +262,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 263,
-   "comments": 60,
+   "comments": 61,
    "publishedAt": 1789965757000,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.1,
    "hot": false
   },
   {
@@ -279,7 +279,7 @@
    "comments": 146,
    "publishedAt": 1789917367000,
    "isAI": true,
-   "score": 45.4,
+   "score": 45,
    "hot": false
   },
   {
@@ -293,7 +293,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.8,
    "hot": false
   },
   {
@@ -307,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.6,
    "hot": true
   },
   {
@@ -321,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -335,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -349,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -363,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -373,11 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 390,
-   "comments": 342,
+   "engagement": 391,
+   "comments": 343,
    "publishedAt": 1789986470000,
    "isAI": false,
-   "score": 44.6,
+   "score": 44.2,
    "hot": false
   },
   {
@@ -391,7 +391,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -405,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -415,11 +415,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 645,
+   "engagement": 646,
    "comments": 295,
    "publishedAt": 1789943563000,
    "isAI": false,
-   "score": 43.6,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -430,10 +430,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 1867,
-   "comments": 946,
+   "comments": 948,
    "publishedAt": 1789809658000,
    "isAI": true,
-   "score": 43.3,
+   "score": 43,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -448,7 +448,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -462,7 +462,7 @@
    "comments": 83,
    "publishedAt": 1789980884000,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -476,7 +476,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -490,7 +490,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -500,11 +500,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 232,
+   "engagement": 238,
    "comments": 38,
    "publishedAt": 1789997899000,
    "isAI": false,
-   "score": 42,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "gzip도 언어 모델이 될 수 있을까?",
+   "url": "https://news.hada.io/topic?id=34120",
+   "summary": "GziPT 는 신경망이나 학습된 매개변수 없이, 코퍼스와 프롬프트 뒤에 붙였을 때 가장 잘 압축되는 바이트열을 찾아 텍스트를 생성함 기반 원리는 압축과 예측의 동등성 임. 압축기가 예상하는 데이터일수록 적은 비트로 표현되므로, 압축 결과의 길이를 후속 텍스트의...",
+   "publishedAt": 1790076793000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
    "hot": true
   },
   {
@@ -518,7 +532,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -532,7 +546,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -546,8 +560,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.4,
    "hot": true
+  },
+  {
+   "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+   "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49783062",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 154,
+   "comments": 88,
+   "publishedAt": 1789964924000,
+   "isAI": true,
+   "score": 41.3,
+   "hot": false
   },
   {
    "title": "이름 있는 인자와 선택적 인자는 정말 멋지다",
@@ -560,22 +588,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
-  },
-  {
-   "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-   "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49783062",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 153,
-   "comments": 88,
-   "publishedAt": 1789964924000,
-   "isAI": true,
-   "score": 41.6,
-   "hot": false
   },
   {
    "title": "How V7 gives AI agents institutional memory",
@@ -588,7 +602,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.4,
+   "score": 41,
    "hot": false
   },
   {
@@ -598,11 +612,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 551,
-   "comments": 450,
+   "engagement": 552,
+   "comments": 452,
    "publishedAt": 1789925930000,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -616,7 +630,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -630,7 +644,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -644,7 +658,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -654,11 +668,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 145,
-   "comments": 41,
+   "engagement": 148,
+   "comments": 42,
    "publishedAt": 1790014532000,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -672,7 +686,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -686,7 +700,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -700,22 +714,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.4,
+   "score": 39,
    "hot": false
-  },
-  {
-   "title": "워터마크가 아니라 스파이마크",
-   "url": "https://news.hada.io/topic?id=34104",
-   "summary": "사용자의 인지나 동의 없이 콘텐츠를 추적할 수 있게 하는 숨은 신호는 스파이마크(spymark) 로 구분해 부르자는 제안임 Google SynthID 같은 기술은 이미지, 오디오, 텍스트, 영상에 사람이 감지하기 어려운 신호를 삽입하며, 그 안에 개인정보와 연결되는 데이터...",
-   "publishedAt": 1790048360000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.9,
-   "hot": true
   },
   {
    "title": "I turned Jev into a (lousy) chatbot",
@@ -724,12 +724,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 172,
+   "engagement": 173,
    "comments": 48,
    "publishedAt": 1789926687000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.5,
    "hot": false
+  },
+  {
+   "title": "워터마크가 아니라 스파이마크",
+   "url": "https://news.hada.io/topic?id=34104",
+   "summary": "콘텐츠가 진짜인지 확인하거나 소유권을 표시하는 것과, 사용자 몰래 누가 만들고 공유했는지 추적하는 것 은 다름. 후자의 숨은 표식을 ‘스파이마크’로 구분할 필요가 있음 이미지, 오디오, 텍스트에 사람이 감지하기 어려운 식별자 를 넣고 계정 기록과 연결하면...",
+   "publishedAt": 1790048360000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.5,
+   "hot": true
   },
   {
    "title": "Show GN: 월급날은 멀어도 숫자는 올라간다 — 오늘 번 돈을 보여주는 rich-rich-rich",
@@ -742,22 +756,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
-  },
-  {
-   "title": "Meta bans ads for Virginia Woolf play in Spain",
-   "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49787767",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 139,
-   "comments": 148,
-   "publishedAt": 1790001039000,
-   "isAI": false,
-   "score": 38.4,
-   "hot": false
   },
   {
    "title": "AI and the Destruction of the Creative Commons",
@@ -770,9 +770,23 @@
    "comments": 276,
    "publishedAt": 1789898871000,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "Meta bans ads for Virginia Woolf play in Spain",
+   "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49787767",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 139,
+   "comments": 148,
+   "publishedAt": 1790001039000,
+   "isAI": false,
+   "score": 38,
+   "hot": false
   },
   {
    "title": "Show GN: Seoul3D - 서울 지하철 16개 노선을 3D 지도 위에서 실시간으로",
@@ -785,7 +799,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -799,7 +813,7 @@
    "comments": 77,
    "publishedAt": 1789994825000,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -813,7 +827,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.5,
    "hot": true
   },
   {
@@ -827,7 +841,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -841,7 +855,7 @@
    "comments": 257,
    "publishedAt": 1789796930000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.9,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -856,7 +870,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -870,7 +884,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -884,7 +898,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -895,10 +909,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 109,
-   "comments": 88,
+   "comments": 89,
    "publishedAt": 1789999905000,
    "isAI": false,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -912,7 +926,7 @@
    "comments": 170,
    "publishedAt": 1789835724000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36.1,
    "hot": false,
    "lastWeekRank": 4
   },
@@ -927,7 +941,7 @@
    "comments": 276,
    "publishedAt": 1789765232000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 8
   },
@@ -942,7 +956,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -956,35 +970,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "정말 같은 데스크톱 UX를 영원히 사용할 것인가?",
-   "url": "https://news.hada.io/topic?id=34080",
-   "summary": "데스크톱으로 하는 일은 다양해졌지만 UX는 지난 20년간 거의 정체 됐으며, Linux 커뮤니티가 Apple과 Microsoft를 기다리기보다 직접 새로운 사용 방식을 탐색할 필요가 있음 창, 파일, 클립보드를 빠르게 조작하는 기능은 강력하지만 어떤 자료로 무슨 작업을 했는지는 기억...",
-   "publishedAt": 1790013919000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "Emily Normandin-Parker 사망 사건에 대한 Uber 중재 판정",
-   "url": "https://news.hada.io/topic?id=34078",
-   "summary": "중재인이 고속도로에 남겨진 뒤 차량에 치여 숨진 23세 Emily Normandin-Parker 의 부모에게 Uber와 운전자 Vu Tran이 4,000만 달러를 배상 하라고 판정함 Uber를 단순 소프트웨어 플랫폼이 아닌 일반운송인(common carrier) 으로 판단해, 운전자에...",
-   "publishedAt": 1790013156000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.3,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -998,9 +984,37 @@
    "comments": 826,
    "publishedAt": 1789724707000,
    "isAI": true,
-   "score": 35.2,
+   "score": 35,
    "hot": false,
    "lastWeekRank": 14
+  },
+  {
+   "title": "정말 같은 데스크톱 UX를 영원히 사용할 것인가?",
+   "url": "https://news.hada.io/topic?id=34080",
+   "summary": "데스크톱으로 하는 일은 다양해졌지만 UX는 지난 20년간 거의 정체 됐으며, Linux 커뮤니티가 Apple과 Microsoft를 기다리기보다 직접 새로운 사용 방식을 탐색할 필요가 있음 창, 파일, 클립보드를 빠르게 조작하는 기능은 강력하지만 어떤 자료로 무슨 작업을 했는지는 기억...",
+   "publishedAt": 1790013919000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "Emily Normandin-Parker 사망 사건에 대한 Uber 중재 판정",
+   "url": "https://news.hada.io/topic?id=34078",
+   "summary": "중재인이 고속도로에 남겨진 뒤 차량에 치여 숨진 23세 Emily Normandin-Parker 의 부모에게 Uber와 운전자 Vu Tran이 4,000만 달러를 배상 하라고 판정함 Uber를 단순 소프트웨어 플랫폼이 아닌 일반운송인(common carrier) 으로 판단해, 운전자에...",
+   "publishedAt": 1790013156000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.9,
+   "hot": false
   },
   {
    "title": "주의력은 당신이 가진 전부다",
@@ -1013,7 +1027,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1026,7 +1040,7 @@
    "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to",
    "publishedAt": 1789934400000,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1040,7 +1054,7 @@
    "comments": 40,
    "publishedAt": 1789916350000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1054,21 +1068,7 @@
    "comments": 169,
    "publishedAt": 1789904230000,
    "isAI": true,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "Amiga Unix, 다시 시작하다",
-   "url": "https://news.hada.io/topic?id=34075",
-   "summary": "amigaux.org 는 Commodore의 Amiga용 Unix인 Amix를 68040/68060과 현대적 가속기 하드웨어에서 다시 사용할 수 있도록 개발하는 비공식 커뮤니티 프로젝트임 Amix 2.1 이 실제 68060에서 동작하며, Z3660의 SCSI/이더넷과 A4091/A4092의 SCSI를 지원함. FPU 없이도 ...",
-   "publishedAt": 1790008432000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1082,9 +1082,23 @@
    "comments": 180,
    "publishedAt": 1789800104000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false,
    "lastWeekRank": 9
+  },
+  {
+   "title": "Amiga Unix, 다시 시작하다",
+   "url": "https://news.hada.io/topic?id=34075",
+   "summary": "amigaux.org 는 Commodore의 Amiga용 Unix인 Amix를 68040/68060과 현대적 가속기 하드웨어에서 다시 사용할 수 있도록 개발하는 비공식 커뮤니티 프로젝트임 Amix 2.1 이 실제 68060에서 동작하며, Z3660의 SCSI/이더넷과 A4091/A4092의 SCSI를 지원함. FPU 없이도 ...",
+   "publishedAt": 1790008432000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.5,
+   "hot": false
   },
   {
    "title": "Heretic, 언어 모델의 제한을 제거하는 도구",
@@ -1097,7 +1111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1111,21 +1125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-   "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-   "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-   "publishedAt": 1790021758000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.4,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1139,7 +1139,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+   "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+   "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+   "publishedAt": 1790021758000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34,
    "hot": false
   },
   {
@@ -1153,21 +1167,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.1,
-   "hot": false
-  },
-  {
-   "title": "jev-leftpad - Jev로 값 왼쪽에 패딩 추가",
-   "url": "https://news.hada.io/topic?id=34069",
-   "summary": "jev-leftpad 는 값의 왼쪽에 붙일 공백 수를 Jev 모델이 선택하도록 하는 패키지로, padStart() 한 줄이면 가능한 작업에 모델을 호출함 모델이 space_0 부터 space_10 까지 의 선택지 중 하나를 고르면, JavaScript가 해당 개...",
-   "publishedAt": 1789997810000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1181,9 +1181,36 @@
    "comments": 719,
    "publishedAt": 1789758189000,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false,
    "lastWeekRank": 17
+  },
+  {
+   "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+   "url": "https://huggingface.co/papers/2609.25001",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 73,
+   "summary": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack lang",
+   "publishedAt": 1789934400000,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "jev-leftpad - Jev로 값 왼쪽에 패딩 추가",
+   "url": "https://news.hada.io/topic?id=34069",
+   "summary": "jev-leftpad 는 값의 왼쪽에 붙일 공백 수를 Jev 모델이 선택하도록 하는 패키지로, padStart() 한 줄이면 가능한 작업에 모델을 호출함 모델이 space_0 부터 space_10 까지 의 선택지 중 하나를 고르면, JavaScript가 해당 개...",
+   "publishedAt": 1789997810000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.5,
+   "hot": false
   },
   {
    "title": "Disney+, 새 이용약관으로 모든 구독 요금제에서 영화 시작 전 광고 허용",
@@ -1196,35 +1223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "샤오미, 오픈 모델 ‘미모-V2.6’ 공개…중국 AI 중 역대 최고 성적",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215552",
-   "summary": "샤오미가 오픈소스 모델을 앞세워 글로벌 AI 선두권과의 성능 격차 좁히기에 속도를 내고 있다. 샤오미는 21일(현지시간) 차세대 오픈소스 AI 모델 ‘미모-V2.6(MiMo-V2.6)’ 시리즈를 공개했다. 대규모 강화학습 컴퓨팅을 투입해 추론·코딩 역량을 높이는 동시에 3D 공간 추론과 멀티모달 인식, 컴퓨터를 직접 조작하는 에이전트 능력까지 폭넓게 강화한 것이 특징이다. ‘미모-V2.6-프로’와 ‘미모-V2.6-플래시’ 두 가지 모델로 구성된다. 이 가운데 미모-V2.6-프로는 아티피셜 애널리시스 지능 지수(AAII)에서 46.3",
-   "publishedAt": 1790072477000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "메타 에이전트 '뮤즈' 돌풍, 출시 초기 챗GPT 기록 뛰어넘었다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215566",
-   "summary": "메타의 개인형 AI 에이전트 앱 ‘뮤즈(Muse)’가 출시 초기부터 가파른 사용자 증가세를 보이며 소비자용 에이전트 시장의 새로운 가능성을 보여주고 있다. 시장조사 전문 앱토피아(Apptopia)에 따르면, 뮤즈는 지난 8일(현지시간) 출시 후 13일 동안 미국과 캐나다에서 '챗GPT'의 모바일 출시 초기 기록을 넘어선 것으로 나타났다.동일한 조건으로 비교하기 위해 두 서비스의 미국·캐나다 지역 iOS 데이터를 분석한 결과, 뮤즈의 출시 후 13일간 다운로드는 180만건으로 챗GPT의 130만건을 웃돌았다.미국 내 일일 활성 사용자",
-   "publishedAt": 1790071134000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1238,9 +1237,23 @@
    "comments": 391,
    "publishedAt": 1789752481000,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 20
+  },
+  {
+   "title": "샤오미, 오픈 모델 ‘미모-V2.6’ 공개…중국 AI 중 역대 최고 성적",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215552",
+   "summary": "샤오미가 오픈소스 모델을 앞세워 글로벌 AI 선두권과의 성능 격차 좁히기에 속도를 내고 있다. 샤오미는 21일(현지시간) 차세대 오픈소스 AI 모델 ‘미모-V2.6(MiMo-V2.6)’ 시리즈를 공개했다. 대규모 강화학습 컴퓨팅을 투입해 추론·코딩 역량을 높이는 동시에 3D 공간 추론과 멀티모달 인식, 컴퓨터를 직접 조작하는 에이전트 능력까지 폭넓게 강화한 것이 특징이다. ‘미모-V2.6-프로’와 ‘미모-V2.6-플래시’ 두 가지 모델로 구성된다. 이 가운데 미모-V2.6-프로는 아티피셜 애널리시스 지능 지수(AAII)에서 46.3",
+   "publishedAt": 1790072477000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
+   "hot": false
   },
   {
    "title": "Meta’s AI agent has been blocked from using Amazon.com",
@@ -1253,7 +1266,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "메타 에이전트 '뮤즈' 돌풍, 출시 초기 챗GPT 기록 뛰어넘었다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215566",
+   "summary": "메타의 개인형 AI 에이전트 앱 ‘뮤즈(Muse)’가 출시 초기부터 가파른 사용자 증가세를 보이며 소비자용 에이전트 시장의 새로운 가능성을 보여주고 있다. 시장조사 전문 앱토피아(Apptopia)에 따르면, 뮤즈는 지난 8일(현지시간) 출시 후 13일 동안 미국과 캐나다에서 '챗GPT'의 모바일 출시 초기 기록을 넘어선 것으로 나타났다.동일한 조건으로 비교하기 위해 두 서비스의 미국·캐나다 지역 iOS 데이터를 분석한 결과, 뮤즈의 출시 후 13일간 다운로드는 180만건으로 챗GPT의 130만건을 웃돌았다.미국 내 일일 활성 사용자",
+   "publishedAt": 1790071134000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1267,7 +1294,20 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+   "url": "https://huggingface.co/papers/2609.24972",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 67,
+   "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent ha",
+   "publishedAt": 1789934400000,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1281,49 +1321,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "\"대본만 넣으면 숏드라마 제작\"...바이트플러스, AI '드라매직' 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215569",
-   "summary": "AI 영상 생성 기술이 단편 영상 생성을 넘어 대본 분석, 캐릭터 설정, 장면 구성, 최종 검수에 이르는 전체 제작 프로세스를 자동화하는 플랫폼 형태로 전환하고 있다. 캐릭터 외형과 세계관의 일관성을 유지하고 연출 구성을 지원하면서 숏드라마 제작 방식의 변화를 이끌어내는 양상이다.바이트댄스의 기업용 AI 플랫폼 바이트플러스(BytePlus)는 21일 숏드라마와 영상 콘텐츠 제작 전 과정을 하나로 연결하는 AI 생성 콘텐츠(AIGC) 플랫폼 ‘드라매직(Dramagic)’을 공개했다.기존 AI 영상 도구가 단순 영상 출력이나 단일 프롬",
-   "publishedAt": 1790068331000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Kev - 직접 학습하고 실행할 수 있는 Jev 방식의 의사결정 모델",
-   "url": "https://news.hada.io/topic?id=34065",
-   "summary": "Qwen3.5 를 기반으로, 긴 답변을 생성하는 대신 예/아니요 확률, 선택지별 확률과 평가 점수 를 반환하는 의사결정 모델 고객 문의 하나에서 담당 부서, 긴급 대응 여부, 고객의 불만 정도 를 함께 판단할 수 있으며, 각 질문은 다른 질문의 내용에 ...",
-   "publishedAt": 1789990920000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "전남광주, 반도체클러스터 부지 2027년 착공 추진…2030년 첫 양산 목표",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215576",
-   "summary": "AI 생성 영상전남광주통합특별시가 호남권 반도체클러스터의 2030년 6월 첫 양산을 목표로 부지 조성과 전력·용수 등 핵심 기반시설 구축 일정을 구체화했다.전남광주는 22일 기자 차담회를 열고 호남권 반도체클러스터의 부지 착공과 전력·용수 공급, 인재 양성, 정주여건 개선 등 추진상황을 발표했다.호남권 반도체클러스터는 광주 군공항 이전부지 약 250만평에 삼성전자와 SK하이닉스의 메모리 팹 4기를 조성하는 사업으로, 약 800조원 규모의 투자계획이 제시돼 있다. 정부는 지난 7월 광주 군공항 부지를 호남권 반도체 산단 부지로 조성하",
-   "publishedAt": 1790067418000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1337,21 +1335,22 @@
    "comments": 51,
    "publishedAt": 1789842090000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false,
    "lastWeekRank": 10
   },
   {
-   "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-   "url": "https://huggingface.co/papers/2609.24972",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 66,
-   "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent ha",
-   "publishedAt": 1789934400000,
+   "title": "\"대본만 넣으면 숏드라마 제작\"...바이트플러스, AI '드라매직' 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215569",
+   "summary": "AI 영상 생성 기술이 단편 영상 생성을 넘어 대본 분석, 캐릭터 설정, 장면 구성, 최종 검수에 이르는 전체 제작 프로세스를 자동화하는 플랫폼 형태로 전환하고 있다. 캐릭터 외형과 세계관의 일관성을 유지하고 연출 구성을 지원하면서 숏드라마 제작 방식의 변화를 이끌어내는 양상이다.바이트댄스의 기업용 AI 플랫폼 바이트플러스(BytePlus)는 21일 숏드라마와 영상 콘텐츠 제작 전 과정을 하나로 연결하는 AI 생성 콘텐츠(AIGC) 플랫폼 ‘드라매직(Dramagic)’을 공개했다.기존 AI 영상 도구가 단순 영상 출력이나 단일 프롬",
+   "publishedAt": 1790068331000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   },
   {
@@ -1365,7 +1364,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "Kev - 직접 학습하고 실행할 수 있는 Jev 방식의 의사결정 모델",
+   "url": "https://news.hada.io/topic?id=34065",
+   "summary": "Qwen3.5 를 기반으로, 긴 답변을 생성하는 대신 예/아니요 확률, 선택지별 확률과 평가 점수 를 반환하는 의사결정 모델 고객 문의 하나에서 담당 부서, 긴급 대응 여부, 고객의 불만 정도 를 함께 판단할 수 있으며, 각 질문은 다른 질문의 내용에 ...",
+   "publishedAt": 1789990920000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1379,35 +1392,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
-   "title": "광양 서천변에 꽃무릇·백일홍 물들어…추석 산책길 정비",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215579",
-   "summary": "AI 생성 영상광양시 광양읍이 추석 연휴를 앞두고 서천변 생태하천 정비를 마치고 가을 산책객 맞이에 나섰다.광양읍은 고향을 찾는 출향인과 시민, 관광객이 서천변 꽃길과 물길을 따라 편안하게 걸을 수 있도록 생태하천 정비를 완료했다고 22일 밝혔다.서천변에는 수생식물과 물고기, 물새 등 생태환경과 함께 버들마편초와 백일홍, 황화코스모스 등이 이어져 가을 경관을 형성하고 있다.재래종 코스모스는 개화를 앞두고 있으며, 가을이 깊어질수록 꽃길 경관이 추가될 전망이다.서천변 둔치 양쪽에서는 꽃무릇도 개화를 시작했다. 광양읍은 추석 무렵 꽃무",
-   "publishedAt": 1790066855000,
+   "title": "전남광주, 반도체클러스터 부지 2027년 착공 추진…2030년 첫 양산 목표",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215576",
+   "summary": "AI 생성 영상전남광주통합특별시가 호남권 반도체클러스터의 2030년 6월 첫 양산을 목표로 부지 조성과 전력·용수 등 핵심 기반시설 구축 일정을 구체화했다.전남광주는 22일 기자 차담회를 열고 호남권 반도체클러스터의 부지 착공과 전력·용수 공급, 인재 양성, 정주여건 개선 등 추진상황을 발표했다.호남권 반도체클러스터는 광주 군공항 이전부지 약 250만평에 삼성전자와 SK하이닉스의 메모리 팹 4기를 조성하는 사업으로, 약 800조원 규모의 투자계획이 제시돼 있다. 정부는 지난 7월 광주 군공항 부지를 호남권 반도체 산단 부지로 조성하",
+   "publishedAt": 1790067418000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "순천, 추석 연휴 돌봄 노인 안부 확인…스마트기기로 안전 모니터링",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215578",
-   "summary": "AI 생성 영상순천시가 추석 연휴를 앞두고 독거어르신 등 돌봄이 필요한 노인의 안부와 안전 확인을 강화한다.순천은 명절 기간 발생할 수 있는 돌봄 공백을 예방하기 위해 민·관이 함께 노인 돌봄에 나선다고 밝혔다.이번 활동에는 노인맞춤돌봄서비스 수행기관과 생활지원사, 응급안전안심서비스 수행기관, 의료·요양 통합돌봄 식사지원 수행기관 등이 참여한다.생활지원사 등 돌봄 전담 인력은 노인의 건강 상태와 생활환경을 확인하고 불편 사항이나 위기 상황이 있는지 살필 예정이다.지원이 필요한 경우 관련 복지서비스와 연계해 적기에 필요한 도움을 받을",
-   "publishedAt": 1790066839000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   }
  ]
