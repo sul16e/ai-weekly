@@ -1,5 +1,5 @@
 {
- "updatedAt": 1790066709244,
+ "updatedAt": 1790070369797,
  "week": "2026-W39",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 562,
-   "comments": 481,
+   "engagement": 572,
+   "comments": 483,
    "publishedAt": 1790005815000,
    "isAI": true,
-   "score": 57.6,
+   "score": 57.1,
    "hot": true
   },
   {
@@ -23,11 +23,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 227,
-   "comments": 246,
+   "engagement": 239,
+   "comments": 267,
    "publishedAt": 1790018613000,
    "isAI": true,
-   "score": 52.1,
+   "score": 52,
+   "hot": true
+  },
+  {
+   "title": "자신의 하드웨어에서 실행하는 최첨단 AI",
+   "url": "https://news.hada.io/topic?id=34116",
+   "summary": "dlab은 로컬 추론, 에이전트 하네스, 자율 연구 시스템 을 하나의 생태계로 묶어 공개할 예정임. 소수의 연구자와 GPU만으로 최첨단 연구소와 경쟁할 수 있는 시스템을 만드는 것이 목표임 자체 추론 프레임워크는 125B 모델을 단일 24GB GPU 에서 실행하고, 128GB 메...",
+   "publishedAt": 1790069729000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
    "hot": true
   },
   {
@@ -41,7 +55,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.7,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -51,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 225,
+   "engagement": 226,
    "comments": 113,
    "publishedAt": 1789999849000,
    "isAI": true,
-   "score": 49.4,
+   "score": 49,
    "hot": true
   },
   {
@@ -69,7 +83,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.6,
+   "hot": true
+  },
+  {
+   "title": "Claude Status – Elevated errors for multiple models",
+   "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49795579",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 111,
+   "comments": 80,
+   "publishedAt": 1790039119000,
+   "isAI": true,
+   "score": 48.4,
+   "hot": false
+  },
+  {
+   "title": "Frontier AI on Your Own Hardware",
+   "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49791647",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 159,
+   "comments": 78,
+   "publishedAt": 1790016781000,
+   "isAI": true,
+   "score": 48.4,
    "hot": true
   },
   {
@@ -83,22 +125,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.4,
    "hot": true
   },
   {
-   "title": "Frontier AI on Your Own Hardware",
-   "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49791647",
+   "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+   "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49789982",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 151,
-   "comments": 77,
-   "publishedAt": 1790016781000,
+   "engagement": 146,
+   "comments": 155,
+   "publishedAt": 1790010023000,
    "isAI": true,
-   "score": 48.5,
-   "hot": true
+   "score": 46.9,
+   "hot": false
   },
   {
    "title": "AI 코딩으로 병목이 된 CI, 개발 속도에 맞춰 재설계함",
@@ -111,35 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
-   "hot": true
-  },
-  {
-   "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-   "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49789982",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 146,
-   "comments": 153,
-   "publishedAt": 1790010023000,
-   "isAI": true,
-   "score": 47.3,
-   "hot": false
-  },
-  {
-   "title": "Show GN: ArtifactBench - AI 생성 음악 탐지기를 비교 평가하는 벤치마크 도구",
-   "url": "https://news.hada.io/topic?id=34101",
-   "summary": "안녕하세요. ArtifactNet을 개발하는 Intrect의 오희원입니다. AI 음악 탐지기를 비교하면서, 종합 점수뿐 아니라 어떤 곡을 평가했는지, 데이터가 서로 겹치는지, 처리하지 못한 파일을 어떻게 계산하는지가 결과 해석에 중요하다는 문제를 다루게 됐습니다. 이를 점검하기 위한 평가 코드와 프로토콜",
-   "publishedAt": 1790047694000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 47.3,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -153,8 +167,36 @@
    "comments": 195,
    "publishedAt": 1789909765000,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.8,
    "hot": false
+  },
+  {
+   "title": "Show GN: ArtifactBench - AI 생성 음악 탐지기를 비교 평가하는 벤치마크 도구",
+   "url": "https://news.hada.io/topic?id=34101",
+   "summary": "안녕하세요. ArtifactNet을 개발하는 Intrect의 오희원입니다. AI 음악 탐지기를 비교하면서, 종합 점수뿐 아니라 어떤 곡을 평가했는지, 데이터가 서로 겹치는지, 처리하지 못한 파일을 어떻게 계산하는지가 결과 해석에 중요하다는 문제를 다루게 됐습니다. 이를 점검하기 위한 평가 코드와 프로토콜",
+   "publishedAt": 1790047694000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.8,
+   "hot": true
+  },
+  {
+   "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+   "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49790409",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 313,
+   "comments": 198,
+   "publishedAt": 1790011821000,
+   "isAI": false,
+   "score": 46.5,
+   "hot": true
   },
   {
    "title": "Advisory Group on Mathematics and Artificial Intelligence",
@@ -167,7 +209,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
    "hot": false
   },
   {
@@ -181,7 +223,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
    "hot": false
   },
   {
@@ -195,21 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.9,
-   "hot": true
-  },
-  {
-   "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-   "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49790409",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 300,
-   "comments": 195,
-   "publishedAt": 1790011821000,
-   "isAI": false,
-   "score": 46.6,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -223,7 +251,7 @@
    "comments": 60,
    "publishedAt": 1789965757000,
    "isAI": true,
-   "score": 46.4,
+   "score": 46,
    "hot": false
   },
   {
@@ -237,7 +265,7 @@
    "comments": 146,
    "publishedAt": 1789917367000,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.8,
    "hot": false
   },
   {
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.7,
    "hot": false
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -279,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -321,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -331,11 +359,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 388,
+   "engagement": 390,
    "comments": 342,
    "publishedAt": 1789986470000,
    "isAI": false,
-   "score": 45.5,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -349,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -363,7 +391,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -373,11 +401,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 642,
-   "comments": 293,
+   "engagement": 643,
+   "comments": 294,
    "publishedAt": 1789943563000,
    "isAI": false,
-   "score": 44.3,
+   "score": 44,
    "hot": false
   },
   {
@@ -391,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -401,13 +429,27 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1865,
+   "engagement": 1866,
    "comments": 944,
    "publishedAt": 1789809658000,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.5,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "Don't Use AI to Write",
+   "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49784816",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 140,
+   "comments": 83,
+   "publishedAt": 1789980884000,
+   "isAI": true,
+   "score": 43.1,
+   "hot": false
   },
   {
    "title": "macOS 27에서 AI 모델 다운로드를 막고 저장 공간을 확보하는 방법",
@@ -420,21 +462,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.6,
-   "hot": false
-  },
-  {
-   "title": "Don't Use AI to Write",
-   "url": "https://paulbakker.io/writing/no-ai-for-writing/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49784816",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 139,
-   "comments": 82,
-   "publishedAt": 1789980884000,
-   "isAI": true,
-   "score": 43.4,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -448,7 +476,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -462,7 +490,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -476,7 +504,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -486,11 +514,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 223,
+   "engagement": 228,
    "comments": 38,
    "publishedAt": 1789997899000,
    "isAI": false,
-   "score": 42.5,
+   "score": 42.3,
    "hot": true
   },
   {
@@ -504,7 +532,7 @@
    "comments": 87,
    "publishedAt": 1789964924000,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
    "hot": false
   },
   {
@@ -518,7 +546,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.8,
+   "hot": false
+  },
+  {
+   "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+   "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49778029",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 550,
+   "comments": 449,
+   "publishedAt": 1789925930000,
+   "isAI": false,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -532,22 +574,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
-  },
-  {
-   "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-   "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49778029",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 549,
-   "comments": 447,
-   "publishedAt": 1789925930000,
-   "isAI": false,
-   "score": 41.5,
-   "hot": false
   },
   {
    "title": "AI 챗봇, 금융 질문에 ‘대부분’ 잘못된 답변",
@@ -560,7 +588,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -574,7 +602,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": true
   },
   {
@@ -588,7 +616,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -598,11 +626,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 135,
-   "comments": 39,
+   "engagement": 140,
+   "comments": 40,
    "publishedAt": 1790014532000,
    "isAI": false,
-   "score": 40.4,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -616,7 +644,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -630,7 +658,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -644,7 +672,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -654,11 +682,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 171,
+   "engagement": 172,
    "comments": 48,
    "publishedAt": 1789926687000,
    "isAI": true,
-   "score": 39.5,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -672,7 +700,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -686,7 +714,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -700,7 +728,7 @@
    "comments": 276,
    "publishedAt": 1789898871000,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.8,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -711,11 +739,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 136,
+   "engagement": 137,
    "comments": 148,
    "publishedAt": 1790001039000,
    "isAI": false,
-   "score": 39,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -725,11 +753,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 145,
+   "engagement": 146,
    "comments": 77,
    "publishedAt": 1789994825000,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -743,7 +771,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -757,7 +785,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -771,7 +799,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -785,7 +813,7 @@
    "comments": 257,
    "publishedAt": 1789796930000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.3,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -800,8 +828,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "샤오미, MiMo-V2.6 공개 - 강화학습 과정을 공개한 멀티모달 모델",
@@ -814,8 +842,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Apple Mac mini review",
@@ -824,11 +852,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 108,
-   "comments": 87,
+   "engagement": 109,
+   "comments": 88,
    "publishedAt": 1789999905000,
    "isAI": false,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -842,9 +870,24 @@
    "comments": 170,
    "publishedAt": 1789835724000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.6,
    "hot": false,
    "lastWeekRank": 4
+  },
+  {
+   "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+   "url": "https://code.claude.com/docs/en/changelog",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49760187",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 736,
+   "comments": 276,
+   "publishedAt": 1789765232000,
+   "isAI": true,
+   "score": 36.1,
+   "hot": false,
+   "lastWeekRank": 8
   },
   {
    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
@@ -857,23 +900,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
+   "score": 36,
    "hot": false
-  },
-  {
-   "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-   "url": "https://code.claude.com/docs/en/changelog",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49760187",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 736,
-   "comments": 275,
-   "publishedAt": 1789765232000,
-   "isAI": true,
-   "score": 36.3,
-   "hot": false,
-   "lastWeekRank": 8
   },
   {
    "title": "Raspberry Pi, RAM 칩 교체 차단",
@@ -886,7 +914,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -900,7 +928,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -914,7 +942,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -928,21 +956,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "Show HN: A competition for small neural networks that play strategy games",
-   "url": "https://tinybrains.dev",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49776523",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 106,
-   "comments": 39,
-   "publishedAt": 1789916350000,
-   "isAI": true,
-   "score": 35.5,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -956,22 +970,22 @@
    "comments": 826,
    "publishedAt": 1789724707000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.4,
    "hot": false,
    "lastWeekRank": 14
   },
   {
-   "title": "Amiga Unix, 다시 시작하다",
-   "url": "https://news.hada.io/topic?id=34075",
-   "summary": "amigaux.org 는 Commodore의 Amiga용 Unix인 Amix를 68040/68060과 현대적 가속기 하드웨어에서 다시 사용할 수 있도록 개발하는 비공식 커뮤니티 프로젝트임 Amix 2.1 이 실제 68060에서 동작하며, Z3660의 SCSI/이더넷과 A4091/A4092의 SCSI를 지원함. FPU 없이도 ...",
-   "publishedAt": 1790008432000,
-   "source": "GeekNews",
+   "title": "Show HN: A competition for small neural networks that play strategy games",
+   "url": "https://tinybrains.dev",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49776523",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.5,
+   "lang": "en",
+   "engagement": 106,
+   "comments": 39,
+   "publishedAt": 1789916350000,
+   "isAI": true,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -981,32 +995,31 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 122,
+   "engagement": 123,
    "comments": 169,
    "publishedAt": 1789904230000,
    "isAI": true,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "Heretic, 언어 모델의 제한을 제거하는 도구",
-   "url": "https://news.hada.io/topic?id=34073",
-   "summary": "Heretic 은 언어 모델의 제한을 제거하는 도구임 제거 대상은 언어 모델에 적용된 검열 임 검열 제거는 완전 자동 방식 으로 수행함 제한을 제거해 모델이 사용자의 지시를 항상 따르도록 하는 것을 목표로 함...",
-   "publishedAt": 1790005055000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 35.2,
    "hot": false
   },
   {
-   "title": "Sun이 잘못한 것",
-   "url": "https://news.hada.io/topic?id=34072",
-   "summary": "Sun의 핵심 실패는 사업 운영의 기본 실무에 흥미를 잃은 것 이었으며, 전략이 성공하더라도 운영 실패를 극복하지 못하면 기업은 성공할 수 없음 2005년 OpenSolaris 로 인프라를 운영하던 급성장 스타트업이 Sun 하드웨어를 대량 구매하려 했지만, Sun은 연락에 응...",
-   "publishedAt": 1790004875000,
+   "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+   "url": "https://huggingface.co/papers/2609.24984",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 85,
+   "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to",
+   "publishedAt": 1789934400000,
+   "isAI": true,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "Amiga Unix, 다시 시작하다",
+   "url": "https://news.hada.io/topic?id=34075",
+   "summary": "amigaux.org 는 Commodore의 Amiga용 Unix인 Amix를 68040/68060과 현대적 가속기 하드웨어에서 다시 사용할 수 있도록 개발하는 비공식 커뮤니티 프로젝트임 Amix 2.1 이 실제 68060에서 동작하며, Z3660의 SCSI/이더넷과 A4091/A4092의 SCSI를 지원함. FPU 없이도 ...",
+   "publishedAt": 1790008432000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -1027,9 +1040,37 @@
    "comments": 180,
    "publishedAt": 1789800104000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false,
    "lastWeekRank": 9
+  },
+  {
+   "title": "Heretic, 언어 모델의 제한을 제거하는 도구",
+   "url": "https://news.hada.io/topic?id=34073",
+   "summary": "Heretic 은 언어 모델의 제한을 제거하는 도구임 제거 대상은 언어 모델에 적용된 검열 임 검열 제거는 완전 자동 방식 으로 수행함 제한을 제거해 모델이 사용자의 지시를 항상 따르도록 하는 것을 목표로 함...",
+   "publishedAt": 1790005055000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "Sun이 잘못한 것",
+   "url": "https://news.hada.io/topic?id=34072",
+   "summary": "Sun의 핵심 실패는 사업 운영의 기본 실무에 흥미를 잃은 것 이었으며, 전략이 성공하더라도 운영 실패를 극복하지 못하면 기업은 성공할 수 없음 2005년 OpenSolaris 로 인프라를 운영하던 급성장 스타트업이 Sun 하드웨어를 대량 구매하려 했지만, Sun은 연락에 응...",
+   "publishedAt": 1790004875000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.9,
+   "hot": false
   },
   {
    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
@@ -1042,7 +1083,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1056,7 +1097,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1070,20 +1111,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
-   "hot": false
-  },
-  {
-   "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
-   "url": "https://huggingface.co/papers/2609.24984",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 74,
-   "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to",
-   "publishedAt": 1789934400000,
-   "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1097,7 +1125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1111,8 +1139,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
+  },
+  {
+   "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+   "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49758736",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1175,
+   "comments": 719,
+   "publishedAt": 1789758189000,
+   "isAI": false,
+   "score": 34,
+   "hot": false,
+   "lastWeekRank": 17
   },
   {
    "title": "Meta’s AI agent has been blocked from using Amazon.com",
@@ -1125,23 +1168,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
    "hot": false
-  },
-  {
-   "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-   "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49758736",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1174,
-   "comments": 718,
-   "publishedAt": 1789758189000,
-   "isAI": false,
-   "score": 34.2,
-   "hot": false,
-   "lastWeekRank": 17
   },
   {
    "title": "ZuckOff, Meta 안경이 당신을 보기 전에 먼저 감지하는 무료 앱",
@@ -1154,7 +1182,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "에포크 AI, 벤치마크 검증 착수...\"15개 중 9개 결함\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215568",
+   "summary": "AI 모델의 성능을 비교하는 기준으로 쓰이는 ‘벤치마크’ 자체의 신뢰성을 먼저 따져봐야 한다는 지적이 나왔다. AI 모델의 점수를 넘어 평가 시험지 자체를 감사하고 검증하는 첫 사례가 나온 것이다.AI 연구기관 에포크 AI는 18일(현지시간) 주요 벤치마크의 문제점과 한계를 체계적으로 점검하는 ‘벤치마크 리뷰(Benchmark Reviews)’를 시작한다고 발표하며 \"벤치마크 문제점을 체계적으로 점검하겠다\"고 밝혔다.에포크 AI가 공개한 초기 검토 결과에 따르면 15개 벤치마크 가운데 4개는 ‘검증(Verified)’, 9개는 ‘결",
+   "publishedAt": 1790069466000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1168,22 +1210,36 @@
    "comments": 391,
    "publishedAt": 1789752481000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
    "hot": false,
    "lastWeekRank": 20
   },
   {
-   "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-   "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-   "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-   "publishedAt": 1790008731000,
-   "source": "TechCrunch AI",
+   "title": "\"대본만 넣으면 숏드라마 제작\"...바이트플러스, AI '드라매직' 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215569",
+   "summary": "AI 영상 생성 기술이 단편 영상 생성을 넘어 대본 분석, 캐릭터 설정, 장면 구성, 최종 검수에 이르는 전체 제작 프로세스를 자동화하는 플랫폼 형태로 전환하고 있다. 캐릭터 외형과 세계관의 일관성을 유지하고 연출 구성을 지원하면서 숏드라마 제작 방식의 변화를 이끌어내는 양상이다.바이트댄스의 기업용 AI 플랫폼 바이트플러스(BytePlus)는 21일 숏드라마와 영상 콘텐츠 제작 전 과정을 하나로 연결하는 AI 생성 콘텐츠(AIGC) 플랫폼 ‘드라매직(Dramagic)’을 공개했다.기존 AI 영상 도구가 단순 영상 출력이나 단일 프롬",
+   "publishedAt": 1790068331000,
+   "source": "AI타임스",
    "sourceType": "media",
-   "lang": "en",
+   "lang": "ko",
    "engagement": null,
-   "baseWeight": 32,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "전남광주, 반도체클러스터 부지 2027년 착공 추진…2030년 첫 양산 목표",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215576",
+   "summary": "AI 생성 영상전남광주통합특별시가 호남권 반도체클러스터의 2030년 6월 첫 양산을 목표로 부지 조성과 전력·용수 등 핵심 기반시설 구축 일정을 구체화했다.전남광주는 22일 기자 차담회를 열고 호남권 반도체클러스터의 부지 착공과 전력·용수 공급, 인재 양성, 정주여건 개선 등 추진상황을 발표했다.호남권 반도체클러스터는 광주 군공항 이전부지 약 250만평에 삼성전자와 SK하이닉스의 메모리 팹 4기를 조성하는 사업으로, 약 800조원 규모의 투자계획이 제시돼 있다. 정부는 지난 7월 광주 군공항 부지를 호남권 반도체 산단 부지로 조성하",
+   "publishedAt": 1790067418000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1197,7 +1253,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1211,35 +1267,63 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "AMD, AI 붐 타고 시가총액 '1조달러' 돌파...반도체 기업 4번째",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215564",
-   "summary": "AMD가 AI 칩 수요 확대에 힘입어 시가총액 1조달러(약 1363조원)를 처음으로 넘어섰다. 엔비디아와 브로드컴, 마이크론에 이어 미국 반도체 기업 가운데 네 번째로 1조달러 클럽에 합류하면서 AI 칩 시장에서의 입지를 확대하고 있다.AMD 주가는 21일(현지시간) 뉴욕 증시에서 전 거래일보다 9.95% 급등해 장중 615.52달러까지 오르며 사상 최고치를 기록했다.이에 따라 시가총액이 장중 1조달러를 넘어섰다. AMD 주가는 최근 5거래일 연속 상승했으며, 이 기간에만 약 25% 올랐다. 올해 들어서는 상승률이 180%를 웃돌고",
-   "publishedAt": 1790065265000,
+   "title": "광양 서천변에 꽃무릇·백일홍 물들어…추석 산책길 정비",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215579",
+   "summary": "AI 생성 영상광양시 광양읍이 추석 연휴를 앞두고 서천변 생태하천 정비를 마치고 가을 산책객 맞이에 나섰다.광양읍은 고향을 찾는 출향인과 시민, 관광객이 서천변 꽃길과 물길을 따라 편안하게 걸을 수 있도록 생태하천 정비를 완료했다고 22일 밝혔다.서천변에는 수생식물과 물고기, 물새 등 생태환경과 함께 버들마편초와 백일홍, 황화코스모스 등이 이어져 가을 경관을 형성하고 있다.재래종 코스모스는 개화를 앞두고 있으며, 가을이 깊어질수록 꽃길 경관이 추가될 전망이다.서천변 둔치 양쪽에서는 꽃무릇도 개화를 시작했다. 광양읍은 추석 무렵 꽃무",
+   "publishedAt": 1790066855000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "캐나다 BC주, 오픈AI 고소...\"총격 사건 전 위험 신호 무시\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215572",
-   "summary": "캐나다 브리티시컬럼비아(BC) 주 정부가 올해 발생한 학교 총격 사건을 앞두고 오픈AI가 '챗GPT' 사용자의 폭력 관련 활동을 파악하고도 경찰에 알리지 않았다며 소송을 제기했다. 챗GPT 대화 기록에 담긴 위험 신호를 경찰에 전달했다면 참사를 막을 가능성이 있었다는 주장이다.블룸버그에 따르면, BC주는 21일(현지시간) 미국 캘리포니아 연방법원에 소장을 제출했다.사건은 지난 2월10일 BC주 북부의 텀블러리지 세컨더리 스쿨에서 발생했으며, 총격으로 학생과 교직원 등 8명이 숨지고 27명이 다쳤다. 범인으로 지목된 제시 반 룻셀라르",
-   "publishedAt": 1790064776000,
+   "title": "순천, 추석 연휴 돌봄 노인 안부 확인…스마트기기로 안전 모니터링",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215578",
+   "summary": "AI 생성 영상순천시가 추석 연휴를 앞두고 독거어르신 등 돌봄이 필요한 노인의 안부와 안전 확인을 강화한다.순천은 명절 기간 발생할 수 있는 돌봄 공백을 예방하기 위해 민·관이 함께 노인 돌봄에 나선다고 밝혔다.이번 활동에는 노인맞춤돌봄서비스 수행기관과 생활지원사, 응급안전안심서비스 수행기관, 의료·요양 통합돌봄 식사지원 수행기관 등이 참여한다.생활지원사 등 돌봄 전담 인력은 노인의 건강 상태와 생활환경을 확인하고 불편 사항이나 위기 상황이 있는지 살필 예정이다.지원이 필요한 경우 관련 복지서비스와 연계해 적기에 필요한 도움을 받을",
+   "publishedAt": 1790066839000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 수학계 반발에 독립 자문 기구 신설...연구 성과 검증 담당",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215559",
+   "summary": "오픈AI가 최근 AI를 활용한 수학 연구 성과를 잇달아 공개하면서 불거진 학계의 우려를 달래기 위해 독립적인 수학·AI 자문 그룹을 출범시켰다. 세계적인 수학자들로 구성된 외부 기구를 통해 AI가 만들어낸 수학적 성과의 중요성과 공개 방식을 검토하고, AI와 수학계의 소통을 강화한다는 취지다.오픈AI는 21일(현지시간) 뉴저지주 프린스턴의 고등연구소(IAS)에 수학 및 AI 자문 그룹(Advisory Group on Mathematics and Artificial Intelligence)을 신설한다고 발표했다.오픈AI는 최근 새로운",
+   "publishedAt": 1790066764000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "네이버클라우드 “모델 크기 넘어 ‘보안 역량’ 집중…”프런티어 수준 도달할 것”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215577",
+   "summary": "네이버클라우드가 정부의 ‘사이버보안 특화 인공지능(AI) 모델 개발 프로젝트’ 사업자로 선정된 이후 구체적인 개발 계획과 협력 방안을 제시하며 본격적인 개발에 착수했다. 네이버클라우드는 글로벌 빅테크와의 경쟁 속에서 모델 크기 자체보다 보안 영역에 역량을 집중해 프론티어 수준의 성능을 확보하겠다는 전략이다. 과학기술정보통신부(장관 배경훈)는 22일 서울 더 그랜드 롯데 호텔에서 사업자 간담회를 열고 네이버클라우드 컨소시엄의 상세 구상을 공유했다.네이버클라우드 컨소시엄은 LG와의 협력을 주축으로 7000억 매개변수(700B)급 전문가",
+   "publishedAt": 1790066293000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1253,7 +1337,7 @@
    "comments": 51,
    "publishedAt": 1789842090000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false,
    "lastWeekRank": 10
   },
@@ -1263,18 +1347,32 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 65,
+   "engagement": 66,
    "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent ha",
    "publishedAt": 1789934400000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false
   },
   {
-   "title": "오픈AI, 미 정부에 차세대 AI 안전 기준 촉구...\"RSI 통제력 잃을 수도\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215561",
-   "summary": "오픈AI가 미국 정부에 재귀적 자기개선(RSI)을 포함한 차세대 AI의 안전·보안 기술 표준을 마련하기 위한 국제 공조를 주도해 달라고 촉구했다. AI가 스스로 능력을 향상하는 과정이 자동화될수록 기술 발전 속도가 급격히 빨라질 수 있는 만큼, 국가와 기업이 공통으로 적용할 수 있는 안전 기준이 시급하게 필요하다는 주장이다.오픈AI는 21일(현지시간) 유엔 총회 고위급 회의 개막에 맞춰 발표한 블로그 게시물에서 미국이 전 세계 국가들과 협력해 프런티어 AI 기술 표준을 구축해야 한다고 밝혔다.특히 AI 연구의 자동화 수준과 RSI",
-   "publishedAt": 1790061947000,
+   "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+   "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+   "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+   "publishedAt": 1790008731000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "AMD, AI 붐 타고 시가총액 '1조달러' 돌파...반도체 기업 4번째",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215564",
+   "summary": "AMD가 AI 칩 수요 확대에 힘입어 시가총액 1조달러(약 1363조원)를 처음으로 넘어섰다. 엔비디아와 브로드컴, 마이크론에 이어 미국 반도체 기업 가운데 네 번째로 1조달러 클럽에 합류하면서 AI 칩 시장에서의 입지를 확대하고 있다.AMD 주가는 21일(현지시간) 뉴욕 증시에서 전 거래일보다 9.95% 급등해 장중 615.52달러까지 오르며 사상 최고치를 기록했다.이에 따라 시가총액이 장중 1조달러를 넘어섰다. AMD 주가는 최근 5거래일 연속 상승했으며, 이 기간에만 약 25% 올랐다. 올해 들어서는 상승률이 180%를 웃돌고",
+   "publishedAt": 1790065265000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
@@ -1285,130 +1383,31 @@
    "hot": false
   },
   {
-   "title": "LGU+, 소도몰과 '소상공인 특화 AI 솔루션' 개발한다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215565",
-   "summary": "LG유플러스(대표 홍범식)는 도·소매 유통 플랫폼 소도몰과 소상공인 맞춤형 AI 전환(AX) 솔루션 개발을 위한 업무협약을 체결했다고 22일 밝혔다.소도몰은 전국 공동구매 매장과 유통 데이터를 기반으로 식품·생필품을 도매가 수준에 공급하는 온·오프라인 유통 플랫폼이다.양사는 LG유플러스의 통신·AI 인프라에 소도몰의 유통 데이터를 결합해 소상공인 특화 AX 솔루션을 개발한다.구체적으로 LG유플러스의 소상공인 전용 솔루션 ‘우리가게패키지’의 상권분석 서비스와 소도몰의 지역별 판매·공동구매 데이터를 결합, 지역·시기별 수요가 높은 상품",
-   "publishedAt": 1790060210000,
+   "title": "캐나다 BC주, 오픈AI 고소...\"총격 사건 전 위험 신호 무시\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215572",
+   "summary": "캐나다 브리티시컬럼비아(BC) 주 정부가 올해 발생한 학교 총격 사건을 앞두고 오픈AI가 '챗GPT' 사용자의 폭력 관련 활동을 파악하고도 경찰에 알리지 않았다며 소송을 제기했다. 챗GPT 대화 기록에 담긴 위험 신호를 경찰에 전달했다면 참사를 막을 가능성이 있었다는 주장이다.블룸버그에 따르면, BC주는 21일(현지시간) 미국 캘리포니아 연방법원에 소장을 제출했다.사건은 지난 2월10일 BC주 북부의 텀블러리지 세컨더리 스쿨에서 발생했으며, 총격으로 학생과 교직원 등 8명이 숨지고 27명이 다쳤다. 범인으로 지목된 제시 반 룻셀라르",
+   "publishedAt": 1790064776000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.4,
    "hot": false
   },
   {
-   "title": "라이너, ‘과학기술정책 연구’까지 AI 리서치 확대…KAIST 연구실과 협력",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215563",
-   "summary": "글로벌 AI 에이전트 전문 라이너(대표 김진우)가 한국과학기술원(KAIST, 총장 배충식) 과학기술 정책대학원 박경렬 교수의 di-Lab(Digital Innovation and International Development Lab)과 ‘정책연구 AI(AI for Policy Research)’ 부문의 연구 협력을 MOU를 체결했다고 밝혔다. 박경렬 KAIST 교수가 이끄는 di-Lab은 디지털 혁신과 글로벌 발전 협력의 상호작용을 연구하며 국제개발 및 과학기술 정책 분야에서 독보적인 학술 성과를 쌓아온 연구실이다. 이번 협약은 라",
-   "publishedAt": 1790060191000,
+   "title": "[게시판] 포지큐브, S-OIL·하나은행에 AI 에이전트 구축 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215567",
+   "summary": "■ 포지큐브(대표 오성조)는 멀티 에이전트 기반 AI 플랫폼 '로비 G 맥스'를 활용해 S-OIL의 AI 어시스턴트와 하나은행의 에이전트 서비스를 고도화했다고 밝혔다. 로비 G 맥스는 검색증강생성(RAG) 기술을 비롯해 도메인 특화 프롬프트 템플릿 설계, 비정형 문서 자동 업데이트, 멀티 에이전트 워크플로우 구축 등의 기능을 제공한다.■ SK텔레콤(대표 정재헌)은 한국과학기술정보연구원(KISTI)과 디지털 트윈 기반 양자암호통신망 연동 기술을 개발했다고 밝혔다. SKT의 양자키관리 시스템과 KISTI의 양자키분배 시뮬레이터를 유럽전",
+   "publishedAt": 1790064000000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "카카오, LG CNS와 협력으로 ‘데이터센터 냉방설비 제어’에 에이전트 적용",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215562",
-   "summary": "AI 기술 데이터센터의 열관리와 에너지 효율이 핵심 과제로 떠오른 가운데, 카카오가 데이터센터 운영 역량을 바탕으로 에너지 절감 성과를 이어가고 있다. 카카오(대표 정신아)는 ‘카카오 데이터센터 안산’에 이어 위탁 운영 중인 경기도 하남시 소재의 데이터센터에서도 기존 냉방설비의 운영 방식을 개선, 서비스 안정성을 유지하는 동시에 냉방 에너지 사용을 줄였다고 22일 밝혔다. 카카오는 안산 데이터센터에서 축적한 에너지 관리 경험을 임차 중인 경기도 하남시 소재의 데이터센터로 확대 적용했다. 설비를 새로 교체하거나 증설하는 대신, 실제",
-   "publishedAt": 1790060175000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-   "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-   "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-   "publishedAt": 1790001562000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "그림 판당고 퍼즐 문서(1996년) [pdf]",
-   "url": "https://news.hada.io/topic?id=34062",
-   "summary": "그림 판당고 퍼즐 문서(1996년) [pdf]",
-   "publishedAt": 1789979473000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "소프트웨어 샌드박싱의 기초(2025)",
-   "url": "https://news.hada.io/topic?id=34061",
-   "summary": "프로그램 스스로 관리자 권한 없이 권한을 줄이는 샌드박싱 은 시스템 관리자의 보안 정책을 대체하지 않고 보완함 실제 애플리케이션은 프로세스 단위로 구획화 하고 서로 다른 권한을 부여해야 하며, 액터 모델과 메시지 전달로 구획 간 통신을 설계할 수 있음",
-   "publishedAt": 1789978152000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "How to Write with an LLM",
-   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49747070",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 744,
-   "comments": 410,
-   "publishedAt": 1789681718000,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false,
-   "lastWeekRank": 39
-  },
-  {
-   "title": "Resident Evil 4(GameCube), C/C++로 바이트까지 완전히 동일하게 디컴파일",
-   "url": "https://news.hada.io/topic?id=34060",
-   "summary": "Resident Evil 4의 GameCube 디버그 빌드 G4BE08 를 디컴파일한 프로젝트로, 빌드하면 원본 main.dol 과 REL 오버레이 114개를 바이트 단위까지 동일하게 재현함 총 1,083개 오브젝트와 15,641개 함수 를 복원했으며, C/C++ 소스 약 55만 ...",
-   "publishedAt": 1789976366000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "MCP는 처음부터 잘못된 아이디어였다",
-   "url": "https://news.hada.io/topic?id=34059",
-   "summary": "코드를 실행하고 API를 직접 호출할 수 있는 에이전트에는 기존 API를 다시 감싼 MCP 서버가 불필요해졌으며 , 필요한 기능이 이미 있는 HTTP API와 CLI를 직접 사용하면 됨 MCP 서버를 늘릴수록 도구 설명과 스키마가 컨텍스트를 과도하게 차지 하고, 이를 해결하기...",
-   "publishedAt": 1789976186000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.7,
+   "score": 33.4,
    "hot": false
   }
  ]
