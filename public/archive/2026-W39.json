@@ -1,5 +1,5 @@
 {
- "updatedAt": 1790033996168,
+ "updatedAt": 1790038398703,
  "week": "2026-W39",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 466,
-   "comments": 382,
+   "engagement": 488,
+   "comments": 407,
    "publishedAt": 1790005815000,
    "isAI": true,
-   "score": 61.4,
+   "score": 61.1,
    "hot": true
   },
   {
@@ -23,12 +23,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 206,
-   "comments": 93,
+   "engagement": 208,
+   "comments": 98,
    "publishedAt": 1789999849000,
    "isAI": true,
-   "score": 53.3,
+   "score": 52.8,
    "hot": true
+  },
+  {
+   "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+   "url": "https://linear.app/now/ci-bottleneck-reworked",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49792067",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 128,
+   "comments": 120,
+   "publishedAt": 1790018613000,
+   "isAI": true,
+   "score": 51.3,
+   "hot": false
   },
   {
    "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
@@ -37,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 138,
-   "comments": 143,
+   "engagement": 140,
+   "comments": 148,
    "publishedAt": 1790010023000,
    "isAI": true,
-   "score": 51.4,
+   "score": 50.9,
    "hot": false
   },
   {
@@ -55,8 +69,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.3,
-   "hot": true
+   "score": 50.7,
+   "hot": false
   },
   {
    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
@@ -68,20 +82,6 @@
    "lang": "en",
    "engagement": null,
    "baseWeight": 50,
-   "isAI": true,
-   "score": 51.3,
-   "hot": true
-  },
-  {
-   "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-   "url": "https://linear.app/now/ci-bottleneck-reworked",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49792067",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 111,
-   "comments": 94,
-   "publishedAt": 1790018613000,
    "isAI": true,
    "score": 50.7,
    "hot": false
@@ -97,8 +97,50 @@
    "comments": 193,
    "publishedAt": 1789909765000,
    "isAI": true,
-   "score": 50.7,
+   "score": 50.2,
    "hot": false
+  },
+  {
+   "title": "Vercel의 AI 보안 스캐너 DeepSec 깊이 살펴보기",
+   "url": "https://news.hada.io/topic?id=34093",
+   "summary": "빠른 패턴 검색으로 의심스러운 코드를 찾고, Codex나 Claude가 파일 사이의 데이터 흐름과 방어 장치를 추적 해 실제 보안 문제인지 조사하는 오픈소스 도구 PR의 새 코드뿐 아니라 오랫동안 수정하지 않은 기존 코드까지 검사 하며, 분석 이력을 저장해 중단한 작업...",
+   "publishedAt": 1790037902000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
+  },
+  {
+   "title": "당신이 직접 쓰지 않은 글은 읽고 싶지 않다",
+   "url": "https://news.hada.io/topic?id=34092",
+   "summary": "AI가 만든 설계 문서와 PR 요약은 변경 사항을 상세히 나열하지만, 왜 필요한지, 무엇이 중요하고 어디를 검토해야 하는지 는 빠뜨리기 쉬움 프롬프트를 작성한 사람은 배경과 제약을 알지만, 그 과정에 참여하지 않은 독자 는 무엇이 중요한지 파악하기 위해 모든 문...",
+   "publishedAt": 1790037799000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
+  },
+  {
+   "title": "Transformer를 시각적으로 이해하기",
+   "url": "https://news.hada.io/topic?id=34091",
+   "summary": "Transformer Explainer 는 브라우저에서 1억 2,400만 매개변수의 GPT-2 small을 실행하며, 입력 텍스트가 다음 토큰 예측으로 이어지는 과정을 시각적으로 탐색하는 도구 직접 문장을 입력하고 토큰화, 임베딩, 어텐션과 출력 확률 을 단계별로 펼쳐 보며, 실제 계산...",
+   "publishedAt": 1790037619000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
   },
   {
    "title": "Building standards for the next phase of AI",
@@ -111,8 +153,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 50.3,
+   "score": 49.7,
    "hot": false
+  },
+  {
+   "title": "카카오, 독립형 AI 서비스 ‘카나나’ 종료",
+   "url": "https://news.hada.io/topic?id=34089",
+   "summary": "2025년 5월 베타로 시작한 카나나 앱과 PC 서비스가 2026년 10월 15일 종료 되며, 정식 출시 없이 약 1년 5개월 만에 운영을 마침 ‘카나’와 ‘나나’라는 AI 메이트와 대화하고, 음성 대화, 이미지 생성과 차량 정비 예약 등을 이용할 수 있었던 독립형 AI 서비스 ...",
+   "publishedAt": 1790036402000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
+   "hot": true
   },
   {
    "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
@@ -125,7 +181,7 @@
    "comments": 56,
    "publishedAt": 1789965757000,
    "isAI": true,
-   "score": 50,
+   "score": 49.4,
    "hot": true
   },
   {
@@ -136,11 +192,25 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 546,
-   "comments": 144,
+   "comments": 145,
    "publishedAt": 1789917367000,
    "isAI": true,
-   "score": 49.7,
+   "score": 49.2,
    "hot": false
+  },
+  {
+   "title": "Cloudflare Python Workers 정식 출시",
+   "url": "https://news.hada.io/topic?id=34087",
+   "summary": "Python이 Cloudflare 개발자 플랫폼의 정식 지원 언어 가 되어, 익숙한 코드와 라이브러리로 웹 애플리케이션과 AI 에이전트를 개발하고 배포할 수 있음 FastAPI, Django, Flask 를 실행할 수 있으며, 별도 웹 서버를 운영하지 않아도 Workers가 요청 처리와 전 세계...",
+   "publishedAt": 1790030214000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.8,
+   "hot": true
   },
   {
    "title": "ZuckOff is a free app that sees Meta glasses before they see you",
@@ -149,11 +219,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 359,
+   "engagement": 365,
    "comments": 332,
    "publishedAt": 1789986470000,
    "isAI": false,
-   "score": 49,
+   "score": 48.6,
+   "hot": true
+  },
+  {
+   "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+   "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49790409",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 235,
+   "comments": 158,
+   "publishedAt": 1790011821000,
+   "isAI": false,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -167,22 +251,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.3,
    "hot": false
-  },
-  {
-   "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-   "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49790409",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 227,
-   "comments": 147,
-   "publishedAt": 1790011821000,
-   "isAI": false,
-   "score": 48.6,
-   "hot": true
   },
   {
    "title": "Mac에서 Apple Intelligence 기능 끄기 및 접근 제한하기",
@@ -195,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -205,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 628,
+   "engagement": 629,
    "comments": 288,
    "publishedAt": 1789943563000,
    "isAI": false,
-   "score": 47.9,
+   "score": 47.4,
    "hot": false
   },
   {
@@ -223,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -237,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -247,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 134,
-   "comments": 75,
+   "engagement": 136,
+   "comments": 76,
    "publishedAt": 1789980884000,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.6,
    "hot": false
   },
   {
@@ -265,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -279,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -289,11 +359,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1854,
+   "engagement": 1855,
    "comments": 942,
    "publishedAt": 1789809658000,
    "isAI": true,
-   "score": 46.3,
+   "score": 46,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -308,7 +378,7 @@
    "comments": 85,
    "publishedAt": 1789964924000,
    "isAI": true,
-   "score": 46,
+   "score": 45.5,
    "hot": false
   },
   {
@@ -322,7 +392,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.2,
    "hot": false
   },
   {
@@ -336,7 +406,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -346,12 +416,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 546,
-   "comments": 441,
+   "engagement": 547,
+   "comments": 443,
    "publishedAt": 1789925930000,
    "isAI": false,
-   "score": 44.8,
+   "score": 44.4,
    "hot": false
+  },
+  {
+   "title": "Python Workers are now generally available",
+   "url": "https://blog.cloudflare.com/python-workers-ga/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49787142",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 179,
+   "comments": 29,
+   "publishedAt": 1789997899000,
+   "isAI": false,
+   "score": 44.1,
+   "hot": true
   },
   {
    "title": "Show HN: Mini-AGI - 8GB VRAM에서 학습하는 동적 지속 학습 모델",
@@ -364,22 +448,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
-  },
-  {
-   "title": "Python Workers are now generally available",
-   "url": "https://blog.cloudflare.com/python-workers-ga/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49787142",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 174,
-   "comments": 28,
-   "publishedAt": 1789997899000,
-   "isAI": false,
-   "score": 44.4,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "콘웨이의 법칙과 프로그래밍 언어",
@@ -392,21 +462,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
-   "hot": false
-  },
-  {
-   "title": "Meta bans ads for Virginia Woolf play in Spain",
-   "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49787767",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 134,
-   "comments": 135,
-   "publishedAt": 1790001039000,
-   "isAI": false,
-   "score": 42.6,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -420,8 +476,36 @@
    "comments": 48,
    "publishedAt": 1789926687000,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.1,
    "hot": false
+  },
+  {
+   "title": "Meta bans ads for Virginia Woolf play in Spain",
+   "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49787767",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 134,
+   "comments": 138,
+   "publishedAt": 1790001039000,
+   "isAI": false,
+   "score": 42,
+   "hot": false
+  },
+  {
+   "title": "pdfcn - React 컴포넌트로 만드는 PDF 문서",
+   "url": "https://news.hada.io/topic?id=34090",
+   "summary": "청구서, 보고서 같은 PDF를 처음부터 디자인하지 않고 준비된 React 컴포넌트와 문서 템플릿을 조합해 만드는 오픈소스 프로젝트 shadcn/ui 처럼 필요한 컴포넌트의 소스 코드를 프로젝트에 가져와 직접 수정 하는 방식으로, 문서 디자인과 동작을 자유...",
+   "publishedAt": 1790037002000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
@@ -430,11 +514,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 140,
-   "comments": 73,
+   "engagement": 141,
+   "comments": 74,
    "publishedAt": 1789994825000,
    "isAI": false,
-   "score": 42.2,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -448,7 +532,7 @@
    "comments": 275,
    "publishedAt": 1789898871000,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -463,21 +547,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
-   "hot": true
-  },
-  {
-   "title": "Python Workers 정식 출시",
-   "url": "https://news.hada.io/topic?id=34087",
-   "summary": "Python Workers가 정식 출시(GA) 되어 Python이 Cloudflare 개발자 플랫폼의 완전 지원 언어가 됨. 기존 Python 코드와 라이브러리로 Workers를 개발하고 Cloudflare 서비스와 연동할 수 있음 바인딩 타입 변환을 런타임과 Python SDK가 처리 하므로, Python 객체를...",
-   "publishedAt": 1790030214000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.5,
+   "score": 41,
    "hot": true
   },
   {
@@ -491,7 +561,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -505,7 +575,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -519,7 +589,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -530,25 +600,25 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 101,
-   "comments": 69,
+   "comments": 71,
    "publishedAt": 1789999905000,
    "isAI": false,
-   "score": 40,
+   "score": 39.5,
    "hot": false
   },
   {
-   "title": "Raspberry Pi, RAM 칩 교체 차단",
-   "url": "https://news.hada.io/topic?id=34082",
-   "summary": "Raspberry Pi, RAM 칩 교체 차단",
-   "publishedAt": 1790015825000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
+   "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+   "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+   "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+   "publishedAt": 1790034268000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.8,
-   "hot": true
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.5,
+   "hot": false
   },
   {
    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
@@ -561,9 +631,23 @@
    "comments": 257,
    "publishedAt": 1789796930000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false,
    "lastWeekRank": 3
+  },
+  {
+   "title": "Raspberry Pi, RAM 칩 교체 차단",
+   "url": "https://news.hada.io/topic?id=34082",
+   "summary": "Raspberry Pi, RAM 칩 교체 차단",
+   "publishedAt": 1790015825000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.3,
+   "hot": true
   },
   {
    "title": "프런티어 AI 연구소들은 워싱턴의 바보들에게 쓰레기를 팔고 있다",
@@ -576,35 +660,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.7,
-   "hot": false
-  },
-  {
-   "title": "Claude Code 개발자 보리스 처니: \"나는 자주 틀린다\"",
-   "url": "https://news.hada.io/topic?id=34034",
-   "summary": "새로운 정보가 들어오면 문제 정의와 접근법, 목표도 바꿔야 함 . 방향이 자꾸 바뀌는 것처럼 보여도, 복잡한 문제를 해결하는 데 필요한 반복일 수 있음 정보를 파악하고 부족한 내용을 채운 뒤, 문제와 단순한 해결 방법, 목표를 명확히 정하고 빠르게 실행 하는 과...",
-   "publishedAt": 1789951963000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.7,
-   "hot": false
-  },
-  {
-   "title": "Laya, Mac에서 오프라인으로 실행하는 실시간 의사결정 AI",
-   "url": "https://news.hada.io/topic?id=34033",
-   "summary": "Jev의 오픈소스 대안인 Laya를 Apple Silicon에서 실행하는 Core ML 이식 프로젝트 로, 모델을 한 번 내려받으면 네트워크 없이 판단을 수행함 문장을 한 토큰씩 생성하는 대신 선택지별 확률, 순서형 점수와 참일 확률 을 반환해, 긴 답변보다 빠른 선택이 필요한 작...",
-   "publishedAt": 1789951962000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -618,7 +674,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -632,7 +688,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39,
    "hot": true
   },
   {
@@ -646,7 +702,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -656,11 +712,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 359,
+   "engagement": 360,
    "comments": 170,
    "publishedAt": 1789835724000,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.8,
    "hot": false,
    "lastWeekRank": 4
   },
@@ -675,7 +731,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -689,7 +745,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -703,7 +759,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -717,7 +773,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -731,7 +787,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38,
    "hot": true
   },
   {
@@ -745,23 +801,9 @@
    "comments": 275,
    "publishedAt": 1789765232000,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.9,
    "hot": false,
    "lastWeekRank": 8
-  },
-  {
-   "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-   "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-   "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-   "publishedAt": 1790018361000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 38.2,
-   "hot": false
   },
   {
    "title": "Show HN: A competition for small neural networks that play strategy games",
@@ -774,7 +816,21 @@
    "comments": 37,
    "publishedAt": 1789916350000,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.7,
+   "hot": false
+  },
+  {
+   "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+   "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+   "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+   "publishedAt": 1790018361000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -784,11 +840,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 117,
+   "engagement": 118,
    "comments": 164,
    "publishedAt": 1789904230000,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -802,7 +858,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -816,7 +872,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -830,22 +886,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.1,
    "hot": false
-  },
-  {
-   "title": "ZuckOff, Meta 안경이 당신을 보기 전에 먼저 감지하는 무료 앱",
-   "url": "https://news.hada.io/topic?id=34066",
-   "summary": "ZuckOff 는 주변 스마트 안경의 Bluetooth 신호를 감지해 같은 공간에 기기가 있는지 알려주는 앱으로, iPhone에서 기본 스캔 기능을 무료로 제공함 모델별 Bluetooth 신호로 만든 디지털 지문 을 활용하며, Ray-Ban Meta, Oakley Meta, Snap Spectacles 등을 탐지함...",
-   "publishedAt": 1789994105000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.4,
-   "hot": true
   },
   {
    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
@@ -854,11 +896,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 395,
+   "engagement": 396,
    "comments": 180,
    "publishedAt": 1789800104000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.9,
    "hot": false,
    "lastWeekRank": 9
   },
@@ -873,9 +915,23 @@
    "comments": 825,
    "publishedAt": 1789724707000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.9,
    "hot": false,
    "lastWeekRank": 14
+  },
+  {
+   "title": "ZuckOff, Meta 안경이 당신을 보기 전에 먼저 감지하는 무료 앱",
+   "url": "https://news.hada.io/topic?id=34066",
+   "summary": "ZuckOff 는 주변 스마트 안경의 Bluetooth 신호를 감지해 같은 공간에 기기가 있는지 알려주는 앱으로, iPhone에서 기본 스캔 기능을 무료로 제공함 모델별 Bluetooth 신호로 만든 디지털 지문 을 활용하며, Ray-Ban Meta, Oakley Meta, Snap Spectacles 등을 탐지함...",
+   "publishedAt": 1789994105000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
@@ -888,7 +944,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -902,8 +958,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.6,
+   "hot": false
   },
   {
    "title": "ZuckOff - 방 안에 카메라가 있는지 알려주는 앱",
@@ -916,7 +972,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -930,7 +986,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -944,7 +1000,7 @@
    "comments": 51,
    "publishedAt": 1789842090000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false,
    "lastWeekRank": 10
   },
@@ -959,7 +1015,7 @@
    "comments": 717,
    "publishedAt": 1789758189000,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false,
    "lastWeekRank": 17
   },
@@ -974,21 +1030,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "소프트웨어 샌드박싱의 기초(2025)",
-   "url": "https://news.hada.io/topic?id=34061",
-   "summary": "프로그램 스스로 관리자 권한 없이 권한을 줄이는 샌드박싱 은 시스템 관리자의 보안 정책을 대체하지 않고 보완함 실제 애플리케이션은 프로세스 단위로 구획화 하고 서로 다른 권한을 부여해야 하며, 액터 모델과 메시지 전달로 구획 간 통신을 설계할 수 있음",
-   "publishedAt": 1789978152000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1002,9 +1044,23 @@
    "comments": 391,
    "publishedAt": 1789752481000,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.4,
    "hot": false,
    "lastWeekRank": 20
+  },
+  {
+   "title": "소프트웨어 샌드박싱의 기초(2025)",
+   "url": "https://news.hada.io/topic?id=34061",
+   "summary": "프로그램 스스로 관리자 권한 없이 권한을 줄이는 샌드박싱 은 시스템 관리자의 보안 정책을 대체하지 않고 보완함 실제 애플리케이션은 프로세스 단위로 구획화 하고 서로 다른 권한을 부여해야 하며, 액터 모델과 메시지 전달로 구획 간 통신을 설계할 수 있음",
+   "publishedAt": 1789978152000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.4,
+   "hot": false
   },
   {
    "title": "Resident Evil 4(GameCube), C/C++로 바이트까지 완전히 동일하게 디컴파일",
@@ -1017,7 +1073,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1031,7 +1087,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1045,7 +1101,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35,
    "hot": false
   },
   {
@@ -1059,7 +1115,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1073,7 +1129,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1087,7 +1143,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1101,7 +1157,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1115,7 +1171,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1129,7 +1185,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1143,9 +1199,23 @@
    "comments": 408,
    "publishedAt": 1789681718000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
    "hot": false,
    "lastWeekRank": 39
+  },
+  {
+   "title": "[AI리더의 서가] 요즘 AI 루프 엔지니어링",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215466",
+   "summary": "요즘 AI 루프 엔지니어링박승규 | 골든래빗2026년 9월 2일추천이유이 책은 AI 에이전트가 프롬프트 없이도 스스로 작업을 계획, 실행, 검증하는 루프 시스템을 설계하는 방법을 다룹니다. 저자는 클로드 코드, MCP, 훅, 하네스 엔지니어링 등 실제 기술을 단계별로 구현하며, 자동화의 한계를 느낀 개발자들이 AI와 협업하는 차세대 역량을 갖추도록 합니다.상세보기요즘 영풍문고 개발서 매대에는 눈에 띄는 변화가 하나 있다. '프롬프트'라는 단어가 박힌 책을 집어 들던 손님들이, 그 옆에 놓인 '에이전트'와 '루프' 표지 앞에서 더 오",
+   "publishedAt": 1790035200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
   },
   {
    "title": "Software sandboxing: The basics (2025)",
@@ -1155,10 +1225,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 112,
-   "comments": 23,
+   "comments": 24,
    "publishedAt": 1789929767000,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1172,7 +1242,7 @@
    "comments": 85,
    "publishedAt": 1789858954000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1186,7 +1256,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1200,7 +1270,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1214,7 +1284,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1228,7 +1298,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1242,7 +1312,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1256,7 +1326,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1270,7 +1340,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1284,49 +1354,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "단일 전자 우주",
-   "url": "https://news.hada.io/topic?id=34035",
-   "summary": "단일 전자 우주 는 모든 전자와 양전자가 시간을 앞뒤로 이동하는 하나의 실체라는 가설로, John Wheeler가 1940년 Richard Feynman과의 통화에서 제안함 하나의 전자가 그리는 복잡하게 얽힌 세계선 을 특정 시점에서 자르면 수많은 교차점이 생기며, 각각이 그 순간...",
-   "publishedAt": 1789951964000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "시간 속으로 사라진 키 기호, 2편: Mac 편",
-   "url": "https://news.hada.io/topic?id=34032",
-   "summary": "Apple은 캐나다용 키보드 일부에 유럽형과 같은 배열을 쓰면서도 Ctrl, Alt, Tab, Caps Lock 등에 독특한 기호 를 적용했으며, 이런 변형은 1990년대 후반부터 2000년대 모델에서 확인됨 캐나다용 기호는 Esc, 방향키, Enter/Return, Num Lock 까지 폭넓게 적용됐지만...",
-   "publishedAt": 1789951961000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "미국, 발전소의 기후 오염 배출 제한 폐지",
-   "url": "https://news.hada.io/topic?id=34031",
-   "summary": "미국 환경보호청(EPA) 이 석탄 및 가스 발전소에 적용하던 2024년 탄소 오염 기준을 폐지한다고 발표해, 발전소 탄소 배출 제한 대부분을 없앰 기존 기준은 기존 석탄 발전소와 신규 가스 발전소에 탄소 배출량 90% 포집 또는 2039년까지 폐쇄 를 요구했으며, 2047년...",
-   "publishedAt": 1789951960000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1340,7 +1368,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1354,23 +1382,9 @@
    "comments": 320,
    "publishedAt": 1789677373000,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false,
    "lastWeekRank": 43
-  },
-  {
-   "title": "California tightens rules on AI data center energy and water use",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-   "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data cen",
-   "publishedAt": 1790022585000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
-   "hot": false
   },
   {
    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
@@ -1383,36 +1397,22 @@
    "comments": 208,
    "publishedAt": 1789699644000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false,
    "lastWeekRank": 41
   },
   {
-   "title": "Apple iPhone 18 Pro Camera test",
-   "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49771218",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 201,
-   "comments": 167,
-   "publishedAt": 1789862447000,
-   "isAI": false,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "KAIST, ‘지식 재사용’으로 서버 호출 57% 줄였다…“증류·추가학습 필요 없어”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215545",
-   "summary": "국내 연구진이 한 번 얻은 지식을 기기 내부 저장소에 쌓아뒀다가 재사용하는 온디바이스 AI 기술을 개발했다. 기존 모델을 추가로 학습시킬 필요 없이 대형 AI 모델에 대한 서버 의존도를 낮춘 것이 특징이다.한국과학기술원(KAIST, 총장 배충식)은 이재길 전산학부 교수 연구팀이 기기의 소형 AI와 서버의 대형 AI를 효율적으로 연결하는 협업 프레임워크 ‘CURE(Cumulative Knowledge Reuse, 누적 지식 재사용)’를 개발했다고 22일 밝혔다.연구팀은 문제 난이도에 따라 필요한 연산량이 다르다는 점에 착안했다. 소형",
-   "publishedAt": 1790020877000,
-   "source": "AI타임스",
+   "title": "California tightens rules on AI data center energy and water use",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+   "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data cen",
+   "publishedAt": 1790022585000,
+   "source": "The Verge",
    "sourceType": "media",
-   "lang": "ko",
+   "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   }
  ]
