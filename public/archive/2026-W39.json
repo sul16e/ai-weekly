@@ -1,5 +1,5 @@
 {
- "updatedAt": 1790046714291,
+ "updatedAt": 1790050360058,
  "week": "2026-W39",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 515,
-   "comments": 431,
+   "engagement": 522,
+   "comments": 442,
    "publishedAt": 1790005815000,
    "isAI": true,
-   "score": 60.1,
+   "score": 59.6,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 158,
-   "comments": 166,
+   "engagement": 170,
+   "comments": 178,
    "publishedAt": 1790018613000,
    "isAI": true,
-   "score": 52,
+   "score": 52.1,
    "hot": true
   },
   {
@@ -37,11 +37,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 214,
-   "comments": 103,
+   "engagement": 217,
+   "comments": 105,
    "publishedAt": 1789999849000,
    "isAI": true,
-   "score": 51.8,
+   "score": 51.4,
+   "hot": true
+  },
+  {
+   "title": "AI 코딩으로 병목이 된 CI, 개발 속도에 맞춰 재설계함",
+   "url": "https://news.hada.io/topic?id=34105",
+   "summary": "Linear는 연초 이후 테스트 스위트가 거의 4배 로 늘어났는데도 PR의 CI 대기 시간을 6분 초과에서 5분 남짓으로 줄이고, 테스트당 러너 사용 시간을 약 절반으로 낮춤 더 빠른 외부 러너와 tsgo 로 전환하고 린트 규칙의 타입 정보 의존성을 제거해, ...",
+   "publishedAt": 1790048540000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
+   "hot": true
+  },
+  {
+   "title": "Show GN: ArtifactBench - AI 생성 음악 탐지기를 비교 평가하는 벤치마크 도구",
+   "url": "https://news.hada.io/topic?id=34101",
+   "summary": "안녕하세요. ArtifactNet을 개발하는 Intrect의 오희원입니다. AI 음악 탐지기를 비교하면서, 종합 점수뿐 아니라 어떤 곡을 평가했는지, 데이터가 서로 겹치는지, 처리하지 못한 파일을 어떻게 계산하는지가 결과 해석에 중요하다는 문제를 다루게 됐습니다. 이를 점검하기 위한 평가 코드와 프로토콜",
+   "publishedAt": 1790047694000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
    "hot": true
   },
   {
@@ -51,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 142,
-   "comments": 150,
+   "engagement": 144,
+   "comments": 152,
    "publishedAt": 1790010023000,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.4,
    "hot": false
   },
   {
@@ -69,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -83,7 +111,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.6,
+   "score": 49.1,
    "hot": false
   },
   {
@@ -97,7 +125,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.6,
+   "score": 49.1,
    "hot": false
   },
   {
@@ -107,11 +135,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 722,
+   "engagement": 723,
    "comments": 195,
    "publishedAt": 1789909765000,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.9,
+   "hot": false
+  },
+  {
+   "title": "Frontier AI on Your Own Hardware",
+   "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49791647",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 120,
+   "comments": 61,
+   "publishedAt": 1790016781000,
+   "isAI": true,
+   "score": 48.8,
    "hot": false
   },
   {
@@ -125,63 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.8,
-   "hot": true
-  },
-  {
-   "title": "Frontier AI on Your Own Hardware",
-   "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49791647",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 112,
-   "comments": 57,
-   "publishedAt": 1790016781000,
-   "isAI": true,
-   "score": 48.7,
-   "hot": false
-  },
-  {
-   "title": "Vercel의 AI 보안 스캐너 DeepSec 깊이 살펴보기",
-   "url": "https://news.hada.io/topic?id=34093",
-   "summary": "빠른 패턴 검색으로 의심스러운 코드를 찾고, Codex나 Claude가 파일 사이의 데이터 흐름과 방어 장치를 추적 해 실제 보안 문제인지 조사하는 오픈소스 도구 PR의 새 코드뿐 아니라 오랫동안 수정하지 않은 기존 코드까지 검사 하며, 분석 이력을 저장해 중단한 작업...",
-   "publishedAt": 1790037902000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.7,
-   "hot": true
-  },
-  {
-   "title": "당신이 직접 쓰지 않은 글은 읽고 싶지 않다",
-   "url": "https://news.hada.io/topic?id=34092",
-   "summary": "AI가 만든 설계 문서와 PR 요약은 변경 사항을 상세히 나열하지만, 왜 필요한지, 무엇이 중요하고 어디를 검토해야 하는지 는 빠뜨리기 쉬움 프롬프트를 작성한 사람은 배경과 제약을 알지만, 그 과정에 참여하지 않은 독자 는 무엇이 중요한지 파악하기 위해 모든 문...",
-   "publishedAt": 1790037799000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.7,
-   "hot": true
-  },
-  {
-   "title": "Transformer를 시각적으로 이해하기",
-   "url": "https://news.hada.io/topic?id=34091",
-   "summary": "Transformer Explainer 는 브라우저에서 1억 2,400만 매개변수의 GPT-2 small을 실행하며, 입력 텍스트가 다음 토큰 예측으로 이어지는 과정을 시각적으로 탐색하는 도구 직접 문장을 입력하고 토큰화, 임베딩, 어텐션과 출력 확률 을 단계별로 펼쳐 보며, 실제 계산...",
-   "publishedAt": 1790037619000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.7,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -195,7 +181,35 @@
    "comments": 57,
    "publishedAt": 1789965757000,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.2,
+   "hot": true
+  },
+  {
+   "title": "Vercel의 AI 보안 스캐너 DeepSec 깊이 살펴보기",
+   "url": "https://news.hada.io/topic?id=34093",
+   "summary": "빠른 패턴 검색으로 의심스러운 코드를 찾고, Codex나 Claude가 파일 사이의 데이터 흐름과 방어 장치를 추적 해 실제 보안 문제인지 조사하는 오픈소스 도구 PR의 새 코드뿐 아니라 오랫동안 수정하지 않은 기존 코드까지 검사 하며, 분석 이력을 저장해 중단한 작업...",
+   "publishedAt": 1790037902000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.2,
+   "hot": true
+  },
+  {
+   "title": "당신이 직접 쓰지 않은 글은 읽고 싶지 않다",
+   "url": "https://news.hada.io/topic?id=34092",
+   "summary": "AI가 만든 설계 문서와 PR 요약은 변경 사항을 상세히 나열하지만, 왜 필요한지, 무엇이 중요하고 어디를 검토해야 하는지 는 빠뜨리기 쉬움 프롬프트를 작성한 사람은 배경과 제약을 알지만, 그 과정에 참여하지 않은 독자 는 무엇이 중요한지 파악하기 위해 모든 문...",
+   "publishedAt": 1790037799000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -209,8 +223,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.1,
    "hot": false
+  },
+  {
+   "title": "Transformer를 시각적으로 이해하기",
+   "url": "https://news.hada.io/topic?id=34091",
+   "summary": "Transformer Explainer 는 브라우저에서 1억 2,400만 매개변수의 GPT-2 small을 실행하며, 입력 텍스트가 다음 토큰 예측으로 이어지는 과정을 시각적으로 탐색하는 도구 직접 문장을 입력하고 토큰화, 임베딩, 어텐션과 출력 확률 을 단계별로 펼쳐 보며, 실제 계산...",
+   "publishedAt": 1790037619000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.1,
+   "hot": true
   },
   {
    "title": "카카오, 독립형 AI 서비스 ‘카나나’ 종료",
@@ -223,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
   },
   {
@@ -237,7 +265,7 @@
    "comments": 146,
    "publishedAt": 1789917367000,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.9,
    "hot": false
   },
   {
@@ -247,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 252,
-   "comments": 170,
+   "engagement": 259,
+   "comments": 178,
    "publishedAt": 1790011821000,
    "isAI": false,
-   "score": 47.7,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -261,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 374,
+   "engagement": 378,
    "comments": 333,
    "publishedAt": 1789986470000,
    "isAI": false,
-   "score": 47.7,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -279,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.8,
    "hot": false
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -317,11 +345,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 633,
-   "comments": 289,
+   "engagement": 634,
+   "comments": 292,
    "publishedAt": 1789943563000,
    "isAI": false,
-   "score": 46.4,
+   "score": 46,
    "hot": false
   },
   {
@@ -335,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -346,10 +374,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 136,
-   "comments": 79,
+   "comments": 80,
    "publishedAt": 1789980884000,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.2,
    "hot": false
   },
   {
@@ -363,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -377,7 +405,7 @@
    "comments": 942,
    "publishedAt": 1789809658000,
    "isAI": true,
-   "score": 45.3,
+   "score": 45,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -392,7 +420,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.9,
    "hot": true
   },
   {
@@ -406,7 +434,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -420,7 +448,7 @@
    "comments": 85,
    "publishedAt": 1789964924000,
    "isAI": true,
-   "score": 44.5,
+   "score": 44.1,
    "hot": true
   },
   {
@@ -434,8 +462,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.3,
+   "score": 43.9,
    "hot": false
+  },
+  {
+   "title": "Python Workers are now generally available",
+   "url": "https://blog.cloudflare.com/python-workers-ga/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49787142",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 197,
+   "comments": 32,
+   "publishedAt": 1789997899000,
+   "isAI": false,
+   "score": 43.4,
+   "hot": true
   },
   {
    "title": "AI 챗봇, 금융 질문에 ‘대부분’ 잘못된 답변",
@@ -448,22 +490,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
-  },
-  {
-   "title": "Python Workers are now generally available",
-   "url": "https://blog.cloudflare.com/python-workers-ga/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49787142",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 190,
-   "comments": 32,
-   "publishedAt": 1789997899000,
-   "isAI": false,
-   "score": 43.6,
-   "hot": true
   },
   {
    "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
@@ -476,7 +504,7 @@
    "comments": 444,
    "publishedAt": 1789925930000,
    "isAI": false,
-   "score": 43.5,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -490,7 +518,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -504,8 +532,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
    "hot": false
+  },
+  {
+   "title": "워터마크가 아니라 스파이마크",
+   "url": "https://news.hada.io/topic?id=34104",
+   "summary": "사용자의 인지나 동의 없이 콘텐츠를 추적할 수 있게 하는 숨은 신호는 스파이마크(spymark) 로 구분해 부르자는 제안임 Google SynthID 같은 기술은 이미지, 오디오, 텍스트, 영상에 사람이 감지하기 어려운 신호를 삽입하며, 그 안에 개인정보와 연결되는 데이터...",
+   "publishedAt": 1790048360000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Show GN: 월급날은 멀어도 숫자는 올라간다 — 오늘 번 돈을 보여주는 rich-rich-rich",
@@ -518,7 +560,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.4,
    "hot": true
   },
   {
@@ -532,7 +574,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -546,7 +588,7 @@
    "comments": 48,
    "publishedAt": 1789926687000,
    "isAI": true,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -556,11 +598,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 134,
+   "engagement": 135,
    "comments": 146,
    "publishedAt": 1790001039000,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -574,21 +616,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
   },
   {
-   "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
-   "url": "https://news.ycombinator.com/item?id=49786609",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49786609",
+   "title": "Apple Copland D11E4 Booting in the Browser",
+   "url": "https://www.pagetable.com/300",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49791125",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 141,
-   "comments": 74,
-   "publishedAt": 1789994825000,
+   "engagement": 110,
+   "comments": 32,
+   "publishedAt": 1790014532000,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -602,9 +644,23 @@
    "comments": 275,
    "publishedAt": 1789898871000,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.5,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+   "url": "https://news.ycombinator.com/item?id=49786609",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49786609",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 142,
+   "comments": 74,
+   "publishedAt": 1789994825000,
+   "isAI": false,
+   "score": 40.4,
+   "hot": false
   },
   {
    "title": "pdfcn - React 컴포넌트로 만드는 PDF 문서",
@@ -617,22 +673,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
-  },
-  {
-   "title": "Apple Copland D11E4 Booting in the Browser",
-   "url": "https://www.pagetable.com/300",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49791125",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 105,
-   "comments": 32,
-   "publishedAt": 1790014532000,
-   "isAI": false,
-   "score": 40.5,
-   "hot": false
   },
   {
    "title": "미국, 광케이블 절단으로 동부 주요 공항 항공편 운항 중단",
@@ -645,7 +687,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -659,7 +701,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -673,36 +715,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.1,
    "hot": true
-  },
-  {
-   "title": "이제 인간 수학자가 왜 필요한가?",
-   "url": "https://news.hada.io/topic?id=34046",
-   "summary": "AI가 인간보다 많은 증명을 만들어내더라도, 무엇을 연구하고 그 성과를 어디에 쓸지 는 인간의 삶을 더 낫게 만들려는 전문가 공동체가 결정해야 함 연구 방향을 판단할 전문성은 결과를 지켜보기만 해서는 유지되지 않으므로, 인간 수학자는 AI의 도움을 받더라도 최전선에...",
-   "publishedAt": 1789956276000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.9,
-   "hot": false
-  },
-  {
-   "title": "Apple Mac mini review",
-   "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49787548",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 103,
-   "comments": 77,
-   "publishedAt": 1789999905000,
-   "isAI": false,
-   "score": 38.8,
-   "hot": false
   },
   {
    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
@@ -715,9 +729,23 @@
    "comments": 257,
    "publishedAt": 1789796930000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.6,
    "hot": false,
    "lastWeekRank": 3
+  },
+  {
+   "title": "Apple Mac mini review",
+   "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49787548",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 104,
+   "comments": 79,
+   "publishedAt": 1789999905000,
+   "isAI": false,
+   "score": 38.4,
+   "hot": false
   },
   {
    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
@@ -730,22 +758,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
-  },
-  {
-   "title": "Raspberry Pi, RAM 칩 교체 차단",
-   "url": "https://news.hada.io/topic?id=34082",
-   "summary": "Raspberry Pi, RAM 칩 교체 차단",
-   "publishedAt": 1790015825000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.4,
-   "hot": true
   },
   {
    "title": "I think you should almost never use AI to write",
@@ -758,9 +772,23 @@
    "comments": 170,
    "publishedAt": 1789835724000,
    "isAI": true,
-   "score": 38.2,
+   "score": 38,
    "hot": false,
    "lastWeekRank": 4
+  },
+  {
+   "title": "Raspberry Pi, RAM 칩 교체 차단",
+   "url": "https://news.hada.io/topic?id=34082",
+   "summary": "Raspberry Pi, RAM 칩 교체 차단",
+   "publishedAt": 1790015825000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38,
+   "hot": true
   },
   {
    "title": "정말 같은 데스크톱 UX를 영원히 사용할 것인가?",
@@ -773,7 +801,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -787,7 +815,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -795,20 +823,6 @@
    "url": "https://news.hada.io/topic?id=34076",
    "summary": "오랫동안 집중하는 대상 은 생각을 형성함. 테트리스를 반복해 플레이하면 일상에서도 블록 모양이 눈에 들어오는 ‘테트리스 효과’처럼, 화면에서 무엇을 보는지도 사고에 영향을 줌 관심 대상을 직접 고르기보다 추천 알고리듬 에 맡기면서, 주의력을 의도적으로 ...",
    "publishedAt": 1790012795000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38,
-   "hot": true
-  },
-  {
-   "title": "Amiga Unix, 다시 시작하다",
-   "url": "https://news.hada.io/topic?id=34075",
-   "summary": "amigaux.org 는 Commodore의 Amiga용 Unix인 Amix를 68040/68060과 현대적 가속기 하드웨어에서 다시 사용할 수 있도록 개발하는 비공식 커뮤니티 프로젝트임 Amix 2.1 이 실제 68060에서 동작하며, Z3660의 SCSI/이더넷과 A4091/A4092의 SCSI를 지원함. FPU 없이도 ...",
-   "publishedAt": 1790008432000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -829,9 +843,37 @@
    "comments": 275,
    "publishedAt": 1789765232000,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.2,
    "hot": false,
    "lastWeekRank": 8
+  },
+  {
+   "title": "Amiga Unix, 다시 시작하다",
+   "url": "https://news.hada.io/topic?id=34075",
+   "summary": "amigaux.org 는 Commodore의 Amiga용 Unix인 Amix를 68040/68060과 현대적 가속기 하드웨어에서 다시 사용할 수 있도록 개발하는 비공식 커뮤니티 프로젝트임 Amix 2.1 이 실제 68060에서 동작하며, Z3660의 SCSI/이더넷과 A4091/A4092의 SCSI를 지원함. FPU 없이도 ...",
+   "publishedAt": 1790008432000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.2,
+   "hot": true
+  },
+  {
+   "title": "Show HN: A competition for small neural networks that play strategy games",
+   "url": "https://tinybrains.dev",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49776523",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 105,
+   "comments": 37,
+   "publishedAt": 1789916350000,
+   "isAI": true,
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
@@ -844,7 +886,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -858,8 +900,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Sun이 잘못한 것",
@@ -872,8 +914,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Show GN: 알람케이 - iOS 26 AlarmKit으로 만든, 미션을 끝내야 꺼지는 알람",
@@ -886,21 +928,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
-  },
-  {
-   "title": "Show HN: A competition for small neural networks that play strategy games",
-   "url": "https://tinybrains.dev",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49776523",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 104,
-   "comments": 37,
-   "publishedAt": 1789916350000,
-   "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -911,10 +939,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 119,
-   "comments": 166,
+   "comments": 167,
    "publishedAt": 1789904230000,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -928,7 +956,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -939,12 +967,27 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 942,
-   "comments": 825,
+   "comments": 826,
    "publishedAt": 1789724707000,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.3,
    "hot": false,
    "lastWeekRank": 14
+  },
+  {
+   "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+   "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49763987",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 396,
+   "comments": 180,
+   "publishedAt": 1789800104000,
+   "isAI": true,
+   "score": 36.1,
+   "hot": false,
+   "lastWeekRank": 9
   },
   {
    "title": "jev-leftpad - Jev로 값 왼쪽에 패딩 추가",
@@ -957,7 +1000,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -971,23 +1014,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
-  },
-  {
-   "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-   "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49763987",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 396,
-   "comments": 180,
-   "publishedAt": 1789800104000,
-   "isAI": true,
-   "score": 36.3,
-   "hot": false,
-   "lastWeekRank": 9
   },
   {
    "title": "Meta’s AI agent has been blocked from using Amazon.com",
@@ -1000,7 +1028,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -1014,7 +1042,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1028,7 +1056,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1042,7 +1070,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1056,7 +1084,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1070,23 +1098,9 @@
    "comments": 717,
    "publishedAt": 1789758189000,
    "isAI": false,
-   "score": 35.2,
+   "score": 35,
    "hot": false,
    "lastWeekRank": 17
-  },
-  {
-   "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-   "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-   "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-   "publishedAt": 1790001562000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.1,
-   "hot": false
   },
   {
    "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
@@ -1099,7 +1113,7 @@
    "comments": 51,
    "publishedAt": 1789842090000,
    "isAI": true,
-   "score": 35,
+   "score": 34.8,
    "hot": false,
    "lastWeekRank": 10
   },
@@ -1114,9 +1128,23 @@
    "comments": 391,
    "publishedAt": 1789752481000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.8,
    "hot": false,
    "lastWeekRank": 20
+  },
+  {
+   "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+   "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+   "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
+   "publishedAt": 1790001562000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.7,
+   "hot": false
   },
   {
    "title": "그림 판당고 퍼즐 문서(1996년) [pdf]",
@@ -1129,7 +1157,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1143,7 +1171,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1157,7 +1185,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1171,7 +1199,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "알리바바, 생성·편집 통합 '큐원 이미지 2.1' 공개…'선발주자 따라하기' 비판도",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215554",
+   "summary": "알리바바가 이미지 생성과 편집을 하나의 모델에서 처리할 수 있는 오픈 웨이트 기반 멀티모달 AI 모델을 선보였다. 경량화된 구조를 바탕으로 참조 이미지 합성부터 영역 편집, 투명 배경 생성까지 단일 모델로 구현했지만, 이미 상당수 기능은 다른 첨단 모델에서 구현됐다는 지적도 제기된다.알리바바는 21일(현지시간) 이미지 생성·편집 통합형 멀티모달 AI 모델 ‘큐원 이미지 2.1(Qwen-Image-2.1)’을 공개했다.시각 생성 구성 요소에 70억개 매개변수를 적용한 경량 모델이다. 텍스트-이미지 생성과 편집을 단일 체크포인트에서 실",
+   "publishedAt": 1790050058000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 34,
    "hot": false
   },
   {
@@ -1185,7 +1227,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "오픈AI·앤트로픽, AI 모델 교차 검증 합의 임박...미공개 모델은 제외",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215548",
+   "summary": "오픈AI와 앤트로픽이 서로의 AI 모델을 대상으로 안전성과 보안 취약점을 평가하는 ‘상호 스트레스 테스트’ 협정을 논의 중인 것으로 알려졌다. 경쟁사의 모델을 직접 시험해 자체 평가에서 발견하지 못한 취약점이나 예기치 않은 위험을 찾아내겠다는 의도다.21일(현지시간) 디 인포메이션에 따르면, 양사는 올해 초 변호사들과 함께 법적 구속력을 갖는 방안을 논의했다.협정이 체결되면, 상대방의 상용화된 AI 모델 API에 접근해 다양한 안전성 테스트를 실시하게 된다. 테스트 과정에서 상대방의 데이터를 별도로 저장하거나 보관하지 않는 조건도",
+   "publishedAt": 1790048162000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1199,21 +1255,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
-   "title": "Show GN: Umtri.io - 프로젝트를 시각화하는 형상 관리 도구",
-   "url": "https://news.hada.io/topic?id=34055",
-   "summary": "문제의식 프로젝트 개발, 특히 바이브 코딩 시 자신의 프로젝트가 어떻게 자라나는지 알기 어려움 코드 베이스 내부에서 연결이나 종속성 문제가 있는 경우 단발적인 세션이 놓쳐 문제가 커지는 경우가 생김 프롬프트를 통한 개발 명령의 프레임이 좁아서 장기적인 계획에서 잘못된...",
-   "publishedAt": 1789970241000,
-   "source": "GeekNews",
-   "sourceType": "community",
+   "title": "기대 못 미친 '그록 4.7'…스페이스XAI, 프런티어 경쟁 '4.8'로 미뤄",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215549",
+   "summary": "스페이스XAI가 코딩과 지식 작업에 특화한 차세대 AI 모델 ‘그록 4.7(Grok 4.7)’을 공개했으나, 프런티어 성능에 미치지 못하며 차기 모델인 ‘그록 4.8’로 본격적인 경쟁을 미루게 됐다.스페이스XAI는 21일(현지시간) 그록 4.7을 출시하며 장시간 수행되는 복잡한 작업에서의 추론 능력과 자체 검증 기능, 사이버보안 성능을 강화했다고 발표했다.그록 4.6 출시 이후 한 달여 만이다. 이날부터 커서와 xAI의 ‘그록 빌드(Grok Build)’에서 사용할 수 있으며, 그록 API와 제3자 코딩 하네스, 모델 라우터 및 클",
+   "publishedAt": 1790047425000,
+   "source": "AI타임스",
+   "sourceType": "media",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.9,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1227,7 +1283,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "Show GN: Umtri.io - 프로젝트를 시각화하는 형상 관리 도구",
+   "url": "https://news.hada.io/topic?id=34055",
+   "summary": "문제의식 프로젝트 개발, 특히 바이브 코딩 시 자신의 프로젝트가 어떻게 자라나는지 알기 어려움 코드 베이스 내부에서 연결이나 종속성 문제가 있는 경우 단발적인 세션이 놓쳐 문제가 커지는 경우가 생김 프롬프트를 통한 개발 명령의 프레임이 좁아서 장기적인 계획에서 잘못된...",
+   "publishedAt": 1789970241000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1241,7 +1311,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1255,7 +1325,7 @@
    "comments": 410,
    "publishedAt": 1789681718000,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.3,
    "hot": false,
    "lastWeekRank": 39
   },
@@ -1270,7 +1340,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1284,7 +1354,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1298,7 +1368,20 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+   "url": "https://huggingface.co/papers/2609.24972",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 47,
+   "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent ha",
+   "publishedAt": 1789934400000,
+   "isAI": true,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1312,7 +1395,7 @@
    "comments": 24,
    "publishedAt": 1789929767000,
    "isAI": false,
-   "score": 33,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1326,93 +1409,7 @@
    "comments": 85,
    "publishedAt": 1789858954000,
    "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "[AI리더의 서가] 요즘 AI 루프 엔지니어링",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215466",
-   "summary": "요즘 AI 루프 엔지니어링박승규 | 골든래빗2026년 9월 2일추천이유이 책은 AI 에이전트가 프롬프트 없이도 스스로 작업을 계획, 실행, 검증하는 루프 시스템을 설계하는 방법을 다룹니다. 저자는 클로드 코드, MCP, 훅, 하네스 엔지니어링 등 실제 기술을 단계별로 구현하며, 자동화의 한계를 느낀 개발자들이 AI와 협업하는 차세대 역량을 갖추도록 합니다.상세보기요즘 영풍문고 개발서 매대에는 눈에 띄는 변화가 하나 있다. '프롬프트'라는 단어가 박힌 책을 집어 들던 손님들이, 그 옆에 놓인 '에이전트'와 '루프' 표지 앞에서 더 오",
-   "publishedAt": 1790035200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "Apple iPhone 18 Pro 카메라 테스트",
-   "url": "https://news.hada.io/topic?id=34047",
-   "summary": "DXOMARK 종합 172점 을 기록했으며, 넓은 다이내믹 레인지와 개선된 대비 및 피부색, 효과적인 손떨림 보정, 균형 잡힌 디테일과 노이즈 처리가 강점임 가변 조리개 가 단체 인물 사진에서 피사계 심도를 자동으로 확장해 여러 인물의 선명도를 유지하며, 수동 조절도...",
-   "publishedAt": 1789956456000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "Snowden 아카이브에는 무슨 일이 일어났나",
-   "url": "https://news.hada.io/topic?id=34044",
-   "summary": "Snowden 아카이브의 문서 공개는 2019년 5월 29일 이후 멈춤 . 주요 언론사가 2014~2015년에 차례로 공개를 중단한 뒤, 마지막까지 작업하던 The Intercept도 2019년 3월 아카이브 운영을 종료함 공개 중단과 취재 중단은 서로 다름 . The Guardian은 문서 공개를 멈...",
-   "publishedAt": 1789956095000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
-   "url": "https://bend-lang.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49746163",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 613,
-   "comments": 321,
-   "publishedAt": 1789677373000,
-   "isAI": true,
-   "score": 32.4,
-   "hot": false,
-   "lastWeekRank": 43
-  },
-  {
-   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-   "url": "https://www.hacktron.ai/blog/hacking-openai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49749656",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 488,
-   "comments": 208,
-   "publishedAt": 1789699644000,
-   "isAI": true,
-   "score": 32.3,
-   "hot": false,
-   "lastWeekRank": 41
-  },
-  {
-   "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-   "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-   "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-   "publishedAt": 1790029478000,
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.3,
    "hot": false
   }
  ]
