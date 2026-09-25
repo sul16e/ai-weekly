@@ -1,5 +1,5 @@
 {
- "updatedAt": 1790321782041,
+ "updatedAt": 1790327072884,
  "week": "2026-W39",
  "items": [
   {
@@ -9,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 609,
+   "engagement": 611,
    "comments": 366,
    "publishedAt": 1790238183000,
    "isAI": true,
-   "score": 54.8,
+   "score": 54.1,
+   "hot": false
+  },
+  {
+   "title": "Google에 작별을 고하며",
+   "url": "https://news.hada.io/topic?id=34259",
+   "summary": "Google에서 칩 설계 도구를 개발하던 Robert O'Callahan이 AI 발전을 가속하는 일에 대한 우려 로 퇴사를 결정함. AI의 발전 속도가 사람들이 이해하고 적응할 수 있는 수준을 이미 크게 넘어섰다고 판단함 직접 AI 모델을 개발하지 않더라도 칩 설계 도구 개선 은 A...",
+   "publishedAt": 1790325249000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
    "hot": true
   },
   {
@@ -23,12 +37,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 763,
-   "comments": 784,
+   "engagement": 766,
+   "comments": 786,
    "publishedAt": 1790186807000,
    "isAI": true,
-   "score": 49.9,
+   "score": 49.3,
    "hot": false
+  },
+  {
+   "title": "Goodbye Google",
+   "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49840314",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 180,
+   "comments": 220,
+   "publishedAt": 1790311922000,
+   "isAI": false,
+   "score": 47.5,
+   "hot": true
   },
   {
    "title": "Best LLM for every budget, updated daily",
@@ -37,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 172,
+   "engagement": 173,
    "comments": 106,
    "publishedAt": 1790258997000,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -52,10 +80,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 379,
-   "comments": 422,
+   "comments": 423,
    "publishedAt": 1790210491000,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.2,
    "hot": false
   },
   {
@@ -69,21 +97,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.6,
+   "score": 46.9,
    "hot": true
   },
   {
-   "title": "Goodbye Google",
-   "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49840314",
+   "title": "Two-tier encryption in the UK",
+   "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49828731",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 166,
-   "comments": 181,
-   "publishedAt": 1790311922000,
+   "engagement": 446,
+   "comments": 398,
+   "publishedAt": 1790246359000,
    "isAI": false,
-   "score": 47.5,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -93,26 +121,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 256,
-   "comments": 259,
+   "engagement": 257,
+   "comments": 260,
    "publishedAt": 1790227270000,
    "isAI": true,
-   "score": 47,
+   "score": 46.4,
    "hot": false
-  },
-  {
-   "title": "Two-tier encryption in the UK",
-   "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49828731",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 433,
-   "comments": 388,
-   "publishedAt": 1790246359000,
-   "isAI": false,
-   "score": 46.9,
-   "hot": true
   },
   {
    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
@@ -121,25 +135,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 281,
-   "comments": 111,
+   "engagement": 299,
+   "comments": 115,
    "publishedAt": 1790270496000,
    "isAI": false,
-   "score": 46.5,
-   "hot": true
-  },
-  {
-   "title": "Archify - 코드와 설명을 탐색 가능한 시스템 다이어그램으로 만드는 에이전트 스킬",
-   "url": "https://news.hada.io/topic?id=34248",
-   "summary": "코드베이스를 분석하거나 시스템을 말로 설명하면, 구성 요소와 연결 관계를 직접 탐색할 수 있는 다이어그램 을 생성 Cursor/Claude Code/Codex CLI/OpenCode에서 사용하며, 저장소 없이 자연어 설명만으로도 시작 가능 아키텍처/워크플로/시퀀스/데이터 흐름/생명...",
-   "publishedAt": 1790296202000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.4,
+   "score": 46.3,
    "hot": true
   },
   {
@@ -153,8 +153,36 @@
    "comments": 843,
    "publishedAt": 1790100034000,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.9,
    "hot": false
+  },
+  {
+   "title": "Archify - 코드와 설명을 탐색 가능한 시스템 다이어그램으로 만드는 에이전트 스킬",
+   "url": "https://news.hada.io/topic?id=34248",
+   "summary": "코드베이스를 분석하거나 시스템을 말로 설명하면, 구성 요소와 연결 관계를 직접 탐색할 수 있는 다이어그램 을 생성 Cursor/Claude Code/Codex CLI/OpenCode에서 사용하며, 저장소 없이 자연어 설명만으로도 시작 가능 아키텍처/워크플로/시퀀스/데이터 흐름/생명...",
+   "publishedAt": 1790296202000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 45.7,
+   "hot": true
+  },
+  {
+   "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+   "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49829650",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 156,
+   "comments": 216,
+   "publishedAt": 1790252621000,
+   "isAI": true,
+   "score": 45.6,
+   "hot": true
   },
   {
    "title": "Claude Opus 5.5",
@@ -164,24 +192,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 1793,
-   "comments": 1118,
+   "comments": 1117,
    "publishedAt": 1790094545000,
    "isAI": true,
-   "score": 45.9,
-   "hot": false
-  },
-  {
-   "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-   "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49829650",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 146,
-   "comments": 204,
-   "publishedAt": 1790252621000,
-   "isAI": true,
-   "score": 45.8,
+   "score": 45.5,
    "hot": false
   },
   {
@@ -192,10 +206,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 252,
-   "comments": 193,
+   "comments": 195,
    "publishedAt": 1790217888000,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.2,
    "hot": false
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -219,12 +233,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 253,
-   "comments": 109,
+   "engagement": 256,
+   "comments": 111,
    "publishedAt": 1790265026000,
    "isAI": false,
-   "score": 45,
+   "score": 44.4,
    "hot": true
+  },
+  {
+   "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+   "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49829387",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 136,
+   "comments": 49,
+   "publishedAt": 1790250878000,
+   "isAI": true,
+   "score": 44.4,
+   "hot": false
   },
   {
    "title": "DHH의 Rails World 2026 개막 기조연설 [영상]",
@@ -237,36 +265,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.4,
    "hot": true
-  },
-  {
-   "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-   "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49829387",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 134,
-   "comments": 49,
-   "publishedAt": 1790250878000,
-   "isAI": true,
-   "score": 44.9,
-   "hot": false
-  },
-  {
-   "title": "AI safety is mostly a sex cult in Berkeley",
-   "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49831269",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 114,
-   "comments": 30,
-   "publishedAt": 1790260711000,
-   "isAI": true,
-   "score": 44.8,
-   "hot": false
   },
   {
    "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
@@ -275,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 290,
-   "comments": 295,
+   "engagement": 296,
+   "comments": 300,
    "publishedAt": 1790254688000,
    "isAI": false,
-   "score": 44.8,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -289,11 +289,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 303,
+   "engagement": 304,
    "comments": 210,
    "publishedAt": 1790197308000,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.3,
+   "hot": false
+  },
+  {
+   "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+   "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49831690",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 112,
+   "comments": 175,
+   "publishedAt": 1790262578000,
+   "isAI": true,
+   "score": 44.2,
+   "hot": false
+  },
+  {
+   "title": "AI safety is mostly a sex cult in Berkeley",
+   "url": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49831269",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 115,
+   "comments": 29,
+   "publishedAt": 1790260711000,
+   "isAI": true,
+   "score": 44.2,
    "hot": false
   },
   {
@@ -307,7 +335,7 @@
    "comments": 282,
    "publishedAt": 1790165733000,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -321,21 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.6,
-   "hot": true
-  },
-  {
-   "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-   "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49831690",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 107,
-   "comments": 174,
-   "publishedAt": 1790262578000,
-   "isAI": true,
-   "score": 44.5,
+   "score": 43.9,
    "hot": false
   },
   {
@@ -345,11 +359,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 596,
-   "comments": 260,
+   "engagement": 599,
+   "comments": 262,
    "publishedAt": 1790203096000,
    "isAI": false,
-   "score": 44.3,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -359,25 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 251,
+   "engagement": 252,
    "comments": 256,
    "publishedAt": 1790197308000,
    "isAI": true,
-   "score": 43.5,
-   "hot": false
-  },
-  {
-   "title": "Meta VR Glasses",
-   "url": "https://www.meta.com/vr-glasses/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49824268",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 483,
-   "comments": 462,
-   "publishedAt": 1790207276000,
-   "isAI": false,
-   "score": 43.3,
+   "score": 43,
    "hot": false
   },
   {
@@ -388,10 +388,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 329,
-   "comments": 147,
+   "comments": 148,
    "publishedAt": 1790177363000,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.8,
+   "hot": false
+  },
+  {
+   "title": "Meta VR Glasses",
+   "url": "https://www.meta.com/vr-glasses/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49824268",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 484,
+   "comments": 463,
+   "publishedAt": 1790207276000,
+   "isAI": false,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -402,10 +416,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 951,
-   "comments": 540,
+   "comments": 539,
    "publishedAt": 1790103818000,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.7,
+   "hot": false
+  },
+  {
+   "title": "Ideas on modernizing the open-source desktop",
+   "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49825642",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 391,
+   "comments": 505,
+   "publishedAt": 1790218329000,
+   "isAI": false,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -419,21 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
-   "hot": false
-  },
-  {
-   "title": "Ideas on modernizing the open-source desktop",
-   "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49825642",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 390,
-   "comments": 500,
-   "publishedAt": 1790218329000,
-   "isAI": false,
-   "score": 42.9,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -443,11 +457,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 307,
-   "comments": 245,
+   "engagement": 308,
+   "comments": 246,
    "publishedAt": 1790176462000,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -461,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -471,11 +485,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 226,
+   "engagement": 227,
    "comments": 110,
    "publishedAt": 1790248119000,
    "isAI": false,
-   "score": 42.1,
+   "score": 41.6,
    "hot": true
   },
   {
@@ -489,7 +503,21 @@
    "comments": 150,
    "publishedAt": 1790191420000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.6,
+   "hot": false
+  },
+  {
+   "title": "OpenAI 에이전트가 호주 정부 웹사이트를 해킹했다고 호주 총리가 밝힘",
+   "url": "https://news.hada.io/topic?id=34228",
+   "summary": "자율형 OpenAI 에이전트 가 호주 공공의료보험 Medicare의 통계 포털에 침입함. OpenAI는 환자 데이터에 접근한 기록을 찾지 못했다고 밝힘 침입은 6월 18일 발생했지만 OpenAI는 8월에 잠재적 침해를 인지하고 9월 10일 정부에 통보함. Anthony Albanese 총리는",
+   "publishedAt": 1790260512000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -503,22 +531,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 42,
+   "score": 41.3,
    "hot": true
-  },
-  {
-   "title": "OpenAI 에이전트가 호주 정부 웹사이트를 해킹했다고 호주 총리가 밝힘",
-   "url": "https://news.hada.io/topic?id=34228",
-   "summary": "자율형 OpenAI 에이전트 가 호주 공공의료보험 Medicare의 통계 포털에 침입함. OpenAI는 환자 데이터에 접근한 기록을 찾지 못했다고 밝힘 침입은 6월 18일 발생했지만 OpenAI는 8월에 잠재적 침해를 인지하고 9월 10일 정부에 통보함. Anthony Albanese 총리는",
-   "publishedAt": 1790260512000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 42,
-   "hot": false
   },
   {
    "title": "자료를 찾다 막히자 해킹을 시도한 AI 에이전트들",
@@ -531,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41,
    "hot": false
   },
   {
@@ -545,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -555,11 +569,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 171,
-   "comments": 312,
+   "engagement": 178,
+   "comments": 360,
    "publishedAt": 1790258009000,
    "isAI": false,
-   "score": 41,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -573,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -587,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -601,22 +615,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40,
    "hot": true
-  },
-  {
-   "title": "Mercury 2.5 LLM hits 770 tokens per second",
-   "url": "https://artificialanalysis.ai/models/mercury-2-5",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49823348",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 148,
-   "comments": 89,
-   "publishedAt": 1790201779000,
-   "isAI": true,
-   "score": 40.3,
-   "hot": false
   },
   {
    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
@@ -629,7 +629,21 @@
    "comments": 442,
    "publishedAt": 1790085135000,
    "isAI": true,
-   "score": 40.3,
+   "score": 39.9,
+   "hot": false
+  },
+  {
+   "title": "Mercury 2.5 LLM hits 770 tokens per second",
+   "url": "https://artificialanalysis.ai/models/mercury-2-5",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49823348",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 148,
+   "comments": 89,
+   "publishedAt": 1790201779000,
+   "isAI": true,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -643,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -657,7 +671,7 @@
    "comments": 3,
    "publishedAt": 1790213040000,
    "isAI": true,
-   "score": 40,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -671,7 +685,7 @@
    "comments": 210,
    "publishedAt": 1790148383000,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -685,7 +699,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -699,7 +713,7 @@
    "comments": 208,
    "publishedAt": 1790166720000,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -713,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39,
    "hot": true
   },
   {
@@ -727,8 +741,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.8,
    "hot": true
+  },
+  {
+   "title": "Oracle cites 'force majeure' to shield itself on controversial data center",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49830037",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 142,
+   "comments": 137,
+   "publishedAt": 1790255061000,
+   "isAI": false,
+   "score": 38.7,
+   "hot": false
   },
   {
    "title": "OpenAI 에이전트, 호주 Medicare 통계 포털 무단 침입",
@@ -741,21 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.3,
-   "hot": false
-  },
-  {
-   "title": "Oracle cites 'force majeure' to shield itself on controversial data center",
-   "url": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49830037",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 141,
-   "comments": 136,
-   "publishedAt": 1790255061000,
-   "isAI": false,
-   "score": 39.2,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -769,21 +783,7 @@
    "comments": 117,
    "publishedAt": 1790170680000,
    "isAI": true,
-   "score": 38.9,
-   "hot": false
-  },
-  {
-   "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-   "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-   "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-   "publishedAt": 1790312400000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 38.9,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -797,7 +797,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.4,
+   "hot": false
+  },
+  {
+   "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+   "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+   "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+   "publishedAt": 1790312400000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -811,36 +825,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.2,
    "hot": true
-  },
-  {
-   "title": "Toyota, Corolla 전기차 출시 준비",
-   "url": "https://news.hada.io/topic?id=34246",
-   "summary": "1966년 출시 이후 전 세계에서 5,700만 대 이상 팔린 코롤라 에 처음으로 순수 전기차와 플러그인 하이브리드 모델을 추가 할 예정 기존 가솔린과 하이브리드도 유지하며, 하나의 플랫폼에서 여러 동력원을 지원 하도록 차체 기반을 개편하고 외관과...",
-   "publishedAt": 1790292816000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.6,
-   "hot": true
-  },
-  {
-   "title": "미 연방정부, AI 비판자들을 ‘외국 대리인’으로 겨냥",
-   "url": "https://news.hada.io/topic?id=34213",
-   "summary": "Trump 행정부 가 AI와 데이터센터 반대 여론을 중국의 영향력 행사와 연결하는 가운데, 법무부는 외국 세력의 목표를 돕는 공개 활동에 정부 신고 의무와 형사책임이 따를 수 있다고 경고함 의회 공화당 지도부 도 데이터센터 반대 활동에 대한 외국 개입 조사를 요구...",
-   "publishedAt": 1790228077000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.6,
-   "hot": false
   },
   {
    "title": "Claude's Load-Bearing Seams",
@@ -853,7 +839,7 @@
    "comments": 49,
    "publishedAt": 1790199064000,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -867,7 +853,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -881,7 +867,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -895,7 +881,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -909,8 +895,36 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
+  },
+  {
+   "title": "미 연방정부, AI 비판자들을 ‘외국 대리인’으로 겨냥",
+   "url": "https://news.hada.io/topic?id=34213",
+   "summary": "Trump 행정부 가 AI와 데이터센터 반대 여론을 중국의 영향력 행사와 연결하는 가운데, 법무부는 외국 세력의 목표를 돕는 공개 활동에 정부 신고 의무와 형사책임이 따를 수 있다고 경고함 의회 공화당 지도부 도 데이터센터 반대 활동에 대한 외국 개입 조사를 요구...",
+   "publishedAt": 1790228077000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 38.1,
+   "hot": false
+  },
+  {
+   "title": "Toyota, Corolla 전기차 출시 준비",
+   "url": "https://news.hada.io/topic?id=34246",
+   "summary": "1966년 출시 이후 전 세계에서 5,700만 대 이상 팔린 코롤라 에 처음으로 순수 전기차와 플러그인 하이브리드 모델을 추가 할 예정 기존 가솔린과 하이브리드도 유지하며, 하나의 플랫폼에서 여러 동력원을 지원 하도록 차체 기반을 개편하고 외관과...",
+   "publishedAt": 1790292816000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38,
+   "hot": true
   },
   {
    "title": "간은 왜 유독 재생 능력이 뛰어날까?",
@@ -923,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -937,7 +951,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -951,7 +965,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.5,
+   "score": 37,
    "hot": false
   },
   {
@@ -965,8 +979,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "CLM - 문장을 생성하는 대신 다음 행동을 고르는 대조 언어 모델",
@@ -979,8 +993,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.6,
+   "hot": false
   },
   {
    "title": "폴란드 Starlink 지상국에서 화재, 방화 공격 의심",
@@ -993,8 +1007,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.5,
+   "hot": false
   },
   {
    "title": "GitHub, 3주가 지나도록 악성 모방 소프트웨어를 삭제하지 않음",
@@ -1007,35 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
-  },
-  {
-   "title": "Claude.ai를 2주 만에 3배 빠르게 만든 방법",
-   "url": "https://news.hada.io/topic?id=34206",
-   "summary": "웹과 데스크톱 앱에서 실행, 대화 시작, 기존 대화 로딩, 메시지 전송 등 사용자 활동의 95%를 차지하는 흐름 을 개선해 핵심 이용 구간을 약 3배 빠르게 만듦 웹페이지를 열어 입력할 수 있을 때까지의 시간은 75백분위 기준 3.1초에서 0.55초 로 줄었고, 긴 응답을...",
-   "publishedAt": 1790210215000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 36.9,
-   "hot": false
-  },
-  {
-   "title": "내가 바라는 GNOME의 LLM 정책",
-   "url": "https://news.hada.io/topic?id=34202",
-   "summary": "GNOME의 LLM 정책은 개발 작업 방식을 세세하게 관리하기보다, 공동체가 환영하고 거부하는 행동을 알리는 사회적 규범 이어야 한다는 개인 제안임 제안된 정책은 GNOME에 제출하거나 GNOME 인프라에 호스팅하는 모든 것을 LLM으로 생성하거나 수정하는 행위 를 금지...",
-   "publishedAt": 1790208796000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -1049,7 +1035,35 @@
    "comments": 105,
    "publishedAt": 1790095891000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.4,
+   "hot": false
+  },
+  {
+   "title": "Claude.ai를 2주 만에 3배 빠르게 만든 방법",
+   "url": "https://news.hada.io/topic?id=34206",
+   "summary": "웹과 데스크톱 앱에서 실행, 대화 시작, 기존 대화 로딩, 메시지 전송 등 사용자 활동의 95%를 차지하는 흐름 을 개선해 핵심 이용 구간을 약 3배 빠르게 만듦 웹페이지를 열어 입력할 수 있을 때까지의 시간은 75백분위 기준 3.1초에서 0.55초 로 줄었고, 긴 응답을...",
+   "publishedAt": 1790210215000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 36.4,
+   "hot": false
+  },
+  {
+   "title": "내가 바라는 GNOME의 LLM 정책",
+   "url": "https://news.hada.io/topic?id=34202",
+   "summary": "GNOME의 LLM 정책은 개발 작업 방식을 세세하게 관리하기보다, 공동체가 환영하고 거부하는 행동을 알리는 사회적 규범 이어야 한다는 개인 제안임 제안된 정책은 GNOME에 제출하거나 GNOME 인프라에 호스팅하는 모든 것을 LLM으로 생성하거나 수정하는 행위 를 금지...",
+   "publishedAt": 1790208796000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -1063,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -1077,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -1091,21 +1105,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "사람을 위한 KDE",
-   "url": "https://news.hada.io/topic?id=34201",
-   "summary": "KDE 사용자와 기여자 모임이 KDE Plasma Desktop과 관련 구성 요소에서 생성형 AI를 금지하는 정책 채택을 요구함 금지 요구는 개별 커밋의 AI 사용 비율을 정확히 가려내기보다, 사람 중심의 공동체 와 개인정보 보호, 통제권이라는 KDE의 가치를 지키는 데 초점을...",
-   "publishedAt": 1790208616000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 36.7,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -1119,7 +1119,7 @@
    "comments": 597,
    "publishedAt": 1790087412000,
    "isAI": false,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1133,7 +1133,7 @@
    "comments": 550,
    "publishedAt": 1790079069000,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1147,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1161,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1175,7 +1175,7 @@
    "comments": 226,
    "publishedAt": 1790088179000,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1189,21 +1189,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "영국의 이원화된 암호화 보호, 같은 Apple 기기에도 다른 보호 수준",
-   "url": "https://news.hada.io/topic?id=34229",
-   "summary": "영국에서는 Advanced Data Protection(ADP) 을 2025년 2월 신규 활성화 중단 전에 켰는지에 따라, 같은 기기와 iCloud 서비스를 사용하는 고객도 서로 다른 수준의 데이터 보호를 받음 영국 정부는 Apple에 ADP로 암호화된 데이터에 접근할 기술적 능력 을 요구한 것...",
-   "publishedAt": 1790264217000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.6,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1217,21 +1203,7 @@
    "comments": 65,
    "publishedAt": 1790211743000,
    "isAI": false,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-   "url": "https://openai.com/index/airbnb-gpt-6-astra",
-   "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-   "publishedAt": 1790125200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1245,7 +1217,35 @@
    "comments": 695,
    "publishedAt": 1790064295000,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+   "url": "https://openai.com/index/airbnb-gpt-6-astra",
+   "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+   "publishedAt": 1790125200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "영국의 이원화된 암호화 보호, 같은 Apple 기기에도 다른 보호 수준",
+   "url": "https://news.hada.io/topic?id=34229",
+   "summary": "영국에서는 Advanced Data Protection(ADP) 을 2025년 2월 신규 활성화 중단 전에 켰는지에 따라, 같은 기기와 iCloud 서비스를 사용하는 고객도 서로 다른 수준의 데이터 보호를 받음 영국 정부는 Apple에 ADP로 암호화된 데이터에 접근할 기술적 능력 을 요구한 것...",
+   "publishedAt": 1790264217000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1259,21 +1259,7 @@
    "comments": 123,
    "publishedAt": 1790100953000,
    "isAI": true,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "Samsung accidentally freezes its smart fridges with a software update",
-   "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49815381",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 243,
-   "comments": 277,
-   "publishedAt": 1790168279000,
-   "isAI": false,
-   "score": 35.2,
+   "score": 35,
    "hot": false
   },
   {
@@ -1287,7 +1273,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.2,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "Samsung accidentally freezes its smart fridges with a software update",
+   "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49815381",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 243,
+   "comments": 277,
+   "publishedAt": 1790168279000,
+   "isAI": false,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1301,7 +1301,7 @@
    "comments": 269,
    "publishedAt": 1790110830000,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1315,21 +1315,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "Show GN: Malkuth - 다국어 한국어 분류 특화 Jev like system one model (4B/2B)",
-   "url": "https://news.hada.io/topic?id=34226",
-   "summary": "텍스트와 질문, 선택지를 주면 답을 생성하는 대신 각 선택지의 확률을 돌려주는 모델 4B와 2B 두 가지. Kev(Apache-2.0) 체크포인트에서 post-training했고 TypeSafe System One API와 호환 측정 공개 벤치마크 29개 suite, 약 129,000 질문. 모든 모델이 같은 문항을 풀었고 Jev는 API",
-   "publishedAt": 1790256579000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1343,21 +1329,21 @@
    "comments": 531,
    "publishedAt": 1790005815000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
-   "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-   "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-   "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
-   "publishedAt": 1790271564000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
+   "title": "Show GN: Malkuth - 다국어 한국어 분류 특화 Jev like system one model (4B/2B)",
+   "url": "https://news.hada.io/topic?id=34226",
+   "summary": "텍스트와 질문, 선택지를 주면 답을 생성하는 대신 각 선택지의 확률을 돌려주는 모델 4B와 2B 두 가지. Kev(Apache-2.0) 체크포인트에서 post-training했고 TypeSafe System One API와 호환 측정 공개 벤치마크 29개 suite, 약 129,000 질문. 모든 모델이 같은 문항을 풀었고 Jev는 API",
+   "publishedAt": 1790256579000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
    "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.6,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1371,7 +1357,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+   "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+   "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+   "publishedAt": 1790271564000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "A brief history of Windows scroll bar shortcuts",
+   "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49820065",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 172,
+   "comments": 115,
+   "publishedAt": 1790186528000,
+   "isAI": false,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1385,21 +1399,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "내 메시 네트워크는 암호화 대신 서명되길 바란다",
-   "url": "https://news.hada.io/topic?id=34225",
-   "summary": "아마추어 무선 대역에서 메시 네트워크를 운용할 수 있도록, 메시지를 암호화하지 않고 평문에 서명하는 프로토콜 을 제안함 Meshtastic과 Meshcore 는 손쉽게 메시 네트워크를 구축하게 해주지만, 기본 암호화를 끄기 번거롭거나 불가능해 암호화 송신을 할 수 없는...",
-   "publishedAt": 1790251312000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.4,
+   "score": 33.9,
    "hot": false
   }
  ]
