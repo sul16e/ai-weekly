@@ -1,5 +1,5 @@
 {
- "updatedAt": 1790736195651,
+ "updatedAt": 1790741888818,
  "week": "2026-W40",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 807,
-   "comments": 745,
+   "engagement": 836,
+   "comments": 758,
    "publishedAt": 1790701605000,
    "isAI": true,
-   "score": 65,
+   "score": 64.3,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 529,
-   "comments": 377,
+   "engagement": 532,
+   "comments": 383,
    "publishedAt": 1790699448000,
    "isAI": true,
-   "score": 61,
+   "score": 60.1,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 410,
+   "engagement": 412,
    "comments": 130,
    "publishedAt": 1790672621000,
    "isAI": true,
-   "score": 54.6,
+   "score": 53.9,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 194,
-   "comments": 284,
+   "engagement": 197,
+   "comments": 287,
    "publishedAt": 1790709685000,
    "isAI": true,
-   "score": 54,
+   "score": 53.3,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 442,
-   "comments": 315,
+   "engagement": 446,
+   "comments": 318,
    "publishedAt": 1790692353000,
    "isAI": false,
-   "score": 51.3,
+   "score": 50.5,
    "hot": true
   },
   {
@@ -79,12 +79,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 597,
-   "comments": 263,
+   "engagement": 599,
+   "comments": 264,
    "publishedAt": 1790625215000,
    "isAI": true,
-   "score": 51,
+   "score": 50.4,
    "hot": false
+  },
+  {
+   "title": "Show GN: Conn - AI와 함께 쓰고, 언제든 내가 끼어드는 터미널",
+   "url": "https://news.hada.io/topic?id=34530",
+   "summary": "회사 사내망에서는 GitHub Copilot만 쓸 수 있어 터미널을 연결해 작업을 맡겨봤습니다. 원치 않는 스크립트를 실행하는데, 위험한 명령을 막거나 중간에 끼어들기가 어렵더군요. iTerm MCP도 고려했지만, 제가 필요했던 건 명령에 규칙을 정하고 언제든 직접 개입할 수 있는 터미널이었습니다. 그래서 Conn을",
+   "publishedAt": 1790739587000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
+   "hot": true
   },
   {
    "title": "Claude partial outage",
@@ -93,11 +107,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 170,
+   "engagement": 171,
    "comments": 143,
    "publishedAt": 1790691941000,
    "isAI": true,
-   "score": 50.2,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "OpenAI, Jev와 경쟁할 Luna 기반 Decision API 공개",
+   "url": "https://news.hada.io/topic?id=34528",
+   "summary": "OpenAI가 DevDay에서 소형 모델 Luna 기반의 Decision API를 공개 개발자가 질문, 답변 후보, 맥락을 입력하면 미리 정한 답변 후보에 신뢰도 점수를 제공하는 방식 주요 활용처는 콘텐츠 분류, 요청 라우팅, AI 에이전트의 다음 행동 선택 OpenAI 발표 기준 응답 시간은 1...",
+   "publishedAt": 1790738833000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "Show GN: Barracks - macOS에서 여러 Claude/ChatGPT 앱 돌리기",
+   "url": "https://news.hada.io/topic?id=34527",
+   "summary": "Claude(Code) & ChatGPT(Codex)를 CLI 대신 앱으로 쓰기 시작한 지 좀 됐는데 두 앱 모두 앱 내 계정 스위치를 지원하지 않아 --user-data-dir 를 설정해서 띄우는 방식으로 여러 인스턴스를 띄워 사용했으나 관리가 귀찮고 앱 업데이트 때마다 다른 앱을 끄기 전까지 업데이트가 되지 않거나 앱이 튕...",
+   "publishedAt": 1790737395000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.3,
    "hot": true
   },
   {
@@ -111,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.7,
+   "score": 48.9,
    "hot": true
   },
   {
@@ -125,21 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.7,
-   "hot": true
-  },
-  {
-   "title": "Livenerf - Opus 5.5는 벌써 성능이 하향됐을까?",
-   "url": "https://news.hada.io/topic?id=34519",
-   "summary": "“출시 직후보다 모델이 나빠졌다”는 체감이 실제 성능 변화인지 확인하기 위해, 같은 문제를 매일 풀게 하고 결과를 비교 하는 벤치마크 원시 API가 아니라 Claude Code 구독으로 사용하는 Opus 5.5 를 측정해, 실제 구독 환경에서의 변화를 추적함 프롬프...",
-   "publishedAt": 1790732020000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 49.4,
+   "score": 48.8,
    "hot": true
   },
   {
@@ -153,7 +181,21 @@
    "comments": 40,
    "publishedAt": 1790691324000,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.6,
+   "hot": true
+  },
+  {
+   "title": "Livenerf - Opus 5.5는 벌써 성능이 하향됐을까?",
+   "url": "https://news.hada.io/topic?id=34519",
+   "summary": "“출시 직후보다 모델이 나빠졌다”는 체감이 실제 성능 변화인지 확인하기 위해, 같은 문제를 매일 풀게 하고 결과를 비교 하는 벤치마크 원시 API가 아니라 Claude Code 구독으로 사용하는 Opus 5.5 를 측정해, 실제 구독 환경에서의 변화를 추적함 프롬프...",
+   "publishedAt": 1790732020000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -167,7 +209,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.1,
    "hot": false
   },
   {
@@ -181,8 +223,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.1,
    "hot": false
+  },
+  {
+   "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+   "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49891550",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 368,
+   "comments": 365,
+   "publishedAt": 1790682265000,
+   "isAI": false,
+   "score": 47.6,
+   "hot": true
   },
   {
    "title": "Anthropic, “GLM-5.3의 익스플로잇 개발 능력은 Mythos Preview에 근접”",
@@ -195,21 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
-   "hot": true
-  },
-  {
-   "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
-   "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49891550",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 366,
-   "comments": 359,
-   "publishedAt": 1790682265000,
-   "isAI": false,
-   "score": 48.3,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -223,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47,
    "hot": true
   },
   {
@@ -237,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -251,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -265,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -275,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 381,
+   "engagement": 382,
    "comments": 239,
    "publishedAt": 1790611902000,
    "isAI": true,
-   "score": 46.4,
+   "score": 45.8,
    "hot": false
   },
   {
@@ -289,11 +331,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 885,
-   "comments": 860,
+   "engagement": 891,
+   "comments": 868,
    "publishedAt": 1790609538000,
    "isAI": false,
-   "score": 46.1,
+   "score": 45.6,
    "hot": false
   },
   {
@@ -307,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -321,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -335,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -349,7 +391,7 @@
    "comments": 113,
    "publishedAt": 1790621933000,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.6,
    "hot": false
   },
   {
@@ -363,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -377,22 +419,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.3,
    "hot": true
-  },
-  {
-   "title": "Introducing dots",
-   "url": "https://openai.com/index/introducing-dots",
-   "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-   "publishedAt": 1790640000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 44.5,
-   "hot": false
   },
   {
    "title": "AI companies in race to demonstrate their model most threatening to humanity",
@@ -405,7 +433,7 @@
    "comments": 392,
    "publishedAt": 1790584540000,
    "isAI": true,
-   "score": 44.4,
+   "score": 43.9,
    "hot": false
   },
   {
@@ -415,11 +443,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1960,
-   "comments": 1089,
+   "engagement": 1964,
+   "comments": 1091,
    "publishedAt": 1790539974000,
    "isAI": false,
-   "score": 44.3,
+   "score": 43.9,
+   "hot": false
+  },
+  {
+   "title": "Introducing dots",
+   "url": "https://openai.com/index/introducing-dots",
+   "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+   "publishedAt": 1790640000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -429,11 +471,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 189,
-   "comments": 130,
+   "engagement": 193,
+   "comments": 133,
    "publishedAt": 1790691135000,
    "isAI": false,
-   "score": 44,
+   "score": 43.5,
    "hot": true
   },
   {
@@ -443,11 +485,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 520,
-   "comments": 172,
+   "engagement": 522,
+   "comments": 173,
    "publishedAt": 1790617884000,
    "isAI": false,
-   "score": 43.4,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -461,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -475,7 +517,7 @@
    "comments": 453,
    "publishedAt": 1790561113000,
    "isAI": false,
-   "score": 42.7,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -489,7 +531,7 @@
    "comments": 292,
    "publishedAt": 1790610396000,
    "isAI": true,
-   "score": 42.6,
+   "score": 42,
    "hot": false
   },
   {
@@ -503,7 +545,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.5,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -517,8 +559,36 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.5,
+   "score": 41.9,
    "hot": false
+  },
+  {
+   "title": "Rust에서 Arc 다운캐스팅을 갈망하며",
+   "url": "https://news.hada.io/topic?id=34532",
+   "summary": "동시성 캐시의 큰 값을 매번 복제하는 대신 Arc 를 사용하면, 전체 데이터를 복제하지 않고 읽기 접근이 가능한 소유 값을 저렴하게 복제할 수 있음 하지만 Arc 내부의 String 을 패턴 매칭으로 꺼내 Ar...",
+   "publishedAt": 1790741046000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.9,
+   "hot": true
+  },
+  {
+   "title": "Show GN: 내일쓰기 - 글 없이 감정과 깊이만 골라도 기록할 수 있는 감정 일기 앱",
+   "url": "https://news.hada.io/topic?id=34531",
+   "summary": "안녕하세요. 감정 일기 앱 ‘내일쓰기’를 만들고 있습니다. 상담을 받으며 매일 감정을 적어보라는 권유를 받았는데, 정작 힘든 날에는 한 줄도 쓰기 어려웠습니다. 쓸 말이 없어서가 아니라 문장으로 정리할 기운이 없었습니다. 그런 날에도 기록을 남길 수 있으면 좋겠다는 생각으로 시작했습니다.",
+   "publishedAt": 1790740104000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
@@ -531,8 +601,22 @@
    "comments": 138,
    "publishedAt": 1790638859000,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.3,
    "hot": false
+  },
+  {
+   "title": "Show GN: KeyHue — 타이핑하기 전에, 지금 한글인지 영문인지 화면 하단에 색으로 알려주는 macOS 메뉴바 앱",
+   "url": "https://news.hada.io/topic?id=34525",
+   "summary": "한/영을 오가며 작업하다 보면 터미널 명령이나 검색어를 엉뚱한 언어로 쳐서 다시 입력하는 일이 잦아서 만들었습니다. 메뉴바의 입력 소스 표시는 작아서 잘 안 보이더라고요. KeyHue는 macOS에서 실제로 선택된 입력 소스를 화면 가장자리의 얇은 색 라인으로 표시하는 메뉴바 앱입니다. 한/영 키를 눌렀는",
+   "publishedAt": 1790736462000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
   },
   {
    "title": "미국 우편수사 당국, 위조 우편요금 라벨 판매 웹사이트 폐쇄",
@@ -545,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -559,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -573,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -587,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -601,8 +685,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.1,
    "hot": true
+  },
+  {
+   "title": "World Labs is Joining AMD",
+   "url": "https://www.worldlabs.ai/blog/amd-announcement",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49883760",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 304,
+   "comments": 117,
+   "publishedAt": 1790626685000,
+   "isAI": false,
+   "score": 40,
+   "hot": false
   },
   {
    "title": "스태프 엔지니어를 위한 일감 발굴 가이드",
@@ -615,22 +713,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40,
    "hot": true
-  },
-  {
-   "title": "World Labs is Joining AMD",
-   "url": "https://www.worldlabs.ai/blog/amd-announcement",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49883760",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 303,
-   "comments": 117,
-   "publishedAt": 1790626685000,
-   "isAI": false,
-   "score": 40.5,
-   "hot": false
   },
   {
    "title": "Nvidia, AI 에이전트의 접근과 행동을 제한하는 안전 플랫폼 공개",
@@ -643,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.3,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -657,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -671,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -685,7 +769,7 @@
    "comments": 297,
    "publishedAt": 1790607261000,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -699,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -713,22 +797,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.1,
    "hot": true
-  },
-  {
-   "title": "그렇다, 이제 AI가 없는 것도 기능이다",
-   "url": "https://news.hada.io/topic?id=34470",
-   "summary": "LibreOffice는 AI 자체를 거부하지 않지만 , 사용자 통제와 프로젝트 원칙을 모두 충족하는 통합 방식이 나오기 전까지 기본 설치에 AI를 넣지 않음 AI 기능은 추론 위치를 사용자가 선택 할 수 있어야 하며, 승인 없는 문서 전송과 사용 데이터 수집을 허용하지 않아...",
-   "publishedAt": 1790650928000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.4,
-   "hot": false
   },
   {
    "title": "Prompting Claude Opus 5.5",
@@ -741,21 +811,21 @@
    "comments": 222,
    "publishedAt": 1790580809000,
    "isAI": true,
-   "score": 39.3,
+   "score": 38.8,
    "hot": false
   },
   {
-   "title": "MicroLLM Lab - 브라우저에서 초소형 LLM 7개 체험하기",
-   "url": "https://news.hada.io/topic?id=34468",
-   "summary": "별도 설치나 계정 없이 소형 언어 모델 7개를 브라우저에서 실행 하고, 직접 대화하며 답변과 속도를 비교하는 실험 도구 PetitGPT, SmolLM2, MiniMind2, GPT-2 등을 제공하며, 모델 크기는 약 15~216MB 로 선택한 모델을 내려받아 브라우저에 저장함",
-   "publishedAt": 1790649202000,
+   "title": "그렇다, 이제 AI가 없는 것도 기능이다",
+   "url": "https://news.hada.io/topic?id=34470",
+   "summary": "LibreOffice는 AI 자체를 거부하지 않지만 , 사용자 통제와 프로젝트 원칙을 모두 충족하는 통합 방식이 나오기 전까지 기본 설치에 AI를 넣지 않음 AI 기능은 추론 위치를 사용자가 선택 할 수 있어야 하며, 승인 없는 문서 전송과 사용 데이터 수집을 허용하지 않아...",
+   "publishedAt": 1790650928000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -765,11 +835,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 169,
+   "engagement": 170,
    "comments": 80,
    "publishedAt": 1790593332000,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
+   "hot": false
+  },
+  {
+   "title": "Show HN: NSL – WSL for Linux",
+   "url": "https://frostyard.github.io/nsl/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49894351",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 101,
+   "comments": 73,
+   "publishedAt": 1790693496000,
+   "isAI": false,
+   "score": 38.4,
+   "hot": false
+  },
+  {
+   "title": "There are no \"rogue\" AI agents",
+   "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49868083",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 394,
+   "comments": 268,
+   "publishedAt": 1790525986000,
+   "isAI": true,
+   "score": 38.4,
+   "hot": false
+  },
+  {
+   "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+   "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49863864",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 626,
+   "comments": 619,
+   "publishedAt": 1790489973000,
+   "isAI": true,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -783,36 +895,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.3,
    "hot": true
-  },
-  {
-   "title": "There are no \"rogue\" AI agents",
-   "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49868083",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 393,
-   "comments": 268,
-   "publishedAt": 1790525986000,
-   "isAI": true,
-   "score": 38.8,
-   "hot": false
-  },
-  {
-   "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-   "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49863864",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 626,
-   "comments": 618,
-   "publishedAt": 1790489973000,
-   "isAI": true,
-   "score": 38.8,
-   "hot": false
   },
   {
    "title": "Firebase SDK is crashing all iOS apps since this morning",
@@ -825,7 +909,7 @@
    "comments": 72,
    "publishedAt": 1790670388000,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -839,7 +923,21 @@
    "comments": 108,
    "publishedAt": 1790618687000,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.2,
+   "hot": false
+  },
+  {
+   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+   "publishedAt": 1790578800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 38,
    "hot": false
   },
   {
@@ -853,49 +951,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38,
    "hot": true
-  },
-  {
-   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-   "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-   "publishedAt": 1790578800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 38.5,
-   "hot": false
-  },
-  {
-   "title": "NobodyWho - 앱과 게임에 로컬 AI를 넣는 온디바이스 추론 엔진",
-   "url": "https://news.hada.io/topic?id=34463",
-   "summary": "클라우드 API 대신 사용자의 기기에서 AI 모델을 실행 해, 앱과 게임에 대화·이미지 이해·음성 기능을 넣는 오픈소스 추론 엔진 모델을 내려받으면 인터넷 연결이나 API 키 없이 실행 할 수 있으며, 사용자 입력을 외부 서버로 보내지 않고 처리 가능 Pytho...",
-   "publishedAt": 1790641802000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.5,
-   "hot": false
-  },
-  {
-   "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 34,
-   "publishedAt": 1790704548000,
-   "isAI": true,
-   "score": 38.3,
-   "hot": false
   },
   {
    "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
@@ -908,7 +965,20 @@
    "comments": 112,
    "publishedAt": 1790616814000,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.7,
+   "hot": false
+  },
+  {
+   "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 34,
+   "publishedAt": 1790704548000,
+   "isAI": true,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -922,7 +992,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -936,7 +1006,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -950,7 +1020,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -964,8 +1034,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "델리는 어떻게 전력 손실을 50%에서 5%로 줄였나",
@@ -978,8 +1048,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "OpenAI’s latest features take direct aim at the app store model",
@@ -992,7 +1062,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.3,
+   "score": 36.7,
+   "hot": false
+  },
+  {
+   "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+   "url": "https://arxiv.org/abs/2110.01834",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49873241",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 176,
+   "comments": 78,
+   "publishedAt": 1790565833000,
+   "isAI": true,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -1006,21 +1090,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.2,
-   "hot": false
-  },
-  {
-   "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-   "url": "https://arxiv.org/abs/2110.01834",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49873241",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 175,
-   "comments": 78,
-   "publishedAt": 1790565833000,
-   "isAI": true,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -1034,49 +1104,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-   "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-   "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-   "publishedAt": 1790706900000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "영국 역에서 얼굴 50만 건 스캔, 체포 0건에 오탐 1건",
-   "url": "https://news.hada.io/topic?id=34491",
-   "summary": "영국 교통경찰(BTP)이 런던 철도역에서 6개월간 실시간 얼굴 인식(LFR) 을 시험해 얼굴 50만 건 이상을 스캔했지만, 경보는 오탐 1건뿐이었고 경보에 따른 체포는 없었음 정보공개 자료에 따르면 총 18차례 운영에 32만 786파운드 와 경찰관 근무시간 약 100시간이 ...",
-   "publishedAt": 1790689328000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "당신은 더 이상 저녁 식사에 초대받지 못한다",
-   "url": "https://news.hada.io/topic?id=34490",
-   "summary": "미국에서 친구나 가족을 집에 월 1회 이상 초대한다는 응답 비율 이 1975년 42%에서 2026년 12%로 줄어, 반세기 동안 약 70% 감소함 집 안 모임이 식당이나 다른 활동으로 옮겨간 것만으로는 이 감소를 설명하기 어려움. 대면 교류 전반이 줄었고 , 운동 시간 증가도...",
-   "publishedAt": 1790689148000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -1090,7 +1118,49 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+   "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+   "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+   "publishedAt": 1790706900000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "영국 역에서 얼굴 50만 건 스캔, 체포 0건에 오탐 1건",
+   "url": "https://news.hada.io/topic?id=34491",
+   "summary": "영국 교통경찰(BTP)이 런던 철도역에서 6개월간 실시간 얼굴 인식(LFR) 을 시험해 얼굴 50만 건 이상을 스캔했지만, 경보는 오탐 1건뿐이었고 경보에 따른 체포는 없었음 정보공개 자료에 따르면 총 18차례 운영에 32만 786파운드 와 경찰관 근무시간 약 100시간이 ...",
+   "publishedAt": 1790689328000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "당신은 더 이상 저녁 식사에 초대받지 못한다",
+   "url": "https://news.hada.io/topic?id=34490",
+   "summary": "미국에서 친구나 가족을 집에 월 1회 이상 초대한다는 응답 비율 이 1975년 42%에서 2026년 12%로 줄어, 반세기 동안 약 70% 감소함 집 안 모임이 식당이나 다른 활동으로 옮겨간 것만으로는 이 감소를 설명하기 어려움. 대면 교류 전반이 줄었고 , 운동 시간 증가도...",
+   "publishedAt": 1790689148000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1104,7 +1174,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1118,7 +1188,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1132,7 +1202,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1146,7 +1216,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1160,7 +1230,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1174,7 +1244,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1188,7 +1258,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1202,7 +1272,7 @@
    "comments": 46,
    "publishedAt": 1790640408000,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1216,21 +1286,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "Show GN: Relio ERD - 브라우저에서 테이블과 관계를 설계하는 ERD 편집기",
-   "url": "https://news.hada.io/topic?id=34484",
-   "summary": "안녕하세요. 데이터베이스 스키마를 설계할 때 최대한 friction 없이 쉽게 테이블 필드를 추가하거나 연관관계를 만들고, 쉽게 읽을 수 있도록 만들어진 ERD 툴이 있으면 좋겠다고 생각해 이 웹사이트를 만들었습니다. 캔버스에서 테이블과 컬럼을 만들고 각각 데이터 타입, 기본 키, 관계를 설정할 수",
-   "publishedAt": 1790674923000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -1244,7 +1300,21 @@
    "comments": 103,
    "publishedAt": 1790530322000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "Show GN: Relio ERD - 브라우저에서 테이블과 관계를 설계하는 ERD 편집기",
+   "url": "https://news.hada.io/topic?id=34484",
+   "summary": "안녕하세요. 데이터베이스 스키마를 설계할 때 최대한 friction 없이 쉽게 테이블 필드를 추가하거나 연관관계를 만들고, 쉽게 읽을 수 있도록 만들어진 ERD 툴이 있으면 좋겠다고 생각해 이 웹사이트를 만들었습니다. 캔버스에서 테이블과 컬럼을 만들고 각각 데이터 타입, 기본 키, 관계를 설정할 수",
+   "publishedAt": 1790674923000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1258,7 +1328,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1272,7 +1342,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1286,7 +1356,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1296,11 +1366,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 165,
+   "engagement": 166,
    "comments": 83,
    "publishedAt": 1790609293000,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1314,7 +1384,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1328,77 +1398,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "Self-Hosting on the Dark Web",
-   "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49870295",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 352,
-   "comments": 117,
-   "publishedAt": 1790539416000,
-   "isAI": false,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "와인 수요 감소로 포도 판매에 어려움을 겪는 캘리포니아 농가",
-   "url": "https://news.hada.io/topic?id=34479",
-   "summary": "와인 수요 급감 으로 캘리포니아 포도 농가들이 수확기에도 구매자를 찾지 못해, 손해를 보고 수확하거나 수확을 포기하고 다른 작물로 전환해야 하는 상황임 캘리포니아는 팬데믹 당시 정점에 달했던 포도밭 면적의 약 25%에서 생산을 중단 했지만, 여전히 수요보다...",
-   "publishedAt": 1790663629000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "서버 모니터링 분석 가이드",
-   "url": "https://news.hada.io/topic?id=34478",
-   "summary": "대시보드 설치 가이드는 많지만 그래프를 실제로 읽고 진단하는 방법 에 대한 가이드는 드물다는 문제의식에서 모니터링을 어떻게 읽고 행동할지 정리한 글 수많은 그래프는 구글 SRE의 네 가지 황금 신호(트래픽·지연 시간·에러·포화도)로 묶이며, 증상(지연·에러)을 먼저 파...",
-   "publishedAt": 1790662276000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.1,
-   "hot": false
-  },
-  {
-   "title": "알트먼 \"기업공개 압박 없이 AI 안전 확보가 우선\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215787",
-   "summary": "샘 알트먼 오픈AI CEO가 AI 안전성에 대한 우려가 커진 상황에서 기업공개(IPO)를 서두르지 않겠다는 뜻을 밝혔다. 상장 기업이라는 압박감 없이 AI 기술 위험 요소를 통제하고 자율 에이전트 등 고도화된 기능에 적응하는 것을 최우선 과제로 삼겠다는 구상이다.알트먼 CEO는 29일(현지시간) 미국 샌프란시스코에서 열린 '데브데이 2026'을 통해 \"안전성에 대한 확신 있는 결정을 내릴 수 있을 때까지 무턱대고 IPO를 추진하지는 않을 것\"이라고 발표했다. 그는 \"우리는 임무와 안전을 최우선으로 생각한다\"며 \"상장 기업이 됐다는",
-   "publishedAt": 1790735916000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 34,
-   "hot": false
-  },
-  {
-   "title": "오픈AI 추가 투자 유치 목표는 '1900조 가치'...연 매출은 95조 육박",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215788",
-   "summary": "오픈AI가 기업용 AI 시장에서 매출을 빠르게 늘리며 기업가치를 다시 크게 끌어올리고 있다. 연간 반복 매출(ARR)이 700억달러(약 95조원)에 육박한 것으로 알려진 가운데 대규모 신규 투자 유치에 나서면서, 기업공개(IPO)를 앞두고 몸집을 키우는 모습이다. 29일(현지시간) 블룸버그에 따르면, 오픈AI는 기업가치 1조4000억달러(약 1901조원)를 목표로 최소 300억달러(약 40조원) 규모의 신규 투자 유치에 나섰다. 올해 IPO를 미루면서 확보하려는 ‘브리지 투자’ 성격의 자금이다.이번 투자 협상은 아직 초기 단계로,",
-   "publishedAt": 1790735646000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.9,
    "hot": false
   }
  ]
