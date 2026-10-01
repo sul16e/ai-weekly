@@ -1,5 +1,5 @@
 {
- "updatedAt": 1790841698471,
+ "updatedAt": 1790845340993,
  "week": "2026-W40",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1315,
-   "comments": 842,
+   "engagement": 1364,
+   "comments": 874,
    "publishedAt": 1790798677000,
    "isAI": true,
-   "score": 67.6,
+   "score": 67.3,
    "hot": true
   },
   {
@@ -24,10 +24,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 385,
-   "comments": 423,
+   "comments": 429,
    "publishedAt": 1790783411000,
    "isAI": true,
-   "score": 54.9,
+   "score": 54.4,
    "hot": true
   },
   {
@@ -38,11 +38,39 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 1053,
-   "comments": 935,
+   "comments": 936,
    "publishedAt": 1790701605000,
    "isAI": true,
-   "score": 51.4,
+   "score": 51,
    "hot": false
+  },
+  {
+   "title": "Show GN: query-inspector - 소스 코드 내 SQL/ORM 쿼리를 추출해 튜닝 리포트를 작성하는 Claude Code 스킬",
+   "url": "https://news.hada.io/topic?id=34595",
+   "summary": "query-inspector는 프로젝트의 소스 코드에 있는 SQL과 ORM(JPA 파생 메서드, @Query, QueryDSL, Kotlin JDSL, MyBatis 등)이 생성하는 쿼리를 추출해, 인덱스 누락 / N+1 문제 / 안티패턴 등을 진단하여 결과와 튜닝 가이드를 리포팅해 주는 Claude Code 플러그인입니다. git 변경분에서만 추출하여 incremen",
+   "publishedAt": 1790843274000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
+   "hot": true
+  },
+  {
+   "title": "Fuck Android Developer Verification Program",
+   "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49917761",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 221,
+   "comments": 83,
+   "publishedAt": 1790829158000,
+   "isAI": false,
+   "score": 49.2,
+   "hot": true
   },
   {
    "title": "Show GN: 믹스독 — 같은 구독으로 더 많이 쓰는 오픈소스 코딩 에이전트",
@@ -55,21 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.4,
-   "hot": true
-  },
-  {
-   "title": "Fuck Android Developer Verification Program",
-   "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49917761",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 208,
-   "comments": 74,
-   "publishedAt": 1790829158000,
-   "isAI": false,
-   "score": 49.2,
+   "score": 48.8,
    "hot": true
   },
   {
@@ -83,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -93,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 154,
-   "comments": 77,
+   "engagement": 157,
+   "comments": 80,
    "publishedAt": 1790789860000,
    "isAI": true,
-   "score": 48.4,
+   "score": 48.1,
    "hot": true
   },
   {
@@ -111,7 +125,7 @@
    "comments": 427,
    "publishedAt": 1790699448000,
    "isAI": true,
-   "score": 47,
+   "score": 46.7,
    "hot": false
   },
   {
@@ -125,8 +139,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
    "hot": true
+  },
+  {
+   "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+   "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49914236",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 105,
+   "comments": 58,
+   "publishedAt": 1790801428000,
+   "isAI": true,
+   "score": 46.3,
+   "hot": false
   },
   {
    "title": "Disrupting a coordinated model-distillation campaign",
@@ -139,21 +167,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.6,
-   "hot": false
-  },
-  {
-   "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-   "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49914236",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 101,
-   "comments": 56,
-   "publishedAt": 1790801428000,
-   "isAI": true,
-   "score": 46.4,
+   "score": 46.2,
    "hot": false
   },
   {
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.4,
+   "score": 46,
    "hot": false
   },
   {
@@ -178,10 +192,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 105,
-   "comments": 91,
+   "comments": 96,
    "publishedAt": 1790798069000,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.8,
    "hot": false
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -209,7 +223,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.8,
+   "hot": true
+  },
+  {
+   "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+   "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49906432",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 373,
+   "comments": 315,
+   "publishedAt": 1790760424000,
+   "isAI": false,
+   "score": 44.6,
    "hot": true
   },
   {
@@ -223,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -237,21 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
-   "hot": true
-  },
-  {
-   "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-   "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49906432",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 355,
-   "comments": 300,
-   "publishedAt": 1790760424000,
-   "isAI": false,
-   "score": 44.7,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -265,8 +279,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "56k.rip – the 1996 dial-up internet experience",
@@ -275,8 +289,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 157,
-   "comments": 75,
+   "engagement": 166,
+   "comments": 79,
    "publishedAt": 1790806130000,
    "isAI": false,
    "score": 43.6,
@@ -293,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -307,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -321,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -335,7 +349,7 @@
    "comments": 137,
    "publishedAt": 1790672621000,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -349,8 +363,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.2,
    "hot": false
+  },
+  {
+   "title": "Show GN: SSGOI – 모바일 웹을 네이티브 앱처럼 만드는 페이지 전환 라이브러리",
+   "url": "https://news.hada.io/topic?id=34596",
+   "summary": "모바일 웹앱을 개발하면서 페이지가 넘어갈 때 네이티브 앱처럼 전환이 되길 원했고, 그래서 SSGOI를 만들었습니다. 어떤 웹 프레임워크와도 함께 쓸 수 있고, 제가 운영하는 회사 서비스에서도 사용 중입니다. 이걸 바탕으로 모바일용 UI 컴포넌트도 만들었습니다: https://library.comwit",
+   "publishedAt": 1790844002000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "AI needs $6T in annual revenue to justify data centre boom",
@@ -359,11 +387,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 219,
+   "engagement": 220,
    "comments": 327,
    "publishedAt": 1790709685000,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -377,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.4,
    "hot": true
   },
   {
@@ -391,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -405,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.4,
+   "score": 41,
    "hot": false
   },
   {
@@ -419,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -433,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -444,10 +472,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 620,
-   "comments": 276,
+   "comments": 277,
    "publishedAt": 1790625215000,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -461,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -475,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40,
    "hot": true
   },
   {
@@ -489,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -503,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -517,7 +545,7 @@
    "comments": 349,
    "publishedAt": 1790692353000,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -527,11 +555,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 146,
+   "engagement": 150,
    "comments": 58,
    "publishedAt": 1790776250000,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -545,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -559,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -573,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -601,7 +629,7 @@
    "comments": 148,
    "publishedAt": 1790691941000,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -615,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -629,7 +657,7 @@
    "comments": 43,
    "publishedAt": 1790691324000,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -643,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -657,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -671,7 +699,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -685,7 +713,34 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
+   "hot": false
+  },
+  {
+   "title": "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement",
+   "url": "https://huggingface.co/papers/2609.38721",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 114,
+   "summary": "Modern multimodal models bring generation and understanding into a single unified system, which enables them to provide and learn from their own feedback. Motivated by this unified capacity, we introduce UniEvo-VL, a self-evolving framework for multimodal models to learn from this constructive self-",
+   "publishedAt": 1790712000000,
+   "isAI": true,
+   "score": 37.4,
+   "hot": false
+  },
+  {
+   "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+   "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49891550",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 385,
+   "comments": 391,
+   "publishedAt": 1790682265000,
+   "isAI": false,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -699,7 +754,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -713,21 +768,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
-   "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
-   "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49891550",
+   "title": "Updated Google Maps shows destruction of the city of Rafah",
+   "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49879645",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 385,
-   "comments": 391,
-   "publishedAt": 1790682265000,
+   "engagement": 929,
+   "comments": 912,
+   "publishedAt": 1790609538000,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -741,21 +796,21 @@
    "comments": 239,
    "publishedAt": 1790611902000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
-   "title": "Updated Google Maps shows destruction of the city of Rafah",
-   "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49879645",
+   "title": "When did Google get so weird?",
+   "url": "https://sancho.bearblog.dev/google-weird/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49870367",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 929,
-   "comments": 912,
-   "publishedAt": 1790609538000,
+   "engagement": 1994,
+   "comments": 1108,
+   "publishedAt": 1790539974000,
    "isAI": false,
-   "score": 37.3,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -769,21 +824,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
-  },
-  {
-   "title": "When did Google get so weird?",
-   "url": "https://sancho.bearblog.dev/google-weird/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49870367",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1993,
-   "comments": 1107,
-   "publishedAt": 1790539974000,
-   "isAI": false,
-   "score": 37.1,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -797,8 +838,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "유가가 급등하면 그 돈은 어디로 갈까?",
@@ -811,7 +852,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -825,7 +866,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -839,7 +880,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -853,7 +894,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -867,62 +908,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
-   "hot": false
-  },
-  {
-   "title": "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement",
-   "url": "https://huggingface.co/papers/2609.38721",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 94,
-   "summary": "Modern multimodal models bring generation and understanding into a single unified system, which enables them to provide and learn from their own feedback. Motivated by this unified capacity, we introduce UniEvo-VL, a self-evolving framework for multimodal models to learn from this constructive self-",
-   "publishedAt": 1790712000000,
-   "isAI": true,
-   "score": 36.4,
-   "hot": false
-  },
-  {
-   "title": "ESP32-S3 7대 클러스터로 1.58비트(BitNet) 언어 모델 실행하기",
-   "url": "https://news.hada.io/topic?id=34556",
-   "summary": "ESP32-S3 마이크로컨트롤러 7대를 연결해 Qwen2-0.5B 기반 언어 모델을 나눠 실행하는 오픈소스 프로젝트 마스터 보드가 입력과 출력을 맡고, 나머지 6대가 트랜스포머 계층을 4개씩 처리 하며 SPI 연결로 계산 결과를 다음 보드에 전달 BitNet 방식의",
-   "publishedAt": 1790791234000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Godot에서 원하는 C++ 라이브러리 사용하기",
-   "url": "https://news.hada.io/topic?id=34554",
-   "summary": "GDExtension과 godot-cpp 를 사용하면 엔진을 재컴파일하지 않고 C++ 라이브러리를 Godot 클래스처럼 노출해 에디터와 GDScript에서 사용할 수 있음 실제 통합의 어려움은 C++ 코드보다 빌드 관리 에 있음. Godot API 버전을 맞추고, 배포할 플랫폼마다 바인딩과 외부...",
-   "publishedAt": 1790790874000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "대다수 데이터센터, 물과 전력 사용량 공개 거부",
-   "url": "https://news.hada.io/topic?id=34553",
-   "summary": "유럽 데이터센터 대다수가 환경 영향 정보 를 비공개로 유지하며, 네덜란드에서도 대형 데이터센터의 전력과 식수 사용량 공개가 제한적임 유럽 에너지효율지침(EED) 은 설비 용량 500kW 이상 데이터센터에 에너지와 물 소비량 보고를 의무화하지만, 시행 3년이 지나...",
-   "publishedAt": 1790790691000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.3,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -936,7 +922,7 @@
    "comments": 113,
    "publishedAt": 1790621933000,
    "isAI": true,
-   "score": 36.2,
+   "score": 36,
    "hot": false
   },
   {
@@ -947,10 +933,52 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 440,
-   "comments": 396,
+   "comments": 397,
    "publishedAt": 1790584540000,
    "isAI": true,
-   "score": 36.2,
+   "score": 36,
+   "hot": false
+  },
+  {
+   "title": "ESP32-S3 7대 클러스터로 1.58비트(BitNet) 언어 모델 실행하기",
+   "url": "https://news.hada.io/topic?id=34556",
+   "summary": "ESP32-S3 마이크로컨트롤러 7대를 연결해 Qwen2-0.5B 기반 언어 모델을 나눠 실행하는 오픈소스 프로젝트 마스터 보드가 입력과 출력을 맡고, 나머지 6대가 트랜스포머 계층을 4개씩 처리 하며 SPI 연결로 계산 결과를 다음 보드에 전달 BitNet 방식의",
+   "publishedAt": 1790791234000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36,
+   "hot": false
+  },
+  {
+   "title": "Godot에서 원하는 C++ 라이브러리 사용하기",
+   "url": "https://news.hada.io/topic?id=34554",
+   "summary": "GDExtension과 godot-cpp 를 사용하면 엔진을 재컴파일하지 않고 C++ 라이브러리를 Godot 클래스처럼 노출해 에디터와 GDScript에서 사용할 수 있음 실제 통합의 어려움은 C++ 코드보다 빌드 관리 에 있음. Godot API 버전을 맞추고, 배포할 플랫폼마다 바인딩과 외부...",
+   "publishedAt": 1790790874000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "대다수 데이터센터, 물과 전력 사용량 공개 거부",
+   "url": "https://news.hada.io/topic?id=34553",
+   "summary": "유럽 데이터센터 대다수가 환경 영향 정보 를 비공개로 유지하며, 네덜란드에서도 대형 데이터센터의 전력과 식수 사용량 공개가 제한적임 유럽 에너지효율지침(EED) 은 설비 용량 500kW 이상 데이터센터에 에너지와 물 소비량 보고를 의무화하지만, 시행 3년이 지나...",
+   "publishedAt": 1790790691000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -964,7 +992,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -978,7 +1006,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -992,7 +1020,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1006,7 +1034,7 @@
    "comments": 456,
    "publishedAt": 1790561113000,
    "isAI": false,
-   "score": 35.2,
+   "score": 35,
    "hot": false
   },
   {
@@ -1020,7 +1048,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1034,7 +1062,7 @@
    "comments": 178,
    "publishedAt": 1790617884000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1048,7 +1076,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1062,21 +1090,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
-   "hot": false
-  },
-  {
-   "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-   "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-   "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-   "publishedAt": 1790792637000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1090,7 +1104,21 @@
    "comments": 141,
    "publishedAt": 1790691135000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+   "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+   "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+   "publishedAt": 1790792637000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1104,35 +1132,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "The ugly economics of consumer AI",
-   "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-   "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
-   "publishedAt": 1790789085000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "Pi: MCP는 지원하지 않는다더니!",
-   "url": "https://news.hada.io/topic?id=34545",
-   "summary": "홈페이지에서 “MCP는 지원하지 않는다” 고 내세우고 팟캐스트에서도 부정적이었던 코딩 에이전트 Pi가, 이제 MCP를 기본 기능으로 지원 함. 세상도 바뀌었고, Pi에 필요한 것도 달라졌음 MCP를 확장으로 남겨둘 수도 있었지만, 여러 도구를 코드로 엮어 쓰...",
-   "publishedAt": 1790771582000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.4,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1146,14 +1146,28 @@
    "comments": 299,
    "publishedAt": 1790610396000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.1,
    "hot": false
   },
   {
-   "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-   "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-   "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
-   "publishedAt": 1790785463000,
+   "title": "Pi: MCP는 지원하지 않는다더니!",
+   "url": "https://news.hada.io/topic?id=34545",
+   "summary": "홈페이지에서 “MCP는 지원하지 않는다” 고 내세우고 팟캐스트에서도 부정적이었던 코딩 에이전트 Pi가, 이제 MCP를 기본 기능으로 지원 함. 세상도 바뀌었고, Pi에 필요한 것도 달라졌음 MCP를 확장으로 남겨둘 수도 있었지만, 여러 도구를 코드로 엮어 쓰...",
+   "publishedAt": 1790771582000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "The ugly economics of consumer AI",
+   "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+   "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+   "publishedAt": 1790789085000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
@@ -1161,6 +1175,60 @@
    "baseWeight": 32,
    "isAI": true,
    "score": 34,
+   "hot": false
+  },
+  {
+   "title": "오픈AI \"중국 문샷의 '보호된 추론' 대규모 추출 시도 차단\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215845",
+   "summary": "오픈AI가 자사 첨단 AI 모델의 핵심 성능을 구성하는 ‘보호된 추론(Protected Reasoning)’을 대규모로 빼내려던 조직적인 시도를 적발해 차단했다고 밝혔다. 특히 이번 활동의 핵심 조직이 중국의 문샷 AI와 연결돼 있다고 주장했다.30일(현지시간) 발표에 따르면, 공격은 지난 7월1일 처음 포착됐다. 초기에는 규모가 크지 않았지만 7월24일과 25일에는 4000개가 넘는 계정에서 특정 추출 패턴을 활용한 요청 약 1만6000건이 집중적으로 발생했다.이후 1만5000개가 넘는 사용자 계정에서 관련 프롬프트 패턴이 추가로",
+   "publishedAt": 1790845279000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents",
+   "url": "https://huggingface.co/papers/2609.39102",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 68,
+   "summary": "Self-evolving search agents build their own training curricula by jointly optimizing a proposer that generates questions and a solver that answers them. This closed loop introduces a failure mode we call co-cheating: the proposer and solver increasingly agree on shared errors, so internal reward imp",
+   "publishedAt": 1790712000000,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "링크드인 \"AI 안전 직종 채용 91% 급증...고용 한파 속 틈새 성장\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215861",
+   "summary": "전반적인 고용시장이 얼어붙은 가운데 AI 안전 관련 일자리가 빠르게 늘고 있다. 링크드인 조사에서 AI 안전 분야 채용이 지난 1년 동안 91% 증가한 것으로 나타났다. AI 모델의 보안과 오남용 문제가 커지면서 관련 인력을 찾는 기업도 늘어나는 모습이다.비즈니스인사이더에 따르면, 다니엘 샤페로 링크드인 CEO는 29일(현지시간) 열린 ‘탤런트 커넥트’ 행사에서 현재 채용 시장이 대체로 “동결된” 상태라고 진단하면서도 일부 직무와 산업에서는 성장세가 나타나고 있다고 밝혔다. 이날 공개한 조사에서 AI 안전 관련 직종은 대표적인 성장",
+   "publishedAt": 1790844844000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
+   "url": "https://huggingface.co/papers/2609.36484",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 178,
+   "summary": "On-policy distillation (OPD) trains a student to match the teacher's next-token distributions on the student's own trajectories and has yielded substantial empirical gains. Generalized variants allow the student to surpass the teacher by extrapolating an implicit reward in output space. The language",
+   "publishedAt": 1790625600000,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1174,7 +1242,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1188,7 +1256,49 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+   "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+   "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+   "publishedAt": 1790785463000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "네이버, 웨일 브라우저 내 'AI 챗' 탑재...\"타 서비스 도입도 검토\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215849",
+   "summary": "플랫폼과 서비스에 AI 도입 경쟁이 심화하는 가운데, 네이버 웨일이 'AI 브라우저'로 본격 탈바꿈한다. 탄탄한 기반 사용자층을 중심으로 편의성을 극대화하는 데 초점을 맞췄다. 네이버(대표 최수연)는 웨일 브라우저에 ‘AI 챗’ 기능을 정식 출시했다고 1일 밝혔다. 기반 모델은 비공개다.최근 AI와 서비스의 결합이 증가하면서 단순히 'AI 검색 엔진'을 넘어선 에이전트형 'AI 브라우저'의 도입이 증가하고 있다. 구글도 크롬 브라우저 내부에서 제미나이를 즉각적으로 활용하며 페이지를 분석, 요약, 번역하는 등 관련 시도를 넓혀가고 있",
+   "publishedAt": 1790842519000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "AI 가격 급락, 기술 역사상 최고 속도…기업 지속가능성은 '비상'",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215863",
+   "summary": "AI 기술 비용이 지난 수년간 폭락 수준으로 급감하며 인류 기술 역사상 가장 빠른 하락세를 기록 중이다. 마이크로칩의 데이터 처리 용량이 2년마다 2배씩 증가한다는 반도체 성능 발전의 대명사 '무어의 법칙'은 물론, 가격 하락 폭이 컸던 DNA 염기서열 분석과 리튬 배터리 단가 하락 속도마저 가볍게 제쳤다.AI 연구기관 에포크 AI(Epoch AI)가 최근 발표한 보고에 따르면, 동일 수준의 AI 지능을 얻는 데 드는 비용은 분기마다 평균 50%씩 급감하고 있으며 연간 단위로는 약 13배씩 저렴해지고 있다. 에포크는 \"AI 비용 하",
+   "publishedAt": 1790842068000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1202,7 +1312,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1216,7 +1326,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1230,7 +1340,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1244,7 +1354,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "GPU 클라우드 제공업체 GMI, 엔비디아 등으로부터 9000억 투자 유치",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215859",
+   "summary": "GPU 기반 클라우드 서비스를 제공하는 미국의 GMI 클라우드가 엔비디아를 비롯한 투자자들로부터 총 6억6800만달러(약 9000억원) 규모의 자금 조달에 성공했다. GMI 클라우드는 30일(현지시간) 6억6800만달러 규모의 시리즈B 투자를 유치했다고 밝혔다.이 가운데 2억2300만달러는 지분 투자로, AI·로봇 분야 투자사 ARCHIV가 주도했으며 엔비디아가 참여했다. 나머지 4억4500만달러는 대만 CTBC은행이 주도한 신용 한도 형태로 조달했다.국내에서는 KB인베스트먼트, DSC인베스트먼트, 교보생명, KT 등이 투자자로 참",
+   "publishedAt": 1790840100000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1258,7 +1382,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1271,132 +1395,6 @@
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "전남광주, 2027년 지적재조사 국비 101억원 확보…전년보다 13억원 늘어",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215853",
-   "summary": "AI 생성 영상전남광주통합특별시가 내년도 지적재조사사업에 투입할 국비 101억원을 확보했다.전남광주는 2027년 지적재조사사업 국비로 101억원을 확보했다고 1일 밝혔다. 올해 88억원보다 13억원 늘어난 규모다.지적재조사사업은 지적도와 실제 토지 이용 현황이 일치하지 않는 지적불부합지를 조사·측량해 현실 경계에 맞게 정비하는 국가사업이다.토지 경계를 명확히 해 이웃 간 경계 분쟁을 줄이고, 토지 소유자의 재산권 보호와 지적행정 신뢰도를 높이는 것이 목적이다.전남광주는 2012년부터 현재까지 지적재조사사업을 위해 총 1014억원의",
-   "publishedAt": 1790839679000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "\"증시 폭락해서라도 AI 기업 IPO 막아야\"…마이클 버리의 강력 경고",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215860",
-   "summary": "영화 '빅 쇼트'의 실제 주인공이자 2008년 서브프라임 모기지 사태를 예측해 유명해진 투자자 마이클 버리가 앤트로픽과 오픈AI 등 AI 기업들의 기업공개(IPO)를 가로막기 위해 시장이 대대적으로 폭락해야 한다고 주장해 논란이 일고 있다.마이클 버리는 29일(현지시간) X를 통해 \"인류의 이익을 위해 시장은 크게 폭락해야 하며, 오픈AI와 앤트로픽의 IPO를 막아야 한다\"고 밝혔다.후속 게시글에서 이들 기업이 상장할 경우 \"수조 달러에 달하는 막대한 자본을 흡수한 뒤 파괴할 것\"이라며, 이는 그들이 사회와 시장에 입힐 피해 중 극",
-   "publishedAt": 1790839565000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "애플, 13일 스마트홈 허브 공개…'AI 시리' 앞세워 아마존·구글에 도전장",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215852",
-   "summary": "애플이 AI 비서 ‘시리’를 앞세워 스마트홈 시장 공략에 본격적으로 나선다. 수년간 출시가 미뤄졌던 스마트홈 허브를 비롯해 새 홈팟 미니와 애플TV를 공개하며 아마존과 구글이 선점한 시장에서 점유율을 추격하겠다는 전략이다.블룸버그는 애플이 오는 13일(현지시간) 스마트홈 관련 신제품을 발표할 계획이라고 보도했다.핵심 제품은 ‘J490’이라는 코드명으로 개발된 스마트홈 허브다. 6인치 크기의 정사각형 디스플레이를 갖췄으며, 책상이나 주방 등에 놓는 형태와 벽에 거는 형태로 알려졌다.단순한 스마트 스피커를 넘어 가정 내 여러 구성원을",
-   "publishedAt": 1790838648000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "Show GN: Algorithm Addict - 이산수학·알고리즘을 단원별 문제로 푸는 안드로이드 퀴즈 앱",
-   "url": "https://news.hada.io/topic?id=34540",
-   "summary": "이산수학·알고리즘 수업 내용을 단원 순서대로 문제로 푸는 앱입니다. 혼자 만들고 있습니다. 실제 기능 18개 단원, 800문항 이상 (명제 논리, 집합, 정수론, 그래프, 트리 / BFS·DFS, 최소 신장 트리, 이진 검색 트리 등) 객관식은 보기 6개 중 4개가 매번 섞여 나오고, 단답형은 숫자",
-   "publishedAt": 1790762802000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "메타, AI 데이터센터 '실험 시설' 지정...수십억달러 세액공제 논란",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215841",
-   "summary": "메타가 AI 데이터센터를 세법상 일종의 ‘실험 시설’로 분류해 수십억달러 규모의 연구개발(R&D) 세액공제를 받은 것으로 알려지면서 논란이 일고 있다. 일반적인 사업 운영에 사용하는 데이터센터와 달리 AI 데이터센터를 ‘파일럿 모델’로 규정하고, 엔비디아 등에서 구매한 고가의 AI 칩과 장비를 연구·실험에 사용되는 자재로 분류하는 방식이다.뉴욕타임스(NYT)는 30일(현지시간) 정통한 소식통들을 인용, 메타가 2024년 말부터 AI 데이터센터에 투입되는 칩과 일반 데이터센터에 사용되는 칩을 세금 처리상 서로 다르게 분류하기 시작했다",
-   "publishedAt": 1790837615000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Backblaze의 2026년 2분기 드라이브 통계",
-   "url": "https://news.hada.io/topic?id=34539",
-   "summary": "Backblaze가 데이터 저장용 HDD 354,415대 를 분석한 결과, 2026년 2분기 연환산 고장률(AFR)은 1.73% 로 최근 한동안의 수준보다 높아짐 전체 31개 모델 중 10개 모델의 AFR이 3%를 초과 했으며, 특히 높은 3개 모델에는 오래된 사용 연수와 적은 ...",
-   "publishedAt": 1790760864000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-   "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49886005",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 139,
-   "comments": 146,
-   "publishedAt": 1790638859000,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-   "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-   "publishedAt": 1790778600000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-   "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-   "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-   "publishedAt": 1790778431000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
    "isAI": true,
    "score": 33.4,
    "hot": false
