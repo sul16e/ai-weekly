@@ -1,5 +1,5 @@
 {
- "updatedAt": 1790934377083,
+ "updatedAt": 1790938035541,
  "week": "2026-W40",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 232,
-   "comments": 118,
+   "engagement": 245,
+   "comments": 120,
    "publishedAt": 1790910680000,
    "isAI": true,
-   "score": 56,
+   "score": 55.9,
    "hot": true
   },
   {
@@ -23,12 +23,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1654,
-   "comments": 1138,
+   "engagement": 1655,
+   "comments": 1145,
    "publishedAt": 1790798677000,
    "isAI": true,
-   "score": 54.9,
+   "score": 54.5,
    "hot": false
+  },
+  {
+   "title": "arXiv의 개정된 제출 횟수 제한 정책",
+   "url": "https://news.hada.io/topic?id=34665",
+   "summary": "arXiv가 2026년 10월 1일부터 모든 제출자와 분야에 달력상 한 달 최대 2건 제출 제한을 적용하며, 동시에 진행 중인 제출은 최대 3건으로 유지함 AI 도구 확산으로 논문 생산과 제출이 쉬워지면서, 저품질 논문에 편중되는 검토 부담 을 줄이고 자...",
+   "publishedAt": 1790937233000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
+  },
+  {
+   "title": "Several vulnerabilities have been discovered in the Linux kernel",
+   "url": "https://lwn.net/Articles/1097401/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49928121",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 323,
+   "comments": 232,
+   "publishedAt": 1790896244000,
+   "isAI": false,
+   "score": 48.9,
+   "hot": true
   },
   {
    "title": "Opus 5.5로 도도의 새로운 목격 기록 발견하기",
@@ -41,7 +69,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.4,
+   "score": 48.9,
    "hot": true
   },
   {
@@ -55,36 +83,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.3,
    "hot": false
-  },
-  {
-   "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "url": "https://lwn.net/Articles/1097401/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49928121",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 298,
-   "comments": 217,
-   "publishedAt": 1790896244000,
-   "isAI": false,
-   "score": 48.7,
-   "hot": true
-  },
-  {
-   "title": "Hacker News가 AI에 제시한 도전 과제 중 무엇이 달성됐는지 투표하기",
-   "url": "https://news.hada.io/topic?id=34657",
-   "summary": "AI를 “ 그저 코드 검색 엔진 ”이라고 하거나 학습과 새로운 결과물 생성을 부정하는 말은 사실상 검증할 수 없음 무언가를 암기했다는 사실 만으로 지능이 없다고 입증할 수는 없으며, 지능을 가진 존재라면 암기 능력도 기대할 수 있음 AI의 능력을 판단하...",
-   "publishedAt": 1790923158000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.4,
-   "hot": true
   },
   {
    "title": "How Albertsons Companies is reimagining retail from the inside out",
@@ -97,8 +97,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.9,
    "hot": false
+  },
+  {
+   "title": "Hacker News가 AI에 제시한 도전 과제 중 무엇이 달성됐는지 투표하기",
+   "url": "https://news.hada.io/topic?id=34657",
+   "summary": "AI를 “ 그저 코드 검색 엔진 ”이라고 하거나 학습과 새로운 결과물 생성을 부정하는 말은 사실상 검증할 수 없음 무언가를 암기했다는 사실 만으로 지능이 없다고 입증할 수는 없으며, 지능을 가진 존재라면 암기 능력도 기대할 수 있음 AI의 능력을 판단하...",
+   "publishedAt": 1790923158000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47.8,
+   "hot": true
   },
   {
    "title": "DeepSeek Harness",
@@ -111,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -121,11 +135,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 565,
-   "comments": 148,
+   "engagement": 567,
+   "comments": 151,
    "publishedAt": 1790852397000,
    "isAI": false,
-   "score": 48.1,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -139,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -153,7 +167,7 @@
    "comments": 153,
    "publishedAt": 1790859655000,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -163,12 +177,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 142,
-   "comments": 157,
+   "engagement": 148,
+   "comments": 177,
    "publishedAt": 1790875963000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.7,
    "hot": false
+  },
+  {
+   "title": "RIP, vector database",
+   "url": "https://turbopuffer.com/blog/rip-vector-database",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49923466",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 337,
+   "comments": 88,
+   "publishedAt": 1790870516000,
+   "isAI": false,
+   "score": 45.9,
+   "hot": true
   },
   {
    "title": "Show GN: Brief - AI Slop이 만든 기——인 글을 GeekNews 요약처럼 만들어 주는 Mac 앱",
@@ -181,21 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.4,
-   "hot": true
-  },
-  {
-   "title": "RIP, vector database",
-   "url": "https://turbopuffer.com/blog/rip-vector-database",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49923466",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 325,
-   "comments": 88,
-   "publishedAt": 1790870516000,
-   "isAI": false,
-   "score": 46.1,
+   "score": 45.9,
    "hot": true
   },
   {
@@ -205,12 +219,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 178,
-   "comments": 106,
+   "engagement": 179,
+   "comments": 108,
    "publishedAt": 1790850096000,
    "isAI": true,
-   "score": 45.5,
-   "hot": true
+   "score": 45.1,
+   "hot": false
   },
   {
    "title": "웹 개발 교육의 죽음",
@@ -223,21 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
-   "hot": true
-  },
-  {
-   "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
-   "url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49920997",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 348,
-   "comments": 156,
-   "publishedAt": 1790859327000,
-   "isAI": false,
-   "score": 45.3,
+   "score": 44.9,
    "hot": true
   },
   {
@@ -251,7 +251,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.9,
+   "hot": true
+  },
+  {
+   "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+   "url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49920997",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 348,
+   "comments": 156,
+   "publishedAt": 1790859327000,
+   "isAI": false,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -265,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -279,8 +293,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "The death of web development education",
@@ -290,11 +304,25 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 199,
-   "comments": 155,
+   "comments": 159,
    "publishedAt": 1790888857000,
    "isAI": false,
-   "score": 44.4,
+   "score": 43.9,
    "hot": true
+  },
+  {
+   "title": "The AI Race Just Got Awkward",
+   "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49910553",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 411,
+   "comments": 456,
+   "publishedAt": 1790783411000,
+   "isAI": true,
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "Netflix는 어떻게 창작자들이 AI 전환을 신뢰하게 했나",
@@ -307,8 +335,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.3,
-   "hot": true
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "AI 네이티브 회사에서 일한다는 것",
@@ -321,21 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.2,
-   "hot": true
-  },
-  {
-   "title": "The AI Race Just Got Awkward",
-   "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49910553",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 409,
-   "comments": 456,
-   "publishedAt": 1790783411000,
-   "isAI": true,
-   "score": 44.1,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -349,8 +363,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.1,
-   "hot": true
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
@@ -359,11 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 188,
-   "comments": 166,
+   "engagement": 194,
+   "comments": 168,
    "publishedAt": 1790886207000,
    "isAI": false,
-   "score": 43.6,
+   "score": 43.4,
    "hot": true
   },
   {
@@ -377,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -391,21 +405,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
-   "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-   "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49921118",
+   "title": "How to speed up the Rust compiler in September 2026",
+   "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49920896",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 252,
-   "comments": 237,
-   "publishedAt": 1790859951000,
+   "engagement": 259,
+   "comments": 142,
+   "publishedAt": 1790858678000,
    "isAI": false,
-   "score": 42.9,
+   "score": 42.5,
    "hot": true
   },
   {
@@ -419,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -433,21 +447,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
-   "title": "How to speed up the Rust compiler in September 2026",
-   "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49920896",
+   "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+   "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49921118",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 254,
-   "comments": 140,
-   "publishedAt": 1790858678000,
+   "engagement": 252,
+   "comments": 238,
+   "publishedAt": 1790859951000,
    "isAI": false,
-   "score": 42.8,
+   "score": 42.4,
    "hot": true
   },
   {
@@ -461,7 +475,7 @@
    "comments": 948,
    "publishedAt": 1790701605000,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -475,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -489,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -503,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.5,
    "hot": true
   },
   {
@@ -517,21 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
-   "hot": true
-  },
-  {
-   "title": "Frog와 Toad, 그리고 점점 더 유능해지는 기계들",
-   "url": "https://news.hada.io/topic?id=34661",
-   "summary": "Frog와 Toad, 그리고 점점 더 유능해지는 기계들",
-   "publishedAt": 1790930252000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.5,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -545,22 +545,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
-   "title": "Meta가 AI 데이터센터를 활용해 수십억 달러의 세금을 회피하는 방법",
-   "url": "https://news.hada.io/topic?id=34609",
-   "summary": "Meta는 AI 데이터센터를 실패할 수 있는 실험용 모델 로 분류하고, Nvidia 등의 고가 칩 구매 비용에 연구·실험 세액공제를 적용함 혁신을 장려하기 위한 연구·실험 세액공제 를 데이터센터 장비로 확대 해석한 것으로, 이미 검증된 상용 칩까지 실험용 물자로 인정할...",
-   "publishedAt": 1790869097000,
+   "title": "Frog와 Toad, 그리고 점점 더 유능해지는 기계들",
+   "url": "https://news.hada.io/topic?id=34661",
+   "summary": "Frog와 Toad, 그리고 점점 더 유능해지는 기계들",
+   "publishedAt": 1790930252000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
-   "isAI": true,
-   "score": 41.5,
-   "hot": false
+   "isAI": false,
+   "score": 41,
+   "hot": true
   },
   {
    "title": "Fuck Android Developer Verification Program",
@@ -573,7 +573,7 @@
    "comments": 133,
    "publishedAt": 1790829158000,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -587,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -601,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -615,7 +615,21 @@
    "comments": 97,
    "publishedAt": 1790789860000,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.5,
+   "hot": false
+  },
+  {
+   "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+   "url": "https://www.cssbed.com",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49927212",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 113,
+   "comments": 28,
+   "publishedAt": 1790889692000,
+   "isAI": false,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -629,22 +643,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
-   "hot": true
-  },
-  {
-   "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "url": "https://www.cssbed.com",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49927212",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 107,
-   "comments": 27,
-   "publishedAt": 1790889692000,
-   "isAI": false,
    "score": 39.3,
-   "hot": false
+   "hot": true
   },
   {
    "title": "Linux 커널에서 여러 취약점 발견",
@@ -657,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -671,7 +671,21 @@
    "comments": 428,
    "publishedAt": 1790699448000,
    "isAI": true,
-   "score": 39,
+   "score": 38.8,
+   "hot": false
+  },
+  {
+   "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+   "url": "https://github.com/maanHimself/OpenDLSS-NR",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49906100",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 257,
+   "comments": 118,
+   "publishedAt": 1790757801000,
+   "isAI": true,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -685,22 +699,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
-  },
-  {
-   "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-   "url": "https://github.com/maanHimself/OpenDLSS-NR",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49906100",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 254,
-   "comments": 118,
-   "publishedAt": 1790757801000,
-   "isAI": true,
-   "score": 38.8,
-   "hot": false
   },
   {
    "title": "Bez: Generating a browser engine from specs and tests",
@@ -709,11 +709,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 115,
+   "engagement": 117,
    "comments": 48,
    "publishedAt": 1790878083000,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -727,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -741,21 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
-   "hot": true
-  },
-  {
-   "title": "example.com이 바뀐 이유를 설명한 IANA의 이메일",
-   "url": "https://news.hada.io/topic?id=34643",
-   "summary": "IANA 는 example.com의 변경 이유를 묻는 이메일에, 사이트를 수시로 수정하는 목적은 대체로 대역폭 사용량 감소 또는 유용성 개선이라고 답함 이번 주에는 페이지를 기본 콘텐츠와 별도 JavaScript 파일 로 나눴으며, 추가 콘텐츠는 JavaScript 파...",
-   "publishedAt": 1790899523000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.9,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -769,8 +755,22 @@
    "comments": 110,
    "publishedAt": 1790806130000,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
+  },
+  {
+   "title": "example.com이 바뀐 이유를 설명한 IANA의 이메일",
+   "url": "https://news.hada.io/topic?id=34643",
+   "summary": "IANA 는 example.com의 변경 이유를 묻는 이메일에, 사이트를 수시로 수정하는 목적은 대체로 대역폭 사용량 감소 또는 유용성 개선이라고 답함 이번 주에는 페이지를 기본 콘텐츠와 별도 JavaScript 파일 로 나눴으며, 추가 콘텐츠는 JavaScript 파...",
+   "publishedAt": 1790899523000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.5,
+   "hot": true
   },
   {
    "title": "Automatic Transmission - 커넥티드 차량의 데이터 프라이버시 연구",
@@ -783,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -793,11 +793,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 454,
-   "comments": 475,
+   "engagement": 455,
+   "comments": 476,
    "publishedAt": 1790760424000,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -811,7 +811,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -825,7 +825,7 @@
    "comments": 104,
    "publishedAt": 1790798069000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -839,7 +839,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -853,7 +853,7 @@
    "comments": 61,
    "publishedAt": 1790801428000,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -867,8 +867,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "여러 프로젝트가 ESP32 마이크로컨트롤러의 숨겨진 SDR 기능 발견",
@@ -881,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -895,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -909,7 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -923,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -937,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -951,7 +951,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -965,7 +965,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -979,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -993,7 +993,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1007,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1021,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1035,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1049,7 +1049,7 @@
    "comments": 139,
    "publishedAt": 1790672621000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1063,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1077,35 +1077,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "일본에서 일하며 머신러닝 박사과정 밟기",
-   "url": "https://news.hada.io/topic?id=34614",
-   "summary": "미국인 Google 엔지니어가 MEXT 장학금 을 받아 도쿄공업대학에서 박사학위를 마치며 주 2일 근무를 병행함. 다만 기존 연구 경력, 저축, 회사 내 이동 기회가 있었던 특수한 사례라 그대로 재현하기는 어려움 일본은 허가를 받은 유학생의 학기 중 주 28시간 근무 를...",
-   "publishedAt": 1790873242000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "2026년 9월 Rust 컴파일러 속도를 높이는 방법",
-   "url": "https://news.hada.io/topic?id=34613",
-   "summary": "최근 두 달간 Rust 컴파일러 벤치마크의 평균 컴파일 시간이 4.57% 감소 했으며, 629개 측정 중 555개가 개선됨 실행 프로파일을 활용한 최적화인 PGO를 Clippy에 적용 해 실행 시간을 최대 18% 줄였으며, LLVM 23 업그레이드도 전체 평균 시간을 1.2% 단축함 ...",
-   "publishedAt": 1790873062000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.3,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1119,7 +1091,35 @@
    "comments": 277,
    "publishedAt": 1790625215000,
    "isAI": true,
-   "score": 35.1,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "일본에서 일하며 머신러닝 박사과정 밟기",
+   "url": "https://news.hada.io/topic?id=34614",
+   "summary": "미국인 Google 엔지니어가 MEXT 장학금 을 받아 도쿄공업대학에서 박사학위를 마치며 주 2일 근무를 병행함. 다만 기존 연구 경력, 저축, 회사 내 이동 기회가 있었던 특수한 사례라 그대로 재현하기는 어려움 일본은 허가를 받은 유학생의 학기 중 주 28시간 근무 를...",
+   "publishedAt": 1790873242000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "2026년 9월 Rust 컴파일러 속도를 높이는 방법",
+   "url": "https://news.hada.io/topic?id=34613",
+   "summary": "최근 두 달간 Rust 컴파일러 벤치마크의 평균 컴파일 시간이 4.57% 감소 했으며, 629개 측정 중 555개가 개선됨 실행 프로파일을 활용한 최적화인 PGO를 Clippy에 적용 해 실행 시간을 최대 18% 줄였으며, LLVM 23 업그레이드도 전체 평균 시간을 1.2% 단축함 ...",
+   "publishedAt": 1790873062000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1133,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1147,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1161,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1175,7 +1175,7 @@
    "comments": 335,
    "publishedAt": 1790709685000,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1189,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1203,21 +1203,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.1,
-   "hot": false
-  },
-  {
-   "title": "AI music maker Suno now generates spoken words",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-   "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music t",
-   "publishedAt": 1790934139000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1231,7 +1217,35 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "AI music maker Suno now generates spoken words",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+   "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music t",
+   "publishedAt": 1790934139000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "플리토, 첫 브랜드 ‘보글’로 글로벌 통역 시장 조준…\"매출 상승 이어갈 것\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215927",
+   "summary": "자체 데이터 축적으로 AI 번역, 통역의 성능을 고도화해 온 플리토가 온프레미스를 중심으로 매출 성장 곡선을 이루며 창업 이후 첫 브랜드명을 전격 공개했다.언어 데이터 전문 플리토(대표 이정수)가 30일 미디어 인사이트 데이를 통해 AI 통번역 솔루션 통합 브랜드 ‘보글(Vogl)’을 공개했다. 보글(Vogl)은 ‘Voice of Global Languages’의 약자로, ‘말하는 순간을 눈으로 보고 이해하는 경험’을 제공한다는 브랜드 정체성을 담았다. 국내외 시장에서 일관되게 확장할 수 있는 직관적 브랜드로, 기존에 개별 제공되던",
+   "publishedAt": 1790932800000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1245,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1259,7 +1273,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "[AI 모델 신작] MS 음성인식 'MAI-트랜스크라이브-2-스트리밍' 등 6종",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215930",
+   "summary": "■ MS, 'MAI-트랜스크라이브-2-스트리밍' 및 'MAI-보이-2.1' 시리즈 공개마이크로소프트 AI가 실시간 음성 인식 모델(MAI-Transcribe-2-Streaming)과 음성 합성 모델(MAI-Voice-2.1), 고속 버전(MAI-Voice-2.1-Flash)을 선보였다. 이번 실시간 음성 인식 모델은 100밀리초(ms_ 수준의 초저지연을 달성해 화자의 말이 끝나기 전 첫 텍스트를 출력하며, 음성 합성 모델은 23개 언어를 단일 목소리 및 현지 자국어 발음으로 지원한다.Introducing 3 new models: M",
+   "publishedAt": 1790931300000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1273,7 +1301,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1287,49 +1315,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "텐센트, 오라클서 AI 칩 10만개 임대…규제 피하려 동남아 데이터센터 확보",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215909",
-   "summary": "중국의 텐센트가 AI 개발을 가속하기 위해 미국 클라우드 기업 오라클로부터 고성능 AI 칩 10만개를 임대하기로 했다. 미국의 반도체 수출 규제가 강화되는 가운데 중국 기업들이 동남아시아 등 해외 데이터센터로 컴퓨팅 자원을 확보하는 움직임이 확대되고 있다.1일(현지시간) 파이낸셜타임스에 따르면, 텐센트는 올해 오라클과 동남아시아 여러 데이터센터를 대상으로 5년간 사용하는 대규모 임대 계약을 체결했다. 계약 규모는 70억달러(약 9조5000억원)로 추산되며, 이 가운데 약 30%를 선불로 지급하는 조건인 것으로 전해졌다.이번 계약을",
-   "publishedAt": 1790929115000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "업스테이지, 판단 전용 AI ‘솔라 디사이드’ 출시…“제브보다 빠르고 정확”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215919",
-   "summary": "‘제브’로 인해 판단 전용 AI 붐이 일어난 가운데, 업스테이지도 ‘솔라 미니 4’를 기반 모델로 ‘솔라 디사이드(Solar Decide)’를 공개했다.김성훈 업스테이지 대표는 오픈라우터 플랫폼을 통해 판단만 해주는 AI ‘솔라 디사이드’를 출시했다고 2일 밝혔다.업스테이지 관계자는 “제브처럼 구조적 의사결정(structured decision)을 내려주는 모델로, 쉽게 말하면 솔라 미니4를 기반 모델로 추가 에이전트 기능과 서비스 로직을 결합한 것”이라고 설명했다.실제로 사용자는 질문 데이터를 입력해 즉각적으로 답을 얻을 수 있다",
-   "publishedAt": 1790928492000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "[게시판] LG유플러스, 옵트에이아이와 AI 모델 경량화 협력 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215920",
-   "summary": "■ LG유플러스(대표 홍범식)가 AI 모델 최적화 전문기업 옵트에이아이와 모델 경량화를 통한 '토큰 최적화' 기술 확보에 나선다. 옵트에이아이가 모델 경량화 연구·개발을, LG유플러스가 기술 검증과 적용을 맡는다. 양사는 '엑사원' 기반 경량화로 신경망처리장치(NPU)에서 구동 가능하도록 구현했으며, 중앙처리장치(CPU) 방식과 동등한 성능을 유지하면서 전력 소모는 78%, 모델 크기는 82% 줄인 바 있다.■ SBVA(대표 이준표)는 데이터브릭스의 50억달러(약 6조8000억원) 규모 전략적 투자 라운드에 참여했다고 밝혔다. 미국",
-   "publishedAt": 1790928000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1343,7 +1329,63 @@
    "comments": 356,
    "publishedAt": 1790692353000,
    "isAI": false,
-   "score": 33.3,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "텐센트, 오라클서 AI 칩 10만개 임대…규제 피하려 동남아 데이터센터 확보",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215909",
+   "summary": "중국의 텐센트가 AI 개발을 가속하기 위해 미국 클라우드 기업 오라클로부터 고성능 AI 칩 10만개를 임대하기로 했다. 미국의 반도체 수출 규제가 강화되는 가운데 중국 기업들이 동남아시아 등 해외 데이터센터로 컴퓨팅 자원을 확보하는 움직임이 확대되고 있다.1일(현지시간) 파이낸셜타임스에 따르면, 텐센트는 올해 오라클과 동남아시아 여러 데이터센터를 대상으로 5년간 사용하는 대규모 임대 계약을 체결했다. 계약 규모는 70억달러(약 9조5000억원)로 추산되며, 이 가운데 약 30%를 선불로 지급하는 조건인 것으로 전해졌다.이번 계약을",
+   "publishedAt": 1790929115000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "업스테이지, 판단 전용 AI ‘솔라 디사이드’ 출시…“제브보다 빠르고 정확”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215919",
+   "summary": "‘제브’로 인해 판단 전용 AI 붐이 일어난 가운데, 업스테이지도 ‘솔라 미니 4’를 기반 모델로 ‘솔라 디사이드(Solar Decide)’를 공개했다.김성훈 업스테이지 대표는 오픈라우터 플랫폼을 통해 판단만 해주는 AI ‘솔라 디사이드’를 출시했다고 2일 밝혔다.업스테이지 관계자는 “제브처럼 구조적 의사결정(structured decision)을 내려주는 모델로, 쉽게 말하면 솔라 미니4를 기반 모델로 추가 에이전트 기능과 서비스 로직을 결합한 것”이라고 설명했다.실제로 사용자는 질문 데이터를 입력해 즉각적으로 답을 얻을 수 있다",
+   "publishedAt": 1790928492000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "[게시판] KT, 소상공인 플랫폼 ‘사장이지’에 AI면접 서비스 출시 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215928",
+   "summary": "■ KT(대표 박윤영)는 지난 1일 소상공인 통합 플랫폼 ‘사장이지’에 ‘AI면접’ 서비스를 출시했다고 밝혔다. AI면접은 직원 채용 과정에서 면접에 필요한 사장님의 시간과 부담을 줄여주는 서비스다. 사장님이 지원자에게 카카오톡으로 온라인 면접 링크를 보내면, 지원자는 안내에 따라 AI가 생성한 질문에 답변하고 자기소개 영상을 촬영해 제출할 수 있다.■ KT가 충남대학교, 사단법인 스마트제조혁신협회와 지난 9월 30일 대전광역시 유성구 충남대학교에서 B2B 세미나 ‘KT AX Tour 2026 in 충청’을 개최해 충청권 기업들의",
+   "publishedAt": 1790928000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "[게시판] LG유플러스, 옵트에이아이와 AI 모델 경량화 협력 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215920",
+   "summary": "■ LG유플러스(대표 홍범식)가 AI 모델 최적화 전문기업 옵트에이아이와 모델 경량화를 통한 '토큰 최적화' 기술 확보에 나선다. 옵트에이아이가 모델 경량화 연구·개발을, LG유플러스가 기술 검증과 적용을 맡는다. 양사는 '엑사원' 기반 경량화로 신경망처리장치(NPU)에서 구동 가능하도록 구현했으며, 중앙처리장치(CPU) 방식과 동등한 성능을 유지하면서 전력 소모는 78%, 모델 크기는 82% 줄인 바 있다.■ SBVA(대표 이준표)는 데이터브릭스의 50억달러(약 6조8000억원) 규모 전략적 투자 라운드에 참여했다고 밝혔다. 미국",
+   "publishedAt": 1790928000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1357,49 +1399,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "에스티엔인포텍, 크레도와 한국 시장 총판 계약 체결",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215921",
-   "summary": "에스티엔인포텍(STNinfotech)은 최근 고속연결 솔루션을 전문으로 하는 미국 반도체 기업 크레도(Credo Technology Group Holding Ltd., 이하 \"Credo\")와 국내 시장 총판 계약을 체결했다고 발표했다.크레도는 AI 및 클라우드 데이터센터를 위한 고속 연결 솔루션을 제공하는 글로벌 기업으로, 차세대 고속 데이터 전송 기술인 AEC(Active Electrical Cable, 능동형 전기 케이블) 시장을 선도하고 있다.AEC는 고속 데이터 전송 시 발생할 수 있는 신호 손실을 보상하기 위해 양 끝단에",
-   "publishedAt": 1790927439000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "백악관에 모인 AI 수장들…젠슨 황·저커버그, 아모데이에 '질문 세례'",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215918",
-   "summary": "미국 백악관에서 열린 주요 AI 기업 수장들의 모임에서 앤트로픽을 둘러싸고 비공개 신경전이 벌어졌던 것으로 알려졌다. 도널드 트럼프 행정부가 마련한 이번 오찬 행사에는 젠슨 황 엔비디아 CEO와 마크 저커버그 메타 CEO를 비롯해 일론 머스크, 다리오 아모데이 앤트로픽 CEO, 그렉 브록먼 오픈AI 사장 등 애플을 제외한 주요 IT 대기업 최고경영진이 대거 참석했다.월스트리트저널(WSJ)과 CNBC 등에 따르면, 지난달 29일(현지시간) 백악관 이스트룸에서 20여명의 CEO들이 오찬을 마친 뒤 루즈벨트 룸 등 비공개 공간에서 AI",
-   "publishedAt": 1790927055000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Brian Chesky interview: AI agents need their own operating system",
-   "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-   "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-   "publishedAt": 1790867520000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.1,
+   "score": 33,
    "hot": false
   }
  ]
