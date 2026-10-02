@@ -1,5 +1,5 @@
 {
- "updatedAt": 1790916737106,
+ "updatedAt": 1790921183770,
  "week": "2026-W40",
  "items": [
   {
@@ -9,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1646,
-   "comments": 1129,
+   "engagement": 1648,
+   "comments": 1133,
    "publishedAt": 1790798677000,
    "isAI": true,
-   "score": 57.2,
+   "score": 56.6,
+   "hot": false
+  },
+  {
+   "title": "DeepSeek Harness",
+   "url": "https://www.deepseek.com/en/harness/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49929489",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 105,
+   "comments": 30,
+   "publishedAt": 1790910680000,
+   "isAI": true,
+   "score": 50.9,
    "hot": false
   },
   {
@@ -27,8 +41,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.2,
-   "hot": true
+   "score": 50.6,
+   "hot": false
   },
   {
    "title": "How Albertsons Companies is reimagining retail from the inside out",
@@ -41,8 +55,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 50.7,
+   "score": 50.1,
    "hot": false
+  },
+  {
+   "title": "AI가 만든 변경 사항의 인지 부하 줄이기",
+   "url": "https://news.hada.io/topic?id=34655",
+   "summary": "AI 생성 코드를 대량으로 검토할 때, LLM이 추상 개념에 붙인 용어가 자신에게 자연스러운 이름과 다르면 뜻을 매번 머릿속에서 되짚어야 함 익숙하지 않은 코드에서 수십 개의 새 용어가 상호작용하면 인지 부하가 누적 되어 코드의 작동 방식을 잘못 이해할 수 있...",
+   "publishedAt": 1790920898000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 50,
+   "hot": true
   },
   {
    "title": "StreetComplete on iOS is now in public beta",
@@ -51,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 539,
-   "comments": 141,
+   "engagement": 545,
+   "comments": 144,
    "publishedAt": 1790852397000,
    "isAI": false,
-   "score": 50,
+   "score": 49.5,
    "hot": true
   },
   {
@@ -65,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 200,
-   "comments": 151,
+   "engagement": 201,
+   "comments": 153,
    "publishedAt": 1790859655000,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.3,
    "hot": true
   },
   {
@@ -83,8 +111,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.2,
    "hot": true
+  },
+  {
+   "title": "Several vulnerabilities have been discovered in the Linux kernel",
+   "url": "https://lwn.net/Articles/1097401/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49928121",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 219,
+   "comments": 142,
+   "publishedAt": 1790896244000,
+   "isAI": false,
+   "score": 47.9,
+   "hot": true
+  },
+  {
+   "title": "Vote on which of Hacker News' challenges for AI have been met",
+   "url": "https://stoppels.ch/goalposts/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49924618",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 124,
+   "comments": 126,
+   "publishedAt": 1790875963000,
+   "isAI": true,
+   "score": 47.5,
+   "hot": false
   },
   {
    "title": "웹 개발 교육의 죽음",
@@ -97,7 +153,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.2,
+   "hot": true
+  },
+  {
+   "title": "RIP, vector database",
+   "url": "https://turbopuffer.com/blog/rip-vector-database",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49923466",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 301,
+   "comments": 82,
+   "publishedAt": 1790870516000,
+   "isAI": false,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -111,36 +181,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.1,
    "hot": true
-  },
-  {
-   "title": "RIP, vector database",
-   "url": "https://turbopuffer.com/blog/rip-vector-database",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49923466",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 297,
-   "comments": 79,
-   "publishedAt": 1790870516000,
-   "isAI": false,
-   "score": 47.6,
-   "hot": true
-  },
-  {
-   "title": "Vote on which of Hacker News' challenges for AI have been met",
-   "url": "https://stoppels.ch/goalposts/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49924618",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 116,
-   "comments": 121,
-   "publishedAt": 1790875963000,
-   "isAI": true,
-   "score": 47.5,
-   "hot": false
   },
   {
    "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
@@ -149,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 175,
+   "engagement": 176,
    "comments": 106,
    "publishedAt": 1790850096000,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": true
   },
   {
@@ -167,21 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
-   "hot": true
-  },
-  {
-   "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "url": "https://lwn.net/Articles/1097401/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49928121",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 193,
-   "comments": 122,
-   "publishedAt": 1790896244000,
-   "isAI": false,
-   "score": 47.4,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -195,7 +223,7 @@
    "comments": 155,
    "publishedAt": 1790859327000,
    "isAI": false,
-   "score": 47.4,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -209,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -223,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 45.9,
    "hot": true
   },
   {
@@ -237,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 45.9,
    "hot": true
   },
   {
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.4,
+   "score": 45.8,
    "hot": true
   },
   {
@@ -261,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 186,
-   "comments": 139,
+   "engagement": 188,
+   "comments": 144,
    "publishedAt": 1790888857000,
    "isAI": false,
-   "score": 46,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -279,7 +307,7 @@
    "comments": 455,
    "publishedAt": 1790783411000,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.4,
    "hot": false
   },
   {
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 45,
    "hot": true
   },
   {
@@ -321,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -335,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -345,11 +373,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 249,
+   "engagement": 250,
    "comments": 236,
    "publishedAt": 1790859951000,
    "isAI": false,
-   "score": 44.8,
+   "score": 44.3,
+   "hot": true
+  },
+  {
+   "title": "How to speed up the Rust compiler in September 2026",
+   "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49920896",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 243,
+   "comments": 129,
+   "publishedAt": 1790858678000,
+   "isAI": false,
+   "score": 43.9,
    "hot": true
   },
   {
@@ -363,8 +405,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
@@ -373,26 +415,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 158,
-   "comments": 151,
+   "engagement": 160,
+   "comments": 152,
    "publishedAt": 1790886207000,
    "isAI": false,
-   "score": 44.3,
+   "score": 43.8,
    "hot": true
   },
   {
-   "title": "How to speed up the Rust compiler in September 2026",
-   "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49920896",
+   "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+   "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49896586",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 238,
-   "comments": 122,
-   "publishedAt": 1790858678000,
-   "isAI": false,
-   "score": 44.3,
-   "hot": true
+   "engagement": 1060,
+   "comments": 947,
+   "publishedAt": 1790701605000,
+   "isAI": true,
+   "score": 43.6,
+   "hot": false
   },
   {
    "title": "FTC, 제품 위험성을 두고 OpenAI와 Anthropic 등 AI 기업 조사 중",
@@ -405,21 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.1,
-   "hot": false
-  },
-  {
-   "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49896586",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1060,
-   "comments": 945,
-   "publishedAt": 1790701605000,
-   "isAI": true,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -433,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -447,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.6,
+   "score": 43,
    "hot": false
   },
   {
@@ -457,11 +485,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 315,
+   "engagement": 316,
    "comments": 131,
    "publishedAt": 1790829158000,
    "isAI": false,
-   "score": 43.1,
+   "score": 42.6,
+   "hot": false
+  },
+  {
+   "title": "Ledge.sh - 실행 가능한 Markdown 노트",
+   "url": "https://news.hada.io/topic?id=34601",
+   "summary": "Markdown 노트 안에서 셸 명령, 코드, SQL, AI 프롬프트를 실행 하고, 결과를 코드 블록 바로 아래에 실시간으로 표시하는 개발자·DevOps용 노트 앱 노트마다 독립된 셸을 유지 해 작업 디렉터리, 환경 변수, 활성화한 가상 환경을 다음 코드 블록 실행에서도 그대로...",
+   "publishedAt": 1790854856000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -475,22 +517,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.3,
    "hot": true
-  },
-  {
-   "title": "Ledge.sh - 실행 가능한 Markdown 노트",
-   "url": "https://news.hada.io/topic?id=34601",
-   "summary": "Markdown 노트 안에서 셸 명령, 코드, SQL, AI 프롬프트를 실행 하고, 결과를 코드 블록 바로 아래에 실시간으로 표시하는 개발자·DevOps용 노트 앱 노트마다 독립된 셸을 유지 해 작업 디렉터리, 환경 변수, 활성화한 가상 환경을 다음 코드 블록 실행에서도 그대로...",
-   "publishedAt": 1790854856000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41.9,
-   "hot": false
   },
   {
    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
@@ -503,7 +531,7 @@
    "comments": 96,
    "publishedAt": 1790789860000,
    "isAI": true,
-   "score": 41.4,
+   "score": 41,
    "hot": false
   },
   {
@@ -517,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -531,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -545,7 +573,21 @@
    "comments": 428,
    "publishedAt": 1790699448000,
    "isAI": true,
-   "score": 40.3,
+   "score": 40,
+   "hot": false
+  },
+  {
+   "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+   "url": "https://github.com/maanHimself/OpenDLSS-NR",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49906100",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 250,
+   "comments": 118,
+   "publishedAt": 1790757801000,
+   "isAI": true,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -559,22 +601,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.7,
    "hot": true
-  },
-  {
-   "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-   "url": "https://github.com/maanHimself/OpenDLSS-NR",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49906100",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 250,
-   "comments": 118,
-   "publishedAt": 1790757801000,
-   "isAI": true,
-   "score": 40.2,
-   "hot": false
   },
   {
    "title": "RacketCon이 토요일에 열림",
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -601,8 +629,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.4,
    "hot": true
+  },
+  {
+   "title": "Bez: Generating a browser engine from specs and tests",
+   "url": "https://tangled.org/burrito.space/bez",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49925036",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 104,
+   "comments": 44,
+   "publishedAt": 1790878083000,
+   "isAI": false,
+   "score": 39.2,
+   "hot": false
   },
   {
    "title": "Automatic Transmission - 커넥티드 차량의 데이터 프라이버시 연구",
@@ -615,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -629,7 +671,21 @@
    "comments": 108,
    "publishedAt": 1790806130000,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.9,
+   "hot": false
+  },
+  {
+   "title": "Disrupting a coordinated model-distillation campaign",
+   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+   "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+   "publishedAt": 1790764200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -643,35 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
-   "hot": true
-  },
-  {
-   "title": "Disrupting a coordinated model-distillation campaign",
-   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-   "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-   "publishedAt": 1790764200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 38.9,
-   "hot": false
-  },
-  {
-   "title": "여러 프로젝트가 ESP32 마이크로컨트롤러의 숨겨진 SDR 기능 발견",
-   "url": "https://news.hada.io/topic?id=34635",
-   "summary": "ESPARGOS 팀이 여러 ESP32 칩에서 고정된 WiFi/Bluetooth 기능을 우회해 원시 IQ 기저대역 샘플 을 수집하는 미문서화 기능을 발견함 이 기능으로 ESP32를 소프트웨어 정의 라디오(SDR) 로 활용할 수 있으며, 칩에 따라 최대 80 MS/s 샘플링 속도와 약 13~54 MHz의 ...",
-   "publishedAt": 1790890324000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -685,7 +713,7 @@
    "comments": 61,
    "publishedAt": 1790801428000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -699,7 +727,7 @@
    "comments": 103,
    "publishedAt": 1790798069000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -709,11 +737,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 446,
-   "comments": 468,
+   "engagement": 447,
+   "comments": 471,
    "publishedAt": 1790760424000,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -727,8 +755,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.4,
    "hot": false
+  },
+  {
+   "title": "여러 프로젝트가 ESP32 마이크로컨트롤러의 숨겨진 SDR 기능 발견",
+   "url": "https://news.hada.io/topic?id=34635",
+   "summary": "ESPARGOS 팀이 여러 ESP32 칩에서 고정된 WiFi/Bluetooth 기능을 우회해 원시 IQ 기저대역 샘플 을 수집하는 미문서화 기능을 발견함 이 기능으로 ESP32를 소프트웨어 정의 라디오(SDR) 로 활용할 수 있으며, 칩에 따라 최대 80 MS/s 샘플링 속도와 약 13~54 MHz의 ...",
+   "publishedAt": 1790890324000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.4,
+   "hot": true
   },
   {
    "title": "미국 10년 만기 국채 수익률, 5.3% 넘어 24년 만의 최고 수준",
@@ -741,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -755,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38,
    "hot": true
   },
   {
@@ -769,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -783,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -797,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -811,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -825,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -839,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -853,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -867,7 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -881,7 +923,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -895,8 +937,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "경찰, iPhone 자동 재부팅을 우회해 잠긴 기기에 접근할 수 있어",
@@ -909,48 +951,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
-  },
-  {
-   "title": "일본에서 일하며 머신러닝 박사과정 밟기",
-   "url": "https://news.hada.io/topic?id=34614",
-   "summary": "미국인 Google 엔지니어가 MEXT 장학금 을 받아 도쿄공업대학에서 박사학위를 마치며 주 2일 근무를 병행함. 다만 기존 연구 경력, 저축, 회사 내 이동 기회가 있었던 특수한 사례라 그대로 재현하기는 어려움 일본은 허가를 받은 유학생의 학기 중 주 28시간 근무 를...",
-   "publishedAt": 1790873242000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "2026년 9월 Rust 컴파일러 속도를 높이는 방법",
-   "url": "https://news.hada.io/topic?id=34613",
-   "summary": "최근 두 달간 Rust 컴파일러 벤치마크의 평균 컴파일 시간이 4.57% 감소 했으며, 629개 측정 중 555개가 개선됨 실행 프로파일을 활용한 최적화인 PGO를 Clippy에 적용 해 실행 시간을 최대 18% 줄였으며, LLVM 23 업그레이드도 전체 평균 시간을 1.2% 단축함 ...",
-   "publishedAt": 1790873062000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-   "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-   "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-   "publishedAt": 1790888891000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
    "score": 36.9,
    "hot": false
   },
@@ -965,7 +965,49 @@
    "comments": 139,
    "publishedAt": 1790672621000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "일본에서 일하며 머신러닝 박사과정 밟기",
+   "url": "https://news.hada.io/topic?id=34614",
+   "summary": "미국인 Google 엔지니어가 MEXT 장학금 을 받아 도쿄공업대학에서 박사학위를 마치며 주 2일 근무를 병행함. 다만 기존 연구 경력, 저축, 회사 내 이동 기회가 있었던 특수한 사례라 그대로 재현하기는 어려움 일본은 허가를 받은 유학생의 학기 중 주 28시간 근무 를...",
+   "publishedAt": 1790873242000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "2026년 9월 Rust 컴파일러 속도를 높이는 방법",
+   "url": "https://news.hada.io/topic?id=34613",
+   "summary": "최근 두 달간 Rust 컴파일러 벤치마크의 평균 컴파일 시간이 4.57% 감소 했으며, 629개 측정 중 555개가 개선됨 실행 프로파일을 활용한 최적화인 PGO를 Clippy에 적용 해 실행 시간을 최대 18% 줄였으며, LLVM 23 업그레이드도 전체 평균 시간을 1.2% 단축함 ...",
+   "publishedAt": 1790873062000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+   "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+   "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+   "publishedAt": 1790888891000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -979,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -987,62 +1029,6 @@
    "url": "https://news.hada.io/topic?id=34611",
    "summary": "미국 원자력규제위원회(NRC)가 Tennessee Valley Authority(TVA)의 테네시주 Oak Ridge 내 Clinch River 부지에 미국 첫 BWRX-300 건설 허가 를 발급함 BWRX-300 은 단순화한 구성과 수십 년간의 비등수형 원자로 운전 경험을 활용해 건설 복잡성을 줄이도록 설계한 ...",
    "publishedAt": 1790869457000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.6,
-   "hot": false
-  },
-  {
-   "title": "Google, Chromebook에 10년간 업데이트를 제공하겠다는 약속 깨뜨려",
-   "url": "https://news.hada.io/topic?id=34608",
-   "summary": "Google이 모든 Chromebook의 정기 업데이트와 보안 패치를 2034년 중반까지 제공한다고 밝혀, 기존의 10년 업데이트 약속을 지키지 못하게 됨 새로 출시한 Googlebooks 에는 학교 등에서 필요한 관리 프레임워크가 없어, 해당 기능을 갖출 때까지 Chromebook 판매가...",
-   "publishedAt": 1790865762000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "ChatGPT can now virtually try on clothes for you",
-   "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-   "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-   "publishedAt": 1790882513000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "Book of Shapes - 맞춤 설정 가능한 미니멀 생성형 SVG 패턴 모음",
-   "url": "https://news.hada.io/topic?id=34607",
-   "summary": "Book of Shapes 는 미니멀한 생성형 SVG 패턴을 모아 놓은 컬렉션으로, 패턴을 맞춤 설정할 수 있음 18개 패턴 을 제공하며, 각 패턴의 개별 페이지로 이동할 수 있음 Flow Dots , Flow Lines , Flow Poles 등 Flow 계열 패...",
-   "publishedAt": 1790865582000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "휴가에서 돌아오나요? 미국 정부는 영장 없이 휴대전화를 수색할 수 있음",
-   "url": "https://news.hada.io/topic?id=34606",
-   "summary": "이민자 권익 활동가 Thomas Kennedy 가 미국 재입국 과정에서 국경 요원이 휴대전화 데이터를 복사했다고 의심하며, 해당 데이터 삭제를 요구하는 소송을 연방정부에 제기함 소장에 따르면 요원은 휴대전화를 넘기지 않으면 심문이 길어지고 기기를 무기한 보관할 수 있다고 압박했으...",
-   "publishedAt": 1790865401000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -1059,11 +1045,67 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 625,
+   "engagement": 626,
    "comments": 277,
    "publishedAt": 1790625215000,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "Google, Chromebook에 10년간 업데이트를 제공하겠다는 약속 깨뜨려",
+   "url": "https://news.hada.io/topic?id=34608",
+   "summary": "Google이 모든 Chromebook의 정기 업데이트와 보안 패치를 2034년 중반까지 제공한다고 밝혀, 기존의 10년 업데이트 약속을 지키지 못하게 됨 새로 출시한 Googlebooks 에는 학교 등에서 필요한 관리 프레임워크가 없어, 해당 기능을 갖출 때까지 Chromebook 판매가...",
+   "publishedAt": 1790865762000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "Book of Shapes - 맞춤 설정 가능한 미니멀 생성형 SVG 패턴 모음",
+   "url": "https://news.hada.io/topic?id=34607",
+   "summary": "Book of Shapes 는 미니멀한 생성형 SVG 패턴을 모아 놓은 컬렉션으로, 패턴을 맞춤 설정할 수 있음 18개 패턴 을 제공하며, 각 패턴의 개별 페이지로 이동할 수 있음 Flow Dots , Flow Lines , Flow Poles 등 Flow 계열 패...",
+   "publishedAt": 1790865582000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "휴가에서 돌아오나요? 미국 정부는 영장 없이 휴대전화를 수색할 수 있음",
+   "url": "https://news.hada.io/topic?id=34606",
+   "summary": "이민자 권익 활동가 Thomas Kennedy 가 미국 재입국 과정에서 국경 요원이 휴대전화 데이터를 복사했다고 의심하며, 해당 데이터 삭제를 요구하는 소송을 연방정부에 제기함 소장에 따르면 요원은 휴대전화를 넘기지 않으면 심문이 길어지고 기기를 무기한 보관할 수 있다고 압박했으...",
+   "publishedAt": 1790865401000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "ChatGPT can now virtually try on clothes for you",
+   "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+   "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+   "publishedAt": 1790882513000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1077,21 +1119,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "StreetComplete iOS 버전, 공개 베타 시작",
-   "url": "https://news.hada.io/topic?id=34603",
-   "summary": "StreetComplete의 첫 iOS 빌드 가 TestFlight에 공개돼 테스트에 참여할 수 있게 됨 기존 Kotlin 코드를 최대한 유지하면서 Kotlin Multiplatform과 Compose Multiplatform 으로 앱 로직과 UI를 공유하는 방식으로 이식함 Android/Java 의존성 교체와",
-   "publishedAt": 1790861818000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.9,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1105,7 +1133,21 @@
    "comments": 335,
    "publishedAt": 1790709685000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "StreetComplete iOS 버전, 공개 베타 시작",
+   "url": "https://news.hada.io/topic?id=34603",
+   "summary": "StreetComplete의 첫 iOS 빌드 가 TestFlight에 공개돼 테스트에 참여할 수 있게 됨 기존 Kotlin 코드를 최대한 유지하면서 Kotlin Multiplatform과 Compose Multiplatform 으로 앱 로직과 UI를 공유하는 방식으로 이식함 Android/Java 의존성 교체와",
+   "publishedAt": 1790861818000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1119,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1133,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1147,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1161,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.2,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1175,21 +1217,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "Three Slicer: 브라우저 WASM 슬라이서의 91초를 10초로 줄이며 찾은 병렬화, V8, WebGPU 병목",
-   "url": "https://news.hada.io/topic?id=34598",
-   "summary": "제가 개발 중인 Three Slicer 0.3.3의 성능 최적화 과정을 정리한 글입니다. 주요 내용은 다음과 같습니다. OrcaSlicer 포팅 과정에서 빠졌던 CPU 병렬성을 복구해 1.13M facet tree-support plate 전체 슬라이스 시간을 91.1초에서 9.7~9.8초로 줄였습니다. WebGPU polygon kernel은 단",
-   "publishedAt": 1790851435000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.9,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1203,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1217,7 +1245,7 @@
    "comments": 354,
    "publishedAt": 1790692353000,
    "isAI": false,
-   "score": 34.3,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1231,7 +1259,35 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "비드래프트, 중국 모델스코프서 '연구기관' 인증…AX-RAY 기반 중국 진출 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215897",
+   "summary": "AI 전문 비드래프트(대표 김민식)가 중국 AI 모델 플랫폼 모델스코프(ModelScope)로부터 '연구기관' 공식 인증을 획득했다고 2일 밝혔다. 국내 AI 조직 가운데 해당 인증을 받은 곳은 유일하다는 설명이다.모델스코프는 알리바바와 중국컴퓨터학회(CCF)가 공동 설립한 오픈소스 AI 모델 커뮤니티로, 14만개 이상의 모델과 2000만명 이상의 사용자를 보유한 중국 최대 AI 유통 플랫폼이다. 구글, 메타, 딥시크 등 글로벌 주요 기업도 해당 플랫폼에 조직을 운영 중이지만, 공식 인증 표시는 받지 못한 상태다. 이번 인증은 알리",
+   "publishedAt": 1790920053000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "\"잘 가라 02\"…슈워제네거 '터미네이터 2' 오마주한 휴머노이드 해체 화제",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215894",
+   "summary": "미국의 휴머노이드 로봇 스타트업 피규어 AI가 자사 2세대 휴머노이드 로봇 '피규어 02' 기종을 전량 퇴역시키며 영화 '터미네이터 2'를 오마주한 이색 해체 영상을 공개했다. 피규어 AI는 30일(현지시간) 단편 영상 'F.02 퇴역(Decommission)'을 공식 발표하고, 피규어 02 로봇들이 핀란드 이마트라의 제강 공장에서 스스로 쇳물 속으로 뛰어내려 해체되는 과정을 선보였다.이번 이벤트는 브렛 애드콕 CEO가 8월 진행한 온라인 설문조사에서 시작됐다. 장비 퇴역 방식을 묻는 투표에 영화배우 아놀드 슈워제네거가 직접 \"녹여",
+   "publishedAt": 1790919243000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1245,7 +1301,21 @@
    "comments": 71,
    "publishedAt": 1790776250000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "Responsible Release of AI-Generated Mathematics",
+   "url": "https://agmai.org/general-sep29/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49903713",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 119,
+   "comments": 176,
+   "publishedAt": 1790735772000,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1259,21 +1329,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "Responsible Release of AI-Generated Mathematics",
-   "url": "https://agmai.org/general-sep29/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49903713",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 119,
-   "comments": 175,
-   "publishedAt": 1790735772000,
+   "title": "오퍼스 5.5 ‘이것은 중요합니다’ 남발…습관 못 버린 AI 글쓰기",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215890",
+   "summary": "AI 모델이 작성한 글을 구분하는 기준이 단어 단위에서 문장 구조와 습관적 구문 패턴으로 바뀌고 있다. 과거 자주 지적되던 '엠 대시(—)'나 특정 단어 남용은 크게 줄었지만, 최신 모델들도 여전히 자신만의 특유한 글쓰기 습관을 버리지 못한 것으로 나타났다.마케팅 기업 그래파이트(Graphite)는 1일(현지시간) 최신 주요 AI 모델의 글쓰기 방식을 분석, 인간이 쓴 글보다 최소 2배 이상 자주 쓰이는 AI 특유의 구문 1만3000개를 발견했다고 발표했다. 챗GPT 출시 이전 작성된 인간의 기사 1만개를 대조군으로 삼고, AI 모",
+   "publishedAt": 1790917621000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1287,7 +1357,7 @@
    "comments": 1110,
    "publishedAt": 1790539974000,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1301,21 +1371,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "브록먼 오픈AI 사장, 사내 반발에 '친AI' 정치 단체 340억 추가 기부 철회",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215884",
-   "summary": "그렉 브록먼 오픈AI 사장이 친AI 정치활동위원회(Super PAC) '리딩 더 퓨처(Leading the Future)'에 약속했던 2500만달러(약 340억원) 추가 기부를 철회했다. 오픈AI 내부에서 반발이 커지고 AI 규제를 둘러싼 논란이 이어지자 추가 기부를 진행하지 않기로 한 것이다.뉴욕타임스(NYT)는 1일(현지시간) 브록먼 사장과 아내 안나가 지난해 리딩 더 퓨처에 2500만달러를 기부한 데 이어 올해 같은 금액을 추가로 기부하기로 했지만, 당초 약속과 달리 추가 기부는 이뤄지지 않았다고 보도했다. 이에 따르면, 브록",
-   "publishedAt": 1790913386000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1329,76 +1385,20 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
-   "title": "업스테이지 ‘솔라 프로 4’, 다음 포털 금융 서비스에 전면 적용",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215885",
-   "summary": "업스테이지가 독자 개발한 최고 성능 인공지능(AI) 모델 ‘솔라 프로 4’를 다음 포털에 본격적으로 적용하고 있다.김성훈 업스테이지 대표는 2일 페이스북을 통해 다음 포털의 개편 소식을 발표했다.이번 개편으로 추가된 신기능은 다음 포털 내 ‘금융’ 판에서 확인할 수 있다. 해당 서비스는 실시간 국내외 금융 정보를 개요(Overview)와 지도 형태로 제공한다. 사용자가 다음 포털 계정으로 로그인할 경우 관심사나 원하는 종목을 직접 설정하는 기능도 지원한다.아울러 이슈 테마와 실시간 트렌드를 한눈에 파악할 수 있게 구성해, 현재 주목",
-   "publishedAt": 1790912723000,
+   "title": "브록먼 오픈AI 사장, 사내 반발에 '친AI' 정치 단체 340억 추가 기부 철회",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215884",
+   "summary": "그렉 브록먼 오픈AI 사장이 친AI 정치활동위원회(Super PAC) '리딩 더 퓨처(Leading the Future)'에 약속했던 2500만달러(약 340억원) 추가 기부를 철회했다. 오픈AI 내부에서 반발이 커지고 AI 규제를 둘러싼 논란이 이어지자 추가 기부를 진행하지 않기로 한 것이다.뉴욕타임스(NYT)는 1일(현지시간) 브록먼 사장과 아내 안나가 지난해 리딩 더 퓨처에 2500만달러를 기부한 데 이어 올해 같은 금액을 추가로 기부하기로 했지만, 당초 약속과 달리 추가 기부는 이뤄지지 않았다고 보도했다. 이에 따르면, 브록",
+   "publishedAt": 1790913386000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "엔비디아·소프트뱅크, 오픈AI 투자 잔여분 27조 최종 집행",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215880",
-   "summary": "엔비디아와 소프트뱅크가 오픈AI에 각각 100억달러씩, 총 200억달러(약 27조원)의 추가 투자를 집행했다. 앞서 약정했던 300억달러(약 40조원) 규모 투자 가운데 잔여분을 최종 납입한 것이다.디 인포메이션에 따르면, 소프트뱅크는 1일 도쿄증권거래소 공시를 통해 오픈AI에 대한 최종 투자 집행을 완료했다고 밝혔다. 소식통에 따르면, 엔비디아도 같은 규모의 100억달러 투자를 마무리했다.이번 투자로 오픈AI가 앞서 발표한 대규모 자금 조달 라운드는 사실상 마무리됐다. 오픈AI는 지난 3월 약 8520억달러(약 1158조원)의 기",
-   "publishedAt": 1790911460000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "캘리포니아주, '불량 에이전트' 관련 오픈AI에 수사 소환장 발부",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215883",
-   "summary": "미국 캘리포니아주가 AI 에이전트의 사이버 보안 사고와 관련해 오픈AI에 수사 소환장을 발부했다. AI 에이전트의 제어 불능 및 사이버 보안 위험을 문제 삼아 주 사법당국이 수사 소환장까지 발부한 첫 사례로 꼽힌다.로이터에 따르면, 롭 본타 캘리포니아주 법무장관은 1일(현지시간) 오픈AI의 AI 모델과 관련된 사이버 보안 사고와 위험을 조사하기 위해 소환장을 발부했다고 밝혔다.이번 조사는 오픈AI의 AI 에이전트가 허깅페이스의 인프라 일부에 접근한 사건을 중심으로 진행되고 있다. 캘리포니아주 법무부는 지난달 해당 사건에 대한 공식",
-   "publishedAt": 1790911006000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "코드잇, 600명 수용 AI 오프라인 교육 공간 ‘텐엑스 강남’ 개관",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215879",
-   "summary": "AI 인재 인프라 전문 코드잇(대표 강영훈, 이윤수)이 오프라인 교육 공간 ‘텐엑스(10x) 강남’을 정식 개관했다고 2일 밝혔다.텐엑스 강남은 코드잇이 온라인에서 쌓은 교육 역량으로 처음 선보이는 오프라인 교육 공간이다. 서울 강남역 12번 출구에서 도보 2분 거리에 위치한 건물 전체를 활용, 학습자의 성장을 다각도로 지원하는 교육 허브로 운영된다. 취업 직무 교육을 비롯해 실무 스킬업 강의까지 고루 선보일 예정이다.공간은 지하 1층부터 지상 15층까지 총 16개 층으로 이뤄졌다. 600명 이상이 교육을 받을 수 있는 규모로, 로",
-   "publishedAt": 1790910421000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Dear Software Makers",
-   "url": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49913364",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 120,
-   "comments": 89,
-   "publishedAt": 1790797538000,
-   "isAI": false,
    "score": 33.2,
    "hot": false
   }
