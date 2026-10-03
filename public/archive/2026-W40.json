@@ -1,5 +1,5 @@
 {
- "updatedAt": 1791066183197,
+ "updatedAt": 1791069840940,
  "week": "2026-W40",
  "items": [
   {
@@ -13,7 +13,7 @@
    "comments": 11,
    "publishedAt": 1791024231000,
    "isAI": true,
-   "score": 58,
+   "score": 57.4,
    "hot": true
   },
   {
@@ -23,12 +23,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 105,
-   "comments": 63,
+   "engagement": 135,
+   "comments": 90,
    "publishedAt": 1791052170000,
    "isAI": true,
-   "score": 50.4,
+   "score": 52.1,
    "hot": false
+  },
+  {
+   "title": "Claude와 Claude Code에서 Opus 5.5를 최대한 활용하는 방법",
+   "url": "https://news.hada.io/topic?id=34734",
+   "summary": "Opus 5.5 에는 작업 전체와 완료 조건, 멈춰서 물어볼 조건을 한 번에 전달하는 방식이 적합함. 이전 Opus보다 긴 다단계 작업을 잘 이어가며, 초기 테스터들은 적은 감독으로 수 시간짜리 코딩 작업을 실행함 매 응답 전에 스스로 사고하므로 “신중하게 생각하라”는 지시는...",
+   "publishedAt": 1791067372000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
   },
   {
    "title": "모두가 짐을 싸고 있다",
@@ -41,7 +55,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.7,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -55,7 +69,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
   },
   {
@@ -65,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 338,
-   "comments": 97,
+   "engagement": 340,
+   "comments": 98,
    "publishedAt": 1790964076000,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.7,
    "hot": false
   },
   {
@@ -83,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -93,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 103,
+   "engagement": 104,
    "comments": 150,
    "publishedAt": 1791035194000,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.4,
    "hot": false
   },
   {
@@ -111,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -125,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -135,11 +149,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 540,
-   "comments": 321,
+   "engagement": 541,
+   "comments": 323,
    "publishedAt": 1790968016000,
    "isAI": false,
-   "score": 45.9,
+   "score": 45.5,
    "hot": false
   },
   {
@@ -153,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -163,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 276,
-   "comments": 140,
+   "engagement": 277,
+   "comments": 141,
    "publishedAt": 1790950284000,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
    "hot": false
   },
   {
@@ -181,7 +195,7 @@
    "comments": 216,
    "publishedAt": 1790910680000,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -219,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 189,
-   "comments": 235,
+   "engagement": 190,
+   "comments": 237,
    "publishedAt": 1790954280000,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -237,21 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.8,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Made an open-source Lego AI generator",
-   "url": "https://github.com/anteloc/ldraw-nova",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49937916",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 140,
-   "comments": 49,
-   "publishedAt": 1790971215000,
-   "isAI": true,
-   "score": 42.5,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -265,8 +265,50 @@
    "comments": 1179,
    "publishedAt": 1790798677000,
    "isAI": true,
-   "score": 42.5,
+   "score": 42.3,
    "hot": false
+  },
+  {
+   "title": "Show HN: Made an open-source Lego AI generator",
+   "url": "https://github.com/anteloc/ldraw-nova",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49937916",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 140,
+   "comments": 49,
+   "publishedAt": 1790971215000,
+   "isAI": true,
+   "score": 42.1,
+   "hot": false
+  },
+  {
+   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+   "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49929391",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 325,
+   "comments": 118,
+   "publishedAt": 1790909487000,
+   "isAI": true,
+   "score": 41.7,
+   "hot": false
+  },
+  {
+   "title": "Woking 전력 제어실 (2016)",
+   "url": "https://news.hada.io/topic?id=34733",
+   "summary": "Woking 전력 제어실 은 Southern Rail 철도망의 전력을 제어하기 위해 1936년에 건설된 제어실 다섯 곳 중 하나임 소박한 콘크리트 외관 안에 타원형 제어실 이 있으며, 흰색 돔 천장과 구리 조명 접시를 받치는 장식용 주철 기둥, 벽면의 검은 제어 패널이 특징임...",
+   "publishedAt": 1791067192000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Muse Gadgets - Meta의 AI 에이전트를 직접 만든 기기에 연결하기",
@@ -279,21 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.1,
-   "hot": false
-  },
-  {
-   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-   "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49929391",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 323,
-   "comments": 116,
-   "publishedAt": 1790909487000,
-   "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -321,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -335,8 +363,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
+  },
+  {
+   "title": "Updates to Full Disk Access in macOS",
+   "url": "https://developer.apple.com/news/?id=p6zjojqw",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49937631",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 287,
+   "comments": 203,
+   "publishedAt": 1790969821000,
+   "isAI": false,
+   "score": 41.1,
+   "hot": false
   },
   {
    "title": "Show GN: 당신이 직접 관계를 고르는 AI 컴패니언, Inanna",
@@ -349,22 +391,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
-   "title": "Updates to Full Disk Access in macOS",
-   "url": "https://developer.apple.com/news/?id=p6zjojqw",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49937631",
+   "title": "An Update on Orion for Linux and Windows",
+   "url": "https://blog.kagi.com/update-orion-linux-windows",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49941447",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 286,
-   "comments": 201,
-   "publishedAt": 1790969821000,
+   "engagement": 175,
+   "comments": 101,
+   "publishedAt": 1791003237000,
    "isAI": false,
-   "score": 41.4,
-   "hot": false
+   "score": 40.9,
+   "hot": true
   },
   {
    "title": "중국의 사회적 현실에 관하여",
@@ -377,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -391,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -405,21 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
-   "hot": true
-  },
-  {
-   "title": "An Update on Orion for Linux and Windows",
-   "url": "https://blog.kagi.com/update-orion-linux-windows",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49941447",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 171,
-   "comments": 99,
-   "publishedAt": 1791003237000,
-   "isAI": false,
-   "score": 41.1,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -433,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -447,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -461,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -475,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -489,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -503,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -517,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -531,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -545,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -559,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -569,11 +597,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 571,
+   "engagement": 572,
    "comments": 405,
    "publishedAt": 1790896244000,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 39,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -601,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -612,10 +640,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 259,
-   "comments": 190,
+   "comments": 191,
    "publishedAt": 1790950932000,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -629,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -643,21 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.7,
-   "hot": false
-  },
-  {
-   "title": "Opus 5.5에게 가상 캔버스를 주고 그림을 그리게 해봤다",
-   "url": "https://news.hada.io/topic?id=34679",
-   "summary": "stillwet 은 Opus 5.5 등 AI 모델이 붓질을 코드로 작성해 유화를 그리는 실험으로, 이미지 생성 모델은 사용하지 않음 가상 작업실은 붓, 젖은 물감, 건조와 덧칠을 시뮬레이션하며, 모델은 조금씩 그린 뒤 캔버스를 확인하고 다음 붓질을 결정 함...",
-   "publishedAt": 1790970357000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.4,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -671,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -681,11 +695,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 159,
-   "comments": 103,
+   "engagement": 160,
+   "comments": 104,
    "publishedAt": 1790975216000,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -699,7 +713,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.4,
+   "hot": false
+  },
+  {
+   "title": "Big Tech ruined the cloud, so we're renaming ours",
+   "url": "https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49934228",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 210,
+   "comments": 107,
+   "publishedAt": 1790953042000,
+   "isAI": false,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -713,21 +741,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.6,
-   "hot": false
-  },
-  {
-   "title": "Big Tech ruined the cloud, so we're renaming ours",
-   "url": "https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49934228",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 209,
-   "comments": 107,
-   "publishedAt": 1790953042000,
-   "isAI": false,
-   "score": 37.5,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -741,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -755,7 +769,21 @@
    "comments": 38,
    "publishedAt": 1790974335000,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.4,
+   "hot": false
+  },
+  {
+   "title": "StreetComplete on iOS is now in public beta",
+   "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49920160",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 627,
+   "comments": 175,
+   "publishedAt": 1790852397000,
+   "isAI": false,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -769,21 +797,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
-   "title": "StreetComplete on iOS is now in public beta",
-   "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49920160",
+   "title": "Vote on which of Hacker News' challenges for AI have been met",
+   "url": "https://stoppels.ch/goalposts/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49924618",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 626,
-   "comments": 175,
-   "publishedAt": 1790852397000,
-   "isAI": false,
-   "score": 36.4,
+   "engagement": 200,
+   "comments": 267,
+   "publishedAt": 1790875963000,
+   "isAI": true,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -797,21 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
-   "hot": false
-  },
-  {
-   "title": "Vote on which of Hacker News' challenges for AI have been met",
-   "url": "https://stoppels.ch/goalposts/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49924618",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 199,
-   "comments": 267,
-   "publishedAt": 1790875963000,
-   "isAI": true,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -822,10 +836,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 136,
-   "comments": 87,
+   "comments": 88,
    "publishedAt": 1790970306000,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -839,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -852,34 +866,6 @@
    "lang": "en",
    "engagement": null,
    "baseWeight": 50,
-   "isAI": true,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "잘 잊어버리는 CPU(M4에서 Linux 구동하기)",
-   "url": "https://news.hada.io/topic?id=34704",
-   "summary": "M4 Mac에서 모든 CPU 코어를 사용하며 Linux를 셸까지 부팅 하는 데 성공했으며, 필요한 수정이 Linux 본류와 Asahi Linux의 부팅 도구 m1n1 에 반영됨 핵심 장애물은 인터럽트를 기다리는 WFI 명령 이 CPU 레지스터의 값을 지워버리는 동작이었음. ...",
-   "publishedAt": 1791009275000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.7,
-   "hot": false
-  },
-  {
-   "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-   "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49921050",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 210,
-   "comments": 160,
-   "publishedAt": 1790859655000,
    "isAI": true,
    "score": 35.5,
    "hot": false
@@ -895,7 +881,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.3,
+   "hot": false
+  },
+  {
+   "title": "잘 잊어버리는 CPU(M4에서 Linux 구동하기)",
+   "url": "https://news.hada.io/topic?id=34704",
+   "summary": "M4 Mac에서 모든 CPU 코어를 사용하며 Linux를 셸까지 부팅 하는 데 성공했으며, 필요한 수정이 Linux 본류와 Asahi Linux의 부팅 도구 m1n1 에 반영됨 핵심 장애물은 인터럽트를 기다리는 WFI 명령 이 CPU 레지스터의 값을 지워버리는 동작이었음. ...",
+   "publishedAt": 1791009275000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.3,
+   "hot": false
+  },
+  {
+   "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+   "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49921050",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 210,
+   "comments": 160,
+   "publishedAt": 1790859655000,
+   "isAI": true,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -909,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -923,7 +937,7 @@
    "comments": 952,
    "publishedAt": 1790701605000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -937,7 +951,7 @@
    "comments": 115,
    "publishedAt": 1790870516000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -951,7 +965,7 @@
    "comments": 462,
    "publishedAt": 1790783411000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -965,7 +979,7 @@
    "comments": 111,
    "publishedAt": 1790850096000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34,
    "hot": false
   },
   {
@@ -979,7 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -993,35 +1007,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "Show GN: Piano: Soloist - 악보 파일(MusicXML)을 올리면 악보와 건반으로 재생해 주는 웹 피아노 비주얼라이저",
-   "url": "https://news.hada.io/topic?id=34695",
-   "summary": "피아노 비주얼라이저 웹 앱입니다. MusicXML 악보(.mxl, .musicxml)를 끌어다 놓으면 악보, 떨어지는 노트, 건반이 한 화면에서 같이 재생됩니다. 설치와 가입이 없고 무료입니다. 대표적인 특징은 세 가지입니다. 악보가 같이 나옵니다. 떨어지는 노트만 보여 주는 것이 아니라, 위쪽 악보가 연주 위치",
-   "publishedAt": 1790988101000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
-   "url": "https://news.hada.io/topic?id=34694",
-   "summary": "채팅, 기기 이벤트, 작업 이력과 에이전트 대화를 순서대로 저장하고 실시간으로 전달 하는 스트림 서버 읽던 위치부터 이어받거나 과거 기록을 다시 읽을 수 있어 실시간 구독과 이벤트 이력 보관에 활용 모든 레코드와 쓰기 복구 로그인 WAL을 S3 호환...",
-   "publishedAt": 1790987402000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.7,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1035,7 +1021,35 @@
    "comments": 156,
    "publishedAt": 1790859327000,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "Show GN: Piano: Soloist - 악보 파일(MusicXML)을 올리면 악보와 건반으로 재생해 주는 웹 피아노 비주얼라이저",
+   "url": "https://news.hada.io/topic?id=34695",
+   "summary": "피아노 비주얼라이저 웹 앱입니다. MusicXML 악보(.mxl, .musicxml)를 끌어다 놓으면 악보, 떨어지는 노트, 건반이 한 화면에서 같이 재생됩니다. 설치와 가입이 없고 무료입니다. 대표적인 특징은 세 가지입니다. 악보가 같이 나옵니다. 떨어지는 노트만 보여 주는 것이 아니라, 위쪽 악보가 연주 위치",
+   "publishedAt": 1790988101000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
+   "url": "https://news.hada.io/topic?id=34694",
+   "summary": "채팅, 기기 이벤트, 작업 이력과 에이전트 대화를 순서대로 저장하고 실시간으로 전달 하는 스트림 서버 읽던 위치부터 이어받거나 과거 기록을 다시 읽을 수 있어 실시간 구독과 이벤트 이력 보관에 활용 모든 레코드와 쓰기 복구 로그인 WAL을 S3 호환...",
+   "publishedAt": 1790987402000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1049,7 +1063,7 @@
    "comments": 219,
    "publishedAt": 1790886207000,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1063,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1077,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1091,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1105,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1119,7 +1133,7 @@
    "comments": 190,
    "publishedAt": 1790888857000,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1133,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1147,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1161,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1175,7 +1189,7 @@
    "comments": 47,
    "publishedAt": 1790928348000,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1189,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1202,34 +1216,6 @@
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
-   "isAI": false,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "Apple Pass Designer - 애플 지갑용 티켓·카드 디자인 도구",
-   "url": "https://news.hada.io/topic?id=34680",
-   "summary": "Apple Wallet에 넣을 탑승권·입장권·멤버십 카드 를 디자인하고 미리 보는 도구로, Apple 제공 템플릿이나 자체 템플릿을 활용할 수 있음 편집하면서 iPhone과 Apple Watch에서 보일 모습 을 실시간으로 확인하며, 실제 iOS·watchOS와 같은 렌더링을 사용함",
-   "publishedAt": 1790973495000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "How to speed up the Rust compiler in September 2026",
-   "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49920896",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 276,
-   "comments": 166,
-   "publishedAt": 1790858678000,
    "isAI": false,
    "score": 32.2,
    "hot": false
@@ -1245,7 +1231,21 @@
    "comments": 431,
    "publishedAt": 1790699448000,
    "isAI": true,
-   "score": 32.2,
+   "score": 32.1,
+   "hot": false
+  },
+  {
+   "title": "How to speed up the Rust compiler in September 2026",
+   "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49920896",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 276,
+   "comments": 166,
+   "publishedAt": 1790858678000,
+   "isAI": false,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1259,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1273,7 +1273,7 @@
    "comments": 248,
    "publishedAt": 1790859951000,
    "isAI": false,
-   "score": 31.8,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1287,7 +1287,7 @@
    "comments": 138,
    "publishedAt": 1790829158000,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1301,7 +1301,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+   "url": "https://github.com/maanHimself/OpenDLSS-NR",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49906100",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 271,
+   "comments": 125,
+   "publishedAt": 1790757801000,
+   "isAI": true,
+   "score": 31,
    "hot": false
   },
   {
@@ -1315,48 +1329,6 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-   "url": "https://github.com/maanHimself/OpenDLSS-NR",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49906100",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 271,
-   "comments": 124,
-   "publishedAt": 1790757801000,
-   "isAI": true,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "Sean Parker is rebuilding Stability AI around music",
-   "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-   "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-   "publishedAt": 1790975354000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "url": "https://www.cssbed.com",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49927212",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 161,
-   "comments": 47,
-   "publishedAt": 1790889692000,
-   "isAI": false,
    "score": 31,
    "hot": false
   },
@@ -1371,21 +1343,35 @@
    "comments": 97,
    "publishedAt": 1790789860000,
    "isAI": true,
-   "score": 31,
+   "score": 30.8,
    "hot": false
   },
   {
-   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-   "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-   "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-   "publishedAt": 1791053037000,
+   "title": "Sean Parker is rebuilding Stability AI around music",
+   "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+   "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+   "publishedAt": 1790975354000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
-   "isAI": false,
+   "isAI": true,
    "score": 30.8,
+   "hot": false
+  },
+  {
+   "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+   "url": "https://www.cssbed.com",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49927212",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 161,
+   "comments": 47,
+   "publishedAt": 1790889692000,
+   "isAI": false,
+   "score": 30.7,
    "hot": false
   },
   {
@@ -1399,7 +1385,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.8,
+   "score": 30.5,
+   "hot": false
+  },
+  {
+   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+   "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+   "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+   "publishedAt": 1791053037000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": false,
+   "score": 30.4,
    "hot": false
   }
  ]
