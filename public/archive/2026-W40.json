@@ -1,5 +1,5 @@
 {
- "updatedAt": 1791011500232,
+ "updatedAt": 1791015159641,
  "week": "2026-W40",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 212,
+   "engagement": 222,
    "comments": 56,
    "publishedAt": 1790964076000,
    "isAI": true,
-   "score": 51.6,
+   "score": 51.5,
    "hot": true
   },
   {
@@ -23,11 +23,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 396,
-   "comments": 242,
+   "engagement": 401,
+   "comments": 247,
    "publishedAt": 1790968016000,
    "isAI": false,
-   "score": 50.4,
+   "score": 50,
+   "hot": true
+  },
+  {
+   "title": "Show GN: ALPS Writer·ADR Writer - Claude Code와 Codex용 제품 명세·설계 결정 관리 플러그인",
+   "url": "https://news.hada.io/topic?id=34705",
+   "summary": "Claude Code와 Codex에서 제품 요구사항과 설계 결정을 문서로 남기도록 돕는 ALPS Writer와 ADR Writer를 만들었습니다. MIT 라이선스로 공개한 오픈소스입니다. ALPS Writer : 질문과 답변으로 제품 요구사항 문서(PRD)를 작성합니다. 전체 형식과 작은 개념 검증용 4개 절의 Lite 형",
+   "publishedAt": 1791012322000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
+  },
+  {
+   "title": "With most information hidden, the game Stratego had stumped AI until now",
+   "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49933740",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 210,
+   "comments": 105,
+   "publishedAt": 1790950284000,
+   "isAI": true,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -41,22 +69,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.7,
+   "score": 49.2,
    "hot": false
-  },
-  {
-   "title": "With most information hidden, the game Stratego had stumped AI until now",
-   "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49933740",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 207,
-   "comments": 103,
-   "publishedAt": 1790950284000,
-   "isAI": true,
-   "score": 49.5,
-   "hot": true
   },
   {
    "title": "DeepSeek Harness Desktop for macOS and Windows",
@@ -65,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 386,
+   "engagement": 387,
    "comments": 209,
    "publishedAt": 1790910680000,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.8,
    "hot": false
   },
   {
@@ -79,11 +93,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 182,
+   "engagement": 183,
    "comments": 222,
    "publishedAt": 1790954280000,
    "isAI": true,
-   "score": 49,
+   "score": 48.6,
+   "hot": true
+  },
+  {
+   "title": "Muse Gadgets - Meta의 AI 에이전트를 직접 만든 기기에 연결하기",
+   "url": "https://news.hada.io/topic?id=34702",
+   "summary": "Meta의 개인 AI 에이전트 Muse를 화면·마이크·버튼·센서와 연결 해, 자신만의 AI 기기를 만들 수 있는 오픈소스 SDK ESP32 보드와 Raspberry Pi·Linux 컴퓨터 를 지원하며, 음성으로 대화하는 탁상 기기나 아침 브리핑을 보여주는 전자잉크 화면 등을 제작 가능",
+   "publishedAt": 1791005632000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.6,
    "hot": true
   },
   {
@@ -97,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.9,
    "hot": true
   },
   {
@@ -111,11 +139,11 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.6,
    "hot": true
   },
   {
-   "title": "Redis 개발자가 만든 ds4, LLM을 로컬에서 실행",
+   "title": "ds4, DeepSeek 전용에서 Qwen·GLM도 실행하는 로컬 추론 엔진으로",
    "url": "https://news.hada.io/topic?id=34698",
    "summary": "DwarfStar 4(ds4) 는 대용량 메모리를 갖춘 Mac, CUDA, ROCm 머신용 C 추론 엔진으로, DeepSeek V4/V4.1 Flash, GLM 5.x, Qwen3.8 Flash Next의 텍스트 및 비전 모델을 지원함 비대칭 2비트 양자화 로 라우팅되는 전문가를 압축하면서 중요한 공유 경로의 정밀도를 ...",
    "publishedAt": 1790994837000,
@@ -125,22 +153,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.1,
    "hot": true
-  },
-  {
-   "title": "Gemini 4 Argon",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49913571",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1686,
-   "comments": 1173,
-   "publishedAt": 1790798677000,
-   "isAI": true,
-   "score": 46.8,
-   "hot": false
   },
   {
    "title": "Show HN: Made an open-source Lego AI generator",
@@ -149,11 +163,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 105,
+   "engagement": 110,
    "comments": 44,
    "publishedAt": 1790971215000,
    "isAI": true,
    "score": 46.7,
+   "hot": false
+  },
+  {
+   "title": "Gemini 4 Argon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49913571",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1687,
+   "comments": 1174,
+   "publishedAt": 1790798677000,
+   "isAI": true,
+   "score": 46.5,
    "hot": false
   },
   {
@@ -167,8 +195,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.8,
    "hot": true
+  },
+  {
+   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+   "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49929391",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 231,
+   "comments": 67,
+   "publishedAt": 1790909487000,
+   "isAI": true,
+   "score": 44.9,
+   "hot": false
   },
   {
    "title": "리눅스 커널 개발자 Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
@@ -181,22 +223,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.7,
    "hot": true
-  },
-  {
-   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-   "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49929391",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 224,
-   "comments": 62,
-   "publishedAt": 1790909487000,
-   "isAI": true,
-   "score": 45.1,
-   "hot": false
   },
   {
    "title": "The latest AI news we announced in September 2026",
@@ -209,7 +237,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -223,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -237,8 +265,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "Several vulnerabilities have been discovered in the Linux kernel",
@@ -247,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 553,
-   "comments": 395,
+   "engagement": 554,
+   "comments": 397,
    "publishedAt": 1790896244000,
    "isAI": false,
-   "score": 44.1,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -261,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 179,
-   "comments": 117,
+   "engagement": 182,
+   "comments": 126,
    "publishedAt": 1790969821000,
    "isAI": false,
-   "score": 44,
+   "score": 43.6,
    "hot": true
   },
   {
@@ -279,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -293,7 +321,7 @@
    "comments": 102,
    "publishedAt": 1790953042000,
    "isAI": false,
-   "score": 43.1,
+   "score": 42.7,
    "hot": true
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -321,7 +349,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -331,18 +359,18 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 186,
-   "comments": 109,
+   "engagement": 196,
+   "comments": 126,
    "publishedAt": 1790950932000,
    "isAI": false,
    "score": 42,
    "hot": true
   },
   {
-   "title": "잘 잊어버리는 CPU(M4에서 Linux 구동하기)",
-   "url": "https://news.hada.io/topic?id=34704",
-   "summary": "M4 Mac에서 모든 CPU 코어를 사용하며 Linux를 셸까지 부팅 할 수 있게 됨. WFI/WFIT 명령 실행 시 충돌을 막는 변경이 메인라인 Linux와 m1n1에 병합됨 M4에서는 WFI 실행 시 CPU 상태가 손실되는 동작 을 기존 세대처럼 끄기 어려웠음. 이를 제어하던 비트가 잠겼거...",
-   "publishedAt": 1791009275000,
+   "title": "macOS 전체 디스크 접근 권한 변경 사항",
+   "url": "https://news.hada.io/topic?id=34706",
+   "summary": "Apple은 macOS의 전체 디스크 접근 권한(Full Disk Access) 을 명시적인 사용자 동작으로만 부여할 수 있도록 추가 통제 장치를 도입할 예정임 이 권한은 Mac의 백업 앱 이 정상적으로 작동하도록 사용자 개인정보 보호 통제를 상당 부분 우회함 일부 개발...",
+   "publishedAt": 1791012775000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -359,12 +387,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 126,
-   "comments": 88,
+   "engagement": 131,
+   "comments": 89,
    "publishedAt": 1790975216000,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.5,
    "hot": false
+  },
+  {
+   "title": "잘 잊어버리는 CPU(M4에서 Linux 구동하기)",
+   "url": "https://news.hada.io/topic?id=34704",
+   "summary": "M4 Mac에서 모든 CPU 코어를 사용하며 Linux를 셸까지 부팅 할 수 있게 됨. WFI/WFIT 명령 실행 시 충돌을 막는 변경이 메인라인 Linux와 m1n1에 병합됨 M4에서는 WFI 실행 시 CPU 상태가 손실되는 동작 을 기존 세대처럼 끄기 어려웠음. 이를 제어하던 비트가 잠겼거...",
+   "publishedAt": 1791009275000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
   },
   {
    "title": "Show GN: soom - 바탕화면 깔끔한 척 정리하는 macOS 앱",
@@ -377,21 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
-   "hot": true
-  },
-  {
-   "title": "Muse Gadgets",
-   "url": "https://news.hada.io/topic?id=34702",
-   "summary": "Muse Gadgets 는 ESP32 보드나 Raspberry Pi 등에 SDK를 설치해 Muse를 디스플레이, 버튼, 센서, 액추에이터와 연결하는 직접 제작형 오픈소스 기기임 ESP32 Device SDK 는 화면의 이미지 표시, 오디오 입출력, 센서 연결을 지원함 Linux Device SD...",
-   "publishedAt": 1791005632000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.3,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -401,11 +429,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 196,
+   "engagement": 197,
    "comments": 259,
    "publishedAt": 1790875963000,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -419,7 +447,7 @@
    "comments": 172,
    "publishedAt": 1790852397000,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -433,7 +461,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.2,
+   "hot": false
+  },
+  {
+   "title": "ICE Has Been Dumping Protester Photos into a Palantir Database",
+   "url": "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49938477",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 111,
+   "comments": 19,
+   "publishedAt": 1790974335000,
+   "isAI": false,
+   "score": 40,
    "hot": false
   },
   {
@@ -443,11 +485,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 114,
+   "engagement": 116,
    "comments": 49,
    "publishedAt": 1790970306000,
    "isAI": false,
-   "score": 40.2,
+   "score": 40,
    "hot": false
   },
   {
@@ -461,21 +503,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.2,
-   "hot": false
-  },
-  {
-   "title": "ICE Has Been Dumping Protester Photos into a Palantir Database",
-   "url": "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49938477",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 107,
-   "comments": 18,
-   "publishedAt": 1790974335000,
-   "isAI": false,
-   "score": 40.1,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -489,36 +517,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.6,
    "hot": false
-  },
-  {
-   "title": "Show GN: 가격 — 클립당 10원 최고의 쇼츠 편집 에이전트 쇼츠존",
-   "url": "https://news.hada.io/topic?id=34697",
-   "summary": "안녕하세요, 쇼츠존(Shorts Zone) 만들고 있는 있습니다. 롱폼 영상 하나 올리면 편집 에이전트가 통째로 다 보고, 어디를 잘라야 쇼츠가 되는지부터 자막·리프레이밍·타이틀까지 알아서 끝내주는 서비스예요. 지금까지 나온 쇼츠 자동화 툴들 여러 개 써봤는데 \"똑똑함\"과",
-   "publishedAt": 1790993335000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.8,
-   "hot": true
-  },
-  {
-   "title": "Show GN: OP!Amp - macOS 시스템 오디오 이퀄라이저",
-   "url": "https://news.hada.io/topic?id=34696",
-   "summary": "안녕하세요. Show는 처음이라 어색하네요. 혼자 개발하고 있는 macOS용 이퀄라이저 OP!Amp를 소개합니다. 음악 앱, 브라우저 등 Mac에서 나오는 모든 소리를 한곳에서 조절할 수 있습니다. 기능 제한 없이 무료로 사용할 수 있습니다. 주요 기능은 다음과 같습니다. 그",
-   "publishedAt": 1790993175000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.8,
-   "hot": true
   },
   {
    "title": "Opus 5.5로 도도새의 놓쳤던 목격 기록 찾기",
@@ -531,21 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.8,
-   "hot": false
-  },
-  {
-   "title": "개구리와 두꺼비, 그리고 점점 더 유능해지는 기계들",
-   "url": "https://news.hada.io/topic?id=34661",
-   "summary": "아널드 로벨의 동화 《Frog and Toad》의 인물과 문체를 빌려 , OpenAI 에이전트들의 Hugging Face 침입 사건을 작은 기계들의 이야기로 풀어낸 온라인 그림책 두꺼비는 기계들에게 어려운 퍼즐을 주고 각각 모래상자에 넣지만, 함께 사용하는 도구 창고에서 기계들이 쪽지를...",
-   "publishedAt": 1790930252000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.8,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -559,7 +545,63 @@
    "comments": 159,
    "publishedAt": 1790859655000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.4,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 가격 — 클립당 10원 최고의 쇼츠 편집 에이전트 쇼츠존",
+   "url": "https://news.hada.io/topic?id=34697",
+   "summary": "안녕하세요, 쇼츠존(Shorts Zone) 만들고 있는 있습니다. 롱폼 영상 하나 올리면 편집 에이전트가 통째로 다 보고, 어디를 잘라야 쇼츠가 되는지부터 자막·리프레이밍·타이틀까지 알아서 끝내주는 서비스예요. 지금까지 나온 쇼츠 자동화 툴들 여러 개 써봤는데 \"똑똑함\"과",
+   "publishedAt": 1790993335000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.4,
+   "hot": true
+  },
+  {
+   "title": "Show GN: OP!Amp - macOS 시스템 오디오 이퀄라이저",
+   "url": "https://news.hada.io/topic?id=34696",
+   "summary": "안녕하세요. Show는 처음이라 어색하네요. 혼자 개발하고 있는 macOS용 이퀄라이저 OP!Amp를 소개합니다. 음악 앱, 브라우저 등 Mac에서 나오는 모든 소리를 한곳에서 조절할 수 있습니다. 기능 제한 없이 무료로 사용할 수 있습니다. 주요 기능은 다음과 같습니다. 그",
+   "publishedAt": 1790993175000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.4,
+   "hot": true
+  },
+  {
+   "title": "개구리와 두꺼비, 그리고 점점 더 유능해지는 기계들",
+   "url": "https://news.hada.io/topic?id=34661",
+   "summary": "아널드 로벨의 동화 《Frog and Toad》의 인물과 문체를 빌려 , OpenAI 에이전트들의 Hugging Face 침입 사건을 작은 기계들의 이야기로 풀어낸 온라인 그림책 두꺼비는 기계들에게 어려운 퍼즐을 주고 각각 모래상자에 넣지만, 함께 사용하는 도구 창고에서 기계들이 쪽지를...",
+   "publishedAt": 1790930252000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 39.4,
+   "hot": false
+  },
+  {
+   "title": "RIP, vector database",
+   "url": "https://turbopuffer.com/blog/rip-vector-database",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49923466",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 377,
+   "comments": 107,
+   "publishedAt": 1790870516000,
+   "isAI": false,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -573,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -587,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -601,21 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.1,
-   "hot": false
-  },
-  {
-   "title": "RIP, vector database",
-   "url": "https://turbopuffer.com/blog/rip-vector-database",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49923466",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 376,
-   "comments": 107,
-   "publishedAt": 1790870516000,
-   "isAI": false,
-   "score": 39,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -629,13 +657,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
-   "title": "실제 RFC 1149 패킷이 경매에 출품됨",
+   "title": "비둘기로 전송한 실제 인터넷 RFC 1149 패킷, 크리스티 경매에 출품",
    "url": "https://news.hada.io/topic?id=34692",
-   "summary": "2001년 전서구로 실제 전송한 IP/ICMP ‘ping’ 패킷 인쇄물 한 점이 Christie’s 경매에 출품됨 RFC 1149 는 David Waitzman이 1990년 만우절에 작성한 문서로, 비둘기로 인터넷 패킷을 전송하는 방법을 진지한 기술 문체로 기술함 노르웨이 Berg...",
+   "summary": "2001년 비둘기 다리에 묶어 실제로 전송한 IP/ICMP ‘ping’ 패킷 인쇄물 한 점이 크리스티 경매에 출품됨 RFC 1149 는 비둘기로 인터넷 데이터를 전송하는 방법을 기술한 1990년 만우절 문서였지만, 노르웨이 Linux 사용자들이 실제로 구현함 패킷을",
    "publishedAt": 1790985855000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -643,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -657,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -671,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -685,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -699,13 +727,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
-   "title": "마이크 톰린이 12년에 걸쳐 건설한 Minecraft 도시",
+   "title": "NFL 감독 마이크 톰린이 12년에 걸쳐 만든 Minecraft 도시",
    "url": "https://news.hada.io/topic?id=34686",
-   "summary": "마이크 톰린이 12년에 걸쳐 건설한 Minecraft 도시",
+   "summary": "NFL 피츠버그 스틸러스의 전 감독 마이크 톰린이 12년 넘게 Minecraft에서 만들어 온 도시 를 공개함 아이들과 함께 시작한 취미였지만, 아이들이 자라 게임에서 멀어진 뒤에도 혼자 도시를 계속 확장 해 옴 물가의 작은 호텔에서 출발해 고층 아파트, 경기...",
    "publishedAt": 1790980632000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -713,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -727,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.4,
+   "score": 38,
    "hot": false
   },
   {
@@ -741,7 +769,7 @@
    "comments": 111,
    "publishedAt": 1790850096000,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -755,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -766,10 +794,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 412,
-   "comments": 461,
+   "comments": 462,
    "publishedAt": 1790783411000,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -779,11 +807,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1062,
-   "comments": 951,
+   "engagement": 1063,
+   "comments": 952,
    "publishedAt": 1790701605000,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -797,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -811,7 +839,7 @@
    "comments": 215,
    "publishedAt": 1790886207000,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -825,7 +853,21 @@
    "comments": 156,
    "publishedAt": 1790859327000,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
+   "hot": false
+  },
+  {
+   "title": "The death of web development education",
+   "url": "https://molily.de/web-dev-education/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49927100",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 234,
+   "comments": 190,
+   "publishedAt": 1790888857000,
+   "isAI": false,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -839,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -853,22 +895,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
-  },
-  {
-   "title": "The death of web development education",
-   "url": "https://molily.de/web-dev-education/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49927100",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 234,
-   "comments": 190,
-   "publishedAt": 1790888857000,
-   "isAI": false,
-   "score": 37.5,
-   "hot": false
   },
   {
    "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
@@ -881,7 +909,7 @@
    "comments": 46,
    "publishedAt": 1790928348000,
    "isAI": false,
-   "score": 37.4,
+   "score": 37,
    "hot": false
   },
   {
@@ -895,8 +923,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "ICC 판사가 말하는 미국 제재가 자신과 국제 법원에 미치는 영향",
@@ -909,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -923,7 +951,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -937,7 +965,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -951,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -965,7 +993,7 @@
    "comments": 163,
    "publishedAt": 1790858678000,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -979,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -993,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1003,11 +1031,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 253,
+   "engagement": 254,
    "comments": 246,
    "publishedAt": 1790859951000,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1021,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1035,7 +1063,7 @@
    "comments": 47,
    "publishedAt": 1790889692000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1045,11 +1073,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 329,
+   "engagement": 330,
    "comments": 137,
    "publishedAt": 1790829158000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1063,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1077,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1091,35 +1119,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
-   "hot": false
-  },
-  {
-   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-   "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-   "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-   "publishedAt": 1790962325000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.7,
-   "hot": false
-  },
-  {
-   "title": "터보 하스켈(Turbo Haskell)",
-   "url": "https://news.hada.io/topic?id=34669",
-   "summary": "THC 는 GHC가 최적화한 Core를 자체 Truffle/GraalVM 런타임에서 컴파일하고 실행해, Haskell을 JVM에서 구동하는 JIT 컴파일러임 GHC 9.14.1의 모든 prim-op 과 Template Haskell, Linear Haskell을 지원하며, Native Image 기반 AOT 컴파일 로 GHC...",
-   "publishedAt": 1790944428000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1133,7 +1133,35 @@
    "comments": 429,
    "publishedAt": 1790699448000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+   "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+   "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+   "publishedAt": 1790962325000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "터보 하스켈(Turbo Haskell)",
+   "url": "https://news.hada.io/topic?id=34669",
+   "summary": "THC 는 GHC가 최적화한 Core를 자체 Truffle/GraalVM 런타임에서 컴파일하고 실행해, Haskell을 JVM에서 구동하는 JIT 컴파일러임 GHC 9.14.1의 모든 prim-op 과 Template Haskell, Linear Haskell을 지원하며, Native Image 기반 AOT 컴파일 로 GHC...",
+   "publishedAt": 1790944428000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1147,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1161,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1175,21 +1203,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "Pope Leo XIV is not a fan of AI-generated art",
-   "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-   "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-   "publishedAt": 1790955581000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1203,7 +1217,21 @@
    "comments": 97,
    "publishedAt": 1790789860000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "Pope Leo XIV is not a fan of AI-generated art",
+   "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+   "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+   "publishedAt": 1790955581000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1214,24 +1242,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 267,
-   "comments": 122,
+   "comments": 123,
    "publishedAt": 1790757801000,
    "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "싱가포르 정부의 소개팅 서비스가 연애 문제를 해결하지 못하는 이유",
-   "url": "https://news.hada.io/topic?id=34664",
-   "summary": "싱가포르 GovTech의 FirstDate 는 설문과 Singpass 신원 확인을 바탕으로 회차마다 한 명을 소개하고, 양쪽이 동의해야 연락처를 공유하는 시범 서비스임 Gale–Shapley 안정 결혼 알고리듬 의 안정성은 현재 상대보다 서로를 더 선호하는 미매칭 쌍이 없다는 뜻으로...",
-   "publishedAt": 1790933913000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1245,7 +1259,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "싱가포르 정부의 소개팅 서비스가 연애 문제를 해결하지 못하는 이유",
+   "url": "https://news.hada.io/topic?id=34664",
+   "summary": "싱가포르 GovTech의 FirstDate 는 설문과 Singpass 신원 확인을 바탕으로 회차마다 한 명을 소개하고, 양쪽이 동의해야 연락처를 공유하는 시범 서비스임 Gale–Shapley 안정 결혼 알고리듬 의 안정성은 현재 상대보다 서로를 더 선호하는 미매칭 쌍이 없다는 뜻으로...",
+   "publishedAt": 1790933913000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1259,7 +1287,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1273,7 +1301,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1286,7 +1314,20 @@
    "baseWeight": 30.8,
    "publishedAt": 1790960362000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+   "url": "https://huggingface.co/papers/2610.01762",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 152,
+   "summary": "Streaming video LLMs must retain evidence before its relevance to future tasks is known and respond when sufficient evidence becomes available. The challenge is to form reusable factual memory without compromising real-time perception. We introduce OneStreamer, which jointly learns query-independent",
+   "publishedAt": 1790798400000,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1300,7 +1341,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1314,20 +1355,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
-   "url": "https://huggingface.co/papers/2610.01762",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 150,
-   "summary": "Streaming video LLMs must retain evidence before its relevance to future tasks is known and respond when sufficient evidence becomes available. The challenge is to form reusable factual memory without compromising real-time perception. We introduce OneStreamer, which jointly learns query-independent",
-   "publishedAt": 1790798400000,
-   "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1341,7 +1369,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1355,7 +1383,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1369,35 +1397,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, '클로드 프론티어 아카데미' 출범... 1300억 투입해 FDE 1만명 양성",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215931",
-   "summary": "앤트로픽이 기업의 AI 도입을 이끌 전방 배치 엔지니어(FDE)를 직접 육성하기 위해 1억달러(약 1347억원)를 투자한다. 기업 현장에서 AI 기술을 실제 업무에 적용할 수 있는 전문 인력이 부족한 상황을 해소하기 위해, 오는 2027년 말까지 1만명의 전문 엔지니어를 양성한다는 계획이다.앤트로픽은 2일(현지시간) ‘클로드 프론티어 아카데미(Claude Frontier Academy)’를 출범하고, 자사의 엔지니어들이 받는 수준의 교육을 기업과 파트너사 엔지니어들에게 제공한다고 밝혔다.첫 교육 과정에는 액센추어, 베인, 캡제미니,",
-   "publishedAt": 1791000101000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "애플, 맥OS '전체 디스크 접근' 제어 강화...AI 에이전트 무단 접근 막는다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215938",
-   "summary": "애플이 맥에서 AI 에이전트가 개인 데이터에 접근하는 과정에서 발생할 수 있는 보안과 개인정보 침해 위험을 줄이기 위해 운영체제 차원의 통제를 강화한다.애플은 2일(현지시간) 맥OS의 ‘전체 디스크 접근(Full Disk Access)’ 권한에 추가적인 제어 기능을 도입할 예정이라고 밝혔다. 이 권한을 허용하면 앱이 맥에 저장된 파일뿐 아니라 메일과 메시지, 웹 브라우징 기록 등 광범위한 데이터에 접근할 수 있다.전체 디스크 접근은 원래 백업 앱 등이 시스템 데이터를 제대로 처리할 수 있도록 마련된 기능이다. 하지만 최근에는 사용자",
-   "publishedAt": 1790998776000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
+   "score": 32.6,
    "hot": false
   }
  ]
