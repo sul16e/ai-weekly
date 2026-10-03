@@ -1,5 +1,5 @@
 {
- "updatedAt": 1791062524834,
+ "updatedAt": 1791066183197,
  "week": "2026-W40",
  "items": [
   {
@@ -13,7 +13,35 @@
    "comments": 11,
    "publishedAt": 1791024231000,
    "isAI": true,
-   "score": 58.6,
+   "score": 58,
+   "hot": true
+  },
+  {
+   "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+   "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49946567",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 105,
+   "comments": 63,
+   "publishedAt": 1791052170000,
+   "isAI": true,
+   "score": 50.4,
+   "hot": false
+  },
+  {
+   "title": "모두가 짐을 싸고 있다",
+   "url": "https://news.hada.io/topic?id=34731",
+   "summary": "플랫폼에서 오랜 시간을 보낸 사람들이 서비스가 달라진 뒤 떠나는 경험 을 공유하고 있음 떠나는 이유는 가격 변경, 게시물의 AI 학습 활용 , 새 소유주나 정책, 더는 사람을 위해 만들어지는 서비스가 아니라는 느낌 등으로 다양함 이들은 더 큰 서비스보...",
+   "publishedAt": 1791064157000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
    "hot": true
   },
   {
@@ -27,7 +55,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -37,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 336,
+   "engagement": 338,
    "comments": 97,
    "publishedAt": 1790964076000,
    "isAI": true,
-   "score": 48.5,
+   "score": 48.1,
    "hot": false
   },
   {
@@ -55,8 +83,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
+  },
+  {
+   "title": "I Quit OpenAI Because Its Culture Is Broken",
+   "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49944227",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 103,
+   "comments": 150,
+   "publishedAt": 1791035194000,
+   "isAI": true,
+   "score": 47.8,
+   "hot": false
   },
   {
    "title": "Kolibri 출시: 주권형 오픈웨이트 모델",
@@ -69,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -83,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -93,11 +135,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 539,
+   "engagement": 540,
    "comments": 321,
    "publishedAt": 1790968016000,
    "isAI": false,
-   "score": 46.3,
+   "score": 45.9,
    "hot": false
   },
   {
@@ -111,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.8,
    "hot": true
   },
   {
@@ -122,10 +164,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 276,
-   "comments": 139,
+   "comments": 140,
    "publishedAt": 1790950284000,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.1,
    "hot": false
   },
   {
@@ -135,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 404,
+   "engagement": 405,
    "comments": 216,
    "publishedAt": 1790910680000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -153,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -167,21 +209,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.5,
-   "hot": false
-  },
-  {
-   "title": "Show GN: ALPS Writer·ADR Writer - Claude Code와 Codex용 제품 명세·설계 결정 관리 플러그인",
-   "url": "https://news.hada.io/topic?id=34705",
-   "summary": "Claude Code와 Codex에서 제품 요구사항과 설계 결정을 문서로 남기도록 돕는 ALPS Writer와 ADR Writer를 만들었습니다. MIT 라이선스로 공개한 오픈소스입니다. ALPS Writer : 질문과 답변으로 제품 요구사항 문서(PRD)를 작성합니다. 전체 형식과 작은 개념 검증용 4개 절의 Lite 형",
-   "publishedAt": 1791012322000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 43.3,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -195,7 +223,21 @@
    "comments": 235,
    "publishedAt": 1790954280000,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.9,
+   "hot": false
+  },
+  {
+   "title": "Show GN: ALPS Writer·ADR Writer - Claude Code와 Codex용 제품 명세·설계 결정 관리 플러그인",
+   "url": "https://news.hada.io/topic?id=34705",
+   "summary": "Claude Code와 Codex에서 제품 요구사항과 설계 결정을 문서로 남기도록 돕는 ALPS Writer와 ADR Writer를 만들었습니다. MIT 라이선스로 공개한 오픈소스입니다. ALPS Writer : 질문과 답변으로 제품 요구사항 문서(PRD)를 작성합니다. 전체 형식과 작은 개념 검증용 4개 절의 Lite 형",
+   "publishedAt": 1791012322000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -205,11 +247,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 139,
+   "engagement": 140,
    "comments": 49,
    "publishedAt": 1790971215000,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -219,11 +261,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1691,
+   "engagement": 1692,
    "comments": 1179,
    "publishedAt": 1790798677000,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -237,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -247,12 +289,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 318,
-   "comments": 115,
+   "engagement": 323,
+   "comments": 116,
    "publishedAt": 1790909487000,
    "isAI": true,
-   "score": 42.3,
+   "score": 42,
    "hot": false
+  },
+  {
+   "title": "도시 건설 게임에는 영혼이 부족하다, 2부",
+   "url": "https://news.hada.io/topic?id=34732",
+   "summary": "Cities: Skylines 2 의 도시 풍경은 지나치게 반듯하고 깨끗해 생동감이 부족하며, 시뮬레이션뿐 아니라 미적 표현 에도 개선이 필요함 네모나고 평평한 표면을 모드와 데칼로 보완할 수 있지만, 도시 구석구석을 수작업으로 꾸미면 알고리듬이 만든 풍경을 ...",
+   "publishedAt": 1791064518000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "Hole Punch - 중력장을 이용해 우주선을 날리는 게임",
+   "url": "https://news.hada.io/topic?id=34730",
+   "summary": "블랙홀의 중력 으로 우주선의 궤도를 휘게 해 정거장에 도킹시키는 게임으로, 우주선을 직접 조종할 수 없음 빈 공간을 길게 클릭하면 물질을 소모해 블랙홀을 키울 수 있으며 , 배치한 블랙홀의 위치와 물질량도 조절 가능함 발사 전 점선으로 비행...",
+   "publishedAt": 1791063977000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
+  },
+  {
+   "title": "FTL, 클라우드를 위한 새로운 운영체제",
+   "url": "https://news.hada.io/topic?id=34729",
+   "summary": "FTL 은 운영체제를 사용자 공간의 라이브러리로 구현해, 애플리케이션을 작성하듯 기능 추가, 디버깅, 안전한 업그레이드를 할 수 있게 함 각 컨테이너는 사용자 공간 OS 를 실행하며, FTL 커널은 Linux 시스템 호출을 사용자 공간에서 구현하는 데 필요한 최소 인터...",
+   "publishedAt": 1791063797000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Show GN: 당신이 직접 관계를 고르는 AI 컴패니언, Inanna",
@@ -265,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -275,11 +359,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 284,
+   "engagement": 286,
    "comments": 201,
    "publishedAt": 1790969821000,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.4,
+   "hot": false
+  },
+  {
+   "title": "중국의 사회적 현실에 관하여",
+   "url": "https://news.hada.io/topic?id=34700",
+   "summary": "중국에 AI 안전과 합리주의 를 확산하려면 콘텐츠 소비 방식, 체면, 인간 본성에 대한 냉소, 민족주의의 차이를 고려해야 할 수 있으며, 이 논의의 근거는 직관과 일화 에 한정됨 중국의 AI 콘텐츠 수용은 기술 낙관론뿐 아니라 기존 대량생산 콘텐츠에 대한...",
+   "publishedAt": 1790998669000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -293,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -307,22 +405,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
-  },
-  {
-   "title": "중국의 사회적 현실에 관하여",
-   "url": "https://news.hada.io/topic?id=34700",
-   "summary": "중국에 AI 안전과 합리주의 를 확산하려면 콘텐츠 소비 방식, 체면, 인간 본성에 대한 냉소, 민족주의의 차이를 고려해야 할 수 있으며, 이 논의의 근거는 직관과 일화 에 한정됨 중국의 AI 콘텐츠 수용은 기술 낙관론뿐 아니라 기존 대량생산 콘텐츠에 대한...",
-   "publishedAt": 1790998669000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41.7,
-   "hot": false
   },
   {
    "title": "An Update on Orion for Linux and Windows",
@@ -331,39 +415,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 168,
-   "comments": 97,
+   "engagement": 171,
+   "comments": 99,
    "publishedAt": 1791003237000,
    "isAI": false,
-   "score": 41.4,
-   "hot": true
-  },
-  {
-   "title": "GrapheneOS, Android 17 QPR1 커널 성능 저하 문제 수정",
-   "url": "https://news.hada.io/topic?id=34726",
-   "summary": "GrapheneOS 가 Android 17 QPR1의 Pixel 커널 드라이버 트리에서 발생한 성능 저하 문제를 수정해 자체 릴리스에 반영함 이 문제는 메모리 압박 상황에서 끊김, 지연, 완전한 멈춤을 일으키며, 작업 정체로 프로세스가 종료될 정도로 심각함 GrapheneOS는 ...",
-   "publishedAt": 1791056704000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.3,
-   "hot": true
-  },
-  {
-   "title": "에티오피아 전쟁의 격화",
-   "url": "https://news.hada.io/topic?id=34725",
-   "summary": "에티오피아 북부에서 TPLF와 암하라 파노 민병대 가 연방정부 및 정부와 연대한 티그라이 세력과 대규모 교전을 재개함. 정부 전복을 목표로 한 반군 연합의 공세가 2022년 평화협정 이후의 질서를 흔들고 있음 전쟁의 원인은 Abiy Ahmed 개인을 넘어선 구조적 문제 ...",
-   "publishedAt": 1791056524000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.3,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -377,8 +433,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
+  },
+  {
+   "title": "GrapheneOS, Android 17 QPR1 커널 성능 저하 문제 수정",
+   "url": "https://news.hada.io/topic?id=34726",
+   "summary": "GrapheneOS 가 Android 17 QPR1의 Pixel 커널 드라이버 트리에서 발생한 성능 저하 문제를 수정해 자체 릴리스에 반영함 이 문제는 메모리 압박 상황에서 끊김, 지연, 완전한 멈춤을 일으키며, 작업 정체로 프로세스가 종료될 정도로 심각함 GrapheneOS는 ...",
+   "publishedAt": 1791056704000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.8,
+   "hot": true
+  },
+  {
+   "title": "에티오피아 전쟁의 격화",
+   "url": "https://news.hada.io/topic?id=34725",
+   "summary": "에티오피아 북부에서 TPLF와 암하라 파노 민병대 가 연방정부 및 정부와 연대한 티그라이 세력과 대규모 교전을 재개함. 정부 전복을 목표로 한 반군 연합의 공세가 2022년 평화협정 이후의 질서를 흔들고 있음 전쟁의 원인은 Abiy Ahmed 개인을 넘어선 구조적 문제 ...",
+   "publishedAt": 1791056524000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.8,
+   "hot": true
   },
   {
    "title": "ICE, 시위 참가자 사진을 Palantir 데이터베이스에 쌓아 와",
@@ -391,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -405,35 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
-   "hot": true
-  },
-  {
-   "title": "tmux를 OS로 만들자",
-   "url": "https://news.hada.io/topic?id=34720",
-   "summary": "tmux의 스크롤, 세션 유지, 분리, 작업 중심 경험 을 일반 사용자도 쓸 수 있는 데스크톱으로 확장하는 구상임. 완성된 제품이 아니라 Linux에서 실험 중인 설계임 기존 창 관리는 반복되는 모니터 전환 , 서로 다른 창 배치 습관, 브라우저 탭과 앱에 흩어진 작업 맥...",
-   "publishedAt": 1791047582000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.2,
-   "hot": true
-  },
-  {
-   "title": "Cloudflare OHTTP 게이트웨이",
-   "url": "https://news.hada.io/topic?id=34719",
-   "summary": "Cloudflare가 사용자 IP를 앱 서버에 노출하지 않는 OHTTP를 쉽게 도입하도록 관리형 OHTTP Gateway 의 비공개 베타를 시작함. 가을에 zone의 유료 부가 기능으로 출시할 예정임 OHTTP는 독립 운영되는 릴레이와 게이트웨이 로 신뢰를 분리해, 한 주체가 클라이언트 ...",
-   "publishedAt": 1791047402000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.2,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -447,8 +503,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.8,
    "hot": false
+  },
+  {
+   "title": "tmux를 OS로 만들자",
+   "url": "https://news.hada.io/topic?id=34720",
+   "summary": "tmux의 스크롤, 세션 유지, 분리, 작업 중심 경험 을 일반 사용자도 쓸 수 있는 데스크톱으로 확장하는 구상임. 완성된 제품이 아니라 Linux에서 실험 중인 설계임 기존 창 관리는 반복되는 모니터 전환 , 서로 다른 창 배치 습관, 브라우저 탭과 앱에 흩어진 작업 맥...",
+   "publishedAt": 1791047582000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.7,
+   "hot": true
+  },
+  {
+   "title": "Cloudflare OHTTP 게이트웨이",
+   "url": "https://news.hada.io/topic?id=34719",
+   "summary": "Cloudflare가 사용자 IP를 앱 서버에 노출하지 않는 OHTTP를 쉽게 도입하도록 관리형 OHTTP Gateway 의 비공개 베타를 시작함. 가을에 zone의 유료 부가 기능으로 출시할 예정임 OHTTP는 독립 운영되는 릴레이와 게이트웨이 로 신뢰를 분리해, 한 주체가 클라이언트 ...",
+   "publishedAt": 1791047402000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.7,
+   "hot": true
   },
   {
    "title": "모든 SaaS 비즈니스는 모델을 둘러싼 하네스가 될 것",
@@ -461,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -475,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -485,25 +569,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 569,
+   "engagement": 571,
    "comments": 405,
    "publishedAt": 1790896244000,
    "isAI": false,
-   "score": 39.5,
-   "hot": false
-  },
-  {
-   "title": "리눅스 커널 개발자 Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
-   "url": "https://news.hada.io/topic?id=34683",
-   "summary": "LLM이 찾아낸 취약점의 숫자보다 실제 버그를 검증하고 고치는 일이 중요함 . 리눅스 커널 개발자 Greg Kroah-Hartman이 AI 보안 도구의 성과와 한계, 유지보수자의 대응을 다룬 발표 Mythos가 발견했다는 리눅스 취약점 79개 에는 오탐·중복·이미 수정된 문제가 섞여...",
-   "publishedAt": 1790976834000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.4,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -517,7 +587,21 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 39.3,
+   "score": 39,
+   "hot": false
+  },
+  {
+   "title": "리눅스 커널 개발자 Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
+   "url": "https://news.hada.io/topic?id=34683",
+   "summary": "LLM이 찾아낸 취약점의 숫자보다 실제 버그를 검증하고 고치는 일이 중요함 . 리눅스 커널 개발자 Greg Kroah-Hartman이 AI 보안 도구의 성과와 한계, 유지보수자의 대응을 다룬 발표 Mythos가 발견했다는 리눅스 취약점 79개 에는 오탐·중복·이미 수정된 문제가 섞여...",
+   "publishedAt": 1790976834000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 39,
    "hot": false
   },
   {
@@ -528,10 +612,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 259,
-   "comments": 188,
+   "comments": 190,
    "publishedAt": 1790950932000,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -545,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -559,7 +643,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
+   "hot": false
+  },
+  {
+   "title": "Opus 5.5에게 가상 캔버스를 주고 그림을 그리게 해봤다",
+   "url": "https://news.hada.io/topic?id=34679",
+   "summary": "stillwet 은 Opus 5.5 등 AI 모델이 붓질을 코드로 작성해 유화를 그리는 실험으로, 이미지 생성 모델은 사용하지 않음 가상 작업실은 붓, 젖은 물감, 건조와 덧칠을 시뮬레이션하며, 모델은 조금씩 그린 뒤 캔버스를 확인하고 다음 붓질을 결정 함...",
+   "publishedAt": 1790970357000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -573,36 +671,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
-   "hot": true
-  },
-  {
-   "title": "Opus 5.5에게 가상 캔버스를 주고 그림을 그리게 해봤다",
-   "url": "https://news.hada.io/topic?id=34679",
-   "summary": "stillwet 은 Opus 5.5 등 AI 모델이 붓질을 코드로 작성해 유화를 그리는 실험으로, 이미지 생성 모델은 사용하지 않음 가상 작업실은 붓, 젖은 물감, 건조와 덧칠을 시뮬레이션하며, 모델은 조금씩 그린 뒤 캔버스를 확인하고 다음 붓질을 결정 함...",
-   "publishedAt": 1790970357000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.7,
-   "hot": false
-  },
-  {
-   "title": "Supabase, Turso 인수 발표",
-   "url": "https://news.hada.io/topic?id=34676",
-   "summary": "Supabase가 Turso 인수를 발표 하며, AI 에이전트가 만드는 수많은 앱과 프로토타입에 필요한 데이터베이스 인프라를 함께 구축함 Supabase는 이미 매주 100만 개 이상의 데이터베이스를 생성 하고 있으며, 작은 작업마다 전용 서버를 마련하는 대신 파일처럼 쉽고 저...",
-   "publishedAt": 1790966626000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
    "score": 38.3,
-   "hot": false
+   "hot": true
   },
   {
    "title": "Every SaaS business will become a harness around a model",
@@ -611,11 +681,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 158,
+   "engagement": 159,
    "comments": 103,
    "publishedAt": 1790975216000,
    "isAI": false,
-   "score": 38,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -629,7 +699,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -643,7 +713,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -657,7 +727,7 @@
    "comments": 107,
    "publishedAt": 1790953042000,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -671,8 +741,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "ICE Has Been Dumping Protester Photos into a Palantir Database",
@@ -685,7 +755,7 @@
    "comments": 38,
    "publishedAt": 1790974335000,
    "isAI": false,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -699,21 +769,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "Newgrounds - 게임·애니메이션·음악·그림을 공유하는 창작 커뮤니티",
-   "url": "https://news.hada.io/topic?id=34708",
-   "summary": "1995년 Tom Fulp가 시작한 창작 커뮤니티 로, 누구나 직접 만든 게임·애니메이션·음악·그림을 올리고 다른 사람의 작품을 즐길 수 있음 Flash 게임과 애니메이션이 활발하게 공유되던 대표적인 사이트이며, 지금도 HTML5 게임과 영상, 새로운 창작물 이 꾸준히 올라...",
-   "publishedAt": 1791016550000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.8,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -727,7 +783,21 @@
    "comments": 175,
    "publishedAt": 1790852397000,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.4,
+   "hot": false
+  },
+  {
+   "title": "Newgrounds - 게임·애니메이션·음악·그림을 공유하는 창작 커뮤니티",
+   "url": "https://news.hada.io/topic?id=34708",
+   "summary": "1995년 Tom Fulp가 시작한 창작 커뮤니티 로, 누구나 직접 만든 게임·애니메이션·음악·그림을 올리고 다른 사람의 작품을 즐길 수 있음 Flash 게임과 애니메이션이 활발하게 공유되던 대표적인 사이트이며, 지금도 HTML5 게임과 영상, 새로운 창작물 이 꾸준히 올라...",
+   "publishedAt": 1791016550000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -741,7 +811,7 @@
    "comments": 267,
    "publishedAt": 1790875963000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -752,10 +822,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 136,
-   "comments": 85,
+   "comments": 87,
    "publishedAt": 1790970306000,
    "isAI": false,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -769,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -783,7 +853,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -797,35 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "Show GN: soom - 바탕화면 깔끔한 척 정리하는 macOS 앱",
-   "url": "https://news.hada.io/topic?id=34703",
-   "summary": "안녕하세요. 학교에서 이런 저런 강의하는 사람입니다. 강의나 영상을 녹화하면서 내 PC 화면을 보여야 할 때 뭔가 이것 저것 많으면 복잡스러운데 바탕화면에 뭐 안보이게 숨기는 프로그램 입니다. 배경 보통 바탕화면의 아이콘하고, 메뉴 막대 (날짜 / 시간,",
-   "publishedAt": 1791007907000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "How Albertsons Companies is reimagining retail from the inside out",
-   "url": "https://openai.com/index/albertsons-reimagining-retail",
-   "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-   "publishedAt": 1790870400000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 35.8,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -839,7 +881,35 @@
    "comments": 160,
    "publishedAt": 1790859655000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "How Albertsons Companies is reimagining retail from the inside out",
+   "url": "https://openai.com/index/albertsons-reimagining-retail",
+   "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+   "publishedAt": 1790870400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "Show GN: soom - 바탕화면 깔끔한 척 정리하는 macOS 앱",
+   "url": "https://news.hada.io/topic?id=34703",
+   "summary": "안녕하세요. 학교에서 이런 저런 강의하는 사람입니다. 강의나 영상을 녹화하면서 내 PC 화면을 보여야 할 때 뭔가 이것 저것 많으면 복잡스러운데 바탕화면에 뭐 안보이게 숨기는 프로그램 입니다. 배경 보통 바탕화면의 아이콘하고, 메뉴 막대 (날짜 / 시간,",
+   "publishedAt": 1791007907000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -853,7 +923,7 @@
    "comments": 952,
    "publishedAt": 1790701605000,
    "isAI": true,
-   "score": 35.2,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -867,7 +937,7 @@
    "comments": 115,
    "publishedAt": 1790870516000,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -881,35 +951,7 @@
    "comments": 462,
    "publishedAt": 1790783411000,
    "isAI": true,
-   "score": 34.6,
-   "hot": false
-  },
-  {
-   "title": "Show GN: 가격 — 클립당 10원 최고의 쇼츠 편집 에이전트 쇼츠존",
-   "url": "https://news.hada.io/topic?id=34697",
-   "summary": "안녕하세요, 쇼츠존(Shorts Zone) 만들고 있는 있습니다. 롱폼 영상 하나 올리면 편집 에이전트가 통째로 다 보고, 어디를 잘라야 쇼츠가 되는지부터 자막·리프레이밍·타이틀까지 알아서 끝내주는 서비스예요. 지금까지 나온 쇼츠 자동화 툴들 여러 개 써봤는데 \"똑똑함\"과",
-   "publishedAt": 1790993335000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "Show GN: OP!Amp - macOS 시스템 오디오 이퀄라이저",
-   "url": "https://news.hada.io/topic?id=34696",
-   "summary": "안녕하세요. Show는 처음이라 어색하네요. 혼자 개발하고 있는 macOS용 이퀄라이저 OP!Amp를 소개합니다. 음악 앱, 브라우저 등 Mac에서 나오는 모든 소리를 한곳에서 조절할 수 있습니다. 기능 제한 없이 무료로 사용할 수 있습니다. 주요 기능은 다음과 같습니다. 그",
-   "publishedAt": 1790993175000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.5,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -923,7 +965,35 @@
    "comments": 111,
    "publishedAt": 1790850096000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 가격 — 클립당 10원 최고의 쇼츠 편집 에이전트 쇼츠존",
+   "url": "https://news.hada.io/topic?id=34697",
+   "summary": "안녕하세요, 쇼츠존(Shorts Zone) 만들고 있는 있습니다. 롱폼 영상 하나 올리면 편집 에이전트가 통째로 다 보고, 어디를 잘라야 쇼츠가 되는지부터 자막·리프레이밍·타이틀까지 알아서 끝내주는 서비스예요. 지금까지 나온 쇼츠 자동화 툴들 여러 개 써봤는데 \"똑똑함\"과",
+   "publishedAt": 1790993335000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "Show GN: OP!Amp - macOS 시스템 오디오 이퀄라이저",
+   "url": "https://news.hada.io/topic?id=34696",
+   "summary": "안녕하세요. Show는 처음이라 어색하네요. 혼자 개발하고 있는 macOS용 이퀄라이저 OP!Amp를 소개합니다. 음악 앱, 브라우저 등 Mac에서 나오는 모든 소리를 한곳에서 조절할 수 있습니다. 기능 제한 없이 무료로 사용할 수 있습니다. 주요 기능은 다음과 같습니다. 그",
+   "publishedAt": 1790993175000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -937,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -951,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -965,7 +1035,21 @@
    "comments": 156,
    "publishedAt": 1790859327000,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+   "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49926628",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 253,
+   "comments": 219,
+   "publishedAt": 1790886207000,
+   "isAI": false,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -979,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -993,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1007,21 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-   "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49926628",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 252,
-   "comments": 219,
-   "publishedAt": 1790886207000,
-   "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1035,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1049,7 +1119,7 @@
    "comments": 190,
    "publishedAt": 1790888857000,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1063,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1077,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1091,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1105,7 +1175,7 @@
    "comments": 47,
    "publishedAt": 1790928348000,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1119,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1133,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1141,20 +1211,6 @@
    "url": "https://news.hada.io/topic?id=34680",
    "summary": "Apple Wallet에 넣을 탑승권·입장권·멤버십 카드 를 디자인하고 미리 보는 도구로, Apple 제공 템플릿이나 자체 템플릿을 활용할 수 있음 편집하면서 iPhone과 Apple Watch에서 보일 모습 을 실시간으로 확인하며, 실제 iOS·watchOS와 같은 렌더링을 사용함",
    "publishedAt": 1790973495000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "FLUX 3 Image - 구도를 직접 지정하고 부분 편집하는 이미지 모델",
-   "url": "https://news.hada.io/topic?id=34678",
-   "summary": "Black Forest Labs의 FLUX 3 Image 는 사람·사물·글자가 들어갈 영역을 사각형으로 지정해, 원하는 구도로 이미지를 생성하고 편집하는 모델임 각 영역에 무엇을 넣을지 설명하고 전체 장면을 연결하며, 포스터의 글자 배치, 콜라주, 여러 인물이 등장하는 장면 처럼...",
-   "publishedAt": 1790970177000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -1171,11 +1227,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 275,
+   "engagement": 276,
    "comments": 166,
    "publishedAt": 1790858678000,
    "isAI": false,
-   "score": 32.4,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+   "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49896050",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 570,
+   "comments": 431,
+   "publishedAt": 1790699448000,
+   "isAI": true,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1189,49 +1259,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-   "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49896050",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 570,
-   "comments": 430,
-   "publishedAt": 1790699448000,
-   "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "ICC 판사가 말하는 미국 제재가 자신과 국제 법원에 미치는 영향",
-   "url": "https://news.hada.io/topic?id=34677",
-   "summary": "국제형사재판소(ICC)의 캐나다인 판사 Kimberly Prost 는 미국 제재 이후 신용카드가 취소되고 기술 서비스와 보험 이용이 제한되는 생활을 1년 넘게 이어가고 있음 제재 영향은 미국 기업에 그치지 않으며, 미국과 거래 관계가 있는 해외 기업의 과잉 준수 로 금융과...",
-   "publishedAt": 1790966807000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "법원, EFF에 동의: 유타주 VPN 법은 기술적으로 불가능한 일을 요구함",
-   "url": "https://news.hada.io/topic?id=34675",
-   "summary": "미국 연방법원이 유타주 연령 확인법 SB 73의 VPN 관련 조항 집행을 예비 금지명령으로 중단 함. 법원은 이 조항이 유타주 밖의 기업과 사람들에게 상당한 부담을 지워 헌법에 위배될 가능성이 있다고 판단함 SB 73은 성인 웹사이트에 VPN 사용자 차단 또는 실제 위치 확인...",
-   "publishedAt": 1790966446000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.2,
+   "score": 32,
    "hot": false
   },
   {
@@ -1245,20 +1273,6 @@
    "comments": 248,
    "publishedAt": 1790859951000,
    "isAI": false,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-   "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-   "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the cur",
-   "publishedAt": 1791039600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 31.8,
    "hot": false
   },
@@ -1273,7 +1287,21 @@
    "comments": 138,
    "publishedAt": 1790829158000,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+   "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+   "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the cur",
+   "publishedAt": 1791039600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1287,21 +1315,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "Sean Parker is rebuilding Stability AI around music",
-   "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-   "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-   "publishedAt": 1790975354000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 31.4,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1315,7 +1329,21 @@
    "comments": 124,
    "publishedAt": 1790757801000,
    "isAI": true,
-   "score": 31.3,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "Sean Parker is rebuilding Stability AI around music",
+   "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+   "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+   "publishedAt": 1790975354000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1329,7 +1357,7 @@
    "comments": 47,
    "publishedAt": 1790889692000,
    "isAI": false,
-   "score": 31.2,
+   "score": 31,
    "hot": false
   },
   {
@@ -1343,7 +1371,7 @@
    "comments": 97,
    "publishedAt": 1790789860000,
    "isAI": true,
-   "score": 31.2,
+   "score": 31,
    "hot": false
   },
   {
@@ -1357,7 +1385,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": false,
-   "score": 31.1,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1371,34 +1399,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "'AI 반감' 가리는 귀여운 캐릭터…'뮤즈' 흥행 이끈 알렉산드르 왕",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215941",
-   "summary": "빅테크 기업들이 AI에 대한 대중의 거부감과 불안감을 해소하기 위해 귀여운 마스코트를 잇달아 내세우는 마케팅 전환을 시도하고 있다. AI가 가져올 일자리 감소나 인류에 대한 실존적 위협이라는 중대한 과제를 가벼운 이미지 뒤로 가리려는 시도라는 분석이다. 이러한 전략의 최전선에는 메타가 9월 선보인 AI 개인 비서 앱 '뮤즈(Muse)'와 이를 지휘한 Z세대 알렉산드르 왕 최고 AI책임자(CAIO)가 있다.월스트리트저널(WSJ)이 최근 소비자 1300명을 대상으로 실시한 조사에 따르면 응답자의 절반 이상이 AI가 사회에 실존적 위협을",
-   "publishedAt": 1791027767000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.7,
-   "hot": false
-  },
-  {
-   "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
-   "url": "https://huggingface.co/papers/2610.01762",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 160,
-   "summary": "Streaming video LLMs must retain evidence before its relevance to future tasks is known and respond when sufficient evidence becomes available. The challenge is to form reusable factual memory without compromising real-time perception. We introduce OneStreamer, which jointly learns query-independent",
-   "publishedAt": 1790798400000,
-   "isAI": true,
-   "score": 30.6,
+   "score": 30.8,
    "hot": false
   }
  ]
