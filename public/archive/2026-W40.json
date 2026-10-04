@@ -1,5 +1,5 @@
 {
- "updatedAt": 1791115873036,
+ "updatedAt": 1791119529328,
  "week": "2026-W40",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 263,
+   "engagement": 264,
    "comments": 3,
    "publishedAt": 1791065893000,
    "isAI": true,
-   "score": 53,
+   "score": 52.5,
    "hot": true
   },
   {
@@ -27,28 +27,14 @@
    "comments": 12,
    "publishedAt": 1791024231000,
    "isAI": true,
-   "score": 50.8,
+   "score": 50.4,
    "hot": false
   },
   {
-   "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-   "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49946567",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 221,
-   "comments": 152,
-   "publishedAt": 1791052170000,
-   "isAI": true,
-   "score": 49.7,
-   "hot": true
-  },
-  {
-   "title": "Ask GN: 코딩 에이전트 뭐 쓰고 계세요? 고른 이유가 궁금합니다",
-   "url": "https://news.hada.io/topic?id=34756",
-   "summary": "저는 지금 Claude Code로 작업하고 있는데, 요즘 코딩 에이전트가 너무 많아져서 다른 것도 써봐야 하나 고민이 됩니다. 저는 코드를 직접 짜는 쪽이 아니라서 시킨 말을 잘 알아듣는지, 그리고 중간에 시키지 않은 파일을 멋대로 고치지 않는지가 제일 중요합니다. 그래서 세 가지가 궁금합니다. 첫째, 지금 어떤 코...",
-   "publishedAt": 1791112526000,
+   "title": "Show GN: cuesheet - 링크 하나로 MSW 응답을 바꿔, AI도 QA도 상황별 화면을 확인하는 도구",
+   "url": "https://news.hada.io/topic?id=34757",
+   "summary": "회사에서 새 서비스를 만들면서 프론트 코드의 상당 부분을 AI로 짜고 있습니다. 새 제품이라 백엔드도 같이 개발되는데, API가 프론트보다 늦게 나오는 경우가 많고, 나와도 실제 서버에서는 빈 목록이나 에러 같은 상황을 만들기가 어려웠습니다. 그래서 프론트를 독립적으로 빠르게 개발하려고 MSW를 도입했습니다...",
+   "publishedAt": 1791116466000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -65,9 +51,37 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 267,
-   "comments": 518,
+   "engagement": 296,
+   "comments": 531,
    "publishedAt": 1791035194000,
+   "isAI": true,
+   "score": 49.3,
+   "hot": true
+  },
+  {
+   "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+   "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49946567",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 221,
+   "comments": 152,
+   "publishedAt": 1791052170000,
+   "isAI": true,
+   "score": 49.2,
+   "hot": true
+  },
+  {
+   "title": "Ask GN: 코딩 에이전트 뭐 쓰고 계세요? 고른 이유가 궁금합니다",
+   "url": "https://news.hada.io/topic?id=34756",
+   "summary": "저는 지금 Claude Code로 작업하고 있는데, 요즘 코딩 에이전트가 너무 많아져서 다른 것도 써봐야 하나 고민이 됩니다. 저는 코드를 직접 짜는 쪽이 아니라서 시킨 말을 잘 알아듣는지, 그리고 중간에 시키지 않은 파일을 멋대로 고치지 않는지가 제일 중요합니다. 그래서 세 가지가 궁금합니다. 첫째, 지금 어떤 코...",
+   "publishedAt": 1791112526000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": true,
    "score": 49,
    "hot": true
@@ -83,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.4,
    "hot": true
   },
   {
@@ -97,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.1,
    "hot": true
   },
   {
@@ -107,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 175,
-   "comments": 252,
+   "engagement": 194,
+   "comments": 292,
    "publishedAt": 1791049469000,
    "isAI": true,
-   "score": 47.5,
+   "score": 47.9,
    "hot": true
   },
   {
@@ -125,8 +139,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": true
+  },
+  {
+   "title": "Religious scholars met with Anthropic",
+   "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49950052",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 103,
+   "comments": 239,
+   "publishedAt": 1791081262000,
+   "isAI": true,
+   "score": 46.8,
+   "hot": false
   },
   {
    "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
@@ -135,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 324,
-   "comments": 54,
+   "engagement": 336,
+   "comments": 57,
    "publishedAt": 1791054888000,
    "isAI": false,
-   "score": 46.4,
+   "score": 46.3,
    "hot": true
   },
   {
@@ -153,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -167,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -181,8 +209,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.3,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "Pop!_OS bans AI-generated code from much of its codebase",
@@ -191,11 +219,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 106,
-   "comments": 156,
+   "engagement": 107,
+   "comments": 159,
    "publishedAt": 1791050223000,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -209,7 +237,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.5,
+   "score": 43,
+   "hot": false
+  },
+  {
+   "title": "From the creator of Redis; run LLM locally with ds4",
+   "url": "https://dwarfstar.sh/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49936575",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 351,
+   "comments": 100,
+   "publishedAt": 1790964076000,
+   "isAI": true,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -223,22 +265,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
-   "title": "From the creator of Redis; run LLM locally with ds4",
-   "url": "https://dwarfstar.sh/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49936575",
-   "source": "Hacker News",
+   "title": "우크라이나에서 분산형 재생에너지가 러시아의 공격을 무력화하다",
+   "url": "https://news.hada.io/topic?id=34758",
+   "summary": "러시아의 발전소 공격으로 Mykolaiv 대부분 지역에서 급수 펌프가 멈췄지만, 한 동부 외곽 지역은 독립형 태양광 설비와 배터리 덕분에 식수 공급을 유지함 분산형 발전 은 대형 중앙집중식 시설보다 공격하기 어렵고 복구도 빠르며, 풍력과 태양광은 설비 일부가 파...",
+   "publishedAt": 1791117272000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 351,
-   "comments": 99,
-   "publishedAt": 1790964076000,
-   "isAI": true,
-   "score": 43,
-   "hot": false
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Show GN: 5달러 시계에 Claude·Codex 사용량을 띄워봤습니다",
@@ -251,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -265,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -279,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -293,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -307,7 +349,7 @@
    "comments": 330,
    "publishedAt": 1790968016000,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -321,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -335,7 +377,7 @@
    "comments": 146,
    "publishedAt": 1790950284000,
    "isAI": true,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
@@ -349,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -363,22 +405,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
-   "hot": false
-  },
-  {
-   "title": "에이전트에게 필요한 것은 메모리가 아니라 문서다",
-   "url": "https://news.hada.io/topic?id=34750",
-   "summary": "에이전트가 프로젝트를 이해하려면 과거 대화 조각을 검색하는 메모리보다 프로젝트 문서 가 필요함. 기능의 위치, 구현 이유, 합의 사항, 중요하게 여기는 기준을 함께 파악할 수 있어야 함 대화를 조각내 저장하고 프롬프트마다 유사한 항목을 주입하는 RAG 기반 메모리",
-   "publishedAt": 1791095653000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 39.6,
-   "hot": true
+   "hot": false
   },
   {
    "title": "Gemini 4 Argon",
@@ -391,7 +419,7 @@
    "comments": 1180,
    "publishedAt": 1790798677000,
    "isAI": true,
-   "score": 39.5,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -405,8 +433,22 @@
    "comments": 218,
    "publishedAt": 1790910680000,
    "isAI": true,
-   "score": 39.4,
+   "score": 39.1,
    "hot": false
+  },
+  {
+   "title": "에이전트에게 필요한 것은 메모리가 아니라 문서다",
+   "url": "https://news.hada.io/topic?id=34750",
+   "summary": "에이전트가 프로젝트를 이해하려면 과거 대화 조각을 검색하는 메모리보다 프로젝트 문서 가 필요함. 기능의 위치, 구현 이유, 합의 사항, 중요하게 여기는 기준을 함께 파악할 수 있어야 함 대화를 조각내 저장하고 프롬프트마다 유사한 항목을 주입하는 RAG 기반 메모리",
+   "publishedAt": 1791095653000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.1,
+   "hot": true
   },
   {
    "title": "Cloudflare에서 차세대 Git 플랫폼을 만들어주세요",
@@ -419,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -433,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -447,7 +489,7 @@
    "comments": 240,
    "publishedAt": 1790954280000,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -461,7 +503,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -475,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -489,7 +531,7 @@
    "comments": 125,
    "publishedAt": 1790909487000,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -503,7 +545,7 @@
    "comments": 49,
    "publishedAt": 1790971215000,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -517,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.5,
    "hot": true
   },
   {
@@ -545,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -559,22 +601,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
-  },
-  {
-   "title": "Show GN: ALPS Writer·ADR Writer - Claude Code와 Codex용 제품 명세·설계 결정 관리 플러그인",
-   "url": "https://news.hada.io/topic?id=34705",
-   "summary": "Claude Code와 Codex에서 제품 요구사항과 설계 결정을 문서로 남기도록 돕는 ALPS Writer와 ADR Writer를 만들었습니다. MIT 라이선스로 공개한 오픈소스입니다. ALPS Writer : 질문과 답변으로 제품 요구사항 문서(PRD)를 작성합니다. 전체 형식과 작은 개념 검증용 4개 절의 Lite 형",
-   "publishedAt": 1791012322000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.6,
-   "hot": false
   },
   {
    "title": "Updates to Full Disk Access in macOS",
@@ -587,7 +615,7 @@
    "comments": 213,
    "publishedAt": 1790969821000,
    "isAI": false,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -601,8 +629,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "CogSend - 여러 소셜 플랫폼에 글을 예약 발행하는 셀프 호스팅 도구",
@@ -615,8 +643,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "업스테이지, GPU 한 장에서 실행하는 Solar Mini 4 발표",
@@ -629,8 +657,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "네덜란드의 컴퓨터 박물관들(2022)",
@@ -643,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -657,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -671,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -685,7 +713,7 @@
    "comments": 111,
    "publishedAt": 1791003237000,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -699,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -713,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -727,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -741,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -755,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -769,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -779,11 +807,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 103,
+   "engagement": 104,
    "comments": 39,
    "publishedAt": 1790968238000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -797,7 +825,7 @@
    "comments": 405,
    "publishedAt": 1790896244000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -811,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -825,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -835,11 +863,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 262,
+   "engagement": 263,
    "comments": 201,
    "publishedAt": 1790950932000,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -853,7 +881,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -867,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -881,7 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -895,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -909,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -923,7 +951,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -937,7 +965,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -951,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -965,7 +993,7 @@
    "comments": 107,
    "publishedAt": 1790975216000,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -979,7 +1007,7 @@
    "comments": 107,
    "publishedAt": 1790953042000,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -993,21 +1021,7 @@
    "comments": 177,
    "publishedAt": 1790852397000,
    "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "암을 유발한다는 것들",
-   "url": "https://news.hada.io/topic?id=34712",
-   "summary": "원전 인근 거주와 암을 연결한 Harvard 연구 방법을 다른 시설에 적용하자, Costco와 대학, 스포츠 경기장에서도 암 사망과 양의 연관성 이 나옴. 재현 분석은 이를 원전의 발암 효과가 아니라 방법론의 문제로 해석함 연구는 시설과의 거리로 만든 근접도 점수 를 노...",
-   "publishedAt": 1791034574000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1021,7 +1035,21 @@
    "comments": 952,
    "publishedAt": 1790701605000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "암을 유발한다는 것들",
+   "url": "https://news.hada.io/topic?id=34712",
+   "summary": "원전 인근 거주와 암을 연결한 Harvard 연구 방법을 다른 시설에 적용하자, Costco와 대학, 스포츠 경기장에서도 암 사망과 양의 연관성 이 나옴. 재현 분석은 이를 원전의 발암 효과가 아니라 방법론의 문제로 해석함 연구는 시설과의 거리로 만든 근접도 점수 를 노...",
+   "publishedAt": 1791034574000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1035,7 +1063,7 @@
    "comments": 268,
    "publishedAt": 1790875963000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1049,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1063,21 +1091,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "\"클로드가 일하고, 클로드가 감시한다\"... 앤트로픽, 새 플러그인 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215949",
-   "summary": "AI 에이전트가 복잡한 작업을 스스로 수행하는 시대가 되면서 에이전트를 보조하고 관리하는 또 다른 AI의 역할도 커지고 있다. 앤트로픽은 '클로드 코드'에 메인 에이전트의 작업을 지켜보며 사용자가 놓치기 쉬운 내용을 알려주는 보조 에이전트 기능을 추가했다.앤트로픽은 2일(현지시간) 클로드 코드에 ‘알아두어야 할 사항(You should know)’이라는 내장 플러그인을 추가했다.이 기능은 별도의 보조 에이전트를 실행해 클로드가 작업하는 과정을 살펴보고, 장시간 작업에서 사용자가 알아야 할 중요한 내용을 발견하면 프롬프트 위에 별도의",
-   "publishedAt": 1791103721000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1091,21 +1105,7 @@
    "comments": 41,
    "publishedAt": 1790974335000,
    "isAI": false,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-   "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-   "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-   "publishedAt": 1791045001000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1119,7 +1119,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.4,
+   "hot": false
+  },
+  {
+   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+   "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+   "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+   "publishedAt": 1791045001000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.4,
+   "hot": false
+  },
+  {
+   "title": "\"클로드가 일하고, 클로드가 감시한다\"... 앤트로픽, 새 플러그인 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215949",
+   "summary": "AI 에이전트가 복잡한 작업을 스스로 수행하는 시대가 되면서 에이전트를 보조하고 관리하는 또 다른 AI의 역할도 커지고 있다. 앤트로픽은 '클로드 코드'에 메인 에이전트의 작업을 지켜보며 사용자가 놓치기 쉬운 내용을 알려주는 보조 에이전트 기능을 추가했다.앤트로픽은 2일(현지시간) 클로드 코드에 ‘알아두어야 할 사항(You should know)’이라는 내장 플러그인을 추가했다.이 기능은 별도의 보조 에이전트를 실행해 클로드가 작업하는 과정을 살펴보고, 장시간 작업에서 사용자가 알아야 할 중요한 내용을 발견하면 프롬프트 위에 별도의",
+   "publishedAt": 1791103721000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1133,7 +1161,7 @@
    "comments": 160,
    "publishedAt": 1790859655000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1147,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1161,35 +1189,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215946",
-   "summary": "구글이 '제미나이' 앱의 요금제별 모델 접근 권한과 사용량 제한을 조정한다. 무료 및 저가 요금제에서 상대적으로 연산 비용이 높은 모델을 이용할 수 있는 범위를 줄이는 대신, 상위 요금제에는 고급 추론 기능을 확대하는 방식이다.구글에 따르면, 9일부터 무료 사용자는 제미나이에서 '플래시-라이트'만 사용할 수 있게 된다.AI 플러스 요금제에서도 '프로' 모델 접근이 사라지고 플래시-라이트와 '플래시'만 제공된다. 프로 모델은 앞으로 AI 프로와 AI 울트라 가입자에게만 제공된다.또 구글이 최근 공개한 최상위 모델 '제미나이 4 아르곤",
-   "publishedAt": 1791098167000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "알레프 알파, 범용 LLM 포기 후 첫 모델 ‘콜리브리’ 공개...\"소버린 AI용\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215951",
-   "summary": "독일의 알레프 알파(Aleph Alpha)가 범용 대형언어모델(LLM) 개발 포기를 선언하고 방산·공공 사업으로 방향을 튼 지 약 1년 만에 첫 개방형 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.알레프 알파는 3일(현지시간) 독일어와 영어를 지원하는 오픈웨이트 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.이번 모델 출시는 글로벌 빅테크와의 첨단 성능 경쟁에 복귀한다는 의미가 아니다. 독일 정부와 군, 공공 기관, 국가 핵심 산업 부문이 요구하는 ‘데이터 주권(소버린 AI)’과 엄격한 EU 규제 준수 역량을 입증하기 위한",
-   "publishedAt": 1791097169000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.2,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1203,7 +1203,7 @@
    "comments": 97,
    "publishedAt": 1790970306000,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1217,21 +1217,35 @@
    "comments": 462,
    "publishedAt": 1790783411000,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
-   "title": "All the AI agents that can live in your text messages",
-   "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-   "publishedAt": 1791036000000,
-   "source": "TechCrunch AI",
+   "title": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215946",
+   "summary": "구글이 '제미나이' 앱의 요금제별 모델 접근 권한과 사용량 제한을 조정한다. 무료 및 저가 요금제에서 상대적으로 연산 비용이 높은 모델을 이용할 수 있는 범위를 줄이는 대신, 상위 요금제에는 고급 추론 기능을 확대하는 방식이다.구글에 따르면, 9일부터 무료 사용자는 제미나이에서 '플래시-라이트'만 사용할 수 있게 된다.AI 플러스 요금제에서도 '프로' 모델 접근이 사라지고 플래시-라이트와 '플래시'만 제공된다. 프로 모델은 앞으로 AI 프로와 AI 울트라 가입자에게만 제공된다.또 구글이 최근 공개한 최상위 모델 '제미나이 4 아르곤",
+   "publishedAt": 1791098167000,
+   "source": "AI타임스",
    "sourceType": "media",
-   "lang": "en",
+   "lang": "ko",
    "engagement": null,
-   "baseWeight": 32,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.9,
+   "hot": false
+  },
+  {
+   "title": "알레프 알파, 범용 LLM 포기 후 첫 모델 ‘콜리브리’ 공개...\"소버린 AI용\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215951",
+   "summary": "독일의 알레프 알파(Aleph Alpha)가 범용 대형언어모델(LLM) 개발 포기를 선언하고 방산·공공 사업으로 방향을 튼 지 약 1년 만에 첫 개방형 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.알레프 알파는 3일(현지시간) 독일어와 영어를 지원하는 오픈웨이트 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.이번 모델 출시는 글로벌 빅테크와의 첨단 성능 경쟁에 복귀한다는 의미가 아니다. 독일 정부와 군, 공공 기관, 국가 핵심 산업 부문이 요구하는 ‘데이터 주권(소버린 AI)’과 엄격한 EU 규제 준수 역량을 입증하기 위한",
+   "publishedAt": 1791097169000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1245,7 +1259,21 @@
    "comments": 116,
    "publishedAt": 1790870516000,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "All the AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "publishedAt": 1791036000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1259,7 +1287,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1273,7 +1301,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1287,21 +1315,7 @@
    "comments": 111,
    "publishedAt": 1790850096000,
    "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "잘 잊어버리는 CPU(M4에서 Linux 구동하기)",
-   "url": "https://news.hada.io/topic?id=34704",
-   "summary": "M4 Mac에서 모든 CPU 코어를 사용하며 Linux를 셸까지 부팅 하는 데 성공했으며, 필요한 수정이 Linux 본류와 Asahi Linux의 부팅 도구 m1n1 에 반영됨 핵심 장애물은 인터럽트를 기다리는 WFI 명령 이 CPU 레지스터의 값을 지워버리는 동작이었음. ...",
-   "publishedAt": 1791009275000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1315,7 +1329,7 @@
    "comments": 156,
    "publishedAt": 1790859327000,
    "isAI": false,
-   "score": 30.8,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1329,20 +1343,6 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.8,
-   "hot": false
-  },
-  {
-   "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-   "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49926628",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 256,
-   "comments": 224,
-   "publishedAt": 1790886207000,
-   "isAI": false,
    "score": 30.5,
    "hot": false
   },
@@ -1357,7 +1357,21 @@
    "comments": 431,
    "publishedAt": 1790699448000,
    "isAI": true,
-   "score": 30.5,
+   "score": 30.4,
+   "hot": false
+  },
+  {
+   "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+   "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49926628",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 256,
+   "comments": 224,
+   "publishedAt": 1790886207000,
+   "isAI": false,
+   "score": 30.3,
    "hot": false
   },
   {
@@ -1371,7 +1385,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.5,
+   "score": 30.2,
    "hot": false
   },
   {
@@ -1385,21 +1399,7 @@
    "comments": 191,
    "publishedAt": 1790888857000,
    "isAI": false,
-   "score": 30.1,
-   "hot": false
-  },
-  {
-   "title": "광주 도시철도2호선, 개통 늦어진다…1단계 2028년·2단계 2035년",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215904",
-   "summary": "AI 생성 영상광주 도시철도2호선 1단계 개통 목표가 2028년 12월로, 2단계 전 구간은 2035년 12월로 조정된다. 전남광주통합특별시는 2단계 가운데 양산동~첨단~수완·신가지구 11.9㎞를 2034년 4월 먼저 개통하는 방안도 추진한다.전남광주는 도시철도2호선 건설사업의 공정과 총사업비를 종합 검증한 결과를 2일 발표했다. 검증 결과 1단계 개통 가능 시점은 기존 2027년 12월에서 2028년 12월로 1년 늦어질 것으로 분석됐다.전남광주는 예상하지 못한 지하 암반과 지장 매설물 등으로 토목공사가 지연됐고, 이후 건축·기계",
-   "publishedAt": 1791073800000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.1,
+   "score": 29.9,
    "hot": false
   }
  ]
