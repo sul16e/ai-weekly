@@ -1,5 +1,5 @@
 {
- "updatedAt": 1791069840940,
+ "updatedAt": 1791075500381,
  "week": "2026-W40",
  "items": [
   {
@@ -13,7 +13,7 @@
    "comments": 11,
    "publishedAt": 1791024231000,
    "isAI": true,
-   "score": 57.4,
+   "score": 56.5,
    "hot": true
   },
   {
@@ -23,17 +23,31 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 135,
-   "comments": 90,
+   "engagement": 155,
+   "comments": 115,
    "publishedAt": 1791052170000,
    "isAI": true,
-   "score": 52.1,
-   "hot": false
+   "score": 52.5,
+   "hot": true
+  },
+  {
+   "title": "나는 OpenAI의 조직 문화가 망가져 퇴사했다",
+   "url": "https://news.hada.io/topic?id=34740",
+   "summary": "OpenAI의 주요 출시마다 안전 보고서 작성을 이끌던 직원이 퇴사 했으며, AI 기업의 안전 문제는 개별 규칙이나 새 법률을 넘어 조직 문화 차원에서 살펴야 한다고 봄 더 큰 AI 시스템을 만드는 데 성공한 강한 자신감 과 끊임없이 전력 질주하는 업...",
+   "publishedAt": 1791074328000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.8,
+   "hot": true
   },
   {
    "title": "Claude와 Claude Code에서 Opus 5.5를 최대한 활용하는 방법",
    "url": "https://news.hada.io/topic?id=34734",
-   "summary": "Opus 5.5 에는 작업 전체와 완료 조건, 멈춰서 물어볼 조건을 한 번에 전달하는 방식이 적합함. 이전 Opus보다 긴 다단계 작업을 잘 이어가며, 초기 테스터들은 적은 감독으로 수 시간짜리 코딩 작업을 실행함 매 응답 전에 스스로 사고하므로 “신중하게 생각하라”는 지시는...",
+   "summary": "Opus 5.5는 긴 다단계 작업을 이어가는 능력이 개선돼, 작업 전체와 완료 조건, 멈춰서 질문할 조건 을 한 번에 전달하는 방식이 적합함 모델이 응답 전에 스스로 추론하므로 “신중하게 생각하라”는 상투적인 지시는 생략 할 수 있음. Claude Code에서는 eff...",
    "publishedAt": 1791067372000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -41,7 +55,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.6,
+   "score": 48.8,
    "hot": true
   },
   {
@@ -55,7 +69,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -69,7 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -79,11 +93,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 340,
+   "engagement": 341,
    "comments": 98,
    "publishedAt": 1790964076000,
    "isAI": true,
-   "score": 47.7,
+   "score": 47,
+   "hot": false
+  },
+  {
+   "title": "I Quit OpenAI Because Its Culture Is Broken",
+   "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49944227",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 107,
+   "comments": 153,
+   "publishedAt": 1791035194000,
+   "isAI": true,
+   "score": 46.9,
    "hot": false
   },
   {
@@ -97,27 +125,27 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 46.7,
    "hot": true
   },
   {
-   "title": "I Quit OpenAI Because Its Culture Is Broken",
-   "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49944227",
-   "source": "Hacker News",
+   "title": "하네스가 곧 회사다",
+   "url": "https://news.hada.io/topic?id=34718",
+   "summary": "SaaS 기업의 개발·기획·영업을 AI 에이전트가 수행 하게 되면, 회사는 모델에 업무 지식과 도구, 권한, 검토 절차를 제공하는 하네스 로 바뀔 수 있음 사람이 에이전트에게 일을 시키는 단계에서, 에이전트가 먼저 일을 찾아 수행하고 사람이 결과를 검토하는...",
+   "publishedAt": 1791047222000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 104,
-   "comments": 150,
-   "publishedAt": 1791035194000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
-   "hot": false
+   "score": 46,
+   "hot": true
   },
   {
-   "title": "Kolibri 출시: 주권형 오픈웨이트 모델",
+   "title": "Kolibri - 독일의 소버린 AI 모델은 어떻게 작동하는가",
    "url": "https://news.hada.io/topic?id=34716",
-   "summary": "Aleph Alpha가 영어와 독일어를 지원하는 Kolibri 의 전체 가중치를 Apache 2.0으로 공개함. 총 780억 개 중 약 30억 개 파라미터를 활성화하는 MoE Transformer로, 최대 100만 토큰 문맥 을 지원함 공공행정, 산업, 항공우주처럼 규제가 적용되는 핵심 업무를 겨냥하...",
+   "summary": "Aleph Alpha가 독일·핀란드 인프라에서 처음부터 학습한 독일어·영어 모델 로, 가중치를 Apache-2.0으로 공개 해 조직이 자체 서버에서 데이터와 모델 운영을 통제할 수 있음 전문가 혼합(MoE) 구조로 전체 781억 파라미터 중 토큰당 약 35억만 사용...",
    "publishedAt": 1791046862000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -125,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46,
    "hot": true
   },
   {
@@ -139,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -150,10 +178,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 541,
-   "comments": 323,
+   "comments": 325,
    "publishedAt": 1790968016000,
    "isAI": false,
-   "score": 45.5,
+   "score": 44.8,
    "hot": false
   },
   {
@@ -167,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.6,
    "hot": true
   },
   {
@@ -177,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 277,
-   "comments": 141,
+   "engagement": 278,
+   "comments": 142,
    "publishedAt": 1790950284000,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -195,21 +223,7 @@
    "comments": 216,
    "publishedAt": 1790910680000,
    "isAI": true,
-   "score": 43.2,
-   "hot": false
-  },
-  {
-   "title": "Extra Big Ass Intelligence - 엄청나게 거대한 지능",
-   "url": "https://news.hada.io/topic?id=34707",
-   "summary": "영화 《이디오크러시》(Idiocracy) 의 황당한 미래 사회를 닮은 챗봇 사이트로, AI·초지능 홍보와 광고로 뒤덮인 인터넷 을 풍자함 정부 명령으로 AI.exe 를 삭제하고 ‘AI’라는 단어까지 금지했다며, 이름만 ‘초지능(SI)’으로 바꾸면 경제를...",
-   "publishedAt": 1791016370000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 42.9,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -223,7 +237,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.2,
+   "hot": false
+  },
+  {
+   "title": "Extra Big Ass Intelligence - 엄청나게 거대한 지능",
+   "url": "https://news.hada.io/topic?id=34707",
+   "summary": "영화 《이디오크러시》(Idiocracy) 의 황당한 미래 사회를 닮은 챗봇 사이트로, AI·초지능 홍보와 광고로 뒤덮인 인터넷 을 풍자함 정부 명령으로 AI.exe 를 삭제하고 ‘AI’라는 단어까지 금지했다며, 이름만 ‘초지능(SI)’으로 바꾸면 경제를...",
+   "publishedAt": 1791016370000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -237,8 +265,50 @@
    "comments": 237,
    "publishedAt": 1790954280000,
    "isAI": true,
-   "score": 42.5,
+   "score": 41.9,
    "hot": false
+  },
+  {
+   "title": "Gemini 4 Argon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49913571",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1693,
+   "comments": 1179,
+   "publishedAt": 1790798677000,
+   "isAI": true,
+   "score": 41.9,
+   "hot": false
+  },
+  {
+   "title": "바코드가 곧 사라진다",
+   "url": "https://news.hada.io/topic?id=34741",
+   "summary": "GS1이 Sunrise 2027 을 통해 소매업의 기존 바코드를 QR 코드 같은 2차원 코드로 전환하려 함. 정부가 강제하는 의무 전환은 아니지만, 대형 유통업체의 시스템 교체에 따라 브랜드도 대응해야 하는 상황임 기존 바코드는 상품 종류를 식별하지만 원산지까지 알려주지는 못함.",
+   "publishedAt": 1791074508000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.9,
+   "hot": true
+  },
+  {
+   "title": "CogSend - 여러 소셜 플랫폼에 글을 예약 발행하는 셀프 호스팅 도구",
+   "url": "https://news.hada.io/topic?id=34739",
+   "summary": "Mastodon, Bluesky, LinkedIn, Threads, X에 글을 한 번 작성하고 플랫폼별로 수정해 즉시 게시하거나 예약 발행 하는 오픈소스 도구 별도 서버 대신 자신의 Cloudflare 계정에서 운영 하며, 게시물과 계정 인증 정보는 D1 데이터베이스에, 이미지는 R2에 보관 ...",
+   "publishedAt": 1791073802000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "Show GN: ALPS Writer·ADR Writer - Claude Code와 Codex용 제품 명세·설계 결정 관리 플러그인",
@@ -251,22 +321,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 41.8,
    "hot": false
   },
   {
-   "title": "Gemini 4 Argon",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49913571",
+   "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+   "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49946895",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1692,
-   "comments": 1179,
-   "publishedAt": 1790798677000,
-   "isAI": true,
-   "score": 42.3,
+   "engagement": 102,
+   "comments": 12,
+   "publishedAt": 1791054888000,
+   "isAI": false,
+   "score": 41.7,
    "hot": false
+  },
+  {
+   "title": "업스테이지, GPU 한 장에서 실행하는 Solar Mini 4 발표",
+   "url": "https://news.hada.io/topic?id=34738",
+   "summary": "정보 조회, 문서 분류, 도구 호출처럼 반복되는 에이전트 작업을 적은 연산과 비용으로 처리 하는 언어 모델 총 350억 파라미터 중 토큰당 30억만 활성화 하는 MoE 구조이며, 양자화 모델은 H100 80GB 한 장 에서 배포 가능 Artificial Ana...",
+   "publishedAt": 1791072901000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Show HN: Made an open-source Lego AI generator",
@@ -275,12 +359,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 140,
+   "engagement": 142,
    "comments": 49,
    "publishedAt": 1790971215000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.6,
    "hot": false
+  },
+  {
+   "title": "네덜란드의 컴퓨터 박물관들(2022)",
+   "url": "https://news.hada.io/topic?id=34737",
+   "summary": "네덜란드의 세 컴퓨터 전시 공간은 거실형 체험 박물관 , 대규모 창고형 박물관, 외딴 헛간의 DEC 컬렉션으로 서로 다른 관람 경험을 제공함 Helmond의 HomeComputerMuseum 은 주로 1980년대 이후 컴퓨터 500대 이상을 소장하며, 상당수를 직접 작동하거나 게임을 즐...",
+   "publishedAt": 1791071239000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
+  },
+  {
+   "title": "Kolibri - 기술 보고서 [PDF]",
+   "url": "https://news.hada.io/topic?id=34736",
+   "summary": "Kolibri 는 영어와 독일어를 지원하는 MoE 모델로, 전체 781억 개 파라미터 중 토큰당 34.6억 개만 활성화하며 가중치를 Apache 2.0 으로 공개함 공공행정, 산업, 항공우주처럼 민감한 데이터를 처리하는 조직의 자체 인프라 배포 를 목표로 하며, 데...",
+   "publishedAt": 1791071059000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
+  },
+  {
+   "title": "미 연방 판사, Flock을 ‘무차별적 대규모 감시’로 규정",
+   "url": "https://news.hada.io/topic?id=34735",
+   "summary": "오클라호마주 Tulsa의 보안관보가 영장 없이 Flock Safety 에서 한 여성의 차량 번호판을 조회한 행위는 수정헌법 제4조 위반 이라는 연방 판결이 나옴 Sara Hill 판사는 캘리포니아 번호판이라는 점 외에 뚜렷한 조회 이유가 없었다며, 사전 영장 이...",
+   "publishedAt": 1791070879000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
   },
   {
    "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
@@ -293,7 +419,7 @@
    "comments": 118,
    "publishedAt": 1790909487000,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -307,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41,
    "hot": true
   },
   {
@@ -321,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41,
    "hot": false
   },
   {
@@ -335,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -349,13 +475,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.6,
    "hot": true
   },
   {
    "title": "FTL, 클라우드를 위한 새로운 운영체제",
    "url": "https://news.hada.io/topic?id=34729",
-   "summary": "FTL 은 운영체제를 사용자 공간의 라이브러리로 구현해, 애플리케이션을 작성하듯 기능 추가, 디버깅, 안전한 업그레이드를 할 수 있게 함 각 컨테이너는 사용자 공간 OS 를 실행하며, FTL 커널은 Linux 시스템 호출을 사용자 공간에서 구현하는 데 필요한 최소 인터...",
+   "summary": "프로세스, 파일시스템, TCP/IP 같은 OS 기능을 컨테이너별 사용자 공간 라이브러리로 구현 해, 운영체제를 애플리케이션처럼 수정하고 디버깅할 수 있게 하는 클라우드용 OS 컨테이너마다 서로 다른 OS 기능과 버전 을 사용할 수 있으며, 머신 전체를 재부팅하지 않고...",
    "publishedAt": 1791063797000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -363,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -373,11 +499,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 287,
-   "comments": 203,
+   "engagement": 288,
+   "comments": 204,
    "publishedAt": 1790969821000,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -391,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -401,11 +527,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 175,
-   "comments": 101,
+   "engagement": 176,
+   "comments": 104,
    "publishedAt": 1791003237000,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -419,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -433,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -447,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -461,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.5,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -475,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -489,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -503,21 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
-   "hot": true
-  },
-  {
-   "title": "Linux 및 Windows용 Orion 개발 현황 안내",
-   "url": "https://news.hada.io/topic?id=34721",
-   "summary": "Kagi가 Linux 및 Windows용 Orion의 직접 개발을 종료 하고, 커뮤니티가 이어갈 수 있도록 두 버전의 소스 코드를 공개할 예정임 소수 개발자로 구성되고 전적으로 Kagi 사용자들의 자금으로 운영되는 팀의 역량을 macOS 및 iOS용 Orion에 집중 하기로 함 오...",
-   "publishedAt": 1791048846000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.5,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -531,13 +643,27 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.5,
+   "score": 38.9,
    "hot": false
+  },
+  {
+   "title": "Linux 및 Windows용 Orion 개발 현황 안내",
+   "url": "https://news.hada.io/topic?id=34721",
+   "summary": "Kagi가 Linux 및 Windows용 Orion의 직접 개발을 종료 하고, 커뮤니티가 이어갈 수 있도록 두 버전의 소스 코드를 공개할 예정임 소수 개발자로 구성되고 전적으로 Kagi 사용자들의 자금으로 운영되는 팀의 역량을 macOS 및 iOS용 Orion에 집중 하기로 함 오...",
+   "publishedAt": 1791048846000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.8,
+   "hot": true
   },
   {
    "title": "tmux를 OS로 만들자",
    "url": "https://news.hada.io/topic?id=34720",
-   "summary": "tmux의 스크롤, 세션 유지, 분리, 작업 중심 경험 을 일반 사용자도 쓸 수 있는 데스크톱으로 확장하는 구상임. 완성된 제품이 아니라 Linux에서 실험 중인 설계임 기존 창 관리는 반복되는 모니터 전환 , 서로 다른 창 배치 습관, 브라우저 탭과 앱에 흩어진 작업 맥...",
+   "summary": "터미널에서 작업을 유지하고 다시 이어가는 tmux의 경험을 일반 사용자용 데스크톱으로 확장 하는 구상으로, 창을 일일이 옮기기보다 하던 일을 그대로 이어가는 환경을 지향함 데스크톱을 옆으로 스크롤하는 무한 캔버스 로 만들고, 모니터를 연결하거나 분리해도 창...",
    "publishedAt": 1791047582000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -545,13 +671,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.7,
    "hot": true
   },
   {
-   "title": "Cloudflare OHTTP 게이트웨이",
+   "title": "Cloudflare, 사용자 IP를 숨기는 OHTTP 게이트웨이 공개",
    "url": "https://news.hada.io/topic?id=34719",
-   "summary": "Cloudflare가 사용자 IP를 앱 서버에 노출하지 않는 OHTTP를 쉽게 도입하도록 관리형 OHTTP Gateway 의 비공개 베타를 시작함. 가을에 zone의 유료 부가 기능으로 출시할 예정임 OHTTP는 독립 운영되는 릴레이와 게이트웨이 로 신뢰를 분리해, 한 주체가 클라이언트 ...",
+   "summary": "앱 서버가 사용자 IP를 알지 않고 요청을 처리 할 수 있도록 Cloudflare가 관리형 OHTTP Gateway의 비공개 베타를 시작함 서로 다른 운영자가 맡는 릴레이는 사용자 IP만, 게이트웨이는 요청 내용만 보도록 분리해, 어느 한쪽도 누가 무엇을 요청했는지 함께 알 수 ...",
    "publishedAt": 1791047402000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -559,21 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
-   "hot": true
-  },
-  {
-   "title": "모든 SaaS 비즈니스는 모델을 둘러싼 하네스가 될 것",
-   "url": "https://news.hada.io/topic?id=34718",
-   "summary": "SaaS 기업의 핵심 업무가 선제적으로 움직이는 백그라운드 에이전트 로 옮겨가면, 기업 자체가 모델에 맥락, 도구, 권한, 검토 체계를 제공하는 하네스 가 될 것이라는 전망임 전환은 사람이 에이전트를 사용하는 단계에서 여러 에이전트를 지휘하는 단계로, 다시",
-   "publishedAt": 1791047222000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.3,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -587,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -601,7 +713,7 @@
    "comments": 405,
    "publishedAt": 1790896244000,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -615,21 +727,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 38.6,
-   "hot": false
-  },
-  {
-   "title": "리눅스 커널 개발자 Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
-   "url": "https://news.hada.io/topic?id=34683",
-   "summary": "LLM이 찾아낸 취약점의 숫자보다 실제 버그를 검증하고 고치는 일이 중요함 . 리눅스 커널 개발자 Greg Kroah-Hartman이 AI 보안 도구의 성과와 한계, 유지보수자의 대응을 다룬 발표 Mythos가 발견했다는 리눅스 취약점 79개 에는 오탐·중복·이미 수정된 문제가 섞여...",
-   "publishedAt": 1790976834000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.6,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -639,11 +737,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 259,
-   "comments": 191,
+   "engagement": 260,
+   "comments": 193,
    "publishedAt": 1790950932000,
    "isAI": false,
-   "score": 38.5,
+   "score": 38,
    "hot": false
   },
   {
@@ -657,22 +755,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.7,
    "hot": true
-  },
-  {
-   "title": "Audionaut - AI 에이전트로 편집할 수 있는 오픈소스 멀티트랙 오디오 편집기",
-   "url": "https://news.hada.io/topic?id=34682",
-   "summary": "음악·팟캐스트·멀티트랙 녹음을 위한 무료 오픈소스 오디오 편집기 로, 복잡한 음악 제작 환경 대신 필요한 구간을 자르고 조합하는 작업에 집중함 MCP로 Claude 등 AI 에이전트에 편집을 맡길 수 있으며 , 열린 프로젝트에서 변경 내용을 확인하고 각 편집을 개별적...",
-   "publishedAt": 1790973855000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.3,
-   "hot": false
   },
   {
    "title": "암을 유발한다는 것들",
@@ -685,22 +769,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.3,
    "hot": true
-  },
-  {
-   "title": "Every SaaS business will become a harness around a model",
-   "url": "https://blog.sshh.io/p/the-harness-is-the-company",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49938616",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 160,
-   "comments": 104,
-   "publishedAt": 1790975216000,
-   "isAI": false,
-   "score": 37.4,
-   "hot": false
   },
   {
    "title": "Chatham scales its capital markets expertise with OpenAI",
@@ -713,7 +783,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.4,
+   "score": 37,
+   "hot": false
+  },
+  {
+   "title": "Every SaaS business will become a harness around a model",
+   "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49938616",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 161,
+   "comments": 107,
+   "publishedAt": 1790975216000,
+   "isAI": false,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -727,7 +811,7 @@
    "comments": 107,
    "publishedAt": 1790953042000,
    "isAI": false,
-   "score": 37.3,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -741,7 +825,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -755,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36,
    "hot": false
   },
   {
@@ -765,11 +849,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 141,
-   "comments": 38,
+   "engagement": 142,
+   "comments": 39,
    "publishedAt": 1790974335000,
    "isAI": false,
-   "score": 36.4,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -783,7 +867,21 @@
    "comments": 175,
    "publishedAt": 1790852397000,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "Vote on which of Hacker News' challenges for AI have been met",
+   "url": "https://stoppels.ch/goalposts/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49924618",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 201,
+   "comments": 267,
+   "publishedAt": 1790875963000,
+   "isAI": true,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -797,21 +895,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "Vote on which of Hacker News' challenges for AI have been met",
-   "url": "https://stoppels.ch/goalposts/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49924618",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 200,
-   "comments": 267,
-   "publishedAt": 1790875963000,
-   "isAI": true,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -825,7 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -836,24 +920,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 136,
-   "comments": 88,
+   "comments": 89,
    "publishedAt": 1790970306000,
    "isAI": false,
-   "score": 35.7,
-   "hot": false
-  },
-  {
-   "title": "Apple, macOS ‘전체 디스크 접근’ 권한 통제 강화 예고",
-   "url": "https://news.hada.io/topic?id=34706",
-   "summary": "Apple은 앱에 전체 디스크 접근 권한(Full Disk Access) 을 부여할 때, 사용자가 위험을 충분히 이해하고 명시적으로 허용하도록 추가 통제 장치를 도입할 예정임 이 권한은 Mac의 백업 앱 이 정상적으로 작동하도록 사용자 개인정보 보호 통제를 상당 부분 우회함...",
-   "publishedAt": 1791012775000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.7,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -867,7 +937,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "Apple, macOS ‘전체 디스크 접근’ 권한 통제 강화 예고",
+   "url": "https://news.hada.io/topic?id=34706",
+   "summary": "Apple은 앱에 전체 디스크 접근 권한(Full Disk Access) 을 부여할 때, 사용자가 위험을 충분히 이해하고 명시적으로 허용하도록 추가 통제 장치를 도입할 예정임 이 권한은 Mac의 백업 앱 이 정상적으로 작동하도록 사용자 개인정보 보호 통제를 상당 부분 우회함...",
+   "publishedAt": 1791012775000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -881,21 +965,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "잘 잊어버리는 CPU(M4에서 Linux 구동하기)",
-   "url": "https://news.hada.io/topic?id=34704",
-   "summary": "M4 Mac에서 모든 CPU 코어를 사용하며 Linux를 셸까지 부팅 하는 데 성공했으며, 필요한 수정이 Linux 본류와 Asahi Linux의 부팅 도구 m1n1 에 반영됨 핵심 장애물은 인터럽트를 기다리는 WFI 명령 이 CPU 레지스터의 값을 지워버리는 동작이었음. ...",
-   "publishedAt": 1791009275000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -909,21 +979,21 @@
    "comments": 160,
    "publishedAt": 1790859655000,
    "isAI": true,
-   "score": 35.2,
+   "score": 34.8,
    "hot": false
   },
   {
-   "title": "Show GN: soom - 바탕화면 깔끔한 척 정리하는 macOS 앱",
-   "url": "https://news.hada.io/topic?id=34703",
-   "summary": "안녕하세요. 학교에서 이런 저런 강의하는 사람입니다. 강의나 영상을 녹화하면서 내 PC 화면을 보여야 할 때 뭔가 이것 저것 많으면 복잡스러운데 바탕화면에 뭐 안보이게 숨기는 프로그램 입니다. 배경 보통 바탕화면의 아이콘하고, 메뉴 막대 (날짜 / 시간,",
-   "publishedAt": 1791007907000,
+   "title": "잘 잊어버리는 CPU(M4에서 Linux 구동하기)",
+   "url": "https://news.hada.io/topic?id=34704",
+   "summary": "M4 Mac에서 모든 CPU 코어를 사용하며 Linux를 셸까지 부팅 하는 데 성공했으며, 필요한 수정이 Linux 본류와 Asahi Linux의 부팅 도구 m1n1 에 반영됨 핵심 장애물은 인터럽트를 기다리는 WFI 명령 이 CPU 레지스터의 값을 지워버리는 동작이었음. ...",
+   "publishedAt": 1791009275000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -937,7 +1007,21 @@
    "comments": 952,
    "publishedAt": 1790701605000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "Show GN: soom - 바탕화면 깔끔한 척 정리하는 macOS 앱",
+   "url": "https://news.hada.io/topic?id=34703",
+   "summary": "안녕하세요. 학교에서 이런 저런 강의하는 사람입니다. 강의나 영상을 녹화하면서 내 PC 화면을 보여야 할 때 뭔가 이것 저것 많으면 복잡스러운데 바탕화면에 뭐 안보이게 숨기는 프로그램 입니다. 배경 보통 바탕화면의 아이콘하고, 메뉴 막대 (날짜 / 시간,",
+   "publishedAt": 1791007907000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -948,10 +1032,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 385,
-   "comments": 115,
+   "comments": 116,
    "publishedAt": 1790870516000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -965,7 +1049,7 @@
    "comments": 462,
    "publishedAt": 1790783411000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -979,7 +1063,21 @@
    "comments": 111,
    "publishedAt": 1790850096000,
    "isAI": true,
-   "score": 34,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "오픈AI 안전 총괄, 조직 문화 비판하며 사직...\"시행착오 시대 끝났다\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215947",
+   "summary": "오픈AI에서 안전 시스템 팀을 이끌며 모델 출시 안전 보고서 작성 등을 감독했던 핵심 인물 데이비드 로빈슨이 회사를 떠났다. 그는 오픈AI의 속도 중심 조직 문화가 위험을 키우고 있다며 \"시행착오를 거칠 시대는 끝났다\"고 경고했다.로빈슨은 3일(현지시간) 애틀랜틱에 기고한 '오픈AI의 문화가 망가져서 그만뒀다'라는 제목의 글을 통해 사임 소식을 알렸다. 그는 3년 반 동안 오픈AI에 근무하며 안전 투명성 확보와 시스템 카드 작성 등을 주도한 베테랑 직원이다.그 오픈AI가 배포 후 문제가 발생하면 대응하는 '반복적 배포' 방식을 고수",
+   "publishedAt": 1791071940000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -993,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1007,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1021,7 +1119,7 @@
    "comments": 156,
    "publishedAt": 1790859327000,
    "isAI": false,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1035,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1049,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1063,7 +1161,7 @@
    "comments": 219,
    "publishedAt": 1790886207000,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1077,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1091,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1105,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1119,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1130,52 +1228,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 234,
-   "comments": 190,
+   "comments": 191,
    "publishedAt": 1790888857000,
    "isAI": false,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "세포 정체성 상실이 인간 노화를 이끈다: 새로운 논문 두 편",
-   "url": "https://news.hada.io/topic?id=34687",
-   "summary": "Nature와 Cell의 두 논문 은 세포가 고유한 정체성을 잃는 과정으로 노화를 설명함. 기존의 손상 축적 모델을 보완하지만, 두 과정의 상대적 기여도와 상호의존성은 아직 알 수 없음 세포 정체성은 3단계 조절 체계 로 유지되며, 염색질 구조에 의존하는 느린 층이 정...",
-   "publishedAt": 1790980813000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "NFL 감독 마이크 톰린이 12년에 걸쳐 만든 Minecraft 도시",
-   "url": "https://news.hada.io/topic?id=34686",
-   "summary": "NFL 피츠버그 스틸러스의 전 감독 마이크 톰린이 12년 넘게 Minecraft에서 만들어 온 도시 를 공개함 아이들과 함께 시작한 취미였지만, 아이들이 자라 게임에서 멀어진 뒤에도 혼자 도시를 계속 확장 해 옴 물가의 작은 호텔에서 출발해 고층 아파트, 경기...",
-   "publishedAt": 1790980632000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "Show GN: LibreDB Studio - 드라이버 18개로 엔진 46개에 붙는 셀프호스팅 브라우저 DB IDE",
-   "url": "https://news.hada.io/topic?id=34685",
-   "summary": "브라우저에서 도는 셀프호스팅 SQL IDE입니다. 드라이버 18개로 이름 있는 엔진 46개에 연결됩니다. PostgreSQL, MySQL, Oracle, SQL Server, SQLite, MongoDB, Redis, ClickHouse를 한 화면에서 다루고, 0.17.0에서 Prometheus와 Apache Kafka가 들어왔습니다. 18개 중 5개는 읽기 전용입니다. 다른 DB 클라이",
-   "publishedAt": 1790979309000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1185,39 +1241,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 142,
+   "engagement": 144,
    "comments": 47,
    "publishedAt": 1790928348000,
    "isAI": false,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "Tiny Brutalism - 콘크리트 건축물을 자유롭게 만드는 작은 샌드박스 게임",
-   "url": "https://news.hada.io/topic?id=34684",
-   "summary": "차갑고 삭막한 건축물을 편안하게 만드는 작은 샌드박스 게임 으로, 콘크리트를 드러내는 브루탈리즘 건축에서 영감을 받음 달성할 목표나 정답 없이 기묘한 기념물, 불가능한 구조물, 콘크리트 탑이나 거대한 벽 을 원하는 대로 만들 수 있음 클릭으로 구조...",
-   "publishedAt": 1790977014000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "ChatGPT Sites - 대화로 웹사이트와 앱을 만들고 게시하기",
-   "url": "https://news.hada.io/topic?id=34681",
-   "summary": "원하는 것을 말로 설명하면 웹사이트·앱·게임을 만들고 호스팅·공유까지 ChatGPT 안에서 처리할 수 있음 파일이나 시각적 참고 자료, 기존 Codex 프로젝트로 시작하고, 인앱 브라우저에서 테스트하며 대화로 수정 할 수 있음 대시보드·고객 포털·계산기 등...",
-   "publishedAt": 1790973675000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.2,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1231,7 +1259,7 @@
    "comments": 431,
    "publishedAt": 1790699448000,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1245,21 +1273,7 @@
    "comments": 166,
    "publishedAt": 1790858678000,
    "isAI": false,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-   "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-   "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the",
-   "publishedAt": 1791046150000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1273,7 +1287,21 @@
    "comments": 248,
    "publishedAt": 1790859951000,
    "isAI": false,
-   "score": 31.6,
+   "score": 31.2,
+   "hot": false
+  },
+  {
+   "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+   "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+   "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the",
+   "publishedAt": 1791046150000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1287,21 +1315,7 @@
    "comments": 138,
    "publishedAt": 1790829158000,
    "isAI": false,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-   "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-   "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the cur",
-   "publishedAt": 1791039600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.1,
+   "score": 31,
    "hot": false
   },
   {
@@ -1315,21 +1329,35 @@
    "comments": 125,
    "publishedAt": 1790757801000,
    "isAI": true,
-   "score": 31,
+   "score": 30.7,
    "hot": false
   },
   {
-   "title": "An OpenAI safety employee has quit and is sounding the alarm",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-   "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwo",
-   "publishedAt": 1791037916000,
+   "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+   "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+   "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the cur",
+   "publishedAt": 1791039600000,
    "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31,
+   "score": 30.6,
+   "hot": false
+  },
+  {
+   "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+   "url": "https://www.cssbed.com",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49927212",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 163,
+   "comments": 47,
+   "publishedAt": 1790889692000,
+   "isAI": false,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1343,7 +1371,21 @@
    "comments": 97,
    "publishedAt": 1790789860000,
    "isAI": true,
-   "score": 30.8,
+   "score": 30.5,
+   "hot": false
+  },
+  {
+   "title": "An OpenAI safety employee has quit and is sounding the alarm",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+   "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwo",
+   "publishedAt": 1791037916000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1357,48 +1399,6 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 30.8,
-   "hot": false
-  },
-  {
-   "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "url": "https://www.cssbed.com",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49927212",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 161,
-   "comments": 47,
-   "publishedAt": 1790889692000,
-   "isAI": false,
-   "score": 30.7,
-   "hot": false
-  },
-  {
-   "title": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215942",
-   "summary": "실리콘밸리가 부풀려 놓은 AI 기업들의 몸값에 대해 월스트리트가 잇달아 제동을 걸고 나섰다. 천문학적인 인프라 투자 비용 대비 실질적 수익성에 대한 회의론이 월가를 압도하면서, AI 거품 붕괴 시 미국과 세계 경제 전반에 시스템적 위험을 초래할 수 있다는 경고가 전면에 등장하고 있다. 철도 붐이나 닷컴 버블을 뛰어넘는 자금이 유입되고 있으나, 이를 뒷받침할 구체적인 성과는 턱없이 부족하다는 지적이다.특히 앤트로픽의 기업공개(IPO)를 앞두고 월가의 냉각 기류가 구체화되고 있다. 투자은행들이 초기 논의에서 제시했던 2조달러의 기업 가",
-   "publishedAt": 1791032105000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-   "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-   "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-   "publishedAt": 1791053037000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
    "score": 30.4,
    "hot": false
   }
