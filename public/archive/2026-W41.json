@@ -1,5 +1,5 @@
 {
- "updatedAt": 1791295875460,
+ "updatedAt": 1791299533854,
  "week": "2026-W41",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 355,
-   "comments": 155,
+   "engagement": 592,
+   "comments": 329,
    "publishedAt": 1791292549000,
    "isAI": true,
-   "score": 63.5,
+   "score": 67.6,
    "hot": true
   },
   {
@@ -23,12 +23,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 114,
-   "comments": 11,
+   "engagement": 298,
+   "comments": 33,
    "publishedAt": 1791293150000,
    "isAI": true,
-   "score": 52.9,
-   "hot": false
+   "score": 61.3,
+   "hot": true
   },
   {
    "title": "Anthropic reported diary entry to police, woman faces felony charge",
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 760,
-   "comments": 591,
+   "engagement": 767,
+   "comments": 597,
    "publishedAt": 1791178660000,
    "isAI": true,
-   "score": 52,
+   "score": 51.6,
    "hot": false
   },
   {
@@ -51,11 +51,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 290,
-   "comments": 186,
+   "engagement": 291,
+   "comments": 187,
    "publishedAt": 1791222815000,
    "isAI": true,
-   "score": 50.6,
+   "score": 50.1,
+   "hot": true
+  },
+  {
+   "title": "Show GN: agent-gc – AI 코딩 에이전트가 남긴 worktree 쓰레기를 치워주는 TUI",
+   "url": "https://news.hada.io/topic?id=34893",
+   "summary": "Codex, Claude Code 같은 에이전트에 병렬로 일을 시키다 보니 worktree가 계속 늘어났음. worktree마다 install, 빌드, 테스트가 돌면서 node_modules , .next , target , .venv 도 같이 복제됨 어느 날 디스크가 꽉 차서 열어 보니 ~/.codex...",
+   "publishedAt": 1791297681000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
    "hot": true
   },
   {
@@ -69,7 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.7,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -79,11 +93,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 408,
-   "comments": 277,
+   "engagement": 415,
+   "comments": 288,
    "publishedAt": 1791234021000,
    "isAI": false,
-   "score": 48.2,
+   "score": 47.8,
+   "hot": true
+  },
+  {
+   "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+   "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49977588",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 159,
+   "comments": 55,
+   "publishedAt": 1791290749000,
+   "isAI": false,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -93,25 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 246,
-   "comments": 318,
+   "engagement": 249,
+   "comments": 324,
    "publishedAt": 1791255111000,
    "isAI": false,
-   "score": 46.8,
-   "hot": true
-  },
-  {
-   "title": "Photopea 개발자, Photosuite의 코드 무단 복제 문제 제기",
-   "url": "https://news.hada.io/topic?id=34881",
-   "summary": "웹 이미지 편집기 Photopea의 개발자 Ivan Kutskir 가 데스크톱 편집기 Photosuite를 두고, 자신의 코드를 복제하고 AI로 변수명을 바꾼 결과물이라고 문제를 제기함 Photosuite 개발자의 이슈 답변에는 비공식 Photopea 오프라인 복제본에서 출발 해, 지난 1년간 모...",
-   "publishedAt": 1791271907000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.6,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -125,8 +139,22 @@
    "comments": 418,
    "publishedAt": 1791118313000,
    "isAI": true,
-   "score": 46.5,
+   "score": 46.2,
    "hot": false
+  },
+  {
+   "title": "Photopea 개발자, Photosuite의 코드 무단 복제 문제 제기",
+   "url": "https://news.hada.io/topic?id=34881",
+   "summary": "웹 이미지 편집기 Photopea의 개발자 Ivan Kutskir 가 데스크톱 편집기 Photosuite를 두고, 자신의 코드를 복제하고 AI로 변수명을 바꾼 결과물이라고 문제를 제기함 Photosuite 개발자의 이슈 답변에는 비공식 Photopea 오프라인 복제본에서 출발 해, 지난 1년간 모...",
+   "publishedAt": 1791271907000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.1,
+   "hot": true
   },
   {
    "title": "Web Search API",
@@ -135,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 572,
-   "comments": 266,
+   "engagement": 575,
+   "comments": 271,
    "publishedAt": 1791197226000,
    "isAI": false,
-   "score": 46.2,
+   "score": 45.8,
    "hot": false
   },
   {
@@ -153,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -167,7 +195,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.5,
    "hot": false
   },
   {
@@ -177,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 421,
-   "comments": 297,
+   "engagement": 424,
+   "comments": 298,
    "publishedAt": 1791205345000,
    "isAI": false,
-   "score": 44.9,
+   "score": 44.5,
    "hot": false
   },
   {
@@ -195,8 +223,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "Denmark data breach exposes 8.8M people's personal data",
@@ -209,7 +237,7 @@
    "comments": 348,
    "publishedAt": 1791187776000,
    "isAI": false,
-   "score": 44.1,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -223,21 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44,
-   "hot": false
-  },
-  {
-   "title": "AI 시대, 매니저의 길",
-   "url": "https://news.hada.io/topic?id=34865",
-   "summary": "AI로 한 사람이 여러 사람 분량의 코드를 만들 수 있어도, 팀이 같은 방향으로 움직이게 하는 일 까지 자동으로 해결되지는 않음. 관리자의 기술적 판단과 사람 관리는 여전히 필요함 AI는 업무 기록을 쉽게 보여주지만 가시성과 이해는 다름 . 요약만 읽으면 맥락과...",
-   "publishedAt": 1791251701000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -251,7 +265,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
+   "hot": false
+  },
+  {
+   "title": "AI 시대, 매니저의 길",
+   "url": "https://news.hada.io/topic?id=34865",
+   "summary": "AI로 한 사람이 여러 사람 분량의 코드를 만들 수 있어도, 팀이 같은 방향으로 움직이게 하는 일 까지 자동으로 해결되지는 않음. 관리자의 기술적 판단과 사람 관리는 여전히 필요함 AI는 업무 기록을 쉽게 보여주지만 가시성과 이해는 다름 . 요약만 읽으면 맥락과...",
+   "publishedAt": 1791251701000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -279,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -293,7 +321,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
+   "hot": false
+  },
+  {
+   "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+   "url": "https://github.com/omlahore/RemoveMacAI",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49957116",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 762,
+   "comments": 535,
+   "publishedAt": 1791142945000,
+   "isAI": false,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -307,27 +349,41 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.1,
    "hot": false
   },
   {
-   "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "url": "https://github.com/omlahore/RemoveMacAI",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49957116",
-   "source": "Hacker News",
+   "title": "종 손실 후 자연의 회복 능력은 크게 과대평가돼 있음",
+   "url": "https://news.hada.io/topic?id=34895",
+   "summary": "전 세계 연구를 종합한 결과, 대부분의 생태계 서비스와 기능 은 소수의 종만으로 충분해지는 것이 아니라 생물다양성이 높아질수록 계속 증가함 423개 연구, 222,829개 데이터 포인트 를 분석한 이번 연구는 종들이 서로를 대신해 종 손실의 영향을 줄인다는",
+   "publishedAt": 1791297903000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 761,
-   "comments": 535,
-   "publishedAt": 1791142945000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 42.5,
-   "hot": false
+   "score": 41.8,
+   "hot": true
   },
   {
-   "title": "JetBrains, 실적 추적 기간 중 처음으로 순손실 기록",
+   "title": "Polars 2.0 출시",
+   "url": "https://news.hada.io/topic?id=34894",
+   "summary": "LazyFrame.collect() 의 기본 실행 엔진이 스트리밍 엔진 으로 바뀌어 대부분 쿼리의 메모리 사용량과 성능이 개선됨. 일부 연산에서 행 순서를 보장하려면 maintain_order=True 를 지정해야 함 메모리가 부족할 때 데이터를 디스크로 내보내는 아웃...",
+   "publishedAt": 1791297722000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "JetBrains, 매출 늘었지만 2025년 순손실 전환",
    "url": "https://news.hada.io/topic?id=34889",
-   "summary": "JetBrains s.r.o. 의 2025년 순손실은 3억 1,500만 체코 코루나(CZK) 로, 2024년 순이익 24억 7,900만 CZK에서 적자로 전환함 매출은 160억 800만 CZK 로 전년 대비 6.3% 증가해 역대 최고치를 기록했지만, 순이익률은 -1.97%로 하락함 ...",
+   "summary": "JetBrains가 2025년 약 1,440만 달러의 순손실 을 기록하며, 전년 약 1억 700만 달러 흑자에서 적자로 전환함 매출은 약 7억 3,100만 달러 로 최고치를 기록했으며, 체코 코루나 기준 전년 대비 6.3% 증가함 영업이익은 약 3,430만 달러로 흑자를 유...",
    "publishedAt": 1791293719000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -335,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -349,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.4,
+   "score": 41,
    "hot": false
   },
   {
@@ -363,8 +419,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
+  },
+  {
+   "title": "Apple and a hacker's future",
+   "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49962857",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 279,
+   "comments": 237,
+   "publishedAt": 1791194702000,
+   "isAI": false,
+   "score": 40.4,
+   "hot": false
   },
   {
    "title": "Francis Halzen, 노벨 물리학상 수상",
@@ -377,36 +447,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
-  },
-  {
-   "title": "Apple and a hacker's future",
-   "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49962857",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 278,
-   "comments": 236,
-   "publishedAt": 1791194702000,
-   "isAI": false,
-   "score": 40.7,
-   "hot": false
-  },
-  {
-   "title": "Anthropic, Claude를 일기처럼 쓰던 이용자의 총격 위협 신고…여성 체포",
-   "url": "https://news.hada.io/topic?id=34833",
-   "summary": "미국 플로리다에서 Claude를 일기장처럼 사용하던 여성 이 보안관 사무실에 총격을 가하겠다는 내용을 입력한 뒤, Anthropic의 신고로 체포됨 체포 보고서에 따르면 여성은 9월 26일 총격 위협을 작성하고, 다음 날 새 총을 구했다고도 입력 함. 이후 경찰에 AI를 일...",
-   "publishedAt": 1791221953000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.6,
-   "hot": false
   },
   {
    "title": "Show GN: HOWBIG - 돈 관리부터 투자 판단까지 문제를 풀며 배우는 금융학습 서비스",
@@ -419,22 +461,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
-  },
-  {
-   "title": "Show GN: Agent Guard - Claude Code·Codex의 비밀정보 노출을 줄이는 로컬 보안 도구",
-   "url": "https://news.hada.io/topic?id=34831",
-   "summary": "Claude Code나 Codex가 .env 를 읽거나, 명령어 출력에 API 키와 토큰이 포함되면 Git에 커밋하지 않더라도 비밀정보가 에이전트의 컨텍스트나 대화 기록에 들어갈 수 있습니다. 이런 노출 경로를 줄이기 위해 Agent Guard를 만들었습니다. 주요 기능은 다음과 같습니다. 파일 읽기",
-   "publishedAt": 1791218911000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.3,
-   "hot": false
   },
   {
    "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
@@ -443,11 +471,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 241,
-   "comments": 178,
+   "engagement": 242,
+   "comments": 181,
    "publishedAt": 1791199038000,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -457,17 +485,31 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 525,
-   "comments": 688,
+   "engagement": 526,
+   "comments": 691,
    "publishedAt": 1791142625000,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.8,
+   "hot": false
+  },
+  {
+   "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+   "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+   "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+   "publishedAt": 1791297196000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.7,
    "hot": false
   },
   {
    "title": "Pinterest’s AI now turns beauty Pins into action plans",
    "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-   "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times and maintenance needs.",
+   "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
    "publishedAt": 1791295249000,
    "source": "TechCrunch AI",
    "sourceType": "media",
@@ -475,7 +517,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -489,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -503,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -517,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -545,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -559,7 +601,7 @@
    "comments": 133,
    "publishedAt": 1791139757000,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -573,7 +615,7 @@
    "comments": 248,
    "publishedAt": 1791165248000,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -587,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -597,11 +639,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 200,
+   "engagement": 201,
    "comments": 127,
    "publishedAt": 1791186370000,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -615,8 +657,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Dust - 역전파 없이 트랜스포머 사전학습하기",
@@ -629,8 +671,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Show GN: 애드덱 - 앱별 애드몹 수익을 폰 한 화면에서 보는 안드로이드 대시보드",
@@ -643,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -657,21 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
-   "hot": false
-  },
-  {
-   "title": "샌프란시스코의 두 지점 사이에서 가장 평탄한 경로 찾기",
-   "url": "https://news.hada.io/topic?id=34862",
-   "summary": "Flatten SF 는 샌프란시스코에서 출발지와 목적지 사이의 최단 경로부터 가장 평탄한 경로까지, 거리와 오르막의 절충에 따라 경로를 탐색하는 서비스임 16만 개 도로 구간 을 대상으로 브라우저에서 경로를 계산하며, USGS의 1m 라이다 고도 데이터와 Overture / Op...",
-   "publishedAt": 1791250298000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -681,11 +709,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 131,
-   "comments": 34,
+   "engagement": 132,
+   "comments": 36,
    "publishedAt": 1791209355000,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -699,9 +727,23 @@
    "comments": 835,
    "publishedAt": 1791049469000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.4,
    "hot": false,
    "lastWeekRank": 7
+  },
+  {
+   "title": "샌프란시스코의 두 지점 사이에서 가장 평탄한 경로 찾기",
+   "url": "https://news.hada.io/topic?id=34862",
+   "summary": "Flatten SF 는 샌프란시스코에서 출발지와 목적지 사이의 최단 경로부터 가장 평탄한 경로까지, 거리와 오르막의 절충에 따라 경로를 탐색하는 서비스임 16만 개 도로 구간 을 대상으로 브라우저에서 경로를 계산하며, USGS의 1m 라이다 고도 데이터와 Overture / Op...",
+   "publishedAt": 1791250298000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.4,
+   "hot": false
   },
   {
    "title": "I quit OpenAI because its culture is broken",
@@ -714,7 +756,7 @@
    "comments": 815,
    "publishedAt": 1791035194000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -729,7 +771,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -743,7 +785,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -757,7 +799,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -771,7 +813,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -785,7 +827,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -799,7 +841,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -813,7 +855,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -826,7 +868,7 @@
    "baseWeight": 34,
    "publishedAt": 1791239839000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -840,7 +882,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -854,7 +896,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -868,49 +910,7 @@
    "comments": 73,
    "publishedAt": 1791105892000,
    "isAI": true,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "Tell HN: Uceprotect가 웹사이트 운영자에게 돈을 갈취하고 있음",
-   "url": "https://news.hada.io/topic?id=34845",
-   "summary": "웹사이트가 Orange 보안 필터 에 차단된 사실을 우연히 발견했고, 확인 결과 해당 IP가 UCEPROTECT Level 3 에 등록돼 있었음. 개별 IP의 잘못이 아니라 DigitalOcean의 미국 ASN 14061 전체 평판 을 기준으...",
-   "publishedAt": 1791236588000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "“기술 업계에 몸담은 사람으로서 부끄럽다”",
-   "url": "https://news.hada.io/topic?id=34844",
-   "summary": "Ben Thompson은 어머니의 디지털 생활을 정리하는 일을 돕다가, 모든 것이 너무 어렵고 복잡해 기술 업계 종사자로서 부끄럽다 고 느낌 같은 날 Jim Nielsen도 가족에게서 웹사이트로 일을 빠르고 효율적으로 처리하려는데 버그투성이라 현대 웹이 싫다 는 문자를 받...",
-   "publishedAt": 1791236408000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "일반 텍스트는 여전히 우리가 가진 최고의 기술 중 하나다",
-   "url": "https://news.hada.io/topic?id=34843",
-   "summary": "일반 텍스트는 만든 프로그램이 사라져도 내용을 읽을 수 있는 형식 임. 복잡한 서식은 없지만 특정 소프트웨어에 덜 의존해, 수십 년 뒤에도 정보를 복구하기에 유리함 grep , diff 같은 명령줄 도구부터 편집기와 메모 앱까지 다양한 도구로 검색...",
-   "publishedAt": 1791236228000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.4,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -924,9 +924,51 @@
    "comments": 3,
    "publishedAt": 1791065893000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "Tell HN: Uceprotect가 웹사이트 운영자에게 돈을 갈취하고 있음",
+   "url": "https://news.hada.io/topic?id=34845",
+   "summary": "웹사이트가 Orange 보안 필터 에 차단된 사실을 우연히 발견했고, 확인 결과 해당 IP가 UCEPROTECT Level 3 에 등록돼 있었음. 개별 IP의 잘못이 아니라 DigitalOcean의 미국 ASN 14061 전체 평판 을 기준으...",
+   "publishedAt": 1791236588000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "“기술 업계에 몸담은 사람으로서 부끄럽다”",
+   "url": "https://news.hada.io/topic?id=34844",
+   "summary": "Ben Thompson은 어머니의 디지털 생활을 정리하는 일을 돕다가, 모든 것이 너무 어렵고 복잡해 기술 업계 종사자로서 부끄럽다 고 느낌 같은 날 Jim Nielsen도 가족에게서 웹사이트로 일을 빠르고 효율적으로 처리하려는데 버그투성이라 현대 웹이 싫다 는 문자를 받...",
+   "publishedAt": 1791236408000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "일반 텍스트는 여전히 우리가 가진 최고의 기술 중 하나다",
+   "url": "https://news.hada.io/topic?id=34843",
+   "summary": "일반 텍스트는 만든 프로그램이 사라져도 내용을 읽을 수 있는 형식 임. 복잡한 서식은 없지만 특정 소프트웨어에 덜 의존해, 수십 년 뒤에도 정보를 복구하기에 유리함 grep , diff 같은 명령줄 도구부터 편집기와 메모 앱까지 다양한 도구로 검색...",
+   "publishedAt": 1791236228000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.1,
+   "hot": false
   },
   {
    "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
@@ -939,7 +981,7 @@
    "comments": 12,
    "publishedAt": 1791024231000,
    "isAI": true,
-   "score": 35.2,
+   "score": 35,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -954,7 +996,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -968,7 +1010,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -982,7 +1024,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -996,7 +1038,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1010,7 +1052,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1024,7 +1066,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1038,7 +1080,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1052,21 +1094,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "Mold 링커 3.0.0 출시, Rust로 재작성",
-   "url": "https://news.hada.io/topic?id=34832",
-   "summary": "고속 링커 mold 3.0.0 은 C++에서 Rust로 재작성한 첫 릴리스 이며, 2.42.1이 마지막 C++ 버전임 2.42.1을 그대로 대체 하도록 설계해 기존 명령행 옵션과 지원 아키텍처를 유지하며, 버그 수정을 제외한 출력과 링크 성능도 기존 버전과 동등함",
-   "publishedAt": 1791221773000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.1,
+   "score": 34,
    "hot": false
   },
   {
@@ -1080,23 +1108,24 @@
    "comments": 161,
    "publishedAt": 1791052170000,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false,
    "lastWeekRank": 5
   },
   {
-   "title": "모기 매개 질병을 퇴치할 기술은 이미 존재함",
-   "url": "https://news.hada.io/topic?id=34830",
-   "summary": "유전자 조작 모기와 Wolbachia 감염 모기 로 질병을 옮기는 모기 개체군을 억제하거나 바이러스 전파 능력을 낮출 수 있지만, 미국에서는 기술 도입에 15년에 걸친 규제 지연이 발생함 Oxitec의 유전자 조작 모기 는 교배 후 암컷 자손이 성체가 되기 전에 죽도록 설...",
-   "publishedAt": 1791218217000,
-   "source": "GeekNews",
+   "title": "Religious scholars met with Anthropic",
+   "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49950052",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.8,
-   "hot": false
+   "lang": "en",
+   "engagement": 165,
+   "comments": 436,
+   "publishedAt": 1791081262000,
+   "isAI": true,
+   "score": 33.3,
+   "hot": false,
+   "lastWeekRank": 9
   },
   {
    "title": "Google is about to remove free access to Gemini Flash and Pro",
@@ -1109,23 +1138,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
-  },
-  {
-   "title": "Religious scholars met with Anthropic",
-   "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49950052",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 165,
-   "comments": 435,
-   "publishedAt": 1791081262000,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false,
-   "lastWeekRank": 9
   },
   {
    "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
@@ -1138,7 +1152,7 @@
    "comments": 109,
    "publishedAt": 1791054888000,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false,
    "lastWeekRank": 12
   },
@@ -1153,7 +1167,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1167,35 +1181,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-   "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-   "publishedAt": 1791228833000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-   "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-   "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-   "publishedAt": 1791226470000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.9,
+   "score": 33,
    "hot": false
   },
   {
@@ -1209,9 +1195,37 @@
    "comments": 1189,
    "publishedAt": 1790798677000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.7,
    "hot": false,
    "lastWeekRank": 30
+  },
+  {
+   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+   "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+   "publishedAt": 1791228833000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+   "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+   "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+   "publishedAt": 1791226470000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.5,
+   "hot": false
   },
   {
    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
@@ -1224,7 +1238,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1238,21 +1252,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
-   "title": "'미국 오픈소스 대표' 리플렉션 AI, 첫 모델 공개…반응은 엇갈려",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215987",
-   "summary": "미국 오픈소스 진영의 기대주 리플렉션 AI가 첫 자체 오픈웨이트 모델을 선보였다. 최첨단 모델 수준의 성능에는 미치지 못했으나, 코딩·추론·에이전트 작업에 특화해 경쟁 모델 대비 적은 연산으로 동급 성능을 내는 뛰어난 효율성을 강점으로 내세웠다.리플렉션 AI는 5일(현지시간) 첫 오픈웨이트 모델 ‘빔(Beam)’을 공개했다. 빔은 총 5010억개 매개변수를 갖춘 희소 전문가 혼합(MoE) 모델로, 토큰당 실제 활성화되는 매개변수는 230억개다.2조개 이상의 매개변수를 사용하는 대형 모델에 비해 추론 연산량을 크게 줄인 구조다. 리플",
-   "publishedAt": 1791278350000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
+   "title": "How to scale intent, quality, and artistry with AI [video]",
+   "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49951891",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 101,
+   "comments": 49,
+   "publishedAt": 1791103318000,
    "isAI": true,
-   "score": 32.3,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1266,7 +1280,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.2,
+   "score": 31.9,
+   "hot": false
+  },
+  {
+   "title": "'미국 오픈소스 대표' 리플렉션 AI, 첫 모델 공개…반응은 엇갈려",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215987",
+   "summary": "미국 오픈소스 진영의 기대주 리플렉션 AI가 첫 자체 오픈웨이트 모델을 선보였다. 최첨단 모델 수준의 성능에는 미치지 못했으나, 코딩·추론·에이전트 작업에 특화해 경쟁 모델 대비 적은 연산으로 동급 성능을 내는 뛰어난 효율성을 강점으로 내세웠다.리플렉션 AI는 5일(현지시간) 첫 오픈웨이트 모델 ‘빔(Beam)’을 공개했다. 빔은 총 5010억개 매개변수를 갖춘 희소 전문가 혼합(MoE) 모델로, 토큰당 실제 활성화되는 매개변수는 230억개다.2조개 이상의 매개변수를 사용하는 대형 모델에 비해 추론 연산량을 크게 줄인 구조다. 리플",
+   "publishedAt": 1791278350000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1280,7 +1308,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1294,7 +1322,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1308,7 +1336,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1322,7 +1350,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1336,35 +1364,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "[게시판] 두산로보틱스, 989억 규모 피지컬 AI 국책과제 2건 선정 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216013",
-   "summary": "■ 두산로보틱스(대표 권영민)는 산업통상부와 한국산업기술기획평가원이 공동 주관한 'K-온디바이스 AI 반도체 기술개발사업'과 '로봇산업 기술개발사업'이 국책과제로 선정됐다고 밝혔다. 총 연구개발비는 989억원이며, 이 중 정부 지원금은 681억원이다. 에이딘로보틱스, 모빌린트 등과 온디바이스 AI 반도체 기반 차세대 협동로봇을, 딥엑스 등과 원전 특화 용접 AI 솔루션을 개발할 예정이다.■ 메가존클라우드(대표 염동훈)는 엔터프라이즈 AI 운영체제(OS) '에어 스튜디오 v3'를 업데이트했다고 밝혔다. 에어 스튜디오는 기업의 AI 구",
-   "publishedAt": 1791275179000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "코히어, 에이전트 비용·보안 통제 플랫폼 '노스 2' 출시...알레프 알파 인수 후 첫 행보",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216014",
-   "summary": "캐나다의 기업용 AI 전문 코히어가 AI 에이전트의 예산 통제 및 메모리 기능을 대폭 강화한 '노스 2(North 2)'를 공개했다. 지난달 독일의 대표 AI 스타트업 알레프 알파(Aleph Alpha)와 200억달러(약 26조원) 규모의 합병 계약을 체결한 이후 선보이는 첫 대형 플랫폼 업데이트다.코히어는 5일(현지시간) 노스 2 출시를 통해 기업들이 AI 에이전트를 도입할 때 직면하는 최대 난제인 예상치 못한 비용 폭증과 보안 및 맥락 유지 한계를 정면으로 해결하는 데 중점을 뒀다고 밝혔다.기존 AI 에이전트 환경에서는 복잡한",
-   "publishedAt": 1791275105000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1378,35 +1378,35 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
-   "title": "엔비디아-그로크 27조 계약 파장…소외된 엔지니어들 \"거래 불공정\" 소송",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216009",
-   "summary": "엔비디아가 AI 칩 스타트업 그로크(Groq)와 체결한 200억달러(약 27조원) 규모의 라이선스 계약이 소송에 휘말렸다. 계약 과정에서 그로크의 일부 주주와 엔지니어들이 제대로 된 대가를 받지 못했고, 사실상 회사의 핵심 기술과 인력을 엔비디아에 넘긴 거래였다는 게 원고 측 주장이다.파이낸셜타임스에 따르면, 그로크의 전직 엔지니어인 벤저민 세레브린과 조슈아 루빈은 2일(현지시간) 델라웨어 기업법원에 제출한 소장에서 그로크 이사회가 2025년 회사의 핵심 자산과 주요 인력을 엔비디아에 넘기면서 다른 주주들의 이익을 충분히 보호하지",
-   "publishedAt": 1791274309000,
+   "title": "[게시판] 두산로보틱스, 989억 규모 피지컬 AI 국책과제 2건 선정 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216013",
+   "summary": "■ 두산로보틱스(대표 권영민)는 산업통상부와 한국산업기술기획평가원이 공동 주관한 'K-온디바이스 AI 반도체 기술개발사업'과 '로봇산업 기술개발사업'이 국책과제로 선정됐다고 밝혔다. 총 연구개발비는 989억원이며, 이 중 정부 지원금은 681억원이다. 에이딘로보틱스, 모빌린트 등과 온디바이스 AI 반도체 기반 차세대 협동로봇을, 딥엑스 등과 원전 특화 용접 AI 솔루션을 개발할 예정이다.■ 메가존클라우드(대표 염동훈)는 엔터프라이즈 AI 운영체제(OS) '에어 스튜디오 v3'를 업데이트했다고 밝혔다. 에어 스튜디오는 기업의 AI 구",
+   "publishedAt": 1791275179000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
-   "title": "19세 청년의 반란...고스트, 개인용 AI PC '코어'로 147억 투자 유치",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216012",
-   "summary": "클라우드가 아닌 개인 기기 안에서 직접 작동하는 로컬 AI 에이전트에 대한 관심이 높아지는 가운데, 19세 창업가가 이끄는 스타트업이 대형 기술 기업 중심의 하드웨어 시장에 도전장을 내밀어 눈길을 끌고 있다.고스트(Ghost)는 5일(현지시간) 로컬에서 AI 에이전트를 지속적으로 실행할 수 있는 전용 PC '코어(Core)'를 공개하고, 1100만달러(약 147억원) 규모의 시드 투자를 유치했다고 밝혔다.이번 투자는 앤드리슨 호로위츠(a16z)가 주도했으며, 앱스트랙트, 오더셔스 벤처스, SV 엔젤, 노바 등이 참여했다. 빅테크 기",
-   "publishedAt": 1791273743000,
+   "title": "코히어, 에이전트 비용·보안 통제 플랫폼 '노스 2' 출시...알레프 알파 인수 후 첫 행보",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216014",
+   "summary": "캐나다의 기업용 AI 전문 코히어가 AI 에이전트의 예산 통제 및 메모리 기능을 대폭 강화한 '노스 2(North 2)'를 공개했다. 지난달 독일의 대표 AI 스타트업 알레프 알파(Aleph Alpha)와 200억달러(약 26조원) 규모의 합병 계약을 체결한 이후 선보이는 첫 대형 플랫폼 업데이트다.코히어는 5일(현지시간) 노스 2 출시를 통해 기업들이 AI 에이전트를 도입할 때 직면하는 최대 난제인 예상치 못한 비용 폭증과 보안 및 맥락 유지 한계를 정면으로 해결하는 데 중점을 뒀다고 밝혔다.기존 AI 에이전트 환경에서는 복잡한",
+   "publishedAt": 1791275105000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.6,
    "hot": false
   }
  ]
