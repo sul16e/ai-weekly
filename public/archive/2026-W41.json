@@ -1,21 +1,7 @@
 {
- "updatedAt": 1791253456199,
+ "updatedAt": 1791262160446,
  "week": "2026-W41",
  "items": [
-  {
-   "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-   "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49968105",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 258,
-   "comments": 178,
-   "publishedAt": 1791222815000,
-   "isAI": true,
-   "score": 55.8,
-   "hot": true
-  },
   {
    "title": "Anthropic reported diary entry to police, woman faces felony charge",
    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
@@ -23,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 562,
-   "comments": 475,
+   "engagement": 626,
+   "comments": 501,
    "publishedAt": 1791178660000,
    "isAI": true,
-   "score": 55.5,
+   "score": 55,
+   "hot": true
+  },
+  {
+   "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+   "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49968105",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 265,
+   "comments": 179,
+   "publishedAt": 1791222815000,
+   "isAI": true,
+   "score": 54.7,
    "hot": true
   },
   {
@@ -41,8 +41,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.5,
-   "hot": true
+   "score": 50.2,
+   "hot": false
   },
   {
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
@@ -55,7 +55,7 @@
    "comments": 412,
    "publishedAt": 1791118313000,
    "isAI": true,
-   "score": 51,
+   "score": 50,
    "hot": false
   },
   {
@@ -65,11 +65,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 490,
-   "comments": 222,
+   "engagement": 506,
+   "comments": 234,
    "publishedAt": 1791197226000,
    "isAI": false,
-   "score": 50.4,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+   "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49970667",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 261,
+   "comments": 180,
+   "publishedAt": 1791234021000,
+   "isAI": false,
+   "score": 49,
+   "hot": true
+  },
+  {
+   "title": "수학의 미래",
+   "url": "https://news.hada.io/topic?id=34870",
+   "summary": "AI의 도움으로 기존의 출판 가능한 수준의 결과를 쉽게 만들어내면서, 문제 해결과 수학적 이해의 증진 이 분리되고 있음. 중요한 질문은 수학이 여전히 필요한지가 아니라 AI 시대에 어떻게 이해를 추구할지임 더 어려운 문제 에 도전할 여지는 여전히 큼. 현재 AI는...",
+   "publishedAt": 1791254800000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.9,
    "hot": true
   },
   {
@@ -79,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 398,
-   "comments": 264,
+   "engagement": 402,
+   "comments": 265,
    "publishedAt": 1791205345000,
    "isAI": false,
-   "score": 49.8,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -97,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.7,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -111,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
+   "score": 48,
    "hot": true
   },
   {
@@ -125,8 +153,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49,
+   "score": 47.8,
    "hot": false
+  },
+  {
+   "title": "Denmark data breach exposes 8.8M people's personal data",
+   "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49962012",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 471,
+   "comments": 330,
+   "publishedAt": 1791187776000,
+   "isAI": false,
+   "score": 47.7,
+   "hot": true
   },
   {
    "title": "OpenRig - Claude Code와 Codex를 팀으로 운영하는 멀티 에이전트 오케스트레이터",
@@ -139,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -153,35 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.8,
-   "hot": true
-  },
-  {
-   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-   "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49970667",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 221,
-   "comments": 163,
-   "publishedAt": 1791234021000,
-   "isAI": false,
-   "score": 48.7,
-   "hot": true
-  },
-  {
-   "title": "Denmark data breach exposes 8.8M people's personal data",
-   "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49962012",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 466,
-   "comments": 328,
-   "publishedAt": 1791187776000,
-   "isAI": false,
-   "score": 48.7,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -205,11 +219,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 757,
-   "comments": 525,
+   "engagement": 758,
+   "comments": 528,
    "publishedAt": 1791142945000,
    "isAI": false,
-   "score": 46.9,
+   "score": 45.9,
    "hot": false
   },
   {
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -251,8 +265,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
-   "hot": true
+   "score": 44.1,
+   "hot": false
   },
   {
    "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
@@ -261,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 231,
-   "comments": 165,
+   "engagement": 234,
+   "comments": 167,
    "publishedAt": 1791199038000,
    "isAI": false,
-   "score": 44.5,
+   "score": 43.6,
    "hot": true
   },
   {
@@ -275,12 +289,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 516,
-   "comments": 677,
+   "engagement": 519,
+   "comments": 680,
    "publishedAt": 1791142625000,
    "isAI": false,
-   "score": 44.1,
+   "score": 43.2,
    "hot": false
+  },
+  {
+   "title": "Apple and a hacker's future",
+   "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49962857",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 231,
+   "comments": 203,
+   "publishedAt": 1791194702000,
+   "isAI": false,
+   "score": 43,
+   "hot": true
   },
   {
    "title": "Apple과 해커의 미래",
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -321,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -335,22 +363,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.3,
    "hot": false
-  },
-  {
-   "title": "Apple and a hacker's future",
-   "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49962857",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 210,
-   "comments": 188,
-   "publishedAt": 1791194702000,
-   "isAI": false,
-   "score": 43.2,
-   "hot": true
   },
   {
    "title": "내 35mm 필름 스캔 파이프라인 자동화하기",
@@ -363,8 +377,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 41.9,
    "hot": false
+  },
+  {
+   "title": "Example.com, 수십 년 만에 최대 규모의 리디자인 공개",
+   "url": "https://news.hada.io/topic?id=34872",
+   "summary": "문서 예시용 예약 도메인인 example.com 이 2026년 9월 28일 정적 영어 페이지에서 6개 언어를 5초마다 전환하는 페이지 로 바뀜 언어 전환은 JavaScript로 처리하며, 글자마다 별도의 span 과 점진적인 transition-delay ...",
+   "publishedAt": 1791259696000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
@@ -377,7 +405,7 @@
    "comments": 248,
    "publishedAt": 1791165248000,
    "isAI": false,
-   "score": 42.2,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -387,12 +415,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 395,
-   "comments": 130,
+   "engagement": 399,
+   "comments": 131,
    "publishedAt": 1791139757000,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.1,
    "hot": false
+  },
+  {
+   "title": "텍사스의 한 도시, Flock 사용 관련 공공기록 공개에 200만 달러 요구",
+   "url": "https://news.hada.io/topic?id=34869",
+   "summary": "텍사스주 North Richland Hills 가 경찰의 Flock 사용 관련 공공기록을 요청한 단체에 230만 달러 를 요구함. 관련 통신 자료를 검색하는 데 약 14년치 노동이 필요하다는 근거를 내세움 공공기록 공개 비용 은 기관마다 크게 다르며, 고액 수수료가...",
+   "publishedAt": 1791254620000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
+   "hot": true
+  },
+  {
+   "title": "Dust - 역전파 없이 트랜스포머 사전학습하기",
+   "url": "https://news.hada.io/topic?id=34868",
+   "summary": "Dust 는 토큰마다 활성값에 독립적인 잡음을 더하고 손실 감소량을 보상으로 삼아 그래디언트를 추정하는 0차 최적화 방법으로, 큰 탐색 집단을 사용하면 사전학습에서 역전파에 근접하거나 일부 설정에서 더 낮은 손실을 달성함 가상 집단(virtual population) 방식...",
+   "publishedAt": 1791254440000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41,
+   "hot": true
   },
   {
    "title": "Show GN: 애드덱 - 앱별 애드몹 수익을 폰 한 화면에서 보는 안드로이드 대시보드",
@@ -405,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.9,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -419,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -433,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -447,7 +503,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.3,
+   "hot": true
+  },
+  {
+   "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49961861",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 182,
+   "comments": 122,
+   "publishedAt": 1791186370000,
+   "isAI": false,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -461,22 +531,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.2,
    "hot": true
-  },
-  {
-   "title": "AI로 의도, 품질, 예술성을 확장하는 법 [영상]",
-   "url": "https://news.hada.io/topic?id=34813",
-   "summary": "AI로 누구나 빠르게 제품을 만드는 시대 에는 맥락과 개성 없이 외형만 그럴듯한 ‘좀비 UI’가 늘어날 수 있음 AI는 고유한 브랜드와 사용자 맥락보다 흔하고 그럴듯한 패턴 을 재현하기 쉬우며, 빠르고 세련된 결과물이 품질의 부족함을 가릴 수 있음 브랜...",
-   "publishedAt": 1791185776000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41.3,
-   "hot": false
   },
   {
    "title": "전 아마존 부사장에게 묻는 사내 정치의 어두운 면 [영상]",
@@ -489,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -503,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -517,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40,
    "hot": true
   },
   {
@@ -531,21 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
-   "hot": true
-  },
-  {
-   "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49961861",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 176,
-   "comments": 117,
-   "publishedAt": 1791186370000,
-   "isAI": false,
-   "score": 40.9,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -559,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -573,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -587,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -601,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39,
    "hot": true
   },
   {
@@ -615,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -629,8 +671,52 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 38.9,
    "hot": true
+  },
+  {
+   "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+   "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49946228",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 411,
+   "comments": 829,
+   "publishedAt": 1791049469000,
+   "isAI": true,
+   "score": 38.8,
+   "hot": false,
+   "lastWeekRank": 7
+  },
+  {
+   "title": "I quit OpenAI because its culture is broken",
+   "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49944227",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 487,
+   "comments": 809,
+   "publishedAt": 1791035194000,
+   "isAI": true,
+   "score": 38.8,
+   "hot": false,
+   "lastWeekRank": 3
+  },
+  {
+   "title": "Linux containers in 500 lines of code (2016)",
+   "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49965118",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 111,
+   "comments": 22,
+   "publishedAt": 1791209355000,
+   "isAI": false,
+   "score": 38.7,
+   "hot": false
   },
   {
    "title": "원했던 건 내 도메인 이메일뿐이었다 - 개인 도메인 이메일 설정기",
@@ -643,7 +729,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -657,23 +743,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 38.6,
    "hot": true
-  },
-  {
-   "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-   "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49946228",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 411,
-   "comments": 824,
-   "publishedAt": 1791049469000,
-   "isAI": true,
-   "score": 39.5,
-   "hot": false,
-   "lastWeekRank": 7
   },
   {
    "title": "Borland Turbo BASIC",
@@ -686,7 +757,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -700,23 +771,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 38.5,
    "hot": true
-  },
-  {
-   "title": "I quit OpenAI because its culture is broken",
-   "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49944227",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 486,
-   "comments": 808,
-   "publishedAt": 1791035194000,
-   "isAI": true,
-   "score": 39.4,
-   "hot": false,
-   "lastWeekRank": 3
   },
   {
    "title": "Picard 3.0",
@@ -729,7 +785,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -743,7 +799,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -757,21 +813,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
-   "hot": true
-  },
-  {
-   "title": "미국, 시베리아 연구소 직원의 페스트 사망 가능성 예의주시",
-   "url": "https://news.hada.io/topic?id=34834",
-   "summary": "시베리아 이르쿠츠크의 페스트 연구소 직원이 발병 이틀 뒤 사망하면서 연구소와 여러 병원에 격리 조치 가 시행됨 페스트 감염과 실험실 사고 여부는 확인되지 않음 . 러시아 보건 당국은 사인을 원인 불명의 폐렴으로 밝히고, 업무 관련 미생물은 검출되지 않았다고...",
-   "publishedAt": 1791225156000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -785,8 +827,22 @@
    "comments": 73,
    "publishedAt": 1791105892000,
    "isAI": true,
-   "score": 38.5,
+   "score": 37.7,
    "hot": false
+  },
+  {
+   "title": "미국, 시베리아 연구소 직원의 페스트 사망 가능성 예의주시",
+   "url": "https://news.hada.io/topic?id=34834",
+   "summary": "시베리아 이르쿠츠크의 페스트 연구소 직원이 발병 이틀 뒤 사망하면서 연구소와 여러 병원에 격리 조치 가 시행됨 페스트 감염과 실험실 사고 여부는 확인되지 않음 . 러시아 보건 당국은 사인을 원인 불명의 폐렴으로 밝히고, 업무 관련 미생물은 검출되지 않았다고...",
+   "publishedAt": 1791225156000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.7,
+   "hot": true
   },
   {
    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
@@ -799,7 +855,7 @@
    "comments": 3,
    "publishedAt": 1791065893000,
    "isAI": true,
-   "score": 38.3,
+   "score": 37.6,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -814,21 +870,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
-   "hot": true
-  },
-  {
-   "title": "모기 매개 질병을 퇴치할 기술은 이미 존재함",
-   "url": "https://news.hada.io/topic?id=34830",
-   "summary": "유전자 조작 모기와 Wolbachia 감염 모기 로 질병을 옮기는 모기 개체군을 억제하거나 바이러스 전파 능력을 낮출 수 있지만, 미국에서는 기술 도입에 15년에 걸친 규제 지연이 발생함 Oxitec의 유전자 조작 모기 는 교배 후 암컷 자손이 성체가 되기 전에 죽도록 설...",
-   "publishedAt": 1791218217000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.9,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -842,9 +884,23 @@
    "comments": 12,
    "publishedAt": 1791024231000,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.2,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "모기 매개 질병을 퇴치할 기술은 이미 존재함",
+   "url": "https://news.hada.io/topic?id=34830",
+   "summary": "유전자 조작 모기와 Wolbachia 감염 모기 로 질병을 옮기는 모기 개체군을 억제하거나 바이러스 전파 능력을 낮출 수 있지만, 미국에서는 기술 도입에 15년에 걸친 규제 지연이 발생함 Oxitec의 유전자 조작 모기 는 교배 후 암컷 자손이 성체가 되기 전에 죽도록 설...",
+   "publishedAt": 1791218217000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37,
+   "hot": false
   },
   {
    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
@@ -857,7 +913,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.6,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -871,8 +927,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
-   "hot": true
+   "score": 36.6,
+   "hot": false
   },
   {
    "title": "Pixel 11, 아직 GrapheneOS 보안 기준 충족 못해 지원 대상에서 제외될 수도",
@@ -885,8 +941,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
-   "hot": true
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 30.8,
+   "publishedAt": 1791239839000,
+   "isAI": true,
+   "score": 36.3,
+   "hot": false
   },
   {
    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
@@ -899,8 +968,23 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.3,
    "hot": false
+  },
+  {
+   "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+   "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49946567",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 241,
+   "comments": 161,
+   "publishedAt": 1791052170000,
+   "isAI": true,
+   "score": 36,
+   "hot": false,
+   "lastWeekRank": 5
   },
   {
    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
@@ -913,8 +997,23 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.9,
+   "score": 36,
    "hot": false
+  },
+  {
+   "title": "Religious scholars met with Anthropic",
+   "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49950052",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 165,
+   "comments": 432,
+   "publishedAt": 1791081262000,
+   "isAI": true,
+   "score": 35.9,
+   "hot": false,
+   "lastWeekRank": 9
   },
   {
    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
@@ -927,23 +1026,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.8,
+   "score": 35.9,
    "hot": false
-  },
-  {
-   "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-   "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49946567",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 240,
-   "comments": 160,
-   "publishedAt": 1791052170000,
-   "isAI": true,
-   "score": 36.6,
-   "hot": false,
-   "lastWeekRank": 5
   },
   {
    "title": "Show GN: MenuDart - 메뉴와 메뉴 막대 아이템을 단축키로 팝업 띄우는 Mac 앱",
@@ -956,23 +1040,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 35.7,
    "hot": false
   },
   {
-   "title": "Religious scholars met with Anthropic",
-   "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49950052",
+   "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+   "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49946895",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 165,
-   "comments": 430,
-   "publishedAt": 1791081262000,
-   "isAI": true,
-   "score": 36.5,
+   "engagement": 491,
+   "comments": 106,
+   "publishedAt": 1791054888000,
+   "isAI": false,
+   "score": 35.5,
    "hot": false,
-   "lastWeekRank": 9
+   "lastWeekRank": 12
   },
   {
    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
@@ -985,7 +1069,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -999,23 +1083,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 35.5,
    "hot": false
-  },
-  {
-   "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-   "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49946895",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 491,
-   "comments": 104,
-   "publishedAt": 1791054888000,
-   "isAI": false,
-   "score": 36.1,
-   "hot": false,
-   "lastWeekRank": 12
   },
   {
    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
@@ -1028,7 +1097,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1042,7 +1111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1056,7 +1125,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.6,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1070,7 +1139,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.5,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1084,7 +1153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1098,7 +1167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1112,7 +1181,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.4,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1126,77 +1195,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.2,
    "hot": false
   },
   {
-   "title": "SQLDoom - 오리지널 Doom을 SQL로 포팅하기",
-   "url": "https://news.hada.io/topic?id=34815",
-   "summary": "SQLDoom 은 1993년 Doom의 게임 로직과 렌더러를 SQL로 옮겨 CedarDB 안에서 실행 함. Python 클라이언트는 입력, 타이밍과 완성된 화면 표시만 담당함 게임 로직은 원작과 같은 35Hz 로 실행하고, 320×200 화면을 노트북에서 보통 60FPS",
-   "publishedAt": 1791189517000,
-   "source": "GeekNews",
-   "sourceType": "community",
+   "title": "오픈AI, 28일 연속 '코덱스' 개선 예고...첫날부터 처리 속도 50% 향상",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215992",
+   "summary": "오픈AI가 코딩 및 작업용 AI 서비스인 '코덱스'와 관련해 앞으로 28일 동안 매일 사용자 대부분에게 체감될 만한 개선 사항을 하나씩 내놓겠다고 밝혔다. 첫날부터 'GPT-6 아스트라'와 'GPT-6.1 솔'의 기본 처리 속도를 50% 높이며 연속 업데이트의 시작을 알렸다.티보 소티오 오픈AI 핵심 제품 총괄은 2026년 10월 4일(현지시간) “앞으로 28일 동안 매일 코덱스와 챗GPT 워크 사용자 대부분에게 확실히 도움이 되는 개선 사항 하나를 출시하거나, 개선안이 없는 날에는 사용량 한도를 완전히 리셋(Full Reset)해",
+   "publishedAt": 1791260475000,
+   "source": "AI타임스",
+   "sourceType": "media",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
-   "title": "블라인드사이트, 의식 없는 지능과의 첫 접촉을 그린 하드 SF",
-   "url": "https://news.hada.io/topic?id=34811",
-   "summary": "Blindsight 는 외계 문명과의 첫 접촉을 통해 지능과 의식의 관계를 탐구하는 하드 SF 소설로, 인간보다 지능이 높지만 자의식은 없는 존재를 등장시킴 2082년 지구에서 정체불명의 외계 현상이 관측된 뒤, Theseus 탐사선의 강화 인간 전문가들이 신호를 추적해 외...",
-   "publishedAt": 1791182583000,
-   "source": "GeekNews",
-   "sourceType": "community",
+   "title": "LG전자, 북미서 5GW 규모 AIDC 냉각솔루션 장기계약 체결",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215989",
+   "summary": "AI 데이터센터 건설이 잇따르면서 LG전자 칠러 사업의 조 단위 매출 달성이 앞당겨질 전망이다.LG전자는 미국 인프라 기업 '에어 컨트롤 콘셉트'와 총 5기가와트(GW) 규모의 AI 데이터센터(AIDC)용 냉각솔루션 장기 공급 본계약(LTA)을 체결했다고 6일 밝혔다.에어 컨트롤 콘셉트는 북미 지역 AIDC의 설계·구축, 조달, 애프터마켓 서비스를 제공하는 기업으로 데이터센터 전문 자회사 'AMC'를 통해 사업을 수행한다.LG전자는 이번 계약에 따라 칠러 등 냉각솔루션을 순차 공급하며, 냉각수 분배장치(CDU)를 공급 품목에 추가하",
+   "publishedAt": 1791259720000,
+   "source": "AI타임스",
+   "sourceType": "media",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "프록시 소프트웨어 Xray-core, 인증서 검증 우회 취약점 반년간 은폐 의혹",
-   "url": "https://news.hada.io/topic?id=34810",
-   "summary": "취약점 신고자는 Xray-core 가 인증서 고정 로직의 검증 우회 취약점을 비공개 신고받아 수정하고도 사용자에게 알리지 않았다고 비판함 2026년 1월 기존 인증서 체인 고정 옵션을 pinnedPeerCertSha256 으로 교체하면서 취약점이 유입됐으며, 기존 옵...",
-   "publishedAt": 1791182403000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-   "url": "https://getartcraft.com/apps",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49958850",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 106,
-   "comments": 154,
-   "publishedAt": 1791154963000,
-   "isAI": false,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "We ported the original Doom to SQL",
-   "url": "https://cedardb.com/blog/sqldoom/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49948300",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 305,
-   "comments": 49,
-   "publishedAt": 1791065640000,
-   "isAI": false,
-   "score": 34,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1210,9 +1237,51 @@
    "comments": 1188,
    "publishedAt": 1790798677000,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false,
    "lastWeekRank": 30
+  },
+  {
+   "title": "오픈AI, 챗GPT에 '투명 워터마크' 도입… EU만 우선 적용",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215984",
+   "summary": "앤트로픽에 이어 오픈AI도 '챗GPT'와 '코덱스'가 생성하는 텍스트에 보이지 않는 워터마크를 도입한다. 단, 이번 조치는 유럽연합(EU)의 AI 법에 대응하는 것으로, 전 세계에 일괄 적용하는 것은 아니다.오픈AI는 5일(현지시간) 앞으로 몇 주 안에 EU 내 모든 요금제의 챗GPT와 코덱스 텍스트 출력에 워터마크를 적용한다고 밝혔다. 또 \"EU 출시 시점에서 전 세계 기본 적용은 하지 않는다\"라고 덧붙였다.다만 API에서는 전 세계 고객이 이날부터 일부 모델에 대해 워터마크를 선택적으로 활성화할 수 있으며, 기본값은 꺼진 상태로",
+   "publishedAt": 1791259612000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "We ported the original Doom to SQL",
+   "url": "https://cedardb.com/blog/sqldoom/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49948300",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 309,
+   "comments": 51,
+   "publishedAt": 1791065640000,
+   "isAI": false,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+   "url": "https://getartcraft.com/apps",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49958850",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 106,
+   "comments": 154,
+   "publishedAt": 1791154963000,
+   "isAI": false,
+   "score": 33.3,
+   "hot": false
   },
   {
    "title": "From the creator of Redis; run LLM locally with ds4",
@@ -1225,7 +1294,7 @@
    "comments": 104,
    "publishedAt": 1790964076000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33,
    "hot": false,
    "lastWeekRank": 18
   },
@@ -1240,35 +1309,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Gemini Call for Me might tell your mom you’re running late",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-   "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late",
-   "publishedAt": 1791241795000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-   "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-   "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-   "publishedAt": 1791239195000,
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1282,49 +1323,36 @@
    "comments": 168,
    "publishedAt": 1791050223000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32,
    "hot": false,
    "lastWeekRank": 16
   },
   {
-   "title": "How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 27.6,
-   "publishedAt": 1791220838000,
-   "isAI": true,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "This startup is issuing AI-generated acne prescriptions",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-   "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloom",
-   "publishedAt": 1791231297000,
+   "title": "Gemini Call for Me might tell your mom you’re running late",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+   "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late",
+   "publishedAt": 1791241795000,
    "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 32,
    "hot": false
   },
   {
-   "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-   "url": "https://github.com/PowderworksCode/headstart",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49951218",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+   "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+   "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+   "publishedAt": 1791239195000,
+   "source": "Ars Technica",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 148,
-   "comments": 42,
-   "publishedAt": 1791095217000,
-   "isAI": false,
-   "score": 31.7,
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1338,7 +1366,7 @@
    "comments": 338,
    "publishedAt": 1790968016000,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 24
   },
@@ -1353,7 +1381,7 @@
    "comments": 150,
    "publishedAt": 1790950284000,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 26
   },
@@ -1368,50 +1396,22 @@
    "comments": 226,
    "publishedAt": 1790910680000,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 31
   },
   {
-   "title": "All the drama around AI’s takeover of mathematics",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-   "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in class",
-   "publishedAt": 1791228539000,
-   "source": "The Verge",
-   "sourceType": "media",
+   "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+   "url": "https://github.com/PowderworksCode/headstart",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49951218",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-   "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-   "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia w",
-   "publishedAt": 1791227119000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-   "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the water",
-   "publishedAt": 1791223719000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.2,
+   "engagement": 148,
+   "comments": 42,
+   "publishedAt": 1791095217000,
+   "isAI": false,
+   "score": 31.1,
    "hot": false
   }
  ]
