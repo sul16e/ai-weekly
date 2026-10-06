@@ -1,5 +1,5 @@
 {
- "updatedAt": 1791265819349,
+ "updatedAt": 1791270747140,
  "week": "2026-W41",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 651,
-   "comments": 511,
+   "engagement": 682,
+   "comments": 528,
    "publishedAt": 1791178660000,
    "isAI": true,
-   "score": 54.8,
+   "score": 54.5,
    "hot": false
   },
   {
@@ -23,26 +23,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 269,
-   "comments": 180,
+   "engagement": 272,
+   "comments": 181,
    "publishedAt": 1791222815000,
    "isAI": true,
-   "score": 54.3,
+   "score": 53.6,
    "hot": true
   },
   {
-   "title": "Our approach to EU text provenance rules",
-   "url": "https://openai.com/index/eu-text-provenance",
-   "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-   "publishedAt": 1791212400000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
+   "title": "Common Lisp이 이제 최고의 프로그래밍 언어인 이유",
+   "url": "https://news.hada.io/topic?id=34876",
+   "summary": "LLM이 코드 작성 속도를 높이면서 개발의 병목은 프로그램이 실제로 작동하는지 확인하는 피드백 루프 로 옮겨감. Common Lisp은 실행 중인 프로그램의 함수를 바로 교체할 수 있어 재빌드와 재시작에 드는 대기를 줄임 디버거에서 수정 후 실행을 재개하는 방식 은 ...",
+   "publishedAt": 1791268700000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
    "engagement": null,
-   "baseWeight": 50,
+   "baseWeight": 42,
    "isAI": true,
    "score": 49.7,
-   "hot": false
+   "hot": true
+  },
+  {
+   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+   "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49970667",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 311,
+   "comments": 201,
+   "publishedAt": 1791234021000,
+   "isAI": false,
+   "score": 49.3,
+   "hot": true
   },
   {
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
@@ -55,7 +69,21 @@
    "comments": 414,
    "publishedAt": 1791118313000,
    "isAI": true,
-   "score": 49.6,
+   "score": 49.1,
+   "hot": false
+  },
+  {
+   "title": "Our approach to EU text provenance rules",
+   "url": "https://openai.com/index/eu-text-provenance",
+   "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+   "publishedAt": 1791212400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 49.1,
    "hot": false
   },
   {
@@ -65,25 +93,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 517,
-   "comments": 236,
+   "engagement": 527,
+   "comments": 241,
    "publishedAt": 1791197226000,
    "isAI": false,
-   "score": 49.2,
+   "score": 48.7,
    "hot": true
   },
   {
-   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-   "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49970667",
+   "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+   "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49964303",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 280,
-   "comments": 189,
-   "publishedAt": 1791234021000,
+   "engagement": 410,
+   "comments": 281,
+   "publishedAt": 1791205345000,
    "isAI": false,
-   "score": 49.1,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -97,21 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
-   "hot": true
-  },
-  {
-   "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-   "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49964303",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 406,
-   "comments": 268,
-   "publishedAt": 1791205345000,
-   "isAI": false,
-   "score": 48.3,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -125,21 +139,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.3,
    "hot": true
   },
   {
-   "title": "고처리량 AI-SQL 엔진 구축하기",
-   "url": "https://news.hada.io/topic?id=34860",
-   "summary": "Quail 은 SQL 안에서 AI로 문서를 분류하거나 문서 간 관계를 판별하는 엔진으로, 데이터 전체에 걸친 수십만~수백만 번의 모델 호출을 빠르게 처리함 호출을 하나씩 추론 서버에 보내는 대신 쿼리 실행 계획과 모델 추론을 함께 최적화 해, 같은 문서를 반복해서 읽...",
-   "publishedAt": 1791248702000,
-   "source": "GeekNews",
+   "title": "Denmark data breach exposes 8.8M people's personal data",
+   "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49962012",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 47.5,
+   "lang": "en",
+   "engagement": 480,
+   "comments": 332,
+   "publishedAt": 1791187776000,
+   "isAI": false,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -153,21 +167,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.8,
    "hot": false
   },
   {
-   "title": "Denmark data breach exposes 8.8M people's personal data",
-   "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49962012",
-   "source": "Hacker News",
+   "title": "고처리량 AI-SQL 엔진 구축하기",
+   "url": "https://news.hada.io/topic?id=34860",
+   "summary": "Quail 은 SQL 안에서 AI로 문서를 분류하거나 문서 간 관계를 판별하는 엔진으로, 데이터 전체에 걸친 수십만~수백만 번의 모델 호출을 빠르게 처리함 호출을 하나씩 추론 서버에 보내는 대신 쿼리 실행 계획과 모델 추론을 함께 최적화 해, 같은 문서를 반복해서 읽...",
+   "publishedAt": 1791248702000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 474,
-   "comments": 330,
-   "publishedAt": 1791187776000,
-   "isAI": false,
-   "score": 47.3,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -223,7 +237,21 @@
    "comments": 531,
    "publishedAt": 1791142945000,
    "isAI": false,
-   "score": 45.5,
+   "score": 45,
+   "hot": false
+  },
+  {
+   "title": "Why Common Lisp is now the best programming language",
+   "url": "https://www.vivienhenz.com/common-lisp",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49973598",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 129,
+   "comments": 169,
+   "publishedAt": 1791255111000,
+   "isAI": false,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -237,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -276,10 +304,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 235,
-   "comments": 171,
+   "comments": 173,
    "publishedAt": 1791199038000,
    "isAI": false,
-   "score": 43.2,
+   "score": 42.6,
+   "hot": true
+  },
+  {
+   "title": "Apple and a hacker's future",
+   "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49962857",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 244,
+   "comments": 213,
+   "publishedAt": 1791194702000,
+   "isAI": false,
+   "score": 42.4,
    "hot": true
   },
   {
@@ -290,24 +332,38 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 519,
-   "comments": 681,
+   "comments": 683,
    "publishedAt": 1791142625000,
    "isAI": false,
-   "score": 42.9,
+   "score": 42.4,
    "hot": false
   },
   {
-   "title": "Apple and a hacker's future",
-   "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49962857",
-   "source": "Hacker News",
+   "title": "Show GN: 오마이스피드 - 테슬라 기본 브라우저에서 쓸 수 있는 과속 단속 카메라 알림용 웹지도",
+   "url": "https://news.hada.io/topic?id=34880",
+   "summary": "테슬라를 타면서 불편했던 게 하나 있습니다. 프리미엄 커넥티비티를 구독하지 않으면 과속 단속 카메라 경고음이 없습니다. 그래서 브라우저에서 바로 열리는 지도를 만들었습니다. • 설치·가입·광고가 없습니다. 주소만 열면 됩니다 • 위치는 브라우저 밖으로 나가지 않습니다. GPS 값을 서버로 보내",
+   "publishedAt": 1791270425000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 236,
-   "comments": 207,
-   "publishedAt": 1791194702000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 42.7,
+   "score": 42,
+   "hot": true
+  },
+  {
+   "title": "Iroh의 글로벌 콘텐츠 탐색",
+   "url": "https://news.hada.io/topic?id=34879",
+   "summary": "Iroh가 BitTorrent Mainline DHT 와 별도 주소 인덱스를 결합해, BLAKE3 해시로 콘텐츠 제공자를 찾고 데이터를 내려받는 실험적 시스템을 구현함 콘텐츠 탐색과 전송을 분리하고, iroh-blobs의 BLAKE3 검증 스트리밍 으로 데이터를 검증함. DHT가 잘못된 제공자를 반...",
+   "publishedAt": 1791270247000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.9,
    "hot": true
   },
   {
@@ -321,8 +377,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.8,
    "hot": false
+  },
+  {
+   "title": "높은 경유 가격으로 단 30일 만에 트럭 운송업체 16곳 파산",
+   "url": "https://news.hada.io/topic?id=34875",
+   "summary": "경유 가격 상승이 기존 경영난에 결정타가 되면서, 미국 화물 운송업체 16곳이 8월 말부터 9월 초 사이 파산보호를 신청 함 수년간 운송업 수익성 악화와 운영비 상승을 겪은 업체들은 연료비 부담 까지 떠안았으며, 소규모 업체는 치열한 경쟁 때문에 추가 비용을 고...",
+   "publishedAt": 1791268520000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Cloudflare, AI 에이전트를 위한 Web Search API 베타 공개",
@@ -335,8 +405,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.7,
    "hot": false
+  },
+  {
+   "title": "Gleam은 더 이상 Erlang 소스 코드로 컴파일하지 않음",
+   "url": "https://news.hada.io/topic?id=34874",
+   "summary": "Gleam v1.19.0 은 Erlang 소스 코드 대신 중간 표현인 Erlang abstract forms 를 생성하며, Erlang 컴파일러의 토큰화와 파싱 단계를 건너뛰어 빌드 시간을 줄임 런타임의 소스 위치 메타데이터 가 원본 Gleam 코드와 정확히 대응해, BEAM 오류 보고...",
+   "publishedAt": 1791266543000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
   },
   {
    "title": "Huawei와 Qualcomm, 포괄적 특허 라이선스 계약 발표",
@@ -349,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -363,21 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.9,
-   "hot": false
-  },
-  {
-   "title": "내 35mm 필름 스캔 파이프라인 자동화하기",
-   "url": "https://news.hada.io/topic?id=34821",
-   "summary": "한 롤 36장을 스캔하고 편집하는 데 평균 4시간 이 걸리던 작업에서, VueScan을 이용한 수동 스캔은 유지하고 이후 변환, 먼지 제거, 메타데이터 생성과 게시를 자동화함 처음에는 Claude가 SANE으로 스캐너를 직접 제어 하게 했지만, 스캔 영역의 X/Y 방향을 반대로...",
-   "publishedAt": 1791200027000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41.5,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -391,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -401,11 +471,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 283,
+   "engagement": 284,
    "comments": 248,
    "publishedAt": 1791165248000,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -415,11 +485,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 399,
+   "engagement": 400,
    "comments": 132,
    "publishedAt": 1791139757000,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -433,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40,
    "hot": true
   },
   {
@@ -447,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40,
    "hot": true
   },
   {
@@ -461,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -475,7 +545,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.6,
+   "hot": true
+  },
+  {
+   "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49961861",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 187,
+   "comments": 124,
+   "publishedAt": 1791186370000,
+   "isAI": false,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -489,21 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
-   "hot": true
-  },
-  {
-   "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49961861",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 186,
-   "comments": 123,
-   "publishedAt": 1791186370000,
-   "isAI": false,
-   "score": 40,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -517,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -531,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -545,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -559,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -573,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39,
    "hot": true
   },
   {
@@ -587,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -601,8 +671,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.7,
    "hot": true
+  },
+  {
+   "title": "Linux containers in 500 lines of code (2016)",
+   "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49965118",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 119,
+   "comments": 24,
+   "publishedAt": 1791209355000,
+   "isAI": false,
+   "score": 38.4,
+   "hot": false
   },
   {
    "title": "노르웨이, 스마트 안경 부분 금지 검토",
@@ -615,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -629,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -640,10 +724,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 411,
-   "comments": 830,
+   "comments": 831,
    "publishedAt": 1791049469000,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.2,
    "hot": false,
    "lastWeekRank": 7
   },
@@ -655,10 +739,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 487,
-   "comments": 814,
+   "comments": 815,
    "publishedAt": 1791035194000,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -673,7 +757,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38,
    "hot": true
   },
   {
@@ -687,7 +771,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38,
    "hot": true
   },
   {
@@ -701,22 +785,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38,
    "hot": true
-  },
-  {
-   "title": "Linux containers in 500 lines of code (2016)",
-   "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49965118",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 112,
-   "comments": 22,
-   "publishedAt": 1791209355000,
-   "isAI": false,
-   "score": 38.4,
-   "hot": false
   },
   {
    "title": "원했던 건 내 도메인 이메일뿐이었다 - 개인 도메인 이메일 설정기",
@@ -729,7 +799,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -743,7 +813,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -757,7 +827,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -771,7 +841,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -785,7 +855,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -799,7 +869,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -813,7 +883,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -823,11 +893,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 164,
+   "engagement": 165,
    "comments": 73,
    "publishedAt": 1791105892000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -841,7 +911,7 @@
    "comments": 3,
    "publishedAt": 1791065893000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -856,8 +926,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
@@ -870,7 +940,7 @@
    "comments": 12,
    "publishedAt": 1791024231000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -885,7 +955,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -899,7 +969,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -913,7 +983,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.3,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -927,7 +997,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -941,34 +1011,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 30.8,
-   "publishedAt": 1791239839000,
-   "isAI": true,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-   "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-   "publishedAt": 1791228833000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -982,22 +1025,35 @@
    "comments": 161,
    "publishedAt": 1791052170000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false,
    "lastWeekRank": 5
   },
   {
-   "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-   "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-   "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-   "publishedAt": 1791226470000,
+   "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 30.8,
+   "publishedAt": 1791239839000,
+   "isAI": true,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+   "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+   "publishedAt": 1791228833000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1011,9 +1067,23 @@
    "comments": 433,
    "publishedAt": 1791081262000,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.3,
    "hot": false,
    "lastWeekRank": 9
+  },
+  {
+   "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+   "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+   "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+   "publishedAt": 1791226470000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.2,
+   "hot": false
   },
   {
    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
@@ -1026,21 +1096,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "Show GN: MenuDart - 메뉴와 메뉴 막대 아이템을 단축키로 팝업 띄우는 Mac 앱",
-   "url": "https://news.hada.io/topic?id=34825",
-   "summary": "안녕하세요. 제가 사용하는 앱들은 독에 없고 백그라운드에서 메뉴 막대에만 아이콘 남겨지는게 많습니다. 그래서 메뉴 막대에 아이콘이 넘칠 때가 많았는데요. ICE 사용하다가 골든게이트에서 잘 동작하지 않길레 하나 만들었습니다. 메뉴와 메뉴 막대의 메뉴를 팝업으로 띄워 줍니다.",
-   "publishedAt": 1791205399000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -1054,9 +1110,23 @@
    "comments": 106,
    "publishedAt": 1791054888000,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false,
    "lastWeekRank": 12
+  },
+  {
+   "title": "Show GN: MenuDart - 메뉴와 메뉴 막대 아이템을 단축키로 팝업 띄우는 Mac 앱",
+   "url": "https://news.hada.io/topic?id=34825",
+   "summary": "안녕하세요. 제가 사용하는 앱들은 독에 없고 백그라운드에서 메뉴 막대에만 아이콘 남겨지는게 많습니다. 그래서 메뉴 막대에 아이콘이 넘칠 때가 많았는데요. ICE 사용하다가 골든게이트에서 잘 동작하지 않길레 하나 만들었습니다. 메뉴와 메뉴 막대의 메뉴를 팝업으로 띄워 줍니다.",
+   "publishedAt": 1791205399000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.9,
+   "hot": false
   },
   {
    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
@@ -1069,7 +1139,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.2,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1083,7 +1153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1097,21 +1167,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "덴마크 인구등록부, 약 880만 명 개인정보 무단 접근 확인",
-   "url": "https://news.hada.io/topic?id=34820",
-   "summary": "덴마크 중앙인구등록부(CPR) 에서 약 880만 명 의 이름, 주소, CPR 번호 등에 대한 무단 접근이 확인됨 외부인이 덴마크 기업에 부여된 합법적인 CPR 조회 권한 을 악용해 정보에 접근함 조사 결과, 이름과 주소 보호 를 ...",
-   "publishedAt": 1791196355000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.5,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1125,21 +1181,49 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.4,
+   "score": 33.9,
    "hot": false
   },
   {
-   "title": "Android에서 시스템 수준으로 광고 차단하기",
-   "url": "https://news.hada.io/topic?id=34819",
-   "summary": "시스템 수준 광고 차단 은 특정 브라우저뿐 아니라 모든 앱과 Android 자체에 적용되며, 대개 DNS 조회 결과를 바꿔 알려진 광고 서버에 연결하지 못하게 함 선택지는 광고 차단 DNS 서비스 , 광고 차단 기능이 있는 VPN, 루팅 없이 사용하는 차단 앱, 루팅 후",
-   "publishedAt": 1791194858000,
-   "source": "GeekNews",
-   "sourceType": "community",
+   "title": "“180B 모델, 개인용 노트북으로 구동”...비드래프트, 고성능 모델 경량화 전략 이어간다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216005",
+   "summary": "비드래프트가 ‘큐원3.8-플래시-넥스트’를 토대로 개발한 1800억 매개변수(180B) 모델의 경량화 버전을 공개했다. 일부 파라미터를 선별적으로 활성화하는 방식으로 성능과 비용 효율을 모두 잡았다는 설명이다.AI 딥테크 전문 비드래프트(대표 김민식)가 180B급 고성능 경량화 모델을 미국 허깅페이스와 중국 모델스코프에 동시 공개했다고 6일 밝혔다.원본 모델인 ‘다윈-180B-RSI’는 BF16 정밀도 기준 모델 파일만 360기가바이트(GB)에 달하는 초대형 모델이다. 통상적으로 엔비디아 B200 GPU 4~8장 또는 H100(80",
+   "publishedAt": 1791270050000,
+   "source": "AI타임스",
+   "sourceType": "media",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.4,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "이탈리아 멜로니 총리, AI 딥페이크 막으려 '목소리 상표권' 신청",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216007",
+   "summary": "조르자 멜로니 이탈리아 총리가 AI로 만든 딥페이크에 대응하기 위해 자신의 목소리에 대한 유럽연합(EU) 상표권 등록을 신청했다. 주요 정치인이 AI로 복제된 자신의 목소리를 막기 위해 상표권 보호에 나선 사례로, 2027년 예정된 이탈리아 총선을 앞두고 딥페이크와 허위 정보에 대한 우려가 커지는 가운데 나온 조치다.로이터에 따르면, 멜로니 총리는 5일(현지시간) EU 지식재산청(EUIPO)에 자신의 목소리에 대한 상표권을 신청했다.신청서에는 이탈리아어로 \"Io sono Giorgia Meloni(나는 조르자 멜로니입니다)\"라고 두",
+   "publishedAt": 1791270005000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "뉴뉴욕시의회, AI 빅테크 청문회…전직 내부고발자 \"통제력 상실\" 경고",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216008",
+   "summary": "미국 뉴욕시의회가 급속도로 치닫는 AI 위험성에 대응해 빅테크 경영진을 직접 소환하고 강도 높은 심문을 벌였다. 51명 전체 의원이 참여하는 '전원위원회(Committee of the Whole)' 형태로 열린 이번 청문회에서는 AI 기술의 재앙적 위험성과 지방정부 차원의 법적 규제 방안이 다뤄졌다.블룸버그와 월스트리트저널 등에 따르면, 5일(현지시간) 열린 청문회에는 오픈AI, 앤트로픽, 구글, 메타 등의 정책 및 안전 담당 임원진이 화상으로 참석해 증언했다. 당초 앤트로픽과 구글 등 일부 기업은 출석을 거부했으나, 뉴욕시의회가",
+   "publishedAt": 1791269552000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1153,21 +1237,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "ncdu - NCurses 디스크 사용량 분석 도구(업데이트된 포크)",
-   "url": "https://news.hada.io/topic?id=34818",
-   "summary": "ncdu 는 ncurses 인터페이스로 디스크 사용량을 분석하며, 그래픽 환경이 없는 원격 서버에서 공간을 많이 차지하는 항목을 찾도록 설계됨 원격 서버뿐 아니라 일반 데스크톱 환경 에서도 유용한 도구임 빠르고 단순하며 사용하기 쉬운 도구",
-   "publishedAt": 1791194678000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.3,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1181,21 +1251,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.7,
    "hot": false
   },
   {
-   "title": "스왑으로 발생한 Go 가비지 컬렉터의 40ms 정지",
-   "url": "https://news.hada.io/topic?id=34816",
-   "summary": "Go GC가 전체 실행 정지(STW) 중 읽는 힙 외부 메타데이터도 스왑으로 밀려날 수 있으며, 이를 다시 읽는 과정에서 최대 40ms 정지 가 발생함 커널 6.8과 MGLRU를 사용한 Hetzner 실험에서 정지 시간 중앙값은 약 51µs 였지만, 최악의 정지에서는 ...",
-   "publishedAt": 1791189697000,
-   "source": "GeekNews",
-   "sourceType": "community",
+   "title": "포지큐브, 롯데벤처스와 멀티 AI 에이전트 기반 AX 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215997",
+   "summary": "포지큐브(대표 오성조)는 롯데벤처스와 딥테크 챌린지 프로젝트를 연계한 생성 AI 솔루션 협업에 나선다고 밝혔다.이번 협업은 포지큐브의 멀티 에이전트 기반 생성형 AI 플랫폼 '로비 G 맥스(robi G MAX)'를 중심으로 추진된다. 로비 G 맥스는 전문화된 AI 에이전트가 역할을 분담해 함께 일하는 방식으로 단순 질의응답을 넘어 다양한 업무를 수행할 수 있도록 지원하는 것이 특징이다.포지큐브는 이번 프로젝트를 통해 기업의 업무 프로세스와 데이터를 생성 AI로 연결하고 반복 업무를 자동화하며, 로비 G 맥스의 적용 범위를 넓힐 방침",
+   "publishedAt": 1791266756000,
+   "source": "AI타임스",
+   "sourceType": "media",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.9,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1205,13 +1275,27 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1699,
+   "engagement": 1700,
    "comments": 1188,
    "publishedAt": 1790798677000,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.5,
    "hot": false,
    "lastWeekRank": 30
+  },
+  {
+   "title": "'클로드'에 폭력 협박 남겼다 체포...\"AI 챗봇은 일기장 아니다\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216001",
+   "summary": "AI 챗봇을 외부로 공개되지 않는 개인 비밀 일기장처럼 활용하며 범죄를 계획하거나 사법 기관을 위협하는 사용자들이 실제 경찰에 체포되는 사례가 잇따르고 있다. 특히 이 문제가 집중됐던 오픈AI의 '챗GPT'에 이어, 최근에는 AI 안전을 최우선 가치로 내세워 온 앤트로픽의 '클로드'에서도 유사 사건이 발생했다.2일(현지시간) 걸프 코스트 뉴스에 따르면, 미국 플로리다주 리 카운티 보안관 사무소는 보니타 스프링스에 거주하는 30세의 칼리 미셸 헬러를 강력 범죄 협박 혐의로 체포했다.수사 기록에 따르면 헬러는 9월26일 클로드 대화창에",
+   "publishedAt": 1791266220000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
   },
   {
    "title": "헨켈, SEDEX 2026서 AI·HBM 시대 위한 첨단 패키징 소재 솔루션 선보여",
@@ -1224,7 +1308,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "We ported the original Doom to SQL",
+   "url": "https://cedardb.com/blog/sqldoom/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49948300",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 311,
+   "comments": 52,
+   "publishedAt": 1791065640000,
+   "isAI": false,
+   "score": 33,
    "hot": false
   },
   {
@@ -1238,7 +1336,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33,
    "hot": false
   },
   {
@@ -1252,7 +1350,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1266,21 +1364,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "We ported the original Doom to SQL",
-   "url": "https://cedardb.com/blog/sqldoom/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49948300",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 309,
-   "comments": 51,
-   "publishedAt": 1791065640000,
-   "isAI": false,
-   "score": 33.3,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1294,7 +1378,7 @@
    "comments": 154,
    "publishedAt": 1791154963000,
    "isAI": false,
-   "score": 33,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1308,7 +1392,7 @@
    "comments": 104,
    "publishedAt": 1790964076000,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false,
    "lastWeekRank": 18
   },
@@ -1323,96 +1407,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.5,
    "hot": false
-  },
-  {
-   "title": "Pop!_OS bans AI-generated code from much of its codebase",
-   "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49946321",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 120,
-   "comments": 168,
-   "publishedAt": 1791050223000,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false,
-   "lastWeekRank": 16
-  },
-  {
-   "title": "Gemini Call for Me might tell your mom you’re running late",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-   "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late",
-   "publishedAt": 1791241795000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-   "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-   "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-   "publishedAt": 1791239195000,
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "url": "https://www.deepseek.com/en/harness/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49929489",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 415,
-   "comments": 226,
-   "publishedAt": 1790910680000,
-   "isAI": true,
-   "score": 31.2,
-   "hot": false,
-   "lastWeekRank": 31
-  },
-  {
-   "title": "Apple Pass Designer",
-   "url": "https://developer.apple.com/pass-designer/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49937276",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 566,
-   "comments": 338,
-   "publishedAt": 1790968016000,
-   "isAI": false,
-   "score": 31.1,
-   "hot": false,
-   "lastWeekRank": 24
-  },
-  {
-   "title": "With most information hidden, the game Stratego had stumped AI until now",
-   "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49933740",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 289,
-   "comments": 150,
-   "publishedAt": 1790950284000,
-   "isAI": true,
-   "score": 31.1,
-   "hot": false,
-   "lastWeekRank": 26
   }
  ]
 }
