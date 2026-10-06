@@ -1,7 +1,35 @@
 {
- "updatedAt": 1791292217525,
+ "updatedAt": 1791295875460,
  "week": "2026-W41",
  "items": [
+  {
+   "title": "Mistral Large 4",
+   "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49977979",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 355,
+   "comments": 155,
+   "publishedAt": 1791292549000,
+   "isAI": true,
+   "score": 63.5,
+   "hot": true
+  },
+  {
+   "title": "Mistral Large 4: \"Le Chonk\"",
+   "url": "https://mistral.ai/news/mistral-large-4/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49978116",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 114,
+   "comments": 11,
+   "publishedAt": 1791293150000,
+   "isAI": true,
+   "score": 52.9,
+   "hot": false
+  },
   {
    "title": "Anthropic reported diary entry to police, woman faces felony charge",
    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
@@ -9,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 757,
-   "comments": 586,
+   "engagement": 760,
+   "comments": 591,
    "publishedAt": 1791178660000,
    "isAI": true,
-   "score": 52.4,
+   "score": 52,
    "hot": false
   },
   {
@@ -23,11 +51,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 288,
+   "engagement": 290,
    "comments": 186,
    "publishedAt": 1791222815000,
    "isAI": true,
-   "score": 51,
+   "score": 50.6,
+   "hot": true
+  },
+  {
+   "title": "Mistral Large 4 발표 - 코딩·보안·시각 이해를 강화한 1조 파라미터 오픈웨이트 모델",
+   "url": "https://news.hada.io/topic?id=34890",
+   "summary": "Mistral의 가장 큰 멀티모달 모델로, 총 1.05조 파라미터 중 490억 개를 활성화 하는 MoE 구조를 사용하며 텍스트와 이미지 입력, 100만 토큰 문맥을 지원함 코딩과 에이전트 업무, 사이버 보안·금융·법률 에 집중해 성능을 높였으며, 코딩 에이전트 종합 평가에서 D...",
+   "publishedAt": 1791293899000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
    "hot": true
   },
   {
@@ -37,11 +79,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 398,
-   "comments": 268,
+   "engagement": 408,
+   "comments": 277,
    "publishedAt": 1791234021000,
    "isAI": false,
-   "score": 48.4,
+   "score": 48.2,
+   "hot": true
+  },
+  {
+   "title": "Why Common Lisp is now the best programming language",
+   "url": "https://www.vivienhenz.com/common-lisp",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49973598",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 246,
+   "comments": 318,
+   "publishedAt": 1791255111000,
+   "isAI": false,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -55,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -65,26 +121,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 918,
-   "comments": 416,
+   "engagement": 921,
+   "comments": 418,
    "publishedAt": 1791118313000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.5,
    "hot": false
-  },
-  {
-   "title": "Why Common Lisp is now the best programming language",
-   "url": "https://www.vivienhenz.com/common-lisp",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49973598",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 230,
-   "comments": 294,
-   "publishedAt": 1791255111000,
-   "isAI": false,
-   "score": 46.7,
-   "hot": true
   },
   {
    "title": "Web Search API",
@@ -93,11 +135,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 566,
-   "comments": 263,
+   "engagement": 572,
+   "comments": 266,
    "publishedAt": 1791197226000,
    "isAI": false,
-   "score": 46.6,
+   "score": 46.2,
    "hot": false
   },
   {
@@ -111,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -125,7 +167,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.4,
+   "score": 45.9,
    "hot": false
   },
   {
@@ -135,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 420,
-   "comments": 296,
+   "engagement": 421,
+   "comments": 297,
    "publishedAt": 1791205345000,
    "isAI": false,
-   "score": 45.3,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -153,8 +195,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": true
+  },
+  {
+   "title": "Denmark data breach exposes 8.8M people's personal data",
+   "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49962012",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 490,
+   "comments": 348,
+   "publishedAt": 1791187776000,
+   "isAI": false,
+   "score": 44.1,
+   "hot": false
   },
   {
    "title": "Show GN: Tarotop — 먼저 듣고 나서 카드를 뽑는 AI 패밀리어 타로",
@@ -167,21 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
-  },
-  {
-   "title": "Denmark data breach exposes 8.8M people's personal data",
-   "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49962012",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 484,
-   "comments": 346,
-   "publishedAt": 1791187776000,
-   "isAI": false,
-   "score": 44.4,
+   "score": 44,
    "hot": false
   },
   {
@@ -195,8 +237,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "Building advertising for the way people use AI",
@@ -209,7 +251,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.3,
+   "score": 43.9,
    "hot": false
   },
   {
@@ -223,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -237,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -251,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -265,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -279,8 +321,22 @@
    "comments": 535,
    "publishedAt": 1791142945000,
    "isAI": false,
-   "score": 42.8,
+   "score": 42.5,
    "hot": false
+  },
+  {
+   "title": "JetBrains, 실적 추적 기간 중 처음으로 순손실 기록",
+   "url": "https://news.hada.io/topic?id=34889",
+   "summary": "JetBrains s.r.o. 의 2025년 순손실은 3억 1,500만 체코 코루나(CZK) 로, 2024년 순이익 24억 7,900만 CZK에서 적자로 전환함 매출은 160억 800만 CZK 로 전년 대비 6.3% 증가해 역대 최고치를 기록했지만, 순이익률은 -1.97%로 하락함 ...",
+   "publishedAt": 1791293719000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Wikimedia에서 OpenAI의 ‘통제를 벗어난’ 에이전트 활동 발견",
@@ -293,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -307,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -321,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -331,11 +387,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 275,
-   "comments": 235,
+   "engagement": 278,
+   "comments": 236,
    "publishedAt": 1791194702000,
    "isAI": false,
-   "score": 41,
+   "score": 40.7,
+   "hot": false
+  },
+  {
+   "title": "Anthropic, Claude를 일기처럼 쓰던 이용자의 총격 위협 신고…여성 체포",
+   "url": "https://news.hada.io/topic?id=34833",
+   "summary": "미국 플로리다에서 Claude를 일기장처럼 사용하던 여성 이 보안관 사무실에 총격을 가하겠다는 내용을 입력한 뒤, Anthropic의 신고로 체포됨 체포 보고서에 따르면 여성은 9월 26일 총격 위협을 작성하고, 다음 날 새 총을 구했다고도 입력 함. 이후 경찰에 AI를 일...",
+   "publishedAt": 1791221953000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -349,22 +419,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.5,
    "hot": true
-  },
-  {
-   "title": "Anthropic, Claude를 일기처럼 쓰던 이용자의 총격 위협 신고…여성 체포",
-   "url": "https://news.hada.io/topic?id=34833",
-   "summary": "미국 플로리다에서 Claude를 일기장처럼 사용하던 여성 이 보안관 사무실에 총격을 가하겠다는 내용을 입력한 뒤, Anthropic의 신고로 체포됨 체포 보고서에 따르면 여성은 9월 26일 총격 위협을 작성하고, 다음 날 새 총을 구했다고도 입력 함. 이후 경찰에 AI를 일...",
-   "publishedAt": 1791221953000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41,
-   "hot": false
   },
   {
    "title": "Show GN: Agent Guard - Claude Code·Codex의 비밀정보 노출을 줄이는 로컬 보안 도구",
@@ -377,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -387,11 +443,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 240,
-   "comments": 174,
+   "engagement": 241,
+   "comments": 178,
    "publishedAt": 1791199038000,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -401,11 +457,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 523,
-   "comments": 687,
+   "engagement": 525,
+   "comments": 688,
    "publishedAt": 1791142625000,
    "isAI": false,
-   "score": 40.4,
+   "score": 40.1,
+   "hot": false
+  },
+  {
+   "title": "Pinterest’s AI now turns beauty Pins into action plans",
+   "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+   "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times and maintenance needs.",
+   "publishedAt": 1791295249000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -419,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -433,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -447,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -461,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -475,22 +545,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
-   "hot": true
-  },
-  {
-   "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-   "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49959869",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 287,
-   "comments": 248,
-   "publishedAt": 1791165248000,
-   "isAI": false,
    "score": 38.5,
-   "hot": false
+   "hot": true
   },
   {
    "title": "A browser-native classic Visual Basic VB6 IDE",
@@ -499,11 +555,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 408,
+   "engagement": 409,
    "comments": 133,
    "publishedAt": 1791139757000,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.3,
+   "hot": false
+  },
+  {
+   "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+   "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49959869",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 288,
+   "comments": 248,
+   "publishedAt": 1791165248000,
+   "isAI": false,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -517,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -531,7 +601,7 @@
    "comments": 127,
    "publishedAt": 1791186370000,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -545,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -559,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -573,8 +643,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "디자인 총괄이 진짜 디자인 책임자는 아니다",
@@ -587,8 +657,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "샌프란시스코의 두 지점 사이에서 가장 평탄한 경로 찾기",
@@ -601,8 +671,52 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.8,
+   "hot": false
+  },
+  {
+   "title": "Linux containers in 500 lines of code (2016)",
+   "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49965118",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 131,
+   "comments": 34,
+   "publishedAt": 1791209355000,
+   "isAI": false,
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+   "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49946228",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 414,
+   "comments": 835,
+   "publishedAt": 1791049469000,
+   "isAI": true,
+   "score": 36.6,
+   "hot": false,
+   "lastWeekRank": 7
+  },
+  {
+   "title": "I quit OpenAI because its culture is broken",
+   "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49944227",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 488,
+   "comments": 815,
+   "publishedAt": 1791035194000,
+   "isAI": true,
+   "score": 36.6,
+   "hot": false,
+   "lastWeekRank": 3
   },
   {
    "title": "Hack에서 Skip까지: 모든 것을 증분 처리하기",
@@ -615,7 +729,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -629,52 +743,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
-  },
-  {
-   "title": "Linux containers in 500 lines of code (2016)",
-   "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49965118",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 128,
-   "comments": 34,
-   "publishedAt": 1791209355000,
-   "isAI": false,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-   "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49946228",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 412,
-   "comments": 833,
-   "publishedAt": 1791049469000,
-   "isAI": true,
-   "score": 36.8,
-   "hot": false,
-   "lastWeekRank": 7
-  },
-  {
-   "title": "I quit OpenAI because its culture is broken",
-   "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49944227",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 487,
-   "comments": 815,
-   "publishedAt": 1791035194000,
-   "isAI": true,
-   "score": 36.8,
-   "hot": false,
-   "lastWeekRank": 3
   },
   {
    "title": "전 아마존 부사장에게 묻는 사내 정치의 어두운 면 [영상]",
@@ -687,7 +757,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -701,7 +771,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -715,7 +785,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -729,7 +799,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -743,7 +813,20 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 34,
+   "publishedAt": 1791239839000,
+   "isAI": true,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -757,20 +840,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 34,
-   "publishedAt": 1791239839000,
-   "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -778,48 +848,6 @@
    "url": "https://news.hada.io/topic?id=34848",
    "summary": "Karl Deisseroth, Peter Hegemann, Georg Nagel 이 2026년 노벨 생리의학상을 공동 수상함 수상 업적은 빛 개폐 이온 채널(light-gated ion channels) 과 광유전학(optogenetics) 에 관한 발견임 Karl Deisseroth의 수상 지분은 ...",
    "publishedAt": 1791239957000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "Tell HN: Uceprotect가 웹사이트 운영자에게 돈을 갈취하고 있음",
-   "url": "https://news.hada.io/topic?id=34845",
-   "summary": "웹사이트가 Orange 보안 필터 에 차단된 사실을 우연히 발견했고, 확인 결과 해당 IP가 UCEPROTECT Level 3 에 등록돼 있었음. 개별 IP의 잘못이 아니라 DigitalOcean의 미국 ASN 14061 전체 평판 을 기준으...",
-   "publishedAt": 1791236588000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "“기술 업계에 몸담은 사람으로서 부끄럽다”",
-   "url": "https://news.hada.io/topic?id=34844",
-   "summary": "Ben Thompson은 어머니의 디지털 생활을 정리하는 일을 돕다가, 모든 것이 너무 어렵고 복잡해 기술 업계 종사자로서 부끄럽다 고 느낌 같은 날 Jim Nielsen도 가족에게서 웹사이트로 일을 빠르고 효율적으로 처리하려는데 버그투성이라 현대 웹이 싫다 는 문자를 받...",
-   "publishedAt": 1791236408000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "일반 텍스트는 여전히 우리가 가진 최고의 기술 중 하나다",
-   "url": "https://news.hada.io/topic?id=34843",
-   "summary": "일반 텍스트는 만든 프로그램이 사라져도 내용을 읽을 수 있는 형식 임. 복잡한 서식은 없지만 특정 소프트웨어에 덜 의존해, 수십 년 뒤에도 정보를 복구하기에 유리함 grep , diff 같은 명령줄 도구부터 편집기와 메모 앱까지 다양한 도구로 검색...",
-   "publishedAt": 1791236228000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -836,11 +864,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 168,
+   "engagement": 171,
    "comments": 73,
    "publishedAt": 1791105892000,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "Tell HN: Uceprotect가 웹사이트 운영자에게 돈을 갈취하고 있음",
+   "url": "https://news.hada.io/topic?id=34845",
+   "summary": "웹사이트가 Orange 보안 필터 에 차단된 사실을 우연히 발견했고, 확인 결과 해당 IP가 UCEPROTECT Level 3 에 등록돼 있었음. 개별 IP의 잘못이 아니라 DigitalOcean의 미국 ASN 14061 전체 평판 을 기준으...",
+   "publishedAt": 1791236588000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "“기술 업계에 몸담은 사람으로서 부끄럽다”",
+   "url": "https://news.hada.io/topic?id=34844",
+   "summary": "Ben Thompson은 어머니의 디지털 생활을 정리하는 일을 돕다가, 모든 것이 너무 어렵고 복잡해 기술 업계 종사자로서 부끄럽다 고 느낌 같은 날 Jim Nielsen도 가족에게서 웹사이트로 일을 빠르고 효율적으로 처리하려는데 버그투성이라 현대 웹이 싫다 는 문자를 받...",
+   "publishedAt": 1791236408000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "일반 텍스트는 여전히 우리가 가진 최고의 기술 중 하나다",
+   "url": "https://news.hada.io/topic?id=34843",
+   "summary": "일반 텍스트는 만든 프로그램이 사라져도 내용을 읽을 수 있는 형식 임. 복잡한 서식은 없지만 특정 소프트웨어에 덜 의존해, 수십 년 뒤에도 정보를 복구하기에 유리함 grep , diff 같은 명령줄 도구부터 편집기와 메모 앱까지 다양한 도구로 검색...",
+   "publishedAt": 1791236228000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -854,9 +924,24 @@
    "comments": 3,
    "publishedAt": 1791065893000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+   "url": "https://tej.as/blog/aleph-alpha-kolibri",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49943034",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 420,
+   "comments": 12,
+   "publishedAt": 1791024231000,
+   "isAI": true,
+   "score": 35.2,
+   "hot": false,
+   "lastWeekRank": 2
   },
   {
    "title": "원했던 건 내 도메인 이메일뿐이었다 - 개인 도메인 이메일 설정기",
@@ -869,7 +954,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -883,7 +968,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -897,23 +982,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
-  },
-  {
-   "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-   "url": "https://tej.as/blog/aleph-alpha-kolibri",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49943034",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 420,
-   "comments": 12,
-   "publishedAt": 1791024231000,
-   "isAI": true,
-   "score": 35.4,
-   "hot": false,
-   "lastWeekRank": 2
   },
   {
    "title": "Beam - Reflection의 5,010억 매개변수 오픈 웨이트 모델",
@@ -926,7 +996,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -940,7 +1010,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -954,7 +1024,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -968,7 +1038,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -982,7 +1052,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -996,7 +1066,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1010,7 +1080,7 @@
    "comments": 161,
    "publishedAt": 1791052170000,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false,
    "lastWeekRank": 5
   },
@@ -1025,7 +1095,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "Google is about to remove free access to Gemini Flash and Pro",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+   "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscrip",
+   "publishedAt": 1791292741000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1039,37 +1123,24 @@
    "comments": 435,
    "publishedAt": 1791081262000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false,
    "lastWeekRank": 9
   },
   {
-   "title": "2026년 노벨 생리의학상, 빛으로 신경세포를 제어하는 광유전학에 수여",
-   "url": "https://news.hada.io/topic?id=34829",
-   "summary": "2026년 노벨 생리의학상 은 빛으로 열리는 이온 채널과 광유전학에 관한 발견으로 Karl Deisseroth, Peter Hegemann, Georg Nagel에게 공동 수여됨 광유전학 은 빛으로 신경 신호를 제어해 살아 있는 뇌에서 신경세포가 기억, 감정, 행동을 어떻게 형성하는지 연구할...",
-   "publishedAt": 1791214723000,
-   "source": "GeekNews",
+   "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+   "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49946895",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 494,
+   "comments": 109,
+   "publishedAt": 1791054888000,
    "isAI": false,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "Pixel 11, 아직 GrapheneOS 보안 기준 충족 못해 지원 대상에서 제외될 수도",
-   "url": "https://news.hada.io/topic?id=34828",
-   "summary": "GrapheneOS가 Pixel 11 시리즈 이식을 일주일간 진행했으나, ARM 하드웨어 메모리 태깅(MTE) 지원 부재 로 완료하지 못함 MTE 는 GrapheneOS의 커널과 기본 OS 프로세스 전반에서 작동하며, 거의 모든 원격 익스플로잇과 다수의 로컬 익스플로잇에 대한 방어를 크게 ...",
-   "publishedAt": 1791214543000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.8,
-   "hot": false
+   "score": 33.4,
+   "hot": false,
+   "lastWeekRank": 12
   },
   {
    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
@@ -1082,7 +1153,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1096,23 +1167,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
-  },
-  {
-   "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-   "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49946895",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 494,
-   "comments": 109,
-   "publishedAt": 1791054888000,
-   "isAI": false,
-   "score": 33.6,
-   "hot": false,
-   "lastWeekRank": 12
   },
   {
    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
@@ -1125,7 +1181,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1139,21 +1195,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-   "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-   "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-   "publishedAt": 1791224940000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1167,9 +1209,23 @@
    "comments": 1189,
    "publishedAt": 1790798677000,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.8,
    "hot": false,
    "lastWeekRank": 30
+  },
+  {
+   "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+   "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+   "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+   "publishedAt": 1791224940000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.7,
+   "hot": false
   },
   {
    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
@@ -1182,7 +1238,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1196,21 +1252,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "MS·메타의 '클로드' 사용 축소...앤트로픽 B2B 성장세에 변수 되나",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215998",
-   "summary": "앤트로픽의 주요 기업 고객인 마이크로소프트(MS)와 메타가 내부 직원들의 클로드(Claude) 사용을 줄이고 있다. 두 회사가 자체 AI 도구와 경쟁 모델 활용을 늘리면서 앤트로픽이 빠르게 늘어난 기업용 수요를 계속 유지하는 데 부담으로 작용할 수 있다는 분석이 나온다.5일(현지시간) 디 인포메이션에 따르면, MS는 올해 초 직원들의 앤트로픽 AI 사용에 연간 최소 10억달러(약 1조3000억원)를 지출할 것으로 예상했지만, 비용 절감을 위해 직원들에게 클로드 사용을 줄이고 자체 AI 도구를 더 활용하도록 하면서 관련 지출을 3분의",
-   "publishedAt": 1791277589000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1224,7 +1266,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "MS·메타의 '클로드' 사용 축소...앤트로픽 B2B 성장세에 변수 되나",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215998",
+   "summary": "앤트로픽의 주요 기업 고객인 마이크로소프트(MS)와 메타가 내부 직원들의 클로드(Claude) 사용을 줄이고 있다. 두 회사가 자체 AI 도구와 경쟁 모델 활용을 늘리면서 앤트로픽이 빠르게 늘어난 기업용 수요를 계속 유지하는 데 부담으로 작용할 수 있다는 분석이 나온다.5일(현지시간) 디 인포메이션에 따르면, MS는 올해 초 직원들의 앤트로픽 AI 사용에 연간 최소 10억달러(약 1조3000억원)를 지출할 것으로 예상했지만, 비용 절감을 위해 직원들에게 클로드 사용을 줄이고 자체 AI 도구를 더 활용하도록 하면서 관련 지출을 3분의",
+   "publishedAt": 1791277589000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1238,7 +1294,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1252,7 +1308,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1266,7 +1322,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1280,7 +1336,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1294,7 +1350,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1308,7 +1364,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+   "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+   "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+   "publishedAt": 1791295200000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": false,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1322,7 +1392,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1336,77 +1406,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "[게시판] 딥엑스-두산로보틱스, 원전 제조 ‘AI 용접 솔루션’ 공동개발 협력 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216017",
-   "summary": "■ 딥엑스와 두산로보틱스가 원자력발전소 제조 현장의 숙련 용접공 부족 문제를 해결하기 위해 ‘AI 지능형 용접 로봇 솔루션’ 개발에 협력한다. 비전 AI와 협동로봇 기술을 결합해 용접 공정을 지능화하는 것이 핵심이다. 두산로보틱스는 컨소시엄 총괄과 시스템 통합 아키텍처 설계를 맡아 협동로봇 용접 셀 개발, 미소 변위 보정 AI 및 실시간 용접기 제어 기술을 개발한다. 딥엑스는 NPU AI 장치와 소프트웨어 개발 키트(SDK)를 제작, 용접 환경에서의 내환경성 검증과 신뢰성 인증을 지원한다. ■ 사이냅소프트(대표 전경헌)가 프라이빗",
-   "publishedAt": 1791273600000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "OpenAI launches visual ads that appear alongside image generation results",
-   "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-   "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-   "publishedAt": 1791213264000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-   "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-   "publishedAt": 1791212400000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "화웨이, 퀄컴에 '로직폴딩' 칩 관련 특허 라이선스 제공",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216000",
-   "summary": "화웨이가 퀄컴에 새로운 반도체 설계 기술인 ‘로직폴딩(LogicFolding)’과 관련된 특허를 라이선스했다. 이 기술은 극자외선(EUV) 장비 없이도 칩 내부 데이터 처리 효율을 높여 기술 규제 속에서 성능 격차를 줄일 수 있는 화웨이의 차세대 반도체 설계 솔루션이다.화웨이는 5일 퀄컴과 수년에 걸친 포괄적인 특허 교차 라이선스 계약을 체결했다고 밝혔다. 계약에는 AI, 5G 기기, 컴퓨팅, 네트워크, 근거리 및 공동 패키징 광학 기술 등이 포함된다. 퀄컴은 컴퓨팅·AI·네트워크 관련 미국 특허 일부도 취득한다.이번 계약은 화웨이",
-   "publishedAt": 1791271339000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "카카오모빌리티, 고려대와 AX 협력…모빌리티 핵심 기술 국방 분야 접목",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216011",
-   "summary": "카카오모빌리티(대표 류긍선)는 고려대학교 C5ISRT융합연구원과 ‘국방 AI 분야 상호발전’ MOU를 체결했다고 6일 밝혔다. 고려대학교 C5ISRT융합연구원은 지휘·통제·통신·컴퓨터·사이버·정보·감시·정찰·표적처리가 통합된 첨단 지휘통제 및 전장인식 체계를 의미하는 C5ISRT 분야의 전문 연구조직이다. 국방기술경영, 방위사업 관리 분야 권위자인 강석중 원장이 이끌며 국방 AI와 첨단 지휘통제체계에 관한 연구 및 자문 활동을 수행하고 있다.이번 협약은 다양한 유·무인 복합체계의 활용이 확대되는 미래 국방 환경에 대응해, 모빌리티",
-   "publishedAt": 1791270529000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.9,
+   "score": 31.8,
    "hot": false
   }
  ]
