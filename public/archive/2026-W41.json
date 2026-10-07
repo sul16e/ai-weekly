@@ -1,5 +1,5 @@
 {
- "updatedAt": 1791350417151,
+ "updatedAt": 1791354074164,
  "week": "2026-W41",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1660,
-   "comments": 989,
+   "engagement": 1698,
+   "comments": 1005,
    "publishedAt": 1791292549000,
    "isAI": true,
-   "score": 66.8,
+   "score": 66.3,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 654,
-   "comments": 592,
+   "engagement": 728,
+   "comments": 659,
    "publishedAt": 1791325041000,
    "isAI": true,
-   "score": 64.9,
+   "score": 65.2,
    "hot": true
   },
   {
@@ -41,7 +41,7 @@
    "comments": 5,
    "publishedAt": 1791293150000,
    "isAI": true,
-   "score": 57.5,
+   "score": 56.9,
    "hot": true
   },
   {
@@ -51,11 +51,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 258,
-   "comments": 321,
+   "engagement": 270,
+   "comments": 324,
    "publishedAt": 1791303805000,
    "isAI": true,
-   "score": 53.4,
+   "score": 53.2,
+   "hot": true
+  },
+  {
+   "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+   "url": "https://penguin-mail.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49984716",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 145,
+   "comments": 67,
+   "publishedAt": 1791323983000,
+   "isAI": true,
+   "score": 50.9,
+   "hot": false
+  },
+  {
+   "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+   "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49981905",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 165,
+   "comments": 89,
+   "publishedAt": 1791309634000,
+   "isAI": true,
+   "score": 50,
    "hot": true
   },
   {
@@ -69,36 +97,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 50.5,
-   "hot": false
-  },
-  {
-   "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-   "url": "https://penguin-mail.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49984716",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 123,
-   "comments": 52,
-   "publishedAt": 1791323983000,
-   "isAI": true,
    "score": 50,
    "hot": false
-  },
-  {
-   "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-   "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49981905",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 151,
-   "comments": 79,
-   "publishedAt": 1791309634000,
-   "isAI": true,
-   "score": 49.7,
-   "hot": true
   },
   {
    "title": "Claude Code의 가장 영리한 기능은 사용자를 위한 것이 아니다",
@@ -111,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.6,
+   "score": 49,
    "hot": true
   },
   {
@@ -125,7 +125,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.5,
+   "score": 48.1,
    "hot": false
   },
   {
@@ -139,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -153,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -163,39 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 371,
-   "comments": 261,
+   "engagement": 372,
+   "comments": 262,
    "publishedAt": 1791290749000,
    "isAI": false,
-   "score": 47.7,
-   "hot": true
-  },
-  {
-   "title": "여러 팀의 시스템을 이해하기 위한 AI 집단 지성 구축하기",
-   "url": "https://news.hada.io/topic?id=34920",
-   "summary": "SumUp의 여러 도메인에 걸친 시스템을 이해할 때마다 엔지니어 3~4명을 모으는 대신, 약 66개 저장소와 조직 맥락을 연결한 AI 에이전트 시스템 을 구축함 저장소를 기술 스택이 아닌 제품과 팀 구조 에 따라 묶고, 도메인별 AGENTS.md 에 원칙, 조직 구...",
-   "publishedAt": 1791334502000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 47.7,
-   "hot": true
-  },
-  {
-   "title": "Show GN: AI 송도 월드 - LLM 여섯 개가 나눠 맡은 AI 에이전트 2,400명이 사는 3D 도시",
-   "url": "https://news.hada.io/topic?id=34919",
-   "summary": "이 2,400여 명의 AI 시민 간 무슨 생각을 하고 무슨 일을 벌일지 브라우저에서 들여다볼 수 있게 송도 월드를 만들었습니다. GPT, Claude, Gemini, DeepSeek, GLM, Solar 여섯 모델이 시민을 나눠 맡고 있고, 가입 없이 바로 볼 수 있습니다. 만든 이유 AI 에이전트끼리 한곳에 모여 살게 하면 무슨 생",
-   "publishedAt": 1791334410000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 47.7,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -209,8 +181,36 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.2,
    "hot": false
+  },
+  {
+   "title": "여러 팀의 시스템을 이해하기 위한 AI 집단 지성 구축하기",
+   "url": "https://news.hada.io/topic?id=34920",
+   "summary": "SumUp의 여러 도메인에 걸친 시스템을 이해할 때마다 엔지니어 3~4명을 모으는 대신, 약 66개 저장소와 조직 맥락을 연결한 AI 에이전트 시스템 을 구축함 저장소를 기술 스택이 아닌 제품과 팀 구조 에 따라 묶고, 도메인별 AGENTS.md 에 원칙, 조직 구...",
+   "publishedAt": 1791334502000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47.2,
+   "hot": true
+  },
+  {
+   "title": "Show GN: AI 송도 월드 - LLM 여섯 개가 나눠 맡은 AI 에이전트 2,400명이 사는 3D 도시",
+   "url": "https://news.hada.io/topic?id=34919",
+   "summary": "이 2,400여 명의 AI 시민 간 무슨 생각을 하고 무슨 일을 벌일지 브라우저에서 들여다볼 수 있게 송도 월드를 만들었습니다. GPT, Claude, Gemini, DeepSeek, GLM, Solar 여섯 모델이 시민을 나눠 맡고 있고, 가입 없이 바로 볼 수 있습니다. 만든 이유 AI 에이전트끼리 한곳에 모여 살게 하면 무슨 생",
+   "publishedAt": 1791334410000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47.2,
+   "hot": true
   },
   {
    "title": "소프트웨어로서의 브랜드",
@@ -223,7 +223,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.1,
+   "hot": true
+  },
+  {
+   "title": "Decisions API is in public beta",
+   "url": "https://developers.openai.com/api/docs/guides/decisions",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49984025",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 228,
+   "comments": 104,
+   "publishedAt": 1791320245000,
+   "isAI": false,
+   "score": 47,
    "hot": true
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": true
   },
   {
@@ -251,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": true
   },
   {
@@ -261,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 118,
-   "comments": 115,
+   "engagement": 120,
+   "comments": 121,
    "publishedAt": 1791306112000,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.9,
    "hot": false
   },
   {
@@ -275,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 163,
+   "engagement": 164,
    "comments": 106,
    "publishedAt": 1791284395000,
    "isAI": true,
-   "score": 47,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -293,20 +307,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
-   "hot": true
-  },
-  {
-   "title": "Decisions API is in public beta",
-   "url": "https://developers.openai.com/api/docs/guides/decisions",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49984025",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 203,
-   "comments": 96,
-   "publishedAt": 1791320245000,
-   "isAI": false,
    "score": 46.5,
    "hot": true
   },
@@ -317,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 813,
-   "comments": 654,
+   "engagement": 814,
+   "comments": 656,
    "publishedAt": 1791178660000,
    "isAI": true,
-   "score": 46.4,
+   "score": 46,
    "hot": false
   },
   {
@@ -335,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -349,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -363,7 +363,7 @@
    "comments": 194,
    "publishedAt": 1791222815000,
    "isAI": true,
-   "score": 44.4,
+   "score": 44,
    "hot": false
   },
   {
@@ -377,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -391,7 +391,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.3,
+   "hot": false
+  },
+  {
+   "title": "Strands Decider 2B: a small, open-source, decision model",
+   "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49987076",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 111,
+   "comments": 23,
+   "publishedAt": 1791338531000,
+   "isAI": false,
+   "score": 43,
    "hot": false
   },
   {
@@ -405,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -419,7 +433,7 @@
    "comments": 327,
    "publishedAt": 1791234021000,
    "isAI": false,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -433,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -447,8 +461,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false
+  },
+  {
+   "title": "Show GN: 이메일 피싱 모의훈련을 전화로 옮겼습니다. 예고 없는 전화",
+   "url": "https://news.hada.io/topic?id=34930",
+   "summary": "가족이 보이스피싱을 당한 뒤에 만들었습니다. 예방 교육과 모의체험은 이미 많은데 전부 사용자가 들어가서 받는 구조라 실전 느낌이 안납니다. 회사에서 하는 이메일 피싱 모의훈련처럼, 훈련 프로그램에 들어 있다는 건 알지만 지금 이 전화가 그것인지는 모르는 상태를 만들고 싶었습니다. 휴대폰 번",
+   "publishedAt": 1791351777000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
@@ -461,8 +489,22 @@
    "comments": 421,
    "publishedAt": 1791118313000,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.6,
    "hot": false
+  },
+  {
+   "title": "토론토 기반 VPN 업체, 적법 접근 법안으로 캐나다 떠날 계획",
+   "url": "https://news.hada.io/topic?id=34929",
+   "summary": "Psiphon 은 캐나다 연방정부의 적법 접근 법안이 현행안대로 통과되면 캐나다 밖으로 운영을 이전할 계획임 Bill C-22 가 통과되면 전자 서비스 제공업체는 경찰과 캐나다 보안정보국(CSIS)에 감시 및 모니터링 기능을 제공하도록 시스템을 비밀리에 변경해야 함",
+   "publishedAt": 1791351083000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
   },
   {
    "title": "Why Common Lisp is now the best programming language",
@@ -472,10 +514,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 283,
-   "comments": 382,
+   "comments": 383,
    "publishedAt": 1791255111000,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -489,8 +531,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.8,
    "hot": true
+  },
+  {
+   "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+   "url": "https://news.ycombinator.com/item?id=49982498",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49982498",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 118,
+   "comments": 80,
+   "publishedAt": 1791312841000,
+   "isAI": false,
+   "score": 40.5,
+   "hot": false
   },
   {
    "title": "Web Search API",
@@ -503,7 +559,7 @@
    "comments": 282,
    "publishedAt": 1791197226000,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -517,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -531,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -545,7 +601,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -559,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -573,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -587,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -601,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -612,10 +668,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 129,
-   "comments": 61,
+   "comments": 62,
    "publishedAt": 1791294937000,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -629,21 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
-   "hot": true
-  },
-  {
-   "title": "질량으로 따지면 지구에서 가장 우세한 종은 무엇일까?",
-   "url": "https://news.hada.io/topic?id=34912",
-   "summary": "단일 종의 생물량(biomass) 을 비교하면 인간이나 가축보다 북방림의 나무가 훨씬 앞서며, 검은가문비나무와 다우리아낙엽송이 유력한 최상위 후보임 동물에서는 소 가 약 6억 5,000만 톤으로 가장 무겁고, 야생종에서는 남극크릴 이 약 3억 7,900만...",
-   "publishedAt": 1791330149000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.6,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -653,11 +695,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 108,
-   "comments": 63,
+   "engagement": 109,
+   "comments": 65,
    "publishedAt": 1791307200000,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -671,8 +713,22 @@
    "comments": 303,
    "publishedAt": 1791205345000,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.2,
    "hot": false
+  },
+  {
+   "title": "질량으로 따지면 지구에서 가장 우세한 종은 무엇일까?",
+   "url": "https://news.hada.io/topic?id=34912",
+   "summary": "단일 종의 생물량(biomass) 을 비교하면 인간이나 가축보다 북방림의 나무가 훨씬 앞서며, 검은가문비나무와 다우리아낙엽송이 유력한 최상위 후보임 동물에서는 소 가 약 6억 5,000만 톤으로 가장 무겁고, 야생종에서는 남극크릴 이 약 3억 7,900만...",
+   "publishedAt": 1791330149000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.1,
+   "hot": true
   },
   {
    "title": "파라마운트, 워너브라더스와 약 167조원 규모 합병 완료",
@@ -685,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -699,8 +755,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
+  },
+  {
+   "title": "Denmark data breach exposes 8.8M people's personal data",
+   "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49962012",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 502,
+   "comments": 350,
+   "publishedAt": 1791187776000,
+   "isAI": false,
+   "score": 38.7,
+   "hot": false
   },
   {
    "title": "밀리초 단위로 벤치마크하기",
@@ -713,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -721,34 +791,6 @@
    "url": "https://news.hada.io/topic?id=34907",
    "summary": "Google이 텍스트·코드·이미지·영상·오디오를 같은 벡터 공간에 표현해 서로 검색할 수 있는 EmbeddingGemma 2 를 출시함. Gemma 4 기반의 7억 4,000만 파라미터 모델이며 Apache-2.0 라이선스로 공개됨 모듈식 구조 로 텍스트 전용 작업에는 2억 7,000만 파라미터만...",
    "publishedAt": 1791326060000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.1,
-   "hot": true
-  },
-  {
-   "title": "Denmark data breach exposes 8.8M people's personal data",
-   "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49962012",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 501,
-   "comments": 350,
-   "publishedAt": 1791187776000,
-   "isAI": false,
-   "score": 39,
-   "hot": false
-  },
-  {
-   "title": "Tapo Rust/Python 라이브러리, TP-Link의 TPAP 프로토콜 지원 추가",
-   "url": "https://news.hada.io/topic?id=34906",
-   "summary": "비공식 Tapo 클라이언트 tapo v0.11.1 이 TPAP를 지원해, 일부 기기 예외를 제외하면 앱의 Third-Party Compatibility 설정을 끈 채 연결할 수 있음 클라이언트가 기기의 프로토콜을 자동 판별하므로 기존 코드 변경 없이 IP 주소 연결과 di...",
-   "publishedAt": 1791322419000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -769,8 +811,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.3,
    "hot": false
+  },
+  {
+   "title": "Tapo Rust/Python 라이브러리, TP-Link의 TPAP 프로토콜 지원 추가",
+   "url": "https://news.hada.io/topic?id=34906",
+   "summary": "비공식 Tapo 클라이언트 tapo v0.11.1 이 TPAP를 지원해, 일부 기기 예외를 제외하면 앱의 Third-Party Compatibility 설정을 끈 채 연결할 수 있음 클라이언트가 기기의 프로토콜을 자동 판별하므로 기존 코드 변경 없이 IP 주소 연결과 di...",
+   "publishedAt": 1791322419000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.3,
+   "hot": true
   },
   {
    "title": "수학의 미래",
@@ -783,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.4,
+   "score": 38,
    "hot": false
   },
   {
@@ -797,7 +853,7 @@
    "comments": 549,
    "publishedAt": 1791142945000,
    "isAI": false,
-   "score": 38,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -811,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -825,8 +881,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "우리는 “unalive”를 없앨 것이다",
@@ -839,8 +895,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "How AI decision models could change content moderation",
@@ -853,7 +909,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -867,7 +923,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "Apple and a hacker's future",
+   "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49962857",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 292,
+   "comments": 247,
+   "publishedAt": 1791194702000,
+   "isAI": false,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -881,21 +951,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Apple and a hacker's future",
-   "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49962857",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 292,
-   "comments": 246,
-   "publishedAt": 1791194702000,
-   "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -909,7 +965,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -923,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -937,7 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -951,7 +1007,7 @@
    "comments": 709,
    "publishedAt": 1791142625000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -965,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -979,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -990,10 +1046,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 245,
-   "comments": 193,
+   "comments": 194,
    "publishedAt": 1791199038000,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1007,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1021,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1035,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1049,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1063,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1077,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1091,7 +1147,7 @@
    "comments": 135,
    "publishedAt": 1791139757000,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1105,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1115,11 +1171,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 101,
+   "engagement": 102,
    "comments": 64,
    "publishedAt": 1791257505000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1133,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1143,25 +1199,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 288,
-   "comments": 248,
+   "engagement": 289,
+   "comments": 249,
    "publishedAt": 1791165248000,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false
   },
   {
-   "title": "Async Rust: 스케줄러는 어디에 있는가?",
-   "url": "https://news.hada.io/topic?id=34882",
-   "summary": "동시성에는 스케줄링을 담당할 런타임이 필요 하며, async 대신 스레드를 쓰면 그 역할이 Tokio에서 커널로 옮겨갈 뿐임 Rust가 런타임을 크레이트로 분리 한 것은 임베디드, no_std , FFI 비용, 제로 비용 추상화라는 목표에 맞는 선택이지만, 런타임 간...",
-   "publishedAt": 1791273872000,
-   "source": "GeekNews",
-   "sourceType": "community",
+   "title": "\"1인칭 영상을 로봇 학습 데이터로\"...트웰브랩스 '페가수스 1.6' 출시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216022",
+   "summary": "트웰브랩스가 엔터테인먼트, 스포츠, 공공 분야에 적용해온 영상 이해 기술을 로봇 등 피지컬 AI 분야로 확대한다.트웰브랩스는 피지컬 AI 학습 데이터 수집에 특화된 비전언어모델(VLM) '페가수스 1.6'을 출시했다고 밝혔다. 페가수스 1.6은 '에고센트릭 데이터(Egocentric Data)' 이해 및 라벨링 자동화가 특징이다.에고센트릭 데이터는 1인칭 영상 데이터를 말하는 것으로, 작업자가 액션캠이나 스마트 글래스를 착용한 채 특정 동작을 수행하는 모습을 촬영, 수집할 수 있다는 설명이다.여기에 ▲행동 분할 및 라벨링 ▲상세 캡",
+   "publishedAt": 1791350959000,
+   "source": "AI타임스",
+   "sourceType": "media",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.9,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1175,9 +1231,37 @@
    "comments": 817,
    "publishedAt": 1791035194000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false,
    "lastWeekRank": 3
+  },
+  {
+   "title": "Async Rust: 스케줄러는 어디에 있는가?",
+   "url": "https://news.hada.io/topic?id=34882",
+   "summary": "동시성에는 스케줄링을 담당할 런타임이 필요 하며, async 대신 스레드를 쓰면 그 역할이 Tokio에서 커널로 옮겨갈 뿐임 Rust가 런타임을 크레이트로 분리 한 것은 임베디드, no_std , FFI 비용, 제로 비용 추상화라는 목표에 맞는 선택이지만, 런타임 간...",
+   "publishedAt": 1791273872000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "미스트랄, 1조 매개변수 ‘라지 4’ 공개...\"사이버 보안·오픈 모델 최상위\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216024",
+   "summary": "프랑스의 미스트랄 AI가 내부 별칭 '르 총크(Le Chonk)'로 불리는 차세대 플래그십 AI 모델을 공개했다. 뚱뚱한 고양이를 지칭하는 이 별칭은 1조개가 넘는 매개변수를 가진 거대 모델의 규모감을 위트 있게 표현한 것이다.미스트랄은 6일(현지시간) 오픈웨이트 모델 '미스트랄 라지 4(ML4·Mistral Large 4)'를 공개했다.현재는 API를 통한 공개 프리뷰 단계로, 개발자와 사이버 보안 전문가, 정부 당국 등을 대상으로 약 3주간 테스트와 강화학습(RL)을 진행한 뒤 이달 27일 모델 가중치를 공개할 예정이다.라지 4",
+   "publishedAt": 1791349376000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
   },
   {
    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
@@ -1190,7 +1274,7 @@
    "comments": 841,
    "publishedAt": 1791049469000,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 7
   },
@@ -1205,7 +1289,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1219,21 +1303,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, '프로젝트 글래스윙' 개편...첨단 모델 접근 대폭 확대",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216023",
-   "summary": "앤트로픽이 더 많은 사이버 보안 전문가가 최신 '클로드' 모델을 활용해 사이버 위협에 대응할 수 있도록 '프로젝트 글래스윙(Project Glasswing)' 프로그램을 확대·개편했다.앤트로픽은 6일(현지시간) 사이버 보안팀의 업무와 위험 수준에 따라 AI 모델 접근 권한을 차등 제공하는 새로운 체계를 발표했다.기존 사이버 검증 프로그램(CVP)과 프로젝트 글래스윙을 통합하고 ▲방어(Defense) ▲레드팀(Red Team) ▲특수(Specialized) 등 세 가지 등급(access tiers)으로 운영한다.이번 개편으로 CVP에",
-   "publishedAt": 1791345510000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1247,7 +1317,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, '프로젝트 글래스윙' 개편...첨단 모델 접근 대폭 확대",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216023",
+   "summary": "앤트로픽이 더 많은 사이버 보안 전문가가 최신 '클로드' 모델을 활용해 사이버 위협에 대응할 수 있도록 '프로젝트 글래스윙(Project Glasswing)' 프로그램을 확대·개편했다.앤트로픽은 6일(현지시간) 사이버 보안팀의 업무와 위험 수준에 따라 AI 모델 접근 권한을 차등 제공하는 새로운 체계를 발표했다.기존 사이버 검증 프로그램(CVP)과 프로젝트 글래스윙을 통합하고 ▲방어(Defense) ▲레드팀(Red Team) ▲특수(Specialized) 등 세 가지 등급(access tiers)으로 운영한다.이번 개편으로 CVP에",
+   "publishedAt": 1791345510000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1261,7 +1345,7 @@
    "comments": 127,
    "publishedAt": 1791186370000,
    "isAI": false,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   },
   {
@@ -1275,7 +1359,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1289,21 +1373,7 @@
    "comments": 43,
    "publishedAt": 1791209355000,
    "isAI": false,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "Example.com, 수십 년 만에 최대 규모의 리디자인 공개",
-   "url": "https://news.hada.io/topic?id=34872",
-   "summary": "문서 예시용 예약 도메인인 example.com 이 2026년 9월 28일 정적 영어 페이지에서 6개 언어를 5초마다 전환하는 페이지 로 바뀜 언어 전환은 JavaScript로 처리하며, 글자마다 별도의 span 과 점진적인 transition-delay ...",
-   "publishedAt": 1791259696000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.6,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1317,92 +1387,22 @@
    "comments": 12,
    "publishedAt": 1791024231000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false,
    "lastWeekRank": 2
   },
   {
-   "title": "54gb vram for 35$",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz6ist/54gb_vram_for_35/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 29.2,
-   "publishedAt": 1791302818000,
-   "isAI": true,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "Show HN: AI search for every photo and every frame of video on macOS",
-   "url": "https://github.com/allenv0/SCM",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49952111",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 177,
-   "comments": 73,
-   "publishedAt": 1791105892000,
-   "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-   "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49948332",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 268,
-   "comments": 3,
-   "publishedAt": 1791065893000,
-   "isAI": true,
-   "score": 32.2,
-   "hot": false,
-   "lastWeekRank": 1
-  },
-  {
-   "title": "텍사스의 한 도시, Flock 사용 관련 공공기록 공개에 200만 달러 요구",
-   "url": "https://news.hada.io/topic?id=34869",
-   "summary": "텍사스주 North Richland Hills 가 경찰의 Flock 사용 관련 공공기록을 요청한 단체에 230만 달러 를 요구함. 관련 통신 자료를 검색하는 데 약 14년치 노동이 필요하다는 근거를 내세움 공공기록 공개 비용 은 기관마다 크게 다르며, 고액 수수료가...",
-   "publishedAt": 1791254620000,
+   "title": "Example.com, 수십 년 만에 최대 규모의 리디자인 공개",
+   "url": "https://news.hada.io/topic?id=34872",
+   "summary": "문서 예시용 예약 도메인인 example.com 이 2026년 9월 28일 정적 영어 페이지에서 6개 언어를 5초마다 전환하는 페이지 로 바뀜 언어 전환은 JavaScript로 처리하며, 글자마다 별도의 span 과 점진적인 transition-delay ...",
+   "publishedAt": 1791259696000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "Dust - 역전파 없이 트랜스포머 사전학습하기",
-   "url": "https://news.hada.io/topic?id=34868",
-   "summary": "Dust 는 모델 내부의 계산값에 작은 무작위 변화를 주고, 예측 오류가 줄어드는 방향을 찾아 역전파 없이 트랜스포머를 처음부터 학습 하는 방법임 모델 가중치를 여러 벌 복제하는 대신 토큰마다 서로 다른 변화를 시험 해, 한 번의 순전파에서 수천...",
-   "publishedAt": 1791254440000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "[AI리더의 서가] SQL부터 AI까지 데이터 분석 with 클로드 코드",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215957",
-   "summary": "SQL부터 AI까지 데이터 분석 with 클로드 코드조한성 | 정보문화사2026년 9월 30일추천이유독자는 25일간 신입사원과 함께 SQL 기초부터 생성형 AI 활용, 나만의 데이터 분석 에이전트 구축까지 완주하며 AI 시대에 필수적인 검증 능력을 갖추게 됩니다. 이 책은 SQL 실력으로 AI의 오류를 잡아내고, 반복 업무를 자동화하는 시스템을 직접 만들어보는 실전 학습 경험을 제공합니다.상세보기 \"요즘 신입들은 쿼리를 AI로 짜 옵니다. 그래도 SQL부터 다시 가르쳐야 할까요?\" 데이터 조직을 이끄는 독자라면 한 번쯤 고민해 봤을",
-   "publishedAt": 1791331200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.1,
+   "score": 32.3,
    "hot": false
   }
  ]
