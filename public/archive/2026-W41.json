@@ -1,5 +1,5 @@
 {
- "updatedAt": 1791372359220,
+ "updatedAt": 1791376004693,
  "week": "2026-W41",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 958,
-   "comments": 921,
+   "engagement": 1001,
+   "comments": 973,
    "publishedAt": 1791325041000,
    "isAI": true,
-   "score": 64.2,
+   "score": 63.9,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1847,
-   "comments": 1115,
+   "engagement": 1879,
+   "comments": 1129,
    "publishedAt": 1791292549000,
    "isAI": true,
-   "score": 63.8,
+   "score": 63.4,
    "hot": true
   },
   {
@@ -41,7 +41,7 @@
    "comments": 5,
    "publishedAt": 1791293150000,
    "isAI": true,
-   "score": 54.2,
+   "score": 53.7,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 294,
-   "comments": 345,
+   "engagement": 304,
+   "comments": 353,
    "publishedAt": 1791303805000,
    "isAI": true,
-   "score": 51.3,
+   "score": 51.1,
    "hot": true
   },
   {
@@ -65,8 +65,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 197,
-   "comments": 128,
+   "engagement": 210,
+   "comments": 135,
    "publishedAt": 1791323983000,
    "isAI": true,
    "score": 50.9,
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 216,
-   "comments": 124,
+   "engagement": 226,
+   "comments": 130,
    "publishedAt": 1791309634000,
    "isAI": true,
-   "score": 49.7,
+   "score": 49.5,
    "hot": true
   },
   {
@@ -97,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.5,
+   "score": 49,
    "hot": true
   },
   {
@@ -105,34 +105,6 @@
    "url": "https://news.hada.io/topic?id=34933",
    "summary": "웹 브라우저용 사진 편집기 Photopea 의 JavaScript 코드에서 AI 모델로 광고를 제거하고 ‘새 제품’으로 공개한 GitHub 저장소가 수십 개 있음 안정 버전의 유일한 배포처 를 Photopea.com으로 유지하고 싶지만, 다른 복제...",
    "publishedAt": 1791358520000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48,
-   "hot": true
-  },
-  {
-   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-   "url": "https://openai.com/index/atlassian-partnership",
-   "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-   "publishedAt": 1791302400000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 47.6,
-   "hot": false
-  },
-  {
-   "title": "Penguin Mail - AI를 탑재한 Linux용 오픈소스 Rust 이메일 클라이언트",
-   "url": "https://news.hada.io/topic?id=34931",
-   "summary": "Penguin Mail 은 Gmail, Microsoft, IMAP/POP3 계정의 이메일과 캘린더, 연락처를 사용자 컴퓨터의 한 앱에서 관리하는 Linux용 클라이언트임 통합 받은편지함 과 계정별 보기를 지원하며, 시스템 트레이에서도 동기화를 유지하고 읽지 않은 메일 수와 조작 가능한 알...",
-   "publishedAt": 1791354745000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -149,11 +121,67 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 316,
-   "comments": 163,
+   "engagement": 334,
+   "comments": 178,
    "publishedAt": 1791320245000,
    "isAI": false,
-   "score": 47.4,
+   "score": 47.3,
+   "hot": true
+  },
+  {
+   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+   "url": "https://openai.com/index/atlassian-partnership",
+   "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+   "publishedAt": 1791302400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 47.1,
+   "hot": false
+  },
+  {
+   "title": "Penguin Mail - AI를 탑재한 Linux용 오픈소스 Rust 이메일 클라이언트",
+   "url": "https://news.hada.io/topic?id=34931",
+   "summary": "Penguin Mail 은 Gmail, Microsoft, IMAP/POP3 계정의 이메일과 캘린더, 연락처를 사용자 컴퓨터의 한 앱에서 관리하는 Linux용 클라이언트임 통합 받은편지함 과 계정별 보기를 지원하며, 시스템 트레이에서도 동기화를 유지하고 읽지 않은 메일 수와 조작 가능한 알...",
+   "publishedAt": 1791354745000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47,
+   "hot": true
+  },
+  {
+   "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+   "url": "https://news.ycombinator.com/item?id=49982498",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49982498",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 327,
+   "comments": 179,
+   "publishedAt": 1791312841000,
+   "isAI": false,
+   "score": 46.2,
+   "hot": true
+  },
+  {
+   "title": "Strands Decider 2B: a small, open-source, decision model",
+   "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49987076",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 214,
+   "comments": 57,
+   "publishedAt": 1791338531000,
+   "isAI": false,
+   "score": 46,
    "hot": true
   },
   {
@@ -167,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 46,
    "hot": true
   },
   {
@@ -181,35 +209,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.4,
    "hot": false
   },
   {
-   "title": "Strands Decider 2B: a small, open-source, decision model",
-   "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49987076",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Introducing Playground: Create and play custom games",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+   "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+   "publishedAt": 1791374400000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
    "lang": "en",
-   "engagement": 196,
-   "comments": 48,
-   "publishedAt": 1791338531000,
+   "engagement": null,
+   "baseWeight": 45,
    "isAI": false,
-   "score": 45.7,
-   "hot": true
-  },
-  {
-   "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-   "url": "https://news.ycombinator.com/item?id=49982498",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49982498",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 287,
-   "comments": 162,
-   "publishedAt": 1791312841000,
-   "isAI": false,
-   "score": 45.6,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -220,10 +234,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 128,
-   "comments": 122,
+   "comments": 123,
    "publishedAt": 1791306112000,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
    "hot": false
   },
   {
@@ -233,25 +247,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 378,
+   "engagement": 379,
    "comments": 271,
    "publishedAt": 1791290749000,
    "isAI": false,
-   "score": 45.1,
-   "hot": true
-  },
-  {
-   "title": "OpenAI, 확률·선택지·점수를 반환하는 Decisions API 공개 베타 시작",
-   "url": "https://news.hada.io/topic?id=34923",
-   "summary": "OpenAI가 텍스트·이미지를 평가해 확률, 선택지와 점수를 반환하는 Decisions API 의 공개 베타를 시작함. 서술형 답변 대신 앱에서 바로 사용할 판단 결과를 제공하며, Responses API보다 약 10배 빠름 조건이 참일 확률, 고정 선택지 중 하나, 평가 기준에...",
-   "publishedAt": 1791336829000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -265,8 +265,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45,
+   "score": 44.6,
    "hot": false
+  },
+  {
+   "title": "OpenAI, 확률·선택지·점수를 반환하는 Decisions API 공개 베타 시작",
+   "url": "https://news.hada.io/topic?id=34923",
+   "summary": "OpenAI가 텍스트·이미지를 평가해 확률, 선택지와 점수를 반환하는 Decisions API 의 공개 베타를 시작함. 서술형 답변 대신 앱에서 바로 사용할 판단 결과를 제공하며, Responses API보다 약 10배 빠름 조건이 참일 확률, 고정 선택지 중 하나, 평가 기준에...",
+   "publishedAt": 1791336829000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 44.6,
+   "hot": true
   },
   {
    "title": "제프리 카첸버그 - 세상이 바뀌고 있다: 창의성을 위한 AI",
@@ -279,8 +293,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.4,
    "hot": true
+  },
+  {
+   "title": "I'm the AGI that's wiping out humanity",
+   "url": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49976751",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 170,
+   "comments": 109,
+   "publishedAt": 1791284395000,
+   "isAI": true,
+   "score": 44.3,
+   "hot": false
   },
   {
    "title": "여러 팀의 시스템을 이해하기 위한 AI 집단 지성 구축하기",
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -307,22 +335,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.3,
    "hot": true
-  },
-  {
-   "title": "I'm the AGI that's wiping out humanity",
-   "url": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49976751",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 169,
-   "comments": 108,
-   "publishedAt": 1791284395000,
-   "isAI": true,
-   "score": 44.7,
-   "hot": false
   },
   {
    "title": "소프트웨어로서의 브랜드",
@@ -335,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -349,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.1,
    "hot": true
   },
   {
@@ -363,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.1,
    "hot": true
   },
   {
@@ -373,11 +387,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 817,
-   "comments": 661,
+   "engagement": 819,
+   "comments": 662,
    "publishedAt": 1791178660000,
    "isAI": true,
-   "score": 44.3,
+   "score": 44,
    "hot": false
   },
   {
@@ -391,8 +405,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.2,
-   "hot": true
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "나는 인류를 멸종시키고 있는 AGI다",
@@ -405,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -419,7 +433,7 @@
    "comments": 196,
    "publishedAt": 1791222815000,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -433,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -443,11 +457,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 105,
-   "comments": 44,
+   "engagement": 106,
+   "comments": 46,
    "publishedAt": 1791291238000,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -461,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": true
   },
   {
@@ -475,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": true
   },
   {
@@ -489,7 +503,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.4,
+   "score": 41,
+   "hot": false
+  },
+  {
+   "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+   "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49988230",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 103,
+   "comments": 35,
+   "publishedAt": 1791347825000,
+   "isAI": false,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -503,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -513,11 +541,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 485,
-   "comments": 330,
+   "engagement": 486,
+   "comments": 332,
    "publishedAt": 1791234021000,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.6,
+   "hot": false
+  },
+  {
+   "title": "Meta의 Muse, 귀엽지만 개인정보 보호와 보안은 총체적 난국",
+   "url": "https://news.hada.io/topic?id=34897",
+   "summary": "Meta의 에이전트형 AI Muse 에서 Mac 사용자 감시가 가능한 제로데이 취약점과 무단 메시지 접근 등 개인정보 보호와 보안 문제가 잇따름 사용자 대신 작업을 수행하는 과정에서 헐값 판매와 집 주소 전달 사례가 발생했으며, 해당 사용자가 설정한 권한을 제대로 이...",
+   "publishedAt": 1791300802000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -531,50 +573,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.3,
    "hot": true
-  },
-  {
-   "title": "Meta의 Muse, 귀엽지만 개인정보 보호와 보안은 총체적 난국",
-   "url": "https://news.hada.io/topic?id=34897",
-   "summary": "Meta의 에이전트형 AI Muse 에서 Mac 사용자 감시가 가능한 제로데이 취약점과 무단 메시지 접근 등 개인정보 보호와 보안 문제가 잇따름 사용자 대신 작업을 수행하는 과정에서 헐값 판매와 집 주소 전달 사례가 발생했으며, 해당 사용자가 설정한 권한을 제대로 이...",
-   "publishedAt": 1791300802000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.8,
-   "hot": false
-  },
-  {
-   "title": "2026년 개발자 현황",
-   "url": "https://news.hada.io/topic?id=34935",
-   "summary": "설문 응답자의 거의 절반이 고용 불안과 불충분한 임금 을 경험했으며, 4분의 1 이상은 향후 5년 안에 자신의 통제 밖 사유로 직업을 바꿔야 할 가능성이 있다고 봄 개발자의 62%가 번아웃 을 경험했으며, 최근 업무 동기 저하와 냉소 증가, 집중력 저하와 정서적 소...",
-   "publishedAt": 1791362053000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.7,
-   "hot": true
-  },
-  {
-   "title": "Show GN: agent-gc – AI 코딩 에이전트가 남긴 worktree 쓰레기를 치워주는 TUI",
-   "url": "https://news.hada.io/topic?id=34893",
-   "summary": "Codex, Claude Code 같은 에이전트에 병렬로 일을 시키다 보니 worktree가 계속 늘어났음. worktree마다 install, 빌드, 테스트가 돌면서 node_modules , .next , target , .venv 도 같이 복제됨 어느 날 디스크가 꽉 차서 열어 보니 ~/.codex...",
-   "publishedAt": 1791297681000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.5,
-   "hot": false
   },
   {
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
@@ -587,13 +587,27 @@
    "comments": 421,
    "publishedAt": 1791118313000,
    "isAI": true,
-   "score": 40.3,
+   "score": 40.1,
+   "hot": false
+  },
+  {
+   "title": "Show GN: agent-gc – AI 코딩 에이전트가 남긴 worktree 쓰레기를 치워주는 TUI",
+   "url": "https://news.hada.io/topic?id=34893",
+   "summary": "Codex, Claude Code 같은 에이전트에 병렬로 일을 시키다 보니 worktree가 계속 늘어났음. worktree마다 install, 빌드, 테스트가 돌면서 node_modules , .next , target , .venv 도 같이 복제됨 어느 날 디스크가 꽉 차서 열어 보니 ~/.codex...",
+   "publishedAt": 1791297681000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 40.1,
    "hot": false
   },
   {
    "title": "Strands Decider 2B - 소형 오픈소스 의사결정 모델",
    "url": "https://news.hada.io/topic?id=34934",
-   "summary": "Strands Decider 2B 는 텍스트 생성 대신 주어진 선택지 중 답을 고르거나 수치 점수를 매기는 20억 매개변수 모델로, 로컬 CPU/GPU 실행과 빠른 실험에 맞춰 개발됨 각 결정에 신뢰도 점수 를 제공하고 같은 프롬프트에 대한 여러 질문을 효율적으로 처리하지만, 복...",
+   "summary": "Strands Decider 2B 는 문장을 생성하는 대신 선택지와 점수, 신뢰도를 반환하는 20억 매개변수 오픈소스 의사결정 모델 로, 모델 라우팅과 도구 선택, 실행 전 검증에 활용 가능 사용자가 도시를 말하지 않았는데 날씨 도구를 호출하려 하면, 인자가 실제 대...",
    "publishedAt": 1791358700000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -601,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -615,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -629,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -640,10 +654,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 287,
-   "comments": 387,
+   "comments": 388,
    "publishedAt": 1791255111000,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": false
   },
   {
@@ -657,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -667,11 +681,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 586,
+   "engagement": 587,
    "comments": 283,
    "publishedAt": 1791197226000,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -685,8 +699,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
+  },
+  {
+   "title": "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability",
+   "url": "https://huggingface.co/papers/2610.08448",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 147,
+   "summary": "On-Policy Distillation (OPD) trains a student on its own generations using teacher feedback. With different tokenizers, comparing teacher and student predictions requires alignment at both sequence and vocabulary levels. In this paper, we examine whether expanding this alignment coverage improves le",
+   "publishedAt": 1791230400000,
+   "isAI": true,
+   "score": 38,
+   "hot": false
   },
   {
    "title": "Our approach to EU text provenance rules",
@@ -699,20 +726,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.3,
-   "hot": false
-  },
-  {
-   "title": "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability",
-   "url": "https://huggingface.co/papers/2610.08448",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 146,
-   "summary": "On-Policy Distillation (OPD) trains a student on its own generations using teacher feedback. With different tokenizers, comparing teacher and student predictions requires alignment at both sequence and vocabulary levels. In this paper, we examine whether expanding this alignment coverage improves le",
-   "publishedAt": 1791230400000,
-   "isAI": true,
-   "score": 38.2,
+   "score": 38,
    "hot": false
   },
   {
@@ -726,21 +740,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
-   "hot": true
-  },
-  {
-   "title": "Show GN: 웹 변경 모니터링하는 크롬 확장프로그램",
-   "url": "https://news.hada.io/topic?id=34924",
-   "summary": "긱뉴스는 연령대가 조금 높으셔서 아마 RSS를 많이 쓰실것 같아요. RSS를 지원하는 곳도 많고 요즘은 RSS를 지원하지 않아도 RSS로 바꿔주는 서비스도 많긴 한데 저는 RSS가 익숙한 세대도 아니고 그리고 RSS를 지원하지 않는 사이트들도 변경을 추적하고 싶어서 웹페이지 변경을 추적하는 크롬 확...",
-   "publishedAt": 1791337474000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.9,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -754,7 +754,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -764,12 +764,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 116,
+   "engagement": 117,
    "comments": 66,
    "publishedAt": 1791307200000,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
+  },
+  {
+   "title": "Show GN: 웹 변경 모니터링하는 크롬 확장프로그램",
+   "url": "https://news.hada.io/topic?id=34924",
+   "summary": "긱뉴스는 연령대가 조금 높으셔서 아마 RSS를 많이 쓰실것 같아요. RSS를 지원하는 곳도 많고 요즘은 RSS를 지원하지 않아도 RSS로 바꿔주는 서비스도 많긴 한데 저는 RSS가 익숙한 세대도 아니고 그리고 RSS를 지원하지 않는 사이트들도 변경을 추적하고 싶어서 웹페이지 변경을 추적하는 크롬 확...",
+   "publishedAt": 1791337474000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.5,
+   "hot": true
   },
   {
    "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
@@ -778,11 +792,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 433,
+   "engagement": 434,
    "comments": 306,
    "publishedAt": 1791205345000,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -796,7 +810,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -810,7 +824,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -824,7 +838,7 @@
    "comments": 64,
    "publishedAt": 1791294937000,
    "isAI": false,
-   "score": 37.4,
+   "score": 37,
    "hot": false
   },
   {
@@ -838,7 +852,7 @@
    "comments": 350,
    "publishedAt": 1791187776000,
    "isAI": false,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -852,8 +866,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "질량으로 따지면 지구에서 가장 우세한 종은 무엇일까?",
@@ -866,8 +880,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "파라마운트, 워너브라더스와 약 167조원 규모 합병 완료",
@@ -880,8 +894,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Building advertising for the way people use AI",
@@ -894,7 +908,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -908,7 +922,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -922,7 +936,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -936,7 +950,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -947,10 +961,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 767,
-   "comments": 549,
+   "comments": 551,
    "publishedAt": 1791142945000,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -964,7 +978,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -978,7 +992,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -992,7 +1006,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1006,7 +1020,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1020,7 +1034,7 @@
    "comments": 247,
    "publishedAt": 1791194702000,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1034,21 +1048,7 @@
    "comments": 710,
    "publishedAt": 1791142625000,
    "isAI": false,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "Show GN: Mytory Video Tools - 간단한 영상 작업을 초고속으로 처리하는 FFmpeg GUI",
-   "url": "https://news.hada.io/topic?id=34898",
-   "summary": "영상 작업을 할 때가 많은데 몇 가지가 아쉬웠습니다. mkv를 mp4로 변경하는데 GUI 인코딩 툴들은 컨테이너만 바꾸는 기능을 찾질 못하겠더라고요. 재인코딩을 하면 엄청 오래 걸리지만 컨테이너만 갈아끼우면(즉, Remuxing) 완전 빠른데 말입니다. 물론 내용물이 컨테이너에 호환이 돼야 하지만요. 영",
-   "publishedAt": 1791301569000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.4,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1062,7 +1062,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "Show GN: Mytory Video Tools - 간단한 영상 작업을 초고속으로 처리하는 FFmpeg GUI",
+   "url": "https://news.hada.io/topic?id=34898",
+   "summary": "영상 작업을 할 때가 많은데 몇 가지가 아쉬웠습니다. mkv를 mp4로 변경하는데 GUI 인코딩 툴들은 컨테이너만 바꾸는 기능을 찾질 못하겠더라고요. 재인코딩을 하면 엄청 오래 걸리지만 컨테이너만 갈아끼우면(즉, Remuxing) 완전 빠른데 말입니다. 물론 내용물이 컨테이너에 호환이 돼야 하지만요. 영",
+   "publishedAt": 1791301569000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34,
    "hot": false
   },
   {
@@ -1076,7 +1090,35 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "AI could upend food delivery",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+   "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed star",
+   "publishedAt": 1791374400000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "Google now lets you make games with AI",
+   "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
+   "summary": "Google today announced Playground, a new browser-based platform for making custom games from AI prompts. Playground will be available today in the US for users who are 18 and older at playground.google. The company is pitching it as an \"experimental gaming platform\" that \"lowers the barriers to crea",
+   "publishedAt": 1791374400000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1090,7 +1132,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1104,7 +1146,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1118,7 +1160,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1129,10 +1171,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 245,
-   "comments": 194,
+   "comments": 195,
    "publishedAt": 1791199038000,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1146,7 +1188,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1160,7 +1202,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1174,7 +1216,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1188,77 +1230,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "\"AI가 대신 전화 건다\"…구글 제미나이, 개인 통화 대행 정황 포착",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216041",
-   "summary": "구글이 '제미나이'의 전화 대행 기능을 기업뿐 아니라 친구와 가족 등 개인 통화로 확대할 가능성이 포착됐다. 현재는 식당 예약이나 문의처럼 기업에 전화를 대신 걸어주는 기능에 머물고 있지만, 앞으로는 가족에게 메시지를 전달하거나 약속 여부를 묻는 간단한 통화까지 AI가 대신할 수 있을 전망이다.기술 전문 매체 안드로이드 어소리티는 5일(현지시간) 구글의 최신 제미나이 애플리케이션 업데이트를 분석한 결과 ‘제미나이 콜링(Gemini Calling)’과 관련된 화면을 발견했다고 전했다.현재 제미나이의 ‘콜 포 미(Call for Me)",
-   "publishedAt": 1791363326000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Mirror Particle is building a ‘world model’ of human behavior",
-   "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-   "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-   "publishedAt": 1791304500000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "Francis Halzen, 노벨 물리학상 수상",
-   "url": "https://news.hada.io/topic?id=34885",
-   "summary": "2026년 노벨 물리학상 은 Francis Halzen에게 수여됨 수상 지분은 1/1 로, 단독 수상임 IceCube 중성미자 관측소(IceCube Neutrino Observatory) 에 대한 결정적 기여가 수상 사유에 포함됨 고에너지 중성미자 발견",
-   "publishedAt": 1791286279000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "구글, 온디바이스 ‘임베딩젬마 2’ 공개…텍스트·이미지·음성 통합 처리",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216031",
-   "summary": "구글이 기기 안에서 다양한 형태의 데이터를 연결하고 검색할 수 있는 온디바이스 AI 기술을 확장했다. 대규모 클라우드 모델에 의존하지 않고도 여러 데이터를 빠르게 처리할 수 있도록 경량화한 멀티모달 임베딩 모델을 선보였다.구글은 6일(현지시간) 스마트폰과 PC 같은 소비자 기기에서 직접 실행할 수 있는 경량 멀티모달 임베딩 모델 ‘임베딩젬마 2(EmbeddingGemma 2)’를 공개했다.텍스트뿐 아니라 코드, 이미지, 비디오, 오디오까지 하나의 벡터 공간에서 처리할 수 있도록 확장해 온디바이스 검색과 검색증강생성(RAG) 활용 범",
-   "publishedAt": 1791362449000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "스튜어트 러셀의 경고 \"AI 정렬은 불가능…모방 학습과 RLHF의 한계\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216033",
-   "summary": "AI를 인간의 목표에 맞추는 '정렬(Alignment)'이 사실상 불가능할 수도 있다는 경고가 나왔다. 세계적인 AI 분야 석학이자 대표 교과서 '인공지능: 현대적 접근방식'의 공동 저자인 스튜어트 러셀 캘리포니아대학교 버클리캠퍼스(UC 버클리) 컴퓨터과학과 교수가 현재 방식의 LLM 정렬 연구가 근본적인 한계에 부딪혔으며, 인간의 목표에 AI를 완벽히 일치시키는 것은 구조적으로 불가능할 수 있다고 밝혔다.러셀 교수는 5일(현지시간) 공개된 디 인포메이션의 팟캐스트에 출연, 빅테크 기업들이 추진하는 현재의 LLM 중심 AI 개발 전",
-   "publishedAt": 1791362100000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1272,7 +1244,77 @@
    "comments": 136,
    "publishedAt": 1791139757000,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "Mirror Particle is building a ‘world model’ of human behavior",
+   "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+   "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+   "publishedAt": 1791304500000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "Francis Halzen, 노벨 물리학상 수상",
+   "url": "https://news.hada.io/topic?id=34885",
+   "summary": "2026년 노벨 물리학상 은 Francis Halzen에게 수여됨 수상 지분은 1/1 로, 단독 수상임 IceCube 중성미자 관측소(IceCube Neutrino Observatory) 에 대한 결정적 기여가 수상 사유에 포함됨 고에너지 중성미자 발견",
+   "publishedAt": 1791286279000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "\"AI가 대신 전화 건다\"…구글 제미나이, 개인 통화 대행 정황 포착",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216041",
+   "summary": "구글이 '제미나이'의 전화 대행 기능을 기업뿐 아니라 친구와 가족 등 개인 통화로 확대할 가능성이 포착됐다. 현재는 식당 예약이나 문의처럼 기업에 전화를 대신 걸어주는 기능에 머물고 있지만, 앞으로는 가족에게 메시지를 전달하거나 약속 여부를 묻는 간단한 통화까지 AI가 대신할 수 있을 전망이다.기술 전문 매체 안드로이드 어소리티는 5일(현지시간) 구글의 최신 제미나이 애플리케이션 업데이트를 분석한 결과 ‘제미나이 콜링(Gemini Calling)’과 관련된 화면을 발견했다고 전했다.현재 제미나이의 ‘콜 포 미(Call for Me)",
+   "publishedAt": 1791363326000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "구글, 온디바이스 ‘임베딩젬마 2’ 공개…텍스트·이미지·음성 통합 처리",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216031",
+   "summary": "구글이 기기 안에서 다양한 형태의 데이터를 연결하고 검색할 수 있는 온디바이스 AI 기술을 확장했다. 대규모 클라우드 모델에 의존하지 않고도 여러 데이터를 빠르게 처리할 수 있도록 경량화한 멀티모달 임베딩 모델을 선보였다.구글은 6일(현지시간) 스마트폰과 PC 같은 소비자 기기에서 직접 실행할 수 있는 경량 멀티모달 임베딩 모델 ‘임베딩젬마 2(EmbeddingGemma 2)’를 공개했다.텍스트뿐 아니라 코드, 이미지, 비디오, 오디오까지 하나의 벡터 공간에서 처리할 수 있도록 확장해 온디바이스 검색과 검색증강생성(RAG) 활용 범",
+   "publishedAt": 1791362449000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "스튜어트 러셀의 경고 \"AI 정렬은 불가능…모방 학습과 RLHF의 한계\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216033",
+   "summary": "AI를 인간의 목표에 맞추는 '정렬(Alignment)'이 사실상 불가능할 수도 있다는 경고가 나왔다. 세계적인 AI 분야 석학이자 대표 교과서 '인공지능: 현대적 접근방식'의 공동 저자인 스튜어트 러셀 캘리포니아대학교 버클리캠퍼스(UC 버클리) 컴퓨터과학과 교수가 현재 방식의 LLM 정렬 연구가 근본적인 한계에 부딪혔으며, 인간의 목표에 AI를 완벽히 일치시키는 것은 구조적으로 불가능할 수 있다고 밝혔다.러셀 교수는 5일(현지시간) 공개된 디 인포메이션의 팟캐스트에 출연, 빅테크 기업들이 추진하는 현재의 LLM 중심 AI 개발 전",
+   "publishedAt": 1791362100000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1286,91 +1328,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, 스타트업 지원 프로그램 확대...초기 고객 선점 속도",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216029",
-   "summary": "앤트로픽이 초기 스타트업을 대상으로 한 AI 지원 프로그램을 확대한다. 개발 비용 부담을 낮춰주는 동시에 창업 초기부터 자사 AI 모델과 서비스를 사용하도록 유도해 스타트업 생태계를 선점하려는 전략이다.앤트로픽은 6일(현지시간) 스타트업 지원 프로그램 ‘클로드 포 스타트업(Claude for Startups)’을 확대한다고 밝혔다. 지난 5월 시작한 프로그램에는 이미 수천개 기업이 참여하고 있으며, 이번 개편을 통해 지원 대상과 혜택을 늘린다.가장 큰 혜택은 기업용 협업 서비스 ‘클로드 팀(Claude Team)’이다. 자격을 갖춘",
-   "publishedAt": 1791361344000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-   "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-   "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-   "publishedAt": 1791302400000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "Show GN: HOWBIG - 돈 관리부터 투자 판단까지 문제를 풀며 배우는 금융학습 서비스",
-   "url": "https://news.hada.io/topic?id=34884",
-   "summary": "안녕하세요. 금융학습 서비스 HOWBIG을 만들었습니다. 돈 관리부터 경제, 투자상품, 기업분석, 포트폴리오까지 순서대로 배울 수 있도록 구성했습니다. 저축 비율을 계산하거나 기업의 매출과 이익을 비교하는 등, 주어진 자료를 읽고 직접 판단하는 문제로 학습합니다. 학습은 다음과 같이 진행됩니다",
-   "publishedAt": 1791283969000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "AMD, 연내 국내 'AI 연구센터' 설립...정부와 메가프로젝트 협력 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216042",
-   "summary": "리사 수 AMD 회장이 지난 3월에 이어 7개월 만에 한국을 다시 찾아 정부와 AI 인프라 및 공동 연구를 위한 실질적 협력을 대폭 확대하기로 했다.과학기술정보통신부(장관 배경훈)는 7일 서울 포시즌스 호텔에서 리사 수 AMD 회장과 류제명 과기정통부 제2차관이 회동을 가졌다고 밝혔다. 이번 면담에서는 지난 9월 체결된 협약을 바탕으로 연내 국내에 들어설 아시아 첫 연구 거점인 'AMD AI 우수 연구센터(CoE)'의 설립 추진 현황과 세부 운영 계획이 종합 점검됐다.정부 지원과 연계해 지정되는 AMD AI 우수 연구센터는 연내 개",
-   "publishedAt": 1791360556000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "[게시판] SKT, 독파모 'A.X K2'로 순우리말 선정·글꼴 제작 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216043",
-   "summary": "■ SK텔레콤(대표 정재헌)은 국립국어원, 국립한글박물관과 함께 한글날 제정 100주년 기념 캠페인 '2026 말모이'를 전개한다고 밝혔다. SKT는 우리말 사전 원고 '말모이'의 스캔본과 표준국어대사전, 우리말샘의 고유어를 자체 AI 파운데이션 모델 'A.X K2'로 분석해 글꼴 '말모이체'를 제작한다. 여기에 국립국어원의 검수를 거친 'AI가 모은 아름다운 순우리말 100선'도 배포한다.■ 아이에이치더블유(iHW, 대표 김태훈)는 방산 전문기업 큐니온, 임베디드 AI 플랫폼 기업 큐니웍스와 국방용 저전력 AI 기술 공동 연구개발",
-   "publishedAt": 1791360000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "하크, '스마트폰 대체' AI 에이전트 공개...2027년 전용 기기 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216039",
-   "summary": "휴머노이드 로봇 전문 피규어 AI의 브렛 애드콕이 설립한 스마트폰 대체용 AI 하드웨어 스타트업 하크(Hark)가 내년 하드웨어 출시를 앞두고 능동적으로 작업을 수행하는 AI 에이전트 ‘하크 프로(Hark Pro)’를 공개했다. 사용자의 지시를 기다리는 데 그치지 않고 이메일과 일정 등을 바탕으로 해야 할 일을 찾아 직접 처리하는 것이 특징이다.하크는 6일(현지시간) 하크 프로를 웹과 iOS·안드로이드 앱으로 공개했다. 무료로 사용할 수 있으며, 월 20달러 요금제는 기본 사용량의 2배, 100달러 요금제는 10배의 사용량을 제공한",
-   "publishedAt": 1791359999000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1384,22 +1342,64 @@
    "comments": 817,
    "publishedAt": 1791035194000,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false,
    "lastWeekRank": 3
   },
   {
-   "title": "구글, AI 데이터센터 전력 확보 위해 3.6GW 규모 원전 계약 체결",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216038",
-   "summary": "구글이 AI 데이터센터 확대에 필요한 원전 전력을 확보하기 위해 미국 최대 전력망에서 컨스텔레이션 에너지와 3.59기가와트(GW) 규모의 원전 전력 공급 계약을 체결했다. 전체 계약 물량의 약 4분의 1은 기존 원전의 발전 용량을 늘려 새롭게 확보한다.구글은 6일(현지시간) 이번 계약에 따라 컨스텔레이션이 일리노이, 펜실베이니아, 뉴저지 등에 있는 원전 11기의 설비를 개선하고 43억달러(약 5조8000억원) 이상을 투자한다고 밝혔다.먼저 컨스텔레이션이 보유한 여러 원전에서 890메가와트(MW)의 전력을 공급받는 20년짜리 전력구매",
-   "publishedAt": 1791359400000,
+   "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+   "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+   "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+   "publishedAt": 1791302400000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "Show GN: HOWBIG - 돈 관리부터 투자 판단까지 문제를 풀며 배우는 금융학습 서비스",
+   "url": "https://news.hada.io/topic?id=34884",
+   "summary": "안녕하세요. 금융학습 서비스 HOWBIG을 만들었습니다. 돈 관리부터 경제, 투자상품, 기업분석, 포트폴리오까지 순서대로 배울 수 있도록 구성했습니다. 저축 비율을 계산하거나 기업의 매출과 이익을 비교하는 등, 주어진 자료를 읽고 직접 판단하는 문제로 학습합니다. 학습은 다음과 같이 진행됩니다",
+   "publishedAt": 1791283969000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, 스타트업 지원 프로그램 확대...초기 고객 선점 속도",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216029",
+   "summary": "앤트로픽이 초기 스타트업을 대상으로 한 AI 지원 프로그램을 확대한다. 개발 비용 부담을 낮춰주는 동시에 창업 초기부터 자사 AI 모델과 서비스를 사용하도록 유도해 스타트업 생태계를 선점하려는 전략이다.앤트로픽은 6일(현지시간) 스타트업 지원 프로그램 ‘클로드 포 스타트업(Claude for Startups)’을 확대한다고 밝혔다. 지난 5월 시작한 프로그램에는 이미 수천개 기업이 참여하고 있으며, 이번 개편을 통해 지원 대상과 혜택을 늘린다.가장 큰 혜택은 기업용 협업 서비스 ‘클로드 팀(Claude Team)’이다. 자격을 갖춘",
+   "publishedAt": 1791361344000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "AMD, 연내 국내 'AI 연구센터' 설립...정부와 메가프로젝트 협력 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216042",
+   "summary": "리사 수 AMD 회장이 지난 3월에 이어 7개월 만에 한국을 다시 찾아 정부와 AI 인프라 및 공동 연구를 위한 실질적 협력을 대폭 확대하기로 했다.과학기술정보통신부(장관 배경훈)는 7일 서울 포시즌스 호텔에서 리사 수 AMD 회장과 류제명 과기정통부 제2차관이 회동을 가졌다고 밝혔다. 이번 면담에서는 지난 9월 체결된 협약을 바탕으로 연내 국내에 들어설 아시아 첫 연구 거점인 'AMD AI 우수 연구센터(CoE)'의 설립 추진 현황과 세부 운영 계획이 종합 점검됐다.정부 지원과 연계해 지정되는 AMD AI 우수 연구센터는 연내 개",
+   "publishedAt": 1791360556000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.5,
    "hot": false
   }
  ]
