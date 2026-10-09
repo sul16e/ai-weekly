@@ -1,5 +1,5 @@
 {
- "updatedAt": 1791546244394,
+ "updatedAt": 1791549903800,
  "week": "2026-W41",
  "items": [
   {
@@ -13,7 +13,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 55.1,
+   "score": 54.6,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 399,
-   "comments": 266,
+   "engagement": 405,
+   "comments": 277,
    "publishedAt": 1791477958000,
    "isAI": true,
-   "score": 53.8,
+   "score": 53.3,
    "hot": true
   },
   {
@@ -37,12 +37,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 881,
-   "comments": 1502,
+   "engagement": 887,
+   "comments": 1506,
    "publishedAt": 1791472500000,
    "isAI": false,
-   "score": 52.6,
+   "score": 52.2,
    "hot": true
+  },
+  {
+   "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+   "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50018817",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 104,
+   "comments": 36,
+   "publishedAt": 1791543828000,
+   "isAI": true,
+   "score": 51.5,
+   "hot": false
   },
   {
    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
@@ -51,12 +65,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 823,
-   "comments": 731,
+   "engagement": 847,
+   "comments": 761,
    "publishedAt": 1791418488000,
    "isAI": true,
-   "score": 51.2,
+   "score": 51,
    "hot": false
+  },
+  {
+   "title": "OpenAI, 분할 원리, 그리고 수학",
+   "url": "https://news.hada.io/topic?id=35064",
+   "summary": "OpenAI가 분할 원리(Partition Principle)가 선택 공리를 함의하지 않는다 는 결과를 발표했지만, 선택 공리를 15년 넘게 연구한 Asaf Karagila는 공개된 프리프린트만으로는 연구 전략과 구성을 파악하기 어렵다고 비판함 핵심 문제는 수학적 소통의 품질 로, Karag...",
+   "publishedAt": 1791549451000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
+  },
+  {
+   "title": "Jev, GTM용 의사결정 AI에 관해 알아야 할 것",
+   "url": "https://news.hada.io/topic?id=35063",
+   "summary": "Jev 는 텍스트와 미리 정한 판단 기준을 받아 분류, 점수, 예/아니오 확률을 반환하는 모델임. 글을 생성하는 대신 GTM 업무의 반복적인 판단을 처리함 타입이 정해진 응답 과 선택지별 확률, 신뢰도를 제공하며, 한 API 요청의 여러 질문을 각각 병렬로 처리함. LLM...",
+   "publishedAt": 1791548611000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.8,
+   "hot": true
   },
   {
    "title": "Claude Haiku 5.5",
@@ -69,7 +111,35 @@
    "comments": 485,
    "publishedAt": 1791396092000,
    "isAI": true,
-   "score": 50.2,
+   "score": 49.7,
+   "hot": false
+  },
+  {
+   "title": "Claude Startups 프로그램, 모든 신청서 재검토 예정",
+   "url": "https://news.hada.io/topic?id=35062",
+   "summary": "Anthropic이 Claude Startups 공식 페이지 FAQ에 공지를 추가했습니다. 지난 며칠간 신청서가 수십만 건 접수됨 Claude Team 1년 무료 이용권과 $1,000 API 크레딧은 현재 제공 한도를 초과한 상태 모든 신청서를 재검토하며, 일부 신청서의 상태가 바뀔 수 있음 이미 혜택을",
+   "publishedAt": 1791548067000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
+   "hot": true
+  },
+  {
+   "title": "OpenAI, the Partition Principle, and Mathematics",
+   "url": "https://karagila.org/2026/openai-pp/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50013902",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 141,
+   "comments": 219,
+   "publishedAt": 1791502183000,
+   "isAI": true,
+   "score": 48.2,
    "hot": false
   },
   {
@@ -79,11 +149,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 340,
+   "engagement": 341,
    "comments": 3,
    "publishedAt": 1791446917000,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": false
   },
   {
@@ -97,22 +167,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
-  },
-  {
-   "title": "OpenAI, the Partition Principle, and Mathematics",
-   "url": "https://karagila.org/2026/openai-pp/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50013902",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 133,
-   "comments": 201,
-   "publishedAt": 1791502183000,
-   "isAI": true,
-   "score": 48.2,
-   "hot": false
   },
   {
    "title": "GPT‑6 and Intelligent UI for everyone",
@@ -122,10 +178,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 749,
-   "comments": 455,
+   "comments": 456,
    "publishedAt": 1791396058000,
    "isAI": true,
-   "score": 48,
+   "score": 47.7,
+   "hot": false
+  },
+  {
+   "title": "OpenAI withdraws three mathematical results",
+   "url": "https://twitter.com/danintheory/status/2108065033070789090",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50002650",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 334,
+   "comments": 583,
+   "publishedAt": 1791443140000,
+   "isAI": true,
+   "score": 47.4,
    "hot": false
   },
   {
@@ -139,22 +209,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
-  },
-  {
-   "title": "OpenAI withdraws three mathematical results",
-   "url": "https://twitter.com/danintheory/status/2108065033070789090",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50002650",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 327,
-   "comments": 580,
-   "publishedAt": 1791443140000,
-   "isAI": true,
-   "score": 47.7,
-   "hot": false
   },
   {
    "title": "AI-ready biological data: $1.8B global commitment",
@@ -163,11 +219,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 131,
-   "comments": 18,
+   "engagement": 133,
+   "comments": 19,
    "publishedAt": 1791492385000,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.5,
    "hot": false
   },
   {
@@ -177,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 179,
-   "comments": 138,
+   "engagement": 185,
+   "comments": 147,
    "publishedAt": 1791523378000,
    "isAI": false,
-   "score": 46.4,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -195,7 +251,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.4,
+   "hot": true
+  },
+  {
+   "title": "Keyboard differences between Windows and Macs",
+   "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50015515",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 189,
+   "comments": 165,
+   "publishedAt": 1791515285000,
+   "isAI": false,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -209,22 +279,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": false
   },
   {
-   "title": "Keyboard differences between Windows and Macs",
-   "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50015515",
+   "title": "Sharing AI progress in mathematics",
+   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49984923",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 179,
-   "comments": 156,
-   "publishedAt": 1791515285000,
-   "isAI": false,
-   "score": 45.3,
-   "hot": true
+   "engagement": 1329,
+   "comments": 1512,
+   "publishedAt": 1791325041000,
+   "isAI": true,
+   "score": 44.5,
+   "hot": false
   },
   {
    "title": "시스템으로 사고하고, 반복 루프로 출시하기",
@@ -237,22 +307,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.4,
    "hot": true
-  },
-  {
-   "title": "Sharing AI progress in mathematics",
-   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49984923",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1328,
-   "comments": 1511,
-   "publishedAt": 1791325041000,
-   "isAI": true,
-   "score": 44.8,
-   "hot": false
   },
   {
    "title": "AI는 디자인을 어떻게 바꾸고 있는가?",
@@ -265,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -279,8 +335,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.3,
    "hot": true
+  },
+  {
+   "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+   "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50002665",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 211,
+   "comments": 100,
+   "publishedAt": 1791443254000,
+   "isAI": true,
+   "score": 44.2,
+   "hot": false
   },
   {
    "title": "Mistral Large 4",
@@ -293,21 +363,7 @@
    "comments": 1210,
    "publishedAt": 1791292549000,
    "isAI": true,
-   "score": 44.5,
-   "hot": false
-  },
-  {
-   "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-   "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50002665",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 203,
-   "comments": 88,
-   "publishedAt": 1791443254000,
-   "isAI": true,
-   "score": 44.3,
+   "score": 44.2,
    "hot": false
   },
   {
@@ -321,8 +377,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.2,
-   "hot": true
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
@@ -331,11 +387,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 369,
+   "engagement": 370,
    "comments": 381,
    "publishedAt": 1791398980000,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -349,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -363,8 +419,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.3,
    "hot": false
+  },
+  {
+   "title": "Diamantina Zone의 530만 년 된 심해 고래 무덤",
+   "url": "https://news.hada.io/topic?id=35065",
+   "summary": "인도양 남동부 Diamantina Zone 에서 약 1,200km에 걸친 고래 사체와 화석 집적지를 발견했으며, 현재 생물 군집이 활동하는 고래 낙하 지점 5곳과 고래류 화석 476개체를 기록함 수심 6,789m 의 고래 사체에서 활동 중인 생태계를 확인해, 알려진 고래 낙하 생태계의...",
+   "publishedAt": 1791549631000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 42,
+   "hot": true
   },
   {
    "title": "OpenAI 연환산 매출, 앞서 시사한 수준보다 200억 달러 적어",
@@ -377,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -391,7 +461,35 @@
    "comments": 141,
    "publishedAt": 1791395318000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.8,
+   "hot": false
+  },
+  {
+   "title": "Rust 오류 처리에 빠진 한 조각",
+   "url": "https://news.hada.io/topic?id=35061",
+   "summary": "Rust 오류 처리에서 정확한 오류 타입 과 간편한 전파를 양립하려면, 함수처럼 오류 타입도 쉽게 조합하고 처리한 오류는 타입에서 제거할 수 있어야 함 eros 는 가능한 오류를 튜플 형태의 집합으로 표현하며, 새 enum이나 변환 코드를 선언하지 않고도 오류 집합을...",
+   "publishedAt": 1791547358000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
+  },
+  {
+   "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+   "url": "https://bigwords.page/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49994443",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 703,
+   "comments": 162,
+   "publishedAt": 1791387861000,
+   "isAI": false,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -405,27 +503,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.1,
    "hot": false
   },
   {
-   "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-   "url": "https://bigwords.page/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49994443",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 703,
-   "comments": 162,
-   "publishedAt": 1791387861000,
-   "isAI": false,
-   "score": 41.5,
-   "hot": false
-  },
-  {
-   "title": "Windows와 Mac의 키보드 차이",
+   "title": "Windows와 Mac의 키보드 차이 - Ctrl을 Command로 바꾸는 것만으로는 부족하다",
    "url": "https://news.hada.io/topic?id=35060",
-   "summary": "같은 코드베이스로 두 플랫폼을 지원하는 웹 앱도 키 이름, 보조 키, 텍스트 편집과 탐색 동작 의 차이를 고려해야 함 Windows의 Ctrl 중심 단축키는 Mac에서 대체로 Command 에 대응하지만, Mac에는 별도의 Control 키와 이를 활용하는 텍스트 편집 단축키도 있음...",
+   "summary": "같은 코드베이스로 Windows와 Mac을 지원하는 웹 앱도 키 이름, 보조 키, 문자 입력과 커서 이동 관행 의 차이를 고려해야 함 Windows의 Ctrl 중심 단축키는 Mac에서 대체로 Command 에 대응하지만, Mac의 별도 Control 키는 텍스트 편집과 다른 단축키에 사용됨",
    "publishedAt": 1791542090000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -433,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41,
    "hot": true
   },
   {
@@ -447,7 +531,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -461,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -475,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -489,7 +573,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -503,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -517,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
@@ -531,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -545,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -559,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -573,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -587,7 +671,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
+   "hot": false
+  },
+  {
+   "title": "Animated ASCII Art for Web Pages",
+   "url": "https://ascii.rest/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49993857",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 455,
+   "comments": 75,
+   "publishedAt": 1791385537000,
+   "isAI": false,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -601,22 +699,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
-  },
-  {
-   "title": "Animated ASCII Art for Web Pages",
-   "url": "https://ascii.rest/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49993857",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 455,
-   "comments": 75,
-   "publishedAt": 1791385537000,
-   "isAI": false,
-   "score": 38.5,
-   "hot": false
   },
   {
    "title": "DuckLake - SQL과 Parquet 기반의 데이터 레이크하우스 형식",
@@ -629,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -643,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -657,7 +741,7 @@
    "comments": 210,
    "publishedAt": 1791420360000,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -671,49 +755,7 @@
    "comments": 68,
    "publishedAt": 1791441695000,
    "isAI": false,
-   "score": 37.6,
-   "hot": false
-  },
-  {
-   "title": "5년 계획을 세우지 말고, 대신 이렇게 하라",
-   "url": "https://news.hada.io/topic?id=35040",
-   "summary": "5년 뒤의 모습을 정하기보다, 그때 선택할 수 있는 길을 넓혀야 함 . 지금 가진 경험만으로 미래를 계획하면 기존 경력의 조금 다른 버전만 떠올리기 쉬움 새로운 역량을 배우고, 사람을 만나고, 다른 환경에 들어가면 이전에는 상상하지 못했던 진로와 기회가 열림...",
-   "publishedAt": 1791507302000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.5,
-   "hot": true
-  },
-  {
-   "title": "Google Playground - 코딩 없이 AI와 대화로 게임을 만들고 공유하는 플랫폼",
-   "url": "https://news.hada.io/topic?id=35000",
-   "summary": "Google이 코딩 없이 텍스트 프롬프트로 게임을 제작·플레이·공유하는 실험적 플랫폼 Playground 를 출시함 원하는 게임을 대화로 만든 뒤 바로 플레이하고 수정 할 수 있으며, 물리 동작·규칙·캐릭터·배경도 요청으로 변경 가능 ...",
-   "publishedAt": 1791441537000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.5,
-   "hot": false
-  },
-  {
-   "title": "테렌스 타오: AI가 수학 문제를 푸는 것만으로는 충분하지 않다",
-   "url": "https://news.hada.io/topic?id=34999",
-   "summary": "수학의 발전은 미해결 문제를 푸는 데서 끝나지 않음 . 증명을 이해하고 다듬는 강연·워크숍·협업을 거쳐 새로운 연구와 다음 세대의 지식으로 이어짐 AI로 문제를 푼 뒤 결과를 충분히 이해하지 못하거나 해당 분야에 관심을 두지 않는 사례 가 늘면서, 해답에 뒤따...",
-   "publishedAt": 1791441357000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.5,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -727,21 +769,21 @@
    "comments": 5,
    "publishedAt": 1791293150000,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.2,
    "hot": false
   },
   {
-   "title": "일주기 리듬 장애로서의 ADHD: 근거와 시간치료의 시사점(2025)",
-   "url": "https://news.hada.io/topic?id=35039",
-   "summary": "ADHD 환자의 상당수에서 일주기 리듬 지연 이 나타나며, 이를 조절하는 치료가 표준 ADHD 치료의 보완 수단이 될 수 있음. 다만 모든 환자에게 해당하지 않으며, 증상과의 관계는 복잡하고 양방향적임 불면과 수면 장애는 ADHD 성인의 최대 80% , 아동의 최대",
-   "publishedAt": 1791506348000,
+   "title": "5년 계획을 세우지 말고, 대신 이렇게 하라",
+   "url": "https://news.hada.io/topic?id=35040",
+   "summary": "5년 뒤의 모습을 정하기보다, 그때 선택할 수 있는 길을 넓혀야 함 . 지금 가진 경험만으로 미래를 계획하면 기존 경력의 조금 다른 버전만 떠올리기 쉬움 새로운 역량을 배우고, 사람을 만나고, 다른 환경에 들어가면 이전에는 상상하지 못했던 진로와 기회가 열림...",
+   "publishedAt": 1791507302000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -755,7 +797,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
+   "hot": false
+  },
+  {
+   "title": "일주기 리듬 장애로서의 ADHD: 근거와 시간치료의 시사점(2025)",
+   "url": "https://news.hada.io/topic?id=35039",
+   "summary": "ADHD 환자의 상당수에서 일주기 리듬 지연 이 나타나며, 이를 조절하는 치료가 표준 ADHD 치료의 보완 수단이 될 수 있음. 다만 모든 환자에게 해당하지 않으며, 증상과의 관계는 복잡하고 양방향적임 불면과 수면 장애는 ADHD 성인의 최대 80% , 아동의 최대",
+   "publishedAt": 1791506348000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37,
    "hot": false
   },
   {
@@ -769,8 +825,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "US suspends Microsoft, major IT firms from key green card program",
@@ -783,7 +839,7 @@
    "comments": 2,
    "publishedAt": 1791473080000,
    "isAI": false,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -797,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -811,7 +867,20 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
+   "hot": false
+  },
+  {
+   "title": "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?",
+   "url": "https://huggingface.co/papers/2610.08215",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 109,
+   "summary": "Learning from experience is essential for LLM agents to adapt to unfamiliar and dynmaic environments. Evaluating this ability is therefore important for understanding how effectively agents acquire and use new knowledge. Existing benchmarks have sought to evaluate this ability, but they primarily ev",
+   "publishedAt": 1791403200000,
+   "isAI": true,
+   "score": 36,
    "hot": false
   },
   {
@@ -825,20 +894,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?",
-   "url": "https://huggingface.co/papers/2610.08215",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 108,
-   "summary": "Learning from experience is essential for LLM agents to adapt to unfamiliar and dynmaic environments. Evaluating this ability is therefore important for understanding how effectively agents acquire and use new knowledge. Existing benchmarks have sought to evaluate this ability, but they primarily ev",
-   "publishedAt": 1791403200000,
-   "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -848,11 +904,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 152,
+   "engagement": 155,
    "comments": 140,
    "publishedAt": 1791440965000,
    "isAI": false,
-   "score": 36,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -866,21 +922,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
-   "title": "스마트 커피 머신, 열흘간 트래픽 1TB 발생 - 대부분 집 안 네트워크 통신",
-   "url": "https://news.hada.io/topic?id=35029",
-   "summary": "부모님 집의 네트워크를 관리하다가 Keurig 스마트 커피 머신에서 열흘간 약 1TB의 트래픽 이 발생한 것을 발견함 처음에는 대규모 업로드에 놀랐지만, 추가 확인 결과 트래픽 대부분은 외부 인터넷으로 나가지 않고 집 안 네트워크에 머물렀음 외부 전송량...",
-   "publishedAt": 1791491642000,
-   "source": "GeekNews",
+   "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+   "url": "https://github.com/FeSens/openTPU",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49980715",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.9,
+   "lang": "en",
+   "engagement": 343,
+   "comments": 401,
+   "publishedAt": 1791303805000,
+   "isAI": true,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -894,21 +950,21 @@
    "comments": 148,
    "publishedAt": 1791378506000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
-   "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-   "url": "https://github.com/FeSens/openTPU",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49980715",
-   "source": "Hacker News",
+   "title": "스마트 커피 머신, 열흘간 트래픽 1TB 발생 - 대부분 집 안 네트워크 통신",
+   "url": "https://news.hada.io/topic?id=35029",
+   "summary": "부모님 집의 네트워크를 관리하다가 Keurig 스마트 커피 머신에서 열흘간 약 1TB의 트래픽 이 발생한 것을 발견함 처음에는 대규모 업로드에 놀랐지만, 추가 확인 결과 트래픽 대부분은 외부 인터넷으로 나가지 않고 집 안 네트워크에 머물렀음 외부 전송량...",
+   "publishedAt": 1791491642000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 343,
-   "comments": 400,
-   "publishedAt": 1791303805000,
-   "isAI": true,
-   "score": 35.8,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -922,49 +978,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "Anne Carson, 2026년 노벨문학상 수상",
-   "url": "https://news.hada.io/topic?id=35026",
-   "summary": "캐나다 시인이자 에세이스트 Anne Carson 이 2026년 노벨문학상 수상자로 선정됨. 스웨덴 한림원은 고전 전통과의 유희적 대화를 통해 현대 문학의 새로운 형식을 창조한 작품 세계를 높이 평가함 시, 산문, 번역의 경계를 넘나드는 작업 이 특징이며, 고대 그리스 문...",
-   "publishedAt": 1791484712000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "4시간 배터리 저장장치, 전 세계에서 가스터빈보다 설치 비용 저렴해져",
-   "url": "https://news.hada.io/topic?id=35025",
-   "summary": "Wood Mackenzie의 균등화발전비용(LCOE) 분석에서 4시간 배터리 저장장치가 두 기술을 함께 모델링한 43개 시장 모두에서 개방형 사이클 가스터빈보다 저렴 해짐 가스터빈 공급 부족과 연료 가격 변동성 은 피크 수요 대응 발전 비용을 높이는 반면...",
-   "publishedAt": 1791484532000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "AI-assisted proof of optimal packing for 11 squares",
-   "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49993121",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 117,
-   "comments": 54,
-   "publishedAt": 1791382255000,
-   "isAI": true,
-   "score": 35.1,
    "hot": false
   },
   {
@@ -978,7 +992,49 @@
    "comments": 185,
    "publishedAt": 1791323983000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "Anne Carson, 2026년 노벨문학상 수상",
+   "url": "https://news.hada.io/topic?id=35026",
+   "summary": "캐나다 시인이자 에세이스트 Anne Carson 이 2026년 노벨문학상 수상자로 선정됨. 스웨덴 한림원은 고전 전통과의 유희적 대화를 통해 현대 문학의 새로운 형식을 창조한 작품 세계를 높이 평가함 시, 산문, 번역의 경계를 넘나드는 작업 이 특징이며, 고대 그리스 문...",
+   "publishedAt": 1791484712000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "4시간 배터리 저장장치, 전 세계에서 가스터빈보다 설치 비용 저렴해져",
+   "url": "https://news.hada.io/topic?id=35025",
+   "summary": "Wood Mackenzie의 균등화발전비용(LCOE) 분석에서 4시간 배터리 저장장치가 두 기술을 함께 모델링한 43개 시장 모두에서 개방형 사이클 가스터빈보다 저렴 해짐 가스터빈 공급 부족과 연료 가격 변동성 은 피크 수요 대응 발전 비용을 높이는 반면...",
+   "publishedAt": 1791484532000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "AI-assisted proof of optimal packing for 11 squares",
+   "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49993121",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 118,
+   "comments": 54,
+   "publishedAt": 1791382255000,
+   "isAI": true,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -987,25 +1043,11 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 88,
+   "engagement": 91,
    "summary": "Large language model (LLM) routing distributes inference work across different models, advancing the cost-quality Pareto frontier of LLM serving. While coarse-grained routing at the session or query level has been widely adopted in production systems, recent algorithmic work shows that fine-grained ",
    "publishedAt": 1791403200000,
    "isAI": true,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "DVD 메뉴의 아름다움 - 재생 화면을 넘어 영화 속 세계로",
-   "url": "https://news.hada.io/topic?id=35023",
-   "summary": "2000년대의 DVD 메뉴 는 단순한 재생 화면을 넘어, 작품 속 공간과 전용 애니메이션, 숨겨진 콘텐츠와 게임으로 영화 감상의 재미를 확장함 《스쿠비 두 2》는 메뉴 곳곳에서 단서를 찾는 게임을, 《해리 포터와 아즈카반의 죄수》는 달리는 버스와 신문을 본뜬 메뉴를, 《슈렉 2》는...",
-   "publishedAt": 1791481028000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.9,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1019,7 +1061,21 @@
    "comments": 153,
    "publishedAt": 1791309634000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
+   "hot": false
+  },
+  {
+   "title": "DVD 메뉴의 아름다움 - 재생 화면을 넘어 영화 속 세계로",
+   "url": "https://news.hada.io/topic?id=35023",
+   "summary": "2000년대의 DVD 메뉴 는 단순한 재생 화면을 넘어, 작품 속 공간과 전용 애니메이션, 숨겨진 콘텐츠와 게임으로 영화 감상의 재미를 확장함 《스쿠비 두 2》는 메뉴 곳곳에서 단서를 찾는 게임을, 《해리 포터와 아즈카반의 죄수》는 달리는 버스와 신문을 본뜬 메뉴를, 《슈렉 2》는...",
+   "publishedAt": 1791481028000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1033,7 +1089,7 @@
    "comments": 341,
    "publishedAt": 1791312841000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1047,7 +1103,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1061,7 +1117,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1075,7 +1131,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1089,35 +1145,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
-   "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-   "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-   "publishedAt": 1791489866000,
-   "source": "TechCrunch AI",
+   "title": "앤트로픽 '클로드 사이언스', 인류 최초 자외선 전체 하늘 지도 완성",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216106",
+   "summary": "앤트로픽이 '클로드 사이언스(Claude Science)'를 활용해 그동안 관측 공백으로 남아있던 우주의 자외선 영역을 모두 채운 최초의 완벽한 자외선 전천(All-Sky) 지도를 8일(현지시간) 공개했다. 존스홉킨스대학교 천체물리학자이자 앤트로픽 연구원인 브리스 메나르 교수가 이끈 이번 프로젝트는 대규모 과학 데이터를 자율 처리하는 연구용 AI 에이전트 시스템의 가능성을 입증한 대표적 사례로 평가받는다.자외선은 지구 대기의 오존층에 흡수되기 때문에 우주 망원경을 통해서만 관측할 수 있다. 하지만 2003년부터 2013년까지 운용된",
+   "publishedAt": 1791549410000,
+   "source": "AI타임스",
    "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "빈과 베이징에서 가동을 시작한 최초의 (thorium) nuclear clocks",
-   "url": "https://news.hada.io/topic?id=35015",
-   "summary": "빈과 베이징에서 가동을 시작한 최초의 (thorium) nuclear clocks",
-   "publishedAt": 1791470905000,
-   "source": "GeekNews",
-   "sourceType": "community",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1131,7 +1173,49 @@
    "comments": 674,
    "publishedAt": 1791178660000,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+   "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+   "publishedAt": 1791489866000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 연구원 해고 논란 해명...\"안전 제기 보복 아닌 보안 위반\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216105",
+   "summary": "오픈AI가 최근 안전 분야 연구원 3명을 해고한 조치에 대해 내부 반발이나 보복성 인사가 아닌 명확한 보안 정책 위반 때문이라는 공식 입장을 밝혔다. 해고된 연구진이 회사 측 조치의 부당함을 지적하는 공개서한을 내며 내부 분위기가 경색되자, 직접 진화에 나선 모습이다.오픈AI는 9일(현지시간) X를 통해 공식 성명을 내고 해명에 나섰다. \"이번 결정은 안전 문제 제기나 발언에 대한 반발 때문이 아니었다\"며 \"철저한 조사 결과 민감한 정보 처리와 관련된 명확한 정책을 위반한 사실이 확인돼 계약을 종료했다\"고 응수했다.오픈AI는 \"이들",
+   "publishedAt": 1791547129000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "빈과 베이징에서 가동을 시작한 최초의 (thorium) nuclear clocks",
+   "url": "https://news.hada.io/topic?id=35015",
+   "summary": "빈과 베이징에서 가동을 시작한 최초의 (thorium) nuclear clocks",
+   "publishedAt": 1791470905000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1145,7 +1229,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1159,7 +1243,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1173,49 +1257,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-   "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-   "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-   "publishedAt": 1791483632000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-   "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-   "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-   "publishedAt": 1791483585000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-   "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-   "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-   "publishedAt": 1791483582000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1229,7 +1271,63 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+   "url": "https://github.com/snuri00/psp-web-recomp",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49991243",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 231,
+   "comments": 111,
+   "publishedAt": 1791372447000,
+   "isAI": false,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+   "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+   "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+   "publishedAt": 1791483632000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+   "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+   "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+   "publishedAt": 1791483585000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+   "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+   "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+   "publishedAt": 1791483582000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1243,7 +1341,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1257,7 +1355,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1271,21 +1369,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
-   "url": "https://github.com/snuri00/psp-web-recomp",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49991243",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 229,
-   "comments": 111,
-   "publishedAt": 1791372447000,
-   "isAI": false,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1299,7 +1383,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1313,91 +1397,7 @@
    "comments": 228,
    "publishedAt": 1791320245000,
    "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, ‘클로드 대시보드·모션’ 공개…\"기업 데이터 분석·영상 제작\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216095",
-   "summary": "앤트로픽이 '클로드'에서 기업 데이터를 실시간 대시보드로 만들고, 차트와 보고서를 애니메이션 영상으로 바꿀 수 있는 도구를 출시했다. 코딩 없이 자연어로 데이터 분석과 시각 콘텐츠 제작을 할 수 있도록 해 업무 생산성 도구로서 클로드의 기능을 확장했다.앤트로픽은 8일(현지시간) ‘클로드 대시보드(Claude Dashboards)’와 ‘클로드 모션(Claude Motion)’을 베타 버전으로 공개했다고 밝혔다. 대시보드는 프로, 팀, 엔터프라이즈 등 유료 요금제 이용자에게 제공되며, 모션은 팀 및 엔터프라이즈 고객에게 제공된다.클로드",
-   "publishedAt": 1791536440000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "아마존, 안드로이드 태블릿 첫 출시…프리미엄 시장 도전",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216099",
-   "summary": "아마존이 자체 운영체제인 '파이어 OS(Fire OS)'를 버리고 구글 안드로이드를 탑재한 새 태블릿 시리즈를 출시했다. AI 음성 비서 ‘알렉사+(Alexa+)’를 처음으로 태블릿에 통합하고, 알루미늄 본체와 고성능 디스플레이를 적용해 애플 아이패드와 삼성 갤럭시 탭이 주도하는 시장에 도전한다. 저가 제품 중심이던 기존 전략에서 벗어나 프리미엄 기기 시장으로 영역을 넓히려는 움직임이다.아마존은 8일(현지시간) 8인치, 11인치, 12인치 화면을 갖춘 ‘알렉사 태블릿(Alexa Tablet)’ 시리즈를 공개했다.제품 가격은 모델별로",
-   "publishedAt": 1791533780000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "Natura’s $99 smart ring puts AI agents on your finger",
-   "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-   "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-   "publishedAt": 1791475200000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
    "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-   "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-   "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-   "publishedAt": 1791475200000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "\"오픈소스 취약점 AI가 잡는다\"...앤트로픽, 무료 보안 검사 도구 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216101",
-   "summary": "앤트로픽이 오픈소스 소프트웨어의 보안 취약점을 찾아내는 무료 AI 검사 서비스를 공개했다. AI가 취약점을 발견하는 속도가 빨라지는 가운데, 오픈소스 개발자들이 보안 문제를 더 신속하게 파악하고 대응할 수 있도록 지원한다. 앤트로픽은 8일(현지시간) 오픈소스 소프트웨어의 보안 취약점을 찾아내는 무료 AI 검사 도구 ‘OSS 스캐너(OSS Scanner)’를 출시했다. '클로드 미소스'를 포함한 앤트로픽의 최신 고성능 모델을 활용해 오픈소스 프로젝트를 정기적으로 검사하고, 발견한 취약점과 수정 방안을 제공한다.OSS 스캐너는 참여를",
-   "publishedAt": 1791532586000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-   "url": "https://openai.com/index/atlassian-partnership",
-   "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-   "publishedAt": 1791302400000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 32.5,
    "hot": false
   }
  ]
