@@ -1,5 +1,5 @@
 {
- "updatedAt": 1791688498099,
+ "updatedAt": 1791692145378,
  "week": "2026-W41",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 262,
+   "engagement": 265,
    "comments": 123,
    "publishedAt": 1791629529000,
    "isAI": true,
-   "score": 51.7,
+   "score": 51.3,
    "hot": true
   },
   {
@@ -23,12 +23,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 131,
-   "comments": 91,
+   "engagement": 141,
+   "comments": 93,
    "publishedAt": 1791658115000,
    "isAI": true,
-   "score": 50,
+   "score": 50.1,
    "hot": false
+  },
+  {
+   "title": "나만의 의사결정 모델 만들기",
+   "url": "https://news.hada.io/topic?id=35145",
+   "summary": "LLM의 출력을 고정된 선택지 토큰으로 제한하면 한 번의 순전파 로 답을 선택하는 의사결정 모델을 구현할 수 있음 출력 제약 은 선택지 밖의 응답을 막지만 정답을 보장하지 않으며, 토큰 확률도 추가 학습 없이는 실제 정답 확률과 다를 수 있음 ...",
+   "publishedAt": 1791689602000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
   },
   {
    "title": "Eve - 디렉터리 하나로 AI 에이전트를 정의하고 배포하는 Vercel 프레임워크",
@@ -41,7 +55,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
   },
   {
@@ -51,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 380,
+   "engagement": 382,
    "comments": 194,
    "publishedAt": 1791625909000,
    "isAI": false,
-   "score": 47.5,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -65,12 +79,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 431,
+   "engagement": 433,
    "comments": 346,
    "publishedAt": 1791565351000,
    "isAI": true,
-   "score": 47.3,
+   "score": 47,
    "hot": false
+  },
+  {
+   "title": "Apple/macOS removed from official Unix registry",
+   "url": "https://www.opengroup.org//openbrand/register/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50031653",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 268,
+   "comments": 222,
+   "publishedAt": 1791629851000,
+   "isAI": false,
+   "score": 44.7,
+   "hot": true
   },
   {
    "title": "Talorys - Cloudflare 무료 티어에서 셀프 호스팅하는 개인 AI 에이전트",
@@ -83,21 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
-   "hot": true
-  },
-  {
-   "title": "Apple/macOS removed from official Unix registry",
-   "url": "https://www.opengroup.org//openbrand/register/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50031653",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 263,
-   "comments": 222,
-   "publishedAt": 1791629851000,
-   "isAI": false,
-   "score": 45,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -111,7 +125,7 @@
    "comments": 188,
    "publishedAt": 1791543828000,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -125,7 +139,7 @@
    "comments": 153,
    "publishedAt": 1791583235000,
    "isAI": true,
-   "score": 44.2,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -139,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -153,7 +167,7 @@
    "comments": 219,
    "publishedAt": 1791540026000,
    "isAI": true,
-   "score": 43.4,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -191,12 +205,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 195,
+   "engagement": 196,
    "comments": 58,
    "publishedAt": 1791567732000,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
+  },
+  {
+   "title": "WallHop - 12ft.io가 사라져 직접 만든 대체 서비스",
+   "url": "https://news.hada.io/topic?id=35146",
+   "summary": "WallHop 은 기사 링크를 붙여 넣어 페이월 없이 무료로 읽을 수 있는 서비스이며, 회원가입이 필요 없음 iPhone 단축어 로 공유 버튼에서 기사를 열 수 있음 기사 URL 앞에 wallhop.io/ 를 붙이는 방식으로도 이용 가능함",
+   "publishedAt": 1791689782000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Nix가 내 디버거의 절반을 만들어 줬다",
@@ -209,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -223,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -237,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.4,
+   "score": 41,
    "hot": false
   },
   {
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -279,8 +307,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
+  },
+  {
+   "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+   "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50033721",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 123,
+   "comments": 29,
+   "publishedAt": 1791645024000,
+   "isAI": false,
+   "score": 40.2,
+   "hot": false
+  },
+  {
+   "title": "Can you use autoregressive diffusion to generate market data?",
+   "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50021410",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 178,
+   "comments": 56,
+   "publishedAt": 1791557773000,
+   "isAI": true,
+   "score": 40.2,
+   "hot": false
   },
   {
    "title": "아, 표준 C에서는 문자열의 부동소수점 변환 오류를 이식성 있게 검사할 수 없는 모양이다",
@@ -293,36 +349,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
-  },
-  {
-   "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
-   "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50033721",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 121,
-   "comments": 29,
-   "publishedAt": 1791645024000,
-   "isAI": false,
-   "score": 40.5,
-   "hot": false
-  },
-  {
-   "title": "Can you use autoregressive diffusion to generate market data?",
-   "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50021410",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 177,
-   "comments": 55,
-   "publishedAt": 1791557773000,
-   "isAI": true,
-   "score": 40.5,
-   "hot": false
   },
   {
    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
@@ -335,7 +363,7 @@
    "comments": 977,
    "publishedAt": 1791418488000,
    "isAI": true,
-   "score": 40.2,
+   "score": 40,
    "hot": false
   },
   {
@@ -349,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -359,11 +387,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 180,
+   "engagement": 181,
    "comments": 89,
    "publishedAt": 1791545780000,
    "isAI": true,
-   "score": 39.5,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -377,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -391,7 +419,7 @@
    "comments": 301,
    "publishedAt": 1791477958000,
    "isAI": true,
-   "score": 39.2,
+   "score": 39,
    "hot": false
   },
   {
@@ -405,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -419,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -433,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -447,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -461,22 +489,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.4,
    "hot": false
-  },
-  {
-   "title": "내 집값은 오르고 재산세는 내려가면 좋겠다",
-   "url": "https://news.hada.io/topic?id=35133",
-   "summary": "미국 여러 주가 자가 거주 주택의 재산세를 감면 하면서 학교와 경찰 등 공공서비스 비용 부담을 상업용 부동산 소유자, 다른 지방세, 주정부 재원으로 옮기고 있음 코로나19 이후 주택 가치 상승으로 자산이 늘어난 소유자들이 재산세 인상에 반발 하고 있으며, 같은...",
-   "publishedAt": 1791660783000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.7,
-   "hot": true
   },
   {
    "title": "이란의 공작, ChatGPT로 만든 가짜 기사를 실제 미국 매체에 게재",
@@ -489,21 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.7,
-   "hot": false
-  },
-  {
-   "title": "Python 3.15",
-   "url": "https://www.python.org/downloads/release/python-3150/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50021127",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 310,
-   "comments": 105,
-   "publishedAt": 1791556542000,
-   "isAI": false,
-   "score": 38.5,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -517,7 +517,7 @@
    "comments": 1605,
    "publishedAt": 1791472500000,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -531,7 +531,35 @@
    "comments": 488,
    "publishedAt": 1791396092000,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.3,
+   "hot": false
+  },
+  {
+   "title": "내 집값은 오르고 재산세는 내려가면 좋겠다",
+   "url": "https://news.hada.io/topic?id=35133",
+   "summary": "미국 여러 주가 자가 거주 주택의 재산세를 감면 하면서 학교와 경찰 등 공공서비스 비용 부담을 상업용 부동산 소유자, 다른 지방세, 주정부 재원으로 옮기고 있음 코로나19 이후 주택 가치 상승으로 자산이 늘어난 소유자들이 재산세 인상에 반발 하고 있으며, 같은...",
+   "publishedAt": 1791660783000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.3,
+   "hot": true
+  },
+  {
+   "title": "Python 3.15",
+   "url": "https://www.python.org/downloads/release/python-3150/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50021127",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 310,
+   "comments": 105,
+   "publishedAt": 1791556542000,
+   "isAI": false,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -545,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -559,21 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.4,
-   "hot": false
-  },
-  {
-   "title": "Jev 개발사 TypeSafe AI, 기업가치 약 11.3조원으로 약 1.3조원 투자 유치",
-   "url": "https://news.hada.io/topic?id=35089",
-   "summary": "TypeSafe AI 가 Andreessen Horowitz 주도로 기업가치 75억 달러($7.5b)에 8억 7,000만 달러($870m) 규모 시리즈 A 투자를 유치함 Sequoia Capital, 기존 투자자 DCVC, 엔젤 투자자들이 참여했으며 Martin Casado 가 이사회에 합류함 개발...",
-   "publishedAt": 1791592758000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -587,7 +601,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -601,7 +615,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -615,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 38,
    "hot": true
   },
   {
@@ -629,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -643,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -657,7 +671,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -671,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -685,21 +699,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
-   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-   "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-   "publishedAt": 1791661800000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
+   "title": "GPT‑6 and Intelligent UI for everyone",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49996425",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
+   "engagement": 756,
+   "comments": 458,
+   "publishedAt": 1791396058000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -713,21 +727,21 @@
    "comments": 310,
    "publishedAt": 1791502183000,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
-   "title": "GPT‑6 and Intelligent UI for everyone",
-   "url": "https://openai.com/index/gpt-6-for-everyone/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49996425",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+   "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+   "publishedAt": 1791661800000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 756,
-   "comments": 458,
-   "publishedAt": 1791396058000,
+   "engagement": null,
+   "baseWeight": 32,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -741,49 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
-   "hot": false
-  },
-  {
-   "title": "Microsoft-Decision-1, our model for fast decision-making",
-   "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50024913",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 197,
-   "comments": 66,
-   "publishedAt": 1791571124000,
-   "isAI": false,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "로비는 부패다",
-   "url": "https://news.hada.io/topic?id=35122",
-   "summary": "기업과 부유층이 정치인의 선거운동에 돈을 대고 원하는 법률을 얻는 로비 는, 합법 여부와 무관하게 부패 와 본질적으로 다르지 않음 George Hotz 가 풍자한 미국의 로비에서는 정치인이 자금 제공자의 요구를 듣고, 퇴임 후에는 자신에게 로비했던...",
-   "publishedAt": 1791642837000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
-   "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50020927",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 237,
-   "comments": 331,
-   "publishedAt": 1791555619000,
-   "isAI": false,
-   "score": 36.7,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -797,7 +769,49 @@
    "comments": 1211,
    "publishedAt": 1791292549000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "Microsoft-Decision-1, our model for fast decision-making",
+   "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50024913",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 197,
+   "comments": 66,
+   "publishedAt": 1791571124000,
+   "isAI": false,
+   "score": 36.4,
+   "hot": false
+  },
+  {
+   "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
+   "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50020927",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 237,
+   "comments": 334,
+   "publishedAt": 1791555619000,
+   "isAI": false,
+   "score": 36.4,
+   "hot": false
+  },
+  {
+   "title": "로비는 부패다",
+   "url": "https://news.hada.io/topic?id=35122",
+   "summary": "기업과 부유층이 정치인의 선거운동에 돈을 대고 원하는 법률을 얻는 로비 는, 합법 여부와 무관하게 부패 와 본질적으로 다르지 않음 George Hotz 가 풍자한 미국의 로비에서는 정치인이 자금 제공자의 요구를 듣고, 퇴임 후에는 자신에게 로비했던...",
+   "publishedAt": 1791642837000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -811,49 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
-   "hot": false
-  },
-  {
-   "title": "네 가지 정리 증명기 이야기: Isabelle/HOL, Lean, HOL4, Agda에 대한 (적당히) 주관적인 비교",
-   "url": "https://news.hada.io/topic?id=35118",
-   "summary": "소수의 무한성에 대한 유클리드 증명 을 네 시스템으로 형식화해 사용자 경험을 비교함. 도구별 숙련도가 다른 상태에서 진행한 개인적 평가이므로, 공정한 성능 비교로 보기는 어려움 이번 구현 경험에서는 Isabelle/HOL과 HOL4의 자동화 및 정리 검색 이 강점이었음...",
-   "publishedAt": 1791637674000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Cloudflare의 Deno 종료는 단순한 PR이 아니라 뉴스다",
-   "url": "https://news.hada.io/topic?id=35117",
-   "summary": "삭제된 Deno의 Cloudflare 관련 게시물 을 복원해 달라는 요청임 복원을 요청한 이유는 해당 사안이 단순한 PR이 아니라 중요한 기술 뉴스 이기 때문임 요청자는 Cloudflare가 오픈소스 팀들을 인수 하면서 이들이 유지하는 프로젝트를 해체...",
-   "publishedAt": 1791637494000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "OpenAI withdraws three mathematical results",
-   "url": "https://twitter.com/danintheory/status/2108065033070789090",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50002650",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 377,
-   "comments": 608,
-   "publishedAt": 1791443140000,
-   "isAI": true,
-   "score": 36.2,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -867,7 +839,49 @@
    "comments": 1527,
    "publishedAt": 1791325041000,
    "isAI": true,
-   "score": 36.2,
+   "score": 36,
+   "hot": false
+  },
+  {
+   "title": "OpenAI withdraws three mathematical results",
+   "url": "https://twitter.com/danintheory/status/2108065033070789090",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50002650",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 377,
+   "comments": 608,
+   "publishedAt": 1791443140000,
+   "isAI": true,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "네 가지 정리 증명기 이야기: Isabelle/HOL, Lean, HOL4, Agda에 대한 (적당히) 주관적인 비교",
+   "url": "https://news.hada.io/topic?id=35118",
+   "summary": "소수의 무한성에 대한 유클리드 증명 을 네 시스템으로 형식화해 사용자 경험을 비교함. 도구별 숙련도가 다른 상태에서 진행한 개인적 평가이므로, 공정한 성능 비교로 보기는 어려움 이번 구현 경험에서는 Isabelle/HOL과 HOL4의 자동화 및 정리 검색 이 강점이었음...",
+   "publishedAt": 1791637674000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "Cloudflare의 Deno 종료는 단순한 PR이 아니라 뉴스다",
+   "url": "https://news.hada.io/topic?id=35117",
+   "summary": "삭제된 Deno의 Cloudflare 관련 게시물 을 복원해 달라는 요청임 복원을 요청한 이유는 해당 사안이 단순한 PR이 아니라 중요한 기술 뉴스 이기 때문임 요청자는 Cloudflare가 오픈소스 팀들을 인수 하면서 이들이 유지하는 프로젝트를 해체...",
+   "publishedAt": 1791637494000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -881,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -895,7 +909,7 @@
    "comments": 3,
    "publishedAt": 1791446917000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -909,7 +923,7 @@
    "comments": 283,
    "publishedAt": 1791515285000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -923,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -933,11 +947,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 132,
+   "engagement": 134,
    "comments": 39,
    "publishedAt": 1791588516000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -947,11 +961,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 260,
+   "engagement": 262,
    "comments": 257,
    "publishedAt": 1791531876000,
    "isAI": false,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -965,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -979,7 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -989,11 +1003,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 292,
+   "engagement": 293,
    "comments": 129,
    "publishedAt": 1791443254000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1007,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1021,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1035,7 +1049,7 @@
    "comments": 20,
    "publishedAt": 1791492385000,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1049,7 +1063,7 @@
    "comments": 178,
    "publishedAt": 1791523378000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1063,20 +1077,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "중국 AI 모델 안전성 평가 공개율 3.6%...출시 전 공개는 고작 1.1%",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216127",
-   "summary": "중국 AI 개발사들이 모델을 출시할 때 미리 안전성 검증 결과를 투명하게 오픈하는 비율은 1.1%로 극히 드물고, 나중에 시간이 한참 지난 뒤에야 뒤늦게 일부 공개하는 사례를 모두 합쳐도 전체의 3.6%에 불과하다는 조사 결과가 나왔다. 중국 정부가 AI 안전 위험을 공식적으로 인정하고 있지만, 실제 산업 현장에서는 모델 성능과 시장 선점에 우선순위를 두고 있다는 지적이다.AI 분석 전문 세미애널리시스는 9일(현지시간) 2021년부터 2026년 9월15일까지 알리바바, 바이트댄스, 텐센트, 바이두, 딥시크, 문샷 AI, Z.ai(지",
-   "publishedAt": 1791685589000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 33.7,
    "hot": false
   },
@@ -1091,35 +1091,21 @@
    "comments": 385,
    "publishedAt": 1791398980000,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "나델라 “AI에도 비상 브레이크 필요”...인간 통제·독립 감사 강조",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216126",
-   "summary": "사티아 나델라 마이크로소프트(MS) CEO가 고성능 AI 시스템에 인간이 언제든 작동을 중단할 수 있는 ‘비상 브레이크’와 독립적인 통제 장치를 마련해야 한다고 강조했다. AI 모델의 판단을 무조건 신뢰하기보다 오작동이나 보안 침해 가능성을 전제로 시스템을 설계해야 한다는 주장이다.나델라 CEO는 10일(현지시간) X에 올린 글에서 “모델이 이미 침해됐다고 가정하고 처음부터 이를 격리해야 한다”며 “비상 브레이크처럼 권한이 있는 사람이 작업 도중에도 언제든 모델을 일시 중지하거나 종료할 수 있어야 한다”고 밝혔다.그는 AI 모델의",
-   "publishedAt": 1791684471000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "[기고] 한국딥러닝 \"기업 4곳 중 3곳이 AI 데이터에 투자…이제 ‘AI-레디’만으론 부족\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216123",
-   "summary": "■ AI-Ready Data에서 ‘Agent-Ready Data’로 기준이 바뀌고 있습니다기업 AI의 관심이 모델에서 데이터로 이동하고 있습니다. 아무리 성능이 좋은 LLM을 도입해도 기업 내부 데이터의 품질이 낮거나 의미와 맥락이 정리돼 있지 않으면 실제 업무에 활용하기 어렵다는 경험이 쌓이면서 ‘AI-레디 데이터(Ready Data)’가 기업 AX의 주요 과제로 자리 잡고 있습니다. 그런데 AI가 질문에 답하는 단계를 넘어 실제 업무를 수행하기 시작하면서 데이터가 갖춰야 할 조건도 달라지고 있습니다.가트너는 지난 8월27일 ‘A",
-   "publishedAt": 1791683673000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "중국 AI 모델 안전성 평가 공개율 3.6%...출시 전 공개는 고작 1.1%",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216127",
+   "summary": "중국 AI 개발사들이 모델을 출시할 때 미리 안전성 검증 결과를 투명하게 오픈하는 비율은 1.1%로 극히 드물고, 나중에 시간이 한참 지난 뒤에야 뒤늦게 일부 공개하는 사례를 모두 합쳐도 전체의 3.6%에 불과하다는 조사 결과가 나왔다. 중국 정부가 AI 안전 위험을 공식적으로 인정하고 있지만, 실제 산업 현장에서는 모델 성능과 시장 선점에 우선순위를 두고 있다는 지적이다.AI 분석 전문 세미애널리시스는 9일(현지시간) 2021년부터 2026년 9월15일까지 알리바바, 바이트댄스, 텐센트, 바이두, 딥시크, 문샷 AI, Z.ai(지",
+   "publishedAt": 1791685589000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1133,7 +1119,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "나델라 “AI에도 비상 브레이크 필요”...인간 통제·독립 감사 강조",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216126",
+   "summary": "사티아 나델라 마이크로소프트(MS) CEO가 고성능 AI 시스템에 인간이 언제든 작동을 중단할 수 있는 ‘비상 브레이크’와 독립적인 통제 장치를 마련해야 한다고 강조했다. AI 모델의 판단을 무조건 신뢰하기보다 오작동이나 보안 침해 가능성을 전제로 시스템을 설계해야 한다는 주장이다.나델라 CEO는 10일(현지시간) X에 올린 글에서 “모델이 이미 침해됐다고 가정하고 처음부터 이를 격리해야 한다”며 “비상 브레이크처럼 권한이 있는 사람이 작업 도중에도 언제든 모델을 일시 중지하거나 종료할 수 있어야 한다”고 밝혔다.그는 AI 모델의",
+   "publishedAt": 1791684471000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1147,7 +1147,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "[기고] 한국딥러닝 \"기업 4곳 중 3곳이 AI 데이터에 투자…이제 ‘AI-레디’만으론 부족\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216123",
+   "summary": "■ AI-Ready Data에서 ‘Agent-Ready Data’로 기준이 바뀌고 있습니다기업 AI의 관심이 모델에서 데이터로 이동하고 있습니다. 아무리 성능이 좋은 LLM을 도입해도 기업 내부 데이터의 품질이 낮거나 의미와 맥락이 정리돼 있지 않으면 실제 업무에 활용하기 어렵다는 경험이 쌓이면서 ‘AI-레디 데이터(Ready Data)’가 기업 AX의 주요 과제로 자리 잡고 있습니다. 그런데 AI가 질문에 답하는 단계를 넘어 실제 업무를 수행하기 시작하면서 데이터가 갖춰야 할 조건도 달라지고 있습니다.가트너는 지난 8월27일 ‘A",
+   "publishedAt": 1791683673000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1161,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1175,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1189,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1203,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1217,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1231,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1239,34 +1253,6 @@
    "url": "https://news.hada.io/topic?id=35100",
    "summary": "Microsoft가 분류, 모델 라우팅, 우선순위 지정, 검증, 에이전트 제어를 위한 Microsoft-Decision-1 을 출시함. 정해진 선택지마다 확률을 반환해 애플리케이션이 다음 행동을 결정하는 데 활용 가능 Qwen3.5-9B를 추가 학습 해 한 번의 처리로 선택지를 채점하도록 ...",
    "publishedAt": 1791599980000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "‘월리스와 그로밋’, 90%를 혼자 만들다",
-   "url": "https://news.hada.io/topic?id=35098",
-   "summary": "Nick Park는 첫 Wallace and Gromit 영화인 A Grand Day Out 을 졸업작품으로 시작해, 자신의 추산으로 약 90%를 혼자 제작함 제작비와 인력의 제약 속에서 캐릭터도 달라짐. Gromit은 애니메이션 작업의 어려움 때문에 대사를 없애면서 눈만으로 감정을 드...",
-   "publishedAt": 1791596903000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "국제형사재판소에 대한 제재 부과",
-   "url": "https://news.hada.io/topic?id=35097",
-   "summary": "미국은 미국인에 대한 기소를 허용하지 않겠다는 방침에 따라 국제형사재판소(ICC)를 제재 대상에 지정 함 제재는 ICC와의 거래 금지 를 통해 자원을 차단하고 운영 능력을 마비시키는 것을 목표로 함 미국 정부는 미국과 미국 국민이 ICC 관할권의...",
-   "publishedAt": 1791596723000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -1283,11 +1269,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 169,
-   "comments": 39,
+   "engagement": 173,
+   "comments": 40,
    "publishedAt": 1791528769000,
    "isAI": false,
-   "score": 32.4,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "‘월리스와 그로밋’, 90%를 혼자 만들다",
+   "url": "https://news.hada.io/topic?id=35098",
+   "summary": "Nick Park는 첫 Wallace and Gromit 영화인 A Grand Day Out 을 졸업작품으로 시작해, 자신의 추산으로 약 90%를 혼자 제작함 제작비와 인력의 제약 속에서 캐릭터도 달라짐. Gromit은 애니메이션 작업의 어려움 때문에 대사를 없애면서 눈만으로 감정을 드...",
+   "publishedAt": 1791596903000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "국제형사재판소에 대한 제재 부과",
+   "url": "https://news.hada.io/topic?id=35097",
+   "summary": "미국은 미국인에 대한 기소를 허용하지 않겠다는 방침에 따라 국제형사재판소(ICC)를 제재 대상에 지정 함 제재는 ICC와의 거래 금지 를 통해 자원을 차단하고 운영 능력을 마비시키는 것을 목표로 함 미국 정부는 미국과 미국 국민이 ICC 관할권의...",
+   "publishedAt": 1791596723000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1301,35 +1315,7 @@
    "comments": 145,
    "publishedAt": 1791395318000,
    "isAI": true,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "독일, 옛 탄광을 유럽 최대 호수 지대로 전환",
-   "url": "https://news.hada.io/topic?id=35093",
-   "summary": "독일 동부 Lusatian Lakeland 에서 폐탄광을 호수로 바꾸는 수십 년간의 사업이 진행 중이며, 마지막 주요 구성 요소인 Lake Sedlitz 가 2026년 4월 말 수영과 보트 이용객에게 개방될 예정임 인공호수 23개와 총 수면적 1만 4,000헥타르 를 아우르는...",
-   "publishedAt": 1791593479000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "Yandex 데이터센터, 48시간 내 두 번째 피격",
-   "url": "https://news.hada.io/topic?id=35091",
-   "summary": "러시아 칼루가 지역의 Yandex 데이터센터 가 드론 공격을 받아 여러 모듈의 가동이 완전히 중단됐다고 러시아 국영 통신사 TASS가 회사 발표를 인용해 전함 칼루가 시설은 Yandex의 러시아 최대 데이터센터 로 설계됐으며, 2023년 하반기에 가동을 시작함 계...",
-   "publishedAt": 1791593118000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.3,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1343,7 +1329,35 @@
    "comments": 163,
    "publishedAt": 1791387861000,
    "isAI": false,
-   "score": 32.2,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "독일, 옛 탄광을 유럽 최대 호수 지대로 전환",
+   "url": "https://news.hada.io/topic?id=35093",
+   "summary": "독일 동부 Lusatian Lakeland 에서 폐탄광을 호수로 바꾸는 수십 년간의 사업이 진행 중이며, 마지막 주요 구성 요소인 Lake Sedlitz 가 2026년 4월 말 수영과 보트 이용객에게 개방될 예정임 인공호수 23개와 총 수면적 1만 4,000헥타르 를 아우르는...",
+   "publishedAt": 1791593479000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "Yandex 데이터센터, 48시간 내 두 번째 피격",
+   "url": "https://news.hada.io/topic?id=35091",
+   "summary": "러시아 칼루가 지역의 Yandex 데이터센터 가 드론 공격을 받아 여러 모듈의 가동이 완전히 중단됐다고 러시아 국영 통신사 TASS가 회사 발표를 인용해 전함 칼루가 시설은 Yandex의 러시아 최대 데이터센터 로 설계됐으며, 2023년 하반기에 가동을 시작함 계...",
+   "publishedAt": 1791593118000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32,
    "hot": false
   },
   {
@@ -1357,21 +1371,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Carrier-Explode - iPhone, Pixel, Galaxy의 통신사 설정을 디코딩하는 서비스",
-   "url": "https://news.hada.io/topic?id=35090",
-   "summary": "Carrier-Explode 는 iPhone, Pixel, Galaxy 펌웨어의 통신사 설정을 디코딩해 조회하고 비교할 수 있는 서비스임 각 휴대전화의 통신사별 APN, VoLTE, Wi-Fi Calling, 5G 설정을 확인할 수 있음 필요한 기능을 기준으로 통신사를 찾고 , 두...",
-   "publishedAt": 1791592938000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1385,7 +1385,7 @@
    "comments": 30,
    "publishedAt": 1791548455000,
    "isAI": false,
-   "score": 31.3,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1399,7 +1399,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false
   }
  ]
