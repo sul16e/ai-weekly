@@ -1,7 +1,21 @@
 {
- "updatedAt": 1791720389830,
+ "updatedAt": 1791724039156,
  "week": "2026-W41",
  "items": [
+  {
+   "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+   "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50041619",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 276,
+   "comments": 107,
+   "publishedAt": 1791714473000,
+   "isAI": false,
+   "score": 52.2,
+   "hot": true
+  },
   {
    "title": "3rd Yandex Cloud Data Center Was Hit",
    "url": "https://status.yandex.cloud/en/incidents/2136",
@@ -9,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 254,
-   "comments": 319,
+   "engagement": 290,
+   "comments": 359,
    "publishedAt": 1791704085000,
    "isAI": false,
-   "score": 50.4,
+   "score": 51.1,
    "hot": true
   },
   {
@@ -27,7 +41,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.9,
+   "score": 49.3,
    "hot": true
   },
   {
@@ -37,11 +51,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 301,
+   "engagement": 303,
    "comments": 137,
    "publishedAt": 1791629529000,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.2,
+   "hot": false
+  },
+  {
+   "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+   "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50039092",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 113,
+   "comments": 82,
+   "publishedAt": 1791684158000,
+   "isAI": true,
+   "score": 47.4,
    "hot": false
   },
   {
@@ -51,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 165,
-   "comments": 105,
+   "engagement": 168,
+   "comments": 107,
    "publishedAt": 1791658115000,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -69,22 +97,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.1,
    "hot": true
-  },
-  {
-   "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-   "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50039092",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 107,
-   "comments": 78,
-   "publishedAt": 1791684158000,
-   "isAI": true,
-   "score": 47.4,
-   "hot": false
   },
   {
    "title": "구글, 업무용 Gemini 에이전트 발표 — 장시간 작업과 기억 유지, Claude 지원",
@@ -97,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -111,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -125,22 +139,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.1,
    "hot": true
-  },
-  {
-   "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
-   "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50041619",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 130,
-   "comments": 30,
-   "publishedAt": 1791714473000,
-   "isAI": false,
-   "score": 45.8,
-   "hot": false
   },
   {
    "title": "Qwen으로 나만의 의사결정 모델 만들기",
@@ -153,21 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
-   "hot": true
-  },
-  {
-   "title": "Eve - 디렉터리 하나로 AI 에이전트를 정의하고 배포하는 Vercel 프레임워크",
-   "url": "https://news.hada.io/topic?id=35140",
-   "summary": "에이전트 개발자가 Markdown과 TypeScript 파일만으로 에이전트를 실행하거나 배포할 수 있는 프레임워크 지침, 도구, 채널을 정의하고 상태를 유지하며, 웹 개발의 Next.js처럼 파일 구조와 실행 인프라를 함께 제공 instructions.md 에 역할과 기본 지침을 작성하면 최소 에이...",
-   "publishedAt": 1791678602000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.3,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -181,7 +167,21 @@
    "comments": 348,
    "publishedAt": 1791565351000,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.8,
+   "hot": false
+  },
+  {
+   "title": "Eve - 디렉터리 하나로 AI 에이전트를 정의하고 배포하는 Vercel 프레임워크",
+   "url": "https://news.hada.io/topic?id=35140",
+   "summary": "에이전트 개발자가 Markdown과 TypeScript 파일만으로 에이전트를 실행하거나 배포할 수 있는 프레임워크 지침, 도구, 채널을 정의하고 상태를 유지하며, 웹 개발의 Next.js처럼 파일 구조와 실행 인프라를 함께 제공 instructions.md 에 역할과 기본 지침을 작성하면 최소 에이...",
+   "publishedAt": 1791678602000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -191,26 +191,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 391,
+   "engagement": 394,
    "comments": 204,
    "publishedAt": 1791625909000,
    "isAI": false,
-   "score": 43.9,
+   "score": 43.6,
    "hot": false
   },
   {
-   "title": "Apple/macOS removed from official Unix registry",
-   "url": "https://www.opengroup.org//openbrand/register/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50031653",
-   "source": "Hacker News",
+   "title": "Nitter: 10월 10일 업데이트, 자금과 법률 지원 요청",
+   "url": "https://news.hada.io/topic?id=35164",
+   "summary": "X Corp. 가 Nitter 인스턴스와 프로젝트 저장소의 영구 폐쇄를 요구하는 중단 요구 서한을 두 차례 보냄 Nitter는 현재 법률 대리인이 없는 상태 이며, 법률 대리인을 확보했다는 기존 안내를 정정함 9월 7일의 프로젝트 지속 안내는 사실이 아닌 것으로 드...",
+   "publishedAt": 1791722132000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 277,
-   "comments": 236,
-   "publishedAt": 1791629851000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
    "score": 41.8,
-   "hot": false
+   "hot": true
+  },
+  {
+   "title": "Yandex 데이터센터 타격 이후 Cloudflare 봇 트래픽 급감",
+   "url": "https://news.hada.io/topic?id=35163",
+   "summary": "Yandex 데이터센터 타격 이후 Cloudflare 봇 트래픽 급감",
+   "publishedAt": 1791721951000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
@@ -223,7 +237,21 @@
    "comments": 189,
    "publishedAt": 1791543828000,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.5,
+   "hot": false
+  },
+  {
+   "title": "Apple/macOS removed from official Unix registry",
+   "url": "https://www.opengroup.org//openbrand/register/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50031653",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 278,
+   "comments": 236,
+   "publishedAt": 1791629851000,
+   "isAI": false,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -237,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.4,
+   "score": 41,
    "hot": false
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -275,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 209,
+   "engagement": 210,
    "comments": 154,
    "publishedAt": 1791583235000,
    "isAI": true,
-   "score": 41,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -307,7 +335,7 @@
    "comments": 221,
    "publishedAt": 1791540026000,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -321,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40,
    "hot": true
   },
   {
@@ -335,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -349,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -363,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -377,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -391,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -405,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -419,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -433,7 +461,21 @@
    "comments": 58,
    "publishedAt": 1791567732000,
    "isAI": true,
-   "score": 39.3,
+   "score": 39,
+   "hot": false
+  },
+  {
+   "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+   "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50000488",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1115,
+   "comments": 978,
+   "publishedAt": 1791418488000,
+   "isAI": true,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -447,21 +489,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
-   "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-   "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50000488",
+   "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+   "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50033721",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1115,
-   "comments": 978,
-   "publishedAt": 1791418488000,
-   "isAI": true,
-   "score": 38.3,
+   "engagement": 137,
+   "comments": 30,
+   "publishedAt": 1791645024000,
+   "isAI": false,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -475,21 +517,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.7,
    "hot": false
   },
   {
-   "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
-   "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50033721",
+   "title": "Can you use autoregressive diffusion to generate market data?",
+   "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50021410",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 136,
-   "comments": 30,
-   "publishedAt": 1791645024000,
-   "isAI": false,
-   "score": 38,
+   "engagement": 183,
+   "comments": 56,
+   "publishedAt": 1791557773000,
+   "isAI": true,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -503,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -517,22 +559,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
-  },
-  {
-   "title": "Can you use autoregressive diffusion to generate market data?",
-   "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50021410",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 183,
-   "comments": 56,
-   "publishedAt": 1791557773000,
-   "isAI": true,
-   "score": 37.9,
-   "hot": false
   },
   {
    "title": "Anthropic AI 모델, 필라델피아 미해결 살인 사건에 허위 제보 제출",
@@ -545,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -559,35 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
-  },
-  {
-   "title": "도시는 당신이 짓지 않길 바라는 도시 건설 게임",
-   "url": "https://news.hada.io/topic?id=35141",
-   "summary": "Discretionary Review 는 기술 산업 호황 속 주택이 부족한 샌프란시스코에서 개발업자가 되어 주택 건설을 추진하는 시뮬레이션 게임임 부지를 골라 계획을 세운 뒤 환경 검토, 위원회 심의, 이의 제기, 소송, 허가 절차를 거쳐야 하며, 이후에도 사업성 이 남아 있...",
-   "publishedAt": 1791678740000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.2,
-   "hot": true
-  },
-  {
-   "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-   "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50019056",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 183,
-   "comments": 89,
-   "publishedAt": 1791545780000,
-   "isAI": true,
-   "score": 37,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -601,21 +601,35 @@
    "comments": 301,
    "publishedAt": 1791477958000,
    "isAI": true,
-   "score": 37,
+   "score": 36.8,
    "hot": false
   },
   {
-   "title": "아, 표준 C에서는 문자열의 부동소수점 변환 오류를 이식성 있게 검사할 수 없는 모양이다",
-   "url": "https://news.hada.io/topic?id=35139",
-   "summary": "표준 C의 문자열→부동소수점 변환 함수 는 math_errhandling 에 따라 오류 보고 방식이 달라지며, 언더플로 보고는 선택 사항 이라 모든 구현에서 검출을 보장할 수 없음 POSIX 는 표준 C와 달리 오버플로와 언더플로 발생 시 ma...",
-   "publishedAt": 1791677094000,
+   "title": "도시는 당신이 짓지 않길 바라는 도시 건설 게임",
+   "url": "https://news.hada.io/topic?id=35141",
+   "summary": "Discretionary Review 는 기술 산업 호황 속 주택이 부족한 샌프란시스코에서 개발업자가 되어 주택 건설을 추진하는 시뮬레이션 게임임 부지를 골라 계획을 세운 뒤 환경 검토, 위원회 심의, 이의 제기, 소송, 허가 절차를 거쳐야 하며, 이후에도 사업성 이 남아 있...",
+   "publishedAt": 1791678740000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.8,
+   "hot": false
+  },
+  {
+   "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+   "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50019056",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 183,
+   "comments": 89,
+   "publishedAt": 1791545780000,
+   "isAI": true,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -629,21 +643,21 @@
    "comments": 488,
    "publishedAt": 1791396092000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.7,
    "hot": false
   },
   {
-   "title": "전구형 컴퓨터",
-   "url": "https://news.hada.io/topic?id=35138",
-   "summary": "Lightbulb Computer 는 프로젝터와 컴퓨터 비전을 큰 전구 형태로 결합해, 일상 공간의 표면과 사물에 정보를 투사하는 기기 구상임 음성 명령과 손가락으로 가리키는 동작 을 인식하고 눈앞의 내용을 분석해, 주방 레시피 표시부터 지도 탐색, 스마트홈 제어까지 화...",
-   "publishedAt": 1791671549000,
+   "title": "아, 표준 C에서는 문자열의 부동소수점 변환 오류를 이식성 있게 검사할 수 없는 모양이다",
+   "url": "https://news.hada.io/topic?id=35139",
+   "summary": "표준 C의 문자열→부동소수점 변환 함수 는 math_errhandling 에 따라 오류 보고 방식이 달라지며, 언더플로 보고는 선택 사항 이라 모든 구현에서 검출을 보장할 수 없음 POSIX 는 표준 C와 달리 오버플로와 언더플로 발생 시 ma...",
+   "publishedAt": 1791677094000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -657,7 +671,21 @@
    "comments": 1606,
    "publishedAt": 1791472500000,
    "isAI": false,
-   "score": 36.4,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "전구형 컴퓨터",
+   "url": "https://news.hada.io/topic?id=35138",
+   "summary": "Lightbulb Computer 는 프로젝터와 컴퓨터 비전을 큰 전구 형태로 결합해, 일상 공간의 표면과 사물에 정보를 투사하는 기기 구상임 음성 명령과 손가락으로 가리키는 동작 을 인식하고 눈앞의 내용을 분석해, 주방 레시피 표시부터 지도 탐색, 스마트홈 제어까지 화...",
+   "publishedAt": 1791671549000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -671,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -685,7 +713,7 @@
    "comments": 106,
    "publishedAt": 1791556542000,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -699,7 +727,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -713,35 +741,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "Eurydice로 Rust를 읽기 쉬운 C로 컴파일하기",
-   "url": "https://news.hada.io/topic?id=35135",
-   "summary": "Eurydice 는 Rust 코드의 전체 구조를 유지하면서 C로 변환하는 도구로, 기존 C용 검증 및 규정 준수 도구를 사용하는 고신뢰성 소프트웨어와 Rust 컴파일러가 없는 환경을 겨냥함 기계어 생성을 위한 최적화보다 원본 구조와 평가 순서 보존 에 집중하며, 필요한 곳...",
-   "publishedAt": 1791664630000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "FDA, 일부 독성 화학물질의 안전성 검토 없는 식품 첨가를 허용할 수도",
-   "url": "https://news.hada.io/topic?id=35134",
-   "summary": "미국 FDA가 포장재와 가공 장비 등 식품 접촉 물질에 적용하던 규제 임계치 면제(TOR) 를 식품에 직접 넣는 성분까지 확대하는 규칙을 제안함 현행 면제 기준은 비발암성 물질, 0.5ppb 미만 이지만, 공중보건 단체들은 일부 내분비계 교란 물질이 이보다 훨씬 낮은 ...",
-   "publishedAt": 1791664450000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.8,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -755,14 +755,28 @@
    "comments": 1211,
    "publishedAt": 1791292549000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.4,
    "hot": false
   },
   {
-   "title": "내 집값은 오르고 재산세는 내려가면 좋겠다",
-   "url": "https://news.hada.io/topic?id=35133",
-   "summary": "미국 여러 주가 자가 거주 주택의 재산세를 감면 하면서 학교와 경찰 등 공공서비스 비용 부담을 상업용 부동산 소유자, 다른 지방세, 주정부 재원으로 옮기고 있음 코로나19 이후 주택 가치 상승으로 자산이 늘어난 소유자들이 재산세 인상에 반발 하고 있으며, 같은...",
-   "publishedAt": 1791660783000,
+   "title": "Eurydice로 Rust를 읽기 쉬운 C로 컴파일하기",
+   "url": "https://news.hada.io/topic?id=35135",
+   "summary": "Eurydice 는 Rust 코드의 전체 구조를 유지하면서 C로 변환하는 도구로, 기존 C용 검증 및 규정 준수 도구를 사용하는 고신뢰성 소프트웨어와 Rust 컴파일러가 없는 환경을 겨냥함 기계어 생성을 위한 최적화보다 원본 구조와 평가 순서 보존 에 집중하며, 필요한 곳...",
+   "publishedAt": 1791664630000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "FDA, 일부 독성 화학물질의 안전성 검토 없는 식품 첨가를 허용할 수도",
+   "url": "https://news.hada.io/topic?id=35134",
+   "summary": "미국 FDA가 포장재와 가공 장비 등 식품 접촉 물질에 적용하던 규제 임계치 면제(TOR) 를 식품에 직접 넣는 성분까지 확대하는 규칙을 제안함 현행 면제 기준은 비발암성 물질, 0.5ppb 미만 이지만, 공중보건 단체들은 일부 내분비계 교란 물질이 이보다 훨씬 낮은 ...",
+   "publishedAt": 1791664450000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -783,28 +797,14 @@
    "comments": 458,
    "publishedAt": 1791396058000,
    "isAI": true,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "C 언어의 정의되지 않은 동작 줄이기",
-   "url": "https://news.hada.io/topic?id=35131",
-   "summary": "C 표준 위원회가 정의되지 않은 동작(UB) 을 줄이고 있으며, 진행 중인 C2y 초안 은 기존 표준의 약 100개 UB 항목 중 45개를 제거함 UB가 있는 프로그램에는 표준이 요구사항을 부과하지 않아, 컴파일러의 공격적인 최적화 와 개발자가 기대하는 실...",
-   "publishedAt": 1791657472000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 35.1,
    "hot": false
   },
   {
-   "title": "프리온 질환 치료제 후보물질 임상시험, 참가자 모집 시작",
-   "url": "https://news.hada.io/topic?id=35130",
-   "summary": "Broad Institute와 UMass Chan Medical School이 개발한 프리온 단백질 표적 siRNA 후보물질 이 첫 인체 시험에 들어감. 1상 임상시험 PRiSM에서 안전성과 내약성, 용량을 평가함 후보물질은 동일한 siRNA 두 개를 연결한 이가성 siRNA 로, 프리온 단백질을 만드는 R...",
-   "publishedAt": 1791657292000,
+   "title": "내 집값은 오르고 재산세는 내려가면 좋겠다",
+   "url": "https://news.hada.io/topic?id=35133",
+   "summary": "미국 여러 주가 자가 거주 주택의 재산세를 감면 하면서 학교와 경찰 등 공공서비스 비용 부담을 상업용 부동산 소유자, 다른 지방세, 주정부 재원으로 옮기고 있음 코로나19 이후 주택 가치 상승으로 자산이 늘어난 소유자들이 재산세 인상에 반발 하고 있으며, 같은...",
+   "publishedAt": 1791660783000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -822,17 +822,17 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 1348,
-   "comments": 1528,
+   "comments": 1529,
    "publishedAt": 1791325041000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.8,
    "hot": false
   },
   {
-   "title": "Apple/macOS, 공식 Unix 등록부에서 조용히 삭제됨",
-   "url": "https://news.hada.io/topic?id=35129",
-   "summary": "The Open Group의 UNIX 인증 제품 등록부 에 IBM, Hewlett Packard Enterprise, The SCO Group 제품이 나열돼 있으며, 제공된 목록에는 Apple/macOS가 없음 Single UNIX Specification 을 완전히 준수하고 인증받은 시스템만 UNIX 상표를 사용할 수...",
-   "publishedAt": 1791653778000,
+   "title": "C 언어의 정의되지 않은 동작 줄이기",
+   "url": "https://news.hada.io/topic?id=35131",
+   "summary": "C 표준 위원회가 정의되지 않은 동작(UB) 을 줄이고 있으며, 진행 중인 C2y 초안 은 기존 표준의 약 100개 UB 항목 중 45개를 제거함 UB가 있는 프로그램에는 표준이 요구사항을 부과하지 않아, 컴파일러의 공격적인 최적화 와 개발자가 기대하는 실...",
+   "publishedAt": 1791657472000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -840,6 +840,20 @@
    "baseWeight": 42,
    "isAI": false,
    "score": 34.8,
+   "hot": false
+  },
+  {
+   "title": "프리온 질환 치료제 후보물질 임상시험, 참가자 모집 시작",
+   "url": "https://news.hada.io/topic?id=35130",
+   "summary": "Broad Institute와 UMass Chan Medical School이 개발한 프리온 단백질 표적 siRNA 후보물질 이 첫 인체 시험에 들어감. 1상 임상시험 PRiSM에서 안전성과 내약성, 용량을 평가함 후보물질은 동일한 siRNA 두 개를 연결한 이가성 siRNA 로, 프리온 단백질을 만드는 R...",
+   "publishedAt": 1791657292000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -853,28 +867,14 @@
    "comments": 310,
    "publishedAt": 1791502183000,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
-   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-   "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-   "publishedAt": 1791668871000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "Bitwarden, 앱 스토어 배포를 상용 라이선스 빌드로 전환",
-   "url": "https://news.hada.io/topic?id=35127",
-   "summary": "Bitwarden은 다음 릴리스부터 앱 스토어에 상용 라이선스 빌드 를 배포함. 사용자가 따로 조치할 필요는 없으며, 앱은 현재와 동일하게 작동함 GPLv3 오픈소스 버전 은 GitHub에서 계속 업데이트하고 공개하며, 현재 제공하는 모든 기능은 두 버전에서 모두 이용 가능...",
-   "publishedAt": 1791650271000,
+   "title": "Apple/macOS, 공식 Unix 등록부에서 조용히 삭제됨",
+   "url": "https://news.hada.io/topic?id=35129",
+   "summary": "The Open Group의 UNIX 인증 제품 등록부 에 IBM, Hewlett Packard Enterprise, The SCO Group 제품이 나열돼 있으며, 제공된 목록에는 Apple/macOS가 없음 Single UNIX Specification 을 완전히 준수하고 인증받은 시스템만 UNIX 상표를 사용할 수...",
+   "publishedAt": 1791653778000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -882,34 +882,6 @@
    "baseWeight": 42,
    "isAI": false,
    "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "자기회귀 확산으로 시장 데이터를 생성할 수 있을까?",
-   "url": "https://news.hada.io/topic?id=35126",
-   "summary": "Jane Street의 연구 인턴 프로젝트는 미래 가격 하나를 예측하는 대신, 시장 이벤트와 발생 시점까지 생성 하는 자기회귀 확산 모델을 실험함 시장 데이터에는 연속적인 수치와 이산적인 행동이 섞여 있어, 완전 연속형 확산 모델 만으로는 특정 가격과 시간에 확률이...",
-   "publishedAt": 1791650091000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
-   "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50020927",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 243,
-   "comments": 345,
-   "publishedAt": 1791555619000,
-   "isAI": false,
-   "score": 34.3,
    "hot": false
   },
   {
@@ -923,7 +895,63 @@
    "comments": 609,
    "publishedAt": 1791443140000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+   "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+   "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+   "publishedAt": 1791668871000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "Bitwarden, 앱 스토어 배포를 상용 라이선스 빌드로 전환",
+   "url": "https://news.hada.io/topic?id=35127",
+   "summary": "Bitwarden은 다음 릴리스부터 앱 스토어에 상용 라이선스 빌드 를 배포함. 사용자가 따로 조치할 필요는 없으며, 앱은 현재와 동일하게 작동함 GPLv3 오픈소스 버전 은 GitHub에서 계속 업데이트하고 공개하며, 현재 제공하는 모든 기능은 두 버전에서 모두 이용 가능...",
+   "publishedAt": 1791650271000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "자기회귀 확산으로 시장 데이터를 생성할 수 있을까?",
+   "url": "https://news.hada.io/topic?id=35126",
+   "summary": "Jane Street의 연구 인턴 프로젝트는 미래 가격 하나를 예측하는 대신, 시장 이벤트와 발생 시점까지 생성 하는 자기회귀 확산 모델을 실험함 시장 데이터에는 연속적인 수치와 이산적인 행동이 섞여 있어, 완전 연속형 확산 모델 만으로는 특정 가격과 시간에 확률이...",
+   "publishedAt": 1791650091000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
+   "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50020927",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 243,
+   "comments": 345,
+   "publishedAt": 1791555619000,
+   "isAI": false,
+   "score": 34,
    "hot": false
   },
   {
@@ -937,7 +965,7 @@
    "comments": 66,
    "publishedAt": 1791571124000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -951,7 +979,7 @@
    "comments": 3,
    "publishedAt": 1791446917000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -965,7 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -979,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -993,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1007,7 +1035,7 @@
    "comments": 283,
    "publishedAt": 1791515285000,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1021,21 +1049,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "미국 기업들이 원재료 목록을 조작하는 데 쓰는 속임수",
-   "url": "https://news.hada.io/topic?id=35120",
-   "summary": "미국 기업들이 원재료 쪼개기(ingredient splitting) 로 제품의 첫 번째 원재료 표시를 조작한다는 비판이 나옴 사례로 든 Smuckers 제품은 딸기를 첫 번째 원재료로 표시해, 딸기가 주원료라는 인상을 준다는 비판을 받음 해당 제품은 감미료를 ...",
-   "publishedAt": 1791639360000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1049,7 +1063,35 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "미국 기업들이 원재료 목록을 조작하는 데 쓰는 속임수",
+   "url": "https://news.hada.io/topic?id=35120",
+   "summary": "미국 기업들이 원재료 쪼개기(ingredient splitting) 로 제품의 첫 번째 원재료 표시를 조작한다는 비판이 나옴 사례로 든 Smuckers 제품은 딸기를 첫 번째 원재료로 표시해, 딸기가 주원료라는 인상을 준다는 비판을 받음 해당 제품은 감미료를 ...",
+   "publishedAt": 1791639360000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "Programming Isn't Special",
+   "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50017357",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 270,
+   "comments": 261,
+   "publishedAt": 1791531876000,
+   "isAI": false,
+   "score": 33,
    "hot": false
   },
   {
@@ -1063,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1077,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1091,21 +1133,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Programming Isn't Special",
-   "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50017357",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 269,
-   "comments": 260,
-   "publishedAt": 1791531876000,
-   "isAI": false,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   },
   {
@@ -1115,11 +1143,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 138,
+   "engagement": 139,
    "comments": 39,
    "publishedAt": 1791588516000,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1130,10 +1158,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 295,
-   "comments": 130,
+   "comments": 131,
    "publishedAt": 1791443254000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1147,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1161,21 +1189,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "할리우드, AI 불안 속 저커버그·머스크·알트먼 영화 잇따라 선보여",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216132",
-   "summary": "할리우드가 마크 저커버그 메타 CEO와 일론 머스크 CEO, 샘 알트먼 오픈AI CEO 등 기술 업계 거물들이 등장하는 작품을 연이어 선보인다. AI의 위험과 빅테크의 영향력에 대한 대중의 불안이 커지는 가운데, 이들 작품이 어떤 반향을 일으킬지 관심이 모인다.애런 소킨 감독의 소니 픽처스 영화 ‘소셜 레코닝(The Social Reckoning)’은 9일(현지시간) 미국에서 개봉했다. 2010년작 ‘소셜 네트워크’의 후속작으로, 페이스북 내부 문서를 폭로한 내부고발자 프랜시스 하우건의 2021년 사건을 다룬다. 영화는 개봉 첫날",
-   "publishedAt": 1791708895000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1189,21 +1203,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
-   "title": "아레나, 2700억 투자 유치…AI 안전성 평가 '정렬 지수' 도입",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216131",
-   "summary": "사용자 평가를 기반으로 가파른 성장세를 이어온 AI 모델 평가 플랫폼 아레나(Arena)가 기업가치 4조원 고지에 올랐다. 아레나는 이번 대규모 투자 유치를 발판 삼아 단순한 성능 비교를 넘어 AI의 안전성과 신뢰성을 측정하는 '정렬 지수(Alignment Index)' 분야로 사업 영역을 본격 확장한다.8일(현지시간) 블룸버그에 따르면, 아레나는 2억달러(약 2700억원) 규모의 시리즈 B 투자를 유치하며 기업가치 31억달러(약 4조원)를 인정받았다. 이번 투자금을 바탕으로 기존 모델 성능 평가를 넘어, AI 안전성과 정렬을 측정",
-   "publishedAt": 1791703924000,
+   "title": "할리우드, AI 불안 속 저커버그·머스크·알트먼 영화 잇따라 선보여",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216132",
+   "summary": "할리우드가 마크 저커버그 메타 CEO와 일론 머스크 CEO, 샘 알트먼 오픈AI CEO 등 기술 업계 거물들이 등장하는 작품을 연이어 선보인다. AI의 위험과 빅테크의 영향력에 대한 대중의 불안이 커지는 가운데, 이들 작품이 어떤 반향을 일으킬지 관심이 모인다.애런 소킨 감독의 소니 픽처스 영화 ‘소셜 레코닝(The Social Reckoning)’은 9일(현지시간) 미국에서 개봉했다. 2010년작 ‘소셜 네트워크’의 후속작으로, 페이스북 내부 문서를 폭로한 내부고발자 프랜시스 하우건의 2021년 사건을 다룬다. 영화는 개봉 첫날",
+   "publishedAt": 1791708895000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+   "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=49997161",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 376,
+   "comments": 386,
+   "publishedAt": 1791398980000,
+   "isAI": true,
+   "score": 32,
    "hot": false
   },
   {
@@ -1217,21 +1245,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "AI-ready biological data: $1.8B global commitment",
-   "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50011999",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 148,
-   "comments": 20,
-   "publishedAt": 1791492385000,
-   "isAI": true,
-   "score": 32.2,
+   "score": 32,
    "hot": false
   },
   {
@@ -1245,49 +1259,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.2,
+   "score": 32,
    "hot": false
   },
   {
-   "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-   "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=49997161",
+   "title": "아레나, 2700억 투자 유치…AI 안전성 평가 '정렬 지수' 도입",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216131",
+   "summary": "사용자 평가를 기반으로 가파른 성장세를 이어온 AI 모델 평가 플랫폼 아레나(Arena)가 기업가치 4조원 고지에 올랐다. 아레나는 이번 대규모 투자 유치를 발판 삼아 단순한 성능 비교를 넘어 AI의 안전성과 신뢰성을 측정하는 '정렬 지수(Alignment Index)' 분야로 사업 영역을 본격 확장한다.8일(현지시간) 블룸버그에 따르면, 아레나는 2억달러(약 2700억원) 규모의 시리즈 B 투자를 유치하며 기업가치 31억달러(약 4조원)를 인정받았다. 이번 투자금을 바탕으로 기존 모델 성능 평가를 넘어, AI 안전성과 정렬을 측정",
+   "publishedAt": 1791703924000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "AI-ready biological data: $1.8B global commitment",
+   "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50011999",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 376,
-   "comments": 385,
-   "publishedAt": 1791398980000,
+   "engagement": 148,
+   "comments": 20,
+   "publishedAt": 1791492385000,
    "isAI": true,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "Here are the top AI agents that can live in your text messages",
-   "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-   "publishedAt": 1791640800000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "아이디어를 찾기가 더 어려워지고 있는 것은 아니다 (2022)",
-   "url": "https://news.hada.io/topic?id=35111",
-   "summary": "연구자 1인당 생산성 감소 만으로 새로운 아이디어를 찾기 어려워졌다고 단정할 수는 없음. 연구 조직의 비효율과 유인 구조 등 다른 원인으로도 같은 결과가 나타날 수 있음 과거의 발견은 사후확신 편향 때문에 쉬워 보이고, 아직 떠올리지 못한 아이디어는 언제나...",
-   "publishedAt": 1791621853000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1301,7 +1301,35 @@
    "comments": 179,
    "publishedAt": 1791523378000,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "Here are the top AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "publishedAt": 1791640800000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "아이디어를 찾기가 더 어려워지고 있는 것은 아니다 (2022)",
+   "url": "https://news.hada.io/topic?id=35111",
+   "summary": "연구자 1인당 생산성 감소 만으로 새로운 아이디어를 찾기 어려워졌다고 단정할 수는 없음. 연구 조직의 비효율과 유인 구조 등 다른 원인으로도 같은 결과가 나타날 수 있음 과거의 발견은 사후확신 편향 때문에 쉬워 보이고, 아직 떠올리지 못한 아이디어는 언제나...",
+   "publishedAt": 1791621853000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1315,7 +1343,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1329,7 +1357,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1339,11 +1367,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 196,
-   "comments": 57,
+   "engagement": 199,
+   "comments": 58,
    "publishedAt": 1791528769000,
    "isAI": false,
-   "score": 31.2,
+   "score": 31,
    "hot": false
   },
   {
@@ -1357,7 +1385,7 @@
    "comments": 145,
    "publishedAt": 1791395318000,
    "isAI": true,
-   "score": 31,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1371,35 +1399,7 @@
    "comments": 165,
    "publishedAt": 1791387861000,
    "isAI": false,
-   "score": 30.8,
-   "hot": false
-  },
-  {
-   "title": "파나마에서 규모 7.6 지진 발생",
-   "url": "https://news.hada.io/topic?id=35107",
-   "summary": "USGS는 파나마 Pitaloza Arriba 서남서쪽 12km에서 발생한 지진을 규모 7.7 , 깊이 12.6km 로 기록했으며, HN 제목의 규모 7.6과 차이가 있음 약 460만 명 이 MMI V~VIII의 흔들림을 경험했으며, USGS는 흔들림의 영향과 재난 피해가 광범위할 가능성...",
-   "publishedAt": 1791606705000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 30.8,
-   "hot": false
-  },
-  {
-   "title": "중국 AI 모델 안전성 평가 공개율 3.6%...출시 전 공개는 고작 1.1%",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216127",
-   "summary": "중국 AI 개발사들이 모델을 출시할 때 미리 안전성 검증 결과를 투명하게 오픈하는 비율은 1.1%로 극히 드물고, 나중에 시간이 한참 지난 뒤에야 뒤늦게 일부 공개하는 사례를 모두 합쳐도 전체의 3.6%에 불과하다는 조사 결과가 나왔다. 중국 정부가 AI 안전 위험을 공식적으로 인정하고 있지만, 실제 산업 현장에서는 모델 성능과 시장 선점에 우선순위를 두고 있다는 지적이다.AI 분석 전문 세미애널리시스는 9일(현지시간) 2021년부터 2026년 9월15일까지 알리바바, 바이트댄스, 텐센트, 바이두, 딥시크, 문샷 AI, Z.ai(지",
-   "publishedAt": 1791685589000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.7,
+   "score": 30.6,
    "hot": false
   }
  ]
