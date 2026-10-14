@@ -1,5 +1,5 @@
 {
- "updatedAt": 1791934633636,
+ "updatedAt": 1791943507696,
  "week": "2026-W42",
  "items": [
   {
@@ -9,25 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 894,
-   "comments": 698,
+   "engagement": 1017,
+   "comments": 762,
    "publishedAt": 1791907396000,
    "isAI": true,
-   "score": 67.3,
-   "hot": true
-  },
-  {
-   "title": "Redesigning source control at Anthropic",
-   "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50073633",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 470,
-   "comments": 467,
-   "publishedAt": 1791906596000,
-   "isAI": true,
-   "score": 61.5,
+   "score": 66.7,
    "hot": true
   },
   {
@@ -37,25 +23,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 332,
-   "comments": 285,
+   "engagement": 416,
+   "comments": 367,
    "publishedAt": 1791923035000,
    "isAI": true,
-   "score": 61.3,
+   "score": 61.8,
    "hot": true
   },
   {
-   "title": "Apple HomeView",
-   "url": "https://www.apple.com/apple-homeview/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50071017",
+   "title": "Redesigning source control at Anthropic",
+   "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50073633",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 631,
-   "comments": 756,
-   "publishedAt": 1791896532000,
-   "isAI": false,
-   "score": 55.1,
+   "engagement": 555,
+   "comments": 531,
+   "publishedAt": 1791906596000,
+   "isAI": true,
+   "score": 61.4,
    "hot": true
   },
   {
@@ -65,11 +51,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 224,
-   "comments": 139,
+   "engagement": 257,
+   "comments": 148,
    "publishedAt": 1791905150000,
    "isAI": true,
-   "score": 54.8,
+   "score": 54.6,
+   "hot": true
+  },
+  {
+   "title": "Apple HomeView",
+   "url": "https://www.apple.com/apple-homeview/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50071017",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 667,
+   "comments": 784,
+   "publishedAt": 1791896532000,
+   "isAI": false,
+   "score": 54.2,
+   "hot": true
+  },
+  {
+   "title": "Gemini 4 Argon for Robotics",
+   "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50074869",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 201,
+   "comments": 45,
+   "publishedAt": 1791910547000,
+   "isAI": true,
+   "score": 53.3,
    "hot": true
   },
   {
@@ -79,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 651,
-   "comments": 363,
+   "engagement": 684,
+   "comments": 379,
    "publishedAt": 1791887220000,
    "isAI": false,
-   "score": 54,
+   "score": 53.1,
    "hot": true
   },
   {
@@ -93,26 +107,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 639,
-   "comments": 509,
+   "engagement": 649,
+   "comments": 518,
    "publishedAt": 1791841218000,
    "isAI": true,
-   "score": 53.8,
+   "score": 52.7,
    "hot": false
-  },
-  {
-   "title": "Gemini 4 Argon for Robotics",
-   "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50074869",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 174,
-   "comments": 41,
-   "publishedAt": 1791910547000,
-   "isAI": true,
-   "score": 53.4,
-   "hot": true
   },
   {
    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
@@ -121,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 269,
-   "comments": 260,
+   "engagement": 295,
+   "comments": 270,
    "publishedAt": 1791876514000,
    "isAI": true,
-   "score": 52.1,
+   "score": 51.6,
    "hot": true
   },
   {
@@ -139,8 +139,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.4,
-   "hot": true
+   "score": 50.1,
+   "hot": false
   },
   {
    "title": "Thunderbird for iOS",
@@ -149,11 +149,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 304,
-   "comments": 123,
+   "engagement": 344,
+   "comments": 153,
    "publishedAt": 1791904057000,
    "isAI": false,
-   "score": 50,
+   "score": 49.8,
+   "hot": true
+  },
+  {
+   "title": "로보틱스를 위한 Gemini 4 Argon",
+   "url": "https://news.hada.io/topic?id=35326",
+   "summary": "Gemini 4 Argon 은 물리 추론, 코드 생성, 시각적 의미 추론을 결합해 로봇 제어부터 시뮬레이션 구축, 데이터 주석, 연구와 자기 개선까지 지원함 3D 환경의 물리적 공간 문제 해결 능력을 평가하는 ERQA 벤치마크 에서 순수 추론으로 87% 를 기록...",
+   "publishedAt": 1791941647000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
+   "hot": true
+  },
+  {
+   "title": "AesCode - 이미지의 디자인을 참고해 HTML/CSS를 생성하는 AI 모델",
+   "url": "https://news.hada.io/topic?id=35322",
+   "summary": "슬라이드와 포스터, 대시보드를 수정 가능한 HTML/CSS로 생성 하는 Microsoft의 AI 모델 이미지 생성 모델이 만든 참고 이미지에서 레이아웃과 스타일을 가져오고, 문구와 수치는 프롬프트를 기준으로 생성 하도록 학습 결과물은 완전한 HTML 문서로 출력, ...",
+   "publishedAt": 1791938402000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.2,
+   "hot": true
+  },
+  {
+   "title": "AI 코딩이 그렇게 뛰어나다면, 새롭고 좋은 소프트웨어는 다 어디에 있나?",
+   "url": "https://news.hada.io/topic?id=35319",
+   "summary": "AI 코딩이 뛰어나다면 왜 새롭고 좋은 소프트웨어가 더 많이 보이지 않을까? 기존 제품의 개선, 비공개 도구의 증가, 조직의 병목 등 9가지 가설을 제시 발전이 새 제품의 등장보다 기존 소프트웨어의 버그 감소, 성능 향상, 기능 추가 로 나타날 수 있으며, 새 도구...",
+   "publishedAt": 1791936410000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.9,
    "hot": true
   },
   {
@@ -167,8 +209,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 50,
+   "score": 48.7,
    "hot": true
+  },
+  {
+   "title": "How to engineer an AI harness for game development",
+   "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50072120",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 134,
+   "comments": 60,
+   "publishedAt": 1791900863000,
+   "isAI": true,
+   "score": 48.5,
+   "hot": false
   },
   {
    "title": "AI models can provably hide arbitrary capabilities",
@@ -177,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 271,
+   "engagement": 273,
    "comments": 136,
    "publishedAt": 1791857228000,
    "isAI": true,
-   "score": 49.5,
+   "score": 48.4,
    "hot": true
   },
   {
@@ -195,7 +251,7 @@
    "comments": 80,
    "publishedAt": 1791886114000,
    "isAI": true,
-   "score": 49.1,
+   "score": 47.9,
    "hot": true
   },
   {
@@ -206,24 +262,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 145,
-   "comments": 20,
+   "comments": 21,
    "publishedAt": 1791890648000,
    "isAI": true,
-   "score": 49,
+   "score": 47.8,
    "hot": false
   },
   {
-   "title": "Hacker News에 서비스를 소개했더니 AI 봇 트래픽이 밀려들었다",
-   "url": "https://news.hada.io/topic?id=35313",
-   "summary": "맞춤형 피드 리더 sprinklz.io 를 Hacker News에 소개한 뒤 사이트가 심하게 느려졌으며, 실제 로그인 사용자는 소수인데도 높은 서버 부하가 며칠 동안 지속 엔드포인트별 요청 로그를 확인하자 대부분의 요청이 뉴스 조회 API를 호출하지 않았고 , 화면을 렌더링하...",
-   "publishedAt": 1791927689000,
-   "source": "GeekNews",
+   "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+   "url": "https://www.argmin.net/p/faster-fourier-transforms",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50065932",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 239,
+   "comments": 158,
+   "publishedAt": 1791859603000,
    "isAI": true,
-   "score": 49,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -237,7 +293,21 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 48.9,
+   "score": 47.7,
+   "hot": true
+  },
+  {
+   "title": "Hacker News에 서비스를 소개했더니 AI 봇 트래픽이 밀려들었다",
+   "url": "https://news.hada.io/topic?id=35313",
+   "summary": "맞춤형 피드 리더 sprinklz.io 를 Hacker News에 소개한 뒤 사이트가 심하게 느려졌으며, 실제 로그인 사용자는 소수인데도 높은 서버 부하가 며칠 동안 지속 엔드포인트별 요청 로그를 확인하자 대부분의 요청이 뉴스 조회 API를 호출하지 않았고 , 화면을 렌더링하...",
+   "publishedAt": 1791927689000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -251,50 +321,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
+   "score": 47.7,
    "hot": true
-  },
-  {
-   "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
-   "url": "https://www.argmin.net/p/faster-fourier-transforms",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50065932",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 237,
-   "comments": 155,
-   "publishedAt": 1791859603000,
-   "isAI": true,
-   "score": 48.8,
-   "hot": true
-  },
-  {
-   "title": "How to engineer an AI harness for game development",
-   "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50072120",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 114,
-   "comments": 51,
-   "publishedAt": 1791900863000,
-   "isAI": true,
-   "score": 48.3,
-   "hot": false
-  },
-  {
-   "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-   "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50063365",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 301,
-   "comments": 175,
-   "publishedAt": 1791840935000,
-   "isAI": true,
-   "score": 48.2,
-   "hot": false
   },
   {
    "title": "New Apple TV 4K",
@@ -303,12 +331,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 269,
-   "comments": 512,
+   "engagement": 294,
+   "comments": 553,
    "publishedAt": 1791897695000,
    "isAI": false,
-   "score": 48,
+   "score": 47.6,
    "hot": true
+  },
+  {
+   "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+   "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50063365",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 302,
+   "comments": 175,
+   "publishedAt": 1791840935000,
+   "isAI": true,
+   "score": 47.2,
+   "hot": false
   },
   {
    "title": "Apple, 새로운 Apple TV 4K 공개",
@@ -321,8 +363,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 46.8,
    "hot": true
+  },
+  {
+   "title": "AI coding agents generate more code, but not more software",
+   "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50059523",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 360,
+   "comments": 299,
+   "publishedAt": 1791825241000,
+   "isAI": true,
+   "score": 46.7,
+   "hot": false
   },
   {
    "title": "Anthropic, AI 코딩으로 늘어난 변경량에 대응해 Git을 자체 버전 관리 시스템 Scion으로 교체",
@@ -335,22 +391,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 46.7,
    "hot": true
-  },
-  {
-   "title": "AI coding agents generate more code, but not more software",
-   "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50059523",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 359,
-   "comments": 299,
-   "publishedAt": 1791825241000,
-   "isAI": true,
-   "score": 47.6,
-   "hot": false
   },
   {
    "title": "AI 캐릭터 챗봇 Character.ai, 파산보호 신청하고 매각 추진",
@@ -363,21 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
-   "hot": true
-  },
-  {
-   "title": "Google, Gemini 4 Argon 정식 출시 - 긴 추론과 대규모 코드 작업 지원",
-   "url": "https://news.hada.io/topic?id=35306",
-   "summary": "대규모 코드 리팩터링, 과학 연구, 3D 제작과 여러 단계의 자율 작업 을 위한 Google의 추론 모델로, 일반 이용자와 개발자를 대상으로 정식 공개 long decode로 최대 약 100만 토큰의 추론과 출력 지원. 기본 출력 한도는 65,536토큰이며, 입력과 추론, 출력이 전체...",
-   "publishedAt": 1791912914000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.9,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -391,8 +419,36 @@
    "comments": 175,
    "publishedAt": 1791828025000,
    "isAI": true,
-   "score": 46.7,
+   "score": 45.7,
    "hot": false
+  },
+  {
+   "title": "Google, Gemini 4 Argon 정식 출시 - 긴 추론과 대규모 코드 작업 지원",
+   "url": "https://news.hada.io/topic?id=35306",
+   "summary": "대규모 코드 리팩터링, 과학 연구, 3D 제작과 여러 단계의 자율 작업 을 위한 Google의 추론 모델로, 일반 이용자와 개발자를 대상으로 정식 공개 long decode로 최대 약 100만 토큰의 추론과 출력 지원. 기본 출력 한도는 65,536토큰이며, 입력과 추론, 출력이 전체...",
+   "publishedAt": 1791912914000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 45.7,
+   "hot": true
+  },
+  {
+   "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+   "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50070593",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 229,
+   "comments": 96,
+   "publishedAt": 1791894396000,
+   "isAI": false,
+   "score": 45.1,
+   "hot": true
   },
   {
    "title": "Why aren't AI companies being charged for hacking?",
@@ -405,7 +461,7 @@
    "comments": 366,
    "publishedAt": 1791816757000,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.1,
    "hot": false
   },
   {
@@ -415,11 +471,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 689,
-   "comments": 307,
+   "engagement": 691,
+   "comments": 309,
    "publishedAt": 1791821590000,
    "isAI": false,
-   "score": 45.9,
+   "score": 45,
+   "hot": false
+  },
+  {
+   "title": "QGIS enacts moratorium on AI contributions",
+   "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50054751",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 386,
+   "comments": 407,
+   "publishedAt": 1791804144000,
+   "isAI": true,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -433,35 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
-   "hot": true
-  },
-  {
-   "title": "QGIS enacts moratorium on AI contributions",
-   "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50054751",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 385,
-   "comments": 407,
-   "publishedAt": 1791804144000,
-   "isAI": true,
-   "score": 45.8,
-   "hot": false
-  },
-  {
-   "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-   "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50070593",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 216,
-   "comments": 91,
-   "publishedAt": 1791894396000,
-   "isAI": false,
-   "score": 45.7,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -475,7 +517,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 44.5,
+   "hot": true
+  },
+  {
+   "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+   "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50072286",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 189,
+   "comments": 320,
+   "publishedAt": 1791901568000,
+   "isAI": false,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -489,8 +545,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
-   "hot": true
+   "score": 43.7,
+   "hot": false
+  },
+  {
+   "title": "The gap in shared understanding of LLM capability is widening",
+   "url": "https://twitter.com/karpathy/status/2109361546505966046",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50047422",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 715,
+   "comments": 1045,
+   "publishedAt": 1791750052000,
+   "isAI": true,
+   "score": 43.6,
+   "hot": false
   },
   {
    "title": "OpenAI가 주장하는 더 빠른 푸리에 변환의 수학 살펴보기",
@@ -503,36 +573,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.6,
-   "hot": true
-  },
-  {
-   "title": "The gap in shared understanding of LLM capability is widening",
-   "url": "https://twitter.com/karpathy/status/2109361546505966046",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50047422",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 715,
-   "comments": 1044,
-   "publishedAt": 1791750052000,
-   "isAI": true,
-   "score": 44.4,
+   "score": 43.5,
    "hot": false
-  },
-  {
-   "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-   "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50072286",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 163,
-   "comments": 273,
-   "publishedAt": 1791901568000,
-   "isAI": false,
-   "score": 44.2,
-   "hot": true
   },
   {
    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
@@ -541,11 +583,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 109,
+   "engagement": 111,
    "comments": 124,
    "publishedAt": 1791871052000,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -556,10 +598,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 146,
-   "comments": 102,
+   "comments": 103,
    "publishedAt": 1791846445000,
    "isAI": true,
-   "score": 43.5,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -570,10 +612,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 215,
-   "comments": 85,
+   "comments": 86,
    "publishedAt": 1791818205000,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -587,7 +629,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 41.9,
+   "hot": false
+  },
+  {
+   "title": "Just say no to OpenAI and Anthropic",
+   "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50060500",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 168,
+   "comments": 162,
+   "publishedAt": 1791829049000,
+   "isAI": true,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -601,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -615,22 +671,64 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.8,
+   "score": 41.8,
    "hot": false
   },
   {
-   "title": "Just say no to OpenAI and Anthropic",
-   "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50060500",
-   "source": "Hacker News",
+   "title": "Show GN: 자신이 독서를 기록하고 공유하는 사이트",
+   "url": "https://news.hada.io/topic?id=35324",
+   "summary": "요즘 독서에 빠지면서 직접 기록하는 사이트를 만들어보고자 진행한 프로젝트입니다. 블로그에 독후감을 기록하듯이 자신이 읽은 책을 기록하며 남들과 공유할 수 있고, 다른 사람들은 어떤 책들을 읽는지 자유롭게 탐방할 수 있습니다.",
+   "publishedAt": 1791940919000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 168,
-   "comments": 161,
-   "publishedAt": 1791829049000,
-   "isAI": true,
-   "score": 42.7,
-   "hot": false
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
+  },
+  {
+   "title": "영국의 1인당 전력 생산량, 1970년대보다 적어짐",
+   "url": "https://news.hada.io/topic?id=35321",
+   "summary": "영국의 1인당 전력 생산량 은 2003년 정점 이후 3분의 1 넘게 감소해, 현재 1960년대 후반 수준으로 돌아감 이와 반대로 전 세계 1인당 전력 생산량 은 이번 세기 들어 50% 넘게 증가함 발전량 감소의 일부는 전력 순수입 증가 에 따른 것이...",
+   "publishedAt": 1791938040000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
+  },
+  {
+   "title": "Rebalancer - 복잡한 제약 조건에 맞춰 작업과 자원을 배치하는 Meta의 최적화 도구",
+   "url": "https://news.hada.io/topic?id=35320",
+   "summary": "서버에 작업을 배치하거나 샤드를 분산할 때, 용량 제한/부하 균형/장애 대비등의 조건을 고려해 배치안을 계산 복잡한 수학식 대신 25개 이상의 목표와 제약 조건을 조합 해 문제를 정의 같은 문제에 여러 알고리듬을 적용해 처리 속도와 해결책의 품질을...",
+   "publishedAt": 1791937802000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
+  },
+  {
+   "title": "Gentoo 개발자, 순수 Python 패키지에 uv-build를 쓰지 말아 달라고 호소",
+   "url": "https://news.hada.io/topic?id=35318",
+   "summary": "Gentoo 개발자가 순수 Python 패키지의 빌드 백엔드로 uv-build를 사용하지 말아 달라고 요청 . 핵심 의존성 하나의 전환으로 십여 개 패키지에서 일부 아키텍처의 지원 표식이 제거된 것이 계기 Rust 기반 uv-build는 작은 Python 백엔드보다 의존성이 크고, 잦은 릴리스로 소스에서...",
+   "publishedAt": 1791936230000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
+   "hot": true
   },
   {
    "title": "Show GN: Bohm - AI로 만든 웹앱을 데이터와 함께 내 PC에서 계속 쓰게 해주는 AI 브라우저",
@@ -643,8 +741,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.9,
+   "score": 41,
    "hot": false
+  },
+  {
+   "title": "Guitoro, 키보드로 줄을 튕겨 연주하는 가상 기타",
+   "url": "https://news.hada.io/topic?id=35316",
+   "summary": "Guitoro 는 설치나 회원가입 없이 브라우저에서 무료로 연주하는 가상 기타로, 키보드 왼손으로 코드를 잡고 오른손으로 스트로크하거나 터치 화면의 줄을 쓸어 연주함 실제 악기 녹음 샘플 을 사용하는 어쿠스틱 기타, 클래식 기타, 일렉트릭 기타, 4현 베이스를 제...",
+   "publishedAt": 1791934708000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.9,
+   "hot": true
   },
   {
    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
@@ -654,10 +766,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 157,
-   "comments": 110,
+   "comments": 116,
    "publishedAt": 1791823594000,
    "isAI": true,
-   "score": 41.6,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -671,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -685,7 +797,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 40.5,
+   "hot": false
+  },
+  {
+   "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+   "url": "https://github.com/h0m3us3r/w1700k-sdr",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50055593",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 412,
+   "comments": 121,
+   "publishedAt": 1791808918000,
+   "isAI": false,
+   "score": 40.2,
+   "hot": false
+  },
+  {
+   "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+   "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50054092",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 451,
+   "comments": 336,
+   "publishedAt": 1791799777000,
+   "isAI": false,
+   "score": 40,
    "hot": false
   },
   {
@@ -699,22 +839,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40,
    "hot": true
-  },
-  {
-   "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-   "url": "https://github.com/h0m3us3r/w1700k-sdr",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50055593",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 410,
-   "comments": 116,
-   "publishedAt": 1791808918000,
-   "isAI": false,
-   "score": 41,
-   "hot": false
   },
   {
    "title": "OpenAI와 Anthropic을 단호히 거부하자",
@@ -727,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.8,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -741,7 +867,7 @@
    "comments": 217,
    "publishedAt": 1791781427000,
    "isAI": true,
-   "score": 40.5,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -755,21 +881,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.2,
    "hot": true
   },
   {
-   "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-   "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-   "publishedAt": 1791932734000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
+   "title": "AI models may be capable of self-replicating without access to a datacenter",
+   "url": "https://www.anthropic.com/research/self-replicating-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50061603",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
+   "engagement": 106,
+   "comments": 109,
+   "publishedAt": 1791833129000,
    "isAI": true,
-   "score": 39.8,
+   "score": 39,
    "hot": false
   },
   {
@@ -783,35 +909,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.8,
+   "score": 38.9,
    "hot": false
   },
   {
-   "title": "AI models may be capable of self-replicating without access to a datacenter",
-   "url": "https://www.anthropic.com/research/self-replicating-ai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50061603",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 105,
-   "comments": 108,
-   "publishedAt": 1791833129000,
-   "isAI": true,
-   "score": 39.7,
-   "hot": false
-  },
-  {
-   "title": "Cerebras CEO pushes back on AI doomsday warnings",
-   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-   "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-   "publishedAt": 1791931019000,
+   "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+   "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+   "publishedAt": 1791932734000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.6,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -825,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.6,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -839,7 +951,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.5,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -853,7 +965,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.4,
+   "score": 38.6,
+   "hot": false
+  },
+  {
+   "title": "Cerebras CEO pushes back on AI doomsday warnings",
+   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+   "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+   "publishedAt": 1791931019000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -867,21 +993,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.3,
+   "score": 38.4,
    "hot": false
   },
   {
-   "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-   "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50054092",
+   "title": "AWS Lambda Web Functions",
+   "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50069318",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 358,
-   "comments": 290,
-   "publishedAt": 1791799777000,
+   "engagement": 104,
+   "comments": 97,
+   "publishedAt": 1791886023000,
    "isAI": false,
-   "score": 39.2,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -895,21 +1021,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.7,
-   "hot": false
-  },
-  {
-   "title": "생각은 취미가 될 것이다",
-   "url": "https://news.hada.io/topic?id=35259",
-   "summary": "AI가 오늘날 인지 노동의 대부분을 맡게 되면서, 인간의 사고는 경제적 목적에서 분리돼 여가 활동으로 바뀔 것 으로 전망함 AI의 우위를 이끄는 세 요인은 더 나은 성능, 더 낮은 비용, 더 높은 가용성 이며, 인간 노동을 대체하거나 보완할 경제적 유인이 커지고 있...",
-   "publishedAt": 1791840908000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.6,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -923,21 +1035,7 @@
    "comments": 2,
    "publishedAt": 1791880452000,
    "isAI": false,
-   "score": 38.5,
-   "hot": false
-  },
-  {
-   "title": "AWS Lambda Web Functions",
-   "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50069318",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 101,
-   "comments": 94,
-   "publishedAt": 1791886023000,
-   "isAI": false,
-   "score": 38.4,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -951,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -965,22 +1063,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.2,
    "hot": true
-  },
-  {
-   "title": "AI 코딩 에이전트는 더 많은 코드를 만들지만, 더 많은 소프트웨어를 만들지는 못함",
-   "url": "https://news.hada.io/topic?id=35257",
-   "summary": "700곳 넘는 기업의 개발 활동을 분석한 연구에서 AI 코딩 에이전트 도입 후 코드 생산량은 늘었지만, 기업 차원의 소프트웨어 산출량 증가 를 뒷받침하는 근거는 거의 없었음 에이전트 도입 후 생성된 코드 줄 수는 평균 30% 증가 했으나, Jira 등으...",
-   "publishedAt": 1791837600000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.2,
-   "hot": false
   },
   {
    "title": "프랑스 슈퍼마켓 체인들, 사이버공격으로 냉장설비 가동 중단",
@@ -993,8 +1077,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
@@ -1007,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.9,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -1021,8 +1105,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Janas - SSD를 활용해 RAM보다 큰 MoE 언어 모델을 실행하는 추론 엔진",
@@ -1035,8 +1119,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "CFTC 직원들, 의심스러운 원유 거래 분석 철회 지시받아",
@@ -1049,8 +1133,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Facebook is giving users more control over their algorithm",
@@ -1063,7 +1147,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.7,
+   "score": 36.8,
+   "hot": false
+  },
+  {
+   "title": "Google told to halt work on datacentres in Finland over environmental concerns",
+   "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50048638",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 452,
+   "comments": 173,
+   "publishedAt": 1791758010000,
+   "isAI": false,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -1077,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.5,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -1091,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.4,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -1105,8 +1203,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 36.5,
+   "hot": false
   },
   {
    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
@@ -1119,21 +1217,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.3,
-   "hot": false
-  },
-  {
-   "title": "Google told to halt work on datacentres in Finland over environmental concerns",
-   "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50048638",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 451,
-   "comments": 173,
-   "publishedAt": 1791758010000,
-   "isAI": false,
-   "score": 37.2,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -1144,23 +1228,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 133,
-   "comments": 44,
+   "comments": 45,
    "publishedAt": 1791850264000,
    "isAI": false,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "It's been too quiet on the other side of the Pacific",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 34,
-   "publishedAt": 1791891151000,
-   "isAI": true,
-   "score": 37,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1174,7 +1245,20 @@
    "comments": 34,
    "publishedAt": 1791841172000,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "It's been too quiet on the other side of the Pacific",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 34,
+   "publishedAt": 1791891151000,
+   "isAI": true,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1188,7 +1272,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+   "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50051530",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 272,
+   "comments": 343,
+   "publishedAt": 1791780840000,
+   "isAI": false,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1202,7 +1300,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1216,22 +1314,37 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.2,
    "hot": false
   },
   {
-   "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-   "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50051530",
+   "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+   "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50052638",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 271,
-   "comments": 340,
-   "publishedAt": 1791780840000,
+   "engagement": 232,
+   "comments": 116,
+   "publishedAt": 1791790133000,
    "isAI": false,
-   "score": 35.8,
+   "score": 34.9,
    "hot": false
+  },
+  {
+   "title": "3rd Yandex Cloud Data Center Was Hit",
+   "url": "https://status.yandex.cloud/en/incidents/2136",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50040547",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 640,
+   "comments": 796,
+   "publishedAt": 1791704085000,
+   "isAI": false,
+   "score": 34.9,
+   "hot": false,
+   "lastWeekRank": 2
   },
   {
    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
@@ -1244,7 +1357,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.8,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1258,7 +1371,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.6,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1272,37 +1385,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 34.7,
    "hot": false
-  },
-  {
-   "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
-   "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50052638",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 231,
-   "comments": 115,
-   "publishedAt": 1791790133000,
-   "isAI": false,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "3rd Yandex Cloud Data Center Was Hit",
-   "url": "https://status.yandex.cloud/en/incidents/2136",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50040547",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 638,
-   "comments": 796,
-   "publishedAt": 1791704085000,
-   "isAI": false,
-   "score": 35.4,
-   "hot": false,
-   "lastWeekRank": 2
   },
   {
    "title": "Show GN: 트립파파야(TripPapaya) - 무한 캔버스에서 자유롭게 여행 일정을 계획하는 도구",
@@ -1315,91 +1399,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "단세포의 불가사의한 지능 (2024)",
-   "url": "https://news.hada.io/topic?id=35279",
-   "summary": "E. coli의 주화성(chemotaxis) 은 뇌 없는 세포가 화학물질을 감지하고, 최근 환경을 기억하며, 영양분을 향해 이동하는 정교한 정보 처리 과정임 수용체가 유인물질 농도 증가를 감지하면 CheY 인산화 가 줄어들고 편모 모터의 방향 전환이 감소해, 현재 방향으로 ...",
-   "publishedAt": 1791870055000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "Yandex bot traffic down 99% after data center attack",
-   "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50051532",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 222,
-   "comments": 114,
-   "publishedAt": 1791780852000,
-   "isAI": false,
-   "score": 34.6,
-   "hot": false
-  },
-  {
-   "title": "미 연방 수사당국, Don Lemon의 프로듀서 추적에 가짜 기지국을 사용하기 위한 영장 확보",
-   "url": "https://news.hada.io/topic?id=35277",
-   "summary": "미 연방 수사당국, Don Lemon의 프로듀서 추적에 가짜 기지국을 사용하기 위한 영장 확보",
-   "publishedAt": 1791865894000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.6,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-   "url": "https://github.com/SaarthurR/atticus-mac",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50049588",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 114,
-   "comments": 26,
-   "publishedAt": 1791764112000,
-   "isAI": true,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "Show GN: 콘서트 티켓팅 연습 사이트를 만들었습니다",
-   "url": "https://news.hada.io/topic?id=35274",
-   "summary": "콘서트 티켓팅 전에 미리 연습해 볼 수 있는 웹사이트를 만들었습니다. 인기 콘서트 예매는 짧은 순간에 승부가 갈리다 보니, 막상 예매가 시작되면 긴장해서 실수하거나 원하는 좌석을 놓치는 경우가 많습니다. 그래서 실제 티켓을 구매하지 않고도 브라우저에서 티켓팅을 연습할 수 있는 사이트를 만",
-   "publishedAt": 1791861505000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-   "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50041765",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 188,
-   "comments": 147,
-   "publishedAt": 1791715641000,
-   "isAI": true,
-   "score": 34,
+   "score": 34.5,
    "hot": false
   }
  ]
