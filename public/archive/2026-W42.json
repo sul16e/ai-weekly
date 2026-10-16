@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792123959997,
+ "updatedAt": 1792127619114,
  "week": "2026-W42",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 556,
-   "comments": 213,
+   "engagement": 582,
+   "comments": 217,
    "publishedAt": 1792080241000,
    "isAI": true,
-   "score": 60.3,
+   "score": 60,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 227,
-   "comments": 179,
+   "engagement": 230,
+   "comments": 181,
    "publishedAt": 1792089149000,
    "isAI": true,
-   "score": 54.1,
+   "score": 53.6,
    "hot": true
   },
   {
@@ -38,10 +38,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 235,
-   "comments": 75,
+   "comments": 76,
    "publishedAt": 1792083919000,
    "isAI": true,
-   "score": 53.6,
+   "score": 53,
    "hot": true
   },
   {
@@ -55,7 +55,7 @@
    "comments": 614,
    "publishedAt": 1791999923000,
    "isAI": true,
-   "score": 52.6,
+   "score": 52.1,
    "hot": false
   },
   {
@@ -69,7 +69,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 52.6,
+   "score": 52.1,
    "hot": true
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 233,
+   "engagement": 234,
    "comments": 191,
    "publishedAt": 1792076328000,
    "isAI": true,
-   "score": 52.4,
+   "score": 51.9,
    "hot": true
   },
   {
@@ -93,11 +93,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 547,
-   "comments": 215,
+   "engagement": 555,
+   "comments": 221,
    "publishedAt": 1792070624000,
    "isAI": false,
-   "score": 51.7,
+   "score": 51.3,
+   "hot": true
+  },
+  {
+   "title": "Self-Evolving Agent Harness - 모델은 그대로, 하네스(프롬프트·기억·도구)를 스스로 고치는 에이전트",
+   "url": "https://news.hada.io/topic?id=35463",
+   "summary": "모델 가중치는 고정하고, 에이전트를 감싼 프롬프트 · 기억 · 워크플로 · 도구 코드를 실행 피드백으로 고쳐 나가는 「하네스 자기 진화」를 형식화한 논문 수정 대상과, 수정 안을 내는 방법, 적용 기준을 나눠서 봄 받아들인 수정은 다음 실행에도 남고, 적용할지는 새 독립 검증 데이터로...",
+   "publishedAt": 1792127050000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
    "hot": true
   },
   {
@@ -111,7 +125,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.6,
+   "score": 49.1,
    "hot": false
   },
   {
@@ -125,21 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.6,
-   "hot": true
-  },
-  {
-   "title": "맥북 덮어도 잠자지 않게 해주는 앱 - 코덱스, 클로드, Pi, OpenCode를 터미널에서 돌릴 때",
-   "url": "https://news.hada.io/topic?id=35460",
-   "summary": "Codex CLI, Claude Code를 사용하는데 AI는 일하는데 나는 이동해야 하니까... 맥북 덮어도 잠자기 모드에 들어가지 못하게 명령을 내리고 맥북을 가방에 넣곤 했습니다. sudo pmset -a disablesleep 1 근데 이거 Caffeine처럼 마우스 딸깍으로 켜고 끄게 만들 수 있지 않을까 해서",
-   "publishedAt": 1792120313000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 49.5,
+   "score": 49.1,
    "hot": true
   },
   {
@@ -153,8 +153,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 48.5,
    "hot": true
+  },
+  {
+   "title": "Using AI to reverse engineer hardware",
+   "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50104299",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 150,
+   "comments": 130,
+   "publishedAt": 1792074915000,
+   "isAI": true,
+   "score": 48.1,
+   "hot": false
   },
   {
    "title": "Anthropic's Scion is heavily inspired by Mononoke",
@@ -167,7 +181,7 @@
    "comments": 157,
    "publishedAt": 1792009854000,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.8,
    "hot": false
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -223,22 +237,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.5,
    "hot": true
-  },
-  {
-   "title": "Using AI to reverse engineer hardware",
-   "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50104299",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 140,
-   "comments": 122,
-   "publishedAt": 1792074915000,
-   "isAI": true,
-   "score": 48,
-   "hot": false
   },
   {
    "title": "decomp.dev 운영 축소, 공개 목록과 신규 프로젝트 등록 중단",
@@ -251,7 +251,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
+   "hot": true
+  },
+  {
+   "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+   "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50109375",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 215,
+   "comments": 155,
+   "publishedAt": 1792094149000,
+   "isAI": false,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -265,7 +279,7 @@
    "comments": 274,
    "publishedAt": 1792002772000,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.3,
    "hot": false
   },
   {
@@ -279,21 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
-   "hot": true
-  },
-  {
-   "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-   "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50109375",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 194,
-   "comments": 149,
-   "publishedAt": 1792094149000,
-   "isAI": false,
-   "score": 46.2,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -307,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -321,7 +321,7 @@
    "comments": 1036,
    "publishedAt": 1791907396000,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.4,
    "hot": false
   },
   {
@@ -335,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -349,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 45,
    "hot": true
   },
   {
@@ -363,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -377,8 +377,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.3,
-   "hot": true
+   "score": 43.9,
+   "hot": false
+  },
+  {
+   "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+   "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50111852",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 125,
+   "comments": 53,
+   "publishedAt": 1792107462000,
+   "isAI": false,
+   "score": 43.5,
+   "hot": false
+  },
+  {
+   "title": "AI was great until it was not",
+   "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50100791",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 119,
+   "comments": 77,
+   "publishedAt": 1792052318000,
+   "isAI": true,
+   "score": 43.5,
+   "hot": false
   },
   {
    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
@@ -391,21 +419,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.9,
-   "hot": false
-  },
-  {
-   "title": "AI was great until it was not",
-   "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50100791",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 118,
-   "comments": 77,
-   "publishedAt": 1792052318000,
-   "isAI": true,
-   "score": 43.8,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -415,25 +429,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 932,
-   "comments": 731,
+   "engagement": 933,
+   "comments": 733,
    "publishedAt": 1791970097000,
    "isAI": false,
-   "score": 43.7,
-   "hot": false
-  },
-  {
-   "title": "TV4, 편집 자료 손실로 프로그램 방영 연기…AI 에이전트 삭제 보도는 부인",
-   "url": "https://news.hada.io/topic?id=35414",
-   "summary": "TV4의 리얼리티 프로그램 The Challenge 새 시즌이 기술적 장애로 방영을 연기했으며, 편집 작업을 처음부터 다시 해야 하는 상황임 Aftonbladet은 AI 에이전트 가 편집된 시즌을 삭제해 수백 일 분량의 작업이 사라졌다고 보도했으나, TV4는 이를 부인함 ...",
-   "publishedAt": 1792071259000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 43,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -447,7 +447,21 @@
    "comments": 1003,
    "publishedAt": 1791906596000,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.5,
+   "hot": false
+  },
+  {
+   "title": "TV4, 편집 자료 손실로 프로그램 방영 연기…AI 에이전트 삭제 보도는 부인",
+   "url": "https://news.hada.io/topic?id=35414",
+   "summary": "TV4의 리얼리티 프로그램 The Challenge 새 시즌이 기술적 장애로 방영을 연기했으며, 편집 작업을 처음부터 다시 해야 하는 상황임 Aftonbladet은 AI 에이전트 가 편집된 시즌을 삭제해 수백 일 분량의 작업이 사라졌다고 보도했으나, TV4는 이를 부인함 ...",
+   "publishedAt": 1792071259000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -461,7 +475,21 @@
    "comments": 540,
    "publishedAt": 1791923035000,
    "isAI": true,
-   "score": 42.4,
+   "score": 42.1,
+   "hot": false
+  },
+  {
+   "title": "Google is silently linking your phone number across all signed-in accounts",
+   "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50090349",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 504,
+   "comments": 146,
+   "publishedAt": 1791995331000,
+   "isAI": false,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -475,21 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.2,
-   "hot": false
-  },
-  {
-   "title": "Google is silently linking your phone number across all signed-in accounts",
-   "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50090349",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 504,
-   "comments": 145,
-   "publishedAt": 1791995331000,
-   "isAI": false,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -503,7 +517,7 @@
    "comments": 306,
    "publishedAt": 1791966479000,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -517,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -531,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41,
    "hot": true
   },
   {
@@ -545,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": true
   },
   {
@@ -559,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -573,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -587,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -601,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -615,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -629,21 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
-   "hot": true
-  },
-  {
-   "title": "“제대로 하지 않았잖아요” - 프레임워크의 실패를 실행 탓으로만 돌릴 때",
-   "url": "https://news.hada.io/topic?id=35444",
-   "summary": "WP Engine에서 교육과 개별 코칭까지 거쳐 OKR 도입을 네 차례 시도했지만 모두 실패 . 매번 “제대로 하지 않았다”는 답만 돌아온다면, 프레임워크가 조직에 맞는지도 물어야 함 실패할 때마다 더 정확한 이해와 실행을 요구하면서 무엇이 ‘제대로’인지 정의하지 않으면...",
-   "publishedAt": 1792110688000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -657,8 +657,22 @@
    "comments": 143,
    "publishedAt": 1791995614000,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.9,
    "hot": false
+  },
+  {
+   "title": "“제대로 하지 않았잖아요” - 프레임워크의 실패를 실행 탓으로만 돌릴 때",
+   "url": "https://news.hada.io/topic?id=35444",
+   "summary": "WP Engine에서 교육과 개별 코칭까지 거쳐 OKR 도입을 네 차례 시도했지만 모두 실패 . 매번 “제대로 하지 않았다”는 답만 돌아온다면, 프레임워크가 조직에 맞는지도 물어야 함 실패할 때마다 더 정확한 이해와 실행을 요구하면서 무엇이 ‘제대로’인지 정의하지 않으면...",
+   "publishedAt": 1792110688000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.9,
+   "hot": true
   },
   {
    "title": "웹 활용 사례로 비교한 JPEG XL과 AVIF",
@@ -671,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -685,21 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
-   "hot": true
-  },
-  {
-   "title": "토렌트 사이트의 누군가가 내 Sonarr를 계속 엿 먹이고 있었다",
-   "url": "https://news.hada.io/topic?id=35438",
-   "summary": "공개 트래커에 South Park 에피소드로 위장한 .exe 악성코드 가 올라왔고, Sonarr가 이를 가져온 뒤 90초마다 가져오기 실패를 반복함 파일의 실제 실행 프로그램은 118KB 였지만, 뒤에 약 886MB의 데이터를 붙여 대용량 파일 검사를 포기하는 스캐너를...",
-   "publishedAt": 1792107228000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -713,8 +713,22 @@
    "comments": 173,
    "publishedAt": 1791988735000,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.6,
    "hot": false
+  },
+  {
+   "title": "토렌트 사이트의 누군가가 내 Sonarr를 계속 엿 먹이고 있었다",
+   "url": "https://news.hada.io/topic?id=35438",
+   "summary": "공개 트래커에 South Park 에피소드로 위장한 .exe 악성코드 가 올라왔고, Sonarr가 이를 가져온 뒤 90초마다 가져오기 실패를 반복함 파일의 실제 실행 프로그램은 118KB 였지만, 뒤에 약 886MB의 데이터를 붙여 대용량 파일 검사를 포기하는 스캐너를...",
+   "publishedAt": 1792107228000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.5,
+   "hot": true
   },
   {
    "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -727,7 +741,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -741,7 +755,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -751,11 +765,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 135,
+   "engagement": 136,
    "comments": 116,
    "publishedAt": 1791996762000,
    "isAI": true,
-   "score": 39,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -769,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -783,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -797,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -811,7 +825,7 @@
    "comments": 108,
    "publishedAt": 1791996907000,
    "isAI": true,
-   "score": 38.3,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -825,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -839,22 +853,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
-  },
-  {
-   "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-   "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-   "publishedAt": 1792107896000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 38.1,
-   "hot": false
   },
   {
    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
@@ -867,7 +867,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -881,7 +881,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
+   "hot": false
+  },
+  {
+   "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+   "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+   "publishedAt": 1792107896000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -895,7 +909,21 @@
    "comments": 87,
    "publishedAt": 1791973706000,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.6,
+   "hot": false
+  },
+  {
+   "title": "AI is a tool and using it well takes skill",
+   "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50063427",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 787,
+   "comments": 601,
+   "publishedAt": 1791841218000,
+   "isAI": true,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -909,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -923,22 +951,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
-  },
-  {
-   "title": "AI is a tool and using it well takes skill",
-   "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50063427",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 786,
-   "comments": 601,
-   "publishedAt": 1791841218000,
-   "isAI": true,
-   "score": 37.7,
-   "hot": false
   },
   {
    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
@@ -947,11 +961,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 347,
+   "engagement": 348,
    "comments": 185,
    "publishedAt": 1791905150000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -965,8 +979,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "스큐어모픽 디자인을 적용한 Linux용 Wayland 데스크톱",
@@ -979,8 +993,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
@@ -989,11 +1003,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 213,
+   "engagement": 215,
    "comments": 41,
    "publishedAt": 1792002194000,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -1007,7 +1021,7 @@
    "comments": 164,
    "publishedAt": 1791989264000,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -1021,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -1035,35 +1049,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "Meta launches an open-weight AI model that runs on Macs",
-   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-   "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-   "publishedAt": 1792094693000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-   "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-   "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-   "publishedAt": 1792094125000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.6,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -1077,7 +1063,35 @@
    "comments": 913,
    "publishedAt": 1791896532000,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.3,
+   "hot": false
+  },
+  {
+   "title": "Meta launches an open-weight AI model that runs on Macs",
+   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+   "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+   "publishedAt": 1792094693000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.3,
+   "hot": false
+  },
+  {
+   "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+   "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+   "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+   "publishedAt": 1792094125000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -1091,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1105,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1119,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -1133,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -1147,21 +1161,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Show GN: 오마이스캔 – 책을 찍으면 편집 가능한 한글(HWPX) 파일로 만들어 주는 앱",
-   "url": "https://news.hada.io/topic?id=35416",
-   "summary": "책이나 서류를 찍으면 글자를 읽어서 PDF와 편집 가능한 한글 문서(HWPX)로 저장하는 안드로이드 앱입니다. 스캔 앱은 많은데 결과물이 대부분 이미지나 PDF이고 대부분 광고가 있습니다. 그리고 스캔 하고 ocr 적용하고 hwpx로 편집가능한 문서로 만들어주는 앱이 없어 제가쓰려고 만들었습니다^^ 하는",
-   "publishedAt": 1792072269000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -1175,7 +1175,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 오마이스캔 – 책을 찍으면 편집 가능한 한글(HWPX) 파일로 만들어 주는 앱",
+   "url": "https://news.hada.io/topic?id=35416",
+   "summary": "책이나 서류를 찍으면 글자를 읽어서 PDF와 편집 가능한 한글 문서(HWPX)로 저장하는 안드로이드 앱입니다. 스캔 앱은 많은데 결과물이 대부분 이미지나 PDF이고 대부분 광고가 있습니다. 그리고 스캔 하고 ocr 적용하고 hwpx로 편집가능한 문서로 만들어주는 앱이 없어 제가쓰려고 만들었습니다^^ 하는",
+   "publishedAt": 1792072269000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1189,35 +1203,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "Show GN: EmuTree — MAME와 파생 에뮬레이터의 계보 지도",
-   "url": "https://news.hada.io/topic?id=35413",
-   "summary": "MAME와 파생 에뮬레이터가 어떤 버전에서 갈라지고, 이후 어떤 흐름으로 이어졌는지 살펴볼 수 있는 웹 프로젝트 EmuTree를 만들었습니다. MAME Plus!, MAMEUI, HBMAME, GroovyMAME부터 모바일·콘솔용 이식판과 오래된 파생판까지 시간축 위에 정리했습니다. 프로젝트를 선택하면 관련 계보가 강조",
-   "publishedAt": 1792070386000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "치팅 없이 즐기는 멋진 Linux 게이밍",
-   "url": "https://news.hada.io/topic?id=35412",
-   "summary": "Epic은 Linux용 부정행위 방지 구현을 EAC Linux v2 로 재구축해, Windows와의 보호 수준 격차를 가까운 시일 내에 크게 줄일 계획임 별도 안티치트 커널 모듈 대신 Linux 내장 보안 기능과 eBPF 를 활용하며, 안티치트 서비스는 보호 대상 게임을 실행하는 동안에만...",
-   "publishedAt": 1792069452000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1231,7 +1217,35 @@
    "comments": 435,
    "publishedAt": 1791887220000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "Show GN: EmuTree — MAME와 파생 에뮬레이터의 계보 지도",
+   "url": "https://news.hada.io/topic?id=35413",
+   "summary": "MAME와 파생 에뮬레이터가 어떤 버전에서 갈라지고, 이후 어떤 흐름으로 이어졌는지 살펴볼 수 있는 웹 프로젝트 EmuTree를 만들었습니다. MAME Plus!, MAMEUI, HBMAME, GroovyMAME부터 모바일·콘솔용 이식판과 오래된 파생판까지 시간축 위에 정리했습니다. 프로젝트를 선택하면 관련 계보가 강조",
+   "publishedAt": 1792070386000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "치팅 없이 즐기는 멋진 Linux 게이밍",
+   "url": "https://news.hada.io/topic?id=35412",
+   "summary": "Epic은 Linux용 부정행위 방지 구현을 EAC Linux v2 로 재구축해, Windows와의 보호 수준 격차를 가까운 시일 내에 크게 줄일 계획임 별도 안티치트 커널 모듈 대신 Linux 내장 보안 기능과 eBPF 를 활용하며, 안티치트 서비스는 보호 대상 게임을 실행하는 동안에만...",
+   "publishedAt": 1792069452000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1245,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1259,21 +1273,7 @@
    "comments": 57,
    "publishedAt": 1791910547000,
    "isAI": true,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "How the Military Will Hack the Election",
-   "url": "https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50092847",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 169,
-   "comments": 82,
-   "publishedAt": 1792003437000,
-   "isAI": false,
-   "score": 35.4,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1287,7 +1287,21 @@
    "comments": 293,
    "publishedAt": 1791876514000,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "How the Military Will Hack the Election",
+   "url": "https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50092847",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 169,
+   "comments": 83,
+   "publishedAt": 1792003437000,
+   "isAI": false,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1301,21 +1315,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "AI agents are coming to Rivian’s cars",
-   "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-   "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-   "publishedAt": 1792076556000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.9,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1329,21 +1329,21 @@
    "comments": 169,
    "publishedAt": 1791994585000,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
-   "title": "Google’s Universal Cart shopping tool launches in the US",
-   "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-   "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-   "publishedAt": 1792074573000,
+   "title": "AI agents are coming to Rivian’s cars",
+   "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+   "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+   "publishedAt": 1792076556000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1357,7 +1357,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "Google’s Universal Cart shopping tool launches in the US",
+   "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+   "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+   "publishedAt": 1792074573000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1371,7 +1385,7 @@
    "comments": 218,
    "publishedAt": 1791904057000,
    "isAI": false,
-   "score": 34.3,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1385,21 +1399,7 @@
    "comments": 160,
    "publishedAt": 1791930813000,
    "isAI": false,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-   "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-   "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting a",
-   "publishedAt": 1792065600000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.8,
+   "score": 33.7,
    "hot": false
   }
  ]
