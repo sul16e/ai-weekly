@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792233089018,
+ "updatedAt": 1792236741653,
  "week": "2026-W42",
  "items": [
   {
@@ -9,53 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 876,
-   "comments": 326,
+   "engagement": 893,
+   "comments": 334,
    "publishedAt": 1792176959000,
    "isAI": true,
-   "score": 61.9,
-   "hot": true
-  },
-  {
-   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-   "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50121179",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 508,
-   "comments": 430,
-   "publishedAt": 1792170518000,
-   "isAI": true,
-   "score": 56.5,
-   "hot": true
-  },
-  {
-   "title": "DeepSeek-v4.1-Flash-1017",
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50129045",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 159,
-   "comments": 64,
-   "publishedAt": 1792225285000,
-   "isAI": true,
-   "score": 55.2,
-   "hot": true
-  },
-  {
-   "title": "How the Claude Code team does code review",
-   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50122951",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 351,
-   "comments": 330,
-   "publishedAt": 1792177487000,
-   "isAI": true,
-   "score": 54.6,
+   "score": 61.5,
    "hot": true
   },
   {
@@ -65,12 +23,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 139,
-   "comments": 15,
+   "engagement": 201,
+   "comments": 53,
    "publishedAt": 1792226266000,
    "isAI": true,
-   "score": 54.1,
-   "hot": false
+   "score": 56.9,
+   "hot": true
+  },
+  {
+   "title": "DeepSeek-v4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50129045",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 201,
+   "comments": 81,
+   "publishedAt": 1792225285000,
+   "isAI": true,
+   "score": 56.7,
+   "hot": true
+  },
+  {
+   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+   "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50121179",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 513,
+   "comments": 440,
+   "publishedAt": 1792170518000,
+   "isAI": true,
+   "score": 56,
+   "hot": true
+  },
+  {
+   "title": "How the Claude Code team does code review",
+   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50122951",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 362,
+   "comments": 333,
+   "publishedAt": 1792177487000,
+   "isAI": true,
+   "score": 54.3,
+   "hot": true
   },
   {
    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 293,
-   "comments": 73,
+   "engagement": 299,
+   "comments": 74,
    "publishedAt": 1792175555000,
    "isAI": true,
-   "score": 52.8,
+   "score": 52.5,
    "hot": true
   },
   {
@@ -93,11 +93,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 258,
-   "comments": 77,
+   "engagement": 262,
+   "comments": 81,
    "publishedAt": 1792174302000,
    "isAI": true,
-   "score": 51.6,
+   "score": 51.2,
+   "hot": true
+  },
+  {
+   "title": "DeepSeek-V4.1-Flash-1017 - 추론, 코딩, 에이전트 및 시각 벤치마크 성능을 개선한 모델 업데이트",
+   "url": "https://news.hada.io/topic?id=35524",
+   "summary": "DeepSeek-V4.1-Flash-1017 은 기존 V4.1-Flash의 소규모 업데이트로, 추론, 코딩, 에이전트 작업과 시각 벤치마크 성능을 개선함 공개 평가에서 Terminal-Bench 4.0 점수는 31.2에서 42.3으로, ProgramBench 는 20.3에서 29.1로 상승함",
+   "publishedAt": 1792233108000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
    "hot": true
   },
   {
@@ -111,7 +125,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.4,
+   "score": 48.9,
    "hot": false
   },
   {
@@ -121,11 +135,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 224,
+   "engagement": 226,
    "comments": 101,
    "publishedAt": 1792160324000,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -136,10 +150,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 199,
-   "comments": 77,
+   "comments": 78,
    "publishedAt": 1792166140000,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
   },
   {
@@ -150,10 +164,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 804,
-   "comments": 327,
+   "comments": 328,
    "publishedAt": 1792080241000,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.8,
    "hot": false
   },
   {
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -177,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 143,
+   "engagement": 147,
    "comments": 32,
    "publishedAt": 1792173618000,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.6,
    "hot": false
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -247,11 +261,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 321,
-   "comments": 161,
+   "engagement": 324,
+   "comments": 162,
    "publishedAt": 1792158228000,
    "isAI": false,
-   "score": 44.7,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -261,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 324,
-   "comments": 204,
+   "engagement": 326,
+   "comments": 205,
    "publishedAt": 1792155128000,
    "isAI": false,
-   "score": 44.4,
+   "score": 44,
    "hot": true
   },
   {
@@ -275,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 264,
-   "comments": 183,
+   "engagement": 270,
+   "comments": 185,
    "publishedAt": 1792167122000,
    "isAI": false,
-   "score": 44.2,
+   "score": 43.9,
    "hot": true
   },
   {
@@ -293,8 +307,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.2,
-   "hot": true
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "Claude Code 팀의 코드 리뷰 방식",
@@ -307,8 +321,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.1,
-   "hot": true
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "Anthropic, 6월에 투기등급 중 가장 높은 신용등급 받아",
@@ -321,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -335,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -349,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -363,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -371,34 +385,6 @@
    "url": "https://news.hada.io/topic?id=35485",
    "summary": "Mercor가 경제적 관련성이 높은 29개 AI 벤치마크 를 분석한 결과, 미국 근로시간의 약 90% 가 벤치마크에서 거의 또는 전혀 다루지 않는 업무에 쓰이는 것으로 추정됨 미국의 923개 직업 중 208개만 벤치마크 프롬프트 5개 이상과 연결되는 업무를...",
    "publishedAt": 1792175932000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 42.4,
-   "hot": false
-  },
-  {
-   "title": "Show GN: CarTroller - 웹캠 손 인식으로 운전하는 브라우저 RC카 게임",
-   "url": "https://news.hada.io/topic?id=35523",
-   "summary": "웹캠 앞에서 손으로 책상 위 RC카를 조종하는 브라우저 게임입니다. 설치나 회원가입 없이 바로 해 볼 수 있고, 웹캠이 없으면 키보드와 마우스로도 됩니다. 조작 왼손: 손목을 기울이면 조향, 손을 펴면 가속, 주먹은 브레이크, 멈춘 채 주먹을 유지하면 후진 오른손: 엄지·검지로 집어",
-   "publishedAt": 1792232801000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 42,
-   "hot": true
-  },
-  {
-   "title": "MLX로 Mac Studio 여러 대에서 대형 AI 모델 실행하기",
-   "url": "https://news.hada.io/topic?id=35483",
-   "summary": "Apple이 M5 Ultra Mac Studio 4대에서 8,160억 파라미터의 Muse Spark Open을 분산 실행 한 결과를 공개. 4비트 NVFP4 모델과 8,192토큰 문맥에서 초당 36.73토큰 을 생성 MLX와 Thunderbolt 5 기반 RDMA 로 여러 Mac의 메모리와 연산 자원을 활용. ...",
-   "publishedAt": 1792172370000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -415,26 +401,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 946,
+   "engagement": 947,
    "comments": 619,
    "publishedAt": 1791999923000,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.7,
    "hot": false
   },
   {
-   "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-   "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50111852",
-   "source": "Hacker News",
+   "title": "MLX로 Mac Studio 여러 대에서 대형 AI 모델 실행하기",
+   "url": "https://news.hada.io/topic?id=35483",
+   "summary": "Apple이 M5 Ultra Mac Studio 4대에서 8,160억 파라미터의 Muse Spark Open을 분산 실행 한 결과를 공개. 4비트 NVFP4 모델과 8,192토큰 문맥에서 초당 36.73토큰 을 생성 MLX와 Thunderbolt 5 기반 RDMA 로 여러 Mac의 메모리와 연산 자원을 활용. ...",
+   "publishedAt": 1792172370000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 452,
-   "comments": 167,
-   "publishedAt": 1792107462000,
-   "isAI": false,
-   "score": 41.7,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 41.6,
    "hot": false
+  },
+  {
+   "title": "Show GN: CarTroller - 웹캠 손 인식으로 운전하는 브라우저 RC카 게임",
+   "url": "https://news.hada.io/topic?id=35523",
+   "summary": "웹캠 앞에서 손으로 책상 위 RC카를 조종하는 브라우저 게임입니다. 설치나 회원가입 없이 바로 해 볼 수 있고, 웹캠이 없으면 키보드와 마우스로도 됩니다. 조작 왼손: 손목을 기울이면 조향, 손을 펴면 가속, 주먹은 브레이크, 멈춘 채 주먹을 유지하면 후진 오른손: 엄지·검지로 집어",
+   "publishedAt": 1792232801000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
   },
   {
    "title": "Why We're Banning AI",
@@ -447,7 +447,21 @@
    "comments": 201,
    "publishedAt": 1792089149000,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.4,
+   "hot": false
+  },
+  {
+   "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+   "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50111852",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 453,
+   "comments": 167,
+   "publishedAt": 1792107462000,
+   "isAI": false,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -461,7 +475,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -475,7 +489,21 @@
    "comments": 89,
    "publishedAt": 1792083919000,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
+   "hot": false
+  },
+  {
+   "title": "Wayland desktop for Linux with skeuomorphic design",
+   "url": "https://github.com/fyzugx/DEsk",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50103338",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 686,
+   "comments": 278,
+   "publishedAt": 1792070624000,
+   "isAI": false,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -489,22 +517,8 @@
    "comments": 59,
    "publishedAt": 1792161842000,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
-  },
-  {
-   "title": "Wayland desktop for Linux with skeuomorphic design",
-   "url": "https://github.com/fyzugx/DEsk",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50103338",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 684,
-   "comments": 278,
-   "publishedAt": 1792070624000,
-   "isAI": false,
-   "score": 40.9,
-   "hot": false
   },
   {
    "title": "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation",
@@ -516,22 +530,8 @@
    "summary": "Policy-shift distillation reuses the difference between a teacher's log probabilities before and after reinforcement learning (RL) as supervision on student-generated trajectories. However, this endpoint policy shift cannot reveal whether local action preferences evolved consistently during teacher ",
    "publishedAt": 1792008000000,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.3,
    "hot": false
-  },
-  {
-   "title": "ImageMagick으로 88x31 버튼에 책 담기",
-   "url": "https://news.hada.io/topic?id=35520",
-   "summary": "88x31 픽셀 애니메이션 GIF 에 책의 텍스트를 여러 프레임으로 나눠 담아, 작은 웹 버튼에서 《Moby Dick》을 읽을 수 있게 만듦 초소형 글꼴 TomThumb 을 사용하면 버튼 하나에 22자씩 5줄을 넣을 수 있어, 일반 글꼴보다 좁은 공간을 활용하기 좋음 POSIX...",
-   "publishedAt": 1792220492000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.5,
-   "hot": true
   },
   {
    "title": "Ask GN: Ai 브라우저의 필수적인 기능",
@@ -544,7 +544,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -558,8 +558,22 @@
    "comments": 198,
    "publishedAt": 1792076328000,
    "isAI": true,
-   "score": 40.3,
+   "score": 40,
    "hot": false
+  },
+  {
+   "title": "ImageMagick으로 88x31 버튼에 책 담기",
+   "url": "https://news.hada.io/topic?id=35520",
+   "summary": "88x31 픽셀 애니메이션 GIF 에 책의 텍스트를 여러 프레임으로 나눠 담아, 작은 웹 버튼에서 《Moby Dick》을 읽을 수 있게 만듦 초소형 글꼴 TomThumb 을 사용하면 버튼 하나에 22자씩 5줄을 넣을 수 있어, 일반 글꼴보다 좁은 공간을 활용하기 좋음 POSIX...",
+   "publishedAt": 1792220492000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40,
+   "hot": true
   },
   {
    "title": "Using AI to reverse engineer hardware",
@@ -572,7 +586,21 @@
    "comments": 241,
    "publishedAt": 1792074915000,
    "isAI": true,
-   "score": 40.3,
+   "score": 39.9,
+   "hot": false
+  },
+  {
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+   "publishedAt": 1792090800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -586,22 +614,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.4,
    "hot": true
-  },
-  {
-   "title": "Bringing GPT-Rosalind to academic research labs",
-   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-   "publishedAt": 1792090800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 39.8,
-   "hot": false
   },
   {
    "title": "FLUX 3 Image Klein - 56억 파라미터의 오픈 웨이트 이미지 생성/편집 모델",
@@ -614,7 +628,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -628,7 +642,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -642,7 +656,7 @@
    "comments": 281,
    "publishedAt": 1792094149000,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -656,8 +670,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
+  },
+  {
+   "title": "Gemini 4 Argon",
+   "url": "https://deepmind.google/models/gemini/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50073879",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1461,
+   "comments": 1042,
+   "publishedAt": 1791907396000,
+   "isAI": true,
+   "score": 38.2,
+   "hot": false
   },
   {
    "title": "/dev/null: 개발자를 위한 소셜 네트워크",
@@ -670,7 +698,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -684,49 +712,7 @@
    "comments": 161,
    "publishedAt": 1792009854000,
    "isAI": true,
-   "score": 38.3,
-   "hot": false
-  },
-  {
-   "title": "Gemini 4 Argon",
-   "url": "https://deepmind.google/models/gemini/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50073879",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1461,
-   "comments": 1042,
-   "publishedAt": 1791907396000,
-   "isAI": true,
-   "score": 38.3,
-   "hot": false
-  },
-  {
-   "title": "AI로 하드웨어 역공학하기",
-   "url": "https://news.hada.io/topic?id=35468",
-   "summary": "Claude Code와 실제 하드웨어를 활용해 Linux용 스캐너 드라이버를 개발하고 노트북 카메라의 화질을 개선 한 사례. Windows에서 얻은 정상 동작과 설정 정보를 핵심은 정상 동작의 참조 데이터와 실물 검증 을 확보하는 것. AI가 방대한 통신 기록 해독과 가설 검증...",
-   "publishedAt": 1792136419000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.3,
-   "hot": false
-  },
-  {
-   "title": "Meta의 새 상업용 약관, 뉴스 사이트 스크래핑 허용할 수 있다는 전문가 분석",
-   "url": "https://news.hada.io/topic?id=35467",
-   "summary": "Meta는 2026년 10월 30일 부터 비즈니스 계정과 연관된 웹사이트의 콘텐츠를 수집하고 자사 제품 훈련에 사용할 수 있도록 상업용 약관을 변경하며, 뉴스 발행사도 적용 대상임 약관을 검토한 법률 전문가 3명은 새 문구가 뉴스 콘텐츠의 AI 학습 이용 을 정당화하는...",
-   "publishedAt": 1792136239000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -740,7 +726,35 @@
    "comments": 38,
    "publishedAt": 1792127488000,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.9,
+   "hot": false
+  },
+  {
+   "title": "AI로 하드웨어 역공학하기",
+   "url": "https://news.hada.io/topic?id=35468",
+   "summary": "Claude Code와 실제 하드웨어를 활용해 Linux용 스캐너 드라이버를 개발하고 노트북 카메라의 화질을 개선 한 사례. Windows에서 얻은 정상 동작과 설정 정보를 핵심은 정상 동작의 참조 데이터와 실물 검증 을 확보하는 것. AI가 방대한 통신 기록 해독과 가설 검증...",
+   "publishedAt": 1792136419000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 37.9,
+   "hot": false
+  },
+  {
+   "title": "Meta의 새 상업용 약관, 뉴스 사이트 스크래핑 허용할 수 있다는 전문가 분석",
+   "url": "https://news.hada.io/topic?id=35467",
+   "summary": "Meta는 2026년 10월 30일 부터 비즈니스 계정과 연관된 웹사이트의 콘텐츠를 수집하고 자사 제품 훈련에 사용할 수 있도록 상업용 약관을 변경하며, 뉴스 발행사도 적용 대상임 약관을 검토한 법률 전문가 3명은 새 문구가 뉴스 콘텐츠의 AI 학습 이용 을 정당화하는...",
+   "publishedAt": 1792136239000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -754,7 +768,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -768,7 +782,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -782,7 +796,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -796,7 +810,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -810,7 +824,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -824,7 +838,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -838,7 +852,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -852,7 +866,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -866,7 +880,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -880,7 +894,7 @@
    "comments": 105,
    "publishedAt": 1792111955000,
    "isAI": false,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -894,7 +908,20 @@
    "comments": 277,
    "publishedAt": 1792002772000,
    "isAI": true,
-   "score": 37.2,
+   "score": 37,
+   "hot": false
+  },
+  {
+   "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
+   "url": "https://huggingface.co/papers/2610.22276",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 349,
+   "summary": "Spatial intelligence lets an agent perceive and act in the physical world, and many of its judgments must be made at interaction rates: which spatial relation holds, how far an object is, or where to place it. Vision-language models (VLMs) produce these answers by free-form text generation, paying f",
+   "publishedAt": 1792008000000,
+   "isAI": true,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -908,19 +935,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
-  },
-  {
-   "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
-   "url": "https://huggingface.co/papers/2610.22276",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 326,
-   "summary": "Spatial intelligence lets an agent perceive and act in the physical world, and many of its judgments must be made at interaction rates: which spatial relation holds, how far an object is, or where to place it. Vision-language models (VLMs) produce these answers by free-form text generation, paying f",
-   "publishedAt": 1792008000000,
-   "isAI": true,
    "score": 36.7,
    "hot": false
   },
@@ -935,7 +949,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -949,7 +963,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -962,7 +976,7 @@
    "summary": "Computer use has reached a turning point: the focus is expanding from GUI-only interaction to systems that complete tasks on users' computers through visual and programmatic interfaces. We define a generalist computer-use agent (GCUA) as a system in which the model chooses how to observe, act, and o",
    "publishedAt": 1792008000000,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -976,7 +990,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -990,7 +1004,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -1004,7 +1018,20 @@
    "comments": 1010,
    "publishedAt": 1791906596000,
    "isAI": true,
-   "score": 36,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "FDE-Gym: The Last Mile of AI Delivery",
+   "url": "https://huggingface.co/papers/2610.22350",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 281,
+   "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must clarify ambiguous requirements, work in live systems, and uncover unstated constrai",
+   "publishedAt": 1792008000000,
+   "isAI": true,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1018,20 +1045,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "FDE-Gym: The Last Mile of AI Delivery",
-   "url": "https://huggingface.co/papers/2610.22350",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 281,
-   "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must clarify ambiguous requirements, work in live systems, and uncover unstated constrai",
-   "publishedAt": 1792008000000,
-   "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1045,21 +1059,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "미국 영구 이주 선호도, 역대 최저 기록",
-   "url": "https://news.hada.io/topic?id=35484",
-   "summary": "2025년 다른 나라로 영구 이주하고 싶은 전 세계 성인 중 미국을 최우선 목적지로 선택한 비율은 15% 로, Gallup의 약 20년 조사 역사상 최저치를 기록함 미국은 여전히 가장 선호하는 이주 목적지 이며, 캐나다가 9%로 2위를 유지함 미국 선호도는",
-   "publishedAt": 1792175752000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.6,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1073,7 +1073,21 @@
    "comments": 758,
    "publishedAt": 1791970097000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.3,
+   "hot": false
+  },
+  {
+   "title": "미국 영구 이주 선호도, 역대 최저 기록",
+   "url": "https://news.hada.io/topic?id=35484",
+   "summary": "2025년 다른 나라로 영구 이주하고 싶은 전 세계 성인 중 미국을 최우선 목적지로 선택한 비율은 15% 로, Gallup의 약 20년 조사 역사상 최저치를 기록함 미국은 여전히 가장 선호하는 이주 목적지 이며, 캐나다가 9%로 2위를 유지함 미국 선호도는",
+   "publishedAt": 1792175752000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1087,7 +1101,7 @@
    "comments": 543,
    "publishedAt": 1791923035000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1101,7 +1115,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1115,7 +1129,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1129,21 +1143,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "Replit is no longer working with Anthropic, CEO says",
-   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-   "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-   "publishedAt": 1792185748000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1157,7 +1157,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
+   "hot": false
+  },
+  {
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+   "publishedAt": 1792185748000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1171,21 +1185,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "AI was great until it was not",
-   "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50100791",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 122,
-   "comments": 77,
-   "publishedAt": 1792052318000,
-   "isAI": true,
-   "score": 34.1,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1199,21 +1199,35 @@
    "comments": 312,
    "publishedAt": 1791966479000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false
   },
   {
-   "title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216367",
-   "summary": "AI로 소프트웨어를 만드는 작업이 쉬워지면서, 결과물이 실제로 제대로 작동하는지 검증하는 문제가 부각되고 있다. AI 코딩 서비스 업체 레플릿도 외부 업체의 상용 테스트 플랫폼을 활용하는 것으로 알려졌다. 기업용 에이전트에 이어 AI 코딩 분야에서도 LLM에만 의존하지 않고 별도의 통제·검증 장치를 결합하는 움직임이 나타나고 있다.디 인포메이션은 15일(현지시간) 레플릿을 비롯한 기업들이 네트워크 장애 등 다양한 상황에서 소프트웨어의 작동을 확인하기 위해 시뮬레이션 도구를 사용하고 있다고 보도했다.루이스 차베스 레플릿 최고 기술책임",
-   "publishedAt": 1792232821000,
+   "title": "AI was great until it was not",
+   "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50100791",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 122,
+   "comments": 77,
+   "publishedAt": 1792052318000,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "[AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216368",
+   "summary": "■ 블랙포레스트랩스, 이미지 생성·편집 모델 ‘플럭스 3 이미지 클라인’ 가중치 공개블랙포레스트랩스(BFL)가 56억개의 매개변수를 갖춘 이미지 생성·편집 모델 ‘플럭스 3 이미지 클라인(FLUX 3 Image Klein)’의 가중치를 공개했다. 최대 10장의 참조 이미지와 4K 이미지 생성을 지원하며, 특정 영역만 선택해 수정하거나 원하는 위치에 요소를 배치할 수 있다. 개인과 연 매출 500만달러 미만 기업에는 무료 상업적 이용을 허용하며, 그 이상 기업은 별도 계약이나 API를 이용해야 한다.FLUX 3 Image Klein",
+   "publishedAt": 1792234065000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1227,7 +1241,21 @@
    "comments": 150,
    "publishedAt": 1791995331000,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216367",
+   "summary": "AI로 소프트웨어를 만드는 작업이 쉬워지면서, 결과물이 실제로 제대로 작동하는지 검증하는 문제가 부각되고 있다. AI 코딩 서비스 업체 레플릿도 외부 업체의 상용 테스트 플랫폼을 활용하는 것으로 알려졌다. 기업용 에이전트에 이어 AI 코딩 분야에서도 LLM에만 의존하지 않고 별도의 통제·검증 장치를 결합하는 움직임이 나타나고 있다.디 인포메이션은 15일(현지시간) 레플릿을 비롯한 기업들이 네트워크 장애 등 다양한 상황에서 소프트웨어의 작동을 확인하기 위해 시뮬레이션 도구를 사용하고 있다고 보도했다.루이스 차베스 레플릿 최고 기술책임",
+   "publishedAt": 1792232821000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1241,7 +1269,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1255,7 +1283,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1269,7 +1297,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1283,7 +1311,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1297,21 +1325,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-   "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-   "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who beli",
-   "publishedAt": 1792168200000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1325,7 +1339,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+   "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+   "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who beli",
+   "publishedAt": 1792168200000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1339,35 +1367,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216364",
-   "summary": "AI의 내부 작동을 이해하기 어렵게 만드는 근본적인 장벽이 생각보다 낮을 수 있다는 주장이 나와 논쟁이 일고 있다. 신경망에 서로 무관한 개념이 뒤섞여 있다는 기존 해석을 연구자 스스로 뒤집었기 때문이다. 이번 주장이 AI 안전성 연구의 판도를 바꿀 획기적인 전환점인지, 아니면 단순한 부분적 진전에 불과한지를 두고 전문가들의 평가가 엇갈리고 있다.비즈니스인사이더 등에 따르면, 15일(현지시간) 전 오픈AI 연구원 닉 카마라타가 공개한 에세이 ‘신경망은 이미 정돈돼 있다(Neural Networks Are Already Clean)’",
-   "publishedAt": 1792224143000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Jev is Vercel’s fastest-adopted AI model ever",
-   "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-   "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-   "publishedAt": 1792164829000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1381,20 +1381,20 @@
    "comments": 607,
    "publishedAt": 1791841218000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.7,
    "hot": false
   },
   {
-   "title": "E Ink Kaleido 4 - 색 재현 성능을 높이고 최대 18FPS 영상 재생을 지원하는 컬러 전자종이",
-   "url": "https://news.hada.io/topic?id=35473",
-   "summary": "E Ink Kaleido 4 가 출시됐으며, Hanvon Technology의 스마트 전자종이 노트북 M10C II 에 세계 최초로 탑재됨 E Ink 발표 기준으로 이전 세대 대비 색역 부피가 2배인 40K 이상 으로 커졌으며, 백색 반사율은 15%, 명암비는 50% 향상됨 새...",
-   "publishedAt": 1792143468000,
-   "source": "GeekNews",
-   "sourceType": "community",
+   "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+   "summary": "AI의 내부 작동을 이해하기 어렵게 만드는 근본적인 장벽이 생각보다 낮을 수 있다는 주장이 나와 논쟁이 일고 있다. 신경망에 서로 무관한 개념이 뒤섞여 있다는 기존 해석을 연구자 스스로 뒤집었기 때문이다. 이번 주장이 AI 안전성 연구의 판도를 바꿀 획기적인 전환점인지, 아니면 단순한 부분적 진전에 불과한지를 두고 전문가들의 평가가 엇갈리고 있다.비즈니스인사이더 등에 따르면, 15일(현지시간) 전 오픈AI 연구원 닉 카마라타가 공개한 에세이 ‘신경망은 이미 정돈돼 있다(Neural Networks Are Already Clean)’",
+   "publishedAt": 1792224143000,
+   "source": "AI타임스",
+   "sourceType": "media",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
+   "baseWeight": 26,
+   "isAI": true,
    "score": 32.7,
    "hot": false
   }
