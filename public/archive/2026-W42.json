@@ -1,21 +1,7 @@
 {
- "updatedAt": 1792236741653,
+ "updatedAt": 1792245252283,
  "week": "2026-W42",
  "items": [
-  {
-   "title": "Claude reveals ECDSA curve origins",
-   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50122800",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 893,
-   "comments": 334,
-   "publishedAt": 1792176959000,
-   "isAI": true,
-   "score": 61.5,
-   "hot": true
-  },
   {
    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
    "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
@@ -23,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 201,
-   "comments": 53,
+   "engagement": 362,
+   "comments": 148,
    "publishedAt": 1792226266000,
    "isAI": true,
-   "score": 56.9,
+   "score": 60.8,
+   "hot": true
+  },
+  {
+   "title": "Claude reveals ECDSA curve origins",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50122800",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 927,
+   "comments": 340,
+   "publishedAt": 1792176959000,
+   "isAI": true,
+   "score": 60.4,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 201,
-   "comments": 81,
+   "engagement": 277,
+   "comments": 107,
    "publishedAt": 1792225285000,
    "isAI": true,
-   "score": 56.7,
+   "score": 58.2,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 513,
-   "comments": 440,
+   "engagement": 544,
+   "comments": 475,
    "publishedAt": 1792170518000,
    "isAI": true,
-   "score": 56,
+   "score": 55.2,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 362,
-   "comments": 333,
+   "engagement": 396,
+   "comments": 372,
    "publishedAt": 1792177487000,
    "isAI": true,
-   "score": 54.3,
+   "score": 53.8,
    "hot": true
   },
   {
@@ -79,12 +79,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 299,
-   "comments": 74,
+   "engagement": 314,
+   "comments": 76,
    "publishedAt": 1792175555000,
    "isAI": true,
-   "score": 52.5,
+   "score": 51.7,
    "hot": true
+  },
+  {
+   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+   "url": "https://llmspeed.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50127979",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 142,
+   "comments": 48,
+   "publishedAt": 1792211813000,
+   "isAI": true,
+   "score": 50.3,
+   "hot": false
   },
   {
    "title": "Anthropic assigned highest junk credit rating in June",
@@ -93,11 +107,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 262,
-   "comments": 81,
+   "engagement": 266,
+   "comments": 82,
    "publishedAt": 1792174302000,
    "isAI": true,
-   "score": 51.2,
+   "score": 50.2,
+   "hot": true
+  },
+  {
+   "title": "비정합성의 함정: AI 저질 콘텐츠가 끝없는 잡음 속에 신호를 묻어버릴 때",
+   "url": "https://news.hada.io/topic?id=35526",
+   "summary": "비정합성(decoherence) 은 개별적으로는 타당하지만 서로 호환되지 않거나 중복되는 모델이 시스템에 쌓이는 현상임. 모델 사이를 오가고 의도치 않은 부작용을 막는 일이 변경 비용의 대부분을 차지하게 됨 비정합성은 시간 자체가 아니라 시스템의 변경 에 따라 커...",
+   "publishedAt": 1792238748000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49,
+   "hot": true
+  },
+  {
+   "title": "DeepSeek V4.1 Flash 1017 - CED 아키텍처와 네이티브 이미지 이해를 도입한 MoE 모델",
+   "url": "https://news.hada.io/topic?id=35525",
+   "summary": "DeepSeek V4.1 Flash 는 회사 최초로 Causal Encoder-Decoder(CED) 아키텍처를 적용한 희소 MoE 모델로, 사전 학습 시작부터 시각 및 텍스트 임베딩을 함께 학습함 총 5,520억 개 파라미터 중 입력 처리에 80억 개, 출력 생성에 160억 개를 활성화하는 비대칭 구조로...",
+   "publishedAt": 1792236739000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -111,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.5,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -125,7 +167,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.9,
+   "score": 47.8,
    "hot": false
   },
   {
@@ -135,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 226,
-   "comments": 101,
+   "engagement": 229,
+   "comments": 103,
    "publishedAt": 1792160324000,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -149,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 199,
+   "engagement": 202,
    "comments": 78,
    "publishedAt": 1792166140000,
    "isAI": true,
-   "score": 48,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -163,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 804,
-   "comments": 328,
+   "engagement": 805,
+   "comments": 330,
    "publishedAt": 1792080241000,
    "isAI": true,
-   "score": 47.8,
+   "score": 47,
    "hot": false
   },
   {
@@ -181,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -191,12 +233,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 147,
-   "comments": 32,
+   "engagement": 155,
+   "comments": 33,
    "publishedAt": 1792173618000,
    "isAI": true,
-   "score": 46.6,
-   "hot": false
+   "score": 45.9,
+   "hot": true
   },
   {
    "title": "쓰라린 교훈 (2019)",
@@ -209,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -223,7 +265,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.2,
+   "hot": true
+  },
+  {
+   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50118320",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 334,
+   "comments": 167,
+   "publishedAt": 1792158228000,
+   "isAI": false,
+   "score": 43.6,
+   "hot": false
+  },
+  {
+   "title": "JPEG XL vs. AVIF for web use-cases",
+   "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50120224",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 288,
+   "comments": 190,
+   "publishedAt": 1792167122000,
+   "isAI": false,
+   "score": 43.5,
    "hot": true
   },
   {
@@ -237,8 +307,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 43.5,
+   "hot": false
+  },
+  {
+   "title": "I love software rendering",
+   "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50117746",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 341,
+   "comments": 217,
+   "publishedAt": 1792155128000,
+   "isAI": false,
+   "score": 43.4,
+   "hot": false
   },
   {
    "title": "Linus Torvalds “AI 사용을 금지하지 않겠다. 자신이 하는 일을 이해해야 한다”",
@@ -251,50 +335,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
-  },
-  {
-   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50118320",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 324,
-   "comments": 162,
-   "publishedAt": 1792158228000,
-   "isAI": false,
-   "score": 44.3,
-   "hot": true
-  },
-  {
-   "title": "I love software rendering",
-   "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50117746",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 326,
-   "comments": 205,
-   "publishedAt": 1792155128000,
-   "isAI": false,
-   "score": 44,
-   "hot": true
-  },
-  {
-   "title": "JPEG XL vs. AVIF for web use-cases",
-   "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50120224",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 270,
-   "comments": 185,
-   "publishedAt": 1792167122000,
-   "isAI": false,
-   "score": 43.9,
-   "hot": true
+   "score": 43.3,
+   "hot": false
   },
   {
    "title": "PS5LM - 탈옥한 PS5에서 llama.cpp로 모든 GGUF 모델을 콘솔에서 네이티브 실행",
@@ -307,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.7,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -321,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.7,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -335,8 +377,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.3,
    "hot": false
+  },
+  {
+   "title": "Show GN: tidoly stow - Docker없이 간단하게 설치하여 사진을 보관하는 Immich 호환 개인 사진 서버",
+   "url": "https://news.hada.io/topic?id=35527",
+   "summary": "Stow는 개인 PC에 사진과 동영상을 보관하고 관리할 수 있는 사진 서버입니다. Go로 구현했으며, 기존 Immich 모바일 앱과 호환되는 API를 제공합니다. 주요 기능 간편한 설치 및 실행: macOS와 Windows에서는 단일 실행 파일로 실행하고, Linux에서는 systemd 서비스로 운영할 수 있습니다. Doc",
+   "publishedAt": 1792244572000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.9,
+   "hot": true
   },
   {
    "title": "Claude, 25년간 풀리지 않았던 NIST 타원곡선 암호 시드의 출처 규명",
@@ -349,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -363,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.5,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -377,21 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
-   "hot": false
-  },
-  {
-   "title": "미국 근로시간의 90%는 AI 벤치마크가 충분히 다루지 못하는 업무에 쓰임",
-   "url": "https://news.hada.io/topic?id=35485",
-   "summary": "Mercor가 경제적 관련성이 높은 29개 AI 벤치마크 를 분석한 결과, 미국 근로시간의 약 90% 가 벤치마크에서 거의 또는 전혀 다루지 않는 업무에 쓰이는 것으로 추정됨 미국의 923개 직업 중 208개만 벤치마크 프롬프트 5개 이상과 연결되는 업무를...",
-   "publishedAt": 1792175932000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 42,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -405,7 +447,21 @@
    "comments": 619,
    "publishedAt": 1791999923000,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.1,
+   "hot": false
+  },
+  {
+   "title": "미국 근로시간의 90%는 AI 벤치마크가 충분히 다루지 못하는 업무에 쓰임",
+   "url": "https://news.hada.io/topic?id=35485",
+   "summary": "Mercor가 경제적 관련성이 높은 29개 AI 벤치마크 를 분석한 결과, 미국 근로시간의 약 90% 가 벤치마크에서 거의 또는 전혀 다루지 않는 업무에 쓰이는 것으로 추정됨 미국의 923개 직업 중 208개만 벤치마크 프롬프트 5개 이상과 연결되는 업무를...",
+   "publishedAt": 1792175932000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -419,7 +475,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 40.7,
+   "hot": false
+  },
+  {
+   "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+   "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50111852",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 456,
+   "comments": 167,
+   "publishedAt": 1792107462000,
+   "isAI": false,
+   "score": 40.6,
+   "hot": false
+  },
+  {
+   "title": "Why We're Banning AI",
+   "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50108131",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 256,
+   "comments": 202,
+   "publishedAt": 1792089149000,
+   "isAI": true,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -433,36 +517,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 40.5,
    "hot": true
-  },
-  {
-   "title": "Why We're Banning AI",
-   "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50108131",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 255,
-   "comments": 201,
-   "publishedAt": 1792089149000,
-   "isAI": true,
-   "score": 41.4,
-   "hot": false
-  },
-  {
-   "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-   "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50111852",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 453,
-   "comments": 167,
-   "publishedAt": 1792107462000,
-   "isAI": false,
-   "score": 41.3,
-   "hot": false
   },
   {
    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -475,7 +531,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -489,7 +545,7 @@
    "comments": 89,
    "publishedAt": 1792083919000,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -499,11 +555,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 686,
-   "comments": 278,
+   "engagement": 687,
+   "comments": 279,
    "publishedAt": 1792070624000,
    "isAI": false,
-   "score": 40.6,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -514,10 +570,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 188,
-   "comments": 59,
+   "comments": 61,
    "publishedAt": 1792161842000,
    "isAI": false,
-   "score": 40.5,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -526,25 +582,11 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 660,
+   "engagement": 662,
    "summary": "Policy-shift distillation reuses the difference between a teacher's log probabilities before and after reinforcement learning (RL) as supervision on student-generated trajectories. However, this endpoint policy shift cannot reveal whether local action preferences evolved consistently during teacher ",
    "publishedAt": 1792008000000,
    "isAI": true,
-   "score": 40.3,
-   "hot": false
-  },
-  {
-   "title": "Ask GN: Ai 브라우저의 필수적인 기능",
-   "url": "https://news.hada.io/topic?id=35477",
-   "summary": "Ai 브라우저를 만들고 있는데 제가 생각하기에 필요한 기능은 다 넣었는데 혹시나 중요한 기능을 빼먹었을까봐 질문합니다. 생각하기에 필수적인 기능들좀 적어주시면 감사하겠습니다.",
-   "publishedAt": 1792158387000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -558,7 +600,35 @@
    "comments": 198,
    "publishedAt": 1792076328000,
    "isAI": true,
-   "score": 40,
+   "score": 39.3,
+   "hot": false
+  },
+  {
+   "title": "Using AI to reverse engineer hardware",
+   "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50104299",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 249,
+   "comments": 241,
+   "publishedAt": 1792074915000,
+   "isAI": true,
+   "score": 39.2,
+   "hot": false
+  },
+  {
+   "title": "Ask GN: Ai 브라우저의 필수적인 기능",
+   "url": "https://news.hada.io/topic?id=35477",
+   "summary": "Ai 브라우저를 만들고 있는데 제가 생각하기에 필요한 기능은 다 넣었는데 혹시나 중요한 기능을 빼먹었을까봐 질문합니다. 생각하기에 필수적인 기능들좀 적어주시면 감사하겠습니다.",
+   "publishedAt": 1792158387000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -572,22 +642,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39,
    "hot": true
-  },
-  {
-   "title": "Using AI to reverse engineer hardware",
-   "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50104299",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 249,
-   "comments": 241,
-   "publishedAt": 1792074915000,
-   "isAI": true,
-   "score": 39.9,
-   "hot": false
   },
   {
    "title": "Bringing GPT-Rosalind to academic research labs",
@@ -600,7 +656,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.5,
+   "score": 38.7,
+   "hot": false
+  },
+  {
+   "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+   "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50109375",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 398,
+   "comments": 281,
+   "publishedAt": 1792094149000,
+   "isAI": false,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -614,7 +684,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -628,7 +698,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -642,21 +712,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.3,
    "hot": true
   },
   {
-   "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-   "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50109375",
+   "title": "Gemini 4 Argon",
+   "url": "https://deepmind.google/models/gemini/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50073879",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 397,
-   "comments": 281,
-   "publishedAt": 1792094149000,
-   "isAI": false,
-   "score": 39.2,
+   "engagement": 1462,
+   "comments": 1042,
+   "publishedAt": 1791907396000,
+   "isAI": true,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -670,35 +740,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
-   "hot": true
-  },
-  {
-   "title": "Gemini 4 Argon",
-   "url": "https://deepmind.google/models/gemini/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50073879",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1461,
-   "comments": 1042,
-   "publishedAt": 1791907396000,
-   "isAI": true,
-   "score": 38.2,
-   "hot": false
-  },
-  {
-   "title": "/dev/null: 개발자를 위한 소셜 네트워크",
-   "url": "https://news.hada.io/topic?id=35513",
-   "summary": "/dev/null 은 GitHub 계정으로 로그인해 개발자를 팔로우하고, 게시물에 별을 달거나 대화에 참여하는 소셜 네트워크임 게시물을 커밋(commit) 이라고 부르며, 최대 4,000자 의 일반 텍스트를 작성할 수 있음 서비스 안내에 따르면",
-   "publishedAt": 1792204282000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.2,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -712,8 +754,22 @@
    "comments": 161,
    "publishedAt": 1792009854000,
    "isAI": true,
-   "score": 38,
+   "score": 37.4,
    "hot": false
+  },
+  {
+   "title": "/dev/null: 개발자를 위한 소셜 네트워크",
+   "url": "https://news.hada.io/topic?id=35513",
+   "summary": "/dev/null 은 GitHub 계정으로 로그인해 개발자를 팔로우하고, 게시물에 별을 달거나 대화에 참여하는 소셜 네트워크임 게시물을 커밋(commit) 이라고 부르며, 최대 4,000자 의 일반 텍스트를 작성할 수 있음 서비스 안내에 따르면",
+   "publishedAt": 1792204282000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.3,
+   "hot": true
   },
   {
    "title": "The Folders Programming Language",
@@ -722,39 +778,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 209,
+   "engagement": 211,
    "comments": 38,
    "publishedAt": 1792127488000,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.2,
    "hot": false
   },
   {
-   "title": "AI로 하드웨어 역공학하기",
-   "url": "https://news.hada.io/topic?id=35468",
-   "summary": "Claude Code와 실제 하드웨어를 활용해 Linux용 스캐너 드라이버를 개발하고 노트북 카메라의 화질을 개선 한 사례. Windows에서 얻은 정상 동작과 설정 정보를 핵심은 정상 동작의 참조 데이터와 실물 검증 을 확보하는 것. AI가 방대한 통신 기록 해독과 가설 검증...",
-   "publishedAt": 1792136419000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
+   "title": "Teaching students to think and learn through questions",
+   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+   "publishedAt": 1792069200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
    "engagement": null,
-   "baseWeight": 42,
+   "baseWeight": 50,
    "isAI": true,
-   "score": 37.9,
-   "hot": false
-  },
-  {
-   "title": "Meta의 새 상업용 약관, 뉴스 사이트 스크래핑 허용할 수 있다는 전문가 분석",
-   "url": "https://news.hada.io/topic?id=35467",
-   "summary": "Meta는 2026년 10월 30일 부터 비즈니스 계정과 연관된 웹사이트의 콘텐츠를 수집하고 자사 제품 훈련에 사용할 수 있도록 상업용 약관을 변경하며, 뉴스 발행사도 적용 대상임 약관을 검토한 법률 전문가 3명은 새 문구가 뉴스 콘텐츠의 AI 학습 이용 을 정당화하는...",
-   "publishedAt": 1792136239000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.9,
+   "score": 37,
    "hot": false
   },
   {
@@ -768,133 +810,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
-   "hot": true
-  },
-  {
-   "title": "Teaching students to think and learn through questions",
-   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-   "publishedAt": 1792069200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 37.7,
-   "hot": false
-  },
-  {
-   "title": "iroh 1.0까지의 여정 - IPFS 구현에서 공개 키 기반 연결 라이브러리로",
-   "url": "https://news.hada.io/topic?id=35506",
-   "summary": "공개 키만으로 상대를 지정해 인증되고 암호화된 연결을 만드는 Rust 라이브러리 iroh 가 4년간의 개발 끝에 1.0 출시. 여러 차례 방향을 바꾸며 핵심 연결 기능에 집중 처음에는 모바일 기기를 위한 IPFS 구현 이었지만, Delta Chat의 채팅 기록 전송조차 성능과 의...",
-   "publishedAt": 1792195723000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.3,
-   "hot": true
-  },
-  {
-   "title": "Show GN: 테슬라 로드스터 시뮬레이터, 킥플립 시뮬레이터",
-   "url": "https://news.hada.io/topic?id=35505",
-   "summary": "개요 안녕하세요 어제 테슬라 로드스터가 하늘을 나는 것을 보고 충격이었습니다. 그렇게 하루를 보내다가 문뜩 이걸 내가 직접 해보면 어떨까란 생각이 들어 바로 의자에 앉아 12시간 정도 만에 일명 테슬라 로드스터 시뮬레이터를 만들어봤습니다 주요 기능 테슬라 로드스터 처럼 구조물의",
-   "publishedAt": 1792195702000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.3,
-   "hot": true
-  },
-  {
-   "title": "B2B에서 YouTube로 잠재 고객을 확보하는 방법",
-   "url": "https://news.hada.io/topic?id=35503",
-   "summary": "B2B YouTube의 목표는 바이럴 영상이나 구독자 수보다 적합한 잠재 고객의 이메일 확보와 매출 전환 에 있음. 영상마다 고객 유입 경로 구축, 전문성 강화, 직접 판매 중 하나를 목표로 정하고 채널 전체에서 조합함 LinkedIn에서 반응을 확인한 주제 를 긴 영상으로...",
-   "publishedAt": 1792194102000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.1,
-   "hot": true
-  },
-  {
-   "title": "Apache Spark 리소스 최적화: 하루 800만 건의 작업 실행에서 얻은 교훈",
-   "url": "https://news.hada.io/topic?id=35502",
-   "summary": "하루 약 800만 건의 Spark 실행을 처리하는 Salesforce Data 360 이 할당한 자원과 실제 작업량을 비교해 낭비를 줄인 사례. 작업이 성공했다는 사실만으로 적정한 자원을 사용했다고 판단할 수는 없음 공통 작업 제출 경로에 계측 플러그인을 주입 해 애플리케이션 ...",
-   "publishedAt": 1792194020000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.1,
-   "hot": true
-  },
-  {
-   "title": "PostgreSQL 무중단 스키마 변경을 위한 실무 가이드",
-   "url": "https://news.hada.io/topic?id=35501",
-   "summary": "PostgreSQL 스키마 변경은 구버전과 신버전 애플리케이션이 함께 동작하도록 단계적으로 배포 하는 것이 핵심. 데이터베이스가 켜져 있어도 요청 지연과 오류, 쓰기 중단이 발생하면 무중단으로 볼 수 없음 확장-축소(expand-contract) 패턴으로 새 구조 추가, 기존...",
-   "publishedAt": 1792193923000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.1,
-   "hot": true
-  },
-  {
-   "title": "eBay, 무선 장비 판매 등록 제한하되 아마추어 무선 대역 전용 장비는 예외",
-   "url": "https://news.hada.io/topic?id=35500",
-   "summary": "eBay 가 새 FCC 규칙에 맞춰 무선 송신 장비의 판매 등록을 제한했지만, 아마추어 무선 주파수에서만 작동하는 장비에는 FCC ID를 요구하지 않기로 함 FCC 승인 대상 장비 는 FCC ID를 마켓플레이스에 제출하고 상품 페이지에도 표시해야 하며, 온라인 마켓플레이스 ...",
-   "publishedAt": 1792193801000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.1,
-   "hot": true
-  },
-  {
-   "title": "내 비밀정보를 스캔하는 통합 기능을 허용한 적이 없다",
-   "url": "https://news.hada.io/topic?id=35499",
-   "summary": "Home Assistant 사용자가 사전 동의 없는 비밀번호 유출 검사 에 이의를 제기하고, 기능을 끄는 방법과 명시적 동의 후 활성화하는 방식으로의 변경을 요구함 관리자의 최종 답변에 따르면, 이 기능은 Supervisor에 수년간 존재 했으며 최근 릴리스에서 경고 표시가 ...",
-   "publishedAt": 1792193621000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.1,
-   "hot": true
-  },
-  {
-   "title": "RPKI now protects 70% of internet routes",
-   "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50112330",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 224,
-   "comments": 105,
-   "publishedAt": 1792111955000,
-   "isAI": false,
-   "score": 37,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -908,7 +824,49 @@
    "comments": 277,
    "publishedAt": 1792002772000,
    "isAI": true,
-   "score": 37,
+   "score": 36.4,
+   "hot": false
+  },
+  {
+   "title": "iroh 1.0까지의 여정 - IPFS 구현에서 공개 키 기반 연결 라이브러리로",
+   "url": "https://news.hada.io/topic?id=35506",
+   "summary": "공개 키만으로 상대를 지정해 인증되고 암호화된 연결을 만드는 Rust 라이브러리 iroh 가 4년간의 개발 끝에 1.0 출시. 여러 차례 방향을 바꾸며 핵심 연결 기능에 집중 처음에는 모바일 기기를 위한 IPFS 구현 이었지만, Delta Chat의 채팅 기록 전송조차 성능과 의...",
+   "publishedAt": 1792195723000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.4,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 테슬라 로드스터 시뮬레이터, 킥플립 시뮬레이터",
+   "url": "https://news.hada.io/topic?id=35505",
+   "summary": "개요 안녕하세요 어제 테슬라 로드스터가 하늘을 나는 것을 보고 충격이었습니다. 그렇게 하루를 보내다가 문뜩 이걸 내가 직접 해보면 어떨까란 생각이 들어 바로 의자에 앉아 12시간 정도 만에 일명 테슬라 로드스터 시뮬레이터를 만들어봤습니다 주요 기능 테슬라 로드스터 처럼 구조물의",
+   "publishedAt": 1792195702000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.4,
+   "hot": false
+  },
+  {
+   "title": "RPKI now protects 70% of internet routes",
+   "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50112330",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 226,
+   "comments": 108,
+   "publishedAt": 1792111955000,
+   "isAI": false,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -921,7 +879,77 @@
    "summary": "Spatial intelligence lets an agent perceive and act in the physical world, and many of its judgments must be made at interaction rates: which spatial relation holds, how far an object is, or where to place it. Vision-language models (VLMs) produce these answers by free-form text generation, paying f",
    "publishedAt": 1792008000000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.3,
+   "hot": false
+  },
+  {
+   "title": "B2B에서 YouTube로 잠재 고객을 확보하는 방법",
+   "url": "https://news.hada.io/topic?id=35503",
+   "summary": "B2B YouTube의 목표는 바이럴 영상이나 구독자 수보다 적합한 잠재 고객의 이메일 확보와 매출 전환 에 있음. 영상마다 고객 유입 경로 구축, 전문성 강화, 직접 판매 중 하나를 목표로 정하고 채널 전체에서 조합함 LinkedIn에서 반응을 확인한 주제 를 긴 영상으로...",
+   "publishedAt": 1792194102000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.2,
+   "hot": false
+  },
+  {
+   "title": "Apache Spark 리소스 최적화: 하루 800만 건의 작업 실행에서 얻은 교훈",
+   "url": "https://news.hada.io/topic?id=35502",
+   "summary": "하루 약 800만 건의 Spark 실행을 처리하는 Salesforce Data 360 이 할당한 자원과 실제 작업량을 비교해 낭비를 줄인 사례. 작업이 성공했다는 사실만으로 적정한 자원을 사용했다고 판단할 수는 없음 공통 작업 제출 경로에 계측 플러그인을 주입 해 애플리케이션 ...",
+   "publishedAt": 1792194020000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.2,
+   "hot": false
+  },
+  {
+   "title": "PostgreSQL 무중단 스키마 변경을 위한 실무 가이드",
+   "url": "https://news.hada.io/topic?id=35501",
+   "summary": "PostgreSQL 스키마 변경은 구버전과 신버전 애플리케이션이 함께 동작하도록 단계적으로 배포 하는 것이 핵심. 데이터베이스가 켜져 있어도 요청 지연과 오류, 쓰기 중단이 발생하면 무중단으로 볼 수 없음 확장-축소(expand-contract) 패턴으로 새 구조 추가, 기존...",
+   "publishedAt": 1792193923000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.2,
+   "hot": false
+  },
+  {
+   "title": "eBay, 무선 장비 판매 등록 제한하되 아마추어 무선 대역 전용 장비는 예외",
+   "url": "https://news.hada.io/topic?id=35500",
+   "summary": "eBay 가 새 FCC 규칙에 맞춰 무선 송신 장비의 판매 등록을 제한했지만, 아마추어 무선 주파수에서만 작동하는 장비에는 FCC ID를 요구하지 않기로 함 FCC 승인 대상 장비 는 FCC ID를 마켓플레이스에 제출하고 상품 페이지에도 표시해야 하며, 온라인 마켓플레이스 ...",
+   "publishedAt": 1792193801000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.2,
+   "hot": false
+  },
+  {
+   "title": "내 비밀정보를 스캔하는 통합 기능을 허용한 적이 없다",
+   "url": "https://news.hada.io/topic?id=35499",
+   "summary": "Home Assistant 사용자가 사전 동의 없는 비밀번호 유출 검사 에 이의를 제기하고, 기능을 끄는 방법과 명시적 동의 후 활성화하는 방식으로의 변경을 요구함 관리자의 최종 답변에 따르면, 이 기능은 Supervisor에 수년간 존재 했으며 최근 릴리스에서 경고 표시가 ...",
+   "publishedAt": 1792193621000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -935,7 +963,20 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
+   "url": "https://huggingface.co/papers/2610.22200",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 315,
+   "summary": "Computer use has reached a turning point: the focus is expanding from GUI-only interaction to systems that complete tasks on users' computers through visual and programmatic interfaces. We define a generalist computer-use agent (GCUA) as a system in which the model chooses how to observe, act, and o",
+   "publishedAt": 1792008000000,
+   "isAI": true,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -949,7 +990,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -963,20 +1004,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.5,
    "hot": false
   },
   {
-   "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
-   "url": "https://huggingface.co/papers/2610.22200",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
+   "title": "Redesigning source control at Anthropic",
+   "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50073633",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": 315,
-   "summary": "Computer use has reached a turning point: the focus is expanding from GUI-only interaction to systems that complete tasks on users' computers through visual and programmatic interfaces. We define a generalist computer-use agent (GCUA) as a system in which the model chooses how to observe, act, and o",
-   "publishedAt": 1792008000000,
+   "engagement": 890,
+   "comments": 1010,
+   "publishedAt": 1791906596000,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -990,7 +1032,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1004,21 +1046,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "Redesigning source control at Anthropic",
-   "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50073633",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 889,
-   "comments": 1010,
-   "publishedAt": 1791906596000,
-   "isAI": true,
-   "score": 35.8,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1031,21 +1059,21 @@
    "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must clarify ambiguous requirements, work in live systems, and uncover unstated constrai",
    "publishedAt": 1792008000000,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.1,
    "hot": false
   },
   {
-   "title": "미국 하원의원, 비디오게임 소유권 보호 법안 발의 계획 발표",
-   "url": "https://news.hada.io/topic?id=35486",
-   "summary": "Ritchie Torres 미국 하원의원이 구매한 게임의 소유권과 플레이 권리 를 보호하는 규정을 연방거래위원회(FTC)가 마련하도록 하는 Power To The Players Act 발의 계획을 발표함 법안은 게임 구매 시 소비자가 단순한 플레이 라이선스가 아닌 게임 소유권...",
-   "publishedAt": 1792179439000,
-   "source": "GeekNews",
+   "title": "How Amazon pushes up prices all across the Internet",
+   "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50084757",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 943,
+   "comments": 759,
+   "publishedAt": 1791970097000,
    "isAI": false,
-   "score": 35.6,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1059,35 +1087,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 35.5,
+   "score": 34.8,
    "hot": false
   },
   {
-   "title": "How Amazon pushes up prices all across the Internet",
-   "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50084757",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 943,
-   "comments": 758,
-   "publishedAt": 1791970097000,
-   "isAI": false,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "미국 영구 이주 선호도, 역대 최저 기록",
-   "url": "https://news.hada.io/topic?id=35484",
-   "summary": "2025년 다른 나라로 영구 이주하고 싶은 전 세계 성인 중 미국을 최우선 목적지로 선택한 비율은 15% 로, Gallup의 약 20년 조사 역사상 최저치를 기록함 미국은 여전히 가장 선호하는 이주 목적지 이며, 캐나다가 9%로 2위를 유지함 미국 선호도는",
-   "publishedAt": 1792175752000,
+   "title": "미국 하원의원, 비디오게임 소유권 보호 법안 발의 계획 발표",
+   "url": "https://news.hada.io/topic?id=35486",
+   "summary": "Ritchie Torres 미국 하원의원이 구매한 게임의 소유권과 플레이 권리 를 보호하는 규정을 연방거래위원회(FTC)가 마련하도록 하는 Power To The Players Act 발의 계획을 발표함 법안은 게임 구매 시 소비자가 단순한 플레이 라이선스가 아닌 게임 소유권...",
+   "publishedAt": 1792179439000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1101,7 +1115,21 @@
    "comments": 543,
    "publishedAt": 1791923035000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "미국 영구 이주 선호도, 역대 최저 기록",
+   "url": "https://news.hada.io/topic?id=35484",
+   "summary": "2025년 다른 나라로 영구 이주하고 싶은 전 세계 성인 중 미국을 최우선 목적지로 선택한 비율은 15% 로, Gallup의 약 20년 조사 역사상 최저치를 기록함 미국은 여전히 가장 선호하는 이주 목적지 이며, 캐나다가 9%로 2위를 유지함 미국 선호도는",
+   "publishedAt": 1792175752000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1115,7 +1143,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1129,7 +1157,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34,
    "hot": false
   },
   {
@@ -1143,7 +1171,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1157,21 +1185,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
-   "hot": false
-  },
-  {
-   "title": "Replit is no longer working with Anthropic, CEO says",
-   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-   "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-   "publishedAt": 1792185748000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.5,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1185,7 +1199,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.3,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+   "publishedAt": 1792185748000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "Websites are closing their doors to AI agents",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't",
+   "publishedAt": 1792242000000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1195,11 +1237,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 745,
-   "comments": 312,
+   "engagement": 746,
+   "comments": 313,
    "publishedAt": 1791966479000,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1213,7 +1255,21 @@
    "comments": 77,
    "publishedAt": 1792052318000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "Google is silently linking your phone number across all signed-in accounts",
+   "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50090349",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 518,
+   "comments": 150,
+   "publishedAt": 1791995331000,
+   "isAI": false,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1227,21 +1283,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "Google is silently linking your phone number across all signed-in accounts",
-   "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50090349",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 517,
-   "comments": 150,
-   "publishedAt": 1791995331000,
-   "isAI": false,
-   "score": 33.6,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1255,7 +1297,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1269,21 +1311,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216366",
-   "summary": "오픈AI 직원의 회의실 도청 혐의 사건을 계기로 미국 AI 기업을 겨냥한 첩보 활동에 대한 우려가 커지고 있다. 미국 정보당국은 AI 기밀 보호를 국가 경쟁력과 안보의 문제로 강조했으며, 주요 AI 기업들은 사건 이전부터 직원들에게 금전적 제안은 물론 일상적인 대화와 연애를 통한 정보 수집까지 경계하도록 교육해 온 것으로 드러났다.CNBC는 16일(현지시간) 제이 클레이튼 미국 국가정보국장이 오픈AI 사건과 관련해 미국 기업과 정부 모두 외국의 정보 수집 활동을 경계해야 한다고 밝혔다고 보도했다.클레이튼 국장은 인터뷰에서 “기업 차",
-   "publishedAt": 1792230328000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1297,7 +1325,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1311,63 +1339,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.5,
    "hot": false
   },
   {
-   "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216365",
-   "summary": "오픈AI의 ‘GPT-6 아스트라’가 미공개 이론물리학 연구 문제 50개 중 49개를 사람의 힌트 없이 해결했다. 문헌을 찾아 계산식을 구성하고 코드를 실행하는 과정을 자율적으로 수행했으며, 채점 과정에서는 전문가가 작성한 기준 답안의 오류까지 확인됐다.인도 국제이론과학센터(ICTS)와 타타 기초과학연구소, 펜실베이니아대학교, 구글 딥마인드 등 연구진 35명은 지난 9일 아카이브를 통해 이론물리 평가 벤치마크 ‘시오피즈이밸(TheoPhysEval)’과 이를 활용한 평가 결과를 담은 논문을 공개했다.이 벤치마크는 AI 에이전트가 실제",
-   "publishedAt": 1792227983000,
+   "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216366",
+   "summary": "오픈AI 직원의 회의실 도청 혐의 사건을 계기로 미국 AI 기업을 겨냥한 첩보 활동에 대한 우려가 커지고 있다. 미국 정보당국은 AI 기밀 보호를 국가 경쟁력과 안보의 문제로 강조했으며, 주요 AI 기업들은 사건 이전부터 직원들에게 금전적 제안은 물론 일상적인 대화와 연애를 통한 정보 수집까지 경계하도록 교육해 온 것으로 드러났다.CNBC는 16일(현지시간) 제이 클레이튼 미국 국가정보국장이 오픈AI 사건과 관련해 미국 기업과 정부 모두 외국의 정보 수집 활동을 경계해야 한다고 밝혔다고 보도했다.클레이튼 국장은 인터뷰에서 “기업 차",
+   "publishedAt": 1792230328000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "RPKI, 인터넷 경로의 70%에서 IP 주소 광고 권한 검증",
-   "url": "https://news.hada.io/topic?id=35474",
-   "summary": "IP 주소를 광고할 권한이 있는 네트워크인지 검증하는 RPKI 의 적용이 빠르게 확대. IPinfo 분석에서 검증을 통과한 라우팅 프리픽스 비율이 2025년 9월 54.0%에서 2026년 9월 70.3% 로 상승 검증에 실패한 경로의 전파도 크게 제한 되고 있음. 공개...",
-   "publishedAt": 1792150477000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-   "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-   "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who beli",
-   "publishedAt": 1792168200000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "Elorian’s first AI model wants to reason with images, not just about them",
-   "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-   "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-   "publishedAt": 1792166497000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1381,21 +1367,35 @@
    "comments": 607,
    "publishedAt": 1791841218000,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
-   "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216364",
-   "summary": "AI의 내부 작동을 이해하기 어렵게 만드는 근본적인 장벽이 생각보다 낮을 수 있다는 주장이 나와 논쟁이 일고 있다. 신경망에 서로 무관한 개념이 뒤섞여 있다는 기존 해석을 연구자 스스로 뒤집었기 때문이다. 이번 주장이 AI 안전성 연구의 판도를 바꿀 획기적인 전환점인지, 아니면 단순한 부분적 진전에 불과한지를 두고 전문가들의 평가가 엇갈리고 있다.비즈니스인사이더 등에 따르면, 15일(현지시간) 전 오픈AI 연구원 닉 카마라타가 공개한 에세이 ‘신경망은 이미 정돈돼 있다(Neural Networks Are Already Clean)’",
-   "publishedAt": 1792224143000,
+   "title": "RPKI, 인터넷 경로의 70%에서 IP 주소 광고 권한 검증",
+   "url": "https://news.hada.io/topic?id=35474",
+   "summary": "IP 주소를 광고할 권한이 있는 네트워크인지 검증하는 RPKI 의 적용이 빠르게 확대. IPinfo 분석에서 검증을 통과한 라우팅 프리픽스 비율이 2025년 9월 54.0%에서 2026년 9월 70.3% 로 상승 검증에 실패한 경로의 전파도 크게 제한 되고 있음. 공개...",
+   "publishedAt": 1792150477000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216365",
+   "summary": "오픈AI의 ‘GPT-6 아스트라’가 미공개 이론물리학 연구 문제 50개 중 49개를 사람의 힌트 없이 해결했다. 문헌을 찾아 계산식을 구성하고 코드를 실행하는 과정을 자율적으로 수행했으며, 채점 과정에서는 전문가가 작성한 기준 답안의 오류까지 확인됐다.인도 국제이론과학센터(ICTS)와 타타 기초과학연구소, 펜실베이니아대학교, 구글 딥마인드 등 연구진 35명은 지난 9일 아카이브를 통해 이론물리 평가 벤치마크 ‘시오피즈이밸(TheoPhysEval)’과 이를 활용한 평가 결과를 담은 논문을 공개했다.이 벤치마크는 AI 에이전트가 실제",
+   "publishedAt": 1792227983000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.3,
    "hot": false
   }
  ]
