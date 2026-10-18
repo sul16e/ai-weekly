@@ -1,21 +1,7 @@
 {
- "updatedAt": 1792315963573,
+ "updatedAt": 1792321295662,
  "week": "2026-W42",
  "items": [
-  {
-   "title": "DeepSeek-v4.1-Flash-1017",
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50129045",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 856,
-   "comments": 652,
-   "publishedAt": 1792225285000,
-   "isAI": true,
-   "score": 56.4,
-   "hot": false
-  },
   {
    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
    "url": "https://api-docs.deepseek.com/guides/search/",
@@ -23,12 +9,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 172,
-   "comments": 76,
+   "engagement": 218,
+   "comments": 102,
    "publishedAt": 1792306236000,
    "isAI": true,
-   "score": 55.6,
+   "score": 56.9,
    "hot": true
+  },
+  {
+   "title": "DeepSeek-v4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50129045",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 868,
+   "comments": 659,
+   "publishedAt": 1792225285000,
+   "isAI": true,
+   "score": 55.7,
+   "hot": false
   },
   {
    "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 484,
-   "comments": 286,
+   "engagement": 497,
+   "comments": 297,
    "publishedAt": 1792286330000,
    "isAI": false,
-   "score": 54.2,
+   "score": 53.6,
    "hot": true
   },
   {
@@ -55,21 +55,7 @@
    "comments": 5,
    "publishedAt": 1792226266000,
    "isAI": true,
-   "score": 52.7,
-   "hot": false
-  },
-  {
-   "title": "Claude reveals ECDSA curve origins",
-   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50122800",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1036,
-   "comments": 380,
-   "publishedAt": 1792176959000,
-   "isAI": true,
-   "score": 51.4,
+   "score": 52,
    "hot": false
   },
   {
@@ -79,12 +65,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 121,
-   "comments": 30,
+   "engagement": 141,
+   "comments": 43,
    "publishedAt": 1792298029000,
    "isAI": true,
-   "score": 51.1,
+   "score": 51.7,
    "hot": false
+  },
+  {
+   "title": "Claude reveals ECDSA curve origins",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50122800",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1037,
+   "comments": 383,
+   "publishedAt": 1792176959000,
+   "isAI": true,
+   "score": 50.8,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Sphinx - AI가 작성한 코드를 배포하기 전에 이해도를 묻는 훅",
+   "url": "https://news.hada.io/topic?id=35573",
+   "summary": "Sphinx 는 에이전트 지원 개발용 Git 훅으로, 코드를 푸시하기 전에 개발자가 코드의 실제 동작을 이해하는지 질문함 보호 대상으로 지정한 브랜치에 푸시하면 Git이 멈추고, 기존 대화를 보지 않은 리뷰어가 diff를 읽어 실패 상황에서 변경 코드가 어떻게 동작하는...",
+   "publishedAt": 1792319485000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
+   "hot": true
+  },
+  {
+   "title": "DeepSeek 검색 및 페이지 가져오기 API, 성공 요청 1,000건당 0.75달러",
+   "url": "https://news.hada.io/topic?id=35571",
+   "summary": "Search API와 Fetch API 는 에이전트와 RAG 애플리케이션에 실시간 웹 콘텐츠 접근을 제공하며, 각각 웹 검색 결과와 단일 페이지의 Markdown 본문을 반환함 두 API 모두 성공 요청 1,000건당 0.75달러 이며, HTTP 200 응답과 실제 결과가 있어야 과금됨 자...",
+   "publishedAt": 1792316067000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.2,
+   "hot": true
   },
   {
    "title": "Ask GN: AI 에이전트의 메모리는 어떻게 구현하고 있나요?",
@@ -97,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 50,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -111,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.5,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -125,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.7,
+   "score": 47,
    "hot": true
   },
   {
@@ -135,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 164,
+   "engagement": 165,
    "comments": 58,
    "publishedAt": 1792253063000,
    "isAI": true,
-   "score": 47.5,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -149,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 608,
+   "engagement": 610,
    "comments": 552,
    "publishedAt": 1792170518000,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": false
   },
   {
@@ -163,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 292,
-   "comments": 81,
+   "engagement": 297,
+   "comments": 82,
    "publishedAt": 1792211813000,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.3,
    "hot": false
   },
   {
@@ -177,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 459,
+   "engagement": 460,
    "comments": 465,
    "publishedAt": 1792177487000,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": false
   },
   {
@@ -195,7 +223,7 @@
    "comments": 153,
    "publishedAt": 1792254672000,
    "isAI": true,
-   "score": 45.5,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -209,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -223,7 +251,7 @@
    "comments": 84,
    "publishedAt": 1792175555000,
    "isAI": true,
-   "score": 44.4,
+   "score": 43.9,
    "hot": false
   },
   {
@@ -237,8 +265,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.2,
-   "hot": true
+   "score": 43.6,
+   "hot": false
   },
   {
    "title": "OpenAI, AI 에이전트의 일탈 사례 4건 추가 공개",
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -279,7 +307,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.7,
+   "hot": false
+  },
+  {
+   "title": "Anthropic assigned highest junk credit rating in June",
+   "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50122112",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 291,
+   "comments": 86,
+   "publishedAt": 1792174302000,
+   "isAI": true,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -293,22 +335,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.3,
    "hot": false
   },
   {
-   "title": "Anthropic assigned highest junk credit rating in June",
-   "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50122112",
-   "source": "Hacker News",
+   "title": "Elizabeth Holmes 다큐멘터리 ‘You Can See Everything’은 어떻게 관객을 속이는가",
+   "url": "https://news.hada.io/topic?id=35572",
+   "summary": "‘ You Can See Everything ’은 사기 사건을 보여주는 데 그치지 않고, 관객이 인물에 대한 판단을 바꾸도록 유도하며 기만에 직접 참여하게 만드는 다큐멘터리임 감독 Lance Oppenheim과 Nathan Fielder는 카메라 앵글, 클로즈업, 편집과 정보 공개 순서 로 등장인물...",
+   "publishedAt": 1792316247000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 290,
-   "comments": 86,
-   "publishedAt": 1792174302000,
-   "isAI": true,
-   "score": 42.8,
-   "hot": false
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
   },
   {
    "title": "Show GN: 수노(Suno)용 한국어 작사 Claude 스킬 – 부를 수 있는 가사와 Style 입력을 같이 설계",
@@ -321,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -335,8 +377,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 40.9,
    "hot": true
+  },
+  {
+   "title": "Neural networks are clean",
+   "url": "https://already-clean.goodfire.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50105647",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 814,
+   "comments": 333,
+   "publishedAt": 1792080241000,
+   "isAI": true,
+   "score": 40.6,
+   "hot": false
   },
   {
    "title": "Claude, 양자 회로 설계 개선으로 타원곡선 연산 게이트 수 17분의 1로",
@@ -349,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -363,21 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
-   "hot": false
-  },
-  {
-   "title": "Neural networks are clean",
-   "url": "https://already-clean.goodfire.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50105647",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 814,
-   "comments": 333,
-   "publishedAt": 1792080241000,
-   "isAI": true,
-   "score": 40.9,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -391,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40,
    "hot": true
   },
   {
@@ -401,11 +443,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 243,
+   "engagement": 245,
    "comments": 110,
    "publishedAt": 1792160324000,
    "isAI": true,
-   "score": 40.3,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -419,8 +461,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.7,
    "hot": false
+  },
+  {
+   "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+   "url": "https://github.com/mikroverk/esp32sim",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50131189",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 169,
+   "comments": 32,
+   "publishedAt": 1792245068000,
+   "isAI": false,
+   "score": 39.6,
+   "hot": true
   },
   {
    "title": "How Itaú is building generative AI for its entire customer base",
@@ -433,7 +489,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -443,11 +499,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 212,
+   "engagement": 213,
    "comments": 88,
    "publishedAt": 1792166140000,
    "isAI": true,
-   "score": 40,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -461,22 +517,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
+   "score": 39.5,
    "hot": false
-  },
-  {
-   "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-   "url": "https://github.com/mikroverk/esp32sim",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50131189",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 164,
-   "comments": 32,
-   "publishedAt": 1792245068000,
-   "isAI": false,
-   "score": 39.9,
-   "hot": true
   },
   {
    "title": "Show GN: 개당 - 오픈마켓 단위가격 비교",
@@ -489,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -503,8 +545,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.2,
    "hot": true
+  },
+  {
+   "title": "Development statistics for the 7.2 kernel",
+   "url": "https://lwn.net/Articles/1088776/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50132950",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 134,
+   "comments": 109,
+   "publishedAt": 1792257252000,
+   "isAI": false,
+   "score": 39.1,
+   "hot": false
   },
   {
    "title": "DeepSeek-V4.1-Flash-1017 - 추론, 코딩, 에이전트 및 시각 벤치마크 성능을 개선한 모델 업데이트",
@@ -517,21 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.6,
-   "hot": false
-  },
-  {
-   "title": "Development statistics for the 7.2 kernel",
-   "url": "https://lwn.net/Articles/1088776/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50132950",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 132,
-   "comments": 108,
-   "publishedAt": 1792257252000,
-   "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -545,7 +587,7 @@
    "comments": 36,
    "publishedAt": 1792173618000,
    "isAI": true,
-   "score": 39.3,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -559,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -573,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38,
    "hot": true
   },
   {
@@ -587,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38,
    "hot": true
   },
   {
@@ -601,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -615,64 +657,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.2,
    "hot": true
-  },
-  {
-   "title": "Around The World 게임에서 아름다운 하늘 렌더링하기",
-   "url": "https://news.hada.io/topic?id=35554",
-   "summary": "초기 개발 중인 해양 탐험 게임 Around The World 에서 구름의 빛 산란, 하늘의 색, 수평선, 톤 매핑을 조정해 바다와 하늘, 구름이 더 자연스럽게 어우러지도록 개선함 Rust로 직접 만든 광선 추적기로 다중 산란 을 반영한 룩업 테이블을 생성해, 두꺼운 구름의 밑...",
-   "publishedAt": 1792277004000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.5,
-   "hot": true
-  },
-  {
-   "title": "댐 철거로 미국 북동부 전역에 물고기가 돌아오고 있음",
-   "url": "https://news.hada.io/topic?id=35553",
-   "summary": "미국의 댐 철거는 대규모 서부 연어 하천뿐 아니라 동부의 작은 하천 에서도 진행되며, 막혔던 산란 경로를 다시 열고 회유성 어류를 회복시키고 있음 Massachusetts의 Town Brook 에서는 여러 댐을 철거한 뒤 연간 회귀 청어류가 약 2만 5,000마리에서 여러 해에 걸...",
-   "publishedAt": 1792276824000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.5,
-   "hot": true
-  },
-  {
-   "title": "에스토니아 온라인 투표 시스템 IVXV의 소스 코드와 작동 방식",
-   "url": "https://news.hada.io/topic?id=35552",
-   "summary": "에스토니아의 실제 선거에 사용하는 온라인 투표 시스템 IVXV의 소스 코드 를 공개 검토할 수 있는 저장소. 투표 소프트웨어와 개인 검증, 혼합, 감사 애플리케이션의 코드 제공 에스토니아는 2005년부터 법적 효력이 있는 인터넷 투표 를 시행했으며, 현재 IVXV 체계...",
-   "publishedAt": 1792276644000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.5,
-   "hot": true
-  },
-  {
-   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50118320",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 363,
-   "comments": 205,
-   "publishedAt": 1792158228000,
-   "isAI": false,
-   "score": 37.4,
-   "hot": false
   },
   {
    "title": "JPEG XL vs. AVIF for web use-cases",
@@ -685,7 +671,21 @@
    "comments": 213,
    "publishedAt": 1792167122000,
    "isAI": false,
-   "score": 37.3,
+   "score": 36.9,
+   "hot": false
+  },
+  {
+   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50118320",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 363,
+   "comments": 205,
+   "publishedAt": 1792158228000,
+   "isAI": false,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -699,7 +699,49 @@
    "comments": 231,
    "publishedAt": 1792155128000,
    "isAI": false,
-   "score": 37.3,
+   "score": 36.9,
+   "hot": false
+  },
+  {
+   "title": "Around The World 게임에서 아름다운 하늘 렌더링하기",
+   "url": "https://news.hada.io/topic?id=35554",
+   "summary": "초기 개발 중인 해양 탐험 게임 Around The World 에서 구름의 빛 산란, 하늘의 색, 수평선, 톤 매핑을 조정해 바다와 하늘, 구름이 더 자연스럽게 어우러지도록 개선함 Rust로 직접 만든 광선 추적기로 다중 산란 을 반영한 룩업 테이블을 생성해, 두꺼운 구름의 밑...",
+   "publishedAt": 1792277004000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.9,
+   "hot": false
+  },
+  {
+   "title": "댐 철거로 미국 북동부 전역에 물고기가 돌아오고 있음",
+   "url": "https://news.hada.io/topic?id=35553",
+   "summary": "미국의 댐 철거는 대규모 서부 연어 하천뿐 아니라 동부의 작은 하천 에서도 진행되며, 막혔던 산란 경로를 다시 열고 회유성 어류를 회복시키고 있음 Massachusetts의 Town Brook 에서는 여러 댐을 철거한 뒤 연간 회귀 청어류가 약 2만 5,000마리에서 여러 해에 걸...",
+   "publishedAt": 1792276824000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.9,
+   "hot": false
+  },
+  {
+   "title": "에스토니아 온라인 투표 시스템 IVXV의 소스 코드와 작동 방식",
+   "url": "https://news.hada.io/topic?id=35552",
+   "summary": "에스토니아의 실제 선거에 사용하는 온라인 투표 시스템 IVXV의 소스 코드 를 공개 검토할 수 있는 저장소. 투표 소프트웨어와 개인 검증, 혼합, 감사 애플리케이션의 코드 제공 에스토니아는 2005년부터 법적 효력이 있는 인터넷 투표 를 시행했으며, 현재 IVXV 체계...",
+   "publishedAt": 1792276644000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -713,8 +755,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.6,
+   "hot": false
   },
   {
    "title": "Pele - Mermaid 다이어그램을 테마 적용 가능한 SVG로 렌더링하는 라이브러리",
@@ -727,35 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
-  },
-  {
-   "title": "금, 이제 미국 최대 수출 품목이 되다",
-   "url": "https://news.hada.io/topic?id=35548",
-   "summary": "금 수출액 이 2025년 10월부터 거의 매달 미국의 다른 모든 수출 품목을 웃돌며, 기존 상위 품목인 석유, 의약품, 항공기 및 부품을 앞섬 수출 증가에는 금값의 사상 최고치 경신뿐 아니라 물량 증가 도 작용했으며, 2026년 2월 금 수출 중량은 역대 최대였을 가능성...",
-   "publishedAt": 1792273084000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.1,
-   "hot": true
-  },
-  {
-   "title": "쓰라린 교훈 (2019)",
-   "url": "https://news.hada.io/topic?id=35512",
-   "summary": "AI 연구의 역사는 인간의 지식을 직접 활용하는 특수한 방법보다 연산 자원을 활용하는 범용적인 방법이 장기적으로 압도적인 성과를 거두었음을 보여줌. 인간의 지식을 내장하는 접근법은 단기적으로 효과적이지만, 방법론의 복잡성을 높이고 연산 규모의 확장에 따른 발전을 저해하는 경향이 있음....",
-   "publishedAt": 1792204006000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -769,7 +783,21 @@
    "comments": 620,
    "publishedAt": 1791999923000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "금, 이제 미국 최대 수출 품목이 되다",
+   "url": "https://news.hada.io/topic?id=35548",
+   "summary": "금 수출액 이 2025년 10월부터 거의 매달 미국의 다른 모든 수출 품목을 웃돌며, 기존 상위 품목인 석유, 의약품, 항공기 및 부품을 앞섬 수출 증가에는 금값의 사상 최고치 경신뿐 아니라 물량 증가 도 작용했으며, 2026년 2월 금 수출 중량은 역대 최대였을 가능성...",
+   "publishedAt": 1792273084000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -783,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -797,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -811,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -825,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -839,7 +867,20 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation",
+   "url": "https://huggingface.co/papers/2610.21601",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 667,
+   "summary": "Policy-shift distillation reuses the difference between a teacher's log probabilities before and after reinforcement learning (RL) as supervision on student-generated trajectories. However, this endpoint policy shift cannot reveal whether local action preferences evolved consistently during teacher ",
+   "publishedAt": 1792008000000,
+   "isAI": true,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -853,7 +894,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -867,7 +908,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -881,20 +922,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation",
-   "url": "https://huggingface.co/papers/2610.21601",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 667,
-   "summary": "Policy-shift distillation reuses the difference between a teacher's log probabilities before and after reinforcement learning (RL) as supervision on student-generated trajectories. However, this endpoint policy shift cannot reveal whether local action preferences evolved consistently during teacher ",
-   "publishedAt": 1792008000000,
-   "isAI": true,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -908,7 +936,7 @@
    "comments": 203,
    "publishedAt": 1792089149000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -922,7 +950,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.3,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -936,7 +964,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -950,7 +978,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -964,7 +992,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -974,25 +1002,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 465,
+   "engagement": 466,
    "comments": 169,
    "publishedAt": 1792107462000,
    "isAI": false,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "More on Anthropic's Scion ripping off Mononoke",
-   "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50106738",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 254,
-   "comments": 90,
-   "publishedAt": 1792083919000,
-   "isAI": true,
-   "score": 34.9,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1006,21 +1020,7 @@
    "comments": 279,
    "publishedAt": 1792070624000,
    "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-   "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-   "publishedAt": 1792268479000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1034,7 +1034,21 @@
    "comments": 1044,
    "publishedAt": 1791907396000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
+   "hot": false
+  },
+  {
+   "title": "More on Anthropic's Scion ripping off Mononoke",
+   "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50106738",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 254,
+   "comments": 90,
+   "publishedAt": 1792083919000,
+   "isAI": true,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1048,7 +1062,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+   "publishedAt": 1792268479000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1062,7 +1090,7 @@
    "comments": 199,
    "publishedAt": 1792076328000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1076,7 +1104,7 @@
    "comments": 249,
    "publishedAt": 1792074915000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1090,7 +1118,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1104,7 +1132,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "'제미나이 4 아르곤', 역할 나눠 27시간 만에 마인크래프트 클리어",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216379",
+   "summary": "구글의 ‘제미나이 4 아르곤’ 기반 AI 에이전트 4개가 사람의 개입 없이 협력해 마인크래프트의 최종 보스를 물리쳤다. 스스로 역할을 나누고 코드를 작성했으며, 동료가 잃어버린 아이템을 회수하거나 전투 전략을 수정하면서 하루 넘게 공동 목표를 수행했다.구글 딥마인드 연구진은 15일(현지시간) 이 같은 실험 결과를 담은 논문을 아카이브에 공개했다. 에이전트들은 무작위로 생성한 세계에서 서바이벌 모드로 시작해 27시간14분 만에 엔더 드래곤을 쓰러뜨렸다. 그동안 프로그램 2783개를 작성·실행했으며, 캐릭터는 총 605회 사망했다.마인",
+   "publishedAt": 1792315830000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+   "url": "https://calif.io/research/big-fish",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50118977",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 193,
+   "comments": 68,
+   "publishedAt": 1792161842000,
+   "isAI": false,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1117,35 +1173,7 @@
    "baseWeight": 32.4,
    "publishedAt": 1792253593000,
    "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, ‘GPT-6 아스트라 프로’ 업그레이드...에이전트 병렬 실행 지원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216375",
-   "summary": "오픈AI가 ‘GPT-6 아스트라 프로(GPT-6 Astra Pro)’를 업그레이드해 여러 AI 에이전트가 하나의 작업을 나눠 동시에 처리할 수 있도록 했다. 사용자가 각 에이전트의 진행 상황과 결과를 직접 확인할 수 있도록 한 것도 특징이다.오픈AI는 16일(현지시간) X를 통해 GPT-6 아스트라 프로의 업데이트를 발표했다. 이번 기능은 챗GPT의 채팅 탭에서 일부 프로(Pro) 요금제 사용자를 대상으로 제공되며, 계정에 따라 이용 가능 여부가 다를 수 있다.이번 업데이트의 핵심은 여러 에이전트가 하나의 요청을 세분화해 병렬로 처",
-   "publishedAt": 1792313474000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-   "url": "https://calif.io/research/big-fish",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50118977",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 193,
-   "comments": 67,
-   "publishedAt": 1792161842000,
-   "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1159,35 +1187,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "리퀴드 AI, 제브 성능 앞선 멀티모달 의사결정 모델 ‘d1-울트라’ 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216371",
-   "summary": "리퀴드 AI가 기존 선두 모델인 '제브(Jev)'를 성능 평가에서 앞선 멀티모달 의사결정 모델 'd1-울트라(d1-ultra)'를 공개했다. 텍스트와 이미지를 함께 분석하는 것은 물론, 판단 정확도와 확률값의 신뢰도를 높인 것이 특징이다. 독립 평가에서도 의사결정 모델 가운데 1위를 기록했다.리퀴드 AI는 15일(현지시간) d1-울트라를 공개하고 자사의 API를 통해 제공하기 시작했다고 밝혔다. 리퀴드 AI는 이 모델이 기존 의사결정 모델이 잘 처리하지 못하는 복잡하고 불규칙한 실제 업무에 초점을 맞췄다고 설명했다.특히 타입세이프",
-   "publishedAt": 1792311201000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-   "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50109375",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 401,
-   "comments": 284,
-   "publishedAt": 1792094149000,
-   "isAI": false,
-   "score": 33.4,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1201,7 +1201,49 @@
    "comments": 162,
    "publishedAt": 1792009854000,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, ‘GPT-6 아스트라 프로’ 업그레이드...에이전트 병렬 실행 지원",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216375",
+   "summary": "오픈AI가 ‘GPT-6 아스트라 프로(GPT-6 Astra Pro)’를 업그레이드해 여러 AI 에이전트가 하나의 작업을 나눠 동시에 처리할 수 있도록 했다. 사용자가 각 에이전트의 진행 상황과 결과를 직접 확인할 수 있도록 한 것도 특징이다.오픈AI는 16일(현지시간) X를 통해 GPT-6 아스트라 프로의 업데이트를 발표했다. 이번 기능은 챗GPT의 채팅 탭에서 일부 프로(Pro) 요금제 사용자를 대상으로 제공되며, 계정에 따라 이용 가능 여부가 다를 수 있다.이번 업데이트의 핵심은 여러 에이전트가 하나의 요청을 세분화해 병렬로 처",
+   "publishedAt": 1792313474000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+   "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50109375",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 401,
+   "comments": 284,
+   "publishedAt": 1792094149000,
+   "isAI": false,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "리퀴드 AI, 제브 성능 앞선 멀티모달 의사결정 모델 ‘d1-울트라’ 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216371",
+   "summary": "리퀴드 AI가 기존 선두 모델인 '제브(Jev)'를 성능 평가에서 앞선 멀티모달 의사결정 모델 'd1-울트라(d1-ultra)'를 공개했다. 텍스트와 이미지를 함께 분석하는 것은 물론, 판단 정확도와 확률값의 신뢰도를 높인 것이 특징이다. 독립 평가에서도 의사결정 모델 가운데 1위를 기록했다.리퀴드 AI는 15일(현지시간) d1-울트라를 공개하고 자사의 API를 통해 제공하기 시작했다고 밝혔다. 리퀴드 AI는 이 모델이 기존 의사결정 모델이 잘 처리하지 못하는 복잡하고 불규칙한 실제 업무에 초점을 맞췄다고 설명했다.특히 타입세이프",
+   "publishedAt": 1792311201000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1215,7 +1257,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1229,11 +1271,11 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
+   "score": 32.8,
    "hot": false
   },
   {
-   "title": "구글, 양자컴퓨터 핵심 오류 40분의 1로 줄여…실용화 걸림돌 해결 실마리",
+   "title": "구글, 양자컴퓨터 핵심 오류 40분의 1로 줄여…실용화 해결 실마리",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216374",
    "summary": "구글이 양자컴퓨터의 복잡한 계산에 필요한 특수 양자 상태를 기존보다 훨씬 정확하게 만드는 데 성공했다. 새로운 오류 정정 기술을 적용해 오류를 약 40분의 1로 줄였으며, 실제 양자칩에서 기술이 작동한다는 사실을 입증했다. 대규모 양자컴퓨터를 구현하는 데 필요한 하드웨어 부담을 줄일 수 있는 연구 성과로 평가된다.구글 퀀텀 AI는 15일(현지시간) 자체 개발한 양자 프로세서 '윌로우(Willow)'에서 '매직 스테이트 배양(Magic State Cultivation)' 기술을 구현했다고 발표했다. 연구 결과는 국제학술지 '사이언스(",
    "publishedAt": 1792309231000,
@@ -1243,7 +1285,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1256,34 +1298,6 @@
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "메타, 언론사 콘텐츠 AI 학습 논란에 약관 수정…자동 수집 권한은 유지",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216372",
-   "summary": "메타가 페이스북과 인스타그램 등의 비즈니스 계정에 적용할 새 약관에서 AI 학습 관련 문구를 삭제했다. 언론사 웹사이트의 기사까지 AI 학습에 사용할 수 있다는 지적이 나오자 약관을 수정한 것이다. 그러나 외부 웹사이트의 콘텐츠를 자동으로 수집할 수 있다는 조항은 그대로 유지해 언론계의 반발이 이어지고 있다.하버드대학교 산하 언론 전문 매체 니먼랩(Nieman Lab)은 17일(현지시간) 메타가 논란이 된 상업용 서비스 약관을 수정했지만, 법률 전문가들은 여전히 광범위한 콘텐츠 수집을 허용하는 내용이라고 지적했다고 보도했다. 앞서",
-   "publishedAt": 1792305278000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-   "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50092664",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 384,
-   "comments": 277,
-   "publishedAt": 1792002772000,
    "isAI": true,
    "score": 32.6,
    "hot": false
@@ -1299,7 +1313,35 @@
    "comments": 1010,
    "publishedAt": 1791906596000,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+   "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50092664",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 385,
+   "comments": 277,
+   "publishedAt": 1792002772000,
+   "isAI": true,
+   "score": 32.4,
+   "hot": false
+  },
+  {
+   "title": "메타, 언론사 콘텐츠 AI 학습 논란에 약관 수정…자동 수집 권한은 유지",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216372",
+   "summary": "메타가 페이스북과 인스타그램 등의 비즈니스 계정에 적용할 새 약관에서 AI 학습 관련 문구를 삭제했다. 언론사 웹사이트의 기사까지 AI 학습에 사용할 수 있다는 지적이 나오자 약관을 수정한 것이다. 그러나 외부 웹사이트의 콘텐츠를 자동으로 수집할 수 있다는 조항은 그대로 유지해 언론계의 반발이 이어지고 있다.하버드대학교 산하 언론 전문 매체 니먼랩(Nieman Lab)은 17일(현지시간) 메타가 논란이 된 상업용 서비스 약관을 수정했지만, 법률 전문가들은 여전히 광범위한 콘텐츠 수집을 허용하는 내용이라고 지적했다고 보도했다. 앞서",
+   "publishedAt": 1792305278000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1312,7 +1354,7 @@
    "summary": "Spatial intelligence lets an agent perceive and act in the physical world, and many of its judgments must be made at interaction rates: which spatial relation holds, how far an object is, or where to place it. Vision-language models (VLMs) produce these answers by free-form text generation, paying f",
    "publishedAt": 1792008000000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1326,7 +1368,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1340,21 +1382,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "The Folders Programming Language",
-   "url": "https://danieltemkin.com/esolangs/folders",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50114342",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 215,
-   "comments": 38,
-   "publishedAt": 1792127488000,
-   "isAI": false,
-   "score": 31.9,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1368,34 +1396,7 @@
    "comments": 543,
    "publishedAt": 1791923035000,
    "isAI": true,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
-   "url": "https://huggingface.co/papers/2610.22200",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 316,
-   "summary": "Computer use has reached a turning point: the focus is expanding from GUI-only interaction to systems that complete tasks on users' computers through visual and programmatic interfaces. We define a generalist computer-use agent (GCUA) as a system in which the model chooses how to observe, act, and o",
-   "publishedAt": 1792008000000,
-   "isAI": true,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "버틀레리안 지하드",
-   "url": "https://news.hada.io/topic?id=35518",
-   "summary": "버틀레리안 지하드",
-   "publishedAt": 1792215417000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 31.8,
+   "score": 31.7,
    "hot": false
   }
  ]
