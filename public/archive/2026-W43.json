@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792400380430,
+ "updatedAt": 1792404039260,
  "week": "2026-W43",
  "items": [
   {
@@ -9,27 +9,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 382,
-   "comments": 187,
+   "engagement": 395,
+   "comments": 192,
    "publishedAt": 1792356494000,
    "isAI": true,
-   "score": 57.1,
+   "score": 56.8,
    "hot": true
-  },
-  {
-   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-   "url": "https://api-docs.deepseek.com/guides/search/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50138531",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 572,
-   "comments": 269,
-   "publishedAt": 1792306236000,
-   "isAI": true,
-   "score": 52.9,
-   "hot": false,
-   "lastWeekRank": 1
   },
   {
    "title": "DeepSeek V4.1 Flash 1017 (Max)",
@@ -38,12 +23,27 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 131,
-   "comments": 43,
+   "engagement": 144,
+   "comments": 48,
    "publishedAt": 1792384906000,
    "isAI": true,
-   "score": 52.2,
+   "score": 52.5,
    "hot": false
+  },
+  {
+   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+   "url": "https://api-docs.deepseek.com/guides/search/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50138531",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 573,
+   "comments": 269,
+   "publishedAt": 1792306236000,
+   "isAI": true,
+   "score": 52.4,
+   "hot": false,
+   "lastWeekRank": 1
   },
   {
    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
@@ -52,11 +52,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 159,
-   "comments": 97,
+   "engagement": 167,
+   "comments": 114,
    "publishedAt": 1792357752000,
    "isAI": true,
-   "score": 49.9,
+   "score": 49.8,
+   "hot": true
+  },
+  {
+   "title": "Show GN: mermaid-editor-sdk: 코드뿐만 아니라 UI로도 mermaid 다이어그램을 편집 가능한 무료 에디터 SDK",
+   "url": "https://news.hada.io/topic?id=35634",
+   "summary": "요즘 AI랑 설계하거나 결과 보고받을 때 mermaid 다이어그램을 자주 사용하는데요, 근데 직접 코드로 편집하고 보기엔 불편하기도 해서 UI로도 편집 가능한 걸 원했어요. 근데 다 유료더군요. 게다가 제 개인 에디터에 적용하고 싶은데, 딱히 적용할만한 오픈소스 패키지도 없었고요. 그래서 패키지 두개",
+   "publishedAt": 1792401127000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
    "hot": true
   },
   {
@@ -70,7 +84,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.2,
+   "hot": true
+  },
+  {
+   "title": "Linux 7.3 Released",
+   "url": "https://lwn.net/Articles/1101143/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50149392",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 190,
+   "comments": 73,
+   "publishedAt": 1792394637000,
+   "isAI": false,
+   "score": 48.8,
+   "hot": true
+  },
+  {
+   "title": "Someone behind the software",
+   "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50142573",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 443,
+   "comments": 165,
+   "publishedAt": 1792341120000,
+   "isAI": false,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -84,21 +126,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.2,
-   "hot": true
-  },
-  {
-   "title": "Someone behind the software",
-   "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50142573",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 436,
-   "comments": 160,
-   "publishedAt": 1792341120000,
-   "isAI": false,
-   "score": 49,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -112,7 +140,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -126,7 +154,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -140,21 +168,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
-   "hot": true
-  },
-  {
-   "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50141429",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 162,
-   "comments": 164,
-   "publishedAt": 1792333827000,
-   "isAI": true,
-   "score": 46.9,
+   "score": 47,
    "hot": true
   },
   {
@@ -164,13 +178,41 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 943,
+   "engagement": 946,
    "comments": 707,
    "publishedAt": 1792225285000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.6,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50141429",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 162,
+   "comments": 165,
+   "publishedAt": 1792333827000,
+   "isAI": true,
+   "score": 46.4,
+   "hot": true
+  },
+  {
+   "title": "Websites are closing their doors to AI agents",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50141657",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 141,
+   "comments": 138,
+   "publishedAt": 1792335490000,
+   "isAI": true,
+   "score": 45.6,
+   "hot": false
   },
   {
    "title": "Show GN: ALIGNS.md - 초정렬이 오기 전 내 판단 기준과 취향을 에이전트와 자가 정렬해보세요",
@@ -183,22 +225,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46,
+   "score": 45.6,
    "hot": true
-  },
-  {
-   "title": "Websites are closing their doors to AI agents",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50141657",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 138,
-   "comments": 135,
-   "publishedAt": 1792335490000,
-   "isAI": true,
-   "score": 45.8,
-   "hot": false
   },
   {
    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
@@ -211,7 +239,7 @@
    "comments": 86,
    "publishedAt": 1792298029000,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.4,
    "hot": false,
    "lastWeekRank": 4
   },
@@ -226,7 +254,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -240,7 +268,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -254,7 +282,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -268,7 +296,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -282,7 +310,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -296,7 +324,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 45,
    "hot": true
   },
   {
@@ -310,7 +338,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 45,
    "hot": true
   },
   {
@@ -324,7 +352,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -338,7 +366,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -348,27 +376,13 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 581,
+   "engagement": 582,
    "comments": 390,
    "publishedAt": 1792286330000,
    "isAI": false,
-   "score": 44.6,
+   "score": 44.2,
    "hot": false,
    "lastWeekRank": 3
-  },
-  {
-   "title": "Linux 7.3 Released",
-   "url": "https://lwn.net/Articles/1101143/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50149392",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 112,
-   "comments": 42,
-   "publishedAt": 1792394637000,
-   "isAI": false,
-   "score": 44.4,
-   "hot": false
   },
   {
    "title": "macOS 15.8.2 Breaks OpenGL",
@@ -377,11 +391,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 254,
-   "comments": 284,
+   "engagement": 261,
+   "comments": 294,
    "publishedAt": 1792337166000,
    "isAI": false,
-   "score": 44.2,
+   "score": 44,
    "hot": true
   },
   {
@@ -395,7 +409,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -405,11 +419,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 518,
+   "engagement": 519,
    "comments": 5,
    "publishedAt": 1792226266000,
    "isAI": true,
-   "score": 43.4,
+   "score": 43.1,
    "hot": false,
    "lastWeekRank": 5
   },
@@ -424,7 +438,7 @@
    "comments": 388,
    "publishedAt": 1792176959000,
    "isAI": true,
-   "score": 43.3,
+   "score": 43,
    "hot": false,
    "lastWeekRank": 6
   },
@@ -439,7 +453,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -453,7 +467,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -463,12 +477,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 115,
-   "comments": 196,
+   "engagement": 119,
+   "comments": 205,
    "publishedAt": 1792320566000,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.5,
    "hot": false
+  },
+  {
+   "title": "Linux 7.3 출시",
+   "url": "https://news.hada.io/topic?id=35635",
+   "summary": "Linux 7.3 정식 버전 이 예정대로 출시됐으며, 다음 날 7.4 병합 기간이 시작됨 병합 커밋을 제외한 18,765개 커밋 에 개발자 3,021명이 참여했고, 이 중 807명은 커널 개발에 처음 기여함 대규모 시스템 성능 개선 을 목표로 그룹 스케줄링...",
+   "publishedAt": 1792402312000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "Free Pascal compiler now supports dynamic packages",
@@ -477,11 +505,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 161,
+   "engagement": 164,
    "comments": 38,
    "publishedAt": 1792349284000,
    "isAI": false,
-   "score": 42,
+   "score": 41.7,
    "hot": true
   },
   {
@@ -495,7 +523,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -509,7 +537,7 @@
    "comments": 62,
    "publishedAt": 1792318911000,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -523,7 +551,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -537,23 +565,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.3,
    "hot": true
-  },
-  {
-   "title": "Show GN: AIPath - 생성형 AI 지식을 직무별 시험과 해설로 점검하는 서비스",
-   "url": "https://news.hada.io/topic?id=35575",
-   "summary": "안녕하세요. 생성형 AI 관련 지식과 상황별 판단을 시험으로 점검할 수 있는 AIPath 를 만들었습니다. ChatGPT, Claude, Gemini를 사용하다 보면 익숙한 기능은 계속 쓰지만 다른 서비스와의 차이나 개발·보안 측면에서 놓치고 있는 내용은 확인하기 어렵습니다. 이런 내용을 분야별로 정리하",
-   "publishedAt": 1792328958000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.8,
-   "hot": false,
-   "lastWeekRank": 7
   },
   {
    "title": "William Gibson과 사이버스페이스 상표 등록 이야기",
@@ -566,7 +579,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40,
    "hot": true
   },
   {
@@ -580,21 +593,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
-   "hot": true
-  },
-  {
-   "title": "PalmOS Lemmings - 교육용으로 제공되는 게임 소스 코드",
-   "url": "https://news.hada.io/topic?id=35624",
-   "summary": "PalmOS Lemmings 의 소스 코드를 제공하는 저장소임 소스 코드는 교육 목적 으로 제공됨 코드는 있는 그대로(AS-IS) 제공됨 README에 Lemmings 소개 이미지가 있음 별도의 스크린샷 섹션에 게임 화면 이미지가 있음",
-   "publishedAt": 1792384552000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.1,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -608,22 +607,22 @@
    "comments": 570,
    "publishedAt": 1792170518000,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.6,
    "hot": false,
    "lastWeekRank": 14
   },
   {
-   "title": "ARP! 네트워크에 직접 물어보자",
-   "url": "https://news.hada.io/topic?id=35619",
-   "summary": "arp-scan 으로 로컬 네트워크 기기의 IP 주소, MAC 주소, 제조사를 확인할 수 있어, 기기에 직접 지정했거나 라우터가 할당한 IP를 찾는 데 유용함 로컬 네트워크에서 기기에 메시지를 보내려면 IP 주소와 MAC 주소 가 모두 필요하며, 스위치는 MAC 주소를 기준으로 ...",
-   "publishedAt": 1792378867000,
+   "title": "PalmOS Lemmings - 교육용으로 제공되는 게임 소스 코드",
+   "url": "https://news.hada.io/topic?id=35624",
+   "summary": "PalmOS Lemmings 의 소스 코드를 제공하는 저장소임 소스 코드는 교육 목적 으로 제공됨 코드는 있는 그대로(AS-IS) 제공됨 README에 Lemmings 소개 이미지가 있음 별도의 스크린샷 섹션에 게임 화면 이미지가 있음",
+   "publishedAt": 1792384552000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -637,9 +636,23 @@
    "comments": 86,
    "publishedAt": 1792211813000,
    "isAI": true,
-   "score": 39.3,
+   "score": 39,
    "hot": false,
    "lastWeekRank": 16
+  },
+  {
+   "title": "ARP! 네트워크에 직접 물어보자",
+   "url": "https://news.hada.io/topic?id=35619",
+   "summary": "arp-scan 으로 로컬 네트워크 기기의 IP 주소, MAC 주소, 제조사를 확인할 수 있어, 기기에 직접 지정했거나 라우터가 할당한 IP를 찾는 데 유용함 로컬 네트워크에서 기기에 메시지를 보내려면 IP 주소와 MAC 주소 가 모두 필요하며, 스위치는 MAC 주소를 기준으로 ...",
+   "publishedAt": 1792378867000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39,
+   "hot": true
   },
   {
    "title": "Show GN: RubraView - 순수 C23과 WinAPI로 만든 가벼운 Windows 이미지·만화·동영상 뷰어",
@@ -652,8 +665,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
+  },
+  {
+   "title": "How the Claude Code team does code review",
+   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50122951",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 479,
+   "comments": 469,
+   "publishedAt": 1792177487000,
+   "isAI": true,
+   "score": 38.7,
+   "hot": false,
+   "lastWeekRank": 17
   },
   {
    "title": "Amazon uses AI to monitor union risk in UK warehouses",
@@ -666,24 +694,9 @@
    "comments": 59,
    "publishedAt": 1792253063000,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.6,
    "hot": false,
    "lastWeekRank": 13
-  },
-  {
-   "title": "How the Claude Code team does code review",
-   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50122951",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 478,
-   "comments": 469,
-   "publishedAt": 1792177487000,
-   "isAI": true,
-   "score": 38.9,
-   "hot": false,
-   "lastWeekRank": 17
   },
   {
    "title": "Free Pascal 컴파일러, 동적 패키지 지원 추가",
@@ -696,7 +709,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -710,7 +723,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -724,7 +737,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -738,8 +751,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
+  },
+  {
+   "title": "The Intel 8087 chip: floating-point addition and subtraction",
+   "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50142449",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 108,
+   "comments": 34,
+   "publishedAt": 1792340427000,
+   "isAI": false,
+   "score": 37.4,
+   "hot": false
   },
   {
    "title": "혼자 만든 웹 MMORPG에 사람이 10배 몰리자 벌어진 일",
@@ -752,7 +779,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -766,22 +793,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
-  },
-  {
-   "title": "The Intel 8087 chip: floating-point addition and subtraction",
-   "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50142449",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 106,
-   "comments": 34,
-   "publishedAt": 1792340427000,
-   "isAI": false,
-   "score": 37.6,
-   "hot": false
   },
   {
    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
@@ -794,7 +807,7 @@
    "comments": 85,
    "publishedAt": 1792175555000,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.2,
    "hot": false,
    "lastWeekRank": 20
   },
@@ -809,7 +822,7 @@
    "comments": 158,
    "publishedAt": 1792254672000,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false,
    "lastWeekRank": 18
   },
@@ -824,8 +837,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "플로리다의 주택소유자협회와 콘도 관리조합이 주거 위기를 악화시키고 있음",
@@ -838,7 +851,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -852,7 +865,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -866,7 +879,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -880,7 +893,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -894,7 +907,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -902,20 +915,6 @@
    "url": "https://news.hada.io/topic?id=35591",
    "summary": "방금 내 모든 도메인을 압류하고 비활성화한 Namecheap",
    "publishedAt": 1792352129000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "미국 민병대 최고위층에 잠입한 내부 공작원 (2025)",
-   "url": "https://news.hada.io/topic?id=35589",
-   "summary": "야생 생존술 강사 John Williams 가 경찰이나 FBI와 협력하지 않고 우익 민병대에 잠입해, AP3의 Utah주 최고 책임자 에 오르고 Oath Keepers 지도부에 접근함 수만 건의 문서와 비공개 대화, 수십 시간의 녹음에는 민병대의 조직 재건과 언론인 감시",
-   "publishedAt": 1792348915000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -936,9 +935,37 @@
    "comments": 87,
    "publishedAt": 1792174302000,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false,
    "lastWeekRank": 25
+  },
+  {
+   "title": "미국 민병대 최고위층에 잠입한 내부 공작원 (2025)",
+   "url": "https://news.hada.io/topic?id=35589",
+   "summary": "야생 생존술 강사 John Williams 가 경찰이나 FBI와 협력하지 않고 우익 민병대에 잠입해, AP3의 Utah주 최고 책임자 에 오르고 Oath Keepers 지도부에 접근함 수만 건의 문서와 비공개 대화, 수십 시간의 녹음에는 민병대의 조직 재건과 언론인 감시",
+   "publishedAt": 1792348915000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "I built a programming language that LLMs can't use",
+   "url": "https://blog.picheta.me/post/killswitch-lang/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50135762",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 192,
+   "comments": 134,
+   "publishedAt": 1792276007000,
+   "isAI": false,
+   "score": 35.7,
+   "hot": false
   },
   {
    "title": "Neural networks are clean",
@@ -947,11 +974,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 823,
+   "engagement": 824,
    "comments": 337,
    "publishedAt": 1792080241000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 29
   },
@@ -966,7 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -980,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -993,20 +1020,6 @@
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
-   "isAI": false,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "I built a programming language that LLMs can't use",
-   "url": "https://blog.picheta.me/post/killswitch-lang/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50135762",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 179,
-   "comments": 126,
-   "publishedAt": 1792276007000,
    "isAI": false,
    "score": 35.5,
    "hot": false
@@ -1022,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1036,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1050,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1064,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1078,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.2,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1092,21 +1105,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "회의론자의 Kubernetes 첫 탐색 (2024)",
-   "url": "https://news.hada.io/topic?id=35576",
-   "summary": "물리적 워크로드 배치를 엄격히 통제하는 인프라 업무 때문에 Kubernetes를 피해 온 경험에서 출발해, 제어 루프와 Service 를 이해하며 핵심 설계를 긍정적으로 재평가함 제어 루프 는 관측값을 바탕으로 원하는 상태에 도달하도록 동작하며, 장애 복구와 복제본 수...",
-   "publishedAt": 1792334008000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1120,23 +1119,9 @@
    "comments": 111,
    "publishedAt": 1792160324000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
    "hot": false,
    "lastWeekRank": 34
-  },
-  {
-   "title": "텐센트, 챗봇마다 따로 저장하던 AI 메모리 통합...클로드·챗GPT 등에서 공유",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216413",
-   "summary": "텐센트가 여러 AI 챗봇과 코딩 도구의 메모리를 통합해 공유할 수 있는 오픈소스 기술을 선보였다. AI 서비스마다 따로 저장되던 대화와 작업 기록을 하나의 저장소로 연결해, 도구를 바꿔도 기존 맥락을 유지하며 작업을 이어갈 수 있도록 하는 것이 핵심이다. 텐센트는 16일 서로 다른 AI 챗봇과 코딩 도구에서 사용자의 대화 내용과 작업 기록을 공유할 수 있는 오픈소스 메모리 시스템 ‘하이 메모리 2.0(Hy-Memory 2.0)’을 공개했다.여러 AI 도구의 기억을 하나로 통합해, 사용자가 다른 서비스로 옮겨도 이전 대화나 프로젝트",
-   "publishedAt": 1792400064000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 34,
-   "hot": false
   },
   {
    "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
@@ -1149,50 +1134,36 @@
    "comments": 93,
    "publishedAt": 1792166140000,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false,
    "lastWeekRank": 37
   },
   {
-   "title": "엘로리안, 시각 추론 AI ‘글림프스’ 공개…일부 평가서 아스트라 앞서",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216403",
-   "summary": "AI 스타트업 엘로리안(Elorian)이 이미지와 영상을 반복해서 살펴보며 추론하는 시각 AI 모델 ‘글림프스(Glimpse)’를 연구 프리뷰로 공개했다. 자체 평가에서는 과학 차트 분석과 물체 수 세기, 짧은 영상 설명 등 일부 시각 추론 과제에서 오픈AI의 'GPT-6 아스트라'를 앞섰다.엘로리안은 16일(현지시간) API와 채팅 인터페이스를 통해 ‘글림프스’를 제공한다고 밝혔다.이 모델은 추론 도중 이미지의 특정 영역을 확대하거나 영상의 특정 구간을 다시 확인하면서 판단을 수정하는 데 초점을 맞췄다.이런 과정을 ‘시각적 작업",
-   "publishedAt": 1792398958000,
+   "title": "구글, AI 성능 스스로 높이는 자기개선 프레임워크 ‘하네스²’ 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216410",
+   "summary": "구글이 AI 에이전트의 작업 방식을 스스로 개선하는 오픈소스 프레임워크를 공개했다. 고정된 AI 모델을 유지하면서도 에이전트가 실제 작업 과정에서 얻은 경험을 바탕으로 실행 환경을 개선해 더 나은 결과를 내도록 하는 것이 핵심이다. 구글은 AI 모델을 재학습하지 않고도 지시문과 도구 활용법, 메모리, 작업 절차 등을 스스로 개선해 에이전트의 성능을 높이는 오픈소스 프레임워크 ‘하네스²(Harness²)’를 온라인 아카이브를 통해 최근 공개했다. 하네스²는 AI 에이전트의 성능이 기반 모델뿐 아니라 모델을 둘러싼 실행 환경에도 영향받",
+   "publishedAt": 1792400475000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-   "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-   "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-   "publishedAt": 1792341000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽 직원 91% “2030년 AI가 노벨상급 발견” 예측...일반인은 39%",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216398",
-   "summary": "앤트로픽 직원 10명 중 9명은 AI가 2030년까지 노벨상 수준의 과학적 발견을 할 수 있을 것으로 전망했다. 반면 미국 일반인 가운데 같은 전망을 내놓은 비율은 39%에 그쳤다. AI 기술을 직접 개발하고 업무에 활용하는 사람들과 일반인 사이에 AI의 발전 속도와 일자리 영향에 대한 인식 차이가 크다는 조사 결과다.앤트로픽은 16일(현지시간) 자사 직원과 미국 성인의 설문조사를 비교한 보고서 ‘AI 기대 격차(The AI Expectations Gap)’를 공개했다. 이번 조사에서는 앤트로픽 직원 1334명의 응답을 미국 성인",
-   "publishedAt": 1792398410000,
+   "title": "텐센트, 챗봇마다 저장하던 AI 메모리 통합...클로드·챗GPT에서 공유",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216413",
+   "summary": "텐센트가 여러 AI 챗봇과 코딩 도구의 메모리를 통합해 공유할 수 있는 오픈소스 기술을 선보였다. AI 서비스마다 따로 저장되던 대화와 작업 기록을 하나의 저장소로 연결해, 도구를 바꿔도 기존 맥락을 유지하며 작업을 이어갈 수 있도록 하는 것이 핵심이다. 텐센트는 16일 서로 다른 AI 챗봇과 코딩 도구에서 사용자의 대화 내용과 작업 기록을 공유할 수 있는 오픈소스 메모리 시스템 ‘하이 메모리 2.0(Hy-Memory 2.0)’을 공개했다.여러 AI 도구의 기억을 하나로 통합해, 사용자가 다른 서비스로 옮겨도 이전 대화나 프로젝트",
+   "publishedAt": 1792400064000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1206,36 +1177,50 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false,
    "lastWeekRank": 36
   },
   {
-   "title": "센드버드, 업스테이지와 기업용 AI 에이전트 영역서 협력",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216412",
-   "summary": "업스테이지의 대형언어모델(LLM) '솔라(Solar)'가 센드버드의 기업용 AI 에이전트 플랫폼에 적용된다.센드버드(대표 김동신)는 업스테이지와 국산 LLM의 기업 현장 적용 및 AI 에이전트 상용화 확대를 위한 업무협약(MOU)을 체결했다고 19일 밝혔다.양사는 센드버드의 AI 에이전트 플랫폼 'Delight.ai'와 솔라를 연계해 기업 고객 업무에 적용하고 검증 결과를 각사 제품 고도화에 반영할 방침이다.센드버드는 에이전트 설계와 운영을, 업스테이지는 모델 최적화를 맡는다. 응답 속도와 업무 정확도, 고객 만족도 등을 단계적으로",
-   "publishedAt": 1792397229000,
+   "title": "엘로리안, 시각 추론 AI ‘글림프스’ 공개…일부 평가서 아스트라 앞서",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216403",
+   "summary": "AI 스타트업 엘로리안(Elorian)이 이미지와 영상을 반복해서 살펴보며 추론하는 시각 AI 모델 ‘글림프스(Glimpse)’를 연구 프리뷰로 공개했다. 자체 평가에서는 과학 차트 분석과 물체 수 세기, 짧은 영상 설명 등 일부 시각 추론 과제에서 오픈AI의 'GPT-6 아스트라'를 앞섰다.엘로리안은 16일(현지시간) API와 채팅 인터페이스를 통해 ‘글림프스’를 제공한다고 밝혔다.이 모델은 추론 도중 이미지의 특정 영역을 확대하거나 영상의 특정 구간을 다시 확인하면서 판단을 수정하는 데 초점을 맞췄다.이런 과정을 ‘시각적 작업",
+   "publishedAt": 1792398958000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false
   },
   {
-   "title": "중국 CXMT, AI 수요에 흑자 전환 전망…주가는 6%대 하락",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216415",
-   "summary": "중국 메모리 반도체 업체 창신메모리테크놀로지(CXMT)가 AI 수요 증가와 D램 가격 상승에 힘입어 대규모 흑자 전환을 예고했다. 그러나 실적 개선 전망에도 주가는 장중 6% 넘게 하락했다.CNBC는 19일(현지시간) CXMT가 올해 1~9월 실적 전망을 발표한 뒤 이날 상하이 증시에서 주가가 장중 6.5%까지 떨어졌다고 보도했다.CXMT는 지난 16일 공시에서 올해 1~9월 주주 귀속 순이익이 1310억~1325억위안(약 26조1220억~26조4200억원)에 이를 것으로 예상했다. 지난해 같은 기간 기록한 52억8000만위안(약",
-   "publishedAt": 1792397084000,
+   "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+   "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+   "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+   "publishedAt": 1792341000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽 직원 91% “2030년 AI가 노벨상급 발견” 예측...일반인은 39%",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216398",
+   "summary": "앤트로픽 직원 10명 중 9명은 AI가 2030년까지 노벨상 수준의 과학적 발견을 할 수 있을 것으로 전망했다. 반면 미국 일반인 가운데 같은 전망을 내놓은 비율은 39%에 그쳤다. AI 기술을 직접 개발하고 업무에 활용하는 사람들과 일반인 사이에 AI의 발전 속도와 일자리 영향에 대한 인식 차이가 크다는 조사 결과다.앤트로픽은 16일(현지시간) 자사 직원과 미국 성인의 설문조사를 비교한 보고서 ‘AI 기대 격차(The AI Expectations Gap)’를 공개했다. 이번 조사에서는 앤트로픽 직원 1334명의 응답을 미국 성인",
+   "publishedAt": 1792398410000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1249,43 +1234,29 @@
    "comments": 43,
    "publishedAt": 1792245068000,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false,
    "lastWeekRank": 33
   },
   {
-   "title": "앤트로픽, 에이전트 협상 학습에 변호사 투입...“흥정할 때 지켜야 할 규칙은”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216406",
-   "summary": "앤트로픽이 사용자를 대신해 가격을 흥정하고 계약 조건을 조율하는 AI 에이전트의 행동 규칙을 마련하기 위해 법률 전문가들과 협의하고 있다. AI 에이전트가 다른 에이전트와 직접 협상하는 시대가 다가오면서, 사용자의 이익을 지키면서도 법률과 윤리를 준수하도록 하는 기준을 마련하려는 움직임이다.파이낸셜타임스는 18일(현지시간) 앤트로픽이 변호사와 법률 전문가들에게 의뢰인을 대리하는 변호사들의 협상 방식에 관해 자문을 구하고 있다고 보도했다.변호사가 의뢰인에게 유리한 결과를 추구하면서도 공정성과 직업윤리를 지키는 원칙을 AI 에이전트에도",
-   "publishedAt": 1792395166000,
+   "title": "센드버드, 업스테이지와 기업용 AI 에이전트 영역서 협력",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216412",
+   "summary": "업스테이지의 대형언어모델(LLM) '솔라(Solar)'가 센드버드의 기업용 AI 에이전트 플랫폼에 적용된다.센드버드(대표 김동신)는 업스테이지와 국산 LLM의 기업 현장 적용 및 AI 에이전트 상용화 확대를 위한 업무협약(MOU)을 체결했다고 19일 밝혔다.양사는 센드버드의 AI 에이전트 플랫폼 'Delight.ai'와 솔라를 연계해 기업 고객 업무에 적용하고 검증 결과를 각사 제품 고도화에 반영할 방침이다.센드버드는 에이전트 설계와 운영을, 업스테이지는 모델 최적화를 맡는다. 응답 속도와 업무 정확도, 고객 만족도 등을 단계적으로",
+   "publishedAt": 1792397229000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
-   "title": "디즈니, 파산한 캐릭터닷AI 직원 대부분 채용...3년간 2600억 투입",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216405",
-   "summary": "디즈니가 파산 절차에 들어간 AI 챗봇 스타트업 캐릭터닷AI(Character.AI)의 직원 60여명을 채용하고, 이들의 보수와 근속 보상으로 앞으로 3년간 약 1억8000만달러(약 2600억원)를 투입하기로 했다.캐릭터닷AI가 12일(현지시간) 미국 델라웨어주 파산법원에 제출한 서류에 따르면, 디즈니는 전체 직원의 대다수인 최소 60명에게 고용을 제안했다.이들의 연간 보수 총액은 약 6000만달러로 추산된다. 채용 제안을 받은 직원 대부분은 이를 수락한 것으로 알려졌다.디즈니는 기본 보수 외에도 직원들의 장기 근속을 유도하기 위해",
-   "publishedAt": 1792393955000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "AI 도입 가속에 앤트로픽 초급 기술직 채용 '3분의 1'로 급감",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216399",
-   "summary": "앤트로픽이 AI 활용을 확대하면서 기술직 신규 채용에서 초급 인력이 차지하는 비중을 2025년 초 27%에서 2026년 9%로 줄인 것으로 나타났다. 또 AI가 코드 작성과 버그 수정, 계약 검토 등 다양한 업무를 맡으면서 직원들의 생산성은 높아졌지만, AI의 결과물을 검토하고 작업을 조율하는 일이 새로운 부담으로 떠올랐다.앤트로픽은 16일(현지시간) 공개한 사내 고용 및 업무 변화 분석 보고서에서 기술 부서 내 초급 직원 비중도 같은 기간 21%에서 14%로 감소했다고 밝혔다.기술직 전체 인원은 계속 증가하고 있다. 다만 영업과",
-   "publishedAt": 1792393281000,
+   "title": "중국 CXMT, AI 수요에 흑자 전환 전망…주가는 6%대 하락",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216415",
+   "summary": "중국 메모리 반도체 업체 창신메모리테크놀로지(CXMT)가 AI 수요 증가와 D램 가격 상승에 힘입어 대규모 흑자 전환을 예고했다. 그러나 실적 개선 전망에도 주가는 장중 6% 넘게 하락했다.CNBC는 19일(현지시간) CXMT가 올해 1~9월 실적 전망을 발표한 뒤 이날 상하이 증시에서 주가가 장중 6.5%까지 떨어졌다고 보도했다.CXMT는 지난 16일 공시에서 올해 1~9월 주주 귀속 순이익이 1310억~1325억위안(약 26조1220억~26조4200억원)에 이를 것으로 예상했다. 지난해 같은 기간 기록한 52억8000만위안(약",
+   "publishedAt": 1792397084000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
@@ -1306,36 +1277,63 @@
    "comments": 621,
    "publishedAt": 1791999923000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33.1,
    "hot": false,
    "lastWeekRank": 53
   },
   {
-   "title": "퓨리오사AI·업스테이지 등 5개사 '소버린 AI 풀스택 인프라' 공동 개발 맞손",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216392",
-   "summary": "오케스트 로클라우드(대표 박소아)는 최근 퓨리오사AI, 업스테이지, 에스피케이인크(SPK), 대원씨티에스와 '신경망처리장치(NPU) 기반 소버린 AI 풀스택 상품 공동 개발'을 위한 업무협약(MOU)을 체결했다고 19일 밝혔다.5개사는 AI 컴퓨팅, 클라우드 인프라, 모델·추론, 운영·관리까지 통합한 '소버린 AI 풀스택 어플라이언스'를 개발해 복잡한 AI 인프라 구축 과정을 간소화하는 것이 목표다.오케스트로 클라우드는 클라우드 플랫폼 제공과 기술 검증을 총괄한다. 퓨리오사AI는 NPU 'RNGD'를 제공하고 업스테이지는 '솔라'",
-   "publishedAt": 1792391960000,
+   "title": "앤트로픽, 에이전트 협상 학습에 변호사 투입...“흥정할 때 지켜야 할 규칙은”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216406",
+   "summary": "앤트로픽이 사용자를 대신해 가격을 흥정하고 계약 조건을 조율하는 AI 에이전트의 행동 규칙을 마련하기 위해 법률 전문가들과 협의하고 있다. AI 에이전트가 다른 에이전트와 직접 협상하는 시대가 다가오면서, 사용자의 이익을 지키면서도 법률과 윤리를 준수하도록 하는 기준을 마련하려는 움직임이다.파이낸셜타임스는 18일(현지시간) 앤트로픽이 변호사와 법률 전문가들에게 의뢰인을 대리하는 변호사들의 협상 방식에 관해 자문을 구하고 있다고 보도했다.변호사가 의뢰인에게 유리한 결과를 추구하면서도 공정성과 직업윤리를 지키는 원칙을 AI 에이전트에도",
+   "publishedAt": 1792395166000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 33.1,
    "hot": false
   },
   {
-   "title": "네이버 파파고, 번역에 AI 얹어 외국인 여행 가이드로 확장",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216387",
-   "summary": "네이버 번역 앱 파파고가 외국인 관광객을 위한 한국 여행 가이드로 변신한다.네이버(대표 최수연)는 방한 외국인의 상품·장소 탐색부터 방문·예약까지 지원하는 '트렌드(Trend)' 서비스를 파파고 앱에 탑재했다고 19일 밝혔다.한국에서 무엇을 사고 어디를 방문할지 고민하는 외국인들이 다양한 선택지를 살펴보고 국내 이용자들의 후기까지 참고해 여행을 즐길 수 있도록 한 것이 특징이다.트렌드는 외국인 이용자의 이미지 번역 데이터를 기반으로 외국인 여행객이 가장 많이 찾아본 상품과 장소를 보여 준다. 상품과 장소 모두 톱 100부터 인기 급",
-   "publishedAt": 1792391911000,
+   "title": "Google Open Sources Harness2 for Self Improving AI Agents",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 29.2,
+   "publishedAt": 1792362831000,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "디즈니, 파산한 캐릭터닷AI 직원 대부분 채용...3년간 2600억 투입",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216405",
+   "summary": "디즈니가 파산 절차에 들어간 AI 챗봇 스타트업 캐릭터닷AI(Character.AI)의 직원 60여명을 채용하고, 이들의 보수와 근속 보상으로 앞으로 3년간 약 1억8000만달러(약 2600억원)를 투입하기로 했다.캐릭터닷AI가 12일(현지시간) 미국 델라웨어주 파산법원에 제출한 서류에 따르면, 디즈니는 전체 직원의 대다수인 최소 60명에게 고용을 제안했다.이들의 연간 보수 총액은 약 6000만달러로 추산된다. 채용 제안을 받은 직원 대부분은 이를 수락한 것으로 알려졌다.디즈니는 기본 보수 외에도 직원들의 장기 근속을 유도하기 위해",
+   "publishedAt": 1792393955000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "AI 도입 가속에 앤트로픽 초급 기술직 채용 '3분의 1'로 급감",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216399",
+   "summary": "앤트로픽이 AI 활용을 확대하면서 기술직 신규 채용에서 초급 인력이 차지하는 비중을 2025년 초 27%에서 2026년 9%로 줄인 것으로 나타났다. 또 AI가 코드 작성과 버그 수정, 계약 검토 등 다양한 업무를 맡으면서 직원들의 생산성은 높아졌지만, AI의 결과물을 검토하고 작업을 조율하는 일이 새로운 부담으로 떠올랐다.앤트로픽은 16일(현지시간) 공개한 사내 고용 및 업무 변화 분석 보고서에서 기술 부서 내 초급 직원 비중도 같은 기간 21%에서 14%로 감소했다고 밝혔다.기술직 전체 인원은 계속 증가하고 있다. 다만 영업과",
+   "publishedAt": 1792393281000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1349,9 +1347,37 @@
    "comments": 37,
    "publishedAt": 1792173618000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false,
    "lastWeekRank": 44
+  },
+  {
+   "title": "퓨리오사AI·업스테이지 등 5개사 '소버린 AI 풀스택 인프라' 공동 개발 맞손",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216392",
+   "summary": "오케스트 로클라우드(대표 박소아)는 최근 퓨리오사AI, 업스테이지, 에스피케이인크(SPK), 대원씨티에스와 '신경망처리장치(NPU) 기반 소버린 AI 풀스택 상품 공동 개발'을 위한 업무협약(MOU)을 체결했다고 19일 밝혔다.5개사는 AI 컴퓨팅, 클라우드 인프라, 모델·추론, 운영·관리까지 통합한 '소버린 AI 풀스택 어플라이언스'를 개발해 복잡한 AI 인프라 구축 과정을 간소화하는 것이 목표다.오케스트로 클라우드는 클라우드 플랫폼 제공과 기술 검증을 총괄한다. 퓨리오사AI는 NPU 'RNGD'를 제공하고 업스테이지는 '솔라'",
+   "publishedAt": 1792391960000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.8,
+   "hot": false
+  },
+  {
+   "title": "네이버 파파고, 번역에 AI 얹어 외국인 여행 가이드로 확장",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216387",
+   "summary": "네이버 번역 앱 파파고가 외국인 관광객을 위한 한국 여행 가이드로 변신한다.네이버(대표 최수연)는 방한 외국인의 상품·장소 탐색부터 방문·예약까지 지원하는 '트렌드(Trend)' 서비스를 파파고 앱에 탑재했다고 19일 밝혔다.한국에서 무엇을 사고 어디를 방문할지 고민하는 외국인들이 다양한 선택지를 살펴보고 국내 이용자들의 후기까지 참고해 여행을 즐길 수 있도록 한 것이 특징이다.트렌드는 외국인 이용자의 이미지 번역 데이터를 기반으로 외국인 여행객이 가장 많이 찾아본 상품과 장소를 보여 준다. 상품과 장소 모두 톱 100부터 인기 급",
+   "publishedAt": 1792391911000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.8,
+   "hot": false
   },
   {
    "title": "덴컴·서울대, AI 음성 치주 기록 교육 협력",
@@ -1364,7 +1390,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1378,11 +1404,11 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.7,
    "hot": false
   },
   {
-   "title": "\"앤트로픽 ‘페이블 5.5’ 파트너에 제공\"...개발 도구서 새 모델명 잇따라 포착",
+   "title": "\"페이블 5.5, 파트너에 전달\"...개발 도구서 새 모델명 잇따라 포착",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216390",
    "summary": "앤트로픽이 차세대 모델 ‘클로드 페이블 5.5’를 일부 파트너사에 제공해 테스트를 진행하고 있다는 주장이 나왔다. 외부 AI 평가 사이트와 개발 도구에서도 미공개 클로드 모델의 코드명이 잇따라 발견되면서, 앤트로픽이 여러 신모델을 준비하고 있다는 관측이 나온다.유출 전문 X 계정 ‘라이라(Lyra)’는 15일(현지시간) 앤트로픽의 파트너사들이 페이블 5.5에 접근할 수 있게 됐다고 주장했다. 정식 출시는 이번 주로 예상했다.앤트로픽은 파트너 제공 여부나 출시 일정을 공식적으로 확인하지 않았다.Partners got access to",
    "publishedAt": 1792388804000,
@@ -1392,35 +1418,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽 ‘상위 5대 고객’ 레플릿도 오픈AI로…클로드 의존 줄여",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216404",
-   "summary": "앤트로픽의 주요 고객들이 '클로드' 의존도를 잇달아 낮추고 있다. 마이크로소프트(MS)와 메타가 사내 클로드 사용을 줄인 데 이어, 최근까지 앤트로픽의 상위 5대 고객 중 하나였던 코딩 플랫폼 레플릿도 기본 AI 모델을 오픈AI로 바꿨다.아마드 마사드 레플릿 공동창업자 겸 CEO는 지난 15일(현지시간) 열린 '테크크런치 디스럽트' 행사에서 오픈AI를 기본 모델 공급사로 선택한 이유를 설명했다.레플릿은 이용자가 자연어로 원하는 기능을 설명하면 AI가 코드를 작성하고 앱을 배포하도록 돕는 플랫폼이다. 마사드 CEO는 레플릿이 최근까지",
-   "publishedAt": 1792387779000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, ‘GPT-라이브’에 의사 결정 API 연결...\"말 끝나기 전 판단\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216402",
-   "summary": "오픈AI가 음성 AI 모델 ‘GPT-라이브(GPT-Live)’에 의사 결정 API ‘디시전스(Decisions)’를 직접 연결하는 기능을 공개했다. 사용자가 말을 끝내기 전에도 대화 내용을 분석해 필요한 동작을 결정할 수 있어 음성 AI의 반응 속도와 실시간 상호작용이 개선될 전망이다.오픈AI는 15일(현지시간) 개발자 업데이트를 통해 GPT-라이브가 디시전스 API를 직접 호출할 수 있도록 지원한다고 밝혔다.기존에는 앱이 중간에서 요청을 전달해야 했지만, 이번 기능을 이용하면 GPT-라이브가 직접 의사 결정을 요청해 처리 과정을",
-   "publishedAt": 1792387167000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false
   }
  ]
