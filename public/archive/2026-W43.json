@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792421584416,
+ "updatedAt": 1792425242172,
  "week": "2026-W43",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 547,
-   "comments": 267,
+   "engagement": 568,
+   "comments": 304,
    "publishedAt": 1792406714000,
    "isAI": true,
-   "score": 65.3,
+   "score": 64.9,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 233,
-   "comments": 44,
+   "engagement": 307,
+   "comments": 50,
    "publishedAt": 1792403972000,
    "isAI": true,
-   "score": 57.1,
+   "score": 58.9,
    "hot": true
   },
   {
@@ -37,25 +37,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 466,
-   "comments": 225,
+   "engagement": 478,
+   "comments": 226,
    "publishedAt": 1792356494000,
    "isAI": true,
-   "score": 55.4,
+   "score": 55.1,
    "hot": true
   },
   {
-   "title": "Linux 7.3 Released",
+   "title": "Linux 7.3",
    "url": "https://lwn.net/Articles/1101143/",
    "commentsUrl": "https://news.ycombinator.com/item?id=50149392",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 433,
-   "comments": 188,
+   "engagement": 480,
+   "comments": 203,
    "publishedAt": 1792394637000,
    "isAI": false,
-   "score": 53.6,
+   "score": 53.9,
    "hot": true
   },
   {
@@ -65,8 +65,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 118,
-   "comments": 52,
+   "engagement": 125,
+   "comments": 57,
    "publishedAt": 1792411661000,
    "isAI": true,
    "score": 52.1,
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 172,
-   "comments": 70,
+   "engagement": 176,
+   "comments": 75,
    "publishedAt": 1792384906000,
    "isAI": true,
-   "score": 51.4,
+   "score": 51.1,
    "hot": true
   },
   {
@@ -93,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 251,
-   "comments": 167,
+   "engagement": 261,
+   "comments": 180,
    "publishedAt": 1792357752000,
    "isAI": true,
-   "score": 50.7,
+   "score": 50.5,
    "hot": true
   },
   {
@@ -107,13 +107,27 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 585,
-   "comments": 273,
+   "engagement": 586,
+   "comments": 274,
    "publishedAt": 1792306236000,
    "isAI": true,
-   "score": 50.4,
+   "score": 49.9,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "Superlite: Superpowers보다 빠른 대안",
+   "url": "https://news.hada.io/topic?id=35647",
+   "summary": "Superlite 는 명세를 받아 계획 수립, 병렬 구현, 통합 경계 점검, 리뷰까지 수행하는 Claude Code 플러그인으로, 반복적인 승인 없이 개발을 진행하도록 설계됨 파일 소유권과 인터페이스, 테스트를 명시한 작업 그래프 를 만들고, 파일을 공유하지 않으며 서로 의존...",
+   "publishedAt": 1792424803000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
   },
   {
    "title": "Show HN: Cloudflare에서 무료로 실행하는 WhatsApp MCP",
@@ -126,13 +140,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.8,
    "hot": true
   },
   {
-   "title": "Timestral: Mistral, 시계열 파운데이션 모델 공개",
+   "title": "Timestral - Mistral이 공개한 시계열 파운데이션 모델",
    "url": "https://news.hada.io/topic?id=35642",
-   "summary": "Mistral이 학습한 패턴을 처음 보는 시계열에 적용하는 Timestral 모델군을 공개함. 다변량 확률 예측과 과거 전용/미래 값이 알려진 공변량을 지원함 최대 2억 900만 파라미터 모델은 Mistral 평가에서 GIFT-Eval, TIME, fev-bench의 사전 학습된 제로샷 모델 중 ...",
+   "summary": "Mistral이 센서 값과 수요, 자금 흐름 등 시간에 따라 변하는 데이터를 예측하는 Timestral 모델군 공개. 사전 학습한 패턴을 활용해 별도 학습 없이 처음 보는 시계열도 예측 가능 여러 센서의 값을 함께 예측하고, 생산 일정과 기상 예보도 입력으로 활용 . 하나의...",
    "publishedAt": 1792416917000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -140,8 +154,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.8,
    "hot": true
+  },
+  {
+   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+   "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50148855",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 113,
+   "comments": 78,
+   "publishedAt": 1792389331000,
+   "isAI": true,
+   "score": 48,
+   "hot": false
   },
   {
    "title": "Someone behind the software",
@@ -150,11 +178,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 506,
-   "comments": 183,
+   "engagement": 519,
+   "comments": 186,
    "publishedAt": 1792341120000,
    "isAI": false,
-   "score": 47.5,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -168,7 +196,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -182,7 +210,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.3,
    "hot": true
   },
   {
@@ -196,7 +224,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.8,
    "hot": true
   },
   {
@@ -210,7 +238,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -221,10 +249,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 949,
-   "comments": 710,
+   "comments": 711,
    "publishedAt": 1792225285000,
    "isAI": true,
-   "score": 45,
+   "score": 44.7,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -239,8 +267,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.4,
    "hot": true
+  },
+  {
+   "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50141429",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 168,
+   "comments": 165,
+   "publishedAt": 1792333827000,
+   "isAI": true,
+   "score": 44.2,
+   "hot": false
   },
   {
    "title": "Show GN: 무료 AI 보안 자가진단 - 내 웹/서버 보안을 점검해 보세요.",
@@ -253,22 +295,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.2,
    "hot": true
-  },
-  {
-   "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50141429",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 166,
-   "comments": 165,
-   "publishedAt": 1792333827000,
-   "isAI": true,
-   "score": 44.6,
-   "hot": false
   },
   {
    "title": "Websites are closing their doors to AI agents",
@@ -277,12 +305,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 152,
-   "comments": 139,
+   "engagement": 153,
+   "comments": 143,
    "publishedAt": 1792335490000,
    "isAI": true,
-   "score": 44.1,
-   "hot": true
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
@@ -291,11 +319,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 248,
-   "comments": 87,
+   "engagement": 249,
+   "comments": 88,
    "publishedAt": 1792298029000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
    "hot": false,
    "lastWeekRank": 4
   },
@@ -310,7 +338,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -324,7 +352,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -338,7 +366,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -352,7 +380,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -366,7 +394,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -380,7 +408,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -394,7 +422,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -408,8 +436,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
+  },
+  {
+   "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+   "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50136881",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 591,
+   "comments": 399,
+   "publishedAt": 1792286330000,
+   "isAI": false,
+   "score": 42.2,
+   "hot": false,
+   "lastWeekRank": 3
   },
   {
    "title": "Hybrid Reasoning Agents: 잠재 공간에서 사고하고 텍스트로 행동하는 LLM 에이전트",
@@ -422,7 +465,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -433,26 +476,53 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 278,
-   "comments": 309,
+   "comments": 312,
    "publishedAt": 1792337166000,
    "isAI": false,
-   "score": 42.5,
+   "score": 42.1,
+   "hot": false
+  },
+  {
+   "title": "Let's Encrypt, 도메인 검증용 원격 관측 지점 2곳 추가",
+   "url": "https://news.hada.io/topic?id=35648",
+   "summary": "Let's Encrypt 가 도메인 검증용 원격 관측 지점을 2곳 추가해, 검증 범위를 넓히고 BGP 공격 방어 를 강화함 도메인 검증 요청은 주 데이터센터 1곳과 원격 관측 지점 6곳에서 총 7회 수행하며, 기존 원격 관측 지점은 4곳이었음 검증에 ...",
+   "publishedAt": 1792424983000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 42,
    "hot": true
   },
   {
-   "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-   "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50136881",
-   "source": "Hacker News",
+   "title": "동물실험 대안이 마침내 본격적으로 확산되기 시작함",
+   "url": "https://news.hada.io/topic?id=35646",
+   "summary": "장기 칩과 인간 세포 기반 모델, 컴퓨터 시뮬레이션 이 동물실험을 보완하거나 대체할 수단으로 부상하면서, 도입의 과제가 기술 개발에서 검증과 제도, 연구 관행의 변화로 넓어지고 있음 FDA Modernization Act 2.0 은 2022년 신약의 임상시험 전 연구에 비동물 대...",
+   "publishedAt": 1792424623000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 587,
-   "comments": 397,
-   "publishedAt": 1792286330000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 42.5,
-   "hot": false,
-   "lastWeekRank": 3
+   "score": 41.9,
+   "hot": true
+  },
+  {
+   "title": "Wine, OpenBSD로 이식",
+   "url": "https://news.hada.io/topic?id=35645",
+   "summary": "OpenBSD용 Wine 포트 초안 이 제안됐으며, 수십 개의 64비트 Windows 소프트웨어를 테스트한 결과 대부분 성공적으로 실행됨 gsbase 를 설정할 수 없는 문제를 명령어의 %gs 접두사 에뮬레이션 으로 해결하면서 이식이 가능해짐 가...",
+   "publishedAt": 1792424443000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.9,
+   "hot": true
   },
   {
    "title": "Anthropic의 고용 변화 - 신규 기술직 채용의 주니어 비중, 27%에서 9%로 감소",
@@ -465,8 +535,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
+  },
+  {
+   "title": "보다 \"거대 삼각형에서 안전한\" 헤론의 공식을 작성하기",
+   "url": "https://news.hada.io/topic?id=35644",
+   "summary": "카한의 알고리즘은 극단적으로 큰 변의 길이를 입력하면 중간 연산에서 오버플로( inf )가 발생함 변의 길이를 1.0으로 정규화한 뒤 진구소의 알고리즘을 변형해 계산하고 스케일을 복원하면 큰 변의 길이에서도 안전하게 넓이를 구함 일반적인 케이스는 카한 방식을 쓰고 임계값...",
+   "publishedAt": 1792422560000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "How employment is changing at Anthropic",
@@ -475,11 +559,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 137,
+   "engagement": 139,
    "comments": 236,
    "publishedAt": 1792320566000,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -493,7 +577,7 @@
    "comments": 388,
    "publishedAt": 1792176959000,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.4,
    "hot": false,
    "lastWeekRank": 6
   },
@@ -508,7 +592,7 @@
    "comments": 5,
    "publishedAt": 1792226266000,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.2,
    "hot": false,
    "lastWeekRank": 5
   },
@@ -523,7 +607,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -537,7 +621,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -551,7 +635,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.5,
+   "hot": true
+  },
+  {
+   "title": "Free Pascal compiler now supports dynamic packages",
+   "url": "https://www.getlazarus.org/dynamic/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50144066",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 188,
+   "comments": 44,
+   "publishedAt": 1792349284000,
+   "isAI": false,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -565,7 +663,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -579,27 +677,27 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.3,
    "hot": false
   },
   {
-   "title": "Free Pascal compiler now supports dynamic packages",
-   "url": "https://www.getlazarus.org/dynamic/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50144066",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+   "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+   "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+   "publishedAt": 1792424229000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 183,
-   "comments": 44,
-   "publishedAt": 1792349284000,
-   "isAI": false,
-   "score": 40.6,
-   "hot": true
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.9,
+   "hot": false
   },
   {
-   "title": "Linux 7.3 출시",
+   "title": "Linux 7.3 출시 - 스케줄링 개선과 새로운 파일 접근 격리 기능",
    "url": "https://news.hada.io/topic?id=35635",
-   "summary": "Linux 7.3 정식 버전 이 예정대로 출시됐으며, 다음 날 7.4 병합 기간이 시작됨 병합 커밋을 제외한 18,765개 커밋 에 개발자 3,021명이 참여했고, 이 중 807명은 커널 개발에 처음 기여함 대규모 시스템 성능 개선 을 목표로 그룹 스케줄링...",
+   "summary": "Linux 7.3 정식 버전 출시. 병합 커밋을 제외한 18,765개 커밋에 개발자 3,021명이 참여했으며, 첫 기여자도 807명으로 개발 참여 규모의 기록을 경신 대규모 시스템의 성능 개선을 위한 그룹 스케줄링 변경 과 sched_ext 하위 스케줄러 구현을 완료. ...",
    "publishedAt": 1792402312000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -607,7 +705,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -621,7 +719,7 @@
    "comments": 64,
    "publishedAt": 1792318911000,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -635,7 +733,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -646,10 +744,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 624,
-   "comments": 571,
+   "comments": 572,
    "publishedAt": 1792170518000,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false,
    "lastWeekRank": 14
   },
@@ -664,7 +762,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -678,8 +776,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
+  },
+  {
+   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+   "url": "https://llmspeed.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50127979",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 327,
+   "comments": 86,
+   "publishedAt": 1792211813000,
+   "isAI": true,
+   "score": 37.5,
+   "hot": false,
+   "lastWeekRank": 16
   },
   {
    "title": "테크 업계의 남성들 #YesAllMen",
@@ -692,23 +805,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.5,
    "hot": true
   },
   {
-   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-   "url": "https://llmspeed.dev/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50127979",
+   "title": "How the Claude Code team does code review",
+   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50122951",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 326,
-   "comments": 86,
-   "publishedAt": 1792211813000,
+   "engagement": 480,
+   "comments": 474,
+   "publishedAt": 1792177487000,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.3,
    "hot": false,
-   "lastWeekRank": 16
+   "lastWeekRank": 17
   },
   {
    "title": "PalmOS Lemmings - 교육용으로 제공되는 게임 소스 코드",
@@ -721,23 +834,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
-  },
-  {
-   "title": "How the Claude Code team does code review",
-   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50122951",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 480,
-   "comments": 472,
-   "publishedAt": 1792177487000,
-   "isAI": true,
-   "score": 37.5,
-   "hot": false,
-   "lastWeekRank": 17
   },
   {
    "title": "Amazon uses AI to monitor union risk in UK warehouses",
@@ -750,7 +848,7 @@
    "comments": 61,
    "publishedAt": 1792253063000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false,
    "lastWeekRank": 13
   },
@@ -765,8 +863,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "Show GN: RubraView - 순수 C23과 WinAPI로 만든 가벼운 Windows 이미지·만화·동영상 뷰어",
@@ -779,7 +877,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -793,7 +891,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -803,11 +901,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 118,
+   "engagement": 119,
    "comments": 35,
    "publishedAt": 1792340427000,
    "isAI": false,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -821,7 +919,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -835,21 +933,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
-   "title": "일회성 샌드박스를 위한 버전 관리 파일시스템",
-   "url": "https://news.hada.io/topic?id=35606",
-   "summary": "Tines의 3B는 실행 후 폐기하는 Linux 샌드박스에 영속 파일시스템을 연결 . Git 저장소와 SQLite, DuckDB 등을 다음 실행에서도 이어 쓰면서, 성공한 실행의 변경만 일괄 반영 실행마다 고정된 스냅샷 을 읽고, 실패하면 파일 변경을 폐기. 다른 실행이나 UI에는 반...",
-   "publishedAt": 1792370076000,
-   "source": "GeekNews",
+   "title": "I built a programming language that LLMs can't use",
+   "url": "https://blog.picheta.me/post/killswitch-lang/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50135762",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 254,
+   "comments": 185,
+   "publishedAt": 1792276007000,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -863,22 +961,22 @@
    "comments": 85,
    "publishedAt": 1792175555000,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false,
    "lastWeekRank": 20
   },
   {
-   "title": "I built a programming language that LLMs can't use",
-   "url": "https://blog.picheta.me/post/killswitch-lang/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50135762",
-   "source": "Hacker News",
+   "title": "일회성 샌드박스를 위한 버전 관리 파일시스템",
+   "url": "https://news.hada.io/topic?id=35606",
+   "summary": "Tines의 3B는 실행 후 폐기하는 Linux 샌드박스에 영속 파일시스템을 연결 . Git 저장소와 SQLite, DuckDB 등을 다음 실행에서도 이어 쓰면서, 성공한 실행의 변경만 일괄 반영 실행마다 고정된 스냅샷 을 읽고, 실패하면 파일 변경을 폐기. 다른 실행이나 UI에는 반...",
+   "publishedAt": 1792370076000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 248,
-   "comments": 182,
-   "publishedAt": 1792276007000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -892,7 +990,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -906,7 +1004,7 @@
    "comments": 158,
    "publishedAt": 1792254672000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false,
    "lastWeekRank": 18
   },
@@ -921,21 +1019,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "Java sealed 타입의 함정 - 새 하위 타입이 기존 코드를 깨뜨릴 수 있다",
-   "url": "https://news.hada.io/topic?id=35598",
-   "summary": "Java의 sealed 클래스와 인터페이스 는 허용할 하위 타입을 제한해, 컴파일러가 switch 에서 모든 경우를 처리했는지 검사할 수 있게 함 모든 타입을 처리하면 default 분기 없이 작성 할 수 있고, 빠뜨린 타입이 있으면 컴파일 오류가 발생...",
-   "publishedAt": 1792359091000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.1,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -949,50 +1033,22 @@
    "comments": 337,
    "publishedAt": 1792080241000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.8,
    "hot": false,
    "lastWeekRank": 29
   },
   {
-   "title": "플로리다의 주택소유자협회와 콘도 관리조합이 주거 위기를 악화시키고 있음",
-   "url": "https://news.hada.io/topic?id=35597",
-   "summary": "플로리다의 주택소유자협회(HOA)와 콘도 관리조합 은 관리비 인상뿐 아니라 체납에 따른 담보권 설정과 강제매각 소송으로 주거비, 매매 가능성, 거주 안정성을 압박함 HOA Spy가 수집한 기록에서 협회가 회원을 상대로 제기한 담보권 실행 소송은 10,296건 이지만, ...",
-   "publishedAt": 1792356650000,
+   "title": "Java sealed 타입의 함정 - 새 하위 타입이 기존 코드를 깨뜨릴 수 있다",
+   "url": "https://news.hada.io/topic?id=35598",
+   "summary": "Java의 sealed 클래스와 인터페이스 는 허용할 하위 타입을 제한해, 컴파일러가 switch 에서 모든 경우를 처리했는지 검사할 수 있게 함 모든 타입을 처리하면 default 분기 없이 작성 할 수 있고, 빠뜨린 타입이 있으면 컴파일 오류가 발생...",
+   "publishedAt": 1792359091000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "JDK 28 - 값 객체 프리뷰와 AOT 코드 컴파일을 포함할 Java SE 28 참조 구현",
-   "url": "https://news.hada.io/topic?id=35595",
-   "summary": "JDK 28 은 Java SE 28의 참조 구현이 될 릴리스로, 현재 개발 중이며 GPL 기반 사전 체험 바이너리를 제공함 현재 포함 대상으로 지정된 기능에는 값 객체 와 JVM의 엄격한 필드 초기화 가 있으며, 둘 다 프리뷰 단계임 구조화된 동...",
-   "publishedAt": 1792356290000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "Chrome과 Edge의 XSLT 제거: 무엇이 깨지고 무엇은 그대로인가",
-   "url": "https://news.hada.io/topic?id=35594",
-   "summary": "Chrome 158 은 2026년 11월 17일 안정 버전 출시와 함께 브라우저 내 XSLT 지원을 제거할 예정임. Edge도 Chromium을 따르지만, Microsoft는 제거 날짜를 공개하지 않음 사이트맵과 피드의 XML 데이터는 그대로 유지되며 검색 크롤링에도 변화가 없음. 달라지는 것은...",
-   "publishedAt": 1792356110000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.9,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1006,9 +1062,51 @@
    "comments": 89,
    "publishedAt": 1792174302000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false,
    "lastWeekRank": 25
+  },
+  {
+   "title": "플로리다의 주택소유자협회와 콘도 관리조합이 주거 위기를 악화시키고 있음",
+   "url": "https://news.hada.io/topic?id=35597",
+   "summary": "플로리다의 주택소유자협회(HOA)와 콘도 관리조합 은 관리비 인상뿐 아니라 체납에 따른 담보권 설정과 강제매각 소송으로 주거비, 매매 가능성, 거주 안정성을 압박함 HOA Spy가 수집한 기록에서 협회가 회원을 상대로 제기한 담보권 실행 소송은 10,296건 이지만, ...",
+   "publishedAt": 1792356650000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.6,
+   "hot": false
+  },
+  {
+   "title": "JDK 28 - 값 객체 프리뷰와 AOT 코드 컴파일을 포함할 Java SE 28 참조 구현",
+   "url": "https://news.hada.io/topic?id=35595",
+   "summary": "JDK 28 은 Java SE 28의 참조 구현이 될 릴리스로, 현재 개발 중이며 GPL 기반 사전 체험 바이너리를 제공함 현재 포함 대상으로 지정된 기능에는 값 객체 와 JVM의 엄격한 필드 초기화 가 있으며, 둘 다 프리뷰 단계임 구조화된 동...",
+   "publishedAt": 1792356290000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.5,
+   "hot": false
+  },
+  {
+   "title": "Chrome과 Edge의 XSLT 제거: 무엇이 깨지고 무엇은 그대로인가",
+   "url": "https://news.hada.io/topic?id=35594",
+   "summary": "Chrome 158 은 2026년 11월 17일 안정 버전 출시와 함께 브라우저 내 XSLT 지원을 제거할 예정임. Edge도 Chromium을 따르지만, Microsoft는 제거 날짜를 공개하지 않음 사이트맵과 피드의 XML 데이터는 그대로 유지되며 검색 크롤링에도 변화가 없음. 달라지는 것은...",
+   "publishedAt": 1792356110000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.5,
+   "hot": false
   },
   {
    "title": "Show HN: Ocarina of Time 리메이크 전에 살펴보는 Zelda 연대표",
@@ -1021,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1035,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1049,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1063,7 +1161,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+   "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+   "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+   "publishedAt": 1792421143000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1077,49 +1189,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "Open MicroManipulator - 서브마이크로미터 3D 모션 제어 플랫폼",
-   "url": "https://news.hada.io/topic?id=35587",
-   "summary": "Open Micro-Manipulator 는 광학 정렬, 전자 부품 프로빙, 현미경 작업을 위한 저비용 오픈소스 전동 XYZ 미세 조작 플랫폼으로, 쉽게 제작할 수 있도록 설계됨 병렬 기구 구조 와 소형 볼 조인트로 기계적 강성과 넓은 이동 범위를 확보하며, 기성 스테퍼 모터를 30...",
-   "publishedAt": 1792345169000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "Teal - Lua의 정적 타입 방언",
-   "url": "https://news.hada.io/topic?id=35586",
-   "summary": "Teal 은 Lua에 타입 표기를 추가한 정적 타입 방언으로, 배열, 맵, 레코드뿐 아니라 인터페이스, 유니온 타입, 제네릭을 지원함 JavaScript 생태계의 TypeScript와 유사한 역할 을 목표로 하되, Lua의 미니멀리즘, 이식성, 임베딩 용이성을 따름 컴파일러 ...",
-   "publishedAt": 1792344989000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "macOS 15.8.2에서 OpenGL이 작동하지 않음",
-   "url": "https://news.hada.io/topic?id=35585",
-   "summary": "macOS 15.8.2에서 OpenGL이 작동하지 않음",
-   "publishedAt": 1792344809000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1133,35 +1203,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "Matthew Prince가 밝힌 Cloudflare의 무료 버전 제공 이유와 유지 방침 (2016)",
-   "url": "https://news.hada.io/topic?id=35582",
-   "summary": "Cloudflare의 무료 사용자 기반 은 유료 사용자만으로는 접하기 어려운 다양한 공격 데이터를 확보하게 해, 유료 고객의 보안 수준을 높이는 데 기여함 무료 서비스를 사용한 직원이 직장에 Cloudflare를 도입하는 고객 추천 경로가 있으며, 대형 고객 다수가 이런 ...",
-   "publishedAt": 1792341774000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "파서 조합기 - 작은 파서를 조합해 구조화된 데이터를 만드는 방법",
-   "url": "https://news.hada.io/topic?id=35581",
-   "summary": "파서 조합기(parser combinator) 는 작은 파싱 함수를 조합해 복잡한 텍스트를 구조화된 데이터로 변환하는 방식으로, 정규식으로는 복잡하고 tree-sitter를 쓰기에는 과한 작업에 적합함 기본 단위인 부분 파서 는 입력 문자열에서 일부를 읽고, 파싱한 값과 남은 ...",
-   "publishedAt": 1792341594000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1175,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1189,7 +1231,7 @@
    "comments": 111,
    "publishedAt": 1792160324000,
    "isAI": true,
-   "score": 33,
+   "score": 32.8,
    "hot": false,
    "lastWeekRank": 34
   },
@@ -1204,7 +1246,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1218,7 +1260,7 @@
    "comments": 93,
    "publishedAt": 1792166140000,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false,
    "lastWeekRank": 37
   },
@@ -1233,7 +1275,7 @@
    "comments": 621,
    "publishedAt": 1791999923000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.4,
    "hot": false,
    "lastWeekRank": 53
   },
@@ -1248,7 +1290,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false,
    "lastWeekRank": 36
   },
@@ -1259,11 +1301,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 198,
+   "engagement": 200,
    "comments": 45,
    "publishedAt": 1792245068000,
    "isAI": false,
-   "score": 32.2,
+   "score": 32,
    "hot": false,
    "lastWeekRank": 33
   },
@@ -1278,9 +1320,24 @@
    "comments": 1046,
    "publishedAt": 1791907396000,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.8,
    "hot": false,
    "lastWeekRank": 67
+  },
+  {
+   "title": "Designing more efficient quantum circuits with Claude",
+   "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50121939",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 172,
+   "comments": 37,
+   "publishedAt": 1792173618000,
+   "isAI": true,
+   "score": 31.6,
+   "hot": false,
+   "lastWeekRank": 44
   },
   {
    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
@@ -1293,7 +1350,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1307,7 +1364,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1321,23 +1378,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
-  },
-  {
-   "title": "Designing more efficient quantum circuits with Claude",
-   "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50121939",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 172,
-   "comments": 37,
-   "publishedAt": 1792173618000,
-   "isAI": true,
-   "score": 31.8,
-   "hot": false,
-   "lastWeekRank": 44
   },
   {
    "title": "엘로리안, 시각 추론 AI ‘글림프스’ 공개…일부 평가서 아스트라 앞서",
@@ -1350,7 +1392,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1364,7 +1406,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1378,48 +1420,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "중국 CXMT, AI 수요에 흑자 전환 전망…주가는 6%대 하락",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216415",
-   "summary": "중국 메모리 반도체 업체 창신메모리테크놀로지(CXMT)가 AI 수요 증가와 D램 가격 상승에 힘입어 대규모 흑자 전환을 예고했다. 그러나 실적 개선 전망에도 주가는 장중 6% 넘게 하락했다.CNBC는 19일(현지시간) CXMT가 올해 1~9월 실적 전망을 발표한 뒤 이날 상하이 증시에서 주가가 장중 6.5%까지 떨어졌다고 보도했다.CXMT는 지난 16일 공시에서 올해 1~9월 주주 귀속 순이익이 1310억~1325억위안(약 26조1220억~26조4200억원)에 이를 것으로 예상했다. 지난해 같은 기간 기록한 52억8000만위안(약",
-   "publishedAt": 1792397084000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, 에이전트 협상 학습에 변호사 투입...“흥정할 때 지켜야 할 규칙은”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216406",
-   "summary": "앤트로픽이 사용자를 대신해 가격을 흥정하고 계약 조건을 조율하는 AI 에이전트의 행동 규칙을 마련하기 위해 법률 전문가들과 협의하고 있다. AI 에이전트가 다른 에이전트와 직접 협상하는 시대가 다가오면서, 사용자의 이익을 지키면서도 법률과 윤리를 준수하도록 하는 기준을 마련하려는 움직임이다.파이낸셜타임스는 18일(현지시간) 앤트로픽이 변호사와 법률 전문가들에게 의뢰인을 대리하는 변호사들의 협상 방식에 관해 자문을 구하고 있다고 보도했다.변호사가 의뢰인에게 유리한 결과를 추구하면서도 공정성과 직업윤리를 지키는 원칙을 AI 에이전트에도",
-   "publishedAt": 1792395166000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "Google Open Sources Harness2 for Self Improving AI Agents",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 29.2,
-   "publishedAt": 1792362831000,
-   "isAI": true,
-   "score": 31.4,
+   "score": 31.3,
    "hot": false
   }
  ]
