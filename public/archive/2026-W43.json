@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792488917164,
+ "updatedAt": 1792492576732,
  "week": "2026-W43",
  "items": [
   {
@@ -9,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 423,
-   "comments": 117,
+   "engagement": 450,
+   "comments": 130,
    "publishedAt": 1792452138000,
    "isAI": true,
-   "score": 59.1,
+   "score": 59,
+   "hot": true
+  },
+  {
+   "title": "DeepSeek just open-sourced its inference engine",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50163277",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 191,
+   "comments": 60,
+   "publishedAt": 1792487334000,
+   "isAI": true,
+   "score": 57.3,
    "hot": true
   },
   {
@@ -23,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 639,
-   "comments": 363,
+   "engagement": 642,
+   "comments": 364,
    "publishedAt": 1792406714000,
    "isAI": true,
-   "score": 55.4,
+   "score": 54.9,
    "hot": true
   },
   {
@@ -37,12 +51,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 586,
+   "engagement": 588,
    "comments": 111,
    "publishedAt": 1792403972000,
    "isAI": true,
-   "score": 54.3,
-   "hot": true
+   "score": 53.9,
+   "hot": false
   },
   {
    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
@@ -51,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 445,
-   "comments": 589,
+   "engagement": 463,
+   "comments": 607,
    "publishedAt": 1792409074000,
    "isAI": true,
-   "score": 53,
+   "score": 52.8,
    "hot": true
   },
   {
@@ -65,25 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 340,
+   "engagement": 342,
    "comments": 58,
    "publishedAt": 1792423704000,
    "isAI": true,
-   "score": 52.9,
-   "hot": true
-  },
-  {
-   "title": "Mercury 3: Diffusion at scale",
-   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50155245",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 246,
-   "comments": 87,
-   "publishedAt": 1792430831000,
-   "isAI": true,
-   "score": 51.3,
+   "score": 52.5,
    "hot": true
   },
   {
@@ -93,11 +93,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 240,
-   "comments": 206,
+   "engagement": 270,
+   "comments": 225,
    "publishedAt": 1792426606000,
    "isAI": true,
-   "score": 50.6,
+   "score": 51,
+   "hot": true
+  },
+  {
+   "title": "Mercury 3: Diffusion at scale",
+   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50155245",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 248,
+   "comments": 88,
+   "publishedAt": 1792430831000,
+   "isAI": true,
+   "score": 50.9,
+   "hot": true
+  },
+  {
+   "title": "DeepSeek, 추론 엔진을 오픈소스로 공개",
+   "url": "https://news.hada.io/topic?id=35703",
+   "summary": "DeepSeek이 대규모 프로덕션 서비스를 구동하는 추론 프레임워크 DeepInfer 를 공개함. 이번 공개 버전은 대규모 서빙에 필요한 핵심 기능을 갖춘 오프라인 추론 을 제공함 지원 모델은 DeepSeek-V4.1-Flash 이며, NVIDIA SM100 GPU와 Huawe...",
+   "publishedAt": 1792492537000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 50,
    "hot": true
   },
   {
@@ -111,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.4,
    "hot": true
   },
   {
@@ -121,11 +149,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 259,
-   "comments": 154,
+   "engagement": 263,
+   "comments": 156,
    "publishedAt": 1792457632000,
    "isAI": false,
-   "score": 48.5,
+   "score": 48.1,
    "hot": true
   },
   {
@@ -139,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -153,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -167,7 +195,21 @@
    "comments": 236,
    "publishedAt": 1792356494000,
    "isAI": true,
-   "score": 47.4,
+   "score": 47,
+   "hot": false
+  },
+  {
+   "title": "Linux 7.3",
+   "url": "https://lwn.net/Articles/1101143/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50149392",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 618,
+   "comments": 284,
+   "publishedAt": 1792394637000,
+   "isAI": false,
+   "score": 46.9,
    "hot": false
   },
   {
@@ -181,22 +223,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": true
-  },
-  {
-   "title": "Linux 7.3",
-   "url": "https://lwn.net/Articles/1101143/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50149392",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 613,
-   "comments": 283,
-   "publishedAt": 1792394637000,
-   "isAI": false,
-   "score": 47.2,
-   "hot": false
   },
   {
    "title": "Advancing coding in low‑resource programming languages",
@@ -209,7 +237,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.2,
    "hot": false
   },
   {
@@ -219,11 +247,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 317,
+   "engagement": 319,
    "comments": 170,
    "publishedAt": 1792428330000,
    "isAI": false,
-   "score": 46.3,
+   "score": 45.9,
+   "hot": true
+  },
+  {
+   "title": "An ad-free Android TV",
+   "url": "https://cretezy.com/2026/ad-free-android-tv",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50158942",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 225,
+   "comments": 73,
+   "publishedAt": 1792449157000,
+   "isAI": false,
+   "score": 45.7,
+   "hot": true
+  },
+  {
+   "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+   "url": "https://josie.lol/blog/linux-rtx-spark",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50158100",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 242,
+   "comments": 120,
+   "publishedAt": 1792444098000,
+   "isAI": false,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -237,34 +293,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
-   "hot": true
-  },
-  {
-   "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-   "url": "https://josie.lol/blog/linux-rtx-spark",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50158100",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 234,
-   "comments": 120,
-   "publishedAt": 1792444098000,
-   "isAI": false,
-   "score": 45.8,
-   "hot": true
-  },
-  {
-   "title": "An ad-free Android TV",
-   "url": "https://cretezy.com/2026/ad-free-android-tv",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50158942",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 207,
-   "comments": 64,
-   "publishedAt": 1792449157000,
-   "isAI": false,
    "score": 45.4,
    "hot": true
   },
@@ -279,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 45,
    "hot": true
   },
   {
@@ -293,7 +321,7 @@
    "comments": 109,
    "publishedAt": 1792414847000,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.8,
    "hot": false
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -317,11 +345,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 144,
-   "comments": 123,
+   "engagement": 146,
+   "comments": 126,
    "publishedAt": 1792411563000,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.4,
+   "hot": false
+  },
+  {
+   "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+   "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50145507",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 297,
+   "comments": 212,
+   "publishedAt": 1792357752000,
+   "isAI": true,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -335,21 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.1,
-   "hot": false
-  },
-  {
-   "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-   "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50145507",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 297,
-   "comments": 211,
-   "publishedAt": 1792357752000,
-   "isAI": true,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -363,7 +391,7 @@
    "comments": 64,
    "publishedAt": 1792411661000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -377,7 +405,7 @@
    "comments": 91,
    "publishedAt": 1792384906000,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -391,7 +419,7 @@
    "comments": 282,
    "publishedAt": 1792306236000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -406,7 +434,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -420,7 +448,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
+   "hot": false
+  },
+  {
+   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+   "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50148855",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 156,
+   "comments": 119,
+   "publishedAt": 1792389331000,
+   "isAI": true,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -434,22 +476,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.4,
    "hot": false
   },
   {
-   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-   "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50148855",
+   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+   "url": "https://bsd.network/@brynet/117407035545900963",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50158138",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 156,
-   "comments": 117,
-   "publishedAt": 1792389331000,
-   "isAI": true,
-   "score": 42.8,
-   "hot": false
+   "engagement": 157,
+   "comments": 36,
+   "publishedAt": 1792444305000,
+   "isAI": false,
+   "score": 42.1,
+   "hot": true
+  },
+  {
+   "title": "독일 극우 정당 AfD 내부 문서 50만 건 유출",
+   "url": "https://news.hada.io/topic?id=35702",
+   "summary": "독일 극우 정당 AfD 내부 문서 50만 건 유출",
+   "publishedAt": 1792492357000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 42,
+   "hot": true
   },
   {
    "title": "Harness Engineering 101 - Python 약 300줄로 배우는 AI 에이전트 구현",
@@ -462,22 +518,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.5,
+   "score": 42,
    "hot": false
-  },
-  {
-   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-   "url": "https://bsd.network/@brynet/117407035545900963",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50158138",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 155,
-   "comments": 34,
-   "publishedAt": 1792444305000,
-   "isAI": false,
-   "score": 42.4,
-   "hot": true
   },
   {
    "title": "tmux와 Claude Code: 세션, send-keys, 그리고 한계",
@@ -490,7 +532,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
    "hot": false
   },
   {
@@ -504,21 +546,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
-   "hot": false
-  },
-  {
-   "title": "Superlite - Superpowers보다 빠른 Claude Code 플러그인",
-   "url": "https://news.hada.io/topic?id=35647",
-   "summary": "Claude Code의 개발 절차를 체계화하는 Superpowers를 바탕으로, 반복 승인과 순차 실행을 줄인 플러그인 . 명세를 넘기면 계획부터 병렬 구현, 테스트와 리뷰까지 진행 사람이 계획을 한 번 승인하거나 AI가 스스로 결정하며 진행하는 방식 을 선택 가능. 결정한 내...",
-   "publishedAt": 1792424803000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41.7,
+   "score": 42,
    "hot": false
   },
   {
@@ -532,8 +560,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.2,
    "hot": true
+  },
+  {
+   "title": "Superlite - Superpowers보다 빠른 Claude Code 플러그인",
+   "url": "https://news.hada.io/topic?id=35647",
+   "summary": "Claude Code의 개발 절차를 체계화하는 Superpowers를 바탕으로, 반복 승인과 순차 실행을 줄인 플러그인 . 명세를 넘기면 계획부터 병렬 구현, 테스트와 리뷰까지 진행 사람이 계획을 한 번 승인하거나 AI가 스스로 결정하며 진행하는 방식 을 선택 가능. 결정한 내...",
+   "publishedAt": 1792424803000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 41.2,
+   "hot": false
   },
   {
    "title": "프랑스 슈퍼마켓 냉장고, 수개월 동안 온라인에서 취약한 상태로 노출돼 있었음",
@@ -546,7 +588,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -560,7 +602,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -574,7 +616,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -588,7 +630,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -602,7 +644,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -616,7 +658,7 @@
    "comments": 195,
    "publishedAt": 1792341120000,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -630,7 +672,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -644,7 +686,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -658,7 +700,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -672,8 +714,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.8,
    "hot": true
+  },
+  {
+   "title": "DeepSeek-v4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50129045",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 956,
+   "comments": 718,
+   "publishedAt": 1792225285000,
+   "isAI": true,
+   "score": 39.6,
+   "hot": false,
+   "lastWeekRank": 2
   },
   {
    "title": "Ende의 시작: 커뮤니티 Deno 포크",
@@ -686,23 +743,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
-  },
-  {
-   "title": "DeepSeek-v4.1-Flash-1017",
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50129045",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 955,
-   "comments": 718,
-   "publishedAt": 1792225285000,
-   "isAI": true,
-   "score": 39.9,
-   "hot": false,
-   "lastWeekRank": 2
   },
   {
    "title": "미 국방부는 얼마나 빨리 탄약 산업 기반을 재건하고 재편할 수 있을까?",
@@ -715,7 +757,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -729,7 +771,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -743,7 +785,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -757,7 +799,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -771,7 +813,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -785,21 +827,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
-   "hot": true
-  },
-  {
-   "title": "Plex 취약점, 암호화폐 채굴기 설치를 위한 실제 공격에 악용 중",
-   "url": "https://news.hada.io/topic?id=35672",
-   "summary": "취약한 Plex 버전을 실행한 허니팟 에서 2026년 10월 17일 실제 취약점 악용과 암호화폐 채굴기 배포가 관측됨 Plex2Shell 은 여러 취약점을 연결해 원격 코드 실행을 달성하며, Plex는 앞서 9월 1일 관련 보안 업데이트를 공지함 서로 다...",
-   "publishedAt": 1792456337000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.2,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -813,14 +841,14 @@
    "comments": 167,
    "publishedAt": 1792333827000,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false
   },
   {
-   "title": "Microsoft 계정이 없어 RTX Spark 노트북에 Linux 설치하기",
-   "url": "https://news.hada.io/topic?id=35665",
-   "summary": "Windows만 공식 지원하는 ASUS ProArt P16 에 Arch Linux ARM을 설치하고, 하드웨어 지원 패치와 부팅 가능한 USB 빌드 구성을 공개함 NVIDIA의 Ubuntu용 커널 작업을 바탕으로 ACPI, 콘솔, 키보드, 오디오 지원 을 보완했으며, 확장한 Archinstall 4.5로 설치할 수 ...",
-   "publishedAt": 1792452778000,
+   "title": "Plex 취약점, 암호화폐 채굴기 설치를 위한 실제 공격에 악용 중",
+   "url": "https://news.hada.io/topic?id=35672",
+   "summary": "취약한 Plex 버전을 실행한 허니팟 에서 2026년 10월 17일 실제 취약점 악용과 암호화폐 채굴기 배포가 관측됨 Plex2Shell 은 여러 취약점을 연결해 원격 코드 실행을 달성하며, Plex는 앞서 9월 1일 관련 보안 업데이트를 공지함 서로 다...",
+   "publishedAt": 1792456337000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -841,9 +869,36 @@
    "comments": 89,
    "publishedAt": 1792298029000,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false,
    "lastWeekRank": 4
+  },
+  {
+   "title": "MemT-1.0: Towards Memory-Native Evolution",
+   "url": "https://huggingface.co/papers/2610.26825",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 124,
+   "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of memory foundation models that internalize memory as part of model computation. Buil",
+   "publishedAt": 1792353600000,
+   "isAI": true,
+   "score": 37.4,
+   "hot": false
+  },
+  {
+   "title": "Microsoft 계정이 없어 RTX Spark 노트북에 Linux 설치하기",
+   "url": "https://news.hada.io/topic?id=35665",
+   "summary": "Windows만 공식 지원하는 ASUS ProArt P16 에 Arch Linux ARM을 설치하고, 하드웨어 지원 패치와 부팅 가능한 USB 빌드 구성을 공개함 NVIDIA의 Ubuntu용 커널 작업을 바탕으로 ACPI, 콘솔, 키보드, 오디오 지원 을 보완했으며, 확장한 Archinstall 4.5로 설치할 수 ...",
+   "publishedAt": 1792452778000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.4,
+   "hot": true
   },
   {
    "title": "Websites are closing their doors to AI agents",
@@ -856,7 +911,7 @@
    "comments": 149,
    "publishedAt": 1792335490000,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -866,26 +921,13 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1061,
+   "engagement": 1062,
    "comments": 389,
    "publishedAt": 1792176959000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.3,
    "hot": false,
    "lastWeekRank": 6
-  },
-  {
-   "title": "MemT-1.0: Towards Memory-Native Evolution",
-   "url": "https://huggingface.co/papers/2610.26825",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 118,
-   "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of memory foundation models that internalize memory as part of model computation. Buil",
-   "publishedAt": 1792353600000,
-   "isAI": true,
-   "score": 37.4,
-   "hot": false
   },
   {
    "title": "유럽 9월 전기차 판매 70.3% 증가, 시장 점유율 32.6%",
@@ -898,8 +940,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Show GN: VEXPLOR AAS Studio – AAS 작성·검사·설비 값 수집을 한 화면에서 하는 오픈소스",
@@ -912,8 +954,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
@@ -926,7 +968,7 @@
    "comments": 415,
    "publishedAt": 1792286330000,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.7,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -941,7 +983,7 @@
    "comments": 5,
    "publishedAt": 1792226266000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.6,
    "hot": false,
    "lastWeekRank": 5
   },
@@ -956,7 +998,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -970,7 +1012,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -984,7 +1026,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -998,7 +1040,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -1008,11 +1050,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 155,
+   "engagement": 156,
    "comments": 252,
    "publishedAt": 1792320566000,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -1026,7 +1068,7 @@
    "comments": 324,
    "publishedAt": 1792337166000,
    "isAI": false,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1040,21 +1082,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "GitHub Actions, GitHub Pages, Webhooks 가용성 저하",
-   "url": "https://news.hada.io/topic?id=35656",
-   "summary": "GitHub Actions, GitHub Pages, Webhooks 에서 가용성 저하가 발생했으며, 2026년 10월 19일 16:56 UTC에 정상 운영 확인과 함께 장애가 해결됨 장애 영향으로 워크플로 처리, 사이트 빌드, 웹훅 전달 이 지연될 수 있었음 완화 조치 이후...",
-   "publishedAt": 1792436106000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -1068,7 +1096,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
+   "hot": false
+  },
+  {
+   "title": "GitHub Actions, GitHub Pages, Webhooks 가용성 저하",
+   "url": "https://news.hada.io/topic?id=35656",
+   "summary": "GitHub Actions, GitHub Pages, Webhooks 에서 가용성 저하가 발생했으며, 2026년 10월 19일 16:56 UTC에 정상 운영 확인과 함께 장애가 해결됨 장애 영향으로 워크플로 처리, 사이트 빌드, 웹훅 전달 이 지연될 수 있었음 완화 조치 이후...",
+   "publishedAt": 1792436106000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1082,7 +1124,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1096,7 +1138,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1105,11 +1147,25 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 91,
+   "engagement": 93,
    "summary": "Experience generated during deployment offers an opportunity for robots to improve policy reliability through learning from their own executions. However, learning through human corrections requires teleoperators to monitor execution and intervene when policies fail, a demand that is difficult to me",
    "publishedAt": 1792353600000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "It's still ok to enjoy programming",
+   "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50134472",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 607,
+   "comments": 523,
+   "publishedAt": 1792266800000,
+   "isAI": false,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1123,21 +1179,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
-   "hot": false
-  },
-  {
-   "title": "It's still ok to enjoy programming",
-   "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50134472",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 594,
-   "comments": 517,
-   "publishedAt": 1792266800000,
-   "isAI": false,
-   "score": 35.6,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1151,7 +1193,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "Free Pascal compiler now supports dynamic packages",
+   "url": "https://www.getlazarus.org/dynamic/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50144066",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 199,
+   "comments": 52,
+   "publishedAt": 1792349284000,
+   "isAI": false,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1165,7 +1221,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1179,7 +1235,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1193,49 +1249,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "Free Pascal compiler now supports dynamic packages",
-   "url": "https://www.getlazarus.org/dynamic/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50144066",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 198,
-   "comments": 52,
-   "publishedAt": 1792349284000,
-   "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-   "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-   "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-   "publishedAt": 1792440564000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.8,
-   "hot": false
-  },
-  {
-   "title": "보다 \"거대 삼각형에서 안전한\" 헤론의 공식을 작성하기",
-   "url": "https://news.hada.io/topic?id=35644",
-   "summary": "카한의 알고리즘은 극단적으로 큰 변의 길이를 입력하면 중간 연산에서 오버플로( inf )가 발생함 변의 길이를 1.0으로 정규화한 뒤 진구소의 알고리즘을 변형해 계산하고 스케일을 복원하면 큰 변의 길이에서도 안전하게 넓이를 구함 일반적인 케이스는 카한 방식을 쓰고 임계값...",
-   "publishedAt": 1792422560000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1249,22 +1263,36 @@
    "comments": 574,
    "publishedAt": 1792170518000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false,
    "lastWeekRank": 14
   },
   {
-   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-   "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-   "publishedAt": 1792438114000,
+   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+   "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+   "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+   "publishedAt": 1792440564000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "보다 \"거대 삼각형에서 안전한\" 헤론의 공식을 작성하기",
+   "url": "https://news.hada.io/topic?id=35644",
+   "summary": "카한의 알고리즘은 극단적으로 큰 변의 길이를 입력하면 중간 연산에서 오버플로( inf )가 발생함 변의 길이를 1.0으로 정규화한 뒤 진구소의 알고리즘을 변형해 계산하고 스케일을 복원하면 큰 변의 길이에서도 안전하게 넓이를 구함 일반적인 케이스는 카한 방식을 쓰고 임계값...",
+   "publishedAt": 1792422560000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1278,7 +1306,21 @@
    "comments": 124,
    "publishedAt": 1792326178000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+   "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+   "publishedAt": 1792438114000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1292,7 +1334,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.4,
+   "score": 34,
    "hot": false
   },
   {
@@ -1306,7 +1348,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1319,62 +1361,6 @@
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
-   "isAI": true,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "판사가 위헌으로 판단한 Flock 이동 이력 조회 영상",
-   "url": "https://news.hada.io/topic?id=35641",
-   "summary": "공개된 경찰 영상은 Flock과 Motorola 차량번호판 조회 가 평범한 교통 단속을 운전자의 이동 이력에 대한 심문으로 바꾸는 과정을 보여줌 연방 판사는 캘리포니아 번호판만을 이유로 영장 없이 이동 이력을 조회한 행위가 수정헌법 제4조 위반 이라고 판단하고, 이후...",
-   "publishedAt": 1792413536000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "문서로 확인된 경찰관의 Flock 로그인 정보 공유, 상대는 ICE 요원인 남편",
-   "url": "https://news.hada.io/topic?id=35640",
-   "summary": "Savannah 경찰관 Amber Harpe 가 ICE 요원인 남편에게 차량 번호판 인식 시스템 Flock 계정을 공유한 뒤 해고됨 내부 감사에서 2026년 1~7월 해당 계정으로 번호판 97개를 검색한 기록 983건 이 확인됐으며, Harpe는 검색 대부분을 남편이 수행했다...",
-   "publishedAt": 1792413356000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "구글, 제미나이 노트북 개편…\"슬라이드·영상 생성 전 구성 검토\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216438",
-   "summary": "구글이 AI 자료 제작 도구 '제미나이 노트북(Gemini Notebook)'에 프레젠테이션과 동영상을 만들기 전 구성안을 검토하고 수정할 수 있는 기능을 추가했다. AI가 명령어를 입력받자마자 완성본을 만드는 방식에서 벗어나, 사용자가 기획 단계부터 AI와 함께 내용을 구성하고 결과물을 다듬을 수 있도록 했다.구글은 19일(현지시간) 제미나이 노트북의 '슬라이드 덱(Slide Decks)'과 '비디오 오버뷰(Video Overviews)'에 공동 제작(Co-creation) 기능을 도입한다고 밝혔다.이번 업데이트는 사용자 피드백을",
-   "publishedAt": 1792488381000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "텐스토렌트, 8조 가치로 대규모 투자 유치...\"인수 대신 독자 노선\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216444",
-   "summary": "캐나다의 AI 칩 스타트업 텐스토렌트(Tenstorrent)가 15억달러(약 2조원) 규모의 신규 투자를 유치하며 기업가치를 62억달러(약 8조원)로 끌어올렸다. 인텔과 퀄컴의 인수 가능성이 거론된 지 약 5개월 만에 매각 대신 독자 성장에 나서기로 했다.텐스토렌트는 19일(현지시간) 시리즈E 투자 라운드에서 15억달러(약 2조원)를 조달했다고 밝혔다. 이번 기업가치는 2024년 투자 당시 평가받은 26억달러(약 3조4000억원)의 두 배를 웃돈다.이번 투자는 트레이스 캐피털이 주도했으며, 이노베이션X를 비롯해 아고스티넬리 그룹,",
-   "publishedAt": 1792487685000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
    "isAI": true,
    "score": 33.9,
    "hot": false
@@ -1390,22 +1376,36 @@
    "comments": 479,
    "publishedAt": 1792177487000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false,
    "lastWeekRank": 17
   },
   {
-   "title": "스카이폴AI, CAD·BIM 3D 설계 자동화 월드모델 ‘스카이-001’ 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216450",
-   "summary": "미국의 스카이폴 AI(Skyfall AI)가 복잡한 물리적 제품의 설계를 자동화하는 월드모델 ‘스카이-001(SKY-001)’을 공개했다. 아이디어나 2D 스케치를 입력하면 설계 구조를 계층적으로 나누고, 컴퓨터 지원 설계(CAD)와 건축정보모델링(BIM) 소프트웨어에서 실제로 구현할 수 있는 단계별 제작 계획을 생성하는 모델이다.스카이폴 AI는 19일(현지시간) ‘스카이-001’이 기존 대형언어모델(LLM) 중심의 접근법을 넘어 장기적인 공간 계획과 반복적인 3D 추론을 수행하도록 설계됐다고 밝혔다. 자동차 엔진과 드론, 위성부터",
-   "publishedAt": 1792485864000,
+   "title": "판사가 위헌으로 판단한 Flock 이동 이력 조회 영상",
+   "url": "https://news.hada.io/topic?id=35641",
+   "summary": "공개된 경찰 영상은 Flock과 Motorola 차량번호판 조회 가 평범한 교통 단속을 운전자의 이동 이력에 대한 심문으로 바꾸는 과정을 보여줌 연방 판사는 캘리포니아 번호판만을 이유로 영장 없이 이동 이력을 조회한 행위가 수정헌법 제4조 위반 이라고 판단하고, 이후...",
+   "publishedAt": 1792413536000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "구글, 제미나이 노트북 개편…\"슬라이드·영상 생성 전 구성 검토\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216438",
+   "summary": "구글이 AI 자료 제작 도구 '제미나이 노트북(Gemini Notebook)'에 프레젠테이션과 동영상을 만들기 전 구성안을 검토하고 수정할 수 있는 기능을 추가했다. AI가 명령어를 입력받자마자 완성본을 만드는 방식에서 벗어나, 사용자가 기획 단계부터 AI와 함께 내용을 구성하고 결과물을 다듬을 수 있도록 했다.구글은 19일(현지시간) 제미나이 노트북의 '슬라이드 덱(Slide Decks)'과 '비디오 오버뷰(Video Overviews)'에 공동 제작(Co-creation) 기능을 도입한다고 밝혔다.이번 업데이트는 사용자 피드백을",
+   "publishedAt": 1792488381000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.6,
    "hot": false
   }
  ]
