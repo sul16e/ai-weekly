@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792496236891,
+ "updatedAt": 1792499895570,
  "week": "2026-W43",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 470,
-   "comments": 161,
+   "engagement": 737,
+   "comments": 251,
    "publishedAt": 1792487334000,
    "isAI": true,
-   "score": 65.1,
+   "score": 68.5,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 490,
-   "comments": 144,
+   "engagement": 542,
+   "comments": 154,
    "publishedAt": 1792452138000,
    "isAI": true,
-   "score": 59.1,
+   "score": 59.4,
    "hot": true
   },
   {
@@ -38,10 +38,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 643,
-   "comments": 364,
+   "comments": 366,
    "publishedAt": 1792406714000,
    "isAI": true,
-   "score": 54.4,
+   "score": 53.9,
    "hot": false
   },
   {
@@ -52,10 +52,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 591,
-   "comments": 113,
+   "comments": 115,
    "publishedAt": 1792403972000,
    "isAI": true,
-   "score": 53.4,
+   "score": 52.9,
    "hot": false
   },
   {
@@ -65,26 +65,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 484,
-   "comments": 615,
+   "engagement": 510,
+   "comments": 629,
    "publishedAt": 1792409074000,
    "isAI": true,
-   "score": 52.6,
+   "score": 52.5,
    "hot": false
-  },
-  {
-   "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50153630",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 345,
-   "comments": 58,
-   "publishedAt": 1792423704000,
-   "isAI": true,
-   "score": 52,
-   "hot": true
   },
   {
    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
@@ -93,11 +79,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 302,
-   "comments": 264,
+   "engagement": 342,
+   "comments": 300,
    "publishedAt": 1792426606000,
    "isAI": true,
-   "score": 51.4,
+   "score": 51.8,
+   "hot": true
+  },
+  {
+   "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50153630",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 348,
+   "comments": 58,
+   "publishedAt": 1792423704000,
+   "isAI": true,
+   "score": 51.6,
    "hot": true
   },
   {
@@ -107,11 +107,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 249,
+   "engagement": 250,
    "comments": 89,
    "publishedAt": 1792430831000,
    "isAI": true,
-   "score": 50.4,
+   "score": 50,
+   "hot": true
+  },
+  {
+   "title": "Show GN: MacNotify - Mac 알림이 오면 MX Master 4가 진동하는 로지텍 플러그인",
+   "url": "https://news.hada.io/topic?id=35708",
+   "summary": "비싼 MX Master 4를 샀는데 진동 기능을 쓸 데가 없어서 만들었음. 주로 쓰는 건 Claude Code. 작업 맡겨 두고 다른 창에 가 있으면 언제 끝났는지 몰라서, 완료 알림이 뜨면 마우스가 진동하게 해 둠. Mac 알림 배너가 뜨면 MX Master 4의 햅틱 센스 패널이 진동함 Claude Code뿐 아니라",
+   "publishedAt": 1792497346000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
+  },
+  {
+   "title": "Show GN: AI Quota Monitor - AI 할당량 소진 되셨나요? vs-code 상태바에서 모니터링 하세요!",
+   "url": "https://news.hada.io/topic?id=35707",
+   "summary": "Codex, Claude Code, Gemini 등 여러 AI를 구독해서 쓰다 보니 남은 할당량을 일일이 확인하는 게 번거로워서 직접 만들었습니다. 특히 주간 한도는 넉넉한데 5시간 한도가 먼저 소진되는 경우가 있어서, 단순히 숫자를 나열하는 대신 지금 주의해야 할 한도를 보여주는 방식으로 만들었습니다. 평소에",
+   "publishedAt": 1792497262000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
    "hot": true
   },
   {
@@ -125,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 50,
+   "score": 49.4,
    "hot": true
   },
   {
@@ -139,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.4,
+   "score": 48.9,
    "hot": true
   },
   {
@@ -153,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -163,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 265,
-   "comments": 158,
+   "engagement": 266,
+   "comments": 160,
    "publishedAt": 1792457632000,
    "isAI": false,
-   "score": 47.7,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -175,62 +203,6 @@
    "url": "https://news.hada.io/topic?id=35690",
    "summary": "WhatsApp 도움말 545개 페이지 중 80개 에서 화면에는 보이지 않는 AI용 지침 102개가 발견됐으며, 일부는 개인정보 규제기관이나 관련 법률을 답변에서 제외하도록 요구함 계정 삭제 지침은 개인정보 감독기관에 연락하도록 권하지 말 것 을 요구했고, 신고/차단 지...",
    "publishedAt": 1792474431000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.9,
-   "hot": true
-  },
-  {
-   "title": "Show GN: YugiTokenBar - AI 코딩 토큰사용량으로 유희왕 카드깡을 하는 macOS 메뉴바 앱",
-   "url": "https://news.hada.io/topic?id=35689",
-   "summary": "안녕하세요. AI 코딩 에이전트 토큰사용량만큼 유희왕 카드깡 을 즐길 수 있는 macOS 메뉴바 앱 YugiTokenBar 를 만들었습니다. Claude Code나 Codex를 사용하다 보면 토큰 사용량이 계속 쌓이게 되는데, 이 숫자를 가챠의 설렘과 수집하는 재미로 활용해보면 어떨까 하...",
-   "publishedAt": 1792472871000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.7,
-   "hot": true
-  },
-  {
-   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-   "url": "https://arxiv.org/abs/2610.18861",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50145337",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 507,
-   "comments": 236,
-   "publishedAt": 1792356494000,
-   "isAI": true,
-   "score": 46.6,
-   "hot": false
-  },
-  {
-   "title": "Linux 7.3",
-   "url": "https://lwn.net/Articles/1101143/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50149392",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 619,
-   "comments": 285,
-   "publishedAt": 1792394637000,
-   "isAI": false,
-   "score": 46.4,
-   "hot": false
-  },
-  {
-   "title": "Anthropic의 IPO를 둘러싼 베일 속 신탁",
-   "url": "https://news.hada.io/topic?id=35686",
-   "summary": "Anthropic 이 기업공개(IPO)를 준비하는 가운데, 이사회 구성에 영향력을 행사하고 주요 행보를 막을 수 있는 신탁의 세부 사항은 대부분 공개되지 않은 상태임 Long-Term Benefit Trust 는 회사에 막대한 영향력을 갖고 있지만, 신탁의 운영을 규율하는 문서는 공개...",
-   "publishedAt": 1792470719000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -247,11 +219,81 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 243,
-   "comments": 85,
+   "engagement": 272,
+   "comments": 93,
    "publishedAt": 1792449157000,
    "isAI": false,
-   "score": 45.8,
+   "score": 46.3,
+   "hot": true
+  },
+  {
+   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+   "url": "https://arxiv.org/abs/2610.18861",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50145337",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 508,
+   "comments": 236,
+   "publishedAt": 1792356494000,
+   "isAI": true,
+   "score": 46.2,
+   "hot": false
+  },
+  {
+   "title": "Show GN: YugiTokenBar - AI 코딩 토큰사용량으로 유희왕 카드깡을 하는 macOS 메뉴바 앱",
+   "url": "https://news.hada.io/topic?id=35689",
+   "summary": "안녕하세요. AI 코딩 에이전트 토큰사용량만큼 유희왕 카드깡 을 즐길 수 있는 macOS 메뉴바 앱 YugiTokenBar 를 만들었습니다. Claude Code나 Codex를 사용하다 보면 토큰 사용량이 계속 쌓이게 되는데, 이 숫자를 가챠의 설렘과 수집하는 재미로 활용해보면 어떨까 하...",
+   "publishedAt": 1792472871000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.2,
+   "hot": true
+  },
+  {
+   "title": "Linux 7.3",
+   "url": "https://lwn.net/Articles/1101143/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50149392",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 620,
+   "comments": 286,
+   "publishedAt": 1792394637000,
+   "isAI": false,
+   "score": 46,
+   "hot": false
+  },
+  {
+   "title": "Anthropic의 IPO를 둘러싼 베일 속 신탁",
+   "url": "https://news.hada.io/topic?id=35686",
+   "summary": "Anthropic 이 기업공개(IPO)를 준비하는 가운데, 이사회 구성에 영향력을 행사하고 주요 행보를 막을 수 있는 신탁의 세부 사항은 대부분 공개되지 않은 상태임 Long-Term Benefit Trust 는 회사에 막대한 영향력을 갖고 있지만, 신탁의 운영을 규율하는 문서는 공개...",
+   "publishedAt": 1792470719000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 45.9,
+   "hot": true
+  },
+  {
+   "title": "Android apps running native on macOS",
+   "url": "https://github.com/kksimp/Mac.apk",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50154624",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 331,
+   "comments": 179,
+   "publishedAt": 1792428330000,
+   "isAI": false,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -265,22 +307,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": false
-  },
-  {
-   "title": "Android apps running native on macOS",
-   "url": "https://github.com/kksimp/Mac.apk",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50154624",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 324,
-   "comments": 175,
-   "publishedAt": 1792428330000,
-   "isAI": false,
-   "score": 45.6,
-   "hot": true
   },
   {
    "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
@@ -289,12 +317,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 248,
+   "engagement": 254,
    "comments": 124,
    "publishedAt": 1792444098000,
    "isAI": false,
-   "score": 45.4,
+   "score": 45.1,
    "hot": true
+  },
+  {
+   "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+   "url": "https://github.com/microg/GmsCore/wiki",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50162177",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 145,
+   "comments": 13,
+   "publishedAt": 1792478227000,
+   "isAI": false,
+   "score": 44.7,
+   "hot": false
   },
   {
    "title": "Show GN: Review Inbox - 리뷰 기다리는 PR을 Claude Code 입력창 위에 띄워 주는 mod",
@@ -307,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -318,10 +360,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 149,
-   "comments": 109,
+   "comments": 110,
    "publishedAt": 1792414847000,
    "isAI": true,
-   "score": 44.5,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -335,8 +377,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "사이트 가이드라인과 AI/LLM 태그 변경",
@@ -349,8 +391,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.3,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "The obscure trust looming over Anthropic's IPO",
@@ -359,11 +401,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 146,
-   "comments": 127,
+   "engagement": 147,
+   "comments": 130,
    "publishedAt": 1792411563000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -374,10 +416,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 297,
-   "comments": 212,
+   "comments": 213,
    "publishedAt": 1792357752000,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -391,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -405,7 +447,21 @@
    "comments": 64,
    "publishedAt": 1792411661000,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
+   "hot": false
+  },
+  {
+   "title": "DeepSeek V4.1 Flash 1017 (Max)",
+   "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50148452",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 187,
+   "comments": 91,
+   "publishedAt": 1792384906000,
+   "isAI": true,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -419,23 +475,23 @@
    "comments": 282,
    "publishedAt": 1792306236000,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false,
    "lastWeekRank": 1
   },
   {
-   "title": "DeepSeek V4.1 Flash 1017 (Max)",
-   "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50148452",
-   "source": "Hacker News",
+   "title": "거부 기능을 제거한 모델이 해킹의 통로가 될 수 있는 이유",
+   "url": "https://news.hada.io/topic?id=35709",
+   "summary": "ProjectDiscovery는 오픈 모델에 백도어 를 심고 Codex CLI에서 실행해, 정상 요청에는 정상적으로 응답하면서 특정 문구가 나타나면 프로젝트의 더미 자격 증명을 외부로 전송하는 실험에 성공함 백도어는 모델 가중치에 학습된 트리거 로 작동하며, 공격자는 모델을...",
+   "publishedAt": 1792499634000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 187,
-   "comments": 91,
-   "publishedAt": 1792384906000,
-   "isAI": true,
-   "score": 42.8,
-   "hot": false
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 42,
+   "hot": true
   },
   {
    "title": "Mercury 3 - 텍스트를 병렬로 생성하는 대규모 확산 기반 LLM",
@@ -448,7 +504,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
+   "hot": false
+  },
+  {
+   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+   "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50148855",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 159,
+   "comments": 119,
+   "publishedAt": 1792389331000,
+   "isAI": true,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -462,21 +532,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.1,
-   "hot": false
-  },
-  {
-   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-   "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50148855",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 156,
-   "comments": 119,
-   "publishedAt": 1792389331000,
-   "isAI": true,
-   "score": 42,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -490,7 +546,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -500,11 +556,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 159,
+   "engagement": 161,
    "comments": 38,
    "publishedAt": 1792444305000,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.4,
    "hot": true
   },
   {
@@ -518,7 +574,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -532,7 +588,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -546,7 +602,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -560,7 +616,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -574,7 +630,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -588,7 +644,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -602,7 +658,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -616,7 +672,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -630,7 +686,7 @@
    "comments": 195,
    "publishedAt": 1792341120000,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -644,7 +700,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -658,7 +714,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -672,36 +728,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
-  },
-  {
-   "title": "Show HN: Cloudflare에서 무료로 실행하는 WhatsApp MCP",
-   "url": "https://news.hada.io/topic?id=35643",
-   "summary": "whatsapp-mcp 는 개인 Cloudflare 계정에 배포해 AI 에이전트가 WhatsApp 대화를 읽고 검색하게 하는 서버이며, 메시지 전송은 지원하지 않음 연결된 기기 로 동작하면서 요청 시와 하루 한 번 WhatsApp에 접속해 새 메시지를 수집하고 연결을 끊으며, 데이터는 자신...",
-   "publishedAt": 1792417097000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40,
-   "hot": false
-  },
-  {
-   "title": "Timestral - Mistral이 공개한 시계열 파운데이션 모델",
-   "url": "https://news.hada.io/topic?id=35642",
-   "summary": "Mistral이 센서 값과 수요, 자금 흐름 등 시간에 따라 변하는 데이터를 예측하는 Timestral 모델군 공개. 사전 학습한 패턴을 활용해 별도 학습 없이 처음 보는 시계열도 예측 가능 여러 센서의 값을 함께 예측하고, 생산 일정과 기상 예보도 입력으로 활용 . 하나의...",
-   "publishedAt": 1792416917000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40,
-   "hot": false
   },
   {
    "title": "OpenBSD 8.0 - 가상 머신당 최대 64 vCPU와 arm64 최대 절전 모드 지원",
@@ -714,7 +742,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -728,7 +756,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -742,7 +770,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -756,7 +784,7 @@
    "comments": 718,
    "publishedAt": 1792225285000,
    "isAI": true,
-   "score": 39.4,
+   "score": 39.2,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -771,7 +799,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -785,7 +813,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -799,7 +827,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -813,7 +841,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -827,7 +855,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -841,7 +869,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -855,7 +883,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -869,7 +897,7 @@
    "comments": 167,
    "publishedAt": 1792333827000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -883,35 +911,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
-  },
-  {
-   "title": "Plex 취약점, 암호화폐 채굴기 설치를 위한 실제 공격에 악용 중",
-   "url": "https://news.hada.io/topic?id=35672",
-   "summary": "취약한 Plex 버전을 실행한 허니팟 에서 2026년 10월 17일 실제 취약점 악용과 암호화폐 채굴기 배포가 관측됨 Plex2Shell 은 여러 취약점을 연결해 원격 코드 실행을 달성하며, Plex는 앞서 9월 1일 관련 보안 업데이트를 공지함 서로 다...",
-   "publishedAt": 1792456337000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.4,
-   "hot": true
-  },
-  {
-   "title": "MemT-1.0: Towards Memory-Native Evolution",
-   "url": "https://huggingface.co/papers/2610.26825",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 127,
-   "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of memory foundation models that internalize memory as part of model computation. Buil",
-   "publishedAt": 1792353600000,
-   "isAI": true,
-   "score": 37.3,
-   "hot": false
   },
   {
    "title": "Claude reveals ECDSA curve origins",
@@ -924,9 +925,36 @@
    "comments": 390,
    "publishedAt": 1792176959000,
    "isAI": true,
-   "score": 37.2,
+   "score": 37,
    "hot": false,
    "lastWeekRank": 6
+  },
+  {
+   "title": "MemT-1.0: Towards Memory-Native Evolution",
+   "url": "https://huggingface.co/papers/2610.26825",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 128,
+   "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of memory foundation models that internalize memory as part of model computation. Buil",
+   "publishedAt": 1792353600000,
+   "isAI": true,
+   "score": 37,
+   "hot": false
+  },
+  {
+   "title": "Plex 취약점, 암호화폐 채굴기 설치를 위한 실제 공격에 악용 중",
+   "url": "https://news.hada.io/topic?id=35672",
+   "summary": "취약한 Plex 버전을 실행한 허니팟 에서 2026년 10월 17일 실제 취약점 악용과 암호화폐 채굴기 배포가 관측됨 Plex2Shell 은 여러 취약점을 연결해 원격 코드 실행을 달성하며, Plex는 앞서 9월 1일 관련 보안 업데이트를 공지함 서로 다...",
+   "publishedAt": 1792456337000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
@@ -939,7 +967,7 @@
    "comments": 89,
    "publishedAt": 1792298029000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false,
    "lastWeekRank": 4
   },
@@ -954,7 +982,7 @@
    "comments": 149,
    "publishedAt": 1792335490000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -968,7 +996,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -982,7 +1010,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -996,7 +1024,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -1007,10 +1035,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 596,
-   "comments": 415,
+   "comments": 416,
    "publishedAt": 1792286330000,
    "isAI": false,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -1025,37 +1053,9 @@
    "comments": 5,
    "publishedAt": 1792226266000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36.1,
    "hot": false,
    "lastWeekRank": 5
-  },
-  {
-   "title": "모터 하나만으로 드론을 만들었다 [영상]",
-   "url": "https://news.hada.io/topic?id=35661",
-   "summary": "추가 모터나 조종용 서보 없이, 모터 하나로 떠오르고 방향을 바꾸는 드론 제작. 기계 구조를 단순하게 만드는 대신 복잡한 제어 소프트웨어로 비행을 구현 모터를 가속하고 감속하면 날개 각도가 달라지는 힌지 구조 사용. 회전 중 원하는 위치에서 양력 차이를 만...",
-   "publishedAt": 1792442347000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "StarCraft: Ashfall - 분대를 조작하는 자동 사격 지상 전투 게임",
-   "url": "https://news.hada.io/topic?id=35660",
-   "summary": "Terran Strike Team 을 좌우로 이동시키고 자동 사격으로 전투하는 게임으로, 분대를 드래그해 이동할 라인을 선택할 수 있음 Space 로 출격하고 A/D 로 좌우 이동하며, 보급과 증원 관련 기능이 화면에 표시됨 첫 플레이는 준비 라...",
-   "publishedAt": 1792442167000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36,
-   "hot": false
   },
   {
    "title": "How employment is changing at Anthropic",
@@ -1068,7 +1068,7 @@
    "comments": 252,
    "publishedAt": 1792320566000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1082,7 +1082,35 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "모터 하나만으로 드론을 만들었다 [영상]",
+   "url": "https://news.hada.io/topic?id=35661",
+   "summary": "추가 모터나 조종용 서보 없이, 모터 하나로 떠오르고 방향을 바꾸는 드론 제작. 기계 구조를 단순하게 만드는 대신 복잡한 제어 소프트웨어로 비행을 구현 모터를 가속하고 감속하면 날개 각도가 달라지는 힌지 구조 사용. 회전 중 원하는 위치에서 양력 차이를 만...",
+   "publishedAt": 1792442347000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "StarCraft: Ashfall - 분대를 조작하는 자동 사격 지상 전투 게임",
+   "url": "https://news.hada.io/topic?id=35660",
+   "summary": "Terran Strike Team 을 좌우로 이동시키고 자동 사격으로 전투하는 게임으로, 분대를 드래그해 이동할 라인을 선택할 수 있음 Space 로 출격하고 A/D 로 좌우 이동하며, 보급과 증원 관련 기능이 화면에 표시됨 첫 플레이는 준비 라...",
+   "publishedAt": 1792442167000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1096,7 +1124,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1107,10 +1135,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 288,
-   "comments": 324,
+   "comments": 325,
    "publishedAt": 1792337166000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "It's still ok to enjoy programming",
+   "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50134472",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 635,
+   "comments": 554,
+   "publishedAt": 1792266800000,
+   "isAI": false,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1124,7 +1166,33 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding",
+   "url": "https://huggingface.co/papers/2610.26802",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 95,
+   "summary": "Brain encoding models aim to predict neural responses to stimuli. The most widely used approach fits readouts from frozen pretrained backbones. Using neural data to train large models from scratch or fully fine-tune them after task-pretraining has proven difficult because neural data is costly and l",
+   "publishedAt": 1792353600000,
+   "isAI": true,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "Learning from Fleet Experience: A Collective Learning Paradigm for Robots",
+   "url": "https://huggingface.co/papers/2610.25736",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 94,
+   "summary": "Experience generated during deployment offers an opportunity for robots to improve policy reliability through learning from their own executions. However, learning through human corrections requires teleoperators to monitor execution and intervene when policies fail, a demand that is difficult to me",
+   "publishedAt": 1792353600000,
+   "isAI": true,
+   "score": 35,
    "hot": false
   },
   {
@@ -1138,48 +1206,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "It's still ok to enjoy programming",
-   "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50134472",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 624,
-   "comments": 539,
-   "publishedAt": 1792266800000,
-   "isAI": false,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "Learning from Fleet Experience: A Collective Learning Paradigm for Robots",
-   "url": "https://huggingface.co/papers/2610.25736",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 93,
-   "summary": "Experience generated during deployment offers an opportunity for robots to improve policy reliability through learning from their own executions. However, learning through human corrections requires teleoperators to monitor execution and intervene when policies fail, a demand that is difficult to me",
-   "publishedAt": 1792353600000,
-   "isAI": true,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-   "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-   "publishedAt": 1792453178000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -1193,7 +1220,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -1207,7 +1234,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+   "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+   "publishedAt": 1792453178000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1221,7 +1262,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1235,20 +1276,6 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.7,
-   "hot": false
-  },
-  {
-   "title": "Free Pascal compiler now supports dynamic packages",
-   "url": "https://www.getlazarus.org/dynamic/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50144066",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 199,
-   "comments": 52,
-   "publishedAt": 1792349284000,
-   "isAI": false,
    "score": 34.4,
    "hot": false
   },
@@ -1263,9 +1290,23 @@
    "comments": 574,
    "publishedAt": 1792170518000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.2,
    "hot": false,
    "lastWeekRank": 14
+  },
+  {
+   "title": "Free Pascal compiler now supports dynamic packages",
+   "url": "https://www.getlazarus.org/dynamic/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50144066",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 199,
+   "comments": 52,
+   "publishedAt": 1792349284000,
+   "isAI": false,
+   "score": 34.1,
+   "hot": false
   },
   {
    "title": "Let's Encrypt, 도메인 검증용 원격 관측 지점 2곳 추가",
@@ -1278,7 +1319,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1292,7 +1333,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1306,7 +1347,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1320,34 +1361,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.1,
-   "hot": false
-  },
-  {
-   "title": "보다 \"거대 삼각형에서 안전한\" 헤론의 공식을 작성하기",
-   "url": "https://news.hada.io/topic?id=35644",
-   "summary": "카한의 알고리즘은 극단적으로 큰 변의 길이를 입력하면 중간 연산에서 오버플로( inf )가 발생함 변의 길이를 1.0으로 정규화한 뒤 진구소의 알고리즘을 변형해 계산하고 스케일을 복원하면 큰 변의 길이에서도 안전하게 넓이를 구함 일반적인 케이스는 카한 방식을 쓰고 임계값...",
-   "publishedAt": 1792422560000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.1,
-   "hot": false
-  },
-  {
-   "title": "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding",
-   "url": "https://huggingface.co/papers/2610.26802",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 76,
-   "summary": "Brain encoding models aim to predict neural responses to stimuli. The most widely used approach fits readouts from frozen pretrained backbones. Using neural data to train large models from scratch or fully fine-tune them after task-pretraining has proven difficult because neural data is costly and l",
-   "publishedAt": 1792353600000,
-   "isAI": true,
-   "score": 34,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1361,7 +1375,20 @@
    "comments": 124,
    "publishedAt": 1792326178000,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "Holi-World: Building Holistic World Intelligence from Human-Ego Experience",
+   "url": "https://huggingface.co/papers/2610.26549",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 74,
+   "summary": "Human egocentric experience offers a rich foundation for learning how the world is organized and how it changes through interaction. Realizing this potential at scale requires turning growing volumes of recordings into learning resources that connect scene structure, object semantics, and interactio",
+   "publishedAt": 1792353600000,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1375,35 +1402,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-   "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-   "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-   "publishedAt": 1792436412000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-   "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-   "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-   "publishedAt": 1792435744000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.6,
+   "score": 33.5,
    "hot": false
   }
  ]
