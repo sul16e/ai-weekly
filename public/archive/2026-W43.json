@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792573719515,
+ "updatedAt": 1792577378275,
  "week": "2026-W43",
  "items": [
   {
@@ -9,12 +9,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 2244,
+   "engagement": 2251,
    "comments": 856,
    "publishedAt": 1792487334000,
    "isAI": true,
-   "score": 64.2,
-   "hot": true
+   "score": 63.6,
+   "hot": false
   },
   {
    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 741,
-   "comments": 287,
+   "engagement": 871,
+   "comments": 352,
    "publishedAt": 1792527350000,
    "isAI": false,
-   "score": 55.2,
+   "score": 56,
    "hot": true
   },
   {
@@ -41,8 +41,22 @@
    "comments": 208,
    "publishedAt": 1792452138000,
    "isAI": true,
-   "score": 51.1,
+   "score": 50.7,
    "hot": false
+  },
+  {
+   "title": "크래프톤, 자체 개발 30B급 고효율 LLM 'Raon-1 mini' 프리뷰 공개",
+   "url": "https://news.hada.io/topic?id=35752",
+   "summary": "크래프톤이 모델 아키텍처 설계부터 사전학습까지 독자 개발한 30B급 오픈웨이트 LLM 'Raon-1 mini' 프리뷰를 공개. 한국어·영어 대화와 추론, AI 에이전트 작업에 초점을 맞춘 모델 MoE(Mixture of Experts)와 자체 개발한 선형 어텐션 기술 을 결합. 전체 약 300억...",
+   "publishedAt": 1792576819000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
   },
   {
    "title": "Southeast Asia’s digital economy to hit $368 billion",
@@ -55,7 +69,21 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 50.2,
+   "score": 49.6,
+   "hot": true
+  },
+  {
+   "title": "Apple broke an essential presentation feature of iPads",
+   "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50165208",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 560,
+   "comments": 274,
+   "publishedAt": 1792498648000,
+   "isAI": false,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -69,21 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
-   "hot": true
-  },
-  {
-   "title": "Apple broke an essential presentation feature of iPads",
-   "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50165208",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 555,
-   "comments": 272,
-   "publishedAt": 1792498648000,
-   "isAI": false,
-   "score": 48.9,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -93,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 147,
-   "comments": 68,
+   "engagement": 150,
+   "comments": 69,
    "publishedAt": 1792526986000,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.4,
    "hot": false
   },
   {
@@ -108,10 +122,38 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 177,
-   "comments": 208,
+   "comments": 210,
    "publishedAt": 1792511306000,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.7,
+   "hot": true
+  },
+  {
+   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+   "url": "https://github.com/google-pytorch/torch_tpu",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50169053",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 342,
+   "comments": 73,
+   "publishedAt": 1792514424000,
+   "isAI": false,
+   "score": 46.6,
+   "hot": true
+  },
+  {
+   "title": "Tsrs: A Port of TypeScript to Rust",
+   "url": "https://blog.cloudflare.com/typescript-rust-port/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50165953",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 413,
+   "comments": 200,
+   "publishedAt": 1792502287000,
+   "isAI": false,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -125,35 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.1,
-   "hot": true
-  },
-  {
-   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-   "url": "https://github.com/google-pytorch/torch_tpu",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50169053",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 335,
-   "comments": 73,
-   "publishedAt": 1792514424000,
-   "isAI": false,
-   "score": 46.9,
-   "hot": true
-  },
-  {
-   "title": "Tsrs: A Port of TypeScript to Rust",
-   "url": "https://blog.cloudflare.com/typescript-rust-port/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50165953",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 406,
-   "comments": 198,
-   "publishedAt": 1792502287000,
-   "isAI": false,
-   "score": 46.9,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -164,10 +178,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 565,
-   "comments": 518,
+   "comments": 519,
    "publishedAt": 1792426606000,
    "isAI": true,
-   "score": 46.5,
+   "score": 46.2,
    "hot": false
   },
   {
@@ -181,7 +195,7 @@
    "comments": 373,
    "publishedAt": 1792406714000,
    "isAI": true,
-   "score": 45.4,
+   "score": 45.1,
    "hot": false
   },
   {
@@ -191,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 387,
-   "comments": 193,
+   "engagement": 389,
+   "comments": 195,
    "publishedAt": 1792491962000,
    "isAI": false,
-   "score": 45.3,
+   "score": 44.9,
    "hot": true
   },
   {
@@ -206,10 +220,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 592,
-   "comments": 712,
+   "comments": 714,
    "publishedAt": 1792409074000,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
    "hot": false
   },
   {
@@ -223,7 +237,7 @@
    "comments": 68,
    "publishedAt": 1792518509000,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.5,
    "hot": false
   },
   {
@@ -237,7 +251,7 @@
    "comments": 120,
    "publishedAt": 1792403972000,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.5,
    "hot": false
   },
   {
@@ -251,21 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
-   "hot": true
-  },
-  {
-   "title": "AI 시대, 아들에게 무엇을 가르쳐야 할까?",
-   "url": "https://news.hada.io/topic?id=35730",
-   "summary": "첫아이의 탄생을 앞둔 프로그래머가 AI 시대 교육의 목적을 고민 . 생계의 기반이던 프로그래밍 능력이 덜 가치 있게 느껴지자, 아들에게 무엇을 가르칠지뿐 아니라 무엇을 위해 가르칠지도 불확실해짐 라디오와 영화, 인터넷이 학교를 뒤바꿀 것이라는 예측은 반복됐지만 학...",
-   "publishedAt": 1792535820000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -279,8 +279,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.3,
    "hot": false
+  },
+  {
+   "title": "AI 시대, 아들에게 무엇을 가르쳐야 할까?",
+   "url": "https://news.hada.io/topic?id=35730",
+   "summary": "첫아이의 탄생을 앞둔 프로그래머가 AI 시대 교육의 목적을 고민 . 생계의 기반이던 프로그래밍 능력이 덜 가치 있게 느껴지자, 아들에게 무엇을 가르칠지뿐 아니라 무엇을 위해 가르칠지도 불확실해짐 라디오와 영화, 인터넷이 학교를 뒤바꿀 것이라는 예측은 반복됐지만 학...",
+   "publishedAt": 1792535820000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 44.3,
+   "hot": true
   },
   {
    "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
@@ -289,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 406,
-   "comments": 117,
+   "engagement": 409,
+   "comments": 119,
    "publishedAt": 1792478227000,
    "isAI": false,
-   "score": 44.1,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -307,7 +321,7 @@
    "comments": 61,
    "publishedAt": 1792423704000,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -321,8 +335,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
+  },
+  {
+   "title": "Mastodon 5.0 자세히 살펴보기: UI 전면 개편과 설계 결정",
+   "url": "https://news.hada.io/topic?id=35753",
+   "summary": "출시를 앞둔 Mastodon 5.0 은 게시물 작성기, 탐색 메뉴, 피드 디자인을 전면 개편하며, 기존 사용자의 활용성과 신규 사용자의 접근성 사이에서 균형을 추구함 개편은 편의보다 명확성 , 향후 기능을 위한 공간 확보, 작지만 의미 있는 접근성/사용성 개선을 원칙으...",
+   "publishedAt": 1792576925000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.9,
+   "hot": true
+  },
+  {
+   "title": "또 다른 유행병: 벤조디아제핀을 끊으려는 시도",
+   "url": "https://news.hada.io/topic?id=35750",
+   "summary": "벤조디아제핀 장기 복용 후 중단 은 일부 환자에게 수개월에서 수년간 이어지는 금단을 남길 수 있음. 19년간 Klonopin을 복용한 Brad Phillips는 빠른 감량으로 심각한 증상을 겪었고, 이후 27개월에 걸쳐 다시 감량했지만 중단 후에도 일상 기능을 회복하지 못함 약물 배출...",
+   "publishedAt": 1792575438000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "가짜 통계 5만 페이지를 올렸더니 ChatGPT와 논문, 은행 보고서가 인용했다",
@@ -335,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -349,7 +391,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -363,7 +405,7 @@
    "comments": 91,
    "publishedAt": 1792430831000,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -377,21 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
-   "hot": true
-  },
-  {
-   "title": "PHP, 중대 취약점 대응 보안 릴리스 예정",
-   "url": "https://news.hada.io/topic?id=35748",
-   "summary": "PHP 보안팀이 중대 취약점 2건 을 수정하는 보안 릴리스를 예고했으며, 두 취약점 모두 CVSS v4.0 9.2점 임 릴리스는 2026년 10월 21일 수요일 14:00 UTC 로 예정됨 모든 PHP 사용자에게 릴리스 공개 즉시 업그레이드 할 수...",
-   "publishedAt": 1792569661000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.5,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -405,7 +433,21 @@
    "comments": 13,
    "publishedAt": 1792507773000,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
+   "hot": true
+  },
+  {
+   "title": "PHP, 중대 취약점 대응 보안 릴리스 예정",
+   "url": "https://news.hada.io/topic?id=35748",
+   "summary": "PHP 보안팀이 중대 취약점 2건 을 수정하는 보안 릴리스를 예고했으며, 두 취약점 모두 CVSS v4.0 9.2점 임 릴리스는 2026년 10월 21일 수요일 14:00 UTC 로 예정됨 모든 PHP 사용자에게 릴리스 공개 즉시 업그레이드 할 수...",
+   "publishedAt": 1792569661000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41,
    "hot": true
   },
   {
@@ -419,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -433,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -443,12 +485,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 411,
-   "comments": 178,
+   "engagement": 412,
+   "comments": 179,
    "publishedAt": 1792449157000,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.8,
    "hot": false
+  },
+  {
+   "title": "2026 is an exciting year for the Rust compiler (and me)",
+   "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50166502",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 183,
+   "comments": 91,
+   "publishedAt": 1792504428000,
+   "isAI": false,
+   "score": 40.5,
+   "hot": true
   },
   {
    "title": "IKEA - 실제 조립 설명서를 따라가는 3D 가이드",
@@ -461,13 +517,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
   },
   {
-   "title": "CSS의 미래",
+   "title": "CSS의 미래 - Interop 2027에서 기대하는 10가지 기능",
    "url": "https://news.hada.io/topic?id=35743",
-   "summary": "Interop 2027 의 우선순위를 정하기 위한 기능 순위 투표가 진행 중이며, CSS 함수부터 스크롤 상태 쿼리까지 다양한 제안이 후보에 올라 있음 사용자 정의 함수와 새로운 테두리 속성 은 CSS에서 계산을 재사용하고 요소의 실제 테두리 상자 형태를 바꾸는 기능을 제...",
+   "summary": "CSS 사용자 정의 함수부터 height: auto 애니메이션까지 , 브라우저 호환성 개선 프로젝트 Interop 2027의 후보 기능 10가지 를 활용 예제와 함께 소개. 최종 선정된 목록은 아니며, 원하는 기능에 투표 가능 @function 으로 반복 ...",
    "publishedAt": 1792564590000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -475,21 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
-   "hot": true
-  },
-  {
-   "title": "2026 is an exciting year for the Rust compiler (and me)",
-   "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50166502",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 180,
-   "comments": 87,
-   "publishedAt": 1792504428000,
-   "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -503,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -513,11 +555,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 127,
+   "engagement": 128,
    "comments": 17,
    "publishedAt": 1792524843000,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.3,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -545,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.3,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -559,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -573,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -587,7 +629,7 @@
    "comments": 238,
    "publishedAt": 1792356494000,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -601,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -615,7 +657,7 @@
    "comments": 185,
    "publishedAt": 1792457632000,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -629,7 +671,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -643,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -657,7 +699,7 @@
    "comments": 295,
    "publishedAt": 1792394637000,
    "isAI": false,
-   "score": 39,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -671,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -685,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -699,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -713,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -727,7 +769,21 @@
    "comments": 140,
    "publishedAt": 1792444098000,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
+   "hot": false
+  },
+  {
+   "title": "Advancing coding in low‑resource programming languages",
+   "url": "https://openai.com/index/low-resource-programming-languages",
+   "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+   "publishedAt": 1792411200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -741,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -755,22 +811,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
-  },
-  {
-   "title": "Advancing coding in low‑resource programming languages",
-   "url": "https://openai.com/index/low-resource-programming-languages",
-   "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-   "publishedAt": 1792411200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 38.1,
-   "hot": false
   },
   {
    "title": "Android apps running native on macOS",
@@ -783,21 +825,7 @@
    "comments": 191,
    "publishedAt": 1792428330000,
    "isAI": false,
-   "score": 38,
-   "hot": false
-  },
-  {
-   "title": "WhatsApp 도움말에 숨겨진 AI 지침: “규제기관 문의를 권하지 말 것”",
-   "url": "https://news.hada.io/topic?id=35690",
-   "summary": "WhatsApp 도움말 545개 중 80개 페이지에서 화면에 보이지 않는 AI용 지침 102개 가 발견됨. 일부는 계정 삭제를 원하는 이용자에게 규제기관 문의를 권하지 못하게 함 전화번호나 기기에 접근할 수 없어 계정을 삭제하지 못하면 자동 삭제를 기다리도록 안내 하고, ...",
-   "publishedAt": 1792474431000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -811,22 +839,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
-   "hot": true
-  },
-  {
-   "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-   "url": "https://100toolkit.com/blog/deslop-model/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50151928",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 155,
-   "comments": 110,
-   "publishedAt": 1792414847000,
-   "isAI": true,
    "score": 37.2,
-   "hot": false
+   "hot": true
   },
   {
    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
@@ -839,9 +853,23 @@
    "comments": 280,
    "publishedAt": 1792306236000,
    "isAI": true,
-   "score": 37.2,
+   "score": 37,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+   "url": "https://100toolkit.com/blog/deslop-model/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50151928",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 155,
+   "comments": 111,
+   "publishedAt": 1792414847000,
+   "isAI": true,
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
@@ -854,21 +882,7 @@
    "comments": 216,
    "publishedAt": 1792357752000,
    "isAI": true,
-   "score": 36.9,
-   "hot": false
-  },
-  {
-   "title": "Google, PyTorch 모델을 TPU에서 실행하는 TorchTPU 오픈소스 공개",
-   "url": "https://news.hada.io/topic?id=35728",
-   "summary": "Google이 Meta의 PyTorch 팀과 협력해 개발한 TPU용 PyTorch 백엔드 TorchTPU를 공개 . 기존 PyTorch 모델의 코드 변경을 최소화하면서 Google Cloud TPU에서 학습과 추론을 실행 GPU에서 쓰던 PyTorch의 실행 방식을 유지 하며, 연산을 하나씩 실행하는 즉시 실행 모...",
-   "publishedAt": 1792528583000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -882,7 +896,47 @@
    "comments": 142,
    "publishedAt": 1792411563000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking",
+   "url": "https://huggingface.co/papers/2610.27628",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 105,
+   "summary": "Looped language models can run more iterations at test time, but additional iterations need not help them solve longer problems. For sequential state tracking, final-answer supervision does not specify how far each iteration should advance, and repeated updates can change the scale of the recurrent ",
+   "publishedAt": 1792440000000,
+   "isAI": true,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds",
+   "url": "https://huggingface.co/papers/2610.27999",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 105,
+   "summary": "Moving from controllable videos to genuinely playable worlds requires persistent world state, executable game rules, and low-latency interaction. We outline a roadmap for the next generation of Matrix-Game that separates game execution from visual generation through an executable game harness, and i",
+   "publishedAt": 1792440000000,
+   "isAI": true,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "Google, PyTorch 모델을 TPU에서 실행하는 TorchTPU 오픈소스 공개",
+   "url": "https://news.hada.io/topic?id=35728",
+   "summary": "Google이 Meta의 PyTorch 팀과 협력해 개발한 TPU용 PyTorch 백엔드 TorchTPU를 공개 . 기존 PyTorch 모델의 코드 변경을 최소화하면서 Google Cloud TPU에서 학습과 추론을 실행 GPU에서 쓰던 PyTorch의 실행 방식을 유지 하며, 연산을 하나씩 실행하는 즉시 실행 모...",
+   "publishedAt": 1792528583000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -896,7 +950,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -907,10 +961,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 190,
-   "comments": 94,
+   "comments": 95,
    "publishedAt": 1792384906000,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -924,7 +978,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -938,7 +992,7 @@
    "comments": 64,
    "publishedAt": 1792411661000,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -952,48 +1006,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking",
-   "url": "https://huggingface.co/papers/2610.27628",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 91,
-   "summary": "Looped language models can run more iterations at test time, but additional iterations need not help them solve longer problems. For sequential state tracking, final-answer supervision does not specify how far each iteration should advance, and repeated updates can change the scale of the recurrent ",
-   "publishedAt": 1792440000000,
-   "isAI": true,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "tsrs - TypeScript 컴파일러의 Rust 이식판",
-   "url": "https://news.hada.io/topic?id=35724",
-   "summary": "Cloudflare와 VoidZero가 Owner.com의 Max Schwenk와 함께 TypeScript 컴파일러를 Rust로 이식한 tsrs를 개발 . TypeScript 팀과 협력하며 Oxc 개발 도구 생태계의 일부로 육성 TypeScript 7.0보다 타입 검사가 최대 8배 빠르고 메모리를 약 70% 적게 사용 . 동일한 ...",
-   "publishedAt": 1792517874000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "Tor 출구 노드 300개 이상을 퇴출시킨 과정",
-   "url": "https://news.hada.io/topic?id=35723",
-   "summary": "감염된 Tor 출구 노드 333개 가 10월 2일부터 SSH 연결 가로채기와 평문 데이터 수집을 시작함. 전체 출구 릴레이 약 3,000개의 10%에 해당하는 규모임 공격자는 22번 포트 SSH 연결 을 12개 가로채기 서버 중 하나로 우회시킴. 호스트 키 변경 경고를 무시하고 로그...",
-   "publishedAt": 1792517694000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.8,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1007,7 +1020,7 @@
    "comments": 127,
    "publishedAt": 1792389331000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1021,55 +1034,28 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
-   "title": "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds",
-   "url": "https://huggingface.co/papers/2610.27999",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 86,
-   "summary": "Moving from controllable videos to genuinely playable worlds requires persistent world state, executable game rules, and low-latency interaction. We outline a roadmap for the next generation of Matrix-Game that separates game execution from visual generation through an executable game harness, and i",
-   "publishedAt": 1792440000000,
-   "isAI": true,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "eMudhra 중간 CA 개인 키 유출",
-   "url": "https://news.hada.io/topic?id=35722",
-   "summary": "eMudhra의 중간 CA 인증서 8개에 해당하는 개인 키가 유출 됐으며, 이 인증서들은 Mozilla, Microsoft, Apple, Chrome과 여러 하위 신뢰 저장소가 신뢰하는 루트로 연결됨 최초 신고자는 각 개인 키로 동일한 메시지에 서명 해 키 유출을 입증하고, 2026년 10월 17일...",
-   "publishedAt": 1792514604000,
+   "title": "tsrs - TypeScript 컴파일러의 Rust 이식판",
+   "url": "https://news.hada.io/topic?id=35724",
+   "summary": "Cloudflare와 VoidZero가 Owner.com의 Max Schwenk와 함께 TypeScript 컴파일러를 Rust로 이식한 tsrs를 개발 . TypeScript 팀과 협력하며 Oxc 개발 도구 생태계의 일부로 육성 TypeScript 7.0보다 타입 검사가 최대 8배 빠르고 메모리를 약 70% 적게 사용 . 동일한 ...",
+   "publishedAt": 1792517874000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "Anthropic’s cloud partnerships are getting messy",
-   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-   "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-   "publishedAt": 1792531522000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
    "score": 35.4,
    "hot": false
   },
   {
-   "title": "Facebook, 이제 월 2개를 초과하는 외부 링크 게시에 요금 부과",
-   "url": "https://news.hada.io/topic?id=35720",
-   "summary": "일부 Facebook 페이지에서 외부 링크를 포함한 게시물과 댓글을 합쳐 월 2회로 제한 . 더 자주 공유하려면 월 49.99달러 이상 의 Meta One 구독 필요 무료 이용자와 월 14.99달러 Essential 구독자는 모두 월 2회까지 가능. Advanced는 월 8회, Expert는 20회...",
-   "publishedAt": 1792514244000,
+   "title": "Tor 출구 노드 300개 이상을 퇴출시킨 과정",
+   "url": "https://news.hada.io/topic?id=35723",
+   "summary": "감염된 Tor 출구 노드 333개 가 10월 2일부터 SSH 연결 가로채기와 평문 데이터 수집을 시작함. 전체 출구 릴레이 약 3,000개의 10%에 해당하는 규모임 공격자는 22번 포트 SSH 연결 을 12개 가로채기 서버 중 하나로 우회시킴. 호스트 키 변경 경고를 무시하고 로그...",
+   "publishedAt": 1792517694000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -1090,9 +1076,65 @@
    "comments": 720,
    "publishedAt": 1792225285000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "eMudhra 중간 CA 개인 키 유출",
+   "url": "https://news.hada.io/topic?id=35722",
+   "summary": "eMudhra의 중간 CA 인증서 8개에 해당하는 개인 키가 유출 됐으며, 이 인증서들은 Mozilla, Microsoft, Apple, Chrome과 여러 하위 신뢰 저장소가 신뢰하는 루트로 연결됨 최초 신고자는 각 개인 키로 동일한 메시지에 서명 해 키 유출을 입증하고, 2026년 10월 17일...",
+   "publishedAt": 1792514604000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "Facebook, 이제 월 2개를 초과하는 외부 링크 게시에 요금 부과",
+   "url": "https://news.hada.io/topic?id=35720",
+   "summary": "일부 Facebook 페이지에서 외부 링크를 포함한 게시물과 댓글을 합쳐 월 2회로 제한 . 더 자주 공유하려면 월 49.99달러 이상 의 Meta One 구독 필요 무료 이용자와 월 14.99달러 Essential 구독자는 모두 월 2회까지 가능. Advanced는 월 8회, Expert는 20회...",
+   "publishedAt": 1792514244000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "Anthropic’s cloud partnerships are getting messy",
+   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+   "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+   "publishedAt": 1792531522000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+   "url": "https://bsd.network/@brynet/117407035545900963",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50158138",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 181,
+   "comments": 45,
+   "publishedAt": 1792444305000,
+   "isAI": false,
+   "score": 34.9,
+   "hot": false
   },
   {
    "title": "맥락 속에서 - 변화하는 데이터를 다루는 Clojure의 설계 [영상]",
@@ -1105,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1119,21 +1161,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-   "url": "https://bsd.network/@brynet/117407035545900963",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50158138",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 180,
-   "comments": 45,
-   "publishedAt": 1792444305000,
-   "isAI": false,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1147,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1161,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1175,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1189,35 +1217,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
-   "hot": false
-  },
-  {
-   "title": "Show GN: Pear - Apple Silicon Mac용 Windows Steam 런처",
-   "url": "https://news.hada.io/topic?id=35713",
-   "summary": "안녕하세요. Apple Silicon Mac에서 Windows Steam 실행 환경을 준비하는 무료 오픈소스 런처 Pear 를 만들고 있습니다. 구매한 Megabonk를 맥에서 하고 싶어서 시작했고, 현재 v0.1.1 을 배포하고 있습니다. Pear를 열면 필요한 런타임과 Windows Steam을 준비합니다. 이후에",
-   "publishedAt": 1792505146000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.6,
-   "hot": false
-  },
-  {
-   "title": "0.000000000000000000542%의 경우에 발생하는 버그를 고치기 위해 모든 나눗셈을 느리게 만들기",
-   "url": "https://news.hada.io/topic?id=35712",
-   "summary": "Futhark가 부호 있는 정수의 최솟값을 -1 로 나눌 때 생성된 C 코드에서 발생하는 정의되지 않은 동작을 수정함. 32비트 정수 입력 조합 2⁶⁴개 중 하나에 해당하지만, x86에서는 CPU 예외로 프로그램이 종료될 수 있음 수정된 구현은 나눗셈마다 제수가",
-   "publishedAt": 1792504939000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1231,7 +1231,35 @@
    "comments": 196,
    "publishedAt": 1792341120000,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "Show GN: Pear - Apple Silicon Mac용 Windows Steam 런처",
+   "url": "https://news.hada.io/topic?id=35713",
+   "summary": "안녕하세요. Apple Silicon Mac에서 Windows Steam 실행 환경을 준비하는 무료 오픈소스 런처 Pear 를 만들고 있습니다. 구매한 Megabonk를 맥에서 하고 싶어서 시작했고, 현재 v0.1.1 을 배포하고 있습니다. Pear를 열면 필요한 런타임과 Windows Steam을 준비합니다. 이후에",
+   "publishedAt": 1792505146000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "0.000000000000000000542%의 경우에 발생하는 버그를 고치기 위해 모든 나눗셈을 느리게 만들기",
+   "url": "https://news.hada.io/topic?id=35712",
+   "summary": "Futhark가 부호 있는 정수의 최솟값을 -1 로 나눌 때 생성된 C 코드에서 발생하는 정의되지 않은 동작을 수정함. 32비트 정수 입력 조합 2⁶⁴개 중 하나에 해당하지만, x86에서는 CPU 예외로 프로그램이 종료될 수 있음 수정된 구현은 나눗셈마다 제수가",
+   "publishedAt": 1792504939000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1245,7 +1273,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1259,7 +1287,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1273,8 +1301,23 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.8,
    "hot": false
+  },
+  {
+   "title": "Claude reveals ECDSA curve origins",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50122800",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1065,
+   "comments": 391,
+   "publishedAt": 1792176959000,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false,
+   "lastWeekRank": 6
   },
   {
    "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
@@ -1287,7 +1330,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1301,7 +1344,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1315,7 +1358,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1329,7 +1372,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1343,7 +1386,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1357,50 +1400,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "Claude reveals ECDSA curve origins",
-   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50122800",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1064,
-   "comments": 391,
-   "publishedAt": 1792176959000,
-   "isAI": true,
-   "score": 33.8,
-   "hot": false,
-   "lastWeekRank": 6
-  },
-  {
-   "title": "아마존 이어 구글도 자체칩 생태계 확장...'토치TPU' 오픈소스 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216476",
-   "summary": "아마존에 이어 구글도 기존 AI 개발 도구를 자체 칩에서 손쉽게 사용할 수 있도록 소프트웨어 생태계 확장에 나섰다. 개발자들이 익숙한 파이토치(PyTorch) 코드를 큰 수정 없이 자체 칩으로 옮길 수 있도록 지원해, 엔비디아 GPU와 CUDA 중심의 개발 환경에서 하드웨어 선택지를 넓히려는 움직임이다.구글은 20일(현지시간) 열린 '파이토치 컨퍼런스 2026'에서 TPU용 파이토치 소프트웨어 스택인 '토치TPU(TorchTPU)'를 오픈소스로 공개했다.아마존도 전날 자체 AI 칩 트레이니엄(Trainium)에서 기존 파이토치 코드",
-   "publishedAt": 1792571364000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-   "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-   "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-   "publishedAt": 1792513206000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.6,
+   "score": 33.5,
    "hot": false
   }
  ]
