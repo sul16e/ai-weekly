@@ -1,21 +1,7 @@
 {
- "updatedAt": 1792596797796,
+ "updatedAt": 1792600637064,
  "week": "2026-W43",
  "items": [
-  {
-   "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-   "url": "https://github.com/deepseek-ai/DeepInfer",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50163277",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 2277,
-   "comments": 874,
-   "publishedAt": 1792487334000,
-   "isAI": true,
-   "score": 60.7,
-   "hot": false
-  },
   {
    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
    "url": "https://www.wiz.io/blog/php2shell-php-rce",
@@ -23,12 +9,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 210,
-   "comments": 54,
+   "engagement": 347,
+   "comments": 114,
    "publishedAt": 1792590199000,
    "isAI": true,
-   "score": 58,
+   "score": 62,
    "hot": true
+  },
+  {
+   "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50163277",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 2284,
+   "comments": 874,
+   "publishedAt": 1792487334000,
+   "isAI": true,
+   "score": 60.2,
+   "hot": false
   },
   {
    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1405,
-   "comments": 596,
+   "engagement": 1455,
+   "comments": 613,
    "publishedAt": 1792527350000,
    "isAI": false,
-   "score": 56.9,
+   "score": 56.6,
    "hot": true
   },
   {
@@ -55,7 +55,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 55.8,
+   "score": 55.2,
    "hot": true
   },
   {
@@ -69,7 +69,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 53,
+   "score": 52.4,
    "hot": true
   },
   {
@@ -83,7 +83,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.8,
+   "score": 51.3,
    "hot": true
   },
   {
@@ -93,12 +93,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 219,
-   "comments": 73,
+   "engagement": 243,
+   "comments": 82,
    "publishedAt": 1792585888000,
    "isAI": false,
-   "score": 49.9,
+   "score": 50.3,
    "hot": true
+  },
+  {
+   "title": "PHP2Shell: AI로 PHP의 치명적인 원격 코드 실행 취약점 발견",
+   "url": "https://news.hada.io/topic?id=35761",
+   "summary": "Wiz Research가 PHP 코어의 메모리 안전성 취약점 을 발견하고, 인증 없이 서버에서 코드를 실행하거나 프로세스 메모리를 읽는 공격을 실증함 취약점은 애플리케이션 코드가 아니라 PHP 엔진 자체 에 있으며, PHP 5.4까지 거슬러 올라가는 버전들이 영향을 받음",
+   "publishedAt": 1792597065000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50159341",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 735,
+   "comments": 212,
+   "publishedAt": 1792452138000,
+   "isAI": true,
+   "score": 48.1,
+   "hot": false
   },
   {
    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
@@ -111,22 +139,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 48.6,
+   "score": 48.1,
    "hot": true
-  },
-  {
-   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50159341",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 733,
-   "comments": 211,
-   "publishedAt": 1792452138000,
-   "isAI": true,
-   "score": 48.5,
-   "hot": false
   },
   {
    "title": "Meta Muse, 공유한 대화의 개인정보 노출로 공유 기능 중단",
@@ -139,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -153,7 +167,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.6,
+   "hot": true
+  },
+  {
+   "title": "Anthropic logged net loss of over $80B in first half of 2026",
+   "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50171966",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 172,
+   "comments": 88,
+   "publishedAt": 1792526986000,
+   "isAI": true,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -167,34 +195,6 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 47,
-   "hot": true
-  },
-  {
-   "title": "Anthropic logged net loss of over $80B in first half of 2026",
-   "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50171966",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 166,
-   "comments": 81,
-   "publishedAt": 1792526986000,
-   "isAI": true,
-   "score": 46.7,
-   "hot": true
-  },
-  {
-   "title": "Apple broke an essential presentation feature of iPads",
-   "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50165208",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 590,
-   "comments": 289,
-   "publishedAt": 1792498648000,
-   "isAI": false,
    "score": 46.5,
    "hot": false
   },
@@ -205,11 +205,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 105,
-   "comments": 71,
+   "engagement": 111,
+   "comments": 74,
    "publishedAt": 1792553803000,
    "isAI": true,
    "score": 46.4,
+   "hot": false
+  },
+  {
+   "title": "Apple broke an essential presentation feature of iPads",
+   "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50165208",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 591,
+   "comments": 292,
+   "publishedAt": 1792498648000,
+   "isAI": false,
+   "score": 46.1,
    "hot": false
   },
   {
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 45.7,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -247,12 +261,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 181,
+   "engagement": 183,
    "comments": 216,
    "publishedAt": 1792511306000,
    "isAI": true,
-   "score": 45.5,
-   "hot": true
+   "score": 45.1,
+   "hot": false
   },
   {
    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
@@ -261,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 370,
-   "comments": 80,
+   "engagement": 373,
+   "comments": 85,
    "publishedAt": 1792514424000,
    "isAI": false,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -275,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 424,
+   "engagement": 425,
    "comments": 207,
    "publishedAt": 1792502287000,
    "isAI": false,
-   "score": 44.5,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -289,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 570,
-   "comments": 527,
+   "engagement": 573,
+   "comments": 532,
    "publishedAt": 1792426606000,
    "isAI": true,
-   "score": 44.3,
+   "score": 44,
    "hot": false
   },
   {
@@ -307,8 +321,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.1,
-   "hot": true
+   "score": 43.6,
+   "hot": false
   },
   {
    "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
@@ -321,7 +335,7 @@
    "comments": 373,
    "publishedAt": 1792406714000,
    "isAI": true,
-   "score": 43.3,
+   "score": 43,
    "hot": false
   },
   {
@@ -331,11 +345,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 597,
-   "comments": 723,
+   "engagement": 598,
+   "comments": 725,
    "publishedAt": 1792409074000,
    "isAI": true,
-   "score": 43,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -346,10 +360,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 396,
-   "comments": 202,
+   "comments": 203,
    "publishedAt": 1792491962000,
    "isAI": false,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -360,10 +374,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 618,
-   "comments": 121,
+   "comments": 122,
    "publishedAt": 1792403972000,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -373,12 +387,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 111,
+   "engagement": 113,
    "comments": 70,
    "publishedAt": 1792518509000,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.3,
    "hot": false
+  },
+  {
+   "title": "No Kings 계정 차단이 보여준, Zuckerberg에게 확성기를 빌려서는 안 되는 이유",
+   "url": "https://news.hada.io/topic?id=35764",
+   "summary": "No Kings 시위 도중 Instagram 계정이 정지된 사건의 핵심은 고의 여부보다 단일 사업자가 소통 채널을 끊을 수 있는 구조 에 있음 디지털 조직 활동에는 제삼자가 쉽게 차단할 수 없는 독립적인 연락 채널 , 개방형 플랫폼 계정, 계정 정지 시 대응 계획이 필요함...",
+   "publishedAt": 1792600457000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 42,
+   "hot": true
   },
   {
    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
@@ -391,8 +419,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
+  },
+  {
+   "title": "Qwen3-Coder, 미국 고객용이라고 지시하면 보안이 더 취약한 코드 생성",
+   "url": "https://news.hada.io/topic?id=35762",
+   "summary": "Hirundo가 Qwen3-Coder-30B-A3B-Instruct 에 같은 비밀정보 저장 앱을 반복 생성하게 한 실험에서, 미국 방산업체용 앱의 공격 성공률은 70%로 중국 방산업체용의 59%보다 상대적으로 19% 높았음 홍콩 민주주의 옹호 단체용 앱은 중립 고객용보다 다른 사용...",
+   "publishedAt": 1792597245000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
   },
   {
    "title": "바이브 코더들이 몰려들자, Steam 이용자들 ‘AI 게임 제외’ 필터 요구",
@@ -405,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -419,7 +461,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
+   "hot": false
+  },
+  {
+   "title": "C# now beats Rust on WASM size",
+   "url": "https://github.com/zion-sati/NetWasm",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50175510",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 147,
+   "comments": 79,
+   "publishedAt": 1792551227000,
+   "isAI": false,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -429,11 +485,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 414,
-   "comments": 123,
+   "engagement": 416,
+   "comments": 130,
    "publishedAt": 1792478227000,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -447,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -461,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -475,22 +531,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.1,
    "hot": true
-  },
-  {
-   "title": "C# now beats Rust on WASM size",
-   "url": "https://github.com/zion-sati/NetWasm",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50175510",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 140,
-   "comments": 75,
-   "publishedAt": 1792551227000,
-   "isAI": false,
-   "score": 41.4,
-   "hot": false
   },
   {
    "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
@@ -499,11 +541,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 359,
+   "engagement": 360,
    "comments": 61,
    "publishedAt": 1792423704000,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -517,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
@@ -545,22 +587,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
-   "hot": true
-  },
-  {
-   "title": "Mercury 3: Diffusion at scale",
-   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50155245",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 256,
-   "comments": 91,
-   "publishedAt": 1792430831000,
-   "isAI": true,
    "score": 39.8,
-   "hot": false
+   "hot": true
   },
   {
    "title": "OpenAI acquires Orchestra Bio",
@@ -573,7 +601,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.5,
+   "hot": false
+  },
+  {
+   "title": "Mercury 3: Diffusion at scale",
+   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50155245",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 256,
+   "comments": 91,
+   "publishedAt": 1792430831000,
+   "isAI": true,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -587,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -601,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -615,8 +657,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
+  },
+  {
+   "title": "An ad-free Android TV",
+   "url": "https://cretezy.com/2026/ad-free-android-tv",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50158942",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 425,
+   "comments": 184,
+   "publishedAt": 1792449157000,
+   "isAI": false,
+   "score": 38.9,
+   "hot": false
   },
   {
    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
@@ -629,21 +685,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.3,
-   "hot": false
-  },
-  {
-   "title": "An ad-free Android TV",
-   "url": "https://cretezy.com/2026/ad-free-android-tv",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50158942",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 423,
-   "comments": 183,
-   "publishedAt": 1792449157000,
-   "isAI": false,
-   "score": 39.2,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -657,7 +699,7 @@
    "comments": 13,
    "publishedAt": 1792507773000,
    "isAI": false,
-   "score": 39,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -671,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -685,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -696,10 +738,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 187,
-   "comments": 103,
+   "comments": 105,
    "publishedAt": 1792504428000,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -713,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -727,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -737,11 +779,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 133,
+   "engagement": 134,
    "comments": 18,
    "publishedAt": 1792524843000,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -755,7 +797,34 @@
    "comments": 238,
    "publishedAt": 1792356494000,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.9,
+   "hot": false
+  },
+  {
+   "title": "거부 기능을 제거한 ‘Abliterated’ AI 모델을 내려받았다가 해킹당할 수 있는 이유",
+   "url": "https://news.hada.io/topic?id=35709",
+   "summary": "Abliterated 모델은 요청을 거절하는 동작을 제거하도록 가중치를 수정한 AI 모델 . ProjectDiscovery가 수정된 모델에 악성 동작도 숨길 수 있음을 실험으로 확인 백도어를 심은 Qwen 모델을 Codex CLI에 연결 하자, 특정 문구가 포함된 요청에서 외부 프로그램을 내...",
+   "publishedAt": 1792499634000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 37.9,
+   "hot": false
+  },
+  {
+   "title": "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds",
+   "url": "https://huggingface.co/papers/2610.27999",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 175,
+   "summary": "Moving from controllable videos to genuinely playable worlds requires persistent world state, executable game rules, and low-latency interaction. We outline a roadmap for the next generation of Matrix-Game that separates game execution from visual generation through an executable game harness, and i",
+   "publishedAt": 1792440000000,
+   "isAI": true,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -769,7 +838,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -783,35 +852,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
-  },
-  {
-   "title": "거부 기능을 제거한 ‘Abliterated’ AI 모델을 내려받았다가 해킹당할 수 있는 이유",
-   "url": "https://news.hada.io/topic?id=35709",
-   "summary": "Abliterated 모델은 요청을 거절하는 동작을 제거하도록 가중치를 수정한 AI 모델 . ProjectDiscovery가 수정된 모델에 악성 동작도 숨길 수 있음을 실험으로 확인 백도어를 심은 Qwen 모델을 Codex CLI에 연결 하자, 특정 문구가 포함된 요청에서 외부 프로그램을 내...",
-   "publishedAt": 1792499634000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.2,
-   "hot": false
-  },
-  {
-   "title": "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds",
-   "url": "https://huggingface.co/papers/2610.27999",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 174,
-   "summary": "Moving from controllable videos to genuinely playable worlds requires persistent world state, executable game rules, and low-latency interaction. We outline a roadmap for the next generation of Matrix-Game that separates game execution from visual generation through an executable game harness, and i",
-   "publishedAt": 1792440000000,
-   "isAI": true,
-   "score": 38.1,
-   "hot": false
   },
   {
    "title": "Show GN: MacNotify - Mac 알림이 오면 MX Master 4가 진동하는 로지텍 플러그인",
@@ -824,7 +866,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -838,7 +880,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -852,21 +894,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.9,
-   "hot": false
-  },
-  {
-   "title": "DeepSeek, 실서비스 추론 엔진 DeepInfer를 오픈소스로 공개",
-   "url": "https://news.hada.io/topic?id=35703",
-   "summary": "DeepSeek이 자사 대규모 서비스를 구동하는 추론 엔진 DeepInfer 를 공개. 이번 버전은 모델을 실행하고 결과를 생성하는 오프라인 추론 제공 토큰을 미리 생성한 뒤 검증하는 방식으로 생성을 가속 하고, 일부 구간만 재처리해 입력 처리 연산을 줄...",
-   "publishedAt": 1792492537000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.6,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -880,7 +908,21 @@
    "comments": 187,
    "publishedAt": 1792457632000,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
+   "hot": false
+  },
+  {
+   "title": "Linux 7.3",
+   "url": "https://lwn.net/Articles/1101143/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50149392",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 630,
+   "comments": 295,
+   "publishedAt": 1792394637000,
+   "isAI": false,
+   "score": 37,
    "hot": false
   },
   {
@@ -894,7 +936,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 37.4,
+   "score": 37,
    "hot": false
   },
   {
@@ -908,21 +950,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
-  },
-  {
-   "title": "Linux 7.3",
-   "url": "https://lwn.net/Articles/1101143/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50149392",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 630,
-   "comments": 295,
-   "publishedAt": 1792394637000,
-   "isAI": false,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -935,7 +963,7 @@
    "summary": "Looped language models can run more iterations at test time, but additional iterations need not help them solve longer problems. For sequential state tracking, final-answer supervision does not specify how far each iteration should advance, and repeated updates can change the scale of the recurrent ",
    "publishedAt": 1792440000000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -949,7 +977,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -963,7 +991,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -977,7 +1005,7 @@
    "comments": 140,
    "publishedAt": 1792444098000,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -991,35 +1019,7 @@
    "comments": 191,
    "publishedAt": 1792428330000,
    "isAI": false,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "나의 친구 Bob Cringely",
-   "url": "https://news.hada.io/topic?id=35737",
-   "summary": "Paul Tyma가 Bob Cringely와 나눈 30년의 인연 을 추억함. Java 책을 칭찬하는 전화로 시작된 관계는 소프트웨어 개발 의뢰, 창업 아이디어 교류, 방송 출연 기회로 이어짐 첫 공동 작업인 Pronto 는 인터넷 연결의 유휴 시간에 잡지 PDF를 내려받아 집에서 자동 인쇄...",
-   "publishedAt": 1792543072000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "Deepwater Horizon 사고 16년 후에도 심해 생물의 회복 징후는 미미함",
-   "url": "https://news.hada.io/topic?id=35736",
-   "summary": "멕시코만의 음향 조사와 수천 개의 그물 채집 표본을 분석한 연구에서 심해 생물 개체군의 회복 증거 가 거의 발견되지 않음 2010년 사고 이후 초기 몇 년 동안 문어, 오징어, 크릴, 새우, 샛비늘치 개체군이 최소 60% 감소 함 연구진은 원유 유출...",
-   "publishedAt": 1792542892000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -1033,9 +1033,37 @@
    "comments": 280,
    "publishedAt": 1792306236000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "나의 친구 Bob Cringely",
+   "url": "https://news.hada.io/topic?id=35737",
+   "summary": "Paul Tyma가 Bob Cringely와 나눈 30년의 인연 을 추억함. Java 책을 칭찬하는 전화로 시작된 관계는 소프트웨어 개발 의뢰, 창업 아이디어 교류, 방송 출연 기회로 이어짐 첫 공동 작업인 Pronto 는 인터넷 연결의 유휴 시간에 잡지 PDF를 내려받아 집에서 자동 인쇄...",
+   "publishedAt": 1792543072000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "Deepwater Horizon 사고 16년 후에도 심해 생물의 회복 징후는 미미함",
+   "url": "https://news.hada.io/topic?id=35736",
+   "summary": "멕시코만의 음향 조사와 수천 개의 그물 채집 표본을 분석한 연구에서 심해 생물 개체군의 회복 증거 가 거의 발견되지 않음 2010년 사고 이후 초기 몇 년 동안 문어, 오징어, 크릴, 새우, 샛비늘치 개체군이 최소 60% 감소 함 연구진은 원유 유출...",
+   "publishedAt": 1792542892000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.6,
+   "hot": false
   },
   {
    "title": "OpenIntelligentUI - ChatGPT Intelligent UI의 오픈소스 대체 구현",
@@ -1048,7 +1076,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1062,7 +1090,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1076,7 +1104,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1090,7 +1118,7 @@
    "comments": 111,
    "publishedAt": 1792414847000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1104,7 +1132,7 @@
    "comments": 217,
    "publishedAt": 1792357752000,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1118,7 +1146,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1129,38 +1157,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 152,
-   "comments": 146,
+   "comments": 147,
    "publishedAt": 1792411563000,
    "isAI": true,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "Google, PyTorch 모델을 TPU에서 실행하는 TorchTPU 오픈소스 공개",
-   "url": "https://news.hada.io/topic?id=35728",
-   "summary": "Google이 Meta의 PyTorch 팀과 협력해 개발한 TPU용 PyTorch 백엔드 TorchTPU를 공개 . 기존 PyTorch 모델의 코드 변경을 최소화하면서 Google Cloud TPU에서 학습과 추론을 실행 GPU에서 쓰던 PyTorch의 실행 방식을 유지 하며, 연산을 하나씩 실행하는 즉시 실행 모...",
-   "publishedAt": 1792528583000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.6,
-   "hot": false
-  },
-  {
-   "title": "SimCity, 다만 인허가가 필요한 도시 건설 게임",
-   "url": "https://news.hada.io/topic?id=35727",
-   "summary": "Permit Pending 은 전능한 건설자가 아닌 선출직 시장으로 도시를 운영하는 시뮬레이션으로, 건설 계획마다 공청회와 심사, 반대, 소송, 이의 제기를 거쳐야 함 주택 공급은 임대료를 낮추지만 집주인의 반발을 사고, 산업은 일자리와 스모그를 함께 만드는 등 도시 개선마다...",
-   "publishedAt": 1792528403000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.6,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1174,7 +1174,21 @@
    "comments": 95,
    "publishedAt": 1792384906000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.3,
+   "hot": false
+  },
+  {
+   "title": "Google, PyTorch 모델을 TPU에서 실행하는 TorchTPU 오픈소스 공개",
+   "url": "https://news.hada.io/topic?id=35728",
+   "summary": "Google이 Meta의 PyTorch 팀과 협력해 개발한 TPU용 PyTorch 백엔드 TorchTPU를 공개 . 기존 PyTorch 모델의 코드 변경을 최소화하면서 Google Cloud TPU에서 학습과 추론을 실행 GPU에서 쓰던 PyTorch의 실행 방식을 유지 하며, 연산을 하나씩 실행하는 즉시 실행 모...",
+   "publishedAt": 1792528583000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1188,9 +1202,23 @@
    "comments": 721,
    "publishedAt": 1792225285000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.2,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "SimCity, 다만 인허가가 필요한 도시 건설 게임",
+   "url": "https://news.hada.io/topic?id=35727",
+   "summary": "Permit Pending 은 전능한 건설자가 아닌 선출직 시장으로 도시를 운영하는 시뮬레이션으로, 건설 계획마다 공청회와 심사, 반대, 소송, 이의 제기를 거쳐야 함 주택 공급은 임대료를 낮추지만 집주인의 반발을 사고, 산업은 일자리와 스모그를 함께 만드는 등 도시 개선마다...",
+   "publishedAt": 1792528403000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.2,
+   "hot": false
   },
   {
    "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
@@ -1203,7 +1231,7 @@
    "comments": 64,
    "publishedAt": 1792411661000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34,
    "hot": false
   },
   {
@@ -1217,7 +1245,7 @@
    "comments": 128,
    "publishedAt": 1792389331000,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1231,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1244,7 +1272,7 @@
    "summary": "Spatial reasoning asks a model to work out where objects are in 3D space, how they relate to one another, and how they move. Agentic VLMs have recently brought large improvements on such tasks by letting the model actively gather evidence with 3D perception tools instead of answering in a single pas",
    "publishedAt": 1792440000000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1258,7 +1286,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "Conversational Gemini navigation comes to Apple CarPlay",
+   "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+   "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability",
+   "publishedAt": 1792594800000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1272,7 +1314,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1286,7 +1328,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1300,7 +1342,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1314,7 +1356,7 @@
    "comments": 45,
    "publishedAt": 1792444305000,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1328,7 +1370,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1342,7 +1384,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1356,49 +1398,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Anthropic’s cloud partnerships are getting messy",
-   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-   "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-   "publishedAt": 1792531522000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "맥락 속에서 - 변화하는 데이터를 다루는 Clojure의 설계 [영상]",
-   "url": "https://news.hada.io/topic?id=35719",
-   "summary": "Clojure 창시자 Rich Hickey의 Clojure/Conj 2026 발표 . 시스템을 오가는 데이터의 형태가 계속 바뀌는 상황에서, 유연성을 유지하면서 필요한 정보를 명시하고 검사하는 방법을 다룸 고객과 직원, 환자 등의 활동을 기록하는 정보 중심 프로그램은 데이터베이스와 외부 시스...",
-   "publishedAt": 1792512367000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "네덜란드, Microsoft 의존에서 벗어나기 위해 자체 Linux OS 개발 중",
-   "url": "https://news.hada.io/topic?id=35718",
-   "summary": "네덜란드가 Windows와 Office 등 Microsoft 제품 의존을 줄이기 위해 NixOS 기반 공공 업무 환경 DAWO를 개발 중. 운영체제부터 문서 작업과 협업, 클라우드와 관리 도구까지 대안을 마련 미국의 국제형사재판소(ICC) 제재를 계기로, 미국 정부의 정책에 따라 핵심 IT 서비스...",
-   "publishedAt": 1792512187000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   }
  ]
