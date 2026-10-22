@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792654452836,
+ "updatedAt": 1792658110089,
  "week": "2026-W43",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 349,
-   "comments": 318,
+   "engagement": 352,
+   "comments": 322,
    "publishedAt": 1792610041000,
    "isAI": true,
-   "score": 56.2,
+   "score": 55.7,
    "hot": true
   },
   {
@@ -27,7 +27,7 @@
    "comments": 95,
    "publishedAt": 1792610455000,
    "isAI": true,
-   "score": 55.6,
+   "score": 55,
    "hot": true
   },
   {
@@ -41,7 +41,7 @@
    "comments": 174,
    "publishedAt": 1792590199000,
    "isAI": true,
-   "score": 55.1,
+   "score": 54.6,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 721,
-   "comments": 349,
+   "engagement": 724,
+   "comments": 357,
    "publishedAt": 1792597736000,
    "isAI": false,
-   "score": 53.4,
+   "score": 53,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 2313,
+   "engagement": 2317,
    "comments": 885,
    "publishedAt": 1792487334000,
    "isAI": true,
-   "score": 53.3,
+   "score": 52.9,
    "hot": false
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 424,
-   "comments": 249,
+   "engagement": 436,
+   "comments": 256,
    "publishedAt": 1792619883000,
    "isAI": false,
-   "score": 52.3,
+   "score": 52,
    "hot": true
   },
   {
@@ -97,7 +97,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.9,
+   "score": 51.4,
    "hot": true
   },
   {
@@ -107,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 508,
-   "comments": 309,
+   "engagement": 522,
+   "comments": 321,
    "publishedAt": 1792604713000,
    "isAI": false,
-   "score": 51.6,
+   "score": 51.3,
    "hot": true
   },
   {
@@ -121,12 +121,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 283,
-   "comments": 117,
+   "engagement": 285,
+   "comments": 118,
    "publishedAt": 1792587191000,
    "isAI": true,
-   "score": 51.2,
+   "score": 50.8,
    "hot": true
+  },
+  {
+   "title": "Show GN: Brello Scan – AI API 비용 속 새는 곳을 찾아 주는 무료 스캐너",
+   "url": "https://news.hada.io/topic?id=35805",
+   "summary": "AI API로 서비스를 만들다 보면, 청구서를 보고 나서야 내 돈이 어떻게 쓰였는지 알게 되는 경우가 빈번하다는 생각이 꾸준히 들었습니다. 모델 선택과 캐싱, 프롬프트 구조같은걸 조금이라도 바꾼다면 줄일 수 있는 비용이 꽤 있을 것 같은데, 이걸 한 눈에 확인하고 싶어서 만들었습니다. 현재는 OpenAI와 A",
+   "publishedAt": 1792657218000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.9,
+   "hot": true
+  },
+  {
+   "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+   "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50172041",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1524,
+   "comments": 654,
+   "publishedAt": 1792527350000,
+   "isAI": false,
+   "score": 49.4,
+   "hot": false
   },
   {
    "title": "How AT&T is rethinking in-house legal work with OpenAI",
@@ -139,21 +167,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.9,
-   "hot": false
-  },
-  {
-   "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
-   "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50172041",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1521,
-   "comments": 652,
-   "publishedAt": 1792527350000,
-   "isAI": false,
-   "score": 49.8,
+   "score": 49.4,
    "hot": false
   },
   {
@@ -167,7 +181,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.2,
+   "hot": true
+  },
+  {
+   "title": "Rust Style Guide",
+   "url": "https://google.github.io/styleguide/rustguide.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50186010",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 288,
+   "comments": 177,
+   "publishedAt": 1792609917000,
+   "isAI": false,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -181,22 +209,22 @@
    "comments": 25,
    "publishedAt": 1792610061000,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": false
   },
   {
-   "title": "Rust Style Guide",
-   "url": "https://google.github.io/styleguide/rustguide.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50186010",
+   "title": "Using thousands of AI agents to uncover new leads in biological data",
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50180752",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 280,
-   "comments": 165,
-   "publishedAt": 1792609917000,
-   "isAI": false,
-   "score": 47.3,
-   "hot": true
+   "engagement": 143,
+   "comments": 93,
+   "publishedAt": 1792589820000,
+   "isAI": true,
+   "score": 45.7,
+   "hot": false
   },
   {
    "title": "한국의 신규 AI 파생 모델 절반 가까이가 중국 Qwen 기반임",
@@ -209,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -223,22 +251,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.7,
    "hot": true
-  },
-  {
-   "title": "Using thousands of AI agents to uncover new leads in biological data",
-   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50180752",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 141,
-   "comments": 90,
-   "publishedAt": 1792589820000,
-   "isAI": true,
-   "score": 46,
-   "hot": false
   },
   {
    "title": "OpenAI 모델과 Codex, Google Cloud에 도입",
@@ -251,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -265,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -279,7 +293,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -293,8 +307,22 @@
    "comments": 2,
    "publishedAt": 1792610780000,
    "isAI": false,
-   "score": 44.9,
+   "score": 44.4,
    "hot": true
+  },
+  {
+   "title": "Epic Games Inc v Apple Inc",
+   "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50190168",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 141,
+   "comments": 107,
+   "publishedAt": 1792633923000,
+   "isAI": false,
+   "score": 44.1,
+   "hot": false
   },
   {
    "title": "OpenAI ‘Patch the Planet’, AI가 발견하는 취약점에 대응할 5단계 공조 체계 제안",
@@ -307,21 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.6,
-   "hot": true
-  },
-  {
-   "title": "Epic Games Inc v Apple Inc",
-   "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50190168",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 137,
-   "comments": 105,
-   "publishedAt": 1792633923000,
-   "isAI": false,
-   "score": 44.3,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -335,7 +349,7 @@
    "comments": 94,
    "publishedAt": 1792585888000,
    "isAI": false,
-   "score": 44,
+   "score": 43.6,
    "hot": true
   },
   {
@@ -349,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -363,7 +377,7 @@
    "comments": 217,
    "publishedAt": 1792452138000,
    "isAI": true,
-   "score": 43,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -377,7 +391,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -391,7 +405,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -405,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
    "hot": false
   },
   {
@@ -419,21 +433,7 @@
    "comments": 85,
    "publishedAt": 1792553803000,
    "isAI": true,
-   "score": 41.4,
-   "hot": false
-  },
-  {
-   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-   "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-   "publishedAt": 1792587600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": false,
-   "score": 41.3,
+   "score": 41,
    "hot": false
   },
   {
@@ -447,21 +447,21 @@
    "comments": 95,
    "publishedAt": 1792526986000,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.9,
    "hot": false
   },
   {
-   "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-   "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50187708",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+   "publishedAt": 1792587600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
    "lang": "en",
-   "engagement": 114,
-   "comments": 26,
-   "publishedAt": 1792617179000,
+   "engagement": null,
+   "baseWeight": 50,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -475,7 +475,21 @@
    "comments": 294,
    "publishedAt": 1792498648000,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.4,
+   "hot": false
+  },
+  {
+   "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+   "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50187708",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 114,
+   "comments": 26,
+   "publishedAt": 1792617179000,
+   "isAI": false,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -489,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -503,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -517,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -531,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
@@ -545,7 +559,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 40.3,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -559,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -573,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -587,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -601,8 +615,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
+  },
+  {
+   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50154244",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 578,
+   "comments": 541,
+   "publishedAt": 1792426606000,
+   "isAI": true,
+   "score": 39.4,
+   "hot": false
   },
   {
    "title": "mitmproxy, --emudhra 옵션 추가",
@@ -615,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -629,21 +657,7 @@
    "comments": 229,
    "publishedAt": 1792511306000,
    "isAI": true,
-   "score": 39.6,
-   "hot": false
-  },
-  {
-   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50154244",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 578,
-   "comments": 541,
-   "publishedAt": 1792426606000,
-   "isAI": true,
-   "score": 39.6,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -657,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39,
    "hot": true
   },
   {
@@ -671,22 +685,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
-  },
-  {
-   "title": "2026년 JavaScript 동향",
-   "url": "https://news.hada.io/topic?id=35745",
-   "summary": "네이버 D2에서 2020년 이후 6년 만에 재개한 JavaScript 동향 연재. ECMAScript 표준의 변화부터 TypeScript 7, 서버 런타임, 패키지 공급망 보안, AI 코딩 도구가 생태계에 미친 영향까지 2026년 10월 기준으로 정리한 장문의 분석 공유. 1",
-   "publishedAt": 1792567120000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.2,
-   "hot": false
   },
   {
    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
@@ -699,7 +699,21 @@
    "comments": 89,
    "publishedAt": 1792514424000,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.8,
+   "hot": false
+  },
+  {
+   "title": "2026년 JavaScript 동향",
+   "url": "https://news.hada.io/topic?id=35745",
+   "summary": "네이버 D2에서 2020년 이후 6년 만에 재개한 JavaScript 동향 연재. ECMAScript 표준의 변화부터 TypeScript 7, 서버 런타임, 패키지 공급망 보안, AI 코딩 도구가 생태계에 미친 영향까지 2026년 10월 기준으로 정리한 장문의 분석 공유. 1",
+   "publishedAt": 1792567120000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -713,22 +727,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
-  },
-  {
-   "title": "Oxynote - 실시간 지표와 API 문서를 함께 관리하는 기술 위키",
-   "url": "https://news.hada.io/topic?id=35787",
-   "summary": "시스템 운영팀을 위해, 운영 절차와 API 설명 옆에 실시간 지표를 표시 하고, 문서와 차트 변경을 함께 검토하고 승인 가능 Prometheus와 PostgreSQL/MySQL/MariaDB 쿼리로 시계열과 막대 차트, 게이지를 문서 안에 표시 Stripe 스타일의 좌우 분할...",
-   "publishedAt": 1792629002000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39,
-   "hot": true
   },
   {
    "title": "Tsrs: A Port of TypeScript to Rust",
@@ -741,7 +741,7 @@
    "comments": 212,
    "publishedAt": 1792502287000,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -755,7 +755,35 @@
    "comments": 372,
    "publishedAt": 1792406714000,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.6,
+   "hot": false
+  },
+  {
+   "title": "Oxynote - 실시간 지표와 API 문서를 함께 관리하는 기술 위키",
+   "url": "https://news.hada.io/topic?id=35787",
+   "summary": "시스템 운영팀을 위해, 운영 절차와 API 설명 옆에 실시간 지표를 표시 하고, 문서와 차트 변경을 함께 검토하고 승인 가능 Prometheus와 PostgreSQL/MySQL/MariaDB 쿼리로 시계열과 막대 차트, 게이지를 문서 안에 표시 Stripe 스타일의 좌우 분할...",
+   "publishedAt": 1792629002000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.6,
+   "hot": true
+  },
+  {
+   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+   "url": "https://news.ycombinator.com/item?id=50151036",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50151036",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 605,
+   "comments": 741,
+   "publishedAt": 1792409074000,
+   "isAI": true,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -769,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -783,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -797,49 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
-   "hot": true
-  },
-  {
-   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-   "url": "https://news.ycombinator.com/item?id=50151036",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50151036",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 604,
-   "comments": 741,
-   "publishedAt": 1792409074000,
-   "isAI": true,
-   "score": 38.7,
-   "hot": false
-  },
-  {
-   "title": "Railway 보안 사고 공개",
-   "url": "https://news.hada.io/topic?id=35778",
-   "summary": "Railway 가 고객 환경 변수를 저장하는 시스템에서 이상 활동을 탐지했으며, 조사 결과 비인가 제3자가 암호화된 환경 변수에 접근하고 일부는 복호화된 내용까지 확보했을 가능성이 있음 환경 변수에는 API 키, 데이터베이스 및 레지스트리 자격 증명 같은 비밀 정...",
-   "publishedAt": 1792625857000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.6,
-   "hot": true
-  },
-  {
-   "title": "GitLab 긴급 보안 패치 릴리스",
-   "url": "https://news.hada.io/topic?id=35777",
-   "summary": "GitLab CE/EE에서 비인증 사용자의 서버 임의 코드 실행 으로 이어질 수 있는 CVSS 10.0 취약점을 수정했으며, 자체 관리형 설치의 즉시 업그레이드를 강력히 권고함 핵심 취약점은 특수하게 조작한 정규식을 컴파일할 때 발생하는 정수 오버플로 이며, 최신 계열 외...",
-   "publishedAt": 1792625677000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.6,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -853,8 +839,36 @@
    "comments": 124,
    "publishedAt": 1792403972000,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false
+  },
+  {
+   "title": "Railway 보안 사고 공개",
+   "url": "https://news.hada.io/topic?id=35778",
+   "summary": "Railway 가 고객 환경 변수를 저장하는 시스템에서 이상 활동을 탐지했으며, 조사 결과 비인가 제3자가 암호화된 환경 변수에 접근하고 일부는 복호화된 내용까지 확보했을 가능성이 있음 환경 변수에는 API 키, 데이터베이스 및 레지스트리 자격 증명 같은 비밀 정...",
+   "publishedAt": 1792625857000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.2,
+   "hot": true
+  },
+  {
+   "title": "GitLab 긴급 보안 패치 릴리스",
+   "url": "https://news.hada.io/topic?id=35777",
+   "summary": "GitLab CE/EE에서 비인증 사용자의 서버 임의 코드 실행 으로 이어질 수 있는 CVSS 10.0 취약점을 수정했으며, 자체 관리형 설치의 즉시 업그레이드를 강력히 권고함 핵심 취약점은 특수하게 조작한 정규식을 컴파일할 때 발생하는 정수 오버플로 이며, 최신 계열 외...",
+   "publishedAt": 1792625677000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.2,
+   "hot": true
   },
   {
    "title": "Meta, 개인정보 보호에 관해 이용자를 속여 250억 달러 제재금 지급 명령",
@@ -867,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -881,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -892,10 +906,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 402,
-   "comments": 204,
+   "comments": 205,
    "publishedAt": 1792491962000,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -909,7 +923,7 @@
    "comments": 74,
    "publishedAt": 1792518509000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -923,7 +937,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -937,21 +951,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50153630",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 362,
-   "comments": 61,
-   "publishedAt": 1792423704000,
-   "isAI": true,
-   "score": 36.9,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -965,7 +965,21 @@
    "comments": 131,
    "publishedAt": 1792478227000,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50153630",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 362,
+   "comments": 61,
+   "publishedAt": 1792423704000,
+   "isAI": true,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -979,21 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-   "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-   "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-   "publishedAt": 1792623082000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.5,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -1007,7 +1007,21 @@
    "comments": 104,
    "publishedAt": 1792551227000,
    "isAI": false,
-   "score": 36.4,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+   "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+   "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+   "publishedAt": 1792623082000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1021,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -1035,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -1049,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1063,21 +1077,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-   "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-   "publishedAt": 1792614461000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.6,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1091,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1105,49 +1105,21 @@
    "comments": 92,
    "publishedAt": 1792430831000,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.2,
    "hot": false
   },
   {
-   "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-   "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-   "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-   "publishedAt": 1792611000000,
+   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+   "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+   "publishedAt": 1792614461000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "네덜란드 국가사이버보안센터, PHP 취약점으로 웹사이트 일시 중단",
-   "url": "https://news.hada.io/topic?id=35760",
-   "summary": "네덜란드 국가사이버보안센터(NCSC)가 PHP 취약점 에 대한 예방 조치로 공식 웹사이트를 일시적으로 오프라인 전환함 PHP 보안팀의 패치 는 네덜란드 현지 시각 16시에 공개될 예정임 NCSC는 패치 공개 후 1시간 이내에 보안 권고문 을 게시...",
-   "publishedAt": 1792593704000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.3,
-   "hot": false
-  },
-  {
-   "title": "PHP, 원격 코드 실행이 가능한 치명적 취약점 2건 수정. 즉시 업데이트 권고",
-   "url": "https://news.hada.io/topic?id=35759",
-   "summary": "PHP가 인증 없이 원격 코드 실행이 가능한 취약점 2개 를 수정한 보안 릴리스를 공개함. 모든 PHP 사용자에게 즉시 업데이트를 강력히 권고 PHP-FPM, Apache의 mod_php, php-cgi, FrankenPHP, LiteSpeed 등 웹 요청을 처리하는 모든 PHP 설치 환경 이 위험 대상. 특히...",
-   "publishedAt": 1792593524000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.3,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1161,7 +1133,49 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.2,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "네덜란드 국가사이버보안센터, PHP 취약점으로 웹사이트 일시 중단",
+   "url": "https://news.hada.io/topic?id=35760",
+   "summary": "네덜란드 국가사이버보안센터(NCSC)가 PHP 취약점 에 대한 예방 조치로 공식 웹사이트를 일시적으로 오프라인 전환함 PHP 보안팀의 패치 는 네덜란드 현지 시각 16시에 공개될 예정임 NCSC는 패치 공개 후 1시간 이내에 보안 권고문 을 게시...",
+   "publishedAt": 1792593704000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+   "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+   "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+   "publishedAt": 1792611000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "PHP, 원격 코드 실행이 가능한 치명적 취약점 2건 수정. 즉시 업데이트 권고",
+   "url": "https://news.hada.io/topic?id=35759",
+   "summary": "PHP가 인증 없이 원격 코드 실행이 가능한 취약점 2개 를 수정한 보안 릴리스를 공개함. 모든 PHP 사용자에게 즉시 업데이트를 강력히 권고 PHP-FPM, Apache의 mod_php, php-cgi, FrankenPHP, LiteSpeed 등 웹 요청을 처리하는 모든 PHP 설치 환경 이 위험 대상. 특히...",
+   "publishedAt": 1792593524000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1172,10 +1186,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 435,
-   "comments": 190,
+   "comments": 191,
    "publishedAt": 1792449157000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1189,7 +1203,7 @@
    "comments": 239,
    "publishedAt": 1792356494000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1203,21 +1217,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.7,
-   "hot": false
-  },
-  {
-   "title": "8비트의 신뢰, eMudhra의 CA 개인 키가 밀리초 만에 복구됨",
-   "url": "https://news.hada.io/topic?id=35757",
-   "summary": "eMudhra의 중간 인증기관 8개 가 사용한 P-384 개인 키가 모두 한 바이트 값에 불과했으며, 공개 인증서만으로 노트북에서 1초 안에 전부 복구됨 정상적인 P-384 개인 키는 무작위 384비트 값이어야 하지만, 해당 키는 최대 255번의 계산 으로 찾을 수 있었음에도 인...",
-   "publishedAt": 1792585978000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1231,7 +1231,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "8비트의 신뢰, eMudhra의 CA 개인 키가 밀리초 만에 복구됨",
+   "url": "https://news.hada.io/topic?id=35757",
+   "summary": "eMudhra의 중간 인증기관 8개 가 사용한 P-384 개인 키가 모두 한 바이트 값에 불과했으며, 공개 인증서만으로 노트북에서 1초 안에 전부 복구됨 정상적인 P-384 개인 키는 무작위 384비트 값이어야 하지만, 해당 키는 최대 255번의 계산 으로 찾을 수 있었음에도 인...",
+   "publishedAt": 1792585978000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1245,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1259,7 +1273,63 @@
    "comments": 13,
    "publishedAt": 1792507773000,
    "isAI": false,
-   "score": 34,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 챗GPT 광고 서비스 26개국 추가... 전 세계 89개국으로 확대",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216539",
+   "summary": "오픈AI가 '챗GPT' 광고 서비스를 26개국에 추가로 도입했다. 올해 초 미국에서 광고 테스트를 시작한 이후 10만곳이 넘는 광고주가 캠페인을 진행했고, 지난 8월 광고 사업의 연간 환산 매출이 10억달러(약 1조3000억원)에 도달하는 등 성장세를 보이고 있다.오픈AI는 21일(현지시간) 챗GPT 광고 서비스 제공 지역을 기존보다 26개국 늘려 전 세계 89개국으로 확대한다고 발표했다. 최근 유럽과 동남아시아, 대만으로 서비스를 확대한 데 이은 조치다.이번 확장으로 멕시코와 브라질에 이어 아르헨티나, 칠레, 콜롬비아, 페루 등",
+   "publishedAt": 1792656322000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "순천만국가정원, 3년 연속 관람객 300만명 돌파",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216506",
+   "summary": "AI 생성 영상순천만국가정원이 올해도 관람객 300만명을 넘어섰다.순천시는 순천만국가정원 누적 관람객이 지난 18일 300만명을 돌파해 3년 연속 300만명 이상을 기록했다고 21일 밝혔다.순천은 2023 순천만국제정원박람회 이후에도 관람객 방문이 이어지고 있다고 설명했다. 순천만국가정원은 계절별 정원 경관과 함께 휴식·치유 공간으로 운영되고 있다.순천은 앞으로 생태를 기반으로 휴식과 치유, 교육, 문화 기능을 강화하고 체류형 콘텐츠를 확대할 계획이다. 지역 상권과 연계해 국가정원을 찾은 방문객의 이동이 도심과 지역 곳곳으로 이어질",
+   "publishedAt": 1792656106000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "[게시판] 모빌린트, LG전자와 휴머노이드용 NPU 플랫폼 개발 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216533",
+   "summary": "■ 모빌린트(대표 신동주)는 LG전자와 휴머노이드 로봇용 신경망처리장치(NPU)와 AI 컴퓨팅 플랫폼을 개발한다고 밝혔다. 이번 사업은 산업통상부 ‘K-온디바이스 AI 반도체 기술개발사업'의 일환으로 진행된다. 모빌린트는 주관연구개발기관으로 NPU와 모듈, 소프트웨어를 통합한 컴퓨팅 플랫폼 개발을 담당한다. 개발된 플랫폼은 LG전자의 일상공간용 휴머노이드 환경과 연계해 단계적으로 검증할 예정이다.■ 네이버(대표 최수연)는 한국도로공사·카카오모빌리티·티맵모빌리티 등과 '민·관 교통안전 데이터 공유 협의체 구성을 위한 업무협약'을 체결",
+   "publishedAt": 1792656000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "클로드·그록으로 무장한 해커들, 중남미 은행 400여곳 사이버 공격 자동화",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216541",
+   "summary": "해커들이 앤트로픽의 '클로드'와 스페이스X의 '그록' 등 여러 상용 AI 모델을 결합해 중남미 금융기관 400여곳을 대상으로 사이버 공격을 자동화한 것으로 드러났다. AI 에이전트들이 표적 정보를 수집하고 공격을 계획·실행하는 방식으로 비밀번호와 고객 데이터를 탈취하고 은행 계좌에 접근한 것으로 조사됐다.사이버보안 스타트업 스트레이커(Straiker)는 20일(현지시간) 해킹 그룹 '사이버카르텔(CyberCartel)'의 내부 운영 정보와 공격 기록을 분석한 결과, 이 같은 사실을 확인했다고 밝혔다. 이번 조사는 AI 모델 여러개를",
+   "publishedAt": 1792655925000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1270,24 +1340,52 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 193,
-   "comments": 111,
+   "comments": 113,
    "publishedAt": 1792504428000,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
-   "title": "Mastodon 5.0 - 웹 UI 개편과 그 설계 배경",
-   "url": "https://news.hada.io/topic?id=35753",
-   "summary": "출시를 앞둔 Mastodon 5.0이 게시물 작성기와 탐색 메뉴, 피드 디자인을 전면 개편 . 기존 사용자의 활용성을 유지하면서, 처음 방문한 사람도 설명서 없이 사용할 수 있도록 진입 장벽을 낮추는 것이 목표 게시물 작성기를 화면 하단 중앙에 뜨는 방식으로 변경 . 읽...",
-   "publishedAt": 1792576925000,
-   "source": "GeekNews",
-   "sourceType": "community",
+   "title": "여수 ‘2026 문화의 달’ 마무리…도심·해양공원·섬서 문화행사",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216495",
+   "summary": "AI 생성 영상여수시 곳곳에서 나흘간 진행된 ‘2026 문화의 달’ 행사가 지난 19일 막을 내렸다.여수는 지난 16일부터 19일까지 여수세계섬박람회 주행사장과 종포해양공원, 웅천친수공원, 장도 등에서 공연과 시민 참여형 문화예술 프로그램을 운영했다고 밝혔다.17일 여수세계섬박람회 주행사장에서는 문화의 달 기념식과 함께 여수의 지역적 특색을 담은 주제공연이 열렸다. 서도밴드와 솔라, 자이언티 등도 무대에 올랐다.종포해양공원에서는 빛 조형물과 버스킹, 지역예술가 참여 프로그램을 결합한 해양거리예술제가 진행됐다. 지올팍과 HYNN(박혜",
+   "publishedAt": 1792655400000,
+   "source": "AI타임스",
+   "sourceType": "media",
    "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.8,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "나주, 치매안심돌봄학교서 가을소풍…숲길 걷기·문화공연 진행",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216492",
+   "summary": "AI 생성 영상나주가 숲속치매안심돌봄학교 참여 어르신과 가족을 대상으로 가을소풍을 운영했다.나주는 지난 13일과 20일 이틀간 ‘2026년 숲속치매안심돌봄학교’ 참여자를 대상으로 ‘추억의 교복DAY’ 가을소풍을 진행했다고 밝혔다.행사에는 돌봄학교 참여 노인과 가족, 자원봉사자, 협업기관 관계자 등 200여명이 참여했다. 참가자들은 옛 교복을 입고 사진을 촬영하고 가을 숲길을 함께 걸으며 신체·인지 활동과 문화 프로그램에 참여했다.곡성문화원 할머니인형극단 ‘민들레’는 ‘심청전’ 인형극을 선보였으며, 고고장구와 라인댄스, 지루박 댄스,",
+   "publishedAt": 1792655100000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "“느려진 TV, 클로드에게 맡겨볼까”…광고 덜고 속도 높이는 AI 활용법",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216547",
+   "summary": "TV를 켜면 광고와 추천 콘텐츠부터 뜨고 리모컨 반응도 느린 스마트 TV를 AI 코딩 도구로 개선하는 이용자들이 등장했다. 쓰지 않는 기본 앱과 백그라운드 서비스를 끄고 홈 화면을 단순하게 바꿔, 오래된 TV를 다시 쓸 만하게 만드는 방식이다.더버지와 안드로이드 어소리티 등은 최근 개발자 안섭 칸이 '클로드 코드'로 자신의 안드로이드 TV를 정리하고, 다른 이용자도 따라 할 수 있도록 ‘TV 디톡스(TV Detox)’ 프로젝트를 공개했다고 소개했다.AI가 TV에 설치된 앱을 살펴보고 필요한 기능과 불필요한 소프트웨어를 구분한 뒤,",
+   "publishedAt": 1792654450000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1301,105 +1399,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "\"챗GPT로 글 쓴 거 티 나요\"...’AI 말투' 지워주는 교정 도구 뜬다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216480",
-   "summary": "AI로 문서 초안을 쓰는 일은 흔해졌지만, 특유의 번역투와 정형화된 표현은 좀처럼 사라지지 않는다. 최근 이러한 문제를 겨냥한 한국어 교정 도구 'imnotai(im-not-ai)'가 깃허브에서 눈길을 끌고 있다.영어식 사고에 익숙한 대규모언어모델(LLM)과 기존 휴머나이저의 한계를 보완한 도구로 'AI 국부론' 저자이자 대통령직속 디지털플랫폼정부위원회 AI플랫폼혁신국장을 지낸 이승현 알파카랩 대표가 개발했다.imnotai는 출시 4개월 만에 누적 실행 2만4000여건을 달성했고, 최근 2주간 다운로드 1만7000여건을 기록하며 꾸",
-   "publishedAt": 1792651617000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "트럼프 \"데이터센터 건설 기업, 지역사회에 '배당금' 지급해야\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216535",
-   "summary": "도널드 트럼프 미국 대통령이 데이터센터 건설 기업에 지역사회와 경제적 이익을 공유하라고 촉구했다. AI 산업 성장에 필요한 데이터센터가 막대한 전력과 물을 소비하면서 주민 반발이 커지자, 지역 주민에게 직접적인 경제적 혜택을 제공해 사업에 대한 지지를 확보해야 한다는 주장이다.트럼프 대통령은 21일(현지시간) 트루스 소셜에 올린 글에서 데이터센터 사업자들이 시설이 들어서는 지역사회와 재정적 합의를 맺어야 한다고 밝혔다.그는 \"특정 지역에서 매우 인기가 없었던 데이터센터도 재정적 합의가 이뤄지면 엄청난 인기를 얻게 되는 것을 지켜봤다",
-   "publishedAt": 1792651107000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "Linux 7.3",
-   "url": "https://lwn.net/Articles/1101143/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50149392",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 631,
-   "comments": 294,
-   "publishedAt": 1792394637000,
-   "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "또 다른 유행병: 벤조디아제핀을 끊으려는 시도",
-   "url": "https://news.hada.io/topic?id=35750",
-   "summary": "벤조디아제핀 장기 복용 후 중단 은 일부 환자에게 수개월에서 수년간 이어지는 금단을 남길 수 있음. 19년간 Klonopin을 복용한 Brad Phillips는 빠른 감량으로 심각한 증상을 겪었고, 이후 27개월에 걸쳐 다시 감량했지만 중단 후에도 일상 기능을 회복하지 못함 약물 배출...",
-   "publishedAt": 1792575438000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "위플로, 드론 검사·정비용 AI 솔루션 '플로원 AI 스위트' 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216531",
-   "summary": "드론 출하 전과 비행 전에 기체 이상을 점검하는 드론 전용 AI 솔루션이 나왔다.위플로(대표 김의정)는 드론 검사·정비용 AI 소프트웨어 '플로원 AI 스위트'를 출시했다고 22일 밝혔다.플로원 AI 스위트는 국토교통부 드론배송 실증사업 등 국내외 292곳에서 축적한 104만건 이상의 점검 데이터를 바탕으로 개발됐다.자체 검사 장비가 측정한 드론의 모터·센서 신호 등을 AI로 분석해 기체 이상 여부를 판정한다. 고정된 기준값만 보는 기존 방식으로는 놓치기 쉬운 이상 패턴을 찾아내고, 합격·불합격 결과와 이상 부품을 대시보드로 보여주",
-   "publishedAt": 1792650876000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "세계 최대 월마트도 AI 에이전트 쇼핑 본격화…전용 플랫폼까지 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216536",
-   "summary": "세계 최대 유통업체 월마트가 AI 에이전트의 대리 구매를 지원하는 전용 플랫폼을 공개했다. 외부 AI의 쇼핑을 허용하는 데서 나아가 구매 권한과 지출 한도, 반품 규칙까지 마련하며 에이전트 쇼핑이 주요 구매 방식으로 자리 잡을 것에 대비하고 있다.월마트는 21일(현지시간) 공식 발표를 통해 ‘월마트 에이전트 게이트웨이’와 ‘에이전트 프로필’을 도입한다고 밝혔다. 월마트와 창고형 할인점 샘스클럽에서 고객이 선택한 AI 에이전트로 상품을 검색하고 구매할 수 있도록 지원한다.회사는 “AI 에이전트가 점차 보편화하는 가운데, 쇼핑이 어떻게",
-   "publishedAt": 1792649711000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-   "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-   "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-   "publishedAt": 1792591200000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.4,
    "hot": false
   }
  ]
