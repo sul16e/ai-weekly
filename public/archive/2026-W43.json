@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792672740354,
+ "updatedAt": 1792676398978,
  "week": "2026-W43",
  "items": [
   {
@@ -9,11 +9,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 439,
-   "comments": 400,
+   "engagement": 457,
+   "comments": 424,
    "publishedAt": 1792610041000,
    "isAI": true,
-   "score": 55.3,
+   "score": 55.1,
+   "hot": true
+  },
+  {
+   "title": "What FDE means at OpenAI",
+   "url": "https://openai.com/index/forward-deployed-engineering-means",
+   "summary": "What forward deployed engineering means at OpenAI",
+   "publishedAt": 1792648800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 53.5,
+   "hot": true
+  },
+  {
+   "title": "OpenAI CLI",
+   "url": "https://github.com/openai/openai-cli",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50191507",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 171,
+   "comments": 85,
+   "publishedAt": 1792646591000,
+   "isAI": true,
+   "score": 52.4,
    "hot": true
   },
   {
@@ -23,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 321,
+   "engagement": 322,
    "comments": 100,
    "publishedAt": 1792610455000,
    "isAI": true,
-   "score": 52.9,
+   "score": 52.4,
    "hot": true
   },
   {
@@ -38,38 +66,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 442,
-   "comments": 181,
+   "comments": 183,
    "publishedAt": 1792590199000,
    "isAI": true,
-   "score": 52.6,
-   "hot": true
-  },
-  {
-   "title": "OpenAI CLI",
-   "url": "https://github.com/openai/openai-cli",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50191507",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 160,
-   "comments": 82,
-   "publishedAt": 1792646591000,
-   "isAI": true,
-   "score": 52.4,
-   "hot": true
-  },
-  {
-   "title": "Today's PHP security release, and how we're strengthening security",
-   "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50182987",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 759,
-   "comments": 374,
-   "publishedAt": 1792597736000,
-   "isAI": false,
-   "score": 51.3,
+   "score": 52.1,
    "hot": true
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 2324,
+   "engagement": 2325,
    "comments": 886,
    "publishedAt": 1792487334000,
    "isAI": true,
-   "score": 51.3,
+   "score": 51,
    "hot": false
   },
   {
@@ -93,11 +93,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 503,
-   "comments": 293,
+   "engagement": 522,
+   "comments": 301,
    "publishedAt": 1792619883000,
    "isAI": false,
-   "score": 51.1,
+   "score": 50.9,
+   "hot": true
+  },
+  {
+   "title": "Today's PHP security release, and how we're strengthening security",
+   "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50182987",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 767,
+   "comments": 378,
+   "publishedAt": 1792597736000,
+   "isAI": false,
+   "score": 50.9,
    "hot": true
   },
   {
@@ -107,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 598,
-   "comments": 342,
+   "engagement": 611,
+   "comments": 346,
    "publishedAt": 1792604713000,
    "isAI": false,
-   "score": 50.4,
+   "score": 50.1,
    "hot": true
   },
   {
@@ -121,12 +135,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 304,
-   "comments": 126,
+   "engagement": 309,
+   "comments": 132,
    "publishedAt": 1792587191000,
    "isAI": true,
-   "score": 49.3,
-   "hot": true
+   "score": 49,
+   "hot": false
   },
   {
    "title": "Broad access through consistent standards",
@@ -139,7 +153,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.9,
    "hot": false
   },
   {
@@ -149,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1530,
+   "engagement": 1532,
    "comments": 655,
    "publishedAt": 1792527350000,
    "isAI": false,
-   "score": 47.8,
+   "score": 47.4,
    "hot": false
   },
   {
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": false
   },
   {
@@ -191,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 332,
-   "comments": 195,
+   "engagement": 341,
+   "comments": 201,
    "publishedAt": 1792609917000,
    "isAI": false,
-   "score": 46.4,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -223,7 +237,21 @@
    "comments": 25,
    "publishedAt": 1792610061000,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.8,
+   "hot": false
+  },
+  {
+   "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+   "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50193804",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 118,
+   "comments": 26,
+   "publishedAt": 1792667557000,
+   "isAI": false,
+   "score": 44.5,
    "hot": false
   },
   {
@@ -233,11 +261,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 147,
-   "comments": 98,
+   "engagement": 150,
+   "comments": 99,
    "publishedAt": 1792589820000,
    "isAI": true,
-   "score": 44.2,
+   "score": 43.9,
    "hot": false
   },
   {
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -275,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 159,
-   "comments": 121,
+   "engagement": 164,
+   "comments": 124,
    "publishedAt": 1792633923000,
    "isAI": false,
-   "score": 43.3,
+   "score": 43.1,
    "hot": true
   },
   {
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -321,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -335,7 +363,21 @@
    "comments": 2,
    "publishedAt": 1792610780000,
    "isAI": false,
-   "score": 42.7,
+   "score": 42.3,
+   "hot": true
+  },
+  {
+   "title": "Switch 2 탈옥하기",
+   "url": "https://news.hada.io/topic?id=35815",
+   "summary": "ns2jb 는 공개 당시 최신 펌웨어인 23.0.1 에서 작동하는 소프트웨어 전용 테더드 탈옥으로, 일반 sysmodule과 내장 fs sysmodule 권한으로 임의의 네이티브 코드를 실행함 초기 진입점은 Switch 1 게임 SmileBASIC 의 인터프리터 취약...",
+   "publishedAt": 1792676306000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 42,
    "hot": true
   },
   {
@@ -349,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -363,8 +405,22 @@
    "comments": 94,
    "publishedAt": 1792585888000,
    "isAI": false,
-   "score": 42,
+   "score": 41.6,
    "hot": false
+  },
+  {
+   "title": "Airbnb, 게스트에게 설거지와 쓰레기 배출 요구 금지",
+   "url": "https://news.hada.io/topic?id=35814",
+   "summary": "Airbnb가 상당한 시간이나 노력이 들거나 통상 청소 담당자가 수행하는 작업 을 게스트에게 요구하지 못하도록 숙소 이용 규정을 개정함 2026년 11월 20일 이후 예약분 부터 적용되며, 설거지와 식기 정리, 침대 시트 벗기기, 세탁 시작, 숙소 밖으로 쓰레기를 가져다...",
+   "publishedAt": 1792672756000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
   },
   {
    "title": "CVE-2026-111943: 침해된 중간 인증 기관",
@@ -377,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 42,
+   "score": 41.5,
    "hot": true
   },
   {
@@ -391,7 +447,7 @@
    "comments": 217,
    "publishedAt": 1792452138000,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -405,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -419,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -433,7 +489,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -447,7 +503,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -461,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -475,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -489,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -503,7 +559,49 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
+   "score": 40,
+   "hot": false
+  },
+  {
+   "title": "Nirva raises $33M for a pendant that only listens to you",
+   "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+   "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+   "publishedAt": 1792675612000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.9,
+   "hot": false
+  },
+  {
+   "title": "DeepSeek reportedly raises $15B days after US restrictions",
+   "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+   "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+   "publishedAt": 1792674673000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.8,
+   "hot": false
+  },
+  {
+   "title": "Using LLM for confidence scoring is a bad idea",
+   "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50176082",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 130,
+   "comments": 78,
+   "publishedAt": 1792556871000,
+   "isAI": true,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -517,7 +615,7 @@
    "comments": 87,
    "publishedAt": 1792553803000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -531,21 +629,7 @@
    "comments": 95,
    "publishedAt": 1792526986000,
    "isAI": true,
-   "score": 39.5,
-   "hot": false
-  },
-  {
-   "title": "Using LLM for confidence scoring is a bad idea",
-   "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50176082",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 122,
-   "comments": 66,
-   "publishedAt": 1792556871000,
-   "isAI": true,
-   "score": 39.4,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -559,7 +643,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": false
   },
   {
@@ -569,11 +653,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 602,
+   "engagement": 603,
    "comments": 294,
    "publishedAt": 1792498648000,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -587,7 +671,7 @@
    "comments": 26,
    "publishedAt": 1792617179000,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -601,22 +685,8 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false
-  },
-  {
-   "title": "Node.js 2026년 10월 21일 보안패치 공개",
-   "url": "https://news.hada.io/topic?id=35798",
-   "summary": "개요 총 10건의 보안 취약점 수정 주요 위험: 원격 코드 실행(RCE) TLS 인증서 호스트명 검증 우회 DNS 이름 처리 오류 파일 접근 권한 검사 우회 대응 방안: 취약한 Node.js 런타임을 수정 버전으로 업데이트 ...",
-   "publishedAt": 1792643224000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.5,
-   "hot": true
   },
   {
    "title": "Meta Muse, 공유한 대화의 개인정보 노출로 공유 기능 중단",
@@ -629,7 +699,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.2,
+   "hot": false
+  },
+  {
+   "title": "The compiler was supposed to end programming too",
+   "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50185045",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 129,
+   "comments": 181,
+   "publishedAt": 1792605651000,
+   "isAI": false,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -643,8 +727,22 @@
    "comments": 543,
    "publishedAt": 1792426606000,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
+  },
+  {
+   "title": "Node.js 2026년 10월 21일 보안패치 공개",
+   "url": "https://news.hada.io/topic?id=35798",
+   "summary": "개요 총 10건의 보안 취약점 수정 주요 위험: 원격 코드 실행(RCE) TLS 인증서 호스트명 검증 우회 DNS 이름 처리 오류 파일 접근 권한 검사 우회 대응 방안: 취약한 Node.js 런타임을 수정 버전으로 업데이트 ...",
+   "publishedAt": 1792643224000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.1,
+   "hot": true
   },
   {
    "title": "존 그루버의 iPhone Duo 리뷰 - 훌륭한 태블릿, 불편한 아이폰",
@@ -657,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -671,22 +769,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
-  },
-  {
-   "title": "The compiler was supposed to end programming too",
-   "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50185045",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 127,
-   "comments": 175,
-   "publishedAt": 1792605651000,
-   "isAI": false,
-   "score": 38.3,
-   "hot": false
   },
   {
    "title": "크래프톤, 자체 개발 30B급 고효율 LLM 'Raon-1 mini' 프리뷰 공개",
@@ -699,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -713,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -727,21 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
-   "hot": true
-  },
-  {
-   "title": "Show GN: php2go - php 를 golang 으로 마이그레이션하는 skills",
-   "url": "https://news.hada.io/topic?id=35791",
-   "summary": "안녕하세요, 오픈소스 커뮤니티 고수다에서 php 를 go 로 전환하는 skill 모음을 공유드립니다. 단순히 PHP 문법을 Go로 번역하는 것이 아니라, 기존 애플리케이션의 기능과 데이터를 보존하면서 유지보수 가능한 Go 코드로 전환하는 것이 목표입니다. 주요 접근 방식은 다음과 같습니다. <li",
-   "publishedAt": 1792639074000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.1,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -755,21 +825,21 @@
    "comments": 229,
    "publishedAt": 1792511306000,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
    "hot": false
   },
   {
-   "title": "mitmproxy, --emudhra 옵션 추가",
-   "url": "https://news.hada.io/topic?id=35790",
-   "summary": "mitmproxy에 손상된 eMudhra 중간 CA 키로 TLS 인증서를 서명 하는 --emudhra 옵션이 추가됨 옵션은 기본적으로 비활성화 되어 있으며, 활성화하면 인증서 저장소의 기본 개인 키와 CA 체인을 내장된 eMudhra 자료로 교체함 EM OV TLS...",
-   "publishedAt": 1792636403000,
+   "title": "Show GN: php2go - php 를 golang 으로 마이그레이션하는 skills",
+   "url": "https://news.hada.io/topic?id=35791",
+   "summary": "안녕하세요, 오픈소스 커뮤니티 고수다에서 php 를 go 로 전환하는 skill 모음을 공유드립니다. 단순히 PHP 문법을 Go로 번역하는 것이 아니라, 기존 애플리케이션의 기능과 데이터를 보존하면서 유지보수 가능한 Go 코드로 전환하는 것이 목표입니다. 주요 접근 방식은 다음과 같습니다. <li",
+   "publishedAt": 1792639074000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -783,8 +853,22 @@
    "comments": 372,
    "publishedAt": 1792406714000,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.5,
    "hot": false
+  },
+  {
+   "title": "mitmproxy, --emudhra 옵션 추가",
+   "url": "https://news.hada.io/topic?id=35790",
+   "summary": "mitmproxy에 손상된 eMudhra 중간 CA 키로 TLS 인증서를 서명 하는 --emudhra 옵션이 추가됨 옵션은 기본적으로 비활성화 되어 있으며, 활성화하면 인증서 저장소의 기본 개인 키와 CA 체인을 내장된 eMudhra 자료로 교체함 EM OV TLS...",
+   "publishedAt": 1792636403000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.4,
+   "hot": true
   },
   {
    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
@@ -797,7 +881,7 @@
    "comments": 89,
    "publishedAt": 1792514424000,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -807,26 +891,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 606,
-   "comments": 742,
+   "engagement": 607,
+   "comments": 744,
    "publishedAt": 1792409074000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.3,
    "hot": false
-  },
-  {
-   "title": "Google의 Rust 스타일 가이드",
-   "url": "https://news.hada.io/topic?id=35789",
-   "summary": "Google은 Rust 코드의 가독성과 유지보수성 , 코드베이스 전반의 일관성을 위해 포맷뿐 아니라 API와 구현 설계까지 규정함 일반적인 Rust 관례를 따르되, 도구를 활용한 대규모 변경(LSC) 이 쉽도록 임포트, 모듈 구성, 매크로 사용 등에 별도 기준을 둠 ...",
-   "publishedAt": 1792633375000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.5,
-   "hot": true
   },
   {
    "title": "Tsrs: A Port of TypeScript to Rust",
@@ -839,35 +909,7 @@
    "comments": 212,
    "publishedAt": 1792502287000,
    "isAI": false,
-   "score": 37.4,
-   "hot": false
-  },
-  {
-   "title": "PingCAP TiDB 데이터 유출",
-   "url": "https://news.hada.io/topic?id=35788",
-   "summary": "침해를 자처한 FulcrumSec 이 TiDB Cloud의 제어 영역, 고객 데이터, 재무 기록, 소스 코드 등 10.6TB를 탈취했다며 1차 공개를 발표함 저장소에 커밋된 클라우드 자격 증명으로 복제 파이프라인을 구성해, 22일 동안 6시간마다 88차례 운영 제어 ...",
-   "publishedAt": 1792633195000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.4,
-   "hot": true
-  },
-  {
-   "title": "2026년 JavaScript 동향",
-   "url": "https://news.hada.io/topic?id=35745",
-   "summary": "네이버 D2에서 2020년 이후 6년 만에 재개한 JavaScript 동향 연재. ECMAScript 표준의 변화부터 TypeScript 7, 서버 런타임, 패키지 공급망 보안, AI 코딩 도구가 생태계에 미친 영향까지 2026년 10월 기준으로 정리한 장문의 분석 공유. 1",
-   "publishedAt": 1792567120000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -881,7 +923,35 @@
    "comments": 127,
    "publishedAt": 1792403972000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37.1,
+   "hot": false
+  },
+  {
+   "title": "Google의 Rust 스타일 가이드",
+   "url": "https://news.hada.io/topic?id=35789",
+   "summary": "Google은 Rust 코드의 가독성과 유지보수성 , 코드베이스 전반의 일관성을 위해 포맷뿐 아니라 API와 구현 설계까지 규정함 일반적인 Rust 관례를 따르되, 도구를 활용한 대규모 변경(LSC) 이 쉽도록 임포트, 모듈 구성, 매크로 사용 등에 별도 기준을 둠 ...",
+   "publishedAt": 1792633375000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.1,
+   "hot": true
+  },
+  {
+   "title": "PingCAP TiDB 데이터 유출",
+   "url": "https://news.hada.io/topic?id=35788",
+   "summary": "침해를 자처한 FulcrumSec 이 TiDB Cloud의 제어 영역, 고객 데이터, 재무 기록, 소스 코드 등 10.6TB를 탈취했다며 1차 공개를 발표함 저장소에 커밋된 클라우드 자격 증명으로 복제 파이프라인을 구성해, 22일 동안 6시간마다 88차례 운영 제어 ...",
+   "publishedAt": 1792633195000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -895,7 +965,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -909,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -923,7 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -937,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -951,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -965,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -973,20 +1043,6 @@
    "url": "https://news.hada.io/topic?id=35777",
    "summary": "GitLab CE/EE에서 비인증 사용자의 서버 임의 코드 실행 으로 이어질 수 있는 CVSS 10.0 취약점을 수정했으며, 자체 관리형 설치의 즉시 업그레이드를 강력히 권고함 핵심 취약점은 특수하게 조작한 정규식을 컴파일할 때 발생하는 정수 오버플로 이며, 최신 계열 외...",
    "publishedAt": 1792625677000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "Meta, 개인정보 보호에 관해 이용자를 속여 250억 달러 제재금 지급 명령",
-   "url": "https://news.hada.io/topic?id=35772",
-   "summary": "뉴멕시코 법원이 개인정보 수집과 보호 방식에 관해 이용자를 속인 Meta에 250억 달러의 민사 제재금 지급을 명령. Cambridge Analytica 사건에서 비롯된 소송으로, Meta는 항소 방침을 밝힘 배심원단은 데이터 보호와 유해 정보 대응에 관한 기만 행위가 주 불공정거래법을...",
-   "publishedAt": 1792622271000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -1007,7 +1063,21 @@
    "comments": 205,
    "publishedAt": 1792491962000,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "Meta, 개인정보 보호에 관해 이용자를 속여 250억 달러 제재금 지급 명령",
+   "url": "https://news.hada.io/topic?id=35772",
+   "summary": "뉴멕시코 법원이 개인정보 수집과 보호 방식에 관해 이용자를 속인 Meta에 250억 달러의 민사 제재금 지급을 명령. Cambridge Analytica 사건에서 비롯된 소송으로, Meta는 항소 방침을 밝힘 배심원단은 데이터 보호와 유해 정보 대응에 관한 기만 행위가 주 불공정거래법을...",
+   "publishedAt": 1792622271000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -1021,7 +1091,7 @@
    "comments": 74,
    "publishedAt": 1792518509000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1035,7 +1105,7 @@
    "comments": 61,
    "publishedAt": 1792423704000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1049,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1059,11 +1129,24 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 423,
+   "engagement": 424,
    "comments": 131,
    "publishedAt": 1792478227000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.3,
+   "hot": false
+  },
+  {
+   "title": "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations",
+   "url": "https://huggingface.co/papers/2610.29997",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 99,
+   "summary": "Despite recent progress in dexterous reference tracking, existing models focus primarily on single-hand manipulation and a limited range of interactions, leaving the bimanual dexterous behaviors common in real life unaddressed. The scarcity of contact-rich bimanual manipulation data and the increase",
+   "publishedAt": 1792526400000,
+   "isAI": true,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1077,7 +1160,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1091,7 +1174,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1105,7 +1188,7 @@
    "comments": 106,
    "publishedAt": 1792551227000,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1119,7 +1202,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1133,7 +1216,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1147,7 +1230,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1161,20 +1244,7 @@
    "comments": 92,
    "publishedAt": 1792430831000,
    "isAI": true,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation",
-   "url": "https://huggingface.co/papers/2610.29989",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 82,
-   "summary": "Autoregressive video diffusion models generate videos chunk by chunk, yet producing plausible continuations does not guarantee that they capture how scenes evolve. Under teacher forcing, strong temporal redundancy may allow local visual continuity to serve as a shortcut for current-chunk denoising, ",
-   "publishedAt": 1792526400000,
-   "isAI": true,
-   "score": 34.2,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1188,21 +1258,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
-   "hot": false
-  },
-  {
-   "title": "Meta says Muse has over 10M users, with shopping a top activity",
-   "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-   "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-   "publishedAt": 1792617259000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1216,7 +1272,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "Meta says Muse has over 10M users, with shopping a top activity",
+   "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+   "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+   "publishedAt": 1792617259000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1230,49 +1300,7 @@
    "comments": 239,
    "publishedAt": 1792356494000,
    "isAI": true,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-   "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-   "publishedAt": 1792614461000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "AI agents are ready to shop. Some retailers are wary.",
-   "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-   "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic",
-   "publishedAt": 1792672200000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "Claude did not invent scorpion antivenom",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-   "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, expert",
-   "publishedAt": 1792671667000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1286,20 +1314,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations",
-   "url": "https://huggingface.co/papers/2610.29997",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 77,
-   "summary": "Despite recent progress in dexterous reference tracking, existing models focus primarily on single-hand manipulation and a limited range of interactions, leaving the bimanual dexterous behaviors common in real life unaddressed. The scarcity of contact-rich bimanual manipulation data and the increase",
-   "publishedAt": 1792526400000,
-   "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1313,7 +1328,21 @@
    "comments": 192,
    "publishedAt": 1792449157000,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+   "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+   "publishedAt": 1792614461000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1327,7 +1356,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1341,7 +1370,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1355,7 +1384,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1369,34 +1398,6 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-   "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-   "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-   "publishedAt": 1792605552000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "8비트의 신뢰, eMudhra의 CA 개인 키가 밀리초 만에 복구됨",
-   "url": "https://news.hada.io/topic?id=35757",
-   "summary": "eMudhra의 중간 인증기관 8개 가 사용한 P-384 개인 키가 모두 한 바이트 값에 불과했으며, 공개 인증서만으로 노트북에서 1초 안에 전부 복구됨 정상적인 P-384 개인 키는 무작위 384비트 값이어야 하지만, 해당 키는 최대 255번의 계산 으로 찾을 수 있었음에도 인...",
-   "publishedAt": 1792585978000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 33,
    "hot": false
   }
