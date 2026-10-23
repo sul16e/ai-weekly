@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792728768598,
+ "updatedAt": 1792732423860,
  "week": "2026-W43",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 329,
-   "comments": 173,
+   "engagement": 343,
+   "comments": 182,
    "publishedAt": 1792691046000,
    "isAI": true,
-   "score": 56.8,
+   "score": 56.6,
    "hot": true
   },
   {
@@ -23,25 +23,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 287,
-   "comments": 341,
+   "engagement": 311,
+   "comments": 350,
    "publishedAt": 1792685280000,
    "isAI": true,
-   "score": 54.7,
+   "score": 54.9,
    "hot": true
   },
   {
-   "title": "Woman faces six years in prison over Cash App account she never opened",
-   "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50194833",
-   "source": "Hacker News",
+   "title": "LLM이 훨씬 더 큰 규모의 소프트웨어 정형 검증을 가능하게 하고 있음",
+   "url": "https://news.hada.io/topic?id=35855",
+   "summary": "Anthropic과 Theorem은 Claude로 오픈소스 라이브러리 123개의 퍼징 진입점 239개를 정형 검증 함. 발견한 버그를 수정한 뒤, 특정 실행 환경과 입력 크기 조건에서 컴파일된 코드가 충돌하지 않음을 증명함 기존 퍼즈 테스트를 명세로 변환 하고 RISC-V 바이너리 수...",
+   "publishedAt": 1792730213000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 570,
-   "comments": 583,
-   "publishedAt": 1792674660000,
-   "isAI": false,
-   "score": 51.9,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
    "hot": true
   },
   {
@@ -52,10 +52,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 549,
-   "comments": 514,
+   "comments": 515,
    "publishedAt": 1792610041000,
    "isAI": true,
-   "score": 49.5,
+   "score": 49.1,
    "hot": false
   },
   {
@@ -65,25 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 353,
-   "comments": 132,
+   "engagement": 363,
+   "comments": 134,
    "publishedAt": 1792682782000,
    "isAI": false,
-   "score": 49.1,
-   "hot": true
-  },
-  {
-   "title": "오픈AI GPT-Rosalind와 Claude의 전갈 독소 바인더, 같은 주에 나온 AI 과학자의 두 장면",
-   "url": "https://news.hada.io/topic?id=35850",
-   "summary": "OpenAI와 Anthropic이 하루 차이로 AI를 활용한 생물학 연구 성과를 발표. OpenAI GPT-Rosalind : AI 에이전트 1,946개를 병렬 실행해 쥐 뇌세포의 대규모 유전자 실험 데이터를 32분 만에 분석. 기존 연구에서 확인된 발견 55개 중 48개를 재발견하거나 더 구체화함",
-   "publishedAt": 1792721916000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 49,
+   "score": 48.8,
    "hot": true
   },
   {
@@ -93,12 +79,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 123,
-   "comments": 72,
+   "engagement": 126,
+   "comments": 74,
    "publishedAt": 1792693696000,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.5,
    "hot": false
+  },
+  {
+   "title": "LLMs are making formal software verification feasible at a much larger scale",
+   "url": "https://www.anthropic.com/research/formal-verification",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50202217",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 221,
+   "comments": 121,
+   "publishedAt": 1792709683000,
+   "isAI": false,
+   "score": 48.3,
+   "hot": true
   },
   {
    "title": "Idealab.ai - 120만 개 이상의 창업 아이디어를 무료로 제공하는 서비스",
@@ -111,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.9,
    "hot": true
   },
   {
@@ -121,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 319,
+   "engagement": 320,
    "comments": 233,
    "publishedAt": 1792683166000,
    "isAI": false,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -139,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -153,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -167,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -181,21 +181,7 @@
    "comments": 110,
    "publishedAt": 1792646591000,
    "isAI": true,
-   "score": 47.7,
-   "hot": true
-  },
-  {
-   "title": "LLMs are making formal software verification feasible at a much larger scale",
-   "url": "https://www.anthropic.com/research/formal-verification",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50202217",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 194,
-   "comments": 105,
-   "publishedAt": 1792709683000,
-   "isAI": false,
-   "score": 47.6,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -205,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 250,
-   "comments": 218,
+   "engagement": 256,
+   "comments": 220,
    "publishedAt": 1792686467000,
    "isAI": false,
-   "score": 46.7,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -223,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -237,8 +223,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.2,
    "hot": true
+  },
+  {
+   "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50163277",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 2333,
+   "comments": 888,
+   "publishedAt": 1792487334000,
+   "isAI": true,
+   "score": 45.9,
+   "hot": false
   },
   {
    "title": "What FDE means at OpenAI",
@@ -251,21 +251,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.3,
-   "hot": false
-  },
-  {
-   "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-   "url": "https://github.com/deepseek-ai/DeepInfer",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50163277",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 2332,
-   "comments": 888,
-   "publishedAt": 1792487334000,
-   "isAI": true,
-   "score": 46.2,
+   "score": 45.9,
    "hot": false
   },
   {
@@ -279,7 +265,7 @@
    "comments": 102,
    "publishedAt": 1792610455000,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.5,
    "hot": false
   },
   {
@@ -289,11 +275,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 447,
+   "engagement": 448,
    "comments": 184,
    "publishedAt": 1792590199000,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.5,
+   "hot": false
+  },
+  {
+   "title": "Security Disclosure",
+   "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50188228",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 590,
+   "comments": 334,
+   "publishedAt": 1792619883000,
+   "isAI": false,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -307,22 +307,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 45.4,
+   "score": 44.9,
    "hot": true
-  },
-  {
-   "title": "Security Disclosure",
-   "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50188228",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 590,
-   "comments": 334,
-   "publishedAt": 1792619883000,
-   "isAI": false,
-   "score": 45.3,
-   "hot": false
   },
   {
    "title": "Today's PHP security release, and how we're strengthening security",
@@ -335,7 +321,7 @@
    "comments": 393,
    "publishedAt": 1792597736000,
    "isAI": false,
-   "score": 45,
+   "score": 44.6,
    "hot": false
   },
   {
@@ -345,11 +331,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 260,
-   "comments": 95,
+   "engagement": 262,
+   "comments": 96,
    "publishedAt": 1792669836000,
    "isAI": false,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -363,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -377,7 +363,7 @@
    "comments": 416,
    "publishedAt": 1792604713000,
    "isAI": false,
-   "score": 44.6,
+   "score": 44.3,
    "hot": false
   },
   {
@@ -391,8 +377,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
@@ -401,11 +387,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 242,
+   "engagement": 244,
    "comments": 87,
    "publishedAt": 1792667557000,
    "isAI": false,
-   "score": 44.1,
+   "score": 43.7,
    "hot": true
   },
   {
@@ -419,7 +405,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -433,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -443,11 +429,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 322,
+   "engagement": 323,
    "comments": 145,
    "publishedAt": 1792587191000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -461,7 +447,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -471,11 +457,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1549,
+   "engagement": 1551,
    "comments": 658,
    "publishedAt": 1792527350000,
    "isAI": false,
-   "score": 42.5,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -489,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -503,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -517,7 +503,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -527,11 +513,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 378,
+   "engagement": 380,
    "comments": 247,
    "publishedAt": 1792609917000,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -545,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -559,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -573,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -587,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -601,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -615,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -629,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -643,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -657,8 +643,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
+  },
+  {
+   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+   "publishedAt": 1792728000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.5,
+   "hot": false
   },
   {
    "title": "Cloudflare, 대한민국 ISMS 인증 취득",
@@ -671,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -685,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -699,7 +699,7 @@
    "comments": 26,
    "publishedAt": 1792610061000,
    "isAI": true,
-   "score": 39.4,
+   "score": 39,
    "hot": false
   },
   {
@@ -713,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -723,11 +723,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 155,
+   "engagement": 156,
    "comments": 104,
    "publishedAt": 1792589820000,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -741,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -755,7 +755,7 @@
    "comments": 137,
    "publishedAt": 1792633923000,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -769,7 +769,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -783,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -797,7 +797,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
+   "hot": false
+  },
+  {
+   "title": "Using LLM for confidence scoring is a bad idea",
+   "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50176082",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 204,
+   "comments": 100,
+   "publishedAt": 1792556871000,
+   "isAI": true,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -811,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -825,22 +839,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
-  },
-  {
-   "title": "Using LLM for confidence scoring is a bad idea",
-   "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50176082",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 203,
-   "comments": 100,
-   "publishedAt": 1792556871000,
-   "isAI": true,
-   "score": 37.8,
-   "hot": false
   },
   {
    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
@@ -853,7 +853,7 @@
    "comments": 218,
    "publishedAt": 1792452138000,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -867,7 +867,7 @@
    "comments": 34,
    "publishedAt": 1792601093000,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -881,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -895,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -909,7 +909,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -923,8 +923,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "패치되지 않은 Linux 커널 취약점 여러 건, 공개 메일링 리스트에 게시",
@@ -937,8 +937,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "DNS 리졸버 Quad9, 프랑스에서 철수 예정",
@@ -951,8 +951,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
@@ -965,7 +965,7 @@
    "comments": 2,
    "publishedAt": 1792610780000,
    "isAI": false,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -979,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -993,7 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -1007,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -1021,7 +1021,7 @@
    "comments": 94,
    "publishedAt": 1792585888000,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -1035,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1049,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -1063,21 +1063,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-   "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-   "publishedAt": 1792694633000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -1091,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1105,7 +1091,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+   "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+   "publishedAt": 1792694633000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1119,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1133,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1147,7 +1147,20 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation",
+   "url": "https://huggingface.co/papers/2610.30926",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 47,
+   "summary": "Cinematic video generation requires both temporal inference from limited inputs (i.e., sparse rather than frame-by-frame guidance) and factor-aware control of character, scene, action, and camera. Multimodal large language models (MLLMs) offer useful priors for both capabilities, but their represent",
+   "publishedAt": 1792644228000,
+   "isAI": true,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1161,7 +1174,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1175,35 +1188,7 @@
    "comments": 96,
    "publishedAt": 1792526986000,
    "isAI": true,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "Uber puts all 30,000 employees on ChatGPT Work",
-   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-   "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-   "publishedAt": 1792684800000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "Using Claude to reduce the attack surface of code",
-   "url": "https://www.anthropic.com/research/attack-surface-reduction",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50175779",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 134,
-   "comments": 89,
-   "publishedAt": 1792553803000,
-   "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1217,7 +1202,7 @@
    "comments": 296,
    "publishedAt": 1792498648000,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1231,14 +1216,14 @@
    "comments": 543,
    "publishedAt": 1792426606000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
-   "title": "Spotify’s current AI bet is about being the music service that agents choose",
-   "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-   "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-   "publishedAt": 1792681438000,
+   "title": "Uber puts all 30,000 employees on ChatGPT Work",
+   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+   "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+   "publishedAt": 1792684800000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
@@ -1246,6 +1231,20 @@
    "baseWeight": 32,
    "isAI": true,
    "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "Using Claude to reduce the attack surface of code",
+   "url": "https://www.anthropic.com/research/attack-surface-reduction",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50175779",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 135,
+   "comments": 89,
+   "publishedAt": 1792553803000,
+   "isAI": true,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1259,7 +1258,21 @@
    "comments": 372,
    "publishedAt": 1792406714000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
+   "hot": false
+  },
+  {
+   "title": "Spotify’s current AI bet is about being the music service that agents choose",
+   "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+   "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+   "publishedAt": 1792681438000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1273,21 +1286,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
-   "hot": false
-  },
-  {
-   "title": "Show GN: Rollipop: 현대적인 React Native 빌드 도구",
-   "url": "https://news.hada.io/topic?id=35807",
-   "summary": "React Native에서 Metro를 대체할 수 있는 빌드 도구, Rollipop을 소개합니다. 문서 보러가기: https://rollipop.dev GitHub: https://github.com/rollipop-dev/rollipop Rollipop이란? Ru",
-   "publishedAt": 1792659971000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1301,63 +1300,7 @@
    "comments": 747,
    "publishedAt": 1792409074000,
    "isAI": true,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "Claude Duet app is Anthropic’s bet on agents",
-   "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-   "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-   "publishedAt": 1792677206000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "OCaml로 만드는 유니커널",
-   "url": "https://news.hada.io/topic?id=35806",
-   "summary": "유니커널 은 단일 애플리케이션을 실행에 필요한 최소 운영체제 구성요소와 함께 컴파일한 경량 특화 가상 머신임 애플리케이션과 커널을 분리하는 전통적인 운영체제와 달리, 모든 요소를 단일 격리 이미지 로 묶어 하이퍼바이저에서 직접 실행함 불필요한...",
-   "publishedAt": 1792659750000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "The compiler was supposed to end programming too",
-   "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50185045",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 150,
-   "comments": 197,
-   "publishedAt": 1792605651000,
-   "isAI": false,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-   "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-   "publishedAt": 1792587600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": false,
-   "score": 34.4,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1371,7 +1314,77 @@
    "comments": 127,
    "publishedAt": 1792403972000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "Show GN: Rollipop: 현대적인 React Native 빌드 도구",
+   "url": "https://news.hada.io/topic?id=35807",
+   "summary": "React Native에서 Metro를 대체할 수 있는 빌드 도구, Rollipop을 소개합니다. 문서 보러가기: https://rollipop.dev GitHub: https://github.com/rollipop-dev/rollipop Rollipop이란? Ru",
+   "publishedAt": 1792659971000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "OCaml로 만드는 유니커널",
+   "url": "https://news.hada.io/topic?id=35806",
+   "summary": "유니커널 은 단일 애플리케이션을 실행에 필요한 최소 운영체제 구성요소와 함께 컴파일한 경량 특화 가상 머신임 애플리케이션과 커널을 분리하는 전통적인 운영체제와 달리, 모든 요소를 단일 격리 이미지 로 묶어 하이퍼바이저에서 직접 실행함 불필요한...",
+   "publishedAt": 1792659750000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "The compiler was supposed to end programming too",
+   "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50185045",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 151,
+   "comments": 198,
+   "publishedAt": 1792605651000,
+   "isAI": false,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+   "publishedAt": 1792587600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": false,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "Claude Duet app is Anthropic’s bet on agents",
+   "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+   "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+   "publishedAt": 1792677206000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1385,21 +1398,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "DeepSeek reportedly raises $15B days after US restrictions",
-   "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-   "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-   "publishedAt": 1792674673000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.2,
+   "score": 34,
    "hot": false
   }
  ]
