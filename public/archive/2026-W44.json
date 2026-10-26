@@ -1,5 +1,5 @@
 {
- "updatedAt": 1792999177378,
+ "updatedAt": 1793002823782,
  "week": "2026-W44",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 256,
-   "comments": 276,
+   "engagement": 283,
+   "comments": 285,
    "publishedAt": 1792962691000,
    "isAI": true,
-   "score": 54.9,
+   "score": 55.1,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 213,
-   "comments": 311,
+   "engagement": 216,
+   "comments": 315,
    "publishedAt": 1792945706000,
    "isAI": true,
-   "score": 50.8,
+   "score": 50.4,
    "hot": true
   },
   {
@@ -37,11 +37,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 443,
-   "comments": 217,
+   "engagement": 451,
+   "comments": 222,
    "publishedAt": 1792949455000,
    "isAI": false,
-   "score": 50.5,
+   "score": 50.1,
+   "hot": true
+  },
+  {
+   "title": "Show GN: 미르코드 (Mirr Code) - 자체 모델 기반 한국어 우선 코딩 에이전트",
+   "url": "https://news.hada.io/topic?id=36028",
+   "summary": "안녕하세요. 자체 모델 기반 코딩 에이전트 미르코드 (Mirr Code)를 출시해서 소개드립니다. 미르코드는 터미널에서 사용하는 TUI 기반 AI 코딩 에이전트입니다. 프로젝트의 코드를 탐색하고 파일을 수정하는 등 실제 개발 작업을 맡길 수 있도록 만들고 있습니다. 가장 큰 차이는 Claude나 GPT 같은 외",
+   "publishedAt": 1793000859000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
    "hot": true
   },
   {
@@ -51,13 +65,28 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 515,
-   "comments": 554,
+   "engagement": 520,
+   "comments": 555,
    "publishedAt": 1792883514000,
    "isAI": true,
-   "score": 49.4,
+   "score": 49.1,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "No signs of AI payoff outside the tech sector",
+   "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50224463",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 621,
+   "comments": 655,
+   "publishedAt": 1792871239000,
+   "isAI": true,
+   "score": 48.9,
+   "hot": false,
+   "lastWeekRank": 1
   },
   {
    "title": "Show GN: Code Understanding Coach – AI가 짠 코드, 내가 정말 이해하고 있는지 점검해주는 에이전트 스킬",
@@ -70,23 +99,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.4,
+   "score": 48.9,
    "hot": true
-  },
-  {
-   "title": "No signs of AI payoff outside the tech sector",
-   "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50224463",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 619,
-   "comments": 654,
-   "publishedAt": 1792871239000,
-   "isAI": true,
-   "score": 49.3,
-   "hot": false,
-   "lastWeekRank": 1
   },
   {
    "title": "Show GN: AI 에이전트가 게임을 만들 수 있게 미리 만들어둔 Godot 클라이언트 코어",
@@ -99,7 +113,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -113,7 +127,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -127,9 +141,24 @@
    "comments": 132,
    "publishedAt": 1792892029000,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.4,
    "hot": false,
    "lastWeekRank": 4
+  },
+  {
+   "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+   "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50229587",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 482,
+   "comments": 331,
+   "publishedAt": 1792918840000,
+   "isAI": false,
+   "score": 46.7,
+   "hot": true,
+   "lastWeekRank": 3
   },
   {
    "title": "Pinterest, 사용자 활동에서 장기 목표를 추론하는 LLM 구축",
@@ -142,23 +171,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
-  },
-  {
-   "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-   "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50229587",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 478,
-   "comments": 330,
-   "publishedAt": 1792918840000,
-   "isAI": false,
-   "score": 47.1,
-   "hot": true,
-   "lastWeekRank": 3
   },
   {
    "title": "OpenAI와 Anthropic은 몇 달 만에 LLM 가격을 최대 80% 내렸다. 왜일까?",
@@ -171,7 +185,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -185,7 +199,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -199,7 +213,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 46,
    "hot": true
   },
   {
@@ -213,7 +227,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.4,
+   "score": 45.9,
    "hot": true
   },
   {
@@ -227,8 +241,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.8,
    "hot": true
+  },
+  {
+   "title": "We should be more ambitious with the software we build",
+   "url": "https://danluu.com/ambitious/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50225695",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 789,
+   "comments": 708,
+   "publishedAt": 1792878451000,
+   "isAI": false,
+   "score": 45.6,
+   "hot": false,
+   "lastWeekRank": 5
   },
   {
    "title": "Show GN: Catchtype - 한/영 키 없이 치는 한영 자동 전환 (Mac·Windows·Linux·iPhone·Android)",
@@ -241,23 +270,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": true
-  },
-  {
-   "title": "We should be more ambitious with the software we build",
-   "url": "https://danluu.com/ambitious/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50225695",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 784,
-   "comments": 704,
-   "publishedAt": 1792878451000,
-   "isAI": false,
-   "score": 46,
-   "hot": false,
-   "lastWeekRank": 5
   },
   {
    "title": "Nikon 현미경 영상 공모전 우승작, 과학자들이 AI 흔적 지적한 뒤 수상 취소",
@@ -270,7 +284,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -284,7 +298,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -294,11 +308,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 138,
+   "engagement": 139,
    "comments": 77,
    "publishedAt": 1792921877000,
    "isAI": true,
-   "score": 44.4,
+   "score": 44,
    "hot": false
   },
   {
@@ -312,8 +326,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.3,
-   "hot": true
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
@@ -322,11 +336,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 288,
+   "engagement": 289,
    "comments": 1,
    "publishedAt": 1792924921000,
    "isAI": false,
-   "score": 43.9,
+   "score": 43.5,
    "hot": true,
    "lastWeekRank": 10
   },
@@ -341,8 +355,37 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
+  },
+  {
+   "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+   "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50238739",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 113,
+   "comments": 27,
+   "publishedAt": 1792985345000,
+   "isAI": false,
+   "score": 43,
+   "hot": false
+  },
+  {
+   "title": "The Goose Programming Language",
+   "url": "https://aardappel.github.io/goose/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50224100",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 574,
+   "comments": 357,
+   "publishedAt": 1792868815000,
+   "isAI": false,
+   "score": 42.5,
+   "hot": false,
+   "lastWeekRank": 8
   },
   {
    "title": "fheroes2: Heroes of Might and Magic II 게임 엔진 재구현",
@@ -355,23 +398,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
-   "title": "The Goose Programming Language",
-   "url": "https://aardappel.github.io/goose/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50224100",
+   "title": "Why is AI generated language so hard to understand?",
+   "url": "https://arxiv.org/abs/2610.29162",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50223647",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 574,
-   "comments": 356,
-   "publishedAt": 1792868815000,
-   "isAI": false,
-   "score": 42.8,
+   "engagement": 247,
+   "comments": 199,
+   "publishedAt": 1792865097000,
+   "isAI": true,
+   "score": 42.1,
    "hot": false,
-   "lastWeekRank": 8
+   "lastWeekRank": 9
   },
   {
    "title": "Show GN: 맥의 잠자기 방지·화면 끄기·잠금을 한곳에서 제어하는 도구",
@@ -384,23 +427,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.1,
    "hot": false
-  },
-  {
-   "title": "Why is AI generated language so hard to understand?",
-   "url": "https://arxiv.org/abs/2610.29162",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50223647",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 246,
-   "comments": 198,
-   "publishedAt": 1792865097000,
-   "isAI": true,
-   "score": 42.4,
-   "hot": false,
-   "lastWeekRank": 9
   },
   {
    "title": "연 15만 달러짜리 Looker를 AI가 만든 HTML 대시보드로 대체할 수 있을까?",
@@ -413,8 +441,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false
+  },
+  {
+   "title": "Show HN: TitleArt - 1997년 감성으로 텍스트 만들기",
+   "url": "https://news.hada.io/topic?id=36027",
+   "summary": "TitleArt 는 텍스트 스타일을 고르고 글꼴, 색상, 그림자, 3D 효과 등을 조정할 수 있는 편집 도구임 한 페이지에 여러 TitleArt 를 배치하고, 파일에서 그림을 추가하거나 도형, 스티커, 클립 아트를 넣을 수 있음 텍스트 서식 에서 크기,...",
+   "publishedAt": 1792999887000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
   },
   {
    "title": "애니메이션 영화 한 편을 만드는 데 무엇이 필요할까?",
@@ -427,7 +469,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -441,7 +483,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -455,22 +497,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.2,
    "hot": true
-  },
-  {
-   "title": "Corgi - 여러 AI 코딩 에이전트를 한눈에 관리하는 터미널 도구",
-   "url": "https://news.hada.io/topic?id=35971",
-   "summary": "여러 AI 코딩 에이전트와 터미널을 작업 공간별로 묶고 , 누가 작업 중인지와 어디에 사용자 입력이 필요한지 한눈에 확인하는 터미널 멀티플렉서 Claude Code, Codex, Pi, OpenCode 를 지원하며, 기존 계정으로 새 작업을 시작하거나 이전 대화를 검색해 재개 가능...",
-   "publishedAt": 1792931868000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41.3,
-   "hot": false
   },
   {
    "title": "컨텍스트 엔지니어링의 현주소",
@@ -483,7 +511,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -493,11 +521,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 822,
-   "comments": 614,
+   "engagement": 833,
+   "comments": 619,
    "publishedAt": 1792820997000,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.5,
    "hot": false,
    "lastWeekRank": 18
   },
@@ -512,7 +540,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -526,7 +554,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -540,7 +568,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -554,7 +582,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -568,7 +596,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -582,7 +610,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -596,21 +624,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
-   "hot": true
-  },
-  {
-   "title": "Petal - 동료가 공유한 창을 내 데스크톱 창처럼 쓰는 원격 협업 앱",
-   "url": "https://news.hada.io/topic?id=36003",
-   "summary": "CoScreen 제작진이 만든 오픈소스 원격 협업 앱 으로, 공유받은 창을 내 작업 창 옆에 배치하며 페어 프로그래밍과 코드 리뷰 가능 동료의 코드 에디터와 브라우저가 각각 독립된 데스크톱 창으로 표시 돼, 자유롭게 이동하고 크기 조절 가능 ...",
-   "publishedAt": 1792974602000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.1,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -624,8 +638,22 @@
    "comments": 3,
    "publishedAt": 1792933882000,
    "isAI": false,
-   "score": 39,
+   "score": 38.7,
    "hot": false
+  },
+  {
+   "title": "Petal - 동료가 공유한 창을 내 데스크톱 창처럼 쓰는 원격 협업 앱",
+   "url": "https://news.hada.io/topic?id=36003",
+   "summary": "CoScreen 제작진이 만든 오픈소스 원격 협업 앱 으로, 공유받은 창을 내 작업 창 옆에 배치하며 페어 프로그래밍과 코드 리뷰 가능 동료의 코드 에디터와 브라우저가 각각 독립된 데스크톱 창으로 표시 돼, 자유롭게 이동하고 크기 조절 가능 ...",
+   "publishedAt": 1792974602000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.7,
+   "hot": true
   },
   {
    "title": "POSIX wordexp(3)는 위험함",
@@ -638,7 +666,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -652,7 +680,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -662,11 +690,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1107,
-   "comments": 723,
+   "engagement": 1109,
+   "comments": 725,
    "publishedAt": 1792772510000,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false,
    "lastWeekRank": 16
   },
@@ -681,7 +709,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -695,7 +723,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -709,8 +737,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
+  },
+  {
+   "title": "Neural chip decodes interactions between brain regions",
+   "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50222525",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 138,
+   "comments": 53,
+   "publishedAt": 1792857437000,
+   "isAI": true,
+   "score": 37.6,
+   "hot": false,
+   "lastWeekRank": 22
   },
   {
    "title": "2026년에 Gopher로 블로그를 만드는 이유",
@@ -723,23 +766,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
-  },
-  {
-   "title": "Neural chip decodes interactions between brain regions",
-   "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50222525",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 138,
-   "comments": 52,
-   "publishedAt": 1792857437000,
-   "isAI": true,
-   "score": 37.9,
-   "hot": false,
-   "lastWeekRank": 22
   },
   {
    "title": "온라인 검열이 인디 웹코믹을 짓누르고 있다",
@@ -752,7 +780,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.5,
    "hot": true
   },
   {
@@ -766,7 +794,7 @@
    "comments": 220,
    "publishedAt": 1792857986000,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": false,
    "lastWeekRank": 17
   },
@@ -781,7 +809,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -791,13 +819,28 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 180,
+   "engagement": 181,
    "comments": 139,
    "publishedAt": 1792894715000,
    "isAI": false,
-   "score": 37.3,
+   "score": 37,
    "hot": false,
    "lastWeekRank": 21
+  },
+  {
+   "title": "I don't understand quantum physics (2018)",
+   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50219666",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 378,
+   "comments": 312,
+   "publishedAt": 1792835606000,
+   "isAI": false,
+   "score": 36.9,
+   "hot": false,
+   "lastWeekRank": 24
   },
   {
    "title": "오리건 경찰, 경찰관 한 명의 기록 공개에 지역 언론사에 250만 달러 청구",
@@ -810,8 +853,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "검열된 인터넷을 받아들이지 않겠다. FOSDEM 27에서 함께하자",
@@ -824,23 +867,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
-  },
-  {
-   "title": "I don't understand quantum physics (2018)",
-   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50219666",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 378,
-   "comments": 311,
-   "publishedAt": 1792835606000,
-   "isAI": false,
-   "score": 37.1,
-   "hot": false,
-   "lastWeekRank": 24
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
@@ -849,11 +877,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 394,
-   "comments": 211,
+   "engagement": 395,
+   "comments": 212,
    "publishedAt": 1792829199000,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -867,7 +895,7 @@
    "comments": 273,
    "publishedAt": 1792758527000,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.6,
    "hot": false,
    "lastWeekRank": 31
   },
@@ -882,7 +910,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -896,7 +924,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -906,13 +934,28 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 339,
+   "engagement": 340,
    "comments": 80,
    "publishedAt": 1792835907000,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false,
    "lastWeekRank": 33
+  },
+  {
+   "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+   "url": "https://news.ycombinator.com/item?id=50200997",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50200997",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 672,
+   "comments": 744,
+   "publishedAt": 1792703035000,
+   "isAI": true,
+   "score": 36,
+   "hot": false,
+   "lastWeekRank": 38
   },
   {
    "title": "뇌 영역 간 상호작용을 해독하는 신경 칩",
@@ -925,23 +968,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 36,
    "hot": false
-  },
-  {
-   "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-   "url": "https://news.ycombinator.com/item?id=50200997",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50200997",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 671,
-   "comments": 744,
-   "publishedAt": 1792703035000,
-   "isAI": true,
-   "score": 36.2,
-   "hot": false,
-   "lastWeekRank": 38
   },
   {
    "title": "Google illegally cut down 250K trees in Finland for data center",
@@ -950,11 +978,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 259,
+   "engagement": 260,
    "comments": 208,
    "publishedAt": 1792852714000,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false,
    "lastWeekRank": 28
   },
@@ -969,7 +997,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -983,7 +1011,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -997,7 +1025,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1011,7 +1039,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1025,23 +1053,9 @@
    "comments": 124,
    "publishedAt": 1792755594000,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.2,
    "hot": false,
    "lastWeekRank": 41
-  },
-  {
-   "title": "삼성 TV, 몇 초마다 화면을 분석해 실행 중인 게임 식별 시도",
-   "url": "https://news.hada.io/topic?id=35974",
-   "summary": "TensorFlow Lite 모델 이 몇 초마다 960×540 이미지를 처리해 사용자가 어떤 게임을 하는지 알아내려 시도하는 것으로 확인됨 모델 파일 이름은 alex.tflite 이며, INT8 양자화를 적용한 AlexNet으로 torchvision.models.alexnet 을 따르는...",
-   "publishedAt": 1792938976000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.4,
-   "hot": false
   },
   {
    "title": "Every AI model has the same \"controversial\" take on humans",
@@ -1054,9 +1068,23 @@
    "comments": 638,
    "publishedAt": 1792685280000,
    "isAI": true,
-   "score": 35.1,
+   "score": 35,
    "hot": false,
    "lastWeekRank": 47
+  },
+  {
+   "title": "삼성 TV, 몇 초마다 화면을 분석해 실행 중인 게임 식별 시도",
+   "url": "https://news.hada.io/topic?id=35974",
+   "summary": "TensorFlow Lite 모델 이 몇 초마다 960×540 이미지를 처리해 사용자가 어떤 게임을 하는지 알아내려 시도하는 것으로 확인됨 모델 파일 이름은 alex.tflite 이며, INT8 양자화를 적용한 AlexNet으로 torchvision.models.alexnet 을 따르는...",
+   "publishedAt": 1792938976000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35,
+   "hot": false
   },
   {
    "title": "Bbtree: 가장 빠른 정렬 맵",
@@ -1069,7 +1097,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.7,
    "hot": false,
    "lastWeekRank": 29
   },
@@ -1084,23 +1112,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "PHP Foundation, 상근 직원 1명에 자금 부족 시달려… 사무총장이 밝혀",
-   "url": "https://news.hada.io/topic?id=35970",
-   "summary": "PHP의 심각한 취약점 2건 발견으로 전 세계 웹사이트가 보안 대응에 나섰지만, 이를 지원하는 비영리 재단은 극히 제한된 예산과 인력으로 운영되고 있음 PHP Foundation 의 상근 직원은 사무총장 1명이며, 계약 인력 14명도 대부분 시간제로 일함 재단은 ...",
-   "publishedAt": 1792931688000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 34.7,
-   "hot": false,
-   "lastWeekRank": 32
+   "hot": false
   },
   {
    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
@@ -1113,7 +1126,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1127,9 +1140,23 @@
    "comments": 218,
    "publishedAt": 1792691046000,
    "isAI": true,
-   "score": 34.1,
+   "score": 34,
    "hot": false,
    "lastWeekRank": 52
+  },
+  {
+   "title": "로고 생성 넘어 SVG 편집 파일로...이디오그램, 벡터 AI로 디자인 실무 공략",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216679",
+   "summary": "AI 이미지 생성 경쟁이 보기 좋은 그림을 만드는 단계에서 실제 디자인 작업에 활용할 수 있는 파일을 만드는 단계로 확장되고 있다. 로고나 일러스트를 생성하는 데 그치지 않고, 디자이너가 색상과 형태를 직접 수정할 수 있는 벡터 파일까지 제공하는 것이다. 이디오그램(Ideogram)은 23일(현지시간) 텍스트로 편집 가능한 그래픽을 만들고 기존 이미지도 벡터로 변환하는 전용 AI 모델 ‘이디오그램 벡터(Ideogram Vector)’를 공개했다.이디오그램 벡터는 사용자가 원하는 디자인을 글로 설명하면 SVG 파일을 생성한다. 기존",
+   "publishedAt": 1793001702000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
   },
   {
    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
@@ -1142,9 +1169,79 @@
    "comments": 892,
    "publishedAt": 1792487334000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.7,
    "hot": false,
    "lastWeekRank": 63
+  },
+  {
+   "title": "범죄 예측 AI가 경찰의 편견까지 학습...집중 단속이 부르는 '차별의 악순환'",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216653",
+   "summary": "AI가 범죄 발생 가능성이 높은 지역을 예측해 경찰 순찰에 활용되는 가운데, 과거 경찰의 편향된 단속 기록이 AI에 학습돼 특정 지역과 소수집단에 대한 차별을 키울 수 있다는 우려가 제기됐다. AI가 범죄를 예측하는 데 그치지 않고 경찰의 단속 패턴까지 되풀이하면서 기존의 편견을 강화하는 악순환이 발생할 수 있다는 지적이다.24일(현지시간) BBC에 따르면, 영국 과학저술가협회(ABSW)가 선정한 '2026년 젊은 과학 작가상' 수상작은 AI 기반 치안 시스템의 이 같은 문제를 조명했다.영국의 16세 학생 애드리언 드레지는 수상작에",
+   "publishedAt": 1793000340000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "경북, 퓨리오사AI와 지역 AI 반도체 산업 생태계 조성 나서",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216678",
+   "summary": "경상북도가 국산 AI 반도체의 산업현장 실증과 지역 AI 산업 생태계 조성에 나선다.경북도는 26일 서울 퓨리오사AI 본사에서 경산시, 퓨리오사AI, 경북IT융합산업기술원 등과 ‘경북 인공지능 반도체 실증 및 산업 생태계 조성 업무협약(MOU)’을 체결했다.이번 협약을 통해 경북IT융합산업기술원 초거대 AI 클라우드팜에 구축된 공공형 GPU 클러스터와 국산 AI반도체를 결합한 실증 환경을 기반으로 국산 AI반도체의 현장 활용성을 검증하고, 지역기업이 활용할 수 있는 실증 거점 조성이 추진된다.협약기관들은 GPU와 NPU(신경망 처리",
+   "publishedAt": 1793000100000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "엘비스 노래 274곡 무단 학습... 앤트로픽, 540억원대 저작권 소송 피소",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216650",
+   "summary": "미국 팝의 전설 엘비스 프레슬리의 음악 권리자들이 AI 기업 앤트로픽을 상대로 저작권 침해 소송을 제기했다. 앤트로픽이 허가 없이 노래 274곡을 AI 모델 학습에 활용하고, 저작권을 침해하는 결과물까지 생성했다는 주장이다. 원고 측은 4100만달러(약 540억원)가 넘는 손해배상과 무단 복제본 폐기를 요구했다.뉴욕타임스(NYT)와 NBC뉴스 등 외신은 23일(현지시간) 엘비스 프레슬리의 지식재산권을 관리하는 어센틱 브랜즈 그룹(Authentic Brands Group)과 음악 출판사, 신탁 및 개인 권리자들이 앤트로픽을 상대로 저",
+   "publishedAt": 1792999645000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "제논, 기업용 AI 가드레일 솔루션 '젠가드' 출시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216665",
+   "summary": "제논(대표 고석태)은 생성 AI 서비스의 보안 위협에 대응하고 기업별 보안 정책을 관리하는 AI 가드레일 솔루션 '젠가드'를 출시했다고 26일 밝혔다.자체 생성 AI 플랫폼 '제노스'의 가드레일 기능을 운영한 경험을 바탕으로 독립 솔루션을 개발했다.젠가드는 모델 재학습 없이 자연어만으로 서비스별 맞춤 정책을 설정하는 것이 특징이다. 금융 서비스의 경우 '개별 종목 추천은 차단한다'는 문장을 입력하면 해당 기준에 따라 AI의 요청과 응답을 판정해 통제한다.기업이 새로 설정한 정책은 실제 적용 전 관찰 모드에서 차단 결과와 업무 영향을",
+   "publishedAt": 1792999306000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "중국 AI 컴퓨팅 내년 두 배로…65%는 미국산 칩에 의존",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216673",
+   "summary": "중국이 이용할 수 있는 AI 컴퓨팅 자원이 내년 말까지 두 배 가까이 늘어나지만, 전체의 약 65%는 미국 기업이 설계한 칩에 의존할 것이라는 전망이 나왔다. 중국 내 반도체 생산뿐 아니라 해외 데이터센터의 미국산 GPU를 빌려 쓰는 방식이 연산 자원 확보의 핵심 통로로 꼽혔다.미국 싱크탱크 진보연구소(IFP)는 지난 19일(현지시간) 발표한 보고서에서 중국의 AI 컴퓨팅 자원이 올해 말 'H100' 460만개 상당에서 내년 말 880만개 상당으로 늘어날 것으로 추산했다. 엔비디아 H100의 성능을 기준으로 서로 다른 칩의 연산 능",
+   "publishedAt": 1792999217000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
   },
   {
    "title": "영국, '세계 최초' AI 생물보안 연구소 설립...1770억 투자",
@@ -1157,7 +1254,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1171,7 +1268,7 @@
    "comments": 100,
    "publishedAt": 1792813434000,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 48
   },
@@ -1182,27 +1279,13 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 390,
+   "engagement": 391,
    "comments": 201,
    "publishedAt": 1792784055000,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 50
-  },
-  {
-   "title": "알트먼 “수학계, AI에 ‘우린 끝났다’ 절망하다 닷새 만에 수용”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216670",
-   "summary": "샘 알트먼 오픈AI CEO가 AI의 수학 연구 성과에 충격을 받은 수학자들이 불과 며칠 만에 기술을 받아들이고 자신의 역할을 새롭게 찾기 시작했다고 말했다. AI가 발견을 주도하더라도 연구할 문제를 정하고 결과를 이해·설명하는 일은 인간에게 남는다며, 다른 직업에서도 비슷한 변화가 일어날 것으로 내다봤다.알트먼 CEO는 21일(현지시간) 공개된 스탠퍼드대학교 경영대학원(GSB) 대담에서 수학계의 반응을 예로 들어 AI에 따른 직업 변화를 설명했다. 그는 자신이 지켜보고 전해 들은 반응을 불신과 절망, 분노를 거쳐 적응으로 향하는 과",
-   "publishedAt": 1792996106000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
   },
   {
    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -1215,9 +1298,23 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 51
+  },
+  {
+   "title": "알트먼 “수학계, AI에 ‘우린 끝났다’ 절망하다 닷새 만에 수용”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216670",
+   "summary": "샘 알트먼 오픈AI CEO가 AI의 수학 연구 성과에 충격을 받은 수학자들이 불과 며칠 만에 기술을 받아들이고 자신의 역할을 새롭게 찾기 시작했다고 말했다. AI가 발견을 주도하더라도 연구할 문제를 정하고 결과를 이해·설명하는 일은 인간에게 남는다며, 다른 직업에서도 비슷한 변화가 일어날 것으로 내다봤다.알트먼 CEO는 21일(현지시간) 공개된 스탠퍼드대학교 경영대학원(GSB) 대담에서 수학계의 반응을 예로 들어 AI에 따른 직업 변화를 설명했다. 그는 자신이 지켜보고 전해 들은 반응을 불신과 절망, 분노를 거쳐 적응으로 향하는 과",
+   "publishedAt": 1792996106000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
+   "hot": false
   },
   {
    "title": "The hottest AI wearables and gadgets you should know about",
@@ -1230,7 +1327,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false,
    "lastWeekRank": 39
   },
@@ -1245,7 +1342,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1259,7 +1356,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1273,7 +1370,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1287,7 +1384,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1301,7 +1398,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1315,21 +1412,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "엔비디아, GPU당 연간 2000달러 SW 구독제 구상...생태계 '락인' 가속",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216646",
-   "summary": "엔비디아가 AI 에이전트 구동에 필요한 소프트웨어를 GPU당 연간 2000달러(약 264만원)에 제공하는 구상을 밝혔다. 하드웨어 판매에 집중해 온 사업 구조를 구독형 소프트웨어로 확장해 매출을 확보하려는 전략이다. 보안과 접근 권한 관리, 인프라 운영 등 기업용 AI 에이전트에 필요한 기능을 앞세워 고객의 엔비디아 생태계 의존도를 높이려는 움직임으로 풀이된다.젠슨 황 엔비디아 CEO는 지난 22일(현지시간) 독일 베를린에서 열린 GTC 행사에서 소프트웨어 라이선스 사업의 성장 가능성을 언급했다. 그는 \"소프트웨어 라이선스는 우리",
-   "publishedAt": 1792987010000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1343,95 +1426,9 @@
    "comments": 46,
    "publishedAt": 1792784798000,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.4,
    "hot": false,
    "lastWeekRank": 56
-  },
-  {
-   "title": "스페이스X, 53조 부채로 GPU 확보...\"네오클라우드는 도산 위기\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216640",
-   "summary": "스페이스X가 AI 연산에 필요한 GPU를 확보하기 위해 400억달러(약 53조원) 규모의 부채 조달을 마무리했다. 일론 머스크 CEO는 스타링크 위성 인터넷과 로켓 발사 사업에서 창출하는 수익, 탄탄한 신용도가 대규모 자금 조달의 기반이라고 강조했다. 동시에 AI 데이터센터 외에 안정적인 수익원을 확보하지 못한 네오클라우드 기업들은 대규모 도산과 구조조정을 피하기 어려울 것이라고 전망했다.머스크는 25일(현지시간) X를 통해 \"스페이스X가 400억달러 규모의 부채 조달을 마무리했다\"고 밝혔다. 투자적격 등급의 신용도와 스타링크 및",
-   "publishedAt": 1792985062000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 한국 스타트업 대상 '모델 마스터즈' 개최...11개사 참여",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216642",
-   "summary": "오픈AI는 국내 스타트업의 AI 서비스 개발을 지원하는 '오픈AI 모델 마스터즈'를 개최했다고 26일 밝혔다.모델 마스터즈는 스타트업이 AI 활용 아이디어를 실제 제품과 기능으로 구현하도록 지원하는 프로그램으로 지난 23일 오픈AI 서울사무소에서 열렸다.이번 행사에는 11개 기업이 참여해 오픈AI 모델로 개발한 서비스를 시연하고 개발 과정의 과제와 해결 방법을 공유했다. 오픈AI는 참가 기업에 응용프로그래밍인터페이스(API) 크레딧을 지원했다.1위는 전문 영상 편집자용 AI 편집 솔루션 '셀렉츠'를 개발하는 컷백이 차지했다. 컷백은",
-   "publishedAt": 1792984333000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "Securing our frontier model training environment",
-   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-   "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-   "publishedAt": 1792749600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 32.2,
-   "hot": false,
-   "lastWeekRank": 60
-  },
-  {
-   "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 34,
-   "publishedAt": 1792896678000,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false,
-   "lastWeekRank": 54
-  },
-  {
-   "title": "[AI리더의 서가] AI 자율학습 AI 에이전트 개발 입문",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216577",
-   "summary": "AI 자율학습 AI 에이전트 개발 입문박경민 | 길벗2026년 7월 1일추천이유이 책은 LLM의 기초부터 AI 에이전트까지 단계적으로 설명하며 OpenAI API를 활용한 실습을 통해 핵심 기술을 직접 구현합니다. 독자는 프롬프트 엔지니어링, RAG 파이프라인, Tool Use, Function Calling 등을 배우고 배포 및 운영까지 전체 개발 과정을 경험할 수 있습니다.상세보기 길벗이 지난 7월 1일 펴낸 『AI 자율학습 AI 에이전트 개발 입문』(박경민 지음)은 제목에 '입문'을 달았지만 끝나는 지점이 여느 입문서와 다르다",
-   "publishedAt": 1792972800000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "Claude Duet",
-   "url": "https://claude.com/product/claude-duet",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50186037",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 567,
-   "comments": 534,
-   "publishedAt": 1792610041000,
-   "isAI": true,
-   "score": 31.4,
-   "hot": false,
-   "lastWeekRank": 72
   }
  ]
 }
