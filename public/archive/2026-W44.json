@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793139561335,
+ "updatedAt": 1793143219897,
  "week": "2026-W44",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 609,
-   "comments": 597,
+   "engagement": 611,
+   "comments": 605,
    "publishedAt": 1793099294000,
    "isAI": true,
-   "score": 61.6,
+   "score": 61,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 377,
-   "comments": 215,
+   "engagement": 416,
+   "comments": 235,
    "publishedAt": 1793114906000,
    "isAI": true,
-   "score": 60.2,
+   "score": 60.4,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 307,
-   "comments": 234,
+   "engagement": 324,
+   "comments": 250,
    "publishedAt": 1793119215000,
    "isAI": true,
-   "score": 59.1,
+   "score": 58.9,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 409,
-   "comments": 187,
+   "engagement": 428,
+   "comments": 193,
    "publishedAt": 1793099295000,
    "isAI": true,
-   "score": 58.2,
+   "score": 58,
    "hot": true
   },
   {
@@ -66,10 +66,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 1685,
-   "comments": 1644,
+   "comments": 1646,
    "publishedAt": 1793019890000,
    "isAI": true,
-   "score": 57.2,
+   "score": 56.7,
    "hot": false
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 419,
-   "comments": 296,
+   "engagement": 425,
+   "comments": 300,
    "publishedAt": 1793082337000,
    "isAI": true,
-   "score": 55.8,
+   "score": 55.3,
    "hot": true
   },
   {
@@ -93,39 +93,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 170,
-   "comments": 83,
+   "engagement": 202,
+   "comments": 107,
    "publishedAt": 1793118330000,
    "isAI": true,
-   "score": 53.6,
+   "score": 54.6,
    "hot": true
   },
   {
-   "title": "GPT-6.1 Terra",
-   "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50248124",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Retell uses OpenAI models to help power 100M monthly calls",
+   "url": "https://openai.com/index/retell-ai",
+   "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+   "publishedAt": 1793113200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
    "lang": "en",
-   "engagement": 622,
-   "comments": 416,
-   "publishedAt": 1793037677000,
+   "engagement": null,
+   "baseWeight": 50,
    "isAI": true,
-   "score": 52.5,
-   "hot": false
-  },
-  {
-   "title": "Python's experimental JIT to be removed",
-   "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50257419",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 406,
-   "comments": 212,
-   "publishedAt": 1793099877000,
-   "isAI": false,
-   "score": 51.1,
+   "score": 53.1,
    "hot": true
   },
   {
@@ -135,25 +121,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 103,
-   "comments": 65,
+   "engagement": 128,
+   "comments": 81,
    "publishedAt": 1793130906000,
    "isAI": true,
-   "score": 51,
+   "score": 52.5,
    "hot": false
   },
   {
-   "title": "Apple, M6를 탑재한 신규 MacBook Pro 14 공개",
-   "url": "https://news.hada.io/topic?id=36125",
-   "summary": "Apple이 12코어 CPU와 12코어 GPU 를 탑재한 MacBook Pro 14를 공개함. M5 모델보다 그래픽 성능은 최대 30%, 온디바이스 AI 워크로드 성능은 최대 25% 향상됨 GPU 코어별 Neural Accelerator 와 듀얼 16코어 Neural Engine으로 로컬 LLM, 이미지 생성, AI 업스케일링...",
-   "publishedAt": 1793136789000,
-   "source": "GeekNews",
+   "title": "GPT-6.1 Terra",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50248124",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 623,
+   "comments": 417,
+   "publishedAt": 1793037677000,
    "isAI": true,
-   "score": 49.6,
+   "score": 52,
+   "hot": false
+  },
+  {
+   "title": "Python's experimental JIT to be removed",
+   "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50257419",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 419,
+   "comments": 220,
+   "publishedAt": 1793099877000,
+   "isAI": false,
+   "score": 50.9,
    "hot": true
   },
   {
@@ -167,8 +167,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.5,
+   "score": 49,
    "hot": false
+  },
+  {
+   "title": "Apple, M6를 탑재한 신규 MacBook Pro 14 공개",
+   "url": "https://news.hada.io/topic?id=36125",
+   "summary": "Apple이 12코어 CPU와 12코어 GPU 를 탑재한 MacBook Pro 14를 공개함. M5 모델보다 그래픽 성능은 최대 30%, 온디바이스 AI 워크로드 성능은 최대 25% 향상됨 GPU 코어별 Neural Accelerator 와 듀얼 16코어 Neural Engine으로 로컬 LLM, 이미지 생성, AI 업스케일링...",
+   "publishedAt": 1793136789000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49,
+   "hot": true
   },
   {
    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
@@ -177,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1040,
-   "comments": 1084,
+   "engagement": 1041,
+   "comments": 1089,
    "publishedAt": 1793028912000,
    "isAI": false,
-   "score": 49.1,
+   "score": 48.7,
    "hot": false
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.1,
    "hot": true
   },
   {
@@ -209,7 +223,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.1,
+   "hot": true
+  },
+  {
+   "title": "Software may be getting worse, but it used to be horrible",
+   "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50257548",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 295,
+   "comments": 308,
+   "publishedAt": 1793100635000,
+   "isAI": false,
+   "score": 48,
    "hot": true
   },
   {
@@ -223,21 +251,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.6,
+   "score": 48,
    "hot": true
   },
   {
-   "title": "Software may be getting worse, but it used to be horrible",
-   "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50257548",
+   "title": "Discord will soon let anyone find public server messages through Google",
+   "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50263854",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 292,
-   "comments": 297,
-   "publishedAt": 1793100635000,
+   "engagement": 189,
+   "comments": 111,
+   "publishedAt": 1793126657000,
    "isAI": false,
-   "score": 48.5,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": true
   },
   {
@@ -275,26 +303,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 322,
+   "engagement": 323,
    "comments": 124,
    "publishedAt": 1793032544000,
    "isAI": true,
-   "score": 47.2,
-   "hot": false
-  },
-  {
-   "title": "Discord will soon let anyone find public server messages through Google",
-   "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50263854",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 161,
-   "comments": 99,
-   "publishedAt": 1793126657000,
-   "isAI": false,
    "score": 46.8,
-   "hot": true
+   "hot": false
   },
   {
    "title": "Wikipedia의 AI 생성 콘텐츠 정리 작업",
@@ -307,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -321,7 +335,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.9,
    "hot": false
   },
   {
@@ -335,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -349,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -363,8 +377,8 @@
    "comments": 71,
    "publishedAt": 1793054508000,
    "isAI": true,
-   "score": 45.4,
-   "hot": true
+   "score": 45,
+   "hot": false
   },
   {
    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -377,7 +391,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.4,
+   "score": 45,
    "hot": false
   },
   {
@@ -388,10 +402,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 523,
-   "comments": 318,
+   "comments": 319,
    "publishedAt": 1793037415000,
    "isAI": false,
-   "score": 45.2,
+   "score": 44.8,
    "hot": false
   },
   {
@@ -405,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -419,8 +433,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.3,
-   "hot": true
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "Show GN: 봉오리 - 질문에 답하다 보면 하루가 정리되는 AI 일기",
@@ -433,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -447,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -461,7 +475,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -475,7 +489,7 @@
    "comments": 42,
    "publishedAt": 1793031149000,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -489,7 +503,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -503,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -517,8 +531,22 @@
    "comments": 433,
    "publishedAt": 1792962691000,
    "isAI": true,
-   "score": 42,
+   "score": 41.7,
    "hot": false
+  },
+  {
+   "title": "28세 DOGE 요원이 USAID를 무너뜨렸다. 인사 부서에는 그의 근무 기록조차 없었다",
+   "url": "https://news.hada.io/topic?id=36126",
+   "summary": "28세 DOGE 요원이 USAID를 무너뜨렸다. 인사 부서에는 그의 근무 기록조차 없었다",
+   "publishedAt": 1793140286000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
   },
   {
    "title": "Meta Employees Denounce Interference in Brazilian Elections",
@@ -531,7 +559,7 @@
    "comments": 157,
    "publishedAt": 1793037449000,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -542,10 +570,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 182,
-   "comments": 177,
+   "comments": 178,
    "publishedAt": 1793019507000,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -555,11 +583,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 302,
+   "engagement": 303,
    "comments": 56,
    "publishedAt": 1793041541000,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -573,7 +601,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -601,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -615,7 +643,7 @@
    "comments": 174,
    "publishedAt": 1793038489000,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
@@ -629,8 +657,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
+  },
+  {
+   "title": "The data center boom has an upside: innovation for the US grid",
+   "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+   "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+   "publishedAt": 1793141741000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.8,
+   "hot": false
   },
   {
    "title": "Show GN: Spring AI Privacy Guardrails - Spring AI용 개인정보 보호, 도구 권한 제어, 콘텐츠 검사",
@@ -643,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -657,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -671,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -685,7 +727,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -699,35 +741,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.9,
-   "hot": false
-  },
-  {
-   "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-   "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-   "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-   "publishedAt": 1793137474000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 39.7,
-   "hot": false
-  },
-  {
-   "title": "Who’s really in charge at Anthropic after the IPO?",
-   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-   "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-   "publishedAt": 1793137108000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 39.7,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -741,7 +755,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.4,
+   "hot": false
+  },
+  {
+   "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+   "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+   "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+   "publishedAt": 1793137474000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.3,
+   "hot": false
+  },
+  {
+   "title": "Who’s really in charge at Anthropic after the IPO?",
+   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+   "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+   "publishedAt": 1793137108000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -755,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -769,7 +811,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 39.3,
+   "score": 39,
    "hot": false
   },
   {
@@ -783,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -797,22 +839,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
-   "hot": true
-  },
-  {
-   "title": "인기 오픈웨이트 AI 모델에서 발견된 우려스러운 행동",
-   "url": "https://news.hada.io/topic?id=36062",
-   "summary": "Cohere의 보안 평가에서 Qwen3.8-Flash-Next 가 탐지 규칙 작성 지시를 벗어나 실행 환경을 조사하고, 베이징의 Alibaba Cloud 버킷으로 시험 파일 업로드를 시도함 추론 기록과 실제 도구 호출이 불일치 했으며, 외부 통신은 샌드박스가 차단함. 관측 빈도는",
-   "publishedAt": 1793047016000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
    "score": 38.7,
-   "hot": false
+   "hot": true
   },
   {
    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
@@ -825,7 +853,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -839,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -853,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -862,11 +890,11 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 238,
+   "engagement": 240,
    "summary": "Vision-language models are shifting from offline passive understanding toward online proactive interaction. However, prevailing methods largely rely on explicit requests while miss the implicit user intent (e.g., \"where should I click next?\" while a user navigate a website), meanwhile fail to update",
    "publishedAt": 1792958400000,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -876,25 +904,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 133,
+   "engagement": 134,
    "comments": 31,
    "publishedAt": 1793063704000,
    "isAI": false,
-   "score": 37.8,
-   "hot": false
-  },
-  {
-   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-   "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-   "publishedAt": 1793120888000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -908,22 +922,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false
   },
   {
-   "title": "Stalwart v1.0: 지구상에서 가장 빠른 메일 서버",
-   "url": "https://news.hada.io/topic?id=36106",
-   "summary": "Rust 기반 메일 및 협업 서버 Stalwart가 첫 안정 버전 v1.0을 출시 함. 성능 최적화와 데이터베이스 스키마 안정화에 집중함 자체 비교에서 Postfix 3.11과 Dovecot 2.4 대비 38개 주요 항목 중 35개에서 더 빨랐음 . 비교 대상은 두 제품뿐이며, 동일한 Azure 하드...",
-   "publishedAt": 1793102631000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
+   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+   "publishedAt": 1793120888000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.7,
-   "hot": true
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 37.4,
+   "hot": false
   },
   {
    "title": "No signs of AI payoff outside the tech sector",
@@ -936,9 +950,23 @@
    "comments": 672,
    "publishedAt": 1792871239000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.3,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "Stalwart v1.0: 지구상에서 가장 빠른 메일 서버",
+   "url": "https://news.hada.io/topic?id=36106",
+   "summary": "Rust 기반 메일 및 협업 서버 Stalwart가 첫 안정 버전 v1.0을 출시 함. 성능 최적화와 데이터베이스 스키마 안정화에 집중함 자체 비교에서 Postfix 3.11과 Dovecot 2.4 대비 38개 주요 항목 중 35개에서 더 빨랐음 . 비교 대상은 두 제품뿐이며, 동일한 Azure 하드...",
+   "publishedAt": 1793102631000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.3,
+   "hot": true
   },
   {
    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
@@ -951,7 +979,7 @@
    "comments": 586,
    "publishedAt": 1792883514000,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.2,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -962,11 +990,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 547,
+   "engagement": 548,
    "comments": 277,
    "publishedAt": 1792949455000,
    "isAI": false,
-   "score": 37.3,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -980,7 +1008,7 @@
    "comments": 328,
    "publishedAt": 1792945706000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -994,8 +1022,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
@@ -1008,7 +1036,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -1022,7 +1050,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -1036,7 +1064,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.4,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
+   "url": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50250937",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 131,
+   "comments": 150,
+   "publishedAt": 1793048715000,
+   "isAI": false,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -1050,7 +1092,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -1064,21 +1106,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
-   "url": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50250937",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 131,
-   "comments": 149,
-   "publishedAt": 1793048715000,
-   "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -1092,7 +1120,7 @@
    "comments": 142,
    "publishedAt": 1792892029000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 4
   },
@@ -1107,7 +1135,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1121,7 +1149,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1135,7 +1163,7 @@
    "comments": 771,
    "publishedAt": 1792878451000,
    "isAI": false,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false,
    "lastWeekRank": 5
   },
@@ -1150,7 +1178,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -1164,21 +1192,7 @@
    "comments": 87,
    "publishedAt": 1792985345000,
    "isAI": false,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "태양광 발전, 원자력보다 커지고 있음",
-   "url": "https://news.hada.io/topic?id=36089",
-   "summary": "태양광 발전량 이 2025년 전 세계 원자력 발전량을 근소하게 넘어섰으며, 2026년 9월까지 최근 12개월 기준으로는 원자력보다 13% 많은 전력을 생산함 중국의 대규모 생산과 공급 과잉 , 패널 효율 향상과 원재료 사용 감소가 가격을 낮추면서 태양광은 기존 전망을 ...",
-   "publishedAt": 1793072090000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.7,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1192,9 +1206,23 @@
    "comments": 342,
    "publishedAt": 1792918840000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false,
    "lastWeekRank": 3
+  },
+  {
+   "title": "태양광 발전, 원자력보다 커지고 있음",
+   "url": "https://news.hada.io/topic?id=36089",
+   "summary": "태양광 발전량 이 2025년 전 세계 원자력 발전량을 근소하게 넘어섰으며, 2026년 9월까지 최근 12개월 기준으로는 원자력보다 13% 많은 전력을 생산함 중국의 대규모 생산과 공급 과잉 , 패널 효율 향상과 원재료 사용 감소가 가격을 낮추면서 태양광은 기존 전망을 ...",
+   "publishedAt": 1793072090000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.3,
+   "hot": false
   },
   {
    "title": "Show GN: 호보코드 - 다시 간 장소에서 메모를 알려주는 아이폰 앱",
@@ -1207,7 +1235,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1221,7 +1249,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 34,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+   "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+   "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+   "publishedAt": 1793137804000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1235,7 +1277,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1249,7 +1291,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1263,7 +1305,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1277,7 +1319,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1291,7 +1333,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1305,7 +1347,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+   "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+   "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+   "publishedAt": 1793136674000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1319,7 +1375,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1333,7 +1389,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1347,62 +1403,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-   "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of",
-   "publishedAt": 1793134138000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "2달러 마이크로컨트롤러에서 SIMD로 컴퓨터 비전 가속하기",
-   "url": "https://news.hada.io/topic?id=36070",
-   "summary": "ESP32-S3의 128비트 SIMD 명령어 를 활용한 FAST 특징점 검출 구현으로 참조 구현 대비 약 2배의 성능을 달성했으며, QVGA(320×240) 프레임 처리에 약 6ms가 걸림 FAST 코너 사전 검사에서 동서남북 픽셀과 중심 픽셀의 차이를 비교하며, 벡터 레지스터 하나에 담기는 8비트 ...",
-   "publishedAt": 1793057883000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Type Server Protocol - Python 타입 분석 데이터를 조회하는 JSON-RPC 프로토콜",
-   "url": "https://news.hada.io/topic?id=36068",
-   "summary": "Type Server Protocol(TSP) 은 워크스페이스의 타입 분석 상태를 유지하는 서버에 Python 검색 경로, import 해석, 타입 정보를 요청하는 JSON-RPC 프로토콜임 타입 질의는 코드 흐름에서 추론한 계산된 타입 , 소스에 명시한 선언 타입, 주변 문맥이 요구하는 기대...",
-   "publishedAt": 1793053970000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Work Agents: Systems, Capabilities, and Optimization",
-   "url": "https://huggingface.co/papers/2610.35845",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 98,
-   "summary": "As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, existing research lacks a unified perspective on how agents reliably accomplish delegated work. To addres",
-   "publishedAt": 1792958400000,
-   "isAI": true,
-   "score": 32.8,
+   "score": 33.2,
    "hot": false
   }
  ]
