@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793117624348,
+ "updatedAt": 1793121284340,
  "week": "2026-W44",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 513,
-   "comments": 441,
+   "engagement": 573,
+   "comments": 526,
    "publishedAt": 1793099294000,
    "isAI": true,
-   "score": 64.1,
+   "score": 64.4,
    "hot": true
   },
   {
@@ -24,25 +24,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 1673,
-   "comments": 1620,
+   "comments": 1627,
    "publishedAt": 1793019890000,
    "isAI": true,
-   "score": 60.3,
+   "score": 59.7,
    "hot": false
-  },
-  {
-   "title": "The Mythical Man-Month in the Age of AI",
-   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50255298",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 346,
-   "comments": 225,
-   "publishedAt": 1793082337000,
-   "isAI": true,
-   "score": 57.6,
-   "hot": true
   },
   {
    "title": "Wikipedia's Cleanup of AI-Generated Content",
@@ -51,9 +37,23 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 245,
-   "comments": 105,
+   "engagement": 284,
+   "comments": 127,
    "publishedAt": 1793099295000,
+   "isAI": true,
+   "score": 58.1,
+   "hot": true
+  },
+  {
+   "title": "The Mythical Man-Month in the Age of AI",
+   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50255298",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 360,
+   "comments": 238,
+   "publishedAt": 1793082337000,
    "isAI": true,
    "score": 57.4,
    "hot": true
@@ -65,40 +65,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 614,
-   "comments": 390,
+   "engagement": 615,
+   "comments": 397,
    "publishedAt": 1793037677000,
    "isAI": true,
-   "score": 55.4,
+   "score": 54.9,
    "hot": true
   },
   {
-   "title": "Giving chat feedback gives Anthropic your data",
-   "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50259406",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+   "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+   "publishedAt": 1793084400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
    "lang": "en",
-   "engagement": 126,
-   "comments": 58,
-   "publishedAt": 1793109375000,
+   "engagement": null,
+   "baseWeight": 50,
    "isAI": true,
-   "score": 53,
-   "hot": false
-  },
-  {
-   "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-   "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50245524",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1009,
-   "comments": 1032,
-   "publishedAt": 1793028912000,
-   "isAI": false,
-   "score": 51.6,
-   "hot": false
+   "score": 52.1,
+   "hot": true
   },
   {
    "title": "Python's experimental JIT to be removed",
@@ -107,12 +93,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 250,
-   "comments": 128,
+   "engagement": 300,
+   "comments": 153,
    "publishedAt": 1793099877000,
    "isAI": false,
-   "score": 50.1,
+   "score": 51.2,
    "hot": true
+  },
+  {
+   "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+   "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50245524",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1016,
+   "comments": 1044,
+   "publishedAt": 1793028912000,
+   "isAI": false,
+   "score": 51.2,
+   "hot": false
+  },
+  {
+   "title": "Concerning behavior from a popular open-weight AI model",
+   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50246658",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 314,
+   "comments": 124,
+   "publishedAt": 1793032544000,
+   "isAI": true,
+   "score": 49.2,
+   "hot": false
   },
   {
    "title": "Wikipedia의 AI 생성 콘텐츠 정리 작업",
@@ -125,21 +139,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.2,
    "hot": true
   },
   {
-   "title": "Concerning behavior from a popular open-weight AI model",
-   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50246658",
+   "title": "Software may be getting worse, but it used to be horrible",
+   "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50257548",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 314,
-   "comments": 123,
-   "publishedAt": 1793032544000,
-   "isAI": true,
-   "score": 49.6,
+   "engagement": 231,
+   "comments": 191,
+   "publishedAt": 1793100635000,
+   "isAI": false,
+   "score": 49,
    "hot": true
   },
   {
@@ -153,21 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
-   "hot": true
-  },
-  {
-   "title": "Software may be getting worse, but it used to be horrible",
-   "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50257548",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 217,
-   "comments": 171,
-   "publishedAt": 1793100635000,
-   "isAI": false,
-   "score": 48.9,
+   "score": 48.6,
    "hot": true
   },
   {
@@ -181,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.1,
    "hot": true
   },
   {
@@ -195,7 +195,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.7,
    "hot": false
   },
   {
@@ -205,11 +205,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 172,
+   "engagement": 173,
    "comments": 71,
    "publishedAt": 1793054508000,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.4,
+   "hot": true
+  },
+  {
+   "title": "Oldest GUI application that still runs on Windows 11",
+   "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50248055",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 511,
+   "comments": 301,
+   "publishedAt": 1793037415000,
+   "isAI": false,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -223,21 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.6,
-   "hot": true
-  },
-  {
-   "title": "Oldest GUI application that still runs on Windows 11",
-   "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50248055",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 503,
-   "comments": 300,
-   "publishedAt": 1793037415000,
-   "isAI": false,
-   "score": 47.5,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -251,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -265,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.3,
    "hot": true
   },
   {
@@ -279,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -293,7 +293,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -307,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -321,7 +321,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.5,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -331,11 +331,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 158,
-   "comments": 36,
+   "engagement": 160,
+   "comments": 38,
    "publishedAt": 1793031149000,
    "isAI": true,
-   "score": 44.3,
+   "score": 44,
    "hot": false
   },
   {
@@ -346,10 +346,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 324,
-   "comments": 150,
+   "comments": 151,
    "publishedAt": 1793037449000,
    "isAI": false,
-   "score": 44.1,
+   "score": 43.7,
    "hot": true
   },
   {
@@ -359,11 +359,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 298,
+   "engagement": 300,
    "comments": 55,
    "publishedAt": 1793041541000,
    "isAI": false,
-   "score": 44,
+   "score": 43.6,
    "hot": true
   },
   {
@@ -374,10 +374,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 181,
-   "comments": 172,
+   "comments": 173,
    "publishedAt": 1793019507000,
    "isAI": true,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -388,10 +388,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 428,
-   "comments": 430,
+   "comments": 431,
    "publishedAt": 1792962691000,
    "isAI": true,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -405,21 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
-   "hot": false
-  },
-  {
-   "title": "Apple introduces the new 14-inch MacBook Pro with M6",
-   "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50258521",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 106,
-   "comments": 125,
-   "publishedAt": 1793106067000,
-   "isAI": false,
-   "score": 43.1,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -433,7 +419,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -447,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -458,10 +444,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 263,
-   "comments": 172,
+   "comments": 173,
    "publishedAt": 1793038489000,
    "isAI": false,
-   "score": 42.7,
+   "score": 42.2,
    "hot": true
   },
   {
@@ -475,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -489,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -503,8 +489,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
    "hot": false
+  },
+  {
+   "title": "미국 정부, 자국민 감시 방식에 관한 비밀 법원 판결을 숨기고 있다",
+   "url": "https://news.hada.io/topic?id=36118",
+   "summary": "미국 정부, 자국민 감시 방식에 관한 비밀 법원 판결을 숨기고 있다",
+   "publishedAt": 1793118693000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "OpenAI, AI로 지수 시간 가설 반증 등 수학/물리학 난제 성과 발표",
@@ -517,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -531,7 +531,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -545,13 +545,13 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
    "title": "소프트웨어가 나빠지고 있을지는 몰라도, 예전에는 끔찍했음",
    "url": "https://news.hada.io/topic?id=36116",
-   "summary": "다른 조건이 같다면 코드 생산량이 10배 늘어도 오류율이 10분의 1로 줄지 않으면 앱의 버그는 늘어나지만, 이것이 과거 소프트웨어가 더 좋았다는 뜻은 아님 1990년 이후 PC 사용 경험에는 잦은 시스템 충돌과 작업 손실 이 반복됨. 물리 매체 출시에 필요한 최소 ...",
+   "summary": "현대 소프트웨어의 품질 문제를 인정하더라도, 과거 소프트웨어가 더 좋았다는 향수 는 1990년 이후 겪은 잦은 시스템 충돌과 작업 손실을 잊은 것임 물리 매체 출시에 필요한 최소 품질선은 있었지만, 드라이버와 운영체제의 결함, 취약한 보안, 수동 디스크 조각 모음처럼 ...",
    "publishedAt": 1793116169000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -559,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.4,
    "hot": true
   },
   {
@@ -573,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -587,7 +587,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -601,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -615,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -629,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -643,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -657,7 +657,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
+   "hot": false
+  },
+  {
+   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+   "publishedAt": 1793120888000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 40,
    "hot": false
   },
   {
@@ -671,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -685,21 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
-   "hot": false
-  },
-  {
-   "title": "OLED를 탑재한 iPad mini",
-   "url": "https://news.hada.io/topic?id=36053",
-   "summary": "새 iPad mini 는 8.5인치 Super Retina XDR 디스플레이와 A20 Pro 칩을 탑재하며, 미국 판매 가격은 699달러부터 시작함 A20 Pro 구성은 저장 용량에 따라 달라짐 . 128GB와 256GB 모델은 5코어 CPU와 16코어 Neural Engine을, 512GB 모델은 6코어 ...",
-   "publishedAt": 1793036649000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.8,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -708,39 +708,25 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 232,
+   "engagement": 233,
    "summary": "Vision-language models are shifting from offline passive understanding toward online proactive interaction. However, prevailing methods largely rely on explicit requests while miss the implicit user intent (e.g., \"where should I click next?\" while a user navigate a website), meanwhile fail to update",
    "publishedAt": 1792958400000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false
   },
   {
-   "title": "Introducing GPT-6.1 Terra",
-   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-   "summary": "Bringing fast and capable computer use to everyone",
-   "publishedAt": 1792972800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
+   "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+   "url": "https://github.com/otya128/winevdm",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50253529",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 39.6,
-   "hot": false
-  },
-  {
-   "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-   "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-   "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-   "publishedAt": 1793113149000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 39.5,
+   "engagement": 125,
+   "comments": 30,
+   "publishedAt": 1793063704000,
+   "isAI": false,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -754,22 +740,51 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
-   "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-   "url": "https://github.com/otya128/winevdm",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50253529",
+   "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+   "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+   "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+   "publishedAt": 1793113149000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39,
+   "hot": false
+  },
+  {
+   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+   "url": "https://talkweb.eu/openweb/4558/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50233929",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 122,
-   "comments": 30,
-   "publishedAt": 1793063704000,
+   "engagement": 546,
+   "comments": 280,
+   "publishedAt": 1792949455000,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.8,
    "hot": false
+  },
+  {
+   "title": "No signs of AI payoff outside the tech sector",
+   "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50224463",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 641,
+   "comments": 672,
+   "publishedAt": 1792871239000,
+   "isAI": true,
+   "score": 38.7,
+   "hot": false,
+   "lastWeekRank": 1
   },
   {
    "title": "Show GN: 카드 배틀 - Decision Model을 이용한..",
@@ -782,51 +797,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.7,
    "hot": true
-  },
-  {
-   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-   "url": "https://talkweb.eu/openweb/4558/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50233929",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 545,
-   "comments": 276,
-   "publishedAt": 1792949455000,
-   "isAI": false,
-   "score": 39,
-   "hot": false
-  },
-  {
-   "title": "No signs of AI payoff outside the tech sector",
-   "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50224463",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 641,
-   "comments": 671,
-   "publishedAt": 1792871239000,
-   "isAI": true,
-   "score": 38.9,
-   "hot": false,
-   "lastWeekRank": 1
-  },
-  {
-   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-   "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50233304",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 238,
-   "comments": 328,
-   "publishedAt": 1792945706000,
-   "isAI": true,
-   "score": 38.8,
-   "hot": false
   },
   {
    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
@@ -839,9 +811,23 @@
    "comments": 584,
    "publishedAt": 1792883514000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.6,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+   "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50233304",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 238,
+   "comments": 328,
+   "publishedAt": 1792945706000,
+   "isAI": true,
+   "score": 38.5,
+   "hot": false
   },
   {
    "title": "미래에서 온 남자: Johnny는 왜 추상화를 멈추지 못했나",
@@ -854,7 +840,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -868,7 +854,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -882,7 +868,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -896,7 +882,7 @@
    "comments": 144,
    "publishedAt": 1793048715000,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -910,7 +896,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -924,7 +910,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -938,7 +924,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -952,23 +938,9 @@
    "comments": 142,
    "publishedAt": 1792892029000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37.1,
    "hot": false,
    "lastWeekRank": 4
-  },
-  {
-   "title": "태양광 발전, 원자력보다 커지고 있음",
-   "url": "https://news.hada.io/topic?id=36089",
-   "summary": "태양광 발전량 이 2025년 전 세계 원자력 발전량을 근소하게 넘어섰으며, 2026년 9월까지 최근 12개월 기준으로는 원자력보다 13% 많은 전력을 생산함 중국의 대규모 생산과 공급 과잉 , 패널 효율 향상과 원재료 사용 감소가 가격을 낮추면서 태양광은 기존 전망을 ...",
-   "publishedAt": 1793072090000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.8,
-   "hot": false
   },
   {
    "title": "We should be more ambitious with the software we build",
@@ -981,9 +953,23 @@
    "comments": 769,
    "publishedAt": 1792878451000,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false,
    "lastWeekRank": 5
+  },
+  {
+   "title": "태양광 발전, 원자력보다 커지고 있음",
+   "url": "https://news.hada.io/topic?id=36089",
+   "summary": "태양광 발전량 이 2025년 전 세계 원자력 발전량을 근소하게 넘어섰으며, 2026년 9월까지 최근 12개월 기준으로는 원자력보다 13% 많은 전력을 생산함 중국의 대규모 생산과 공급 과잉 , 패널 효율 향상과 원재료 사용 감소가 가격을 낮추면서 태양광은 기존 전망을 ...",
+   "publishedAt": 1793072090000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.4,
+   "hot": false
   },
   {
    "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
@@ -996,7 +982,7 @@
    "comments": 87,
    "publishedAt": 1792985345000,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -1010,7 +996,7 @@
    "comments": 342,
    "publishedAt": 1792918840000,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -1025,7 +1011,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1039,7 +1025,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1053,7 +1039,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1067,7 +1053,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1081,7 +1067,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1095,7 +1081,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1109,7 +1095,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1123,7 +1109,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1137,7 +1123,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1151,7 +1137,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1165,7 +1151,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1179,7 +1165,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1193,7 +1179,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1207,7 +1193,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1221,7 +1207,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1235,7 +1221,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1249,7 +1235,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1263,7 +1249,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34,
    "hot": false
   },
   {
@@ -1277,21 +1263,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
-   "title": "Meta 직원들, 브라질 선거 개입 규탄",
-   "url": "https://news.hada.io/topic?id=36058",
-   "summary": "Meta 직원들 이 브라질 선거에서 Bolsonaro 일가를 향한 회사의 편향적 우대가 드러났다며, 민주적 절차의 신뢰성을 훼손할 수 있는 결정에 경영진의 책임을 요구함 성명에는 영국 Communication Workers Union(CWU) 의 기술 부문 조합원들이 서명했으며, 다른 국가...",
-   "publishedAt": 1793043405000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
+   "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+   "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders",
+   "publishedAt": 1793119882000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.1,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1305,7 +1291,20 @@
    "comments": 87,
    "publishedAt": 1792921877000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "Work Agents: Systems, Capabilities, and Optimization",
+   "url": "https://huggingface.co/papers/2610.35845",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 95,
+   "summary": "As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, existing research lacks a unified perspective on how agents reliably accomplish delegated work. To addres",
+   "publishedAt": 1792958400000,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1319,21 +1318,36 @@
    "comments": 365,
    "publishedAt": 1792868815000,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false,
    "lastWeekRank": 8
   },
   {
-   "title": "Work Agents: Systems, Capabilities, and Optimization",
-   "url": "https://huggingface.co/papers/2610.35845",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
+   "title": "Meta 직원들, 브라질 선거 개입 규탄",
+   "url": "https://news.hada.io/topic?id=36058",
+   "summary": "Meta 직원들 이 브라질 선거에서 Bolsonaro 일가를 향한 회사의 편향적 우대가 드러났다며, 민주적 절차의 신뢰성을 훼손할 수 있는 결정에 경영진의 책임을 요구함 성명에는 영국 Communication Workers Union(CWU) 의 기술 부문 조합원들이 서명했으며, 다른 국가...",
+   "publishedAt": 1793043405000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+   "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into ",
+   "publishedAt": 1793117658000,
+   "source": "The Verge",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 92,
-   "summary": "As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, existing research lacks a unified perspective on how agents reliably accomplish delegated work. To addres",
-   "publishedAt": 1792958400000,
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1344,12 +1358,26 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 256,
-   "comments": 204,
+   "comments": 205,
    "publishedAt": 1792865097000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false,
    "lastWeekRank": 9
+  },
+  {
+   "title": "Google’s next Genie AI model generates more realistic experiences",
+   "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+   "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 ",
+   "publishedAt": 1793116800000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
   },
   {
    "title": "Pharo 14 - 개발 도구 개편과 RISC-V JIT 지원 추가",
@@ -1362,7 +1390,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1376,38 +1404,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
-  },
-  {
-   "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-   "url": "https://twitter.com/mike64_t/status/2114150399406202896",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50230181",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 295,
-   "comments": 1,
-   "publishedAt": 1792924921000,
-   "isAI": false,
-   "score": 33.5,
-   "hot": false,
-   "lastWeekRank": 10
-  },
-  {
-   "title": "Root shell on Samsung TV",
-   "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50218633",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 856,
-   "comments": 640,
-   "publishedAt": 1792820997000,
-   "isAI": false,
-   "score": 33.2,
-   "hot": false,
-   "lastWeekRank": 18
   }
  ]
 }
