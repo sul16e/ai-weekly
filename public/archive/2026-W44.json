@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793253742517,
+ "updatedAt": 1793257403598,
  "week": "2026-W44",
  "items": [
   {
@@ -9,25 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 868,
-   "comments": 715,
+   "engagement": 881,
+   "comments": 729,
    "publishedAt": 1793206883000,
    "isAI": true,
-   "score": 63.4,
+   "score": 62.9,
    "hot": true
   },
   {
-   "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+   "title": "Claude Code regularly sends each background agent’s transcript to its model",
    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
    "commentsUrl": "https://news.ycombinator.com/item?id=50284255",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 197,
-   "comments": 44,
+   "engagement": 251,
+   "comments": 77,
    "publishedAt": 1793244822000,
    "isAI": true,
-   "score": 57,
+   "score": 58.6,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 449,
-   "comments": 496,
+   "engagement": 453,
+   "comments": 499,
    "publishedAt": 1793194890000,
    "isAI": true,
-   "score": 56.1,
+   "score": 55.6,
    "hot": true
   },
   {
@@ -51,25 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1091,
-   "comments": 385,
+   "engagement": 1100,
+   "comments": 390,
    "publishedAt": 1793185420000,
    "isAI": false,
-   "score": 55.1,
-   "hot": true
-  },
-  {
-   "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-   "url": "https://surgehq.ai/blog/dayjob-tax",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50275626",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 221,
-   "comments": 143,
-   "publishedAt": 1793202390000,
-   "isAI": true,
-   "score": 51.4,
+   "score": 54.6,
    "hot": true
   },
   {
@@ -79,11 +65,81 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 273,
-   "comments": 62,
+   "engagement": 319,
+   "comments": 75,
    "publishedAt": 1793233545000,
    "isAI": false,
-   "score": 50.5,
+   "score": 51.4,
+   "hot": true
+  },
+  {
+   "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+   "url": "https://surgehq.ai/blog/dayjob-tax",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50275626",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 223,
+   "comments": 144,
+   "publishedAt": 1793202390000,
+   "isAI": true,
+   "score": 51,
+   "hot": true
+  },
+  {
+   "title": "Claude Code는 각 백그라운드 에이전트의 대화 기록을 주기적으로 해당 모델에 전송함",
+   "url": "https://news.hada.io/topic?id=36213",
+   "summary": "Claude Code는 백그라운드 에이전트마다 약 30초 간격으로 전체 대화 기록 을 해당 에이전트의 모델에 보내 3~5단어 상태 요약을 생성함. 결과는 에이전트 패널에만 표시되며 대화나 모델의 문맥에는 들어가지 않음 Flamerix AI의 측정에서 agent_summary 호출은...",
+   "publishedAt": 1793255631000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
+   "hot": true
+  },
+  {
+   "title": "Google AI gets cagey when asked who won the 2020 elections",
+   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50280178",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 144,
+   "comments": 69,
+   "publishedAt": 1793218216000,
+   "isAI": true,
+   "score": 49.6,
+   "hot": false
+  },
+  {
+   "title": "Show GN: knock - 클로드 코드로 일하는 척하면서 친구랑 점심 메뉴 정하기",
+   "url": "https://news.hada.io/topic?id=36211",
+   "summary": "Claude Code 안에서 친구와 채팅하는 플러그인을 만들었습니다. ❯ /knock bob ❯ 점심? ⏺ 라멘, 5분 뒤 로비 내가 입력한 말은 친구에게 가고, 친구의 답은 Claude 답변이 뜨는 자리에 뜹니다. 옆에서 보면 Claude와 일하는 중으로 보입니다. 모델을 부르지 않아서 토큰도 쓰지 않",
+   "publishedAt": 1793254653000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
+  },
+  {
+   "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50280864",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 312,
+   "comments": 169,
+   "publishedAt": 1793221404000,
+   "isAI": false,
+   "score": 49.4,
    "hot": true
   },
   {
@@ -97,35 +153,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 50,
+   "score": 49.4,
    "hot": true
   },
   {
-   "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50280864",
+   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+   "url": "https://www.brangus.io/survival-llm",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50264853",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 309,
-   "comments": 168,
-   "publishedAt": 1793221404000,
-   "isAI": false,
-   "score": 49.9,
-   "hot": true
-  },
-  {
-   "title": "Google AI gets cagey when asked who won the 2020 elections",
-   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50280178",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 140,
-   "comments": 67,
-   "publishedAt": 1793218216000,
+   "engagement": 525,
+   "comments": 194,
+   "publishedAt": 1793130906000,
    "isAI": true,
-   "score": 49.8,
+   "score": 48.3,
    "hot": false
   },
   {
@@ -139,21 +181,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.8,
-   "hot": false
-  },
-  {
-   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-   "url": "https://www.brangus.io/survival-llm",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50264853",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 525,
-   "comments": 194,
-   "publishedAt": 1793130906000,
-   "isAI": true,
-   "score": 48.7,
+   "score": 48.3,
    "hot": false
   },
   {
@@ -167,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -181,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -195,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -205,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 575,
-   "comments": 292,
+   "engagement": 577,
+   "comments": 293,
    "publishedAt": 1793114906000,
    "isAI": true,
-   "score": 47.5,
+   "score": 47.2,
    "hot": false
   },
   {
@@ -223,7 +251,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.8,
    "hot": false
   },
   {
@@ -237,7 +265,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.6,
    "hot": false
   },
   {
@@ -251,21 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.1,
-   "hot": true
-  },
-  {
-   "title": "AAII v5 공개 - 비공개 평가 비중을 60%로 높인 AI 모델 역량 지수",
-   "url": "https://news.hada.io/topic?id=36197",
-   "summary": "Artificial Analysis Intelligence Index v5 는 벤치마크 2개를 추가하고 3개를 개편했으며, 지수의 60%를 비공개 테스트 세트 또는 비공개 정답 기반 평가로 구성함 Claude Opus 5.5 (max) 가 58점으로 선두이며, GPT-6 Astra (max)가 57점, GPT-6.1 Sol (max)이 5...",
-   "publishedAt": 1793232615000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 47,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -279,8 +293,22 @@
    "comments": 655,
    "publishedAt": 1793099294000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.5,
    "hot": false
+  },
+  {
+   "title": "AAII v5 공개 - 비공개 평가 비중을 60%로 높인 AI 모델 역량 지수",
+   "url": "https://news.hada.io/topic?id=36197",
+   "summary": "Artificial Analysis Intelligence Index v5 는 벤치마크 2개를 추가하고 3개를 개편했으며, 지수의 60%를 비공개 테스트 세트 또는 비공개 정답 기반 평가로 구성함 Claude Opus 5.5 (max) 가 58점으로 선두이며, GPT-6 Astra (max)가 57점, GPT-6.1 Sol (max)이 5...",
+   "publishedAt": 1793232615000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.5,
+   "hot": true
   },
   {
    "title": "이대로는 지속 가능하지 않다 - 취약점 공개 속도를 따라가지 못하는 보안 대응",
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.8,
    "hot": true
   },
   {
@@ -317,11 +345,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 261,
-   "comments": 70,
+   "engagement": 263,
+   "comments": 72,
    "publishedAt": 1793203313000,
    "isAI": false,
-   "score": 46,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -335,7 +363,7 @@
    "comments": 336,
    "publishedAt": 1793134242000,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": false
   },
   {
@@ -349,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -359,26 +387,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 394,
+   "engagement": 395,
    "comments": 312,
    "publishedAt": 1793119215000,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.1,
    "hot": false
-  },
-  {
-   "title": "이 브라우저 지문 수집 스크립트는 왜 생물무기를 만들고 있을까?",
-   "url": "https://news.hada.io/topic?id=36185",
-   "summary": "웹사이트 1만 개 에서 브라우저 지문 수집용 캔버스를 조사하던 중, 생물무기와 자해 등을 연상시키는 함수명과 문자열을 포함한 안티봇 스크립트가 발견됨 위험한 함수명과 문자열로 LLM의 안전장치를 자극해 난독화 해제를 막으려는 기법 으로 보임. 분석 방해용 이...",
-   "publishedAt": 1793219936000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.3,
-   "hot": true
   },
   {
    "title": "The Agent SDK",
@@ -387,11 +401,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 113,
-   "comments": 117,
+   "engagement": 115,
+   "comments": 118,
    "publishedAt": 1793196140000,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.8,
    "hot": false
   },
   {
@@ -405,8 +419,22 @@
    "comments": 1673,
    "publishedAt": 1793019890000,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.8,
    "hot": false
+  },
+  {
+   "title": "이 브라우저 지문 수집 스크립트는 왜 생물무기를 만들고 있을까?",
+   "url": "https://news.hada.io/topic?id=36185",
+   "summary": "웹사이트 1만 개 에서 브라우저 지문 수집용 캔버스를 조사하던 중, 생물무기와 자해 등을 연상시키는 함수명과 문자열을 포함한 안티봇 스크립트가 발견됨 위험한 함수명과 문자열로 LLM의 안전장치를 자극해 난독화 해제를 막으려는 기법 으로 보임. 분석 방해용 이...",
+   "publishedAt": 1793219936000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 44.8,
+   "hot": true
   },
   {
    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
@@ -415,11 +443,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 373,
+   "engagement": 374,
    "comments": 284,
    "publishedAt": 1793118330000,
    "isAI": true,
-   "score": 45,
+   "score": 44.7,
    "hot": false
   },
   {
@@ -429,11 +457,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 499,
+   "engagement": 500,
    "comments": 237,
    "publishedAt": 1793099295000,
    "isAI": true,
-   "score": 45,
+   "score": 44.7,
+   "hot": false
+  },
+  {
+   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+   "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50282544",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 146,
+   "comments": 64,
+   "publishedAt": 1793231146000,
+   "isAI": false,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -447,21 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
-  },
-  {
-   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-   "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50282544",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 136,
-   "comments": 57,
-   "publishedAt": 1793231146000,
-   "isAI": false,
-   "score": 44,
+   "score": 43.9,
    "hot": false
   },
   {
@@ -475,7 +503,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.1,
+   "hot": false
+  },
+  {
+   "title": "The Mythical Man-Month in the Age of AI",
+   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50255298",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 479,
+   "comments": 353,
+   "publishedAt": 1793082337000,
+   "isAI": true,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -486,25 +528,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 229,
-   "comments": 102,
+   "comments": 104,
    "publishedAt": 1793188463000,
    "isAI": false,
-   "score": 43.1,
+   "score": 42.7,
    "hot": true
-  },
-  {
-   "title": "The Mythical Man-Month in the Age of AI",
-   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50255298",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 477,
-   "comments": 353,
-   "publishedAt": 1793082337000,
-   "isAI": true,
-   "score": 43.1,
-   "hot": false
   },
   {
    "title": "건강 근황",
@@ -517,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -531,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -545,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -559,7 +587,7 @@
    "comments": 426,
    "publishedAt": 1793037677000,
    "isAI": true,
-   "score": 41,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -573,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -598,10 +626,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 566,
-   "comments": 326,
+   "comments": 327,
    "publishedAt": 1793099877000,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -615,7 +643,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -629,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -643,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -657,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.5,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -671,7 +699,7 @@
    "comments": 204,
    "publishedAt": 1793126657000,
    "isAI": false,
-   "score": 39.4,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -685,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -699,35 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
-   "hot": true
-  },
-  {
-   "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50275128",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 116,
-   "comments": 20,
-   "publishedAt": 1793200673000,
-   "isAI": false,
-   "score": 39.1,
-   "hot": false
-  },
-  {
-   "title": "Show GN: 배틀즈 - 컴퓨터 연습과 친구 온라인 대전을 제공하는 보드게임 모음",
-   "url": "https://news.hada.io/topic?id=36193",
-   "summary": "박스배틀·사목·오목·리버시를 한곳에서 고를 수 있는 배틀즈를 만들었습니다. 휴대폰과 PC 브라우저에서 이용할 수 있습니다. 혼자일 때는 컴퓨터와 연습하고, 함께할 때는 친구를 초대해 온라인으로 대전하는 흐름입니다. 박스배틀: 점을 이어 네 번째 선으로 상자를 완성하면 득점하고 한 번",
-   "publishedAt": 1793229074000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.1,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -741,8 +741,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.8,
    "hot": false
+  },
+  {
+   "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50275128",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 116,
+   "comments": 20,
+   "publishedAt": 1793200673000,
+   "isAI": false,
+   "score": 38.7,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 배틀즈 - 컴퓨터 연습과 친구 온라인 대전을 제공하는 보드게임 모음",
+   "url": "https://news.hada.io/topic?id=36193",
+   "summary": "박스배틀·사목·오목·리버시를 한곳에서 고를 수 있는 배틀즈를 만들었습니다. 휴대폰과 PC 브라우저에서 이용할 수 있습니다. 혼자일 때는 컴퓨터와 연습하고, 함께할 때는 친구를 초대해 온라인으로 대전하는 흐름입니다. 박스배틀: 점을 이어 네 번째 선으로 상자를 완성하면 득점하고 한 번",
+   "publishedAt": 1793229074000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.6,
+   "hot": true
   },
   {
    "title": "Meta, 전국 캠페인 도중 No Kings Instagram 계정을 검열",
@@ -755,36 +783,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
-  },
-  {
-   "title": "Reddit 커뮤니티, 악성 사이트 연결 문제로 Archive.today 링크 차단",
-   "url": "https://news.hada.io/topic?id=36190",
-   "summary": "Reddit의 시애틀 지역 커뮤니티 r/Seattle 운영진이 보관된 기사에서 악성 사이트로 연결되는 링크를 발견했다며 , Archive.today 계열 링크가 포함된 게시물을 자동 삭제하기로 함 문제가 된 것은 보관된 NYT 기사의 소송 문서 PDF 링크 로, 원래 법률사무소의 PDF ...",
-   "publishedAt": 1793227010000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.8,
-   "hot": true
-  },
-  {
-   "title": "GLM-5.3 Workers AI 모델에서 요청 간 KV 캐시 노출, 응답 155건 영향",
-   "url": "https://news.hada.io/topic?id=36150",
-   "summary": "Cloudflare Workers AI의 GLM-5.3 에서 다른 고객의 프롬프트와 생성 내용이 응답에 섞이는 문제가 발생함. 2026년 8월 27일부터 9월 9일까지 응답 155건 이 영향을 받았으며, 다른 모델은 영향을 받지 않음 모델의 컨텍스트 한도는 1,048,576토큰 이...",
-   "publishedAt": 1793162101000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 38.8,
-   "hot": false
   },
   {
    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
@@ -797,8 +797,22 @@
    "comments": 1158,
    "publishedAt": 1793028912000,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.4,
    "hot": false
+  },
+  {
+   "title": "Reddit 커뮤니티, 악성 사이트 연결 문제로 Archive.today 링크 차단",
+   "url": "https://news.hada.io/topic?id=36190",
+   "summary": "Reddit의 시애틀 지역 커뮤니티 r/Seattle 운영진이 보관된 기사에서 악성 사이트로 연결되는 링크를 발견했다며 , Archive.today 계열 링크가 포함된 게시물을 자동 삭제하기로 함 문제가 된 것은 보관된 NYT 기사의 소송 문서 PDF 링크 로, 원래 법률사무소의 PDF ...",
+   "publishedAt": 1793227010000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.4,
+   "hot": true
   },
   {
    "title": "winevdm - 64비트 Windows에서 16비트 Windows 프로그램 실행하기",
@@ -811,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -825,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -839,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -853,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -867,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -881,7 +895,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -891,11 +905,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 338,
+   "engagement": 339,
    "comments": 343,
    "publishedAt": 1793100635000,
    "isAI": false,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -909,8 +923,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Concerning behavior from a popular open-weight AI model",
@@ -923,7 +937,7 @@
    "comments": 130,
    "publishedAt": 1793032544000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -937,7 +951,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -951,7 +965,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -965,7 +979,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -979,7 +993,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -993,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -1007,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -1021,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1035,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1049,20 +1063,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-   "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-   "publishedAt": 1793215198000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
    "score": 35.8,
    "hot": false
   },
@@ -1077,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1091,35 +1091,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.4,
    "hot": false
   },
   {
-   "title": "UEFI 펌웨어의 코드 실행 취약점, 전 세계 서버 대부분을 위협",
-   "url": "https://news.hada.io/topic?id=36168",
-   "summary": "주요 UEFI 공급업체가 사용하는 TianoCore EDK II 에서 심각도 9.5/10 의 코드 실행 취약점 CVE-2026-97631이 발견됨 PXE 네트워크 부팅 중 ICMP 오류 메시지를 처리하는 버퍼 오버플로로, 공격자는 운영체제와 Secure Boot 등의 방어 기능이 작동하...",
-   "publishedAt": 1793194850000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+   "publishedAt": 1793215198000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "열흘이 지나도 macOS의 Git은 여전히 침해된 eMudhra 인증서를 신뢰함",
-   "url": "https://news.hada.io/topic?id=36167",
-   "summary": "Apple은 10월 17일 eMudhra 사고를 통보받았지만, 10월 28일 기준 macOS에 함께 제공하는 git, curl, python3 는 여전히 침해된 인증서를 신뢰함 10월 26일 출시된 macOS 27.2 는 문제를 해결하지 않았으며, 사용자가 수동으로 적용한 우회 조치까지 되돌려 다시 취약...",
-   "publishedAt": 1793194670000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35.5,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1133,7 +1119,35 @@
    "comments": 328,
    "publishedAt": 1793037415000,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "UEFI 펌웨어의 코드 실행 취약점, 전 세계 서버 대부분을 위협",
+   "url": "https://news.hada.io/topic?id=36168",
+   "summary": "주요 UEFI 공급업체가 사용하는 TianoCore EDK II 에서 심각도 9.5/10 의 코드 실행 취약점 CVE-2026-97631이 발견됨 PXE 네트워크 부팅 중 ICMP 오류 메시지를 처리하는 버퍼 오버플로로, 공격자는 운영체제와 Secure Boot 등의 방어 기능이 작동하...",
+   "publishedAt": 1793194850000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.1,
+   "hot": false
+  },
+  {
+   "title": "열흘이 지나도 macOS의 Git은 여전히 침해된 eMudhra 인증서를 신뢰함",
+   "url": "https://news.hada.io/topic?id=36167",
+   "summary": "Apple은 10월 17일 eMudhra 사고를 통보받았지만, 10월 28일 기준 macOS에 함께 제공하는 git, curl, python3 는 여전히 침해된 인증서를 신뢰함 10월 26일 출시된 macOS 27.2 는 문제를 해결하지 않았으며, 사용자가 수동으로 적용한 우회 조치까지 되돌려 다시 취약...",
+   "publishedAt": 1793194670000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1147,7 +1161,7 @@
    "comments": 79,
    "publishedAt": 1793054508000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1156,11 +1170,11 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 535,
+   "engagement": 538,
    "summary": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task divers",
    "publishedAt": 1792958400000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1174,7 +1188,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1188,7 +1202,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1202,7 +1216,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1216,7 +1230,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1230,35 +1244,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
-   "hot": false
-  },
-  {
-   "title": "AI execs may be too out of touch to build for the general public",
-   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-   "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-   "publishedAt": 1793202832000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-   "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-   "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-   "publishedAt": 1793202078000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.5,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1272,7 +1258,35 @@
    "comments": 436,
    "publishedAt": 1792962691000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "AI execs may be too out of touch to build for the general public",
+   "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+   "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+   "publishedAt": 1793202832000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+   "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+   "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+   "publishedAt": 1793202078000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1285,7 +1299,7 @@
    "summary": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a rule-consistent game or narration synchronized to on-screen events. A different route is emerging: multimodal agents that write code to render every frame and synthesize every sound. W",
    "publishedAt": 1793044800000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34,
    "hot": false
   },
   {
@@ -1299,7 +1313,49 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "오픈AI·앤트로픽, 캘리포니아주에 AI 규제 강화 촉구...'킬 스위치'는 입장 엇갈려",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216789",
+   "summary": "오픈AI와 앤트로픽이 캘리포니아주에 AI 안전 규제 강화를 촉구했다. 오픈AI는 AI 모델의 긴급 종료 기능과 외부 독립 감사를 의무화하는 방안을 제안했고, 앤트로픽은 심각한 위험이 확인된 모델의 출시를 법원이 막을 수 있어야 한다고 주장했다. 다만 모델 전체를 한 번에 중단하는 '킬 스위치(Kill Switch)' 의무화에는 입장이 엇갈렸다.로이터에 따르면, 앤트로픽은 지난 15일(현지시간) 개빈 뉴섬 캘리포니아 주지사에게 보낸 서한에서 AI 모델이 대중에게 심각한 위험을 초래할 경우 정부가 법원에 출시 금지 명령을 요청할 수 있",
+   "publishedAt": 1793254376000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "아마존, AI 비서 '알렉사+' 탑재 신제품 5종 공개...기기 사업부 250명 감원",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216784",
+   "summary": "아마존이 AI 비서 ‘알렉사+(Alexa+)’를 탑재한 스마트홈 기기 신제품 5종을 공개했다. 카메라로 사물을 인식하는 스마트 스피커부터 수면 상태에 맞춰 깨워주는 알람 시계, AI가 사진을 선별하는 디지털 액자까지 제품군을 확대했다. 다만 신제품 발표와 같은 날 기기·서비스 사업부에서 약 250명을 감원해 사업 확장과 조직 효율화를 동시에 추진했다.아마존은 28일(현지시간) 신형 스마트 디스플레이 ‘에코 쇼 16(Echo Show 16)’과 카메라를 내장한 ‘에코 스튜디오(Echo Studio)’, 스마트홈 기능을 강화한 ‘에코",
+   "publishedAt": 1793253872000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+   "url": "https://www.circuithub.com/post/unveiling-the-grid",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50243060",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 484,
+   "comments": 216,
+   "publishedAt": 1793020411000,
+   "isAI": false,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1313,7 +1369,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1327,7 +1383,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1341,63 +1397,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-   "url": "https://www.circuithub.com/post/unveiling-the-grid",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50243060",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 476,
-   "comments": 215,
-   "publishedAt": 1793020411000,
-   "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "세일즈포스 이어 오라클도 AI에 통합…기업용 소프트웨어 판도 변화",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216783",
-   "summary": "오라클이 자사의 기업용 소프트웨어와 데이터를 '챗GPT'에서 통합해 사용할 수 있는 새로운 업무 환경을 공개했다. 지난 8월 세일즈포스가 앤트로픽의 '클로드'에 고객관계관리(CRM) 시스템을 연결한 데 이어, 세계적인 기업용 소프트웨어 업체들이 자사 프로그램의 주요 기능을 외부 AI 서비스에 개방하고 있다. 이용자가 여러 프로그램을 직접 조작하는 대신 AI에 업무를 지시하는 방식으로, 기업용 소프트웨어의 사용자 인터페이스가 챗GPT나 클로드 중심으로 바뀌고 있다.오픈AI와 오라클은 27일(현지시간) 공식 발표를 통해 '오라클 AI",
-   "publishedAt": 1793250269000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "미국 연방법전을 위한 Git",
-   "url": "https://news.hada.io/topic?id=36160",
-   "summary": "Lexifina가 미국 연방법전 9개 편의 개정 지시를 순서대로 적용해 법령 변경 이력 을 구축함. 특정 날짜의 조문과 각 문구를 만든 법률을 확인할 수 있음 법령 이력에는 조문뿐 아니라 시행일과 소급 적용 범위 가 필요함. 당시 공개된 법전만으로는 이후 법률이 과거...",
-   "publishedAt": 1793172854000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "Working with academic communities to build scientific understanding",
-   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-   "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-   "publishedAt": 1793025000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 33.4,
+   "score": 33.3,
    "hot": false
   }
  ]
