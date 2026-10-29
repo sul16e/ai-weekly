@@ -1,19 +1,19 @@
 {
- "updatedAt": 1793288182200,
+ "updatedAt": 1793291843587,
  "week": "2026-W44",
  "items": [
   {
-   "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+   "title": "We're releasing the weights of Mistral Large 4",
    "url": "https://mistral.ai/news/mistral-large-4-oss/",
    "commentsUrl": "https://news.ycombinator.com/item?id=50289418",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 362,
-   "comments": 80,
+   "engagement": 497,
+   "comments": 129,
    "publishedAt": 1793283201000,
    "isAI": true,
-   "score": 63.4,
+   "score": 65.6,
    "hot": true
   },
   {
@@ -23,25 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 516,
-   "comments": 210,
+   "engagement": 527,
+   "comments": 211,
    "publishedAt": 1793244822000,
    "isAI": true,
-   "score": 59.7,
-   "hot": true
-  },
-  {
-   "title": "Gemini 4 Carbon",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50276792",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 982,
-   "comments": 783,
-   "publishedAt": 1793206883000,
-   "isAI": true,
-   "score": 58.8,
+   "score": 59.3,
    "hot": true
   },
   {
@@ -51,9 +37,23 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 234,
-   "comments": 178,
+   "engagement": 276,
+   "comments": 212,
    "publishedAt": 1793277716000,
+   "isAI": true,
+   "score": 59.2,
+   "hot": true
+  },
+  {
+   "title": "Gemini 4 Carbon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50276792",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 987,
+   "comments": 787,
+   "publishedAt": 1793206883000,
    "isAI": true,
    "score": 58.3,
    "hot": true
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 631,
-   "comments": 131,
+   "engagement": 647,
+   "comments": 136,
    "publishedAt": 1793233545000,
    "isAI": false,
-   "score": 52.7,
+   "score": 52.3,
    "hot": true
   },
   {
@@ -80,10 +80,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 477,
-   "comments": 511,
+   "comments": 512,
    "publishedAt": 1793194890000,
    "isAI": true,
-   "score": 51.7,
+   "score": 51.2,
    "hot": false
   },
   {
@@ -93,12 +93,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1166,
+   "engagement": 1168,
    "comments": 401,
    "publishedAt": 1793185420000,
    "isAI": false,
-   "score": 50.9,
+   "score": 50.4,
    "hot": false
+  },
+  {
+   "title": "Mistral Large 4(Le Chonk), 가중치 공개",
+   "url": "https://news.hada.io/topic?id=36233",
+   "summary": "Mistral이 1조 파라미터 네이티브 멀티모달 모델 Mistral Large 4 의 개선된 가중치를 공개함. 공개 프리뷰 이후 강화학습을 확대해 코딩, 방어적 사이버보안, 추론 효율을 높임 Artificial Analysis Coding Agent Index 에서 GLM-5.3와 사실상 동률인 48%로 오픈웨이...",
+   "publishedAt": 1793288505000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "Gemini 4 Carbon, Artificial Analysis Intelligence Index v5에서 새로운 1위 기록",
+   "url": "https://news.hada.io/topic?id=36229",
+   "summary": "Google의 Gemini 4 Carbon 이 Intelligence Index v5에서 59점으로 1위를 기록함. 복잡한 추론, 지식, 과학 과제에서 강점을 보이며 9개 평가 중 4개에서 최고 점수를 얻음 코딩 에이전트 평가 에서는 Antigravity CLI와 함께 사용했을 때 59점으로, Claude Opus 5.5...",
+   "publishedAt": 1793284801000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49,
+   "hot": true
   },
   {
    "title": "Show GN: oh-my-ouroboros - 피드백과 점검으로 스스로 다듬어지는 Claude Code 하네스",
@@ -111,7 +139,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.3,
+   "hot": true
+  },
+  {
+   "title": "Zero click, silent, remote Android DoS",
+   "url": "https://smsofdeath.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50285452",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 258,
+   "comments": 141,
+   "publishedAt": 1793257730000,
+   "isAI": false,
+   "score": 48.1,
    "hot": true
   },
   {
@@ -125,21 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
-   "hot": true
-  },
-  {
-   "title": "Zero click, silent, remote Android DoS",
-   "url": "https://smsofdeath.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50285452",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 236,
-   "comments": 125,
-   "publishedAt": 1793257730000,
-   "isAI": false,
-   "score": 47.8,
+   "score": 47.9,
    "hot": true
   },
   {
@@ -150,11 +178,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 248,
-   "comments": 161,
+   "comments": 163,
    "publishedAt": 1793202390000,
    "isAI": true,
-   "score": 47.8,
-   "hot": true
+   "score": 47.3,
+   "hot": false
   },
   {
    "title": "Show GN: Specify - 코드베이스의 아키텍처와 기능 흐름을 시각화하는 도구",
@@ -167,7 +195,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.2,
+   "hot": true
+  },
+  {
+   "title": "Google determines the names for bodies of water in Google Earth (2008)",
+   "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50287448",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 162,
+   "comments": 127,
+   "publishedAt": 1793274078000,
+   "isAI": false,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -181,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -191,11 +233,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 352,
-   "comments": 209,
+   "engagement": 360,
+   "comments": 221,
    "publishedAt": 1793221404000,
    "isAI": false,
-   "score": 46.4,
+   "score": 46.1,
+   "hot": true
+  },
+  {
+   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+   "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50285319",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 205,
+   "comments": 35,
+   "publishedAt": 1793256448000,
+   "isAI": false,
+   "score": 45.9,
    "hot": true
   },
   {
@@ -209,7 +265,7 @@
    "comments": 73,
    "publishedAt": 1793218216000,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.9,
    "hot": true
   },
   {
@@ -223,36 +279,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 45,
    "hot": true
-  },
-  {
-   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-   "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50285319",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 184,
-   "comments": 33,
-   "publishedAt": 1793256448000,
-   "isAI": false,
-   "score": 45.4,
-   "hot": true
-  },
-  {
-   "title": "Google determines the names for bodies of water in Google Earth (2008)",
-   "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50287448",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 140,
-   "comments": 107,
-   "publishedAt": 1793274078000,
-   "isAI": false,
-   "score": 45.3,
-   "hot": false
   },
   {
    "title": "Show GN: knock - 클로드 코드로 일하는 척하면서 친구랑 점심 메뉴 정하기",
@@ -265,8 +293,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.9,
    "hot": true
+  },
+  {
+   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+   "url": "https://www.brangus.io/survival-llm",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50264853",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 534,
+   "comments": 200,
+   "publishedAt": 1793130906000,
+   "isAI": true,
+   "score": 44.8,
+   "hot": false
   },
   {
    "title": "Show GN: anti-stuck - Claude Code가 멈춘 명령·서브에이전트를 영원히 기다리지 않게 하는 플러그인",
@@ -279,22 +321,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.7,
    "hot": true
-  },
-  {
-   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-   "url": "https://www.brangus.io/survival-llm",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50264853",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 532,
-   "comments": 197,
-   "publishedAt": 1793130906000,
-   "isAI": true,
-   "score": 45.1,
-   "hot": false
   },
   {
    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
@@ -307,20 +335,6 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.6,
-   "hot": false
-  },
-  {
-   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50260814",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 590,
-   "comments": 295,
-   "publishedAt": 1793114906000,
-   "isAI": true,
    "score": 44.2,
    "hot": false
   },
@@ -331,12 +345,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 228,
-   "comments": 108,
+   "engagement": 237,
+   "comments": 111,
    "publishedAt": 1793231146000,
    "isAI": false,
-   "score": 44.1,
+   "score": 44,
    "hot": true
+  },
+  {
+   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50260814",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 592,
+   "comments": 295,
+   "publishedAt": 1793114906000,
+   "isAI": true,
+   "score": 43.9,
+   "hot": false
+  },
+  {
+   "title": "Finland investigate Google over destruction of 250k trees",
+   "url": "https://yle.fi/a/74-20254086",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50290170",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 104,
+   "comments": 60,
+   "publishedAt": 1793285861000,
+   "isAI": false,
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "Qwenputer: Qwen3.5 내부에서 작동하는 결정론적 RISC-V CPU",
@@ -349,21 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.1,
-   "hot": false
-  },
-  {
-   "title": "Show GN: 생성형 LLM 없이 만든 실시간 음성 예약 봇 데모 - jev 활용기",
-   "url": "https://news.hada.io/topic?id=36205",
-   "summary": "안녕하세요. 저희는 AI와 사람 간의 실시간 음성 통신 기술을 개발하고 있습니다. \"단순 일상 대화가 아니라 식당 예약처럼 실제 비즈니스 업무를 수행하는 음성 에이전트를 만드는 게 가능한가?\"라는 의문에서 출발해, 실제 데모를 구현하며 겪은 생성형 LLM의 한계와 이를 비생성형 판별 모델인 ...",
-   "publishedAt": 1793241599000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 43.7,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -377,7 +405,21 @@
    "comments": 659,
    "publishedAt": 1793099294000,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.3,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 생성형 LLM 없이 만든 실시간 음성 예약 봇 데모 - jev 활용기",
+   "url": "https://news.hada.io/topic?id=36205",
+   "summary": "안녕하세요. 저희는 AI와 사람 간의 실시간 음성 통신 기술을 개발하고 있습니다. \"단순 일상 대화가 아니라 식당 예약처럼 실제 비즈니스 업무를 수행하는 음성 에이전트를 만드는 게 가능한가?\"라는 의문에서 출발해, 실제 데모를 구현하며 겪은 생성형 LLM의 한계와 이를 비생성형 판별 모델인 ...",
+   "publishedAt": 1793241599000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -391,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.5,
+   "score": 43,
    "hot": false
   },
   {
@@ -405,7 +447,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -419,21 +461,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.1,
-   "hot": false
-  },
-  {
-   "title": "kern - AI 생성 코드를 매번 새 컨테이너에서 실행하는 경량 루트리스 런타임",
-   "url": "https://news.hada.io/topic?id=36200",
-   "summary": "AI가 생성한 코드, 에이전트 도구 호출, CI 작업 등을 호스트에서 직접 실행하지 않고 별도 컨테이너에 격리 하는 Linux 런타임 데몬이나 소켓 없이 정적 바이너리 하나로 동작 하며, 호스트의 root 권한 없이 실행됨 컨테이너가 없을 때 런타임의 상주 프로...",
-   "publishedAt": 1793233803000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 42.8,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -447,35 +475,7 @@
    "comments": 130,
    "publishedAt": 1793196140000,
    "isAI": true,
-   "score": 42.7,
-   "hot": false
-  },
-  {
-   "title": "AAII v5 공개 - 비공개 평가 비중을 60%로 높인 AI 모델 역량 지수",
-   "url": "https://news.hada.io/topic?id=36197",
-   "summary": "Artificial Analysis Intelligence Index v5 는 벤치마크 2개를 추가하고 3개를 개편했으며, 지수의 60%를 비공개 테스트 세트 또는 비공개 정답 기반 평가로 구성함 Claude Opus 5.5 (max) 가 58점으로 선두이며, GPT-6 Astra (max)가 57점, GPT-6.1 Sol (max)이 5...",
-   "publishedAt": 1793232615000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 42.6,
-   "hot": false
-  },
-  {
-   "title": "이대로는 지속 가능하지 않다 - 취약점 공개 속도를 따라가지 못하는 보안 대응",
-   "url": "https://news.hada.io/topic?id=36195",
-   "summary": "취약점 발견과 공개 속도 가 방어 조직의 대응 능력을 넘어섰으며, AI로 패치를 생성하는 것만으로는 이 문제를 해결할 수 없음 실제 병목은 패치 개발이 아니라 적용 과정 에 있음. 조직별 공격 표면과 악용 가능성을 파악하고, 완화책을 검토하고, 수정을 배포하는...",
-   "publishedAt": 1793232294000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 42.6,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -489,7 +489,49 @@
    "comments": 1675,
    "publishedAt": 1793019890000,
    "isAI": true,
-   "score": 42.5,
+   "score": 42.3,
+   "hot": false
+  },
+  {
+   "title": "kern - AI 생성 코드를 매번 새 컨테이너에서 실행하는 경량 루트리스 런타임",
+   "url": "https://news.hada.io/topic?id=36200",
+   "summary": "AI가 생성한 코드, 에이전트 도구 호출, CI 작업 등을 호스트에서 직접 실행하지 않고 별도 컨테이너에 격리 하는 Linux 런타임 데몬이나 소켓 없이 정적 바이너리 하나로 동작 하며, 호스트의 root 권한 없이 실행됨 컨테이너가 없을 때 런타임의 상주 프로...",
+   "publishedAt": 1793233803000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 42.3,
+   "hot": false
+  },
+  {
+   "title": "AAII v5 공개 - 비공개 평가 비중을 60%로 높인 AI 모델 역량 지수",
+   "url": "https://news.hada.io/topic?id=36197",
+   "summary": "Artificial Analysis Intelligence Index v5 는 벤치마크 2개를 추가하고 3개를 개편했으며, 지수의 60%를 비공개 테스트 세트 또는 비공개 정답 기반 평가로 구성함 Claude Opus 5.5 (max) 가 58점으로 선두이며, GPT-6 Astra (max)가 57점, GPT-6.1 Sol (max)이 5...",
+   "publishedAt": 1793232615000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 42.2,
+   "hot": false
+  },
+  {
+   "title": "이대로는 지속 가능하지 않다 - 취약점 공개 속도를 따라가지 못하는 보안 대응",
+   "url": "https://news.hada.io/topic?id=36195",
+   "summary": "취약점 발견과 공개 속도 가 방어 조직의 대응 능력을 넘어섰으며, AI로 패치를 생성하는 것만으로는 이 문제를 해결할 수 없음 실제 병목은 패치 개발이 아니라 적용 과정 에 있음. 조직별 공격 표면과 악용 가능성을 파악하고, 완화책을 검토하고, 수정을 배포하는...",
+   "publishedAt": 1793232294000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -499,12 +541,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 277,
+   "engagement": 278,
    "comments": 75,
    "publishedAt": 1793203313000,
    "isAI": false,
-   "score": 42.4,
-   "hot": true
+   "score": 42,
+   "hot": false
   },
   {
    "title": "Early progress on accelerating drug development with Claude",
@@ -517,7 +559,7 @@
    "comments": 337,
    "publishedAt": 1793134242000,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
    "hot": false
   },
   {
@@ -531,7 +573,7 @@
    "comments": 312,
    "publishedAt": 1793119215000,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -541,12 +583,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 512,
-   "comments": 237,
+   "engagement": 513,
+   "comments": 239,
    "publishedAt": 1793099295000,
    "isAI": true,
-   "score": 42,
+   "score": 41.7,
    "hot": false
+  },
+  {
+   "title": "DoorDash, 약 25.5조원에 Instacart 인수 추진",
+   "url": "https://news.hada.io/topic?id=36235",
+   "summary": "DoorDash 가 Instacart를 주당 65달러, 총 지분가치 약 170억 달러($17b) 에 인수하는 확정 계약을 체결함. 인수 대가의 최소 75%는 현금이며, 주식은 최대 25%로 제한됨 DoorDash의 배송망 과 Instacart의 식료품 주문 처리 기술을 결합해, 지역 매...",
+   "publishedAt": 1793288865000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
+  },
+  {
+   "title": "FBI가 마틴 루서 킹 주니어의 자살을 유도하려 보낸 편지(2014)",
+   "url": "https://news.hada.io/topic?id=36234",
+   "summary": "FBI 는 마틴 루서 킹 주니어를 대규모로 감시한 뒤, 자살을 유도하려는 서명 없는 편지를 그의 집으로 보냄 1963년 “I Have a Dream” 연설 이후 FBI 국내정보 책임자 윌리엄 설리번은 킹을 공산주의와 국가안보 측면에서 위험한 인물로 지목함 FBI 국장 ...",
+   "publishedAt": 1793288685000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
   },
   {
    "title": "AlpineBSD - NetBSD 기반에 Alpine Linux 스타일의 사용자 공간을 결합한 운영체제",
@@ -559,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -573,8 +643,36 @@
    "comments": 290,
    "publishedAt": 1793118330000,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.5,
    "hot": false
+  },
+  {
+   "title": "Show GN: 만든 사람도 결과를 미리 모르는 사다리타기 (drand 예약 추첨)",
+   "url": "https://news.hada.io/topic?id=36232",
+   "summary": "카톡방에서 사다리타기 링크를 돌리면 늘 「조작 아니냐」는 말이 나옵니다. 실제로 흔히 쓰는 사다리 공유 사이트를 열어 보니, 링크에 사다리 모양이 통째로 들어 있어서 만든 사람이 원하는 결과가 나올 때까지 다시 섞은 뒤 그 링크만 보낼 수 있었습니다. 받는 사람은 알 방법이 없고요. 그래서 결과를 「",
+   "publishedAt": 1793285364000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
+  },
+  {
+   "title": "미국, 단 3개월 만에 역대 최대인 20.2GWh 배터리 저장 용량 추가",
+   "url": "https://news.hada.io/topic?id=36231",
+   "summary": "미국의 2026년 2분기 배터리 저장 설비 신규 설치량 이 20.2GWh로 분기 최고치를 기록했으며, 상반기 설치량은 전년 대비 23% 증가한 30.8GWh에 달함 성장은 전력망용 대규모 배터리 가 주도했으며, 2분기 약 18GWh가 설치됨 배터리는 전력이 풍부하고 저렴...",
+   "publishedAt": 1793285161000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
   },
   {
    "title": "DAYJOB: Tax - 전문 세무 과제 50개로 AI 에이전트 평가하기",
@@ -587,8 +685,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
+  },
+  {
+   "title": "논리 버그만으로 Microsoft Edge 전체 익스플로잇 체인 구축하기",
+   "url": "https://news.hada.io/topic?id=36230",
+   "summary": "Pwn2Own Berlin 2026을 위해 메모리 손상 없이 논리 버그만으로 Microsoft Edge에서 임의 코드 실행까지 이어지는 체인을 구축함 브라우저 내부 탐색 API가 출발 탭을 명시하지 않으면 활성 탭을 사용 하는 동작을 이용해, 다른 사이트에서 JavaScript를 실행하는 범...",
+   "publishedAt": 1793284981000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
+   "hot": true
   },
   {
    "title": "이 브라우저 지문 수집 스크립트는 왜 생물무기를 만들고 있을까?",
@@ -601,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -615,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -629,8 +741,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
+  },
+  {
+   "title": "The Mythical Man-Month in the Age of AI",
+   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50255298",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 485,
+   "comments": 357,
+   "publishedAt": 1793082337000,
+   "isAI": true,
+   "score": 40,
+   "hot": false
   },
   {
    "title": "Gemini 4 Carbon - 사이버 보안과 장기 에이전트 작업 역량을 강화한 모델",
@@ -643,21 +769,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
-   "title": "The Mythical Man-Month in the Age of AI",
-   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50255298",
+   "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+   "summary": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+   "publishedAt": 1793290860000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.9,
+   "hot": false
+  },
+  {
+   "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
+   "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50272145",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 485,
-   "comments": 356,
-   "publishedAt": 1793082337000,
-   "isAI": true,
-   "score": 40.3,
+   "engagement": 236,
+   "comments": 105,
+   "publishedAt": 1793188463000,
+   "isAI": false,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -671,27 +811,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.7,
-   "hot": false
-  },
-  {
-   "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
-   "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50272145",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 234,
-   "comments": 105,
-   "publishedAt": 1793188463000,
-   "isAI": false,
-   "score": 39.6,
+   "score": 39.3,
    "hot": false
   },
   {
    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
    "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-   "summary": "On Thursday, AI app, Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+   "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
    "publishedAt": 1793284526000,
    "source": "TechCrunch AI",
    "sourceType": "media",
@@ -699,7 +825,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -713,7 +839,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -727,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -741,13 +867,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
    "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-   "summary": "Deepgram said that it is committed to keep Pipecat open source.",
+   "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
    "publishedAt": 1793278800000,
    "source": "TechCrunch AI",
    "sourceType": "media",
@@ -755,21 +881,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.9,
-   "hot": false
-  },
-  {
-   "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
-   "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
-   "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.",
-   "publishedAt": 1793278800000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 38.9,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -779,11 +891,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 633,
+   "engagement": 634,
    "comments": 426,
    "publishedAt": 1793037677000,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.3,
+   "hot": false
+  },
+  {
+   "title": "Python's experimental JIT to be removed",
+   "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50257419",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 572,
+   "comments": 330,
+   "publishedAt": 1793099877000,
+   "isAI": false,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -797,22 +923,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
-  },
-  {
-   "title": "Python's experimental JIT to be removed",
-   "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50257419",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 572,
-   "comments": 330,
-   "publishedAt": 1793099877000,
-   "isAI": false,
-   "score": 37.7,
-   "hot": false
   },
   {
    "title": "GOTO는 정말 끝내준다(C 오류 처리에서)",
@@ -825,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -839,8 +951,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Retell uses OpenAI models to help power 100M monthly calls",
@@ -853,7 +965,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -864,10 +976,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 331,
-   "comments": 208,
+   "comments": 209,
    "publishedAt": 1793126657000,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -881,7 +993,20 @@
    "comments": 1165,
    "publishedAt": 1793028912000,
    "isAI": false,
-   "score": 36.4,
+   "score": 36.2,
+   "hot": false
+  },
+  {
+   "title": "Apsara conference: Qwen4 next week",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 30.8,
+   "publishedAt": 1793265947000,
+   "isAI": true,
+   "score": 36,
    "hot": false
   },
   {
@@ -895,20 +1020,7 @@
    "comments": 23,
    "publishedAt": 1793200673000,
    "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Apsara conference: Qwen4 next week",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 30.8,
-   "publishedAt": 1793265947000,
-   "isAI": true,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -922,7 +1034,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "OpenAI's agents talked to each other through the CPU Cache",
+   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50251200",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 338,
+   "comments": 234,
+   "publishedAt": 1793049858000,
+   "isAI": true,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -936,7 +1062,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -950,7 +1076,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -964,21 +1090,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "OpenAI's agents talked to each other through the CPU Cache",
-   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50251200",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 309,
-   "comments": 215,
-   "publishedAt": 1793049858000,
-   "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -992,7 +1104,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1006,7 +1118,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -1020,7 +1132,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1034,21 +1146,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "Software may be getting worse, but it used to be horrible",
-   "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50257548",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 343,
-   "comments": 344,
-   "publishedAt": 1793100635000,
-   "isAI": false,
-   "score": 34.8,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1062,7 +1160,21 @@
    "comments": 131,
    "publishedAt": 1793032544000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
+   "hot": false
+  },
+  {
+   "title": "Software may be getting worse, but it used to be horrible",
+   "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50257548",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 343,
+   "comments": 346,
+   "publishedAt": 1793100635000,
+   "isAI": false,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1076,7 +1188,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1090,7 +1202,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1104,7 +1216,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34,
    "hot": false
   },
   {
@@ -1118,7 +1230,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1132,7 +1244,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "Microsoft’s AI future has fewer jobs",
+   "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+   "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees ",
+   "publishedAt": 1793289600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1140,48 +1266,6 @@
    "url": "https://news.hada.io/topic?id=36179",
    "summary": "애플이 탠덤 OLED 기반 PROLED XDR 을 탑재하고 Mac 최초로 터치를 지원 하는 MacBook Pro 14 및 16 모델을 공개함 패널에 통합된 터치 센서 로 그림 그리기, 악기 연주, iOS 및 iPadOS 앱의 터치 테스트가 가능, macOS가 터치 입력을 클릭으로 변환...",
    "publishedAt": 1793212799000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "The NYT Cooking app is testing AI recipe modifications",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-   "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it's sparked some drama among users. NYT Cooking senior editor Genevieve Ko announced the feature last Friday, which can be used to recommend substitutions for ingredients and cooking equipment",
-   "publishedAt": 1793284777000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "미국 FCC, Amazon의 Globalstar 115억 달러 인수 승인",
-   "url": "https://news.hada.io/topic?id=36177",
-   "summary": "미국 연방통신위원회(FCC)가 Amazon Leo의 Globalstar 115억 달러 인수를 승인했으며, Amazon은 이를 통해 SpaceX의 Starlink와 경쟁할 위성 통신망 구축을 추진함 Amazon Leo는 2025년 4월 이후 약 400개의 위성을 발사했으며, 이번 인수로 Globalstar의 위성 약 24개와 이동위성통신 주파수를 확보해...",
-   "publishedAt": 1793209182000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "CNC를 활용한 석재 조각",
-   "url": "https://news.hada.io/topic?id=36176",
-   "summary": "CNC 기계와 로봇 을 활용하면 숙련된 조각가가 수개월 걸리던 고딕 성당의 정교한 장식물을 수일 만에 제작할 수 있어, 시간과 예산 때문에 장식을 생략할 필요가 줄어듦 석재 조각용 CNC는 주로 다이아몬드 공구와 5축 제어 로 돌을 깎으며, 물은 절삭 수단이 아니라...",
-   "publishedAt": 1793209002000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -1197,67 +1281,53 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 542,
+   "engagement": 543,
    "summary": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task divers",
    "publishedAt": 1792958400000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
-   "title": "How Check Point accelerates vulnerability research with Daybreak",
-   "url": "https://openai.com/index/check-point-daybreak",
-   "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-   "publishedAt": 1793059200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Anthropic is asking Wall Street to believe in AGI",
-   "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-   "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]",
-   "publishedAt": 1793282400000,
+   "title": "The NYT Cooking app is testing AI recipe modifications",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+   "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipm",
+   "publishedAt": 1793284777000,
    "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.3,
    "hot": false
   },
   {
-   "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
-   "url": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
-   "summary": "Amazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries. As an example, Amazon says you can now ask Alexa for Shopping to \"Create a new shopping list\" or \"Show me what's left on my wedding registry.",
-   "publishedAt": 1793281968000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "사모펀드 투자 기업에 다가오는 3,000억 달러 규모의 부채 만기",
-   "url": "https://news.hada.io/topic?id=36175",
-   "summary": "사모펀드(PE)가 인수한 기업들이 2028~2029년 만기가 도래하는 약 3,000억 달러(약 430조 원)의 부채 를 안고 있으며, 대규모 채무불이행 과 투자 손실을 피하기 위해 대출 만기 연장 을 서두르고 있음 2021년 저금리 환경에서 사모펀드들이 7년 만기...",
-   "publishedAt": 1793205969000,
+   "title": "미국 FCC, Amazon의 Globalstar 115억 달러 인수 승인",
+   "url": "https://news.hada.io/topic?id=36177",
+   "summary": "미국 연방통신위원회(FCC)가 Amazon Leo의 Globalstar 115억 달러 인수를 승인했으며, Amazon은 이를 통해 SpaceX의 Starlink와 경쟁할 위성 통신망 구축을 추진함 Amazon Leo는 2025년 4월 이후 약 400개의 위성을 발사했으며, 이번 인수로 Globalstar의 위성 약 24개와 이동위성통신 주파수를 확보해...",
+   "publishedAt": 1793209182000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "CNC를 활용한 석재 조각",
+   "url": "https://news.hada.io/topic?id=36176",
+   "summary": "CNC 기계와 로봇 을 활용하면 숙련된 조각가가 수개월 걸리던 고딕 성당의 정교한 장식물을 수일 만에 제작할 수 있어, 시간과 예산 때문에 장식을 생략할 필요가 줄어듦 석재 조각용 CNC는 주로 다이아몬드 공구와 5축 제어 로 돌을 깎으며, 물은 절삭 수단이 아니라...",
+   "publishedAt": 1793209002000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1271,7 +1341,35 @@
    "comments": 334,
    "publishedAt": 1793037415000,
    "isAI": false,
-   "score": 33.3,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "How Check Point accelerates vulnerability research with Daybreak",
+   "url": "https://openai.com/index/check-point-daybreak",
+   "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+   "publishedAt": 1793059200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "Anthropic is asking Wall Street to believe in AGI",
+   "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+   "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]",
+   "publishedAt": 1793282400000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1285,119 +1383,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
-   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-   "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-   "publishedAt": 1793223270000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
-   "url": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
-   "summary": "After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates' latest creation is a digital candle that uses a custom AI model to accurately simulate the appearance of a flickering flame across a grid of LEDs. It's a far cry from the types of devices Bates is ty",
-   "publishedAt": 1793281076000,
+   "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
+   "url": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
+   "summary": "Amazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries. As an example, Amazon says you can now ask Alexa for Shopping to \"Create a new shopping list\" or \"Show me what's left on my wedding registry.",
+   "publishedAt": 1793281968000,
    "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Emacs, 50주년을 맞다",
-   "url": "https://news.hada.io/topic?id=36174",
-   "summary": "1976년 MIT 인공지능 연구소에서 탄생한 Emacs 가 50주년을 맞음. 초기 전체 화면 텍스트 편집기 중 하나로, 여러 운영체제용으로 다시 구현되며 지금까지 사용되고 있음 TECO의 화면 편집 확장인 Control-R을 개선하면서 각 키가 매크로를 실행하는 구조 를 도입. 연...",
-   "publishedAt": 1793205789000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-   "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-   "publishedAt": 1793222730000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "Anthropic’s business plan: Build God or die trying",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-   "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT [",
-   "publishedAt": 1793280600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "경쟁사들은 4F² DRAM에 집중하는데, Micron은 왜 포기했나?",
-   "url": "https://news.hada.io/topic?id=36172",
-   "summary": "Micron은 20년 넘게 연구한 4F² DRAM의 제품화를 포기 하고 기존 6F² 구조의 미세화를 이어가기로 함. 4F²와 6F²는 공정 노드가 아니라 DRAM 셀의 면적과 배치를 나타냄 커패시터에 필요한 간격 이 실제 DRAM 밀도를 제한하므로, Micron은 4F² 전환의 밀도 이득은 크...",
-   "publishedAt": 1793201606000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 33,
-   "hot": false
-  },
-  {
-   "title": "Show GN: pele-animate - Mermaid 다이어그램에 애니메이션과 아이콘을 추가해주는 오픈소스 라이브러리",
-   "url": "https://news.hada.io/topic?id=36171",
-   "summary": "기술 문서 사이트에서 많이 사용하는 Mermaid 다이어그램에 단계 별 애니메이션 재생과 아이콘 지원을 추가해주는 오픈소스 라이브러리입니다. 마크다운 노트 앱인 옵시디언 의 CEO kapano가 기존 Mermaid의 단점을 개선하고",
-   "publishedAt": 1793201490000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50252159",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 181,
-   "comments": 79,
-   "publishedAt": 1793054508000,
-   "isAI": true,
-   "score": 32.9,
    "hot": false
   }
  ]
