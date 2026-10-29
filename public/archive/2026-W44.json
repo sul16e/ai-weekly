@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793291843587,
+ "updatedAt": 1793295504959,
  "week": "2026-W44",
  "items": [
   {
@@ -9,25 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 497,
-   "comments": 129,
+   "engagement": 663,
+   "comments": 168,
    "publishedAt": 1793283201000,
    "isAI": true,
-   "score": 65.6,
-   "hot": true
-  },
-  {
-   "title": "Claude Code regularly sends each background agent’s transcript to its model",
-   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50284255",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 527,
-   "comments": 211,
-   "publishedAt": 1793244822000,
-   "isAI": true,
-   "score": 59.3,
+   "score": 67.6,
    "hot": true
   },
   {
@@ -37,11 +23,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 276,
-   "comments": 212,
+   "engagement": 306,
+   "comments": 226,
    "publishedAt": 1793277716000,
    "isAI": true,
-   "score": 59.2,
+   "score": 59.5,
+   "hot": true
+  },
+  {
+   "title": "Claude Code regularly sends each background agent’s transcript to its model",
+   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50284255",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 530,
+   "comments": 216,
+   "publishedAt": 1793244822000,
+   "isAI": true,
+   "score": 58.7,
    "hot": true
   },
   {
@@ -51,11 +51,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 987,
-   "comments": 787,
+   "engagement": 989,
+   "comments": 790,
    "publishedAt": 1793206883000,
    "isAI": true,
-   "score": 58.3,
+   "score": 57.7,
+   "hot": false
+  },
+  {
+   "title": "How we detect frontier model misalignment",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+   "publishedAt": 1793264400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 52.9,
    "hot": true
   },
   {
@@ -65,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 647,
-   "comments": 136,
+   "engagement": 663,
+   "comments": 139,
    "publishedAt": 1793233545000,
    "isAI": false,
-   "score": 52.3,
+   "score": 52,
    "hot": true
   },
   {
@@ -79,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 477,
-   "comments": 512,
+   "engagement": 478,
+   "comments": 513,
    "publishedAt": 1793194890000,
    "isAI": true,
-   "score": 51.2,
+   "score": 50.8,
    "hot": false
   },
   {
@@ -93,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1168,
-   "comments": 401,
+   "engagement": 1171,
+   "comments": 402,
    "publishedAt": 1793185420000,
    "isAI": false,
-   "score": 50.4,
+   "score": 50,
    "hot": false
   },
   {
@@ -111,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.5,
+   "score": 49,
    "hot": true
   },
   {
@@ -125,7 +139,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 48.4,
+   "hot": true
+  },
+  {
+   "title": "Zero click, silent, remote Android DoS",
+   "url": "https://smsofdeath.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50285452",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 274,
+   "comments": 158,
+   "publishedAt": 1793257730000,
+   "isAI": false,
+   "score": 48.1,
    "hot": true
   },
   {
@@ -139,21 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
-   "hot": true
-  },
-  {
-   "title": "Zero click, silent, remote Android DoS",
-   "url": "https://smsofdeath.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50285452",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 258,
-   "comments": 141,
-   "publishedAt": 1793257730000,
-   "isAI": false,
-   "score": 48.1,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -167,8 +181,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
+  },
+  {
+   "title": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
+   "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50291945",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 146,
+   "comments": 91,
+   "publishedAt": 1793292137000,
+   "isAI": false,
+   "score": 47.2,
+   "hot": false
   },
   {
    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
@@ -178,11 +206,25 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 248,
-   "comments": 163,
+   "comments": 164,
    "publishedAt": 1793202390000,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.9,
    "hot": false
+  },
+  {
+   "title": "How Google determines the names for bodies of water in Google Earth (2008)",
+   "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50287448",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 181,
+   "comments": 145,
+   "publishedAt": 1793274078000,
+   "isAI": false,
+   "score": 46.7,
+   "hot": true
   },
   {
    "title": "Show GN: Specify - 코드베이스의 아키텍처와 기능 흐름을 시각화하는 도구",
@@ -195,21 +237,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
-   "title": "Google determines the names for bodies of water in Google Earth (2008)",
-   "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50287448",
+   "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50280864",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 162,
-   "comments": 127,
-   "publishedAt": 1793274078000,
+   "engagement": 369,
+   "comments": 233,
+   "publishedAt": 1793221404000,
    "isAI": false,
-   "score": 46.2,
+   "score": 45.8,
+   "hot": true
+  },
+  {
+   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+   "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50285319",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 212,
+   "comments": 38,
+   "publishedAt": 1793256448000,
+   "isAI": false,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -223,35 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
-   "hot": true
-  },
-  {
-   "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50280864",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 360,
-   "comments": 221,
-   "publishedAt": 1793221404000,
-   "isAI": false,
-   "score": 46.1,
-   "hot": true
-  },
-  {
-   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-   "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50285319",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 205,
-   "comments": 35,
-   "publishedAt": 1793256448000,
-   "isAI": false,
-   "score": 45.9,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -261,12 +289,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 159,
-   "comments": 73,
+   "engagement": 161,
+   "comments": 74,
    "publishedAt": 1793218216000,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.5,
    "hot": true
+  },
+  {
+   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+   "url": "https://www.brangus.io/survival-llm",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50264853",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 535,
+   "comments": 200,
+   "publishedAt": 1793130906000,
+   "isAI": true,
+   "score": 44.5,
+   "hot": false
   },
   {
    "title": "Claude Code는 각 백그라운드 에이전트의 대화 기록을 주기적으로 해당 모델에 전송함",
@@ -279,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -293,22 +335,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.4,
    "hot": true
-  },
-  {
-   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-   "url": "https://www.brangus.io/survival-llm",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50264853",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 534,
-   "comments": 200,
-   "publishedAt": 1793130906000,
-   "isAI": true,
-   "score": 44.8,
-   "hot": false
   },
   {
    "title": "Show GN: anti-stuck - Claude Code가 멈춘 명령·서브에이전트를 영원히 기다리지 않게 하는 플러그인",
@@ -321,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -335,7 +363,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.2,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -345,11 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 237,
-   "comments": 111,
+   "engagement": 238,
+   "comments": 118,
    "publishedAt": 1793231146000,
    "isAI": false,
-   "score": 44,
+   "score": 43.6,
    "hot": true
   },
   {
@@ -359,11 +387,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 592,
+   "engagement": 593,
    "comments": 295,
    "publishedAt": 1793114906000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -373,11 +401,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 104,
-   "comments": 60,
+   "engagement": 107,
+   "comments": 62,
    "publishedAt": 1793285861000,
    "isAI": false,
-   "score": 43.7,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -391,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -405,7 +433,7 @@
    "comments": 659,
    "publishedAt": 1793099294000,
    "isAI": true,
-   "score": 43.3,
+   "score": 43,
    "hot": false
   },
   {
@@ -419,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -433,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -447,7 +475,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -461,7 +489,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -471,11 +499,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 137,
+   "engagement": 139,
    "comments": 130,
    "publishedAt": 1793196140000,
    "isAI": true,
-   "score": 42.3,
+   "score": 42,
    "hot": false
   },
   {
@@ -489,7 +517,7 @@
    "comments": 1675,
    "publishedAt": 1793019890000,
    "isAI": true,
-   "score": 42.3,
+   "score": 42,
    "hot": false
   },
   {
@@ -503,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -517,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -531,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -541,11 +569,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 278,
+   "engagement": 279,
    "comments": 75,
    "publishedAt": 1793203313000,
    "isAI": false,
-   "score": 42,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -556,10 +584,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 328,
-   "comments": 337,
+   "comments": 339,
    "publishedAt": 1793134242000,
    "isAI": true,
-   "score": 42,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -573,8 +601,50 @@
    "comments": 312,
    "publishedAt": 1793119215000,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.6,
    "hot": false
+  },
+  {
+   "title": "IPv4가 땅이라면",
+   "url": "https://news.hada.io/topic?id=36239",
+   "summary": "국가별 IPv4 주소 비중 에 맞춰 각국의 면적을 다시 그린 세계 지도로, 실제 육지 면적과 주소 분포를 비교할 수 있음 남극을 제외한 전 세계 육지 약 1억 3,500만 km² 와 위치를 특정할 수 있는 IPv4 주소 약 36억 개 를 기준으로 삼음 국...",
+   "publishedAt": 1793292167000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
+  },
+  {
+   "title": "Google이 Google Earth에서 수역의 이름을 정하는 방식 (2008)",
+   "url": "https://news.hada.io/topic?id=36238",
+   "summary": "Google이 Google Earth에서 수역의 이름을 정하는 방식 (2008)",
+   "publishedAt": 1793291987000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
+  },
+  {
+   "title": "해커들, 미국 국토안보부 직원 4만 명 이상의 신원 공개",
+   "url": "https://news.hada.io/topic?id=36237",
+   "summary": "해킹 단체 Department of Peace 가 미국 국토안보부(DHS) 인사 파일을 탈취해 요원과 관계자 4만 명 이상의 이름, 전화번호, 주소를 공개했으며, 잠복 작전 관련 인력도 포함됨 해커들은 DHS의 통합 로그인(SSO) 시스템 을 무력화해 데이터를 훔쳤다고 밝혔으며, 자료...",
+   "publishedAt": 1793291807000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
   },
   {
    "title": "Wikipedia's Cleanup of AI-Generated Content",
@@ -584,10 +654,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 513,
-   "comments": 239,
+   "comments": 240,
    "publishedAt": 1793099295000,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.4,
+   "hot": false
+  },
+  {
+   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50261589",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 379,
+   "comments": 291,
+   "publishedAt": 1793118330000,
+   "isAI": true,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -601,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -615,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -629,21 +713,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
-   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50261589",
-   "source": "Hacker News",
+   "title": "DAYJOB: Tax - 전문 세무 과제 50개로 AI 에이전트 평가하기",
+   "url": "https://news.hada.io/topic?id=36188",
+   "summary": "DAYJOB: Tax 는 AI 에이전트가 고객의 최초 요청부터 최종 산출물까지 세무 업무를 책임지고 수행하는지 평가하며, 고객이 묻지 않은 문제를 발견하는 전문적 판단력 까지 시험함 평가 기준의 95% 이상을 충족해야 통과하는 조건에서 Claude Sonnet 5.5가 통...",
+   "publishedAt": 1793223191000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 379,
-   "comments": 290,
-   "publishedAt": 1793118330000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -657,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -671,22 +755,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.7,
    "hot": true
-  },
-  {
-   "title": "DAYJOB: Tax - 전문 세무 과제 50개로 AI 에이전트 평가하기",
-   "url": "https://news.hada.io/topic?id=36188",
-   "summary": "DAYJOB: Tax 는 AI 에이전트가 고객의 최초 요청부터 최종 산출물까지 세무 업무를 책임지고 수행하는지 평가하며, 고객이 묻지 않은 문제를 발견하는 전문적 판단력 까지 시험함 평가 기준의 95% 이상을 충족해야 통과하는 조건에서 Claude Sonnet 5.5가 통...",
-   "publishedAt": 1793223191000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 41.2,
-   "hot": false
   },
   {
    "title": "논리 버그만으로 Microsoft Edge 전체 익스플로잇 체인 구축하기",
@@ -699,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -713,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -727,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -741,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -755,7 +825,21 @@
    "comments": 357,
    "publishedAt": 1793082337000,
    "isAI": true,
-   "score": 40,
+   "score": 39.7,
+   "hot": false
+  },
+  {
+   "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+   "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+   "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+   "publishedAt": 1793292152000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -769,13 +853,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40,
+   "score": 39.6,
    "hot": false
   },
   {
    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-   "summary": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+   "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
    "publishedAt": 1793290860000,
    "source": "TechCrunch AI",
    "sourceType": "media",
@@ -783,7 +867,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -793,25 +877,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 236,
+   "engagement": 237,
    "comments": 105,
    "publishedAt": 1793188463000,
    "isAI": false,
-   "score": 39.3,
-   "hot": false
-  },
-  {
-   "title": "켄터키주 남성, 인본주의자로는 처음으로 AI 사용에 대한 종교적 면제 인정받아",
-   "url": "https://news.hada.io/topic?id=36173",
-   "summary": "켄터키주 남성, 인본주의자로는 처음으로 AI 사용에 대한 종교적 면제 인정받아",
-   "publishedAt": 1793205609000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.3,
+   "score": 39,
    "hot": false
   },
   {
@@ -825,7 +895,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -839,8 +909,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
+  },
+  {
+   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+   "publishedAt": 1793282400000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 38.5,
+   "hot": false
   },
   {
    "title": "Show GN: 팬스워리 Fanswery - 팬과 크리에이터를 잇는 Q&A 플랫폼",
@@ -853,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -867,22 +951,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
-  },
-  {
-   "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-   "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-   "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-   "publishedAt": 1793278800000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 38.5,
-   "hot": false
   },
   {
    "title": "GPT-6.1 Terra",
@@ -895,7 +965,21 @@
    "comments": 426,
    "publishedAt": 1793037677000,
    "isAI": true,
-   "score": 38.3,
+   "score": 38.1,
+   "hot": false
+  },
+  {
+   "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+   "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+   "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+   "publishedAt": 1793278800000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -909,7 +993,7 @@
    "comments": 330,
    "publishedAt": 1793099877000,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -923,8 +1007,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "GOTO는 정말 끝내준다(C 오류 처리에서)",
@@ -937,8 +1021,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "StackOverflow의 월간 질문 수, 이제 1,000건 미만",
@@ -951,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -965,21 +1049,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "Discord will soon let anyone find public server messages through Google",
-   "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50263854",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 331,
-   "comments": 209,
-   "publishedAt": 1793126657000,
-   "isAI": false,
-   "score": 36.2,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -993,20 +1063,35 @@
    "comments": 1165,
    "publishedAt": 1793028912000,
    "isAI": false,
-   "score": 36.2,
+   "score": 36,
    "hot": false
   },
   {
-   "title": "Apsara conference: Qwen4 next week",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/",
-   "source": "r/LocalLLaMA",
+   "title": "Discord will soon let anyone find public server messages through Google",
+   "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50263854",
+   "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 30.8,
-   "publishedAt": 1793265947000,
+   "engagement": 331,
+   "comments": 209,
+   "publishedAt": 1793126657000,
+   "isAI": false,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "OpenAI's agents talked to each other through the CPU Cache",
+   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50251200",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 346,
+   "comments": 243,
+   "publishedAt": 1793049858000,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1020,7 +1105,20 @@
    "comments": 23,
    "publishedAt": 1793200673000,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
+   "hot": false
+  },
+  {
+   "title": "Apsara conference: Qwen4 next week",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 30.8,
+   "publishedAt": 1793265947000,
+   "isAI": true,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1034,21 +1132,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "OpenAI's agents talked to each other through the CPU Cache",
-   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50251200",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 338,
-   "comments": 234,
-   "publishedAt": 1793049858000,
-   "isAI": true,
-   "score": 35.8,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -1062,7 +1146,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -1076,7 +1160,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1090,7 +1174,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1104,7 +1188,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1118,7 +1202,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1132,7 +1216,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1146,7 +1230,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1157,10 +1241,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 331,
-   "comments": 131,
+   "comments": 132,
    "publishedAt": 1793032544000,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1171,10 +1255,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 343,
-   "comments": 346,
+   "comments": 347,
    "publishedAt": 1793100635000,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1188,7 +1272,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1202,7 +1286,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1216,7 +1300,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1230,7 +1314,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1244,7 +1328,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1258,7 +1342,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1272,7 +1356,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1285,21 +1369,7 @@
    "summary": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task divers",
    "publishedAt": 1792958400000,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "The NYT Cooking app is testing AI recipe modifications",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-   "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipm",
-   "publishedAt": 1793284777000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1313,7 +1383,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1327,76 +1397,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Oldest GUI application that still runs on Windows 11",
-   "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50248055",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 539,
-   "comments": 334,
-   "publishedAt": 1793037415000,
-   "isAI": false,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "How Check Point accelerates vulnerability research with Daybreak",
-   "url": "https://openai.com/index/check-point-daybreak",
-   "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-   "publishedAt": 1793059200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Anthropic is asking Wall Street to believe in AGI",
-   "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-   "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]",
-   "publishedAt": 1793282400000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Google expands AI Search ads globally as core ad growth slows",
-   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-   "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-   "publishedAt": 1793224117000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
-   "url": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
-   "summary": "Amazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries. As an example, Amazon says you can now ask Alexa for Shopping to \"Create a new shopping list\" or \"Show me what's left on my wedding registry.",
-   "publishedAt": 1793281968000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 33,
    "hot": false
   }
