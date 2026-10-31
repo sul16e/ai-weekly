@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793484621304,
+ "updatedAt": 1793488282409,
  "week": "2026-W44",
  "items": [
   {
@@ -9,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 133,
-   "comments": 137,
+   "engagement": 146,
+   "comments": 154,
    "publishedAt": 1793472634000,
    "isAI": true,
-   "score": 52.9,
+   "score": 53.2,
+   "hot": false
+  },
+  {
+   "title": "Anthropic blocks users for anything touching training larger models",
+   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50319358",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 119,
+   "comments": 30,
+   "publishedAt": 1793475559000,
+   "isAI": true,
+   "score": 51.7,
    "hot": false
   },
   {
@@ -23,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 643,
+   "engagement": 645,
    "comments": 472,
    "publishedAt": 1793375538000,
    "isAI": true,
-   "score": 51.8,
+   "score": 51.4,
    "hot": false
   },
   {
@@ -37,12 +51,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 965,
-   "comments": 546,
+   "engagement": 966,
+   "comments": 547,
    "publishedAt": 1793344152000,
    "isAI": true,
-   "score": 50.8,
+   "score": 50.4,
    "hot": false
+  },
+  {
+   "title": "Jepsen: ParticleDB 1.1.4 - AI용 데이터베이스의 정합성 검증에서 96개 문제 발견",
+   "url": "https://news.hada.io/topic?id=36353&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Jepsen이 AI 워크로드용 ParticleDB 1.1.4부터 1.1.18.11.rc-22까지 검사해 96개 문제를 발견함. 대부분은 서버와 클라이언트가 각각 하나이고 장애가 없는 환경에서도 발생해, “Full ACID”라는 제품 설명과 어긋남 문제는 충돌과 교착 상태뿐 아니라 잘못된 SQL 결과와 데...",
+   "publishedAt": 1793485995000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
+   "hot": true
   },
   {
    "title": "Backdoors in official Claude Code extensions",
@@ -55,7 +83,21 @@
    "comments": 17,
    "publishedAt": 1793358353000,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.4,
+   "hot": false
+  },
+  {
+   "title": "We're releasing the weights of Mistral Large 4",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50289418",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1706,
+   "comments": 438,
+   "publishedAt": 1793283201000,
+   "isAI": true,
+   "score": 47.6,
    "hot": false
   },
   {
@@ -69,22 +111,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.6,
    "hot": true
   },
   {
-   "title": "We're releasing the weights of Mistral Large 4",
-   "url": "https://mistral.ai/news/mistral-large-4-oss/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50289418",
+   "title": "OpenAI raises less than half of $30B target",
+   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50312922",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1705,
-   "comments": 438,
-   "publishedAt": 1793283201000,
+   "engagement": 181,
+   "comments": 185,
+   "publishedAt": 1793416964000,
    "isAI": true,
-   "score": 47.9,
-   "hot": false
+   "score": 47.2,
+   "hot": true
   },
   {
    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
@@ -94,25 +136,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 322,
-   "comments": 282,
+   "comments": 284,
    "publishedAt": 1793381245000,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.1,
    "hot": false
-  },
-  {
-   "title": "OpenAI raises less than half of $30B target",
-   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50312922",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 178,
-   "comments": 179,
-   "publishedAt": 1793416964000,
-   "isAI": true,
-   "score": 47.5,
-   "hot": true
   },
   {
    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
@@ -121,11 +149,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 289,
-   "comments": 246,
+   "engagement": 290,
+   "comments": 247,
    "publishedAt": 1793381085000,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.4,
    "hot": false
   },
   {
@@ -139,7 +167,7 @@
    "comments": 144,
    "publishedAt": 1793378422000,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.9,
    "hot": false
   },
   {
@@ -153,7 +181,7 @@
    "comments": 1,
    "publishedAt": 1793355771000,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.8,
    "hot": false
   },
   {
@@ -167,8 +195,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.7,
    "hot": true
+  },
+  {
+   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+   "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50304122",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 300,
+   "comments": 368,
+   "publishedAt": 1793369300000,
+   "isAI": true,
+   "score": 45.3,
+   "hot": false
   },
   {
    "title": "Show GN: AI Usage - 여러 Claude Code·Codex 계정의 사용 한도를 보여 주는 macOS 바탕화면 위젯",
@@ -181,35 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
-   "hot": true
-  },
-  {
-   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-   "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50304122",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 299,
-   "comments": 366,
-   "publishedAt": 1793369300000,
-   "isAI": true,
-   "score": 45.7,
-   "hot": false
-  },
-  {
-   "title": "OpenAI, 45조원 조달 목표의 절반에도 못 미치는 투자 약정 확보",
-   "url": "https://news.hada.io/topic?id=36330&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "OpenAI 가 최신 투자 라운드에서 약 110억 달러($11b)의 투자 약정을 확보해, 목표인 300억 달러($30b)의 절반에 못 미침 사안에 정통한 관계자들에 따른 규모로, 현재까지 확보한 투자 약정 기준 임 이번 거래의 기업가치는 1조 ...",
-   "publishedAt": 1793453908000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -223,8 +237,22 @@
    "comments": 294,
    "publishedAt": 1793376782000,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.2,
    "hot": false
+  },
+  {
+   "title": "OpenAI, 최근 투자 라운드에서 목표액 40조원($30b)의 절반도 조달하지 못해",
+   "url": "https://news.hada.io/topic?id=36330&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "OpenAI가 최근 투자 유치에서 당초 목표인 300억 달러(약 40조 원) 의 절반에도 못 미치는 약 110억 달러의 투자 약정을 확보하는 데 그침. AI 산업에 대한 시장의 불안감이 커지면서 대형 투자자들의 참여가 기대보다 저조했음 기업가치는 당초 기대했던 1조 4,000억 달러에서 1조 ...",
+   "publishedAt": 1793453908000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 45.2,
+   "hot": true
   },
   {
    "title": "AI 네이티브 엔지니어링 조직 만들기",
@@ -237,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -247,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 567,
-   "comments": 410,
+   "engagement": 568,
+   "comments": 412,
    "publishedAt": 1793364601000,
    "isAI": false,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -276,10 +304,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 604,
-   "comments": 334,
+   "comments": 335,
    "publishedAt": 1793285875000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -293,21 +321,35 @@
    "comments": 168,
    "publishedAt": 1793310028000,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.6,
    "hot": false
   },
   {
-   "title": "1980년대의 Casio 시계",
-   "url": "https://news.hada.io/topic?id=36350&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Casio는 1980년대에 계산기, 사전, 전화번호부, 센서 를 손목시계에 통합하며 시간을 알려주는 기기를 손목에 착용하는 정보 기기로 확장함 1983년에는 유리에 손가락으로 쓴 숫자와 수학 기호를 인식하는 AT-550 과 화면의 가상 키를 누르는 계산기 시계 TC-500을 출...",
-   "publishedAt": 1793475474000,
+   "title": "TCP 해제 후 사용 취약점: CVE-2026-98432 / CVSS 9.8",
+   "url": "https://news.hada.io/topic?id=36352&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Linux 4.4 이후 커널의 IPv4 TCP 핸드셰이크 에서 인증 없이 원격으로 도달할 수 있는 해제 후 사용(use-after-free) 취약점이 발견됐으며, 커널 CNA는 CVSS 3.1 9.8, Critical로 평가함 연결 종료 시 IPv4 옵션 메모리를 즉시 해제해 다른 CPU의 읽기 작업과 충돌하...",
+   "publishedAt": 1793482598000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 41.3,
+   "hot": true
+  },
+  {
+   "title": "HackerTube: HN에서 추천한 영상으로 만든 YouTube",
+   "url": "https://news.hada.io/topic?id=36351&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "HackerTube 는 Hacker News 댓글에서 추천한 YouTube 영상을 모아 YouTube 형태의 UI로 제공하는 사이트임 Opus 5.5 가 HN 댓글 전체를 내려받아 필터링하고, Sonnet을 활용한 작업 흐름으로 스팸과 저품질 콘텐츠를 제거함 추천 댓글 약 4만 개",
+   "publishedAt": 1793482418000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -321,8 +363,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
+  },
+  {
+   "title": "1980년대의 Casio 시계",
+   "url": "https://news.hada.io/topic?id=36350&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Casio는 1980년대에 계산기, 사전, 전화번호부, 센서 를 손목시계에 통합하며 시간을 알려주는 기기를 손목에 착용하는 정보 기기로 확장함 1983년에는 유리에 손가락으로 쓴 숫자와 수학 기호를 인식하는 AT-550 과 화면의 가상 키를 누르는 계산기 시계 TC-500을 출...",
+   "publishedAt": 1793475474000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.4,
+   "hot": true
   },
   {
    "title": "영국 녹색당, 오랜 원자력 발전 반대 입장 철회",
@@ -335,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -349,7 +405,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -363,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -377,13 +433,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
    "title": "Prospero - 경량 설계와 원격 실행을 지원하는 새로운 코딩 하네스",
    "url": "https://news.hada.io/topic?id=36346&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Prospero 는 C++와 Dear ImGui로 만든 코딩 하네스로, 개발자에 따르면 기능을 희생하지 않으면서 다른 하네스보다 약 100배 적은 자원을 사용함 서브에이전트와 원격 실행 을 지원하며, 시각 기능이 있는 모델은 데스크톱을 직접 조작해 GUI 애플리케이션을 테스트하...",
+   "summary": "C++와 Dear ImGui로 만든 네이티브 GUI 코딩 하네스 로, Windows, macOS, Linux에서 실행됨. 로컬 모델이나 외부 모델 API를 연결해 사용함 서브에이전트의 병렬 작업과 원격 실행 을 지원하며, 시각 기능이 있는 모델은 화면을 보고 클릭하거나 입력해 GUI 앱을 테스...",
    "publishedAt": 1793468984000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -391,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -405,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -419,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -433,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -447,7 +503,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -458,10 +514,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 124,
-   "comments": 125,
+   "comments": 126,
    "publishedAt": 1793370172000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -475,22 +531,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.2,
    "hot": false
-  },
-  {
-   "title": "Grace Blackwell에는 새 스케줄러가 필요하다: 같은 랙에서 사용 가능한 GPU 27% 확대",
-   "url": "https://news.hada.io/topic?id=36342&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "NVL72 는 랙 내 72개 GPU를 NVLink로 연결하지만, 다중 노드 작업이 여러 랙에 흩어지면 여전히 InfiniBand 병목을 겪음. 하드웨어 성능을 활용하려면 랙을 고려한 작업 배치 가 필요함 학습의 텐서 병렬화와 전문가 병렬화 는 연산으로 완전히 숨기...",
-   "publishedAt": 1793464381000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.6,
-   "hot": true
   },
   {
    "title": "Linode Security Incident",
@@ -503,7 +545,7 @@
    "comments": 108,
    "publishedAt": 1793397460000,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -517,8 +559,22 @@
    "comments": 45,
    "publishedAt": 1793387122000,
    "isAI": false,
-   "score": 39.4,
+   "score": 39.1,
    "hot": false
+  },
+  {
+   "title": "Grace Blackwell에는 새 스케줄러가 필요하다: 같은 랙에서 사용 가능한 GPU 27% 확대",
+   "url": "https://news.hada.io/topic?id=36342&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "NVL72 는 랙 내 72개 GPU를 NVLink로 연결하지만, 다중 노드 작업이 여러 랙에 흩어지면 여전히 InfiniBand 병목을 겪음. 하드웨어 성능을 활용하려면 랙을 고려한 작업 배치 가 필요함 학습의 텐서 병렬화와 전문가 병렬화 는 연산으로 완전히 숨기...",
+   "publishedAt": 1793464381000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.1,
+   "hot": true
   },
   {
    "title": "Gemini 4 Carbon",
@@ -531,7 +587,7 @@
    "comments": 801,
    "publishedAt": 1793206883000,
    "isAI": true,
-   "score": 39.3,
+   "score": 39,
    "hot": false
   },
   {
@@ -545,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -559,7 +615,7 @@
    "comments": 141,
    "publishedAt": 1793351863000,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -573,13 +629,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
-   "title": "디지털 미니멀리즘",
+   "title": "비탈릭 부테린의 디지털 미니멀리즘",
    "url": "https://news.hada.io/topic?id=36339&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "디지털 미니멀리즘 은 기술을 무조건 덜 쓰는 것이 아니라, 디지털 기술에 끌려 들어가는 대신 매번 의식적으로 접근 방식을 선택하는 생활 방식임 X를 탈퇴하지 않고 Firefly 로 접속 인터페이스를 바꾼 개인 실험에서는 기분이 나아지고 온라인 논쟁에 대한 관심이...",
+   "summary": "디지털 기술을 사용하는 방식을 의식적으로 선택 하는 생활을 제안함. 추천 피드와 기본 설정에 이끌리는 대신, 필요한 정보와 기능을 얻는 방법을 직접 정하는 것이 핵심 X를 떠나는 대신 통합 클라이언트 Firefly로 인터페이스를 바꾸자 기분이 나아지고 온라인 논...",
    "publishedAt": 1793461484000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -587,13 +643,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
-   "title": "ChatGPT 계정을 탈취한 방법",
+   "title": "ChatGPT 공유 링크 하나로 계정을 탈취한 방법",
    "url": "https://news.hada.io/topic?id=36338&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Parameter 연구팀은 공개 ChatGPT 공유 링크 를 통해 다른 사용자의 로그인 세션에서 임의 JavaScript를 실행하는 취약점을 발견했으며, 자동 Preview 경로에서는 링크를 여는 것만으로 공격이 실행됨 격리된 HTML Preview가 보낸 메시지를 MathLive 가 발신자 검증 ...",
+   "summary": "악성 ChatGPT 공유 링크를 열면 로그인한 사용자의 권한으로 JavaScript가 실행되는 취약점 이 발견됨. 자동 미리보기를 이용한 버전에서는 추가 클릭도 필요하지 않았음 격리된 HTML 미리보기가 보낸 메시지를 수학 라이브러리 MathLive가 발신자 검증 없이 처리 하...",
    "publishedAt": 1793461304000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -601,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -615,7 +671,7 @@
    "comments": 236,
    "publishedAt": 1793244822000,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -629,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -643,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -657,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -671,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -685,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -699,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.4,
+   "score": 38,
    "hot": false
   },
   {
@@ -713,22 +769,8 @@
    "comments": 245,
    "publishedAt": 1793277716000,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.9,
    "hot": false
-  },
-  {
-   "title": "세르비아, 세계에서 가장 명석한 의회를 선출하다",
-   "url": "https://news.hada.io/topic?id=36327&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "세르비아, 세계에서 가장 명석한 의회를 선출하다",
-   "publishedAt": 1793450115000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38,
-   "hot": true
   },
   {
    "title": "미국 기술주, AI 비용 우려에 급락",
@@ -741,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -755,7 +797,35 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
+   "hot": false
+  },
+  {
+   "title": "세르비아, 세계에서 가장 명석한 의회를 선출하다",
+   "url": "https://news.hada.io/topic?id=36327&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "세르비아, 세계에서 가장 명석한 의회를 선출하다",
+   "publishedAt": 1793450115000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.6,
+   "hot": true
+  },
+  {
+   "title": "Fair use benefits everyone",
+   "url": "https://openai.com/index/fair-use-benefits-everyone",
+   "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+   "publishedAt": 1793318400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -769,21 +839,7 @@
    "comments": 40,
    "publishedAt": 1793395800000,
    "isAI": false,
-   "score": 37.8,
-   "hot": false
-  },
-  {
-   "title": "Fair use benefits everyone",
-   "url": "https://openai.com/index/fair-use-benefits-everyone",
-   "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-   "publishedAt": 1793318400000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 37.8,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -797,7 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -811,7 +867,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -825,7 +881,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -839,7 +895,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -853,7 +909,7 @@
    "comments": 1,
    "publishedAt": 1793374745000,
    "isAI": false,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -867,21 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
-  },
-  {
-   "title": "Cursor 마켓플레이스의 Claude Code 확장에서 SSH 백도어 발견",
-   "url": "https://news.hada.io/topic?id=36295&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Cursor 마켓플레이스에서 Claude Code 확장에 SSH 백도어를 삽입한 변조본 이 배포됨. 최신 공지의 영향 대상은 macOS·Windows용 2.1.312·2.1.313 악성코드는 확장 로드 즉시 실행돼 시스템 정보를 전송하고 공격자의 SSH 키와 자동 실행 스크립트를 설치...",
-   "publishedAt": 1793374447000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 37,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -891,11 +933,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 179,
+   "engagement": 180,
    "comments": 193,
    "publishedAt": 1793311114000,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -906,10 +948,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 359,
-   "comments": 256,
+   "comments": 257,
    "publishedAt": 1793320961000,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
+   "hot": false
+  },
+  {
+   "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+   "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50289692",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 232,
+   "comments": 87,
+   "publishedAt": 1793284146000,
+   "isAI": true,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -923,21 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-   "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50289692",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 231,
-   "comments": 85,
-   "publishedAt": 1793284146000,
-   "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -951,35 +993,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "French national assembly votes 0.055€/GB internet tax",
-   "url": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50308240",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 137,
-   "comments": 155,
-   "publishedAt": 1793385116000,
-   "isAI": false,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "Google Search is now less than half of Alphabet’s revenue",
-   "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50291945",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 431,
-   "comments": 355,
-   "publishedAt": 1793292137000,
-   "isAI": false,
-   "score": 35.8,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -993,21 +1007,49 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.6,
    "hot": false
   },
   {
-   "title": "Linode 보안 사고",
-   "url": "https://news.hada.io/topic?id=36320&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Akamai가 최근 공개된 원격 코드 실행 취약점 CVE-2026-98432 를 조사하며 완화 조치와 플랫폼 모니터링을 진행 중임 알려진 공격 경로에 대한 완화 조치를 배포 중 이며, 그 밖의 잠재적 영향도 계속 분석하고 있음 최신 공지 시점에는 Akamai Compute 플랫...",
-   "publishedAt": 1793424683000,
-   "source": "GeekNews",
+   "title": "French national assembly votes 0.055€/GB internet tax",
+   "url": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50308240",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 137,
+   "comments": 155,
+   "publishedAt": 1793385116000,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "Google Search is now less than half of Alphabet’s revenue",
+   "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50291945",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 431,
+   "comments": 356,
+   "publishedAt": 1793292137000,
+   "isAI": false,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+   "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50290652",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 186,
+   "comments": 42,
+   "publishedAt": 1793287788000,
+   "isAI": true,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1021,21 +1063,21 @@
    "comments": 35,
    "publishedAt": 1793316346000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false
   },
   {
-   "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-   "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50290652",
-   "source": "Hacker News",
+   "title": "Linode 보안 사고",
+   "url": "https://news.hada.io/topic?id=36320&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Akamai가 최근 공개된 원격 코드 실행 취약점 CVE-2026-98432 를 조사하며 완화 조치와 플랫폼 모니터링을 진행 중임 알려진 공격 경로에 대한 완화 조치를 배포 중 이며, 그 밖의 잠재적 영향도 계속 분석하고 있음 최신 공지 시점에는 Akamai Compute 플랫...",
+   "publishedAt": 1793424683000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 181,
-   "comments": 39,
-   "publishedAt": 1793287788000,
-   "isAI": true,
-   "score": 35.3,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35,
    "hot": false
   },
   {
@@ -1049,7 +1091,7 @@
    "comments": 72,
    "publishedAt": 1793286377000,
    "isAI": true,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1063,7 +1105,7 @@
    "comments": 549,
    "publishedAt": 1793194890000,
    "isAI": true,
-   "score": 35,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1074,10 +1116,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 356,
-   "comments": 241,
+   "comments": 240,
    "publishedAt": 1793295828000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1091,7 +1133,7 @@
    "comments": 411,
    "publishedAt": 1793185420000,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1105,7 +1147,7 @@
    "comments": 145,
    "publishedAt": 1793233545000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1119,21 +1161,7 @@
    "comments": 117,
    "publishedAt": 1793310568000,
    "isAI": true,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "Patrick Stewart가 Jean-Luc Picard 함장을 통해 가르쳐 준 사람의 됨됨이",
-   "url": "https://news.hada.io/topic?id=36317&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Patrick Stewart가 연기한 Jean-Luc Picard 함장 은 책을 좋아하고 상상력이 풍부하며 다소 너드 성향인 소년 세대에게 성숙하고 책임감 있는 어른의 본보기가 되었음 Stewart의 죽음 은 1990년대 Star Trek: The Next Generation을 보며 자란 일부 팬들에게 미래의 ...",
-   "publishedAt": 1793410418000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.1,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1147,7 +1175,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "Patrick Stewart가 Jean-Luc Picard 함장을 통해 가르쳐 준 사람의 됨됨이",
+   "url": "https://news.hada.io/topic?id=36317&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Patrick Stewart가 연기한 Jean-Luc Picard 함장 은 책을 좋아하고 상상력이 풍부하며 다소 너드 성향인 소년 세대에게 성숙하고 책임감 있는 어른의 본보기가 되었음 Stewart의 죽음 은 1990년대 Star Trek: The Next Generation을 보며 자란 일부 팬들에게 미래의 ...",
+   "publishedAt": 1793410418000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1161,21 +1203,7 @@
    "comments": 1678,
    "publishedAt": 1793019890000,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "CleanYourTV - Android TV의 불필요한 앱을 끄고 Apple TV 스타일 홈 화면으로 바꾸는 도구",
-   "url": "https://news.hada.io/topic?id=36315&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Android TV와 Google TV에 Wi-Fi로 연결해 제조사 광고/텔레메트리 서비스와 불필요한 기본 앱을 비활성화 하고, 간결한 홈 화면을 설치 루팅이나 펌웨어 교체 없이 ADB로 동작 하며, 앱을 삭제하지 않고 사용 중지하는 방식. 변경 전 상태를 기록하고 복구 스크립트...",
-   "publishedAt": 1793406602000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.7,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1189,7 +1217,21 @@
    "comments": 139,
    "publishedAt": 1793294665000,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "CleanYourTV - Android TV의 불필요한 앱을 끄고 Apple TV 스타일 홈 화면으로 바꾸는 도구",
+   "url": "https://news.hada.io/topic?id=36315&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Android TV와 Google TV에 Wi-Fi로 연결해 제조사 광고/텔레메트리 서비스와 불필요한 기본 앱을 비활성화 하고, 간결한 홈 화면을 설치 루팅이나 펌웨어 교체 없이 ADB로 동작 하며, 앱을 삭제하지 않고 사용 중지하는 방식. 변경 전 상태를 기록하고 복구 스크립트...",
+   "publishedAt": 1793406602000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1203,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1217,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1231,7 +1273,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1245,21 +1287,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216852",
-   "summary": "샘 알트먼 오픈AI CEO가 삼성그룹 주요 관계사 사장단 50여명과 만나 AI 시대의 경영 전략을 논의했다. 그는 단순히 AI를 도입하는 것만으로는 경쟁력을 확보하기 어렵다며, AI를 활용해 얼마나 빠르게 움직이고 더 나은 제품을 만드느냐가 기업의 경쟁력을 결정할 것이라고 강조했다. 삼성은 31일 경기도 용인 삼성인력개발원에서 알트먼 CEO를 초청해 'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 간담회를 개최했다고 밝혔다. 이날 행사에는 전영현 삼성전자 반도체(DS) 부문장 부회장과 노태문 디바이스경험(DX) 부문장 사장 등",
-   "publishedAt": 1793477451000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1273,7 +1301,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216852",
+   "summary": "샘 알트먼 오픈AI CEO가 삼성그룹 주요 관계사 사장단 50여명과 만나 AI 시대의 경영 전략을 논의했다. 그는 단순히 AI를 도입하는 것만으로는 경쟁력을 확보하기 어렵다며, AI를 활용해 얼마나 빠르게 움직이고 더 나은 제품을 만드느냐가 기업의 경쟁력을 결정할 것이라고 강조했다. 삼성은 31일 경기도 용인 삼성인력개발원에서 알트먼 CEO를 초청해 'AI가 바꿀 다음 10년, 기업의 선택'을 주제로 간담회를 개최했다고 밝혔다. 이날 행사에는 전영현 삼성전자 반도체(DS) 부문장 부회장과 노태문 디바이스경험(DX) 부문장 사장 등",
+   "publishedAt": 1793477451000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1287,7 +1329,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1301,7 +1343,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1315,7 +1357,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1325,25 +1367,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 542,
+   "engagement": 543,
    "comments": 203,
    "publishedAt": 1793130906000,
    "isAI": true,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-   "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-   "publishedAt": 1793409605000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.4,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1357,7 +1385,7 @@
    "comments": 298,
    "publishedAt": 1793114906000,
    "isAI": true,
-   "score": 32.3,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1371,35 +1399,7 @@
    "comments": 664,
    "publishedAt": 1793099294000,
    "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-   "url": "https://surgehq.ai/blog/dayjob-tax",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50275626",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 263,
-   "comments": 174,
-   "publishedAt": 1793202390000,
-   "isAI": true,
    "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "Zero click, silent, remote Android DoS",
-   "url": "https://smsofdeath.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50285452",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 330,
-   "comments": 188,
-   "publishedAt": 1793257730000,
-   "isAI": false,
-   "score": 32,
    "hot": false
   }
  ]
