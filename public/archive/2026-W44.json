@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793455343871,
+ "updatedAt": 1793458997830,
  "week": "2026-W44",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 611,
-   "comments": 459,
+   "engagement": 618,
+   "comments": 461,
    "publishedAt": 1793375538000,
    "isAI": true,
-   "score": 55.4,
+   "score": 55,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 926,
+   "engagement": 932,
    "comments": 537,
    "publishedAt": 1793344152000,
    "isAI": true,
-   "score": 54.1,
+   "score": 53.7,
    "hot": false
   },
   {
@@ -41,7 +41,7 @@
    "comments": 17,
    "publishedAt": 1793358353000,
    "isAI": true,
-   "score": 53.5,
+   "score": 53,
    "hot": false
   },
   {
@@ -52,24 +52,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 312,
-   "comments": 262,
+   "comments": 266,
    "publishedAt": 1793381245000,
    "isAI": true,
-   "score": 51,
-   "hot": true
-  },
-  {
-   "title": "OpenAI raises less than half of $30B target",
-   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50312922",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 164,
-   "comments": 153,
-   "publishedAt": 1793416964000,
-   "isAI": true,
-   "score": 50.8,
+   "score": 50.5,
    "hot": true
   },
   {
@@ -79,12 +65,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1699,
+   "engagement": 1700,
    "comments": 436,
    "publishedAt": 1793283201000,
    "isAI": true,
-   "score": 50.8,
+   "score": 50.5,
    "hot": false
+  },
+  {
+   "title": "OpenAI raises less than half of $30B target",
+   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50312922",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 165,
+   "comments": 156,
+   "publishedAt": 1793416964000,
+   "isAI": true,
+   "score": 50.3,
+   "hot": true
   },
   {
    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
@@ -93,11 +93,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 284,
-   "comments": 236,
+   "engagement": 285,
+   "comments": 239,
    "publishedAt": 1793381085000,
    "isAI": true,
-   "score": 50.3,
+   "score": 49.8,
+   "hot": true
+  },
+  {
+   "title": "Show GN: AI Usage - 여러 Claude Code·Codex 계정의 사용 한도를 보여 주는 macOS 바탕화면 위젯",
+   "url": "https://news.hada.io/topic?id=36332&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Claude Code와 Codex 계정을 여러 개 번갈아 쓰다 보니, 어느 계정에 한도가 남았는지 확인하려고 터미널을 여는 일이 잦아서 만들었습니다. 계정마다 5시간·주간 한도를 활동 링으로 바탕화면 위젯에 보여 줍니다. 주요 기능 계정당 게이지 1개, 링 3개 (Claude: 5시간 / 주간 / 주간 Fable, Co",
+   "publishedAt": 1793454488000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.3,
+   "hot": true
+  },
+  {
+   "title": "OpenAI, 45조원 조달 목표의 절반에도 못 미치는 투자 약정 확보",
+   "url": "https://news.hada.io/topic?id=36330&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "OpenAI 가 최신 투자 라운드에서 약 110억 달러($11b)의 투자 약정을 확보해, 목표인 300억 달러($30b)의 절반에 못 미침 사안에 정통한 관계자들에 따른 규모로, 현재까지 확보한 투자 약정 기준 임 이번 거래의 기업가치는 1조 ...",
+   "publishedAt": 1793453908000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.2,
+   "hot": true
+  },
+  {
+   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+   "url": "https://github.com/dbreunig/nesformer",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50306442",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 272,
+   "comments": 134,
+   "publishedAt": 1793378422000,
+   "isAI": true,
+   "score": 49.1,
    "hot": true
   },
   {
@@ -111,22 +153,8 @@
    "comments": 1,
    "publishedAt": 1793355771000,
    "isAI": true,
-   "score": 49.6,
+   "score": 49.1,
    "hot": false
-  },
-  {
-   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-   "url": "https://github.com/dbreunig/nesformer",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50306442",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 268,
-   "comments": 131,
-   "publishedAt": 1793378422000,
-   "isAI": true,
-   "score": 49.5,
-   "hot": true
   },
   {
    "title": "AI 네이티브 엔지니어링 조직 만들기",
@@ -139,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -153,7 +181,7 @@
    "comments": 290,
    "publishedAt": 1793376782000,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.6,
    "hot": true
   },
   {
@@ -163,12 +191,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 230,
-   "comments": 274,
+   "engagement": 237,
+   "comments": 285,
    "publishedAt": 1793369300000,
    "isAI": true,
-   "score": 47.2,
-   "hot": true
+   "score": 47,
+   "hot": false
   },
   {
    "title": "Cisco, 27세 엔지니어에게 AI 토큰 무제한 제공하여 레거시 코드 98% 리팩터링 추진",
@@ -181,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -191,11 +219,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 500,
-   "comments": 353,
+   "engagement": 521,
+   "comments": 364,
    "publishedAt": 1793364601000,
    "isAI": false,
-   "score": 46.2,
+   "score": 46,
    "hot": false
   },
   {
@@ -205,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 598,
+   "engagement": 599,
    "comments": 331,
    "publishedAt": 1793285875000,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.3,
    "hot": false
   },
   {
@@ -219,11 +247,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 404,
+   "engagement": 407,
    "comments": 167,
    "publishedAt": 1793310028000,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.2,
    "hot": false
   },
   {
@@ -237,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -279,7 +307,7 @@
    "comments": 44,
    "publishedAt": 1793387122000,
    "isAI": false,
-   "score": 42.5,
+   "score": 42.1,
    "hot": true
   },
   {
@@ -290,10 +318,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 187,
-   "comments": 105,
+   "comments": 106,
    "publishedAt": 1793397460000,
    "isAI": false,
-   "score": 42.4,
+   "score": 42,
    "hot": true
   },
   {
@@ -304,10 +332,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 146,
-   "comments": 140,
+   "comments": 141,
    "publishedAt": 1793351863000,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -317,12 +345,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 110,
-   "comments": 105,
+   "engagement": 111,
+   "comments": 108,
    "publishedAt": 1793370172000,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
+  },
+  {
+   "title": "GitHub Actions, Pages, Webhooks 장애 발생",
+   "url": "https://news.hada.io/topic?id=36331&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Actions 워크플로, Pages 배포, Webhook 이벤트 에 지연이 발생했으며, GitHub은 2026년 10월 30일 19:23 UTC에 장애 해결을 공지함 지연뿐 아니라 코드 검색과 실시간 업데이트 에서도 오류가 발생함 완화 조치 이후 Actions 처리와 Pages 배포",
+   "publishedAt": 1793454088000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
   },
   {
    "title": "Blackstone, “Anthropic은 IPO 이후에도 투자적격 신용등급을 받지 못할 수 있어”",
@@ -335,8 +377,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
+  },
+  {
+   "title": "가장 오래된 얼음이 사라지고, 그 속에서 석기시대가 드러난다",
+   "url": "https://news.hada.io/topic?id=36329&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "노르웨이 Innlandet 산악지대에서 오래된 얼음이 녹으며 석기시대와 청동기시대의 화살 이 대량으로 드러나고 있음 올해 첫 현장 조사에서 발견한 화살 중 하나는 기존 발견물과의 비교를 통해 5,000~6,000년 전 유물로 추정 됨 조사팀은 올해 선사...",
+   "publishedAt": 1793453728000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
   },
   {
    "title": "Proton CEO, AI 활용 ‘재면접’ 취소",
@@ -349,7 +405,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.4,
+   "score": 41,
+   "hot": false
+  },
+  {
+   "title": "Gemini 4 Carbon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50276792",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1013,
+   "comments": 801,
+   "publishedAt": 1793206883000,
+   "isAI": true,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -363,35 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
-   "hot": true
-  },
-  {
-   "title": "Gemini 4 Carbon",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50276792",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1013,
-   "comments": 801,
-   "publishedAt": 1793206883000,
-   "isAI": true,
-   "score": 41.2,
-   "hot": false
-  },
-  {
-   "title": "아니, npm, “estee”는 “testem”의 오타가 아니다",
-   "url": "https://news.hada.io/topic?id=36326&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Storyteller의 긴 CLI 패키지 이름을 줄이려고 estee 를 npm에 등록하려 했지만, 기존 패키지 testem , espree 와 유사하다는 이유로 타이포스쿼팅 방지 장치에 막힘 차단 결과는 레벤슈타인 거리 2 이하 를 막는 방식으로 보...",
-   "publishedAt": 1793448104000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.1,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -405,8 +447,22 @@
    "comments": 235,
    "publishedAt": 1793244822000,
    "isAI": true,
-   "score": 41,
+   "score": 40.7,
    "hot": false
+  },
+  {
+   "title": "아니, npm, “estee”는 “testem”의 오타가 아니다",
+   "url": "https://news.hada.io/topic?id=36326&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Storyteller의 긴 CLI 패키지 이름을 줄이려고 estee 를 npm에 등록하려 했지만, 기존 패키지 testem , espree 와 유사하다는 이유로 타이포스쿼팅 방지 장치에 막힘 차단 결과는 레벤슈타인 거리 2 이하 를 막는 방식으로 보...",
+   "publishedAt": 1793448104000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.7,
+   "hot": true
   },
   {
    "title": "미국 기술주, AI 비용 우려에 급락",
@@ -419,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -433,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -447,35 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.6,
-   "hot": false
-  },
-  {
-   "title": "Infinite Mac: BeOS를 브라우저에서 실행하기",
-   "url": "https://news.hada.io/topic?id=36325&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Infinite Mac 에서 여러 버전의 BeOS를 브라우저로 실행할 수 있게 됨, 대용량 디스크를 스트리밍해 즉시 부팅하며 소프트웨어 실행과 작업 저장도 지원함 DingusPPC 의 BeOS 호환성을 개선하면서 키보드 입력, 화면 색상 깊이, 비디오 메모리, ROM 매핑의 에뮬레이션...",
-   "publishedAt": 1793442808000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.5,
-   "hot": true
-  },
-  {
-   "title": "Show GN: WORLD MODEL - 지금 쓸 수 있는 세계 AI 모델 1,100여 개를 한눈에 보는 도감",
-   "url": "https://news.hada.io/topic?id=36298&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "전 세계 개발사 138곳의 AI 모델 1,100여 개를 공식 발표 기준으로 모아 둔 사이트입니다. 분야는 대화·이미지·영상·음성·음악·비전·월드·3D·픽셀아트·검색·임베딩·판정으로 나눴습니다. 국가·분야·로컬 실행 가능 여부로 거르고, 지구본에서 국가별로 볼 수 있습니다 오픈 가중치 모",
-   "publishedAt": 1793380433000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 40.5,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -489,7 +517,21 @@
    "comments": 245,
    "publishedAt": 1793277716000,
    "isAI": true,
-   "score": 40.4,
+   "score": 40.1,
+   "hot": false
+  },
+  {
+   "title": "Show GN: WORLD MODEL - 지금 쓸 수 있는 세계 AI 모델 1,100여 개를 한눈에 보는 도감",
+   "url": "https://news.hada.io/topic?id=36298&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "전 세계 개발사 138곳의 AI 모델 1,100여 개를 공식 발표 기준으로 모아 둔 사이트입니다. 분야는 대화·이미지·영상·음성·음악·비전·월드·3D·픽셀아트·검색·임베딩·판정으로 나눴습니다. 국가·분야·로컬 실행 가능 여부로 거르고, 지구본에서 국가별로 볼 수 있습니다 오픈 가중치 모",
+   "publishedAt": 1793380433000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -503,7 +545,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.3,
+   "score": 40,
+   "hot": false
+  },
+  {
+   "title": "Infinite Mac: BeOS를 브라우저에서 실행하기",
+   "url": "https://news.hada.io/topic?id=36325&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Infinite Mac 에서 여러 버전의 BeOS를 브라우저로 실행할 수 있게 됨, 대용량 디스크를 스트리밍해 즉시 부팅하며 소프트웨어 실행과 작업 저장도 지원함 DingusPPC 의 BeOS 호환성을 개선하면서 키보드 입력, 화면 색상 깊이, 비디오 메모리, ROM 매핑의 에뮬레이션...",
+   "publishedAt": 1793442808000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40,
+   "hot": true
+  },
+  {
+   "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+   "url": "https://www.firezone.dev/blog/introducing-sanstun",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50310398",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 146,
+   "comments": 38,
+   "publishedAt": 1793395800000,
+   "isAI": false,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -514,25 +584,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 193,
-   "comments": 135,
+   "comments": 1,
    "publishedAt": 1793374745000,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.8,
    "hot": true
-  },
-  {
-   "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-   "url": "https://www.firezone.dev/blog/introducing-sanstun",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50310398",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 143,
-   "comments": 38,
-   "publishedAt": 1793395800000,
-   "isAI": false,
-   "score": 40,
-   "hot": false
   },
   {
    "title": "Cursor 마켓플레이스의 Claude Code 확장에서 SSH 백도어 발견",
@@ -545,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -559,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -573,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.5,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -583,11 +639,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 356,
-   "comments": 251,
+   "engagement": 357,
+   "comments": 252,
    "publishedAt": 1793320961000,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -601,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -615,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -626,10 +682,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 169,
-   "comments": 185,
+   "comments": 189,
    "publishedAt": 1793311114000,
    "isAI": true,
-   "score": 39,
+   "score": 38.7,
+   "hot": false
+  },
+  {
+   "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+   "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50289692",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 230,
+   "comments": 82,
+   "publishedAt": 1793284146000,
+   "isAI": true,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -643,21 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.8,
-   "hot": false
-  },
-  {
-   "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-   "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50289692",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 229,
-   "comments": 81,
-   "publishedAt": 1793284146000,
-   "isAI": true,
-   "score": 38.6,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -671,7 +727,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.3,
+   "hot": false
+  },
+  {
+   "title": "French national assembly votes 0.055€/GB internet tax",
+   "url": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50308240",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 133,
+   "comments": 153,
+   "publishedAt": 1793385116000,
+   "isAI": false,
+   "score": 38,
    "hot": false
   },
   {
@@ -685,22 +755,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
-  },
-  {
-   "title": "French national assembly votes 0.055€/GB internet tax",
-   "url": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50308240",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 132,
-   "comments": 153,
-   "publishedAt": 1793385116000,
-   "isAI": false,
-   "score": 38.3,
-   "hot": false
   },
   {
    "title": "An updated Model Spec for more capable and beneficial AI",
@@ -713,7 +769,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -727,7 +783,7 @@
    "comments": 355,
    "publishedAt": 1793292137000,
    "isAI": false,
-   "score": 38,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -741,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -755,7 +811,7 @@
    "comments": 35,
    "publishedAt": 1793316346000,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -765,11 +821,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 179,
+   "engagement": 180,
    "comments": 72,
    "publishedAt": 1793286377000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -783,7 +839,7 @@
    "comments": 237,
    "publishedAt": 1793295828000,
    "isAI": false,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -797,21 +853,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
-   "hot": false
-  },
-  {
-   "title": "Proton goes all in on using AI",
-   "url": "https://convo.casa/@b/117525936178835007",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50296602",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 118,
-   "comments": 115,
-   "publishedAt": 1793310568000,
-   "isAI": true,
-   "score": 36.6,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -825,7 +867,21 @@
    "comments": 546,
    "publishedAt": 1793194890000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.4,
+   "hot": false
+  },
+  {
+   "title": "Proton goes all in on using AI",
+   "url": "https://convo.casa/@b/117525936178835007",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50296602",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 118,
+   "comments": 115,
+   "publishedAt": 1793310568000,
+   "isAI": true,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -839,21 +895,7 @@
    "comments": 145,
    "publishedAt": 1793233545000,
    "isAI": false,
-   "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "CleanYourTV - Android TV의 불필요한 앱을 끄고 Apple TV 스타일 홈 화면으로 바꾸는 도구",
-   "url": "https://news.hada.io/topic?id=36315&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Android TV와 Google TV에 Wi-Fi로 연결해 제조사 광고/텔레메트리 서비스와 불필요한 기본 앱을 비활성화 하고, 간결한 홈 화면을 설치 루팅이나 펌웨어 교체 없이 ADB로 동작 하며, 앱을 삭제하지 않고 사용 중지하는 방식. 변경 전 상태를 기록하고 복구 스크립트...",
-   "publishedAt": 1793406602000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -867,7 +909,21 @@
    "comments": 411,
    "publishedAt": 1793185420000,
    "isAI": false,
-   "score": 36.3,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "CleanYourTV - Android TV의 불필요한 앱을 끄고 Apple TV 스타일 홈 화면으로 바꾸는 도구",
+   "url": "https://news.hada.io/topic?id=36315&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Android TV와 Google TV에 Wi-Fi로 연결해 제조사 광고/텔레메트리 서비스와 불필요한 기본 앱을 비활성화 하고, 간결한 홈 화면을 설치 루팅이나 펌웨어 교체 없이 ADB로 동작 하며, 앱을 삭제하지 않고 사용 중지하는 방식. 변경 전 상태를 기록하고 복구 스크립트...",
+   "publishedAt": 1793406602000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -881,7 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -895,7 +951,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -909,7 +965,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -923,7 +979,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -937,7 +993,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -951,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -965,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -979,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -993,7 +1049,7 @@
    "comments": 139,
    "publishedAt": 1793294665000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1007,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1021,35 +1077,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "약 135만원으로 3.8B LLM을 처음부터 학습해 CORE 0.384 달성하기",
-   "url": "https://news.hada.io/topic?id=36269&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "little-lm 3.8B 는 무작위 초기화부터 653억 토큰을 사전학습해 CORE 0.384를 달성한 개인 프로젝트로, B200 8대에서 43시간 동안 학습하는 데 998달러 가 들었음 초기 실험의 낮은 성능을 개선하기 위해 Muon 옵티마이저, 사다리꼴 학습률 스케줄, ClimbMix...",
-   "publishedAt": 1793328392000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "선언문, 두려움, ‘패배자 사고방식’: Proton 내부의 AI 전환 갈등",
-   "url": "https://news.hada.io/topic?id=36268&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Proton 경영진이 AI 중심 개발 전환 을 강하게 밀어붙이면서, 직원들은 보안 문제나 기술적 우려를 제기하면 공개적인 질책이나 고용 위협을 받을 수 있다는 두려움을 호소함 CEO Andy Yen은 배포 전 며칠이라도 침투 테스트를 하자는 직원에게 “ 패배자 사고방식 ”...",
-   "publishedAt": 1793327639000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1063,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1077,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1091,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1102,10 +1130,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 1708,
-   "comments": 1677,
+   "comments": 1678,
    "publishedAt": 1793019890000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1118,7 +1146,21 @@
    "summary": "One-step and few-step text-to-image generation must accurately render the details specified in the prompt despite limited opportunities for refinement. Distribution matching distillation (DMD) uses score differences to bring the generated distribution closer to a reference distribution. Following pr",
    "publishedAt": 1793217600000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+   "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50290652",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 106,
+   "comments": 25,
+   "publishedAt": 1793287788000,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1132,7 +1174,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1146,7 +1188,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1160,35 +1202,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.1,
-   "hot": false
-  },
-  {
-   "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-   "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-   "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-   "publishedAt": 1793397274000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-   "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-   "publishedAt": 1793397123000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.9,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1198,11 +1212,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 327,
+   "engagement": 328,
    "comments": 188,
    "publishedAt": 1793257730000,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1216,35 +1230,7 @@
    "comments": 174,
    "publishedAt": 1793202390000,
    "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "약 8.5조원 규모 Binance 해킹, 대부분의 자금이 20분 만에 유출",
-   "url": "https://news.hada.io/topic?id=36297&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Binance의 10개 블록체인 지갑에서 약 63억6,000만 달러가 탈취 됐으며, 대부분의 자금 이동은 약 20분 안에 이뤄짐 공격 준비는 최소 36시간 전부터 시작 됐고, 소액 자금 조달과 여러 지갑에서의 코드 시험·예행연습을 거쳐 실제 탈취로 이어짐 Ethereum에...",
-   "publishedAt": 1793378271000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "Azure의 가장 약한 고리: 테넌트 간 침해 취약점 5건 (수정 완료)",
-   "url": "https://news.hada.io/topic?id=36296&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Azure Logic Apps의 API Connections에서 다른 테넌트의 연결과 백엔드에 접근할 수 있는 치명적 권한 상승 취약점 5건 이 공개됐으며, 보고된 취약점은 모두 수정됨 공유 API Management가 연결에 저장된 자격 증명으로 백엔드를 호출하는 구조에서, 호출 대상을 바꿔 피해자...",
-   "publishedAt": 1793378091000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1258,35 +1244,63 @@
    "comments": 203,
    "publishedAt": 1793130906000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "Last-minute Halloween costumes for tech nerds",
-   "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-   "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-   "publishedAt": 1793395619000,
+   "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+   "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+   "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+   "publishedAt": 1793397274000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false
   },
   {
-   "title": "Cracks are emerging in the AI spending boom",
-   "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-   "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-   "publishedAt": 1793395060000,
+   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+   "publishedAt": 1793397123000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "약 8.5조원 규모 Binance 해킹, 대부분의 자금이 20분 만에 유출",
+   "url": "https://news.hada.io/topic?id=36297&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Binance의 10개 블록체인 지갑에서 약 63억6,000만 달러가 탈취 됐으며, 대부분의 자금 이동은 약 20분 안에 이뤄짐 공격 준비는 최소 36시간 전부터 시작 됐고, 소액 자금 조달과 여러 지갑에서의 코드 시험·예행연습을 거쳐 실제 탈취로 이어짐 Ethereum에...",
+   "publishedAt": 1793378271000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "Azure의 가장 약한 고리: 테넌트 간 침해 취약점 5건 (수정 완료)",
+   "url": "https://news.hada.io/topic?id=36296&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Azure Logic Apps의 API Connections에서 다른 테넌트의 연결과 백엔드에 접근할 수 있는 치명적 권한 상승 취약점 5건 이 공개됐으며, 보고된 취약점은 모두 수정됨 공유 API Management가 연결에 저장된 자격 증명으로 백엔드를 호출하는 구조에서, 호출 대상을 바꿔 피해자...",
+   "publishedAt": 1793378091000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1300,20 +1314,20 @@
    "comments": 298,
    "publishedAt": 1793114906000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.4,
    "hot": false
   },
   {
-   "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50280864",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Last-minute Halloween costumes for tech nerds",
+   "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+   "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+   "publishedAt": 1793395619000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 457,
-   "comments": 294,
-   "publishedAt": 1793221404000,
-   "isAI": false,
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
    "score": 33.4,
    "hot": false
   },
@@ -1328,7 +1342,35 @@
    "comments": 662,
    "publishedAt": 1793099294000,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "Cracks are emerging in the AI spending boom",
+   "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+   "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+   "publishedAt": 1793395060000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50280864",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 457,
+   "comments": 297,
+   "publishedAt": 1793221404000,
+   "isAI": false,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1342,7 +1384,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1356,49 +1398,7 @@
    "comments": 192,
    "publishedAt": 1793274078000,
    "isAI": false,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "당구를 너무 못 쳐서 쌍곡평면까지 가버렸다 [영상]",
-   "url": "https://news.hada.io/topic?id=36291&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "외부 당구(outer billiards) 는 공이 테이블 꼭짓점을 스치도록 이동한 뒤, 접촉점까지 온 거리만큼 더 나아가는 규칙을 반복하는 수학적 시스템임 출발점에 따라 주기 궤도 가 달라지며, 평면의 각 점에 고유한 색을 부여하면 여러 출발점의 움직임과 반복 패턴을 ...",
-   "publishedAt": 1793367556000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "elect.horse - 선거구를 조작해 말을 당선시키는 일일 게리맨더링 퍼즐",
-   "url": "https://news.hada.io/topic?id=36290&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "재선에서 패배할 상황인 말 후보 가 가장 많은 의석을 얻도록 선거구를 직접 그리는 게리맨더링 퍼즐 임 서로 맞닿은 육각형 칸 을 누르거나 드래그해 선거구를 만들며, 모든 선거구의 유권자 수는 같아야 함 각 선거구에서 최다 득표한 후...",
-   "publishedAt": 1793367376000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216851",
-   "summary": "일론 머스크 CEO가 크리스토퍼 놀란 감독의 영화 '오디세이'에 대항해 제작하겠다고 선언한 AI 영화의 첫 번째 영상을 공개했다. 자체 영상 생성 AI '그록 이매진(Grok Imagine)'을 활용한 7분짜리 작품으로, 소규모 제작진이 짧은 기간에 실사 영화에 가까운 장면을 구현했다. 그러나 어색한 연기와 부족한 서사 등으로 혹평도 나왔다. 제작진은 AI 영화 제작에 사용한 프롬프트와 작업 과정까지 공개하며 기술 개선에 활용하겠다고 밝혔다.머스크의 스페이스XSI는 23일(현지시간) X를 통해 '오디세이' 시리즈의 첫 번째 영상 '",
-   "publishedAt": 1793444280000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
+   "score": 32.8,
    "hot": false
   }
  ]
