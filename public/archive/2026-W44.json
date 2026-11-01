@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793522840747,
+ "updatedAt": 1793526501395,
  "week": "2026-W44",
  "items": [
   {
@@ -9,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 332,
-   "comments": 190,
+   "engagement": 345,
+   "comments": 201,
    "publishedAt": 1793475559000,
    "isAI": true,
-   "score": 55.4,
+   "score": 55.1,
+   "hot": true
+  },
+  {
+   "title": "Anthropic, Claude의 비디오 게임 역공학을 차단하는 조치에 나서",
+   "url": "https://news.hada.io/topic?id=36377&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Claude 가 비디오 게임 코드의 모딩, 디컴파일, 역공학 작업을 제한하기 시작함. Anthropic은 제한 이유를 공식 발표하지 않음 제한 범위가 넓어 합법적인 게임 개발 과 기본적인 문제 해결 작업까지 영향을 받고 있음 해킹과 모딩 커뮤니티는 AI 기...",
+   "publishedAt": 1793521909000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.3,
    "hot": true
   },
   {
@@ -23,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 168,
-   "comments": 181,
+   "engagement": 171,
+   "comments": 183,
    "publishedAt": 1793472634000,
    "isAI": true,
-   "score": 49.3,
+   "score": 49,
    "hot": true
   },
   {
@@ -37,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 140,
-   "comments": 85,
+   "engagement": 146,
+   "comments": 89,
    "publishedAt": 1793480878000,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.8,
    "hot": false
   },
   {
@@ -51,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 652,
+   "engagement": 654,
    "comments": 475,
    "publishedAt": 1793375538000,
    "isAI": true,
-   "score": 47.5,
+   "score": 47.1,
    "hot": false
   },
   {
@@ -69,7 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -79,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 976,
+   "engagement": 977,
    "comments": 547,
    "publishedAt": 1793344152000,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.4,
    "hot": false
   },
   {
@@ -97,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -111,7 +125,7 @@
    "comments": 17,
    "publishedAt": 1793358353000,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.4,
    "hot": false
   },
   {
@@ -125,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 45,
    "hot": true
   },
   {
@@ -133,20 +147,6 @@
    "url": "https://news.hada.io/topic?id=36356&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
    "summary": "GPT-5.6 Sol 이 Codex에서 낮은 사고 수준으로 실행돼, 바이터가 없는 Factorio 평화 모드를 게임 내 시간 13.5시간 만에 클리어함 게임 관리자와 Python 라이브러리 로 게임을 조작했으며, 플레이어의 도달 거리와 전장의 안개 등 GUI로 플레이하는...",
    "publishedAt": 1793489818000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.4,
-   "hot": true
-  },
-  {
-   "title": "Jepsen: ParticleDB 1.1.4 - AI용 데이터베이스의 정합성 검증에서 96개 문제 발견",
-   "url": "https://news.hada.io/topic?id=36353&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Jepsen이 AI 워크로드용 ParticleDB 1.1.4부터 1.1.18.11.rc-22까지 검사해 96개 문제를 발견함. 대부분은 서버와 클라이언트가 각각 하나이고 장애가 없는 환경에서도 발생해, “Full ACID”라는 제품 설명과 어긋남 문제는 충돌과 교착 상태뿐 아니라 잘못된 SQL 결과와 데...",
-   "publishedAt": 1793485995000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -167,8 +167,22 @@
    "comments": 438,
    "publishedAt": 1793283201000,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.4,
    "hot": false
+  },
+  {
+   "title": "Jepsen: ParticleDB 1.1.4 - AI용 데이터베이스의 정합성 검증에서 96개 문제 발견",
+   "url": "https://news.hada.io/topic?id=36353&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Jepsen이 AI 워크로드용 ParticleDB 1.1.4부터 1.1.18.11.rc-22까지 검사해 96개 문제를 발견함. 대부분은 서버와 클라이언트가 각각 하나이고 장애가 없는 환경에서도 발생해, “Full ACID”라는 제품 설명과 어긋남 문제는 충돌과 교착 상태뿐 아니라 잘못된 SQL 결과와 데...",
+   "publishedAt": 1793485995000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 44.4,
+   "hot": true
   },
   {
    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
@@ -181,7 +195,7 @@
    "comments": 289,
    "publishedAt": 1793381245000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -191,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 183,
-   "comments": 191,
+   "engagement": 184,
+   "comments": 192,
    "publishedAt": 1793416964000,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -220,10 +234,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 291,
-   "comments": 249,
+   "comments": 250,
    "publishedAt": 1793381085000,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -233,11 +247,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 285,
-   "comments": 147,
+   "engagement": 286,
+   "comments": 148,
    "publishedAt": 1793378422000,
    "isAI": true,
-   "score": 42.4,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -251,7 +265,7 @@
    "comments": 1,
    "publishedAt": 1793355771000,
    "isAI": true,
-   "score": 42.4,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -261,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 305,
+   "engagement": 306,
    "comments": 381,
    "publishedAt": 1793369300000,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -279,8 +293,22 @@
    "comments": 296,
    "publishedAt": 1793376782000,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.5,
    "hot": false
+  },
+  {
+   "title": "전력망에서 60초마다 발생하는 변동의 수수께끼 풀려",
+   "url": "https://news.hada.io/topic?id=36376&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "대규모 배터리 저장 시스템이 매분 동시에 수행하는 충전 상태 점검 이 전력 수요의 순간적 급증과 전력망 주파수 하락을 일으키는 원인으로 확인됨 유럽 전력망에서 수년간 관측된 60초 주기 의 주파수 하락은 전력망 안전을 위협할 수준은 아니었지만, 명확하게 측...",
+   "publishedAt": 1793520088000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
   },
   {
    "title": "Ask HN: 여러분도 AI 시대에 피로를 느끼시나요?",
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -321,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -335,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -349,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -359,11 +387,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 575,
-   "comments": 419,
+   "engagement": 577,
+   "comments": 421,
    "publishedAt": 1793364601000,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -377,21 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
-   "hot": true
-  },
-  {
-   "title": "문제는 메모리 지연 시간이라고, 바보야",
-   "url": "https://news.hada.io/topic?id=36368&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "CPU 사용률 100% 가 실제 연산 자원의 완전한 활용을 뜻하지는 않음. 실행할 작업이 있어도 메모리를 기다리느라 연산을 진행하지 못할 수 있음 RAM 접근은 약 50~100ns 가 걸리는 반면, 현대 CPU는 1ns에 약 4~8개 명령을 처리할 수 있어 데이터베이스 성능에서 캐...",
-   "publishedAt": 1793500314000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.3,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -405,21 +419,21 @@
    "comments": 335,
    "publishedAt": 1793285875000,
    "isAI": true,
-   "score": 39.2,
+   "score": 39,
    "hot": false
   },
   {
-   "title": "더 나은 글을 쓰는 방법: 개발자를 위한 실전 가이드",
-   "url": "https://news.hada.io/topic?id=36367&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "소프트웨어 엔지니어에게 글쓰기는 단순한 의사소통 수단을 넘어 커리어 성장에 중요한 역량임. 특히 시니어 엔지니어, 스태프 엔지니어, 엔지니어링 매니저처럼 더 많은 사람에게 영향을 미치는 역할일수록 글쓰기 능력이 중요해짐. 개발자는 생각보다 많은 시간을 글쓰기에 사용함. 커밋 메시지, 코드 리뷰,",
-   "publishedAt": 1793499884000,
+   "title": "문제는 메모리 지연 시간이라고, 바보야",
+   "url": "https://news.hada.io/topic?id=36368&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "CPU 사용률 100% 가 실제 연산 자원의 완전한 활용을 뜻하지는 않음. 실행할 작업이 있어도 메모리를 기다리느라 연산을 진행하지 못할 수 있음 RAM 접근은 약 50~100ns 가 걸리는 반면, 현대 CPU는 1ns에 약 4~8개 명령을 처리할 수 있어 데이터베이스 성능에서 캐...",
+   "publishedAt": 1793500314000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -433,8 +447,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.9,
    "hot": false
+  },
+  {
+   "title": "더 나은 글을 쓰는 방법: 개발자를 위한 실전 가이드",
+   "url": "https://news.hada.io/topic?id=36367&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "소프트웨어 엔지니어에게 글쓰기는 단순한 의사소통 수단을 넘어 커리어 성장에 중요한 역량임. 특히 시니어 엔지니어, 스태프 엔지니어, 엔지니어링 매니저처럼 더 많은 사람에게 영향을 미치는 역할일수록 글쓰기 능력이 중요해짐. 개발자는 생각보다 많은 시간을 글쓰기에 사용함. 커밋 메시지, 코드 리뷰,",
+   "publishedAt": 1793499884000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.8,
+   "hot": true
   },
   {
    "title": "We ran AI agent swarms in Minecraft and Mindustry",
@@ -447,7 +475,7 @@
    "comments": 169,
    "publishedAt": 1793310028000,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -461,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -475,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -489,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -503,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -517,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -531,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -545,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.5,
    "hot": true
   },
   {
@@ -559,7 +587,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.2,
+   "hot": false
+  },
+  {
+   "title": "Community safety report and new protections for teens",
+   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+   "publishedAt": 1793350800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 37,
    "hot": false
   },
   {
@@ -573,21 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
-  },
-  {
-   "title": "Community safety report and new protections for teens",
-   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-   "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-   "publishedAt": 1793350800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -601,8 +629,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Gemini 4 Carbon",
@@ -615,7 +643,7 @@
    "comments": 801,
    "publishedAt": 1793206883000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -629,35 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "1980년대의 Casio 시계",
-   "url": "https://news.hada.io/topic?id=36350&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Casio는 1980년대에 계산기, 사전, 전화번호부, 센서 를 손목시계에 통합하며 시간을 알려주는 기기를 손목에 착용하는 정보 기기로 확장함 1983년에는 유리에 손가락으로 쓴 숫자와 수학 기호를 인식하는 AT-550 과 화면의 가상 키를 누르는 계산기 시계 TC-500을 출...",
-   "publishedAt": 1793475474000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.6,
-   "hot": false
-  },
-  {
-   "title": "영국 녹색당, 오랜 원자력 발전 반대 입장 철회",
-   "url": "https://news.hada.io/topic?id=36349&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "잉글랜드와 웨일스 녹색당이 전당대회 표결로 원전의 단계적 폐지 방침 을 철회하고, 원전 사업을 다른 저탄소 기술과 함께 평가하기로 함 해상풍력, 육상풍력, 옥상 태양광 우선 정책 은 유지하되, 선출직 대표가 신규 원자로를 사안별로 지지할 수 있도록 허용함...",
-   "publishedAt": 1793475293000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.6,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -671,7 +671,35 @@
    "comments": 236,
    "publishedAt": 1793244822000,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.3,
+   "hot": false
+  },
+  {
+   "title": "1980년대의 Casio 시계",
+   "url": "https://news.hada.io/topic?id=36350&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Casio는 1980년대에 계산기, 사전, 전화번호부, 센서 를 손목시계에 통합하며 시간을 알려주는 기기를 손목에 착용하는 정보 기기로 확장함 1983년에는 유리에 손가락으로 쓴 숫자와 수학 기호를 인식하는 AT-550 과 화면의 가상 키를 누르는 계산기 시계 TC-500을 출...",
+   "publishedAt": 1793475474000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.3,
+   "hot": false
+  },
+  {
+   "title": "영국 녹색당, 오랜 원자력 발전 반대 입장 철회",
+   "url": "https://news.hada.io/topic?id=36349&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "잉글랜드와 웨일스 녹색당이 전당대회 표결로 원전의 단계적 폐지 방침 을 철회하고, 원전 사업을 다른 저탄소 기술과 함께 평가하기로 함 해상풍력, 육상풍력, 옥상 태양광 우선 정책 은 유지하되, 선출직 대표가 신규 원자로를 사안별로 지지할 수 있도록 허용함...",
+   "publishedAt": 1793475293000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -685,7 +713,7 @@
    "comments": 128,
    "publishedAt": 1793370172000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -699,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -713,7 +741,7 @@
    "comments": 109,
    "publishedAt": 1793397460000,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -727,7 +755,7 @@
    "comments": 45,
    "publishedAt": 1793387122000,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -741,7 +769,7 @@
    "comments": 141,
    "publishedAt": 1793351863000,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -755,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -769,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -783,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -797,7 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -811,7 +839,7 @@
    "comments": 245,
    "publishedAt": 1793277716000,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -825,21 +853,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.6,
-   "hot": false
-  },
-  {
-   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-   "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-   "publishedAt": 1793481423000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -853,7 +867,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+   "publishedAt": 1793481423000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -867,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -881,7 +909,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -895,7 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -909,21 +937,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "curl이 우연히 9개월 동안 튜링 완전했던 과정",
-   "url": "https://news.hada.io/topic?id=36337&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "curl 8.12~8.16 에서는 변수 값 슬라이싱과 깊이 제한 없는 설정 파일 포함을 조합해 임의의 2카운터 Minsky 프로그램을 모사할 수 있었음 카운터는 x 의 개수로, 명령 상태는 설정 파일로 나타내며, expand-config 로 다음 파일을 선택해...",
-   "publishedAt": 1793458886000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 35,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -937,7 +951,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "curl이 우연히 9개월 동안 튜링 완전했던 과정",
+   "url": "https://news.hada.io/topic?id=36337&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "curl 8.12~8.16 에서는 변수 값 슬라이싱과 깊이 제한 없는 설정 파일 포함을 조합해 임의의 2카운터 Minsky 프로그램을 모사할 수 있었음 카운터는 x 의 개수로, 명령 상태는 설정 파일로 나타내며, expand-config 로 다음 파일을 선택해...",
+   "publishedAt": 1793458886000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -951,7 +979,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.5,
+   "hot": false
+  },
+  {
+   "title": "Building an AI-native engineering org",
+   "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50296730",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 186,
+   "comments": 196,
+   "publishedAt": 1793311114000,
+   "isAI": true,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -965,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -979,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -993,21 +1035,7 @@
    "comments": 40,
    "publishedAt": 1793395800000,
    "isAI": false,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "Building an AI-native engineering org",
-   "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50296730",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 185,
-   "comments": 196,
-   "publishedAt": 1793311114000,
-   "isAI": true,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1021,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1035,7 +1063,7 @@
    "comments": 1,
    "publishedAt": 1793374745000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1045,11 +1073,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 360,
+   "engagement": 361,
    "comments": 257,
    "publishedAt": 1793320961000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1059,11 +1087,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 232,
+   "engagement": 233,
    "comments": 89,
    "publishedAt": 1793284146000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1077,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1091,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1105,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1115,11 +1143,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 203,
-   "comments": 49,
+   "engagement": 205,
+   "comments": 50,
    "publishedAt": 1793287788000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1133,35 +1161,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "구글, '제미나이 노트북'에 무료 교재 수백 권 추가...AI 학습 기능 확대",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216863",
-   "summary": "구글이 AI 학습 도구 ‘제미나이 노트북(Gemini Notebook)’에 미국과 인도 지역 사용자를 대상으로 주요 출판사의 무료 교재 수백 권을 추가했다. 학생들은 별도로 교재를 찾아 업로드하지 않고도 주요 출판사의 학습 자료를 활용해 시험 준비를 할 수 있게 됐다.구글은 29일(현지시간) X를 통해 오픈스택스(OpenStax), 오픈 텍스트북 라이브러리(Open Textbook Library), S 챈드 퍼블리싱(S Chand Publishing) 등이 발행한 수백 권의 교재를 노트북 서비스에 무상으로 제공한다고 밝혔다.국내 등",
-   "publishedAt": 1793518005000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216856",
-   "summary": "오픈AI가 최근 기술주 하락과 AI 투자 열기 둔화 속에 신규 투자 유치 목표를 기존 300억달러(약 40조원)에서 200억달러(약 26조원)로 낮췄다. 목표 기업가치도 1조4000억달러(약 1866조원)에서 1조2500억달러(약 1666조원)로 하향 조정했다. 일부 투자자가 출자 규모를 줄이고 투자에 신중한 태도를 보이면서 당초 계획했던 자금 조달에 어려움을 겪는 모습이다.파이낸셜타임스(FT)는 31일(현지시간) 복수의 소식통을 인용, 오픈AI가 신규 투자 라운드의 목표액을 100억달러 줄인 200억달러로 조정했다고 보도했다. 이",
-   "publishedAt": 1793516732000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1175,35 +1175,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
-   "title": "MIT, AI 모델끼리 글 없이 소통하는 ‘스웜 텔레파시’ 개발",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216860",
-   "summary": "MIT 연구진이 AI 모델끼리 텍스트를 주고받지 않고 내부 계산 정보를 직접 전달하는 기술을 개발했다. 서로 다른 기업이 만든 AI 모델 사이에서도 작동하며, 기존 텍스트 기반 소통보다 평균 정확도를 40% 높이고 처리 속도를 4배 단축했다. 연구진은 이 기술에 ‘스웜 텔레파시(SwaT·Swarm Telepathy)’라는 이름을 붙였다.MIT 컴퓨터과학·AI연구소(CSAIL)와 MIT-IBM 컴퓨팅 연구소 연구진은 최근 온라인 아카이브에 ‘스웜 텔레파시: 모델 계열 간 프리필 없는 KV 캐시 전송(Swarm Telepathy: Pr",
-   "publishedAt": 1793516286000,
+   "title": "구글, '제미나이 노트북'에 무료 교재 수백 권 추가...AI 학습 기능 확대",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216863",
+   "summary": "구글이 AI 학습 도구 ‘제미나이 노트북(Gemini Notebook)’에 미국과 인도 지역 사용자를 대상으로 주요 출판사의 무료 교재 수백 권을 추가했다. 학생들은 별도로 교재를 찾아 업로드하지 않고도 주요 출판사의 학습 자료를 활용해 시험 준비를 할 수 있게 됐다.구글은 29일(현지시간) X를 통해 오픈스택스(OpenStax), 오픈 텍스트북 라이브러리(Open Textbook Library), S 챈드 퍼블리싱(S Chand Publishing) 등이 발행한 수백 권의 교재를 노트북 서비스에 무상으로 제공한다고 밝혔다.국내 등",
+   "publishedAt": 1793518005000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "메타, 중국 푸리에와 휴머노이드 로봇 개발...가정용 시장 진출 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216857",
-   "summary": "메타가 중국 로봇 스타트업 푸리에(Fourier)와 협력해 휴머노이드 로봇 시제품을 개발하고 2세대 모델 제작에 착수했다. 가사와 일상 업무를 돕는 가정용 로봇 시장 진출을 염두에 둔 움직임이다. 자체 AI 에이전트와 로봇 기술을 결합해 AI를 디지털 환경에서 물리적 세계로 확장하려는 전략으로 보인다.디 인포메이션은 31일(현지시간) 복수의 소식통을 인용, 메타가 푸리에와 함께 휴머노이드 로봇 시제품 '맥스(Max)'를 개발했다고 보도했다.48kg 무게의 이 로봇은 양사가 불과 3개월 만에 제작했으며, 메타는 이미 후속 모델인 '맥",
-   "publishedAt": 1793515731000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1217,7 +1203,35 @@
    "comments": 358,
    "publishedAt": 1793292137000,
    "isAI": false,
-   "score": 33.2,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216856",
+   "summary": "오픈AI가 최근 기술주 하락과 AI 투자 열기 둔화 속에 신규 투자 유치 목표를 기존 300억달러(약 40조원)에서 200억달러(약 26조원)로 낮췄다. 목표 기업가치도 1조4000억달러(약 1866조원)에서 1조2500억달러(약 1666조원)로 하향 조정했다. 일부 투자자가 출자 규모를 줄이고 투자에 신중한 태도를 보이면서 당초 계획했던 자금 조달에 어려움을 겪는 모습이다.파이낸셜타임스(FT)는 31일(현지시간) 복수의 소식통을 인용, 오픈AI가 신규 투자 라운드의 목표액을 100억달러 줄인 200억달러로 조정했다고 보도했다. 이",
+   "publishedAt": 1793516732000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "MIT, AI 모델끼리 글 없이 소통하는 ‘스웜 텔레파시’ 개발",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216860",
+   "summary": "MIT 연구진이 AI 모델끼리 텍스트를 주고받지 않고 내부 계산 정보를 직접 전달하는 기술을 개발했다. 서로 다른 기업이 만든 AI 모델 사이에서도 작동하며, 기존 텍스트 기반 소통보다 평균 정확도를 40% 높이고 처리 속도를 4배 단축했다. 연구진은 이 기술에 ‘스웜 텔레파시(SwaT·Swarm Telepathy)’라는 이름을 붙였다.MIT 컴퓨터과학·AI연구소(CSAIL)와 MIT-IBM 컴퓨팅 연구소 연구진은 최근 온라인 아카이브에 ‘스웜 텔레파시: 모델 계열 간 프리필 없는 KV 캐시 전송(Swarm Telepathy: Pr",
+   "publishedAt": 1793516286000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1231,7 +1245,21 @@
    "comments": 549,
    "publishedAt": 1793194890000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "메타, 중국 푸리에와 휴머노이드 로봇 개발...가정용 시장 진출 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216857",
+   "summary": "메타가 중국 로봇 스타트업 푸리에(Fourier)와 협력해 휴머노이드 로봇 시제품을 개발하고 2세대 모델 제작에 착수했다. 가사와 일상 업무를 돕는 가정용 로봇 시장 진출을 염두에 둔 움직임이다. 자체 AI 에이전트와 로봇 기술을 결합해 AI를 디지털 환경에서 물리적 세계로 확장하려는 전략으로 보인다.디 인포메이션은 31일(현지시간) 복수의 소식통을 인용, 메타가 푸리에와 함께 휴머노이드 로봇 시제품 '맥스(Max)'를 개발했다고 보도했다.48kg 무게의 이 로봇은 양사가 불과 3개월 만에 제작했으며, 메타는 이미 후속 모델인 '맥",
+   "publishedAt": 1793515731000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1241,67 +1269,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1198,
+   "engagement": 1199,
    "comments": 413,
    "publishedAt": 1793185420000,
    "isAI": false,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "Tell HN: Scribd 침해 사고 발생",
-   "url": "https://news.hada.io/topic?id=36323&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "2026년 10월 26일 월요일 수신한 보안 사고 안내 에 따르면, Scribd, Slideshare, Everand, Fable의 모회사인 Scribd, Inc.의 시스템에서 비인가 제3자가 일부 사용자 데이터에 접근했을 가능성이 있음 접근 가능성이 있는 정보는 이메일 주소, 신용카드 마지막 4자리와 국가...",
-   "publishedAt": 1793435651000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.9,
-   "hot": false
-  },
-  {
-   "title": "French national assembly votes 0.055€/GB internet tax",
-   "url": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50308240",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 139,
-   "comments": 160,
-   "publishedAt": 1793385116000,
-   "isAI": false,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "Show HN: I Turned DOOM into a Transformer",
-   "url": "https://github.com/mottopanikeiku/doomformer",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50297697",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 129,
-   "comments": 35,
-   "publishedAt": 1793316346000,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "Zombie stats: Where the numbers AI quotes come from",
-   "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50290283",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 180,
-   "comments": 73,
-   "publishedAt": 1793286377000,
-   "isAI": true,
-   "score": 32.7,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1315,7 +1287,63 @@
    "comments": 1679,
    "publishedAt": 1793019890000,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "Tell HN: Scribd 침해 사고 발생",
+   "url": "https://news.hada.io/topic?id=36323&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "2026년 10월 26일 월요일 수신한 보안 사고 안내 에 따르면, Scribd, Slideshare, Everand, Fable의 모회사인 Scribd, Inc.의 시스템에서 비인가 제3자가 일부 사용자 데이터에 접근했을 가능성이 있음 접근 가능성이 있는 정보는 이메일 주소, 신용카드 마지막 4자리와 국가...",
+   "publishedAt": 1793435651000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "French national assembly votes 0.055€/GB internet tax",
+   "url": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50308240",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 139,
+   "comments": 160,
+   "publishedAt": 1793385116000,
+   "isAI": false,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "Show HN: I Turned DOOM into a Transformer",
+   "url": "https://github.com/mottopanikeiku/doomformer",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50297697",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 129,
+   "comments": 35,
+   "publishedAt": 1793316346000,
+   "isAI": true,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "Zombie stats: Where the numbers AI quotes come from",
+   "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50290283",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 180,
+   "comments": 73,
+   "publishedAt": 1793286377000,
+   "isAI": true,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1329,7 +1357,7 @@
    "comments": 145,
    "publishedAt": 1793233545000,
    "isAI": false,
-   "score": 32.6,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1343,7 +1371,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1353,25 +1381,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 356,
+   "engagement": 357,
    "comments": 243,
    "publishedAt": 1793295828000,
    "isAI": false,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "Linode 보안 사고",
-   "url": "https://news.hada.io/topic?id=36320&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Akamai가 최근 공개된 원격 코드 실행 취약점 CVE-2026-98432 를 조사하며 완화 조치와 플랫폼 모니터링을 진행 중임 알려진 공격 경로에 대한 완화 조치를 배포 중 이며, 그 밖의 잠재적 영향도 계속 분석하고 있음 최신 공지 시점에는 Akamai Compute 플랫...",
-   "publishedAt": 1793424683000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1385,21 +1399,7 @@
    "comments": 117,
    "publishedAt": 1793310568000,
    "isAI": true,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "\"AI 뉴런 2개 조작했더니 인간 증오하는 악당으로\"…내부 구조 해독 활발",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216861",
-   "summary": "AI 모델의 신경망 일부를 조작하는 것만으로 친절한 AI 비서를 인간에게 적대적인 캐릭터로 바꿀 수 있다는 실험 결과가 나왔다. 특히 AI 에이전트를 활용해 모델의 내부 작동 원리를 분석하는 도구까지 등장하면서, 대형 연구소 중심이었던 AI 해석 가능성 연구가 개인 개발자들에게도 확대되고 있다.'라이라(Lyra)'라는 이름으로 X에서 활동하는 AI 개발자는 지난 24일(현지시간) 알리바바의 '큐원3.5-4B'에서 두 뉴런의 신호를 조절하는 실험을 공개했다. 14번째 계층의 특정 뉴런은 신호를 높이고, 13번째 계층의 다른 뉴런은 낮",
-   "publishedAt": 1793500610000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.8,
+   "score": 31.7,
    "hot": false
   }
  ]
