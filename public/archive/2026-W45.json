@@ -1,7 +1,21 @@
 {
- "updatedAt": 1793644270747,
+ "updatedAt": 1793647933011,
  "week": "2026-W45",
  "items": [
+  {
+   "title": "Astra can read and write weights to improve Qwen",
+   "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50341174",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 373,
+   "comments": 98,
+   "publishedAt": 1793643688000,
+   "isAI": true,
+   "score": 63.8,
+   "hot": true
+  },
   {
    "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
    "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
@@ -9,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 197,
-   "comments": 209,
+   "engagement": 200,
+   "comments": 218,
    "publishedAt": 1793630325000,
    "isAI": true,
-   "score": 56.1,
+   "score": 55.7,
    "hot": true
   },
   {
@@ -27,7 +41,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 55.9,
+   "score": 55.3,
+   "hot": true
+  },
+  {
+   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50339494",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 166,
+   "comments": 135,
+   "publishedAt": 1793637629000,
+   "isAI": true,
+   "score": 55.2,
    "hot": true
   },
   {
@@ -41,22 +69,8 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 52.6,
+   "score": 52,
    "hot": true
-  },
-  {
-   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50339494",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 117,
-   "comments": 85,
-   "publishedAt": 1793637629000,
-   "isAI": true,
-   "score": 52.5,
-   "hot": false
   },
   {
    "title": "LifeVal",
@@ -69,8 +83,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 52.5,
+   "score": 51.9,
    "hot": true
+  },
+  {
+   "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+   "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50337454",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 119,
+   "comments": 135,
+   "publishedAt": 1793630405000,
+   "isAI": true,
+   "score": 51,
+   "hot": false
   },
   {
    "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
@@ -80,11 +108,25 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 146,
-   "comments": 78,
+   "comments": 79,
    "publishedAt": 1793604448000,
    "isAI": true,
-   "score": 49.6,
+   "score": 49.1,
    "hot": false
+  },
+  {
+   "title": "Ask HN: Which TV do you recommend for privacy?",
+   "url": "https://news.ycombinator.com/item?id=50328896",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50328896",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 663,
+   "comments": 789,
+   "publishedAt": 1793561727000,
+   "isAI": false,
+   "score": 48.8,
+   "hot": true
   },
   {
    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
@@ -94,24 +136,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 241,
-   "comments": 245,
+   "comments": 246,
    "publishedAt": 1793571045000,
    "isAI": true,
-   "score": 49.1,
-   "hot": true
-  },
-  {
-   "title": "Ask HN: Which TV do you recommend for privacy?",
-   "url": "https://news.ycombinator.com/item?id=50328896",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50328896",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 648,
-   "comments": 774,
-   "publishedAt": 1793561727000,
-   "isAI": false,
-   "score": 49.1,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -125,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -139,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -153,8 +181,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
+  },
+  {
+   "title": "Qodo builds context into AI code review with Codex",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+   "publishedAt": 1793577600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 47.5,
+   "hot": false
   },
   {
    "title": "중국 최초의 프런티어 AI 수출 통제: MOFCOM 공고 제48호",
@@ -167,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -177,13 +219,27 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 458,
-   "comments": 361,
+   "engagement": 459,
+   "comments": 369,
    "publishedAt": 1793513179000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.5,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "Show HN: I've updated my Linux System Call website and API",
+   "url": "https://syscall.sh/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50334704",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 174,
+   "comments": 47,
+   "publishedAt": 1793611756000,
+   "isAI": false,
+   "score": 44.4,
+   "hot": true
   },
   {
    "title": "It wasn't AI that flipped Proton's charge",
@@ -193,25 +249,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 165,
-   "comments": 97,
+   "comments": 98,
    "publishedAt": 1793559235000,
    "isAI": true,
-   "score": 44.8,
-   "hot": true
-  },
-  {
-   "title": "Show HN: I've updated my Linux System Call website and API",
-   "url": "https://syscall.sh/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50334704",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 170,
-   "comments": 47,
-   "publishedAt": 1793611756000,
-   "isAI": false,
-   "score": 44.7,
-   "hot": true
+   "score": 44.4,
+   "hot": false
   },
   {
    "title": "Show GN: AI 뭐쓰지? 구독/종량제 기준 주요 도구 및 AI 서비스중 어떤 모델로 쓰는게 효율적인지 알려주는 사...",
@@ -224,8 +266,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.2,
-   "hot": true
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "외부인의 시각으로 본 Scion과 Mononoke",
@@ -238,7 +280,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -252,7 +294,7 @@
    "comments": 264,
    "publishedAt": 1793475559000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -267,7 +309,7 @@
    "comments": 88,
    "publishedAt": 1793540844000,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -281,7 +323,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -295,7 +337,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -309,7 +351,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
    "hot": false
   },
   {
@@ -323,22 +365,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
-  },
-  {
-   "title": "좋아하는 웹사이트가 있다면 백업하자",
-   "url": "https://news.hada.io/topic?id=36474&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "웹 보존을 Internet Archive 같은 대형 기관에만 맡길 필요는 없음. 개인도 좋아하는 사이트와 게시물 을 사라지기 전에 직접 보존할 수 있음 ArchiveWeb.page 는 브라우저에서 페이지를 탐색하며 기록하는 도구로, 단일 페이지부터 소셜 미디어 게시물과 프로필까지...",
-   "publishedAt": 1793640763000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.6,
-   "hot": true
   },
   {
    "title": "Apollo 이코노미스트 “AI, 대부분 기업에 재무적 성과 전혀 안겨주지 못해”",
@@ -351,7 +379,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -365,8 +393,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
+  },
+  {
+   "title": "좋아하는 웹사이트가 있다면 백업하자",
+   "url": "https://news.hada.io/topic?id=36474&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "웹 보존을 Internet Archive 같은 대형 기관에만 맡길 필요는 없음. 개인도 좋아하는 사이트와 게시물 을 사라지기 전에 직접 보존할 수 있음 ArchiveWeb.page 는 브라우저에서 페이지를 탐색하며 기록하는 도구로, 단일 페이지부터 소셜 미디어 게시물과 프로필까지...",
+   "publishedAt": 1793640763000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
+   "hot": true
   },
   {
    "title": "절대 불평하지 말고, 절대 해명하지 말라",
@@ -379,7 +421,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -390,10 +432,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 301,
-   "comments": 93,
+   "comments": 94,
    "publishedAt": 1793538150000,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -407,7 +449,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -421,7 +463,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -435,7 +477,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -449,7 +491,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.1,
+   "hot": false
+  },
+  {
+   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+   "publishedAt": 1793647157000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -463,7 +519,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -477,7 +533,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -491,7 +547,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -499,34 +555,6 @@
    "url": "https://news.hada.io/topic?id=36461&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
    "summary": "Show HN: HackerHack - HN에 올라온 게시물을 위한 HackerBooks",
    "publishedAt": 1793626480000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.8,
-   "hot": true
-  },
-  {
-   "title": "미국 중간선거에 12억 달러를 쏟아부은 거액 후원자들",
-   "url": "https://news.hada.io/topic?id=36460&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "미국 중간선거의 상위 20개 후원 주체 가 이번 선거 주기 연방 선거에 총 12억 달러 를 기부함. 긴밀한 가족 관계나 사업 관계가 있는 일부 후원자는 하나로 묶은 집계임 기술 업계의 영향력 이 커지는 가운데 공화당 성향 후원자가 상위 명단의 다수...",
-   "publishedAt": 1793623105000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.5,
-   "hot": true
-  },
-  {
-   "title": "Trigger.dev 고객 환경 변수 노출",
-   "url": "https://news.hada.io/topic?id=36459&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Trigger.dev에서 보안 사고가 발생해 공격자가 일부 조직의 환경 변수에 무단 접근 함 조사에서 확인된 노출 범위는 일부 조직 에 해당함 Trigger.dev는 이번 공격에 사용된 익스플로잇을 차단 함 영향을 받은 모든 계정 ...",
-   "publishedAt": 1793622925000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -547,8 +575,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.4,
+   "score": 39.1,
    "hot": false
+  },
+  {
+   "title": "미국 중간선거에 12억 달러를 쏟아부은 거액 후원자들",
+   "url": "https://news.hada.io/topic?id=36460&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "미국 중간선거의 상위 20개 후원 주체 가 이번 선거 주기 연방 선거에 총 12억 달러 를 기부함. 긴밀한 가족 관계나 사업 관계가 있는 일부 후원자는 하나로 묶은 집계임 기술 업계의 영향력 이 커지는 가운데 공화당 성향 후원자가 상위 명단의 다수...",
+   "publishedAt": 1793623105000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39,
+   "hot": true
+  },
+  {
+   "title": "Trigger.dev 고객 환경 변수 노출",
+   "url": "https://news.hada.io/topic?id=36459&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Trigger.dev에서 보안 사고가 발생해 공격자가 일부 조직의 환경 변수에 무단 접근 함 조사에서 확인된 노출 범위는 일부 조직 에 해당함 Trigger.dev는 이번 공격에 사용된 익스플로잇을 차단 함 영향을 받은 모든 계정 ...",
+   "publishedAt": 1793622925000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39,
+   "hot": true
   },
   {
    "title": "Show GN: herdr paddock – 오르카의 프로젝트별 작업 공간이 그리워서 만든 herdr 사이드바 모드",
@@ -561,7 +617,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -575,7 +631,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -589,7 +645,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -603,7 +659,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -617,7 +673,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -631,7 +687,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -645,7 +701,7 @@
    "comments": 117,
    "publishedAt": 1793480878000,
    "isAI": true,
-   "score": 38.3,
+   "score": 38,
    "hot": false,
    "lastWeekRank": 7
   },
@@ -660,8 +716,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
+  },
+  {
+   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50300683",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1007,
+   "comments": 553,
+   "publishedAt": 1793344152000,
+   "isAI": true,
+   "score": 37.7,
+   "hot": false,
+   "lastWeekRank": 11
   },
   {
    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
@@ -674,23 +745,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.7,
    "hot": false
-  },
-  {
-   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50300683",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1006,
-   "comments": 553,
-   "publishedAt": 1793344152000,
-   "isAI": true,
-   "score": 37.9,
-   "hot": false,
-   "lastWeekRank": 11
   },
   {
    "title": "AI isn't replacing SREs, it's deskilling them",
@@ -703,7 +759,7 @@
    "comments": 495,
    "publishedAt": 1793375538000,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false,
    "lastWeekRank": 10
   },
@@ -718,21 +774,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
-   "hot": true
-  },
-  {
-   "title": "Show GN: hyperbutler - WSL 없이 Windows(Home 포함)에서 Docker를 돌리는 가벼운 엔진",
-   "url": "https://news.hada.io/topic?id=36449&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Windows에서 Docker를 쓰면 사실상 Docker Desktop + WSL2를 써야 하는데, 오래 쓰다 보면 늘 같은 문제에 부딪힙니다. 이 문제들을 구조부터 다르게 풀어 보려고 만들었습니다. 1. Docker Desktop(WSL2)의 문제와 해결 방식 문제 Doc",
-   "publishedAt": 1793605144000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.5,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -746,9 +788,23 @@
    "comments": 440,
    "publishedAt": 1793283201000,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.2,
    "hot": false,
    "lastWeekRank": 15
+  },
+  {
+   "title": "Show GN: hyperbutler - WSL 없이 Windows(Home 포함)에서 Docker를 돌리는 가벼운 엔진",
+   "url": "https://news.hada.io/topic?id=36449&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Windows에서 Docker를 쓰면 사실상 Docker Desktop + WSL2를 써야 하는데, 오래 쓰다 보면 늘 같은 문제에 부딪힙니다. 이 문제들을 구조부터 다르게 풀어 보려고 만들었습니다. 1. Docker Desktop(WSL2)의 문제와 해결 방식 문제 Doc",
+   "publishedAt": 1793605144000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.1,
+   "hot": true
   },
   {
    "title": "정전 중 전기차 양방향 충전",
@@ -761,7 +817,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -775,7 +831,7 @@
    "comments": 189,
    "publishedAt": 1793472634000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false,
    "lastWeekRank": 8
   },
@@ -790,9 +846,22 @@
    "comments": 17,
    "publishedAt": 1793358353000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.4,
    "hot": false,
    "lastWeekRank": 13
+  },
+  {
+   "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 29.2,
+   "publishedAt": 1793637752000,
+   "isAI": true,
+   "score": 36.1,
+   "hot": false
   },
   {
    "title": "Show HN: 부트 섹터 안에 사는 언어 모델",
@@ -805,7 +874,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -819,7 +888,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -833,7 +902,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -847,7 +916,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -861,20 +930,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 27.6,
-   "publishedAt": 1793637752000,
-   "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -888,7 +944,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -902,7 +958,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -916,7 +972,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -930,7 +986,7 @@
    "comments": 294,
    "publishedAt": 1793381245000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.1,
    "hot": false,
    "lastWeekRank": 20
   },
@@ -945,7 +1001,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -959,7 +1015,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -973,21 +1029,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "Show GN: 커뮤니티가 직접 빌드하고 배포하는 리눅스용 .NET SDK (Core 3.0부터 .NET 10까지)",
-   "url": "https://news.hada.io/topic?id=36419&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Show GN: 커뮤니티가 직접 빌드하고 배포하는 리눅스용 .NET SDK (Core 3.0부터 .NET 10까지)",
-   "publishedAt": 1793571240000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.2,
+   "score": 34,
    "hot": false
   },
   {
@@ -1001,9 +1043,52 @@
    "comments": 1,
    "publishedAt": 1793355771000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
    "hot": false,
    "lastWeekRank": 31
+  },
+  {
+   "title": "Anthropic clamps down on Claude’s AI video game clones",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+   "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Clau",
+   "publishedAt": 1793645762000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 커뮤니티가 직접 빌드하고 배포하는 리눅스용 .NET SDK (Core 3.0부터 .NET 10까지)",
+   "url": "https://news.hada.io/topic?id=36419&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Show GN: 커뮤니티가 직접 빌드하고 배포하는 리눅스용 .NET SDK (Core 3.0부터 .NET 10까지)",
+   "publishedAt": 1793571240000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+   "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50307183",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 301,
+   "comments": 256,
+   "publishedAt": 1793381085000,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false,
+   "lastWeekRank": 26
   },
   {
    "title": "전력 시스템의 동기화로 발생하는 1분 주기 주파수 교란",
@@ -1016,7 +1101,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1030,50 +1115,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-   "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50307183",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 299,
-   "comments": 256,
-   "publishedAt": 1793381085000,
-   "isAI": true,
-   "score": 33.9,
-   "hot": false,
-   "lastWeekRank": 26
-  },
-  {
-   "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-   "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 h",
-   "publishedAt": 1793642490000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-   "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the companies that run New ",
-   "publishedAt": 1793641879000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1087,22 +1129,50 @@
    "comments": 152,
    "publishedAt": 1793378422000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false,
    "lastWeekRank": 30
   },
   {
-   "title": "프런티어 항공의 해킹 피해 가능성",
-   "url": "https://news.hada.io/topic?id=36412&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "프런티어 항공의 해킹 피해 가능성",
-   "publishedAt": 1793565192000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
+   "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+   "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 h",
+   "publishedAt": 1793642490000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.6,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+   "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+   "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+   "publishedAt": 1793642731000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+   "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, th",
+   "publishedAt": 1793641879000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1116,7 +1186,7 @@
    "comments": 201,
    "publishedAt": 1793416964000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false,
    "lastWeekRank": 21
   },
@@ -1131,9 +1201,23 @@
    "comments": 388,
    "publishedAt": 1793369300000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false,
    "lastWeekRank": 33
+  },
+  {
+   "title": "프런티어 항공의 해킹 피해 가능성",
+   "url": "https://news.hada.io/topic?id=36412&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "프런티어 항공의 해킹 피해 가능성",
+   "publishedAt": 1793565192000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.3,
+   "hot": false
   },
   {
    "title": "이메일 암호화 이해하기 - 전송, 저장, 종단 간 암호화의 차이와 한계",
@@ -1146,7 +1230,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1160,7 +1244,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1174,7 +1258,7 @@
    "comments": 302,
    "publishedAt": 1793376782000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false,
    "lastWeekRank": 35
   },
@@ -1189,7 +1273,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1203,23 +1287,9 @@
    "comments": 336,
    "publishedAt": 1793285875000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false,
    "lastWeekRank": 41
-  },
-  {
-   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-   "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-   "publishedAt": 1793570123000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.4,
-   "hot": false
   },
   {
    "title": "Gemini 4 Carbon",
@@ -1232,7 +1302,7 @@
    "comments": 803,
    "publishedAt": 1793206883000,
    "isAI": true,
-   "score": 32.3,
+   "score": 32.2,
    "hot": false,
    "lastWeekRank": 50
   },
@@ -1247,22 +1317,22 @@
    "comments": 448,
    "publishedAt": 1793364601000,
    "isAI": false,
-   "score": 32.2,
+   "score": 32.1,
    "hot": false,
    "lastWeekRank": 39
   },
   {
-   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-   "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-   "publishedAt": 1793566678000,
+   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+   "publishedAt": 1793570123000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.2,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1276,9 +1346,23 @@
    "comments": 170,
    "publishedAt": 1793310028000,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false,
    "lastWeekRank": 43
+  },
+  {
+   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+   "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+   "publishedAt": 1793566678000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 31.8,
+   "hot": false
   },
   {
    "title": "Claude Code regularly sends each background agent’s transcript to its model",
@@ -1291,7 +1375,7 @@
    "comments": 236,
    "publishedAt": 1793244822000,
    "isAI": true,
-   "score": 31.2,
+   "score": 31.1,
    "hot": false,
    "lastWeekRank": 56
   },
@@ -1306,7 +1390,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1320,7 +1404,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.8,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1334,91 +1418,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.8,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, 코딩 다음은 신약 개발…IPO 앞두고 생명과학 투자 확대",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216907",
-   "summary": "앤트로픽이 기업공개(IPO)를 앞두고 생명과학과 신약 개발을 차세대 핵심 성장 동력으로 내세웠다. 소프트웨어 코딩과 기업용 AI 시장에서 거둔 성과를 바탕으로 제약·바이오 산업까지 사업을 확대하고, 자체 연구소와 바이오 기업 인수를 통해 직접 생명과학 연구에도 뛰어들고 있다.비즈니스 인사이더는 지난달 31일(현지시간) 앤트로픽이 미국 증권거래위원회(SEC)에 제출한 S-1 상장 신청서에서 생명과학 사업을 주요 성장 전략으로 제시했다고 보도했다.앤트로픽은 AI가 과학적 발견을 가속하고 주요 질병의 치료법 개발을 앞당길 수 있다고 강조",
-   "publishedAt": 1793609830000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.7,
-   "hot": false
-  },
-  {
-   "title": "MS, AI 코딩 비용 최대 31% 줄이는 도구 공개…작업 성공률은 유지",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216915",
-   "summary": "마이크로소프트(MS)와 UC버클리 연구진이 AI 코딩 에이전트의 작업 성공률을 유지하면서 모델 이용 비용을 최대 30.9% 줄이는 오픈소스 도구를 공개했다. 이전 작업에서 얻은 정보를 재활용하고 불필요한 도구 호출과 반복적인 실패를 줄이는 방식으로, AI 모델 자체를 수정하지 않고도 운영 비용을 낮출 수 있다는 것이 특징이다.연구진은 최근 논문 사전 공개 사이트 아카이브(arXiv)를 통해 코딩 에이전트의 비용을 최적화하는 플러그인 ‘토큰이코노마이저(TokenEconomizer)’를 온라인 아카이브를 통해 공개했다.클로드 코드, 코",
-   "publishedAt": 1793608875000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.7,
-   "hot": false
-  },
-  {
-   "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-   "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-   "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-   "publishedAt": 1793628000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "\"AI를 통제하라\"…국내 솔루션 기업, AI 가드레일 시장 잰걸음",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216914",
-   "summary": "생성 AI와 AI 에이전트가 기업이 정한 정책과 범위 안에서만 움직이도록 통제하는 'AI 가드레일' 시장을 겨냥해 국내 솔루션 기업들이 잰걸음에 나섰다.AI 가드레일은 AI의 입력과 출력, 행동을 정해진 기준 안에 묶어 두는 안전장치다. 입·출력을 판정·차단하는 제품으로 좁게 보기도 하고, 개발·운영 전 과정의 보안 체계나 조직 차원의 거버넌스로까지 확장되기도 한다.최근에는 AI 에이전트가 확산하면서 통제 대상도 '말(텍스트)'를 넘어 '행동'으로 넓어지는 양상이다. AI 에이전트가 수행한 잘못된 행동이 더 큰 보안 위협이 될 수",
-   "publishedAt": 1793607295000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "\"코딩은 AI에 맡겨라\"…프로톤, 개발 속도 압박에 보안 논란",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216910",
-   "summary": "스위스의 암호화 전문 프로톤(Proton)이 소프트웨어 개발을 AI 중심으로 전환하면서 내부 갈등을 겪고 있다. 최고 기술책임자(CTO)는 개발자가 직접 코드를 작성하는 시대가 끝났다고 선언했으며, 경영진은 AI 활용을 강하게 독려하는 과정에서 보안 검증을 요구한 직원들과 충돌했다. 논란이 커지자 회사는 직원들의 AI 활용 능력을 재평가하려던 계획을 취소했다.404미디어는 29일(현지시간) 프로톤의 내부 메모와 슬랙 대화, 회의 녹음, 직원 인터뷰 등을 토대로 회사의 AI 전환 과정에서 발생한 갈등을 보도했다.논란은 바트 버틀러 프",
-   "publishedAt": 1793607154000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "시스코, 27세 엔지니어에게 AI 토큰 무제한 제공…2년 내 기존 코드 98% 재작성",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216918",
-   "summary": "시스코가 27세 엔지니어에게 AI 토큰을 무제한으로 제공하며, 2년 안에 회사의 기존 소프트웨어 코드 98%를 재작성하는 프로젝트를 맡겼다. 단 2명의 팀으로 대규모 코드 개편을 추진하겠다는 제안에 경영진이 힘을 실은 것으로, AI가 소프트웨어 개발 방식과 기업의 인재 활용 전략을 바꾸고 있음을 보여주는 사례다.포춘은 30일(현지시간) 시스코의 사장 겸 최고제품책임자(CPO) 지투 파텔이 27세 엔지니어 파드마나반 크리슈나무르티에게 회사의 레거시 코드를 대대적으로 개편하는 임무를 맡겼다고 보도했다.크리슈나무르티는 우선 4주 안에 기",
-   "publishedAt": 1793606580000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.5,
+   "score": 30.4,
    "hot": false
   }
  ]
