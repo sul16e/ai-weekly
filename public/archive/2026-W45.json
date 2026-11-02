@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793647933011,
+ "updatedAt": 1793651594857,
  "week": "2026-W45",
  "items": [
   {
@@ -9,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 373,
-   "comments": 98,
+   "engagement": 800,
+   "comments": 264,
    "publishedAt": 1793643688000,
    "isAI": true,
-   "score": 63.8,
+   "score": 70.2,
+   "hot": true
+  },
+  {
+   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50339494",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 216,
+   "comments": 169,
+   "publishedAt": 1793637629000,
+   "isAI": true,
+   "score": 57,
    "hot": true
   },
   {
@@ -23,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 200,
-   "comments": 218,
+   "engagement": 209,
+   "comments": 228,
    "publishedAt": 1793630325000,
    "isAI": true,
-   "score": 55.7,
+   "score": 55.5,
    "hot": true
   },
   {
@@ -41,35 +55,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 55.3,
-   "hot": true
-  },
-  {
-   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50339494",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 166,
-   "comments": 135,
-   "publishedAt": 1793637629000,
-   "isAI": true,
-   "score": 55.2,
-   "hot": true
-  },
-  {
-   "title": "The latest AI news we announced in October 2026",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-   "summary": "Here are Google’s latest AI updates from October 2026",
-   "publishedAt": 1793641500000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 52,
+   "score": 54.7,
    "hot": true
   },
   {
@@ -83,7 +69,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.9,
+   "score": 51.4,
+   "hot": true
+  },
+  {
+   "title": "The latest AI news we announced in October 2026",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+   "summary": "Here are Google’s latest AI updates from October 2026",
+   "publishedAt": 1793641500000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 51.4,
    "hot": true
   },
   {
@@ -93,11 +93,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 119,
-   "comments": 135,
+   "engagement": 131,
+   "comments": 165,
    "publishedAt": 1793630405000,
    "isAI": true,
-   "score": 51,
+   "score": 51.3,
+   "hot": false
+  },
+  {
+   "title": "Anthropic의 내부 AI 사용액, 소매가격 기준으로 직원 급여 넘어섬",
+   "url": "https://news.hada.io/topic?id=36479&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Anthropic의 내부 Claude 사용액 을 고객에게 부과하는 가격으로 환산한 결과, 4월에 주식 보상을 제외한 월간 직원 보상 비용을 넘어섬 이는 소매가격 기준 평가액 으로, 실제 AI 관련 현금 지출이 직원 급여보다 많다는 뜻은 아님 9월 내부 AI 사용량은 1...",
+   "publishedAt": 1793648361000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "Astra, 가중치를 읽고 수정해 Qwen을 개선할 수 있음",
+   "url": "https://news.hada.io/topic?id=36478&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "GPT-6 Astra 가 학습 루프나 경사하강법 없이 신경망 가중치를 직접 해석하고 수정하는 초기 실험에서, 모델의 동작 식별과 오류 수정, 새 신경망 작성 능력을 보임 Qwen3.5-0.8B 의 가중치 0.016%를 수정해 반복 추론을 줄였으며, 같은 샘플링 설정에서 MATH-500은 ...",
+   "publishedAt": 1793648181000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "Last night an AI agent performed brain surgery on a mouse",
+   "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50336138",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 107,
+   "comments": 93,
+   "publishedAt": 1793623859000,
+   "isAI": true,
+   "score": 48.6,
    "hot": false
   },
   {
@@ -108,10 +150,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 146,
-   "comments": 79,
+   "comments": 81,
    "publishedAt": 1793604448000,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.6,
    "hot": false
   },
   {
@@ -121,12 +163,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 663,
-   "comments": 789,
+   "engagement": 671,
+   "comments": 802,
    "publishedAt": 1793561727000,
    "isAI": false,
-   "score": 48.8,
-   "hot": true
+   "score": 48.4,
+   "hot": false
   },
   {
    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
@@ -136,10 +178,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 241,
-   "comments": 246,
+   "comments": 247,
    "publishedAt": 1793571045000,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -153,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
   },
   {
@@ -167,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
   },
   {
@@ -181,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -195,7 +237,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.5,
+   "score": 47.1,
    "hot": false
   },
   {
@@ -209,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": true
   },
   {
@@ -219,11 +261,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 459,
-   "comments": 369,
+   "engagement": 462,
+   "comments": 371,
    "publishedAt": 1793513179000,
    "isAI": true,
-   "score": 46.5,
+   "score": 46.1,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -234,11 +276,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 174,
+   "engagement": 180,
    "comments": 47,
    "publishedAt": 1793611756000,
    "isAI": false,
-   "score": 44.4,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -249,10 +291,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 165,
-   "comments": 98,
+   "comments": 99,
    "publishedAt": 1793559235000,
    "isAI": true,
-   "score": 44.4,
+   "score": 44,
    "hot": false
   },
   {
@@ -266,7 +308,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -280,7 +322,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.5,
+   "score": 43,
    "hot": false
   },
   {
@@ -290,11 +332,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 487,
-   "comments": 264,
+   "engagement": 488,
+   "comments": 265,
    "publishedAt": 1793475559000,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -306,10 +348,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 175,
-   "comments": 88,
+   "comments": 89,
    "publishedAt": 1793540844000,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -323,7 +365,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.6,
+   "score": 42.2,
    "hot": false
   },
   {
@@ -337,7 +379,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
    "hot": false
   },
   {
@@ -351,7 +393,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -365,8 +407,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.5,
    "hot": false
+  },
+  {
+   "title": "소련 수학 교과서는 왜 미국 교과서보다 훨씬 어려울까? (2017)",
+   "url": "https://news.hada.io/topic?id=36476&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "실험 장비와 컴퓨터의 부족 이 소련 수학 교과서의 높은 난도와 일부 관련 있을 수 있다는 가설로, 1992년 러시아 Protvino 방문 경험에 근거함 당시 Protvino에서는 새 장비를 제작하기보다 기존 장비를 재활용 하는 노력이 두드러졌으며, 연구자들이 쓰는 컴퓨터도...",
+   "publishedAt": 1793644669000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
+   "hot": true
+  },
+  {
+   "title": "Show HN: Subvocal - 소리 내지 않고 컴퓨터에 말하기",
+   "url": "https://news.hada.io/topic?id=36475&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Subvocal 은 의도적으로 소리 없이 입을 움직이면 이를 텍스트로 변환하는 입력 방식으로, 거의 눈에 띄지 않는 움직임으로 분당 200단어 이상 의 입력 속도를 내세움 카메라나 음성 청취에 의존하지 않아 웹캠을 켤 필요가 없으며, 주변 대화나 교...",
+   "publishedAt": 1793644489000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
+   "hot": true
   },
   {
    "title": "Apollo 이코노미스트 “AI, 대부분 기업에 재무적 성과 전혀 안겨주지 못해”",
@@ -379,7 +449,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -393,7 +463,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -407,7 +477,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -421,7 +491,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -431,11 +501,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 301,
+   "engagement": 305,
    "comments": 94,
    "publishedAt": 1793538150000,
    "isAI": false,
-   "score": 40.4,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -449,7 +519,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -463,7 +533,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -477,7 +547,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -491,13 +561,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
    "publishedAt": 1793647157000,
    "source": "TechCrunch AI",
    "sourceType": "media",
@@ -505,7 +575,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -519,7 +589,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -533,7 +603,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -547,7 +617,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -561,22 +631,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
-  },
-  {
-   "title": "전 Meta 연구원, 해적판 도서를 토렌트로 받은 뒤 ‘소송 때문에’ 삭제",
-   "url": "https://news.hada.io/topic?id=36409&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "저작권자들은 전 Meta 연구원 Stephen Roller 가 Books3를 토렌트로 내려받고 의도적으로 배포했다고 증언했다며, Meta의 데이터 확보 경위에 대한 추가 확인을 요구함 법원은 지난해 도서를 이용한 Llama 학습을 공정 이용 으로 판단했으며, 저자들이 제기한 소송에...",
-   "publishedAt": 1793559437000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 39.1,
-   "hot": false
   },
   {
    "title": "미국 중간선거에 12억 달러를 쏟아부은 거액 후원자들",
@@ -589,7 +645,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -603,7 +659,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -617,7 +673,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -631,7 +687,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -645,7 +701,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -659,7 +715,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -673,8 +729,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
+  },
+  {
+   "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+   "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50320255",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 196,
+   "comments": 120,
+   "publishedAt": 1793480878000,
+   "isAI": true,
+   "score": 37.7,
+   "hot": false,
+   "lastWeekRank": 7
   },
   {
    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
@@ -687,37 +758,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.7,
    "hot": false
-  },
-  {
-   "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-   "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50320255",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 196,
-   "comments": 117,
-   "publishedAt": 1793480878000,
-   "isAI": true,
-   "score": 38,
-   "hot": false,
-   "lastWeekRank": 7
-  },
-  {
-   "title": "Show HN: WikiHack - HN에서 언급된 Wikipedia 문서를 모아 보여주는 HackerTube 방식의 서비스",
-   "url": "https://news.hada.io/topic?id=36452&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "WikiHack 은 Hacker News에서 링크된 Wikipedia 문서를 모아 보여주는 서비스임 각 항목에 문서 소개문 과 상세 페이지 링크가 있어 해당 주제의 개요를 읽을 수 있음 문서별로 HN 이용자 수 , 링크 수와 링크가 등장한 연도 범위를 표시함...",
-   "publishedAt": 1793611912000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.8,
-   "hot": true
   },
   {
    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
@@ -730,9 +772,38 @@
    "comments": 553,
    "publishedAt": 1793344152000,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.5,
    "hot": false,
    "lastWeekRank": 11
+  },
+  {
+   "title": "Show HN: WikiHack - HN에서 언급된 Wikipedia 문서를 모아 보여주는 HackerTube 방식의 서비스",
+   "url": "https://news.hada.io/topic?id=36452&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "WikiHack 은 Hacker News에서 링크된 Wikipedia 문서를 모아 보여주는 서비스임 각 항목에 문서 소개문 과 상세 페이지 링크가 있어 해당 주제의 개요를 읽을 수 있음 문서별로 HN 이용자 수 , 링크 수와 링크가 등장한 연도 범위를 표시함...",
+   "publishedAt": 1793611912000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.4,
+   "hot": true
+  },
+  {
+   "title": "AI isn't replacing SREs, it's deskilling them",
+   "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50305693",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 677,
+   "comments": 496,
+   "publishedAt": 1793375538000,
+   "isAI": true,
+   "score": 37.3,
+   "hot": false,
+   "lastWeekRank": 10
   },
   {
    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
@@ -745,37 +816,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.3,
    "hot": false
   },
   {
-   "title": "AI isn't replacing SREs, it's deskilling them",
-   "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50305693",
-   "source": "Hacker News",
+   "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+   "source": "r/LocalLLaMA",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 676,
-   "comments": 495,
-   "publishedAt": 1793375538000,
-   "isAI": true,
-   "score": 37.5,
-   "hot": false,
-   "lastWeekRank": 10
-  },
-  {
-   "title": "F/OSS Comics #13: BSD Unix 3부, BSD Unix의 시작",
-   "url": "https://news.hada.io/topic?id=36450&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "초기 BSD 는 독립 운영체제가 아니라 기존 Unix에 설치하는 소프트웨어 모음이었으며, Bill Joy가 1977년 초 Pascal 시스템과 줄 편집기 ex를 묶어 배포함 BSD를 받으려면 AT&T Unix 소스 라이선스 가 필요했고, Berkeley는 테이프와 배포 비용만 받음 ...",
-   "publishedAt": 1793608358000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "baseWeight": 30.8,
+   "publishedAt": 1793637752000,
+   "isAI": true,
+   "score": 37.2,
+   "hot": false
   },
   {
    "title": "We're releasing the weights of Mistral Large 4",
@@ -788,9 +843,23 @@
    "comments": 440,
    "publishedAt": 1793283201000,
    "isAI": true,
-   "score": 37.2,
+   "score": 37.1,
    "hot": false,
    "lastWeekRank": 15
+  },
+  {
+   "title": "F/OSS Comics #13: BSD Unix 3부, BSD Unix의 시작",
+   "url": "https://news.hada.io/topic?id=36450&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "초기 BSD 는 독립 운영체제가 아니라 기존 Unix에 설치하는 소프트웨어 모음이었으며, Bill Joy가 1977년 초 Pascal 시스템과 줄 편집기 ex를 묶어 배포함 BSD를 받으려면 AT&T Unix 소스 라이선스 가 필요했고, Berkeley는 테이프와 배포 비용만 받음 ...",
+   "publishedAt": 1793608358000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Show GN: hyperbutler - WSL 없이 Windows(Home 포함)에서 Docker를 돌리는 가벼운 엔진",
@@ -803,8 +872,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "정전 중 전기차 양방향 충전",
@@ -817,8 +886,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
@@ -831,7 +900,7 @@
    "comments": 189,
    "publishedAt": 1793472634000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false,
    "lastWeekRank": 8
   },
@@ -846,22 +915,9 @@
    "comments": 17,
    "publishedAt": 1793358353000,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.2,
    "hot": false,
    "lastWeekRank": 13
-  },
-  {
-   "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 29.2,
-   "publishedAt": 1793637752000,
-   "isAI": true,
-   "score": 36.1,
-   "hot": false
   },
   {
    "title": "Show HN: 부트 섹터 안에 사는 언어 모델",
@@ -874,7 +930,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -888,7 +944,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -902,7 +958,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -916,7 +972,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -930,7 +986,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -944,7 +1000,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -958,21 +1014,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "JEPA로 플라톤적 표현 가설을 증명하고 개선하기",
-   "url": "https://news.hada.io/topic?id=36423&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "서로 다른 모달리티에서 독립적으로 학습한 JEPA가 동일한 세계 상태를 연결하는 양성 쌍 을 사용하면, 일정한 가정 아래 회전 변환만 다른 동일한 표현을 학습한다는 정리를 증명함 정렬을 좌우하는 핵심은 규모뿐 아니라 뷰의 구성 임. 같은 장면의 서로 다른 관측...",
-   "publishedAt": 1793576115000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -986,9 +1028,23 @@
    "comments": 294,
    "publishedAt": 1793381245000,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false,
    "lastWeekRank": 20
+  },
+  {
+   "title": "JEPA로 플라톤적 표현 가설을 증명하고 개선하기",
+   "url": "https://news.hada.io/topic?id=36423&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "서로 다른 모달리티에서 독립적으로 학습한 JEPA가 동일한 세계 상태를 연결하는 양성 쌍 을 사용하면, 일정한 가정 아래 회전 변환만 다른 동일한 표현을 학습한다는 정리를 증명함 정렬을 좌우하는 핵심은 규모뿐 아니라 뷰의 구성 임. 같은 장면의 서로 다른 관측...",
+   "publishedAt": 1793576115000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.9,
+   "hot": false
   },
   {
    "title": "영국 전역 기존 유선전화망, 100일 뒤 종료…기한 연장 없어",
@@ -1001,7 +1057,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1015,21 +1071,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "Show HN: OmniDiff - Rust로 만든 매우 빠른 콘텐츠 인식 오픈소스 Git diff 도구",
-   "url": "https://news.hada.io/topic?id=36420&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "OmniDiff 는 코드뿐 아니라 이미지, 폰트, 압축 파일, PDF도 내용에 맞는 방식으로 비교하며, 터미널에서 변경된 부분을 시각적으로 보여줌 코드는 tree-sitter 기반 구조 비교 를 25개 언어에 적용하고, 비텍스트 파일은 이름이 아닌 바이트로 형식을 판별해 픽셀, ...",
-   "publishedAt": 1793572619000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1043,23 +1085,38 @@
    "comments": 1,
    "publishedAt": 1793355771000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false,
    "lastWeekRank": 31
   },
   {
-   "title": "Anthropic clamps down on Claude’s AI video game clones",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-   "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Clau",
-   "publishedAt": 1793645762000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
+   "title": "Show HN: OmniDiff - Rust로 만든 매우 빠른 콘텐츠 인식 오픈소스 Git diff 도구",
+   "url": "https://news.hada.io/topic?id=36420&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "OmniDiff 는 코드뿐 아니라 이미지, 폰트, 압축 파일, PDF도 내용에 맞는 방식으로 비교하며, 터미널에서 변경된 부분을 시각적으로 보여줌 코드는 tree-sitter 기반 구조 비교 를 25개 언어에 적용하고, 비텍스트 파일은 이름이 아닌 바이트로 형식을 판별해 픽셀, ...",
+   "publishedAt": 1793572619000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
    "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 33.6,
    "hot": false
+  },
+  {
+   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+   "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50307183",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 301,
+   "comments": 257,
+   "publishedAt": 1793381085000,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false,
+   "lastWeekRank": 26
   },
   {
    "title": "Show GN: 커뮤니티가 직접 빌드하고 배포하는 리눅스용 .NET SDK (Core 3.0부터 .NET 10까지)",
@@ -1072,23 +1129,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
-   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-   "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50307183",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Anthropic clamps down on Claude’s AI video game clones",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+   "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Clau",
+   "publishedAt": 1793645762000,
+   "source": "The Verge",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 301,
-   "comments": 256,
-   "publishedAt": 1793381085000,
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
-   "hot": false,
-   "lastWeekRank": 26
+   "score": 33.4,
+   "hot": false
   },
   {
    "title": "전력 시스템의 동기화로 발생하는 1분 주기 주파수 교란",
@@ -1101,7 +1157,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1115,7 +1171,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1129,9 +1185,24 @@
    "comments": 152,
    "publishedAt": 1793378422000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false,
    "lastWeekRank": 30
+  },
+  {
+   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+   "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50304122",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 314,
+   "comments": 388,
+   "publishedAt": 1793369300000,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false,
+   "lastWeekRank": 33
   },
   {
    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
@@ -1144,7 +1215,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1158,21 +1229,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-   "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, th",
-   "publishedAt": 1793641879000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1186,58 +1243,29 @@
    "comments": 201,
    "publishedAt": 1793416964000,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false,
    "lastWeekRank": 21
   },
   {
-   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-   "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50304122",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+   "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, th",
+   "publishedAt": 1793641879000,
+   "source": "The Verge",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 314,
-   "comments": 388,
-   "publishedAt": 1793369300000,
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
-   "hot": false,
-   "lastWeekRank": 33
+   "score": 33,
+   "hot": false
   },
   {
    "title": "프런티어 항공의 해킹 피해 가능성",
    "url": "https://news.hada.io/topic?id=36412&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
    "summary": "프런티어 항공의 해킹 피해 가능성",
    "publishedAt": 1793565192000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "이메일 암호화 이해하기 - 전송, 저장, 종단 간 암호화의 차이와 한계",
-   "url": "https://news.hada.io/topic?id=36411&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "이메일 암호화는 연결, 서버 간 전송, 저장, 종단 간 통신 중 어디에 적용하느냐에 따라 보호 범위가 다르며, 먼저 어떤 위협을 막으려는지 구분해야 함 TLS는 전송 경로의 도청을 방어 하지만, 서버 간 기회적 TLS는 비암호화 연결로 강등될 수 있음. MTA-STS와 DA...",
-   "publishedAt": 1793561995000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "Patrick Stewart는 선한 사람들이 권력을 어떻게 사용하는지 가르쳐 주었다",
-   "url": "https://news.hada.io/topic?id=36410&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Patrick Stewart가 연기한 Jean-Luc Picard 는 행성을 파괴할 군사력을 갖고도 구조, 외교, 백신 보급과 보편적 권리 보호에 힘을 쓰는 지도자의 모범이었음 Star Trek: The Next Generation 은 냉전 이후 미국의 패권을 이상화하면서, 합리적 논증에 응답하고 개인의...",
-   "publishedAt": 1793561815000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -1258,23 +1286,9 @@
    "comments": 302,
    "publishedAt": 1793376782000,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false,
    "lastWeekRank": 35
-  },
-  {
-   "title": "프랑스 하원, GB당 0.055유로 인터넷세 수정안 가결 - 부담 전가와 측정 방식 논쟁",
-   "url": "https://news.hada.io/topic?id=36408&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "프랑스 하원이 2027년 예산법안 심의에서 콘텐츠 제공업체에 GB당 0.055유로 인터넷세 를 부과하는 수정안을 찬성 11표, 반대 10표 로 채택함 발의 측은 100억 유로의 세수 를 예상하며, 프랑스 이용자에게 전달되는 트래픽을 많이 발생시키는 글로벌...",
-   "publishedAt": 1793559257000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 32.8,
-   "hot": false
   },
   {
    "title": "LLM Voice",
@@ -1287,7 +1301,7 @@
    "comments": 336,
    "publishedAt": 1793285875000,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.5,
    "hot": false,
    "lastWeekRank": 41
   },
@@ -1302,7 +1316,7 @@
    "comments": 803,
    "publishedAt": 1793206883000,
    "isAI": true,
-   "score": 32.2,
+   "score": 32.1,
    "hot": false,
    "lastWeekRank": 50
   },
@@ -1317,23 +1331,9 @@
    "comments": 448,
    "publishedAt": 1793364601000,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false,
    "lastWeekRank": 39
-  },
-  {
-   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-   "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-   "publishedAt": 1793570123000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.1,
-   "hot": false
   },
   {
    "title": "We ran AI agent swarms in Minecraft and Mindustry",
@@ -1346,9 +1346,23 @@
    "comments": 170,
    "publishedAt": 1793310028000,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.8,
    "hot": false,
    "lastWeekRank": 43
+  },
+  {
+   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+   "publishedAt": 1793570123000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 31.8,
+   "hot": false
   },
   {
    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
@@ -1361,7 +1375,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1375,7 +1389,7 @@
    "comments": 236,
    "publishedAt": 1793244822000,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false,
    "lastWeekRank": 56
   },
@@ -1390,7 +1404,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.6,
+   "score": 30.3,
    "hot": false
   },
   {
@@ -1404,21 +1418,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "\"빨간 하트 하나에 코딩 방식 바뀐다\"…AI의 숨겨진 시각적 영향 확인",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216913",
-   "summary": "단순한 빨간색 하트 이미지 하나만으로 AI가 코드를 작성하는 방식이 완전히 달라진다는 연구 결과가 나왔다. 특히 AI가 이미지의 영향을 받아 작업 방식을 바꾸면서도 그 이유를 제대로 설명하지 못하는 것으로 나타나, 시각 정보를 처리하는 AI의 의사결정 과정에 새로운 의문이 제기됐다.구글 딥마인드와 스탠퍼드대학교 공동 연구진은 지난달 27일(현지시간) 논문 사전 공개 사이트 아카이브(arXiv)에 '하트는 재귀를 의미한다(A Heart Means Recursion)'라는 제목의 논문을 발표했다. 이미지와 텍스트를 함께 처리하는 시각언",
-   "publishedAt": 1793610000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.4,
+   "score": 30.2,
    "hot": false
   }
  ]
