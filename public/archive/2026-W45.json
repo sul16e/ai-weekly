@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793695222533,
+ "updatedAt": 1793698883750,
  "week": "2026-W45",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 2508,
-   "comments": 780,
+   "engagement": 2598,
+   "comments": 788,
    "publishedAt": 1793643688000,
    "isAI": true,
-   "score": 71.4,
+   "score": 70.9,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 328,
-   "comments": 245,
+   "engagement": 346,
+   "comments": 257,
    "publishedAt": 1793658647000,
    "isAI": true,
-   "score": 57,
+   "score": 56.8,
    "hot": true
   },
   {
@@ -37,8 +37,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 204,
-   "comments": 114,
+   "engagement": 218,
+   "comments": 129,
    "publishedAt": 1793663276000,
    "isAI": true,
    "score": 53.6,
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 319,
-   "comments": 248,
+   "engagement": 323,
+   "comments": 249,
    "publishedAt": 1793637629000,
    "isAI": true,
-   "score": 53.5,
+   "score": 53.1,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 206,
-   "comments": 239,
+   "engagement": 207,
+   "comments": 240,
    "publishedAt": 1793658800000,
    "isAI": true,
-   "score": 53,
+   "score": 52.5,
    "hot": true
   },
   {
@@ -79,8 +79,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 467,
-   "comments": 133,
+   "engagement": 500,
+   "comments": 142,
    "publishedAt": 1793644778000,
    "isAI": false,
    "score": 50.8,
@@ -93,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 186,
+   "engagement": 188,
    "comments": 166,
    "publishedAt": 1793647657000,
    "isAI": true,
-   "score": 50.5,
+   "score": 50.1,
    "hot": true
   },
   {
@@ -107,26 +107,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 231,
-   "comments": 274,
+   "engagement": 232,
+   "comments": 275,
    "publishedAt": 1793630325000,
    "isAI": true,
-   "score": 49.9,
+   "score": 49.5,
    "hot": true
-  },
-  {
-   "title": "Rewarding defenders with bigger bug bounties",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-   "publishedAt": 1793642400000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 49.8,
-   "hot": false
   },
   {
    "title": "Preparing our next security sprint to harden OpenAI",
@@ -139,8 +125,36 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.3,
    "hot": false
+  },
+  {
+   "title": "Rewarding defenders with bigger bug bounties",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "publishedAt": 1793642400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 49.3,
+   "hot": false
+  },
+  {
+   "title": "OpenAI의 Git 확장, 병렬 푸시와 팩 재사용을 위한 Pando 구축",
+   "url": "https://news.hada.io/topic?id=36517&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "OpenAI가 Git 프로토콜과 기존 작업 방식을 유지하면서 동시 작업을 확장하는 새 저장소 백엔드 Pando 를 구축해 모노레포 전체 개발에 적용함 저장소 전체의 시점 일관성 대신 인과적 일관성 을 채택해 서로 다른 브랜치의 푸시를 병렬 처리하고, 개별 참조 업데이트에는 직렬 가능성을 보장함 클라이언트마다 팩파일을 새로 만드는 대신 기존 팩파일을 재사용 하고 지역별 캐시에서 제공해 읽기 처리량을 확장함 프로덕션에서 푸시 지연 시간 중앙값을 약 80% 줄였으며 , 하루 약 1페타바이트의 Git 데이터를 제공함 Codex와 함께 10",
+   "publishedAt": 1793691256000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.9,
+   "hot": true
   },
   {
    "title": "Egoless Mathematics in the AI Era",
@@ -149,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 157,
-   "comments": 112,
+   "engagement": 159,
+   "comments": 118,
    "publishedAt": 1793645684000,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.9,
    "hot": false
   },
   {
@@ -209,7 +223,7 @@
    "comments": 247,
    "publishedAt": 1793630405000,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -223,7 +237,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.8,
+   "hot": true
+  },
+  {
+   "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+   "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50346153",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 203,
+   "comments": 161,
+   "publishedAt": 1793664533000,
+   "isAI": false,
+   "score": 46,
    "hot": true
   },
   {
@@ -237,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 46,
    "hot": true
   },
   {
@@ -251,21 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.4,
-   "hot": true
-  },
-  {
-   "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-   "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50346153",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 199,
-   "comments": 155,
-   "publishedAt": 1793664533000,
-   "isAI": false,
-   "score": 46.3,
+   "score": 45.9,
    "hot": true
   },
   {
@@ -279,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -293,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -307,7 +321,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": false
   },
   {
@@ -321,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -335,7 +349,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 45.4,
+   "score": 45,
    "hot": false
   },
   {
@@ -345,11 +359,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 131,
+   "engagement": 132,
    "comments": 103,
    "publishedAt": 1793623859000,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.3,
    "hot": false
   },
   {
@@ -359,11 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 705,
-   "comments": 845,
+   "engagement": 707,
+   "comments": 847,
    "publishedAt": 1793561727000,
    "isAI": false,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -377,7 +391,7 @@
    "comments": 87,
    "publishedAt": 1793604448000,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -391,35 +405,7 @@
    "comments": 253,
    "publishedAt": 1793571045000,
    "isAI": true,
-   "score": 43.3,
-   "hot": false
-  },
-  {
-   "title": "Qodo builds context into AI code review with Codex",
-   "url": "https://openai.com/index/qodo-codex-plugin",
-   "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-   "publishedAt": 1793577600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 42.2,
-   "hot": false
-  },
-  {
-   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "url": "https://openai.com/index/dan-driscoll-joins-openai",
-   "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-   "publishedAt": 1793577600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 42.2,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -433,9 +419,51 @@
    "comments": 389,
    "publishedAt": 1793513179000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.8,
    "hot": false,
    "lastWeekRank": 2
+  },
+  {
+   "title": "Qodo builds context into AI code review with Codex",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+   "publishedAt": 1793577600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 41.8,
+   "hot": false
+  },
+  {
+   "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+   "publishedAt": 1793577600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 41.8,
+   "hot": false
+  },
+  {
+   "title": "DiscImageStudio: CD, DVD, Blu-ray 디스크에 눈에 보이는 그림을 굽는 도구",
+   "url": "https://news.hada.io/topic?id=36518&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "DiscImageStudio 는 이미지를 광디스크의 물리 계층 제약에 맞는 데이터로 변환해, 기록 후 디스크 표면에 육안으로 보이는 무늬를 만드는 도구임 Windows 데스크톱 앱 에서 이미지 배치, 색조 조정, 미리보기와 기록을 지원하며, Linux와 macOS에서는 실험적 CLI로 디스크 이미지를 오프라인 생성할 수 있음 CD, DVD와 단층 BD-R 25GB 를 지원하며, 그림뿐 아니라 파일을 함께 저장하고 파일 영역을 디스크 안쪽이나 바깥쪽에 배치할 수 있음 보조 교정 으로 디스크의 물리적 매개변수를 조정하며, 일정한 트랙 ",
+   "publishedAt": 1793694728000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
   },
   {
    "title": "Show HN: I've updated my Linux System Call website and API",
@@ -448,8 +476,8 @@
    "comments": 52,
    "publishedAt": 1793611756000,
    "isAI": false,
-   "score": 40.8,
-   "hot": true
+   "score": 40.4,
+   "hot": false
   },
   {
    "title": "미국 30~33세의 순자산",
@@ -462,22 +490,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
-   "title": "HackerBooks - HackerNews에서 언급된 책만 모은 HackerTube의 책 버전",
-   "url": "https://news.hada.io/topic?id=36511&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "카파시(Karpathy)의 HackerTube에서 영감을 받아, 2007년부터 현재까지 해커뉴스 댓글에서 유저들이 언급한 약 16,500권의 책을 모아 보여주는 웹사이트 각 도서 항목은 실제로 그 책이 언급된 해커뉴스 댓글로 직접 연결되며(긍정·부정 언급 모두 포함), 전체 데이터셋은 사이트 내 소개 페이지에서 다운로드 가능 가장 많이 언급된 책은 , , , 순. …",
-   "publishedAt": 1793682745000,
-   "source": "GeekNews",
+   "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+   "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50341028",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 136,
+   "comments": 47,
+   "publishedAt": 1793643168000,
    "isAI": false,
-   "score": 40.5,
-   "hot": true
+   "score": 40.1,
+   "hot": false
   },
   {
    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
@@ -490,22 +518,22 @@
    "comments": 95,
    "publishedAt": 1793639125000,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
-   "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50341028",
-   "source": "Hacker News",
+   "title": "HackerBooks - HackerNews에서 언급된 책만 모은 HackerTube의 책 버전",
+   "url": "https://news.hada.io/topic?id=36511&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "카파시(Karpathy)의 HackerTube에서 영감을 받아, 2007년부터 현재까지 해커뉴스 댓글에서 유저들이 언급한 약 16,500권의 책을 모아 보여주는 웹사이트 각 도서 항목은 실제로 그 책이 언급된 해커뉴스 댓글로 직접 연결되며(긍정·부정 언급 모두 포함), 전체 데이터셋은 사이트 내 소개 페이지에서 다운로드 가능 가장 많이 언급된 책은 , , , 순. …",
+   "publishedAt": 1793682745000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 131,
-   "comments": 47,
-   "publishedAt": 1793643168000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
-   "hot": false
+   "score": 40,
+   "hot": true
   },
   {
    "title": "자영업자나 1인 사업자인가요? NIST가 맞춤형 사이버보안 가이드를 공개함",
@@ -518,7 +546,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -526,20 +554,6 @@
    "url": "https://news.hada.io/topic?id=36508&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
    "summary": "11월 2일 S&P 500 종목 약 70%가 상승했지만 거의 모든 반도체주는 하락했으며, Yahoo Finance 집계 기준 하루에 시가총액 4,000억 달러 이상 이 사라짐 Intel 은 부진한 전망으로 10월 30일 약 29% 폭락한 뒤 이날도 약 9% 하락해, 시가총액이 9월 말의 절반 아래로 내려감 올해 상승을 이끌었던 메모리/스토리지 종목 도 약 6~8% 하락했으며, 본문 집계 기준 반도체/메모리주의 10월 6일 이후 시가총액 감소액은 약 3조 7,000억 달러 에 달함 시장 전망은 악재가 이미 가격에 반영됐다는 판단 과 ",
    "publishedAt": 1793680425000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.2,
-   "hot": true
-  },
-  {
-   "title": "Show GN: MyLocal - 외부에 열린 개발 서버를 보여 주고 업무 시간 뒤 정리하는 앱",
-   "url": "https://news.hada.io/topic?id=36507&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "MyLocal은 외부에 열린 개발 서버를 보여 주고, 업무 시간이 끝나면 알린 뒤 꺼 주는 앱입니다. lsof 는 확인하는 순간의 포트만 보여 줍니다. MyLocal은 누가 띄웠고 왜 열렸는지도 보여 주고, 업무 시간 뒤에 새로 뜬 서버도 계속 찾습니다. 저는 백엔드 개발자입니다. 최근 제 Mac에 정보 탈취형 악성코드가 설치되는 일을 겪었습니다. 그 뒤 개발 중인 서버에 외부에서 접속하는 상황을 발견해 직접 만들었습니다. 악성코드를 찾거나 막는 프로그램은 아닙니다. 제가 겪은 악성코드도 막지 못합니다. 누가 접속했는지도 보여 주지",
-   "publishedAt": 1793677014000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -560,22 +574,22 @@
    "comments": 99,
    "publishedAt": 1793559235000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false
   },
   {
-   "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-   "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-   "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-   "publishedAt": 1793690400000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
+   "title": "Show GN: MyLocal - 외부에 열린 개발 서버를 보여 주고 업무 시간 뒤 정리하는 앱",
+   "url": "https://news.hada.io/topic?id=36507&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "MyLocal은 외부에 열린 개발 서버를 보여 주고, 업무 시간이 끝나면 알린 뒤 꺼 주는 앱입니다. lsof 는 확인하는 순간의 포트만 보여 줍니다. MyLocal은 누가 띄웠고 왜 열렸는지도 보여 주고, 업무 시간 뒤에 새로 뜬 서버도 계속 찾습니다. 저는 백엔드 개발자입니다. 최근 제 Mac에 정보 탈취형 악성코드가 설치되는 일을 겪었습니다. 그 뒤 개발 중인 서버에 외부에서 접속하는 상황을 발견해 직접 만들었습니다. 악성코드를 찾거나 막는 프로그램은 아닙니다. 제가 겪은 악성코드도 막지 못합니다. 누가 접속했는지도 보여 주지",
+   "publishedAt": 1793677014000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
    "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
+   "baseWeight": 42,
+   "isAI": false,
    "score": 39.4,
-   "hot": false
+   "hot": true
   },
   {
    "title": "Anthropic blocks users for anything touching training larger models",
@@ -588,9 +602,23 @@
    "comments": 269,
    "publishedAt": 1793475559000,
    "isAI": true,
-   "score": 39.3,
+   "score": 39.1,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+   "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+   "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+   "publishedAt": 1793690400000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39,
+   "hot": false
   },
   {
    "title": "국가 슈퍼컴퓨터 ‘한강’, GPU 8,496개 탑재해 12월 14일 정식 서비스 시작",
@@ -603,7 +631,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -617,7 +645,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -631,35 +659,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
-   "hot": true
-  },
-  {
-   "title": "Show GN: 치이카와 닮은꼴 찾기",
-   "url": "https://news.hada.io/topic?id=36494&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "요즘 온세상이 치이카와길래 내가 어떤 치이카와 캐릭터 닮았을지 찾아주는 사이트를 만들어봤어요 원하는 이미지를 선택해서 넣으면 닮은 먼작귀 캐릭터로 전환돼요 사진은 브라우저 안에서만 처리하고 저장하거나 전송되지 않아요 한국어, 일본어, 영어를 지원해요 저는 마몽가가 나왔습니다 여러분은 어떤 친구가 나왔나요? ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⠿⣶⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⠟⠿⣷⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡿⠁⠀⠀⣿⣇⣠⣤⣴⣶⣶⣶⣶⡶⢶⣶⣶⣶⣤⣼⣿⠀⠀⠀⣸⡟⠀⠀ …",
-   "publishedAt": 1793665878000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.5,
-   "hot": true
-  },
-  {
-   "title": "MyGo - Go UI와 웹 프런트엔드로 데스크톱 앱을 만드는 오픈소스",
-   "url": "https://news.hada.io/topic?id=36493&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Go로 macOS, Windows, Linux용 데스크톱 앱을 개발 Go로 작성하고 직접 GPU로 그리는 UI와 운영체제 WebView 기반 웹 UI 를 지원하며, 한 앱이나 한 창 안에서도 두 방식을 혼합 가능 웹 UI는 macOS의 WKWebView, Windows의 WebView2, Linux의 WebKitGTK를 사용해 별도 브라우저 엔진을 앱에 포함하지 않음 Go UI만 사용하는 앱은 HTML, JavaScript, WebView 없이 Go만으로 개발 가능 UI는 Flexbox와 Grid, IME 텍스트 입력, 가상화 목록",
-   "publishedAt": 1793665802000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.5,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -673,28 +673,28 @@
    "comments": 90,
    "publishedAt": 1793540844000,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
-   "title": "냅킨에서 악기까지: 에이전트와 함께하는 크리에이티브 코딩",
-   "url": "https://news.hada.io/topic?id=36490&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "안녕하세요, 긱뉴스에는 처음으로 인사드리며 글을 공유해 봅니다. 늘 좋은 기술 소식들을 눈여겨보며 많은 배움을 얻어왔는데, 제가 직접 쓴 글을 나누는 것은 처음이라 조금 떨리네요. 부족한 부분이 있더라도 너그럽게 봐주시고 많은 의견 부탁드립니다. 학부생들에게 어젠틱 코딩을 소개하기 위한 특강을 준비하며 작성한 글입니다. 종이 냅킨 한 장의 낙서에서 시작해 스마트폰에서 매끄럽게 소리 나는 웹 전자악기를 배포하기까지의 개발과정을 담았습니다. \"손으로 코드를 단 한 줄도 쓰지 않기\"라는 제약을 걸고, 기술의 세부 문법 대신 상위 레벨의 ",
-   "publishedAt": 1793663985000,
+   "title": "Show GN: 치이카와 닮은꼴 찾기",
+   "url": "https://news.hada.io/topic?id=36494&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "요즘 온세상이 치이카와길래 내가 어떤 치이카와 캐릭터 닮았을지 찾아주는 사이트를 만들어봤어요 원하는 이미지를 선택해서 넣으면 닮은 먼작귀 캐릭터로 전환돼요 사진은 브라우저 안에서만 처리하고 저장하거나 전송되지 않아요 한국어, 일본어, 영어를 지원해요 저는 마몽가가 나왔습니다 여러분은 어떤 친구가 나왔나요? ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⠿⣶⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⠟⠿⣷⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡿⠁⠀⠀⣿⣇⣠⣤⣴⣶⣶⣶⣶⡶⢶⣶⣶⣶⣤⣼⣿⠀⠀⠀⣸⡟⠀⠀ …",
+   "publishedAt": 1793665878000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 38.1,
    "hot": true
   },
   {
-   "title": "BYD, 지난달 미국의 한 분기 전체보다 많은 전기차 판매",
-   "url": "https://news.hada.io/topic?id=36489&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "BYD 가 2026년 10월 순수 전기차 30만 5,743대를 판매해 월간 최고 기록을 경신함. 미국 전체의 3분기 전기차 판매 추정치인 26만 2,500여 대를 웃돎 순수 전기차 판매는 전년 동월 대비 37% 증가 하며 성장을 이끈 반면, 플러그인 하이브리드 판매는 17% 감소함 10월까지 누적 순수 전기차 판매는 195만 3,700대 로 전년 동기 대비 6% 늘었으며, 10월 전체 판매에서 순수 전기차가 약 63%를 차지함 해외 시장 확대 에 힘쓰는 BYD는 10월까지 전기차와 플러그인 하이브리드 150만 대 이상을 수출함. 전",
-   "publishedAt": 1793662371000,
+   "title": "MyGo - Go UI와 웹 프런트엔드로 데스크톱 앱을 만드는 오픈소스",
+   "url": "https://news.hada.io/topic?id=36493&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Go로 macOS, Windows, Linux용 데스크톱 앱을 개발 Go로 작성하고 직접 GPU로 그리는 UI와 운영체제 WebView 기반 웹 UI 를 지원하며, 한 앱이나 한 창 안에서도 두 방식을 혼합 가능 웹 UI는 macOS의 WKWebView, Windows의 WebView2, Linux의 WebKitGTK를 사용해 별도 브라우저 엔진을 앱에 포함하지 않음 Go UI만 사용하는 앱은 HTML, JavaScript, WebView 없이 Go만으로 개발 가능 UI는 Flexbox와 Grid, IME 텍스트 입력, 가상화 목록",
+   "publishedAt": 1793665802000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -715,7 +715,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -729,7 +729,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -743,7 +743,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -757,7 +757,33 @@
    "comments": 94,
    "publishedAt": 1793538150000,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.2,
+   "hot": false
+  },
+  {
+   "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
+   "url": "https://huggingface.co/papers/2611.03178",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 53,
+   "summary": "Rapid advances in cowork agents are shifting human-AI collaboration toward real-world automation, delivering software, designs, and other artifacts. However, such productivity work demands both high-quality delivery on complex productivity tasks and continued monitoring and decision-making over long",
+   "publishedAt": 1793610911000,
+   "isAI": true,
+   "score": 36.1,
+   "hot": false
+  },
+  {
+   "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+   "url": "https://huggingface.co/papers/2611.03126",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 52,
+   "summary": "Despite recent advances in CUAs, their development remains constrained by the limited diversity, controllability, and reliability of interaction data. Moreover, conventional optimization pipelines lack iterative feedback, while existing recursive improvement approaches often rely on self-generated e",
+   "publishedAt": 1793608874000,
+   "isAI": true,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -771,7 +797,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -784,19 +810,6 @@
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
-   "isAI": true,
-   "score": 35.9,
-   "hot": false
-  },
-  {
-   "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
-   "url": "https://huggingface.co/papers/2611.03178",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 47,
-   "summary": "Rapid advances in cowork agents are shifting human-AI collaboration toward real-world automation, delivering software, designs, and other artifacts. However, such productivity work demands both high-quality delivery on complex productivity tasks and continued monitoring and decision-making over long",
-   "publishedAt": 1793610911000,
    "isAI": true,
    "score": 35.5,
    "hot": false
@@ -812,7 +825,7 @@
    "comments": 553,
    "publishedAt": 1793344152000,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.2,
    "hot": false,
    "lastWeekRank": 11
   },
@@ -827,7 +840,7 @@
    "comments": 440,
    "publishedAt": 1793283201000,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.2,
    "hot": false,
    "lastWeekRank": 15
   },
@@ -839,10 +852,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 677,
-   "comments": 499,
+   "comments": 500,
    "publishedAt": 1793375538000,
    "isAI": true,
-   "score": 35,
+   "score": 34.8,
    "hot": false,
    "lastWeekRank": 10
   },
@@ -857,7 +870,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -871,22 +884,9 @@
    "comments": 123,
    "publishedAt": 1793480878000,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false,
    "lastWeekRank": 7
-  },
-  {
-   "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32.4,
-   "publishedAt": 1793637752000,
-   "isAI": true,
-   "score": 34.3,
-   "hot": false
   },
   {
    "title": "Backdoors in official Claude Code extensions",
@@ -899,9 +899,64 @@
    "comments": 17,
    "publishedAt": 1793358353000,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false,
    "lastWeekRank": 13
+  },
+  {
+   "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32.4,
+   "publishedAt": 1793637752000,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216942",
+   "summary": "일론 머스크 CEO가 AI 에이전트 '그록 봇(Grok Bot)'의 운영 비용이 매출에 비해 지나치게 높다며 이용자 사용량 제한을 정당화했다. 최근 일부 이용자의 주간 사용 한도가 예상보다 빠르게 소진되는 현상이 나타난 가운데, 서비스 운영 비용을 줄이기 위한 조치로 풀이된다.머스크 CEO는 1일(현지시간) X를 통해 \"그록 봇을 제공하는 비용이 매출에 비해 지속할 수 없을 정도로 높았다\"고 밝혔다.지난 주말부터 이용자들이 사용량 한도가 평소보다 빠르게 줄어든다고 불만을 제기하자, 직접 원인을 설명한 것이다.일부 이용자는 서비스를",
+   "publishedAt": 1793696682000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "뤼튼·스캐터랩 양분한 AI 캐릭터챗 시장에 게임사 가세…경쟁 본격화",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216970",
+   "summary": "뤼튼테크놀로지스의 '크랙'과 스캐터랩의 '제타'가 주도해 온 AI 캐릭터챗 시장에 게임사들이 진출하고 있다. 크래프톤이 K팝 팬덤을 겨냥한 서비스를 출시한 데 이어 컴투스도 관련 플랫폼 개발에 착수하면서 경쟁이 본격화할 조짐이다.크래프톤과 컴투스가 대표적이다. 크래프톤은 지난 2일 K팝에 특화된 AI 캐릭터챗 '키프(Kiff)'를 출시했다. 첫 협업 대상은 걸그룹 피프티피프티로 이용자는 멤버들이 직접 페르소나와 외형을 구상한 캐릭터와 대화하며 팬덤 활동을 즐길 수 있다. 월 3900원에 무제한 채팅이 가능하다.게임사들은 캐릭터와 세",
+   "publishedAt": 1793696354000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "카르파시, 유튜브 추천에 질려 AI로 대안 개발…\"2시간 만에 완성\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216956",
+   "summary": "안드레이 카르파시 오픈AI 공동 창립자가 유튜브의 자극적인 썸네일과 반복적인 추천 콘텐츠에 불만을 느껴 AI를 활용한 대안 서비스 '해커튜브(HackerTube)'를 개발했다. 해커뉴스(Hacker News)의 댓글 4300만개를 분석해 영상 6454개를 선정하고, 앤트로픽의 '클로드 오퍼스 5.5'를 활용해 약 2시간 만에 서비스를 구축했다고 밝혔다.현재 앤트로픽에 재직 중인 카르파시는 31일(현지시간) 자신의 블로그를 통해 해커튜브를 소개하고, 이어 X를 통해 개발 과정과 주요 기능을 공개했다.기존 유튜브의 추천 알고리즘 대신",
+   "publishedAt": 1793695950000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
   },
   {
    "title": "딥시크, 자연어로 AI 에이전트 기능 확장…플러그인 제작까지 자동화",
@@ -914,21 +969,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-   "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-   "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-   "publishedAt": 1793637000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -942,21 +983,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
-   "title": "\"AI 도시, 현실이 되다!”… 화성시, AI엑스포 'MARS 2026' 팡파르",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216966",
-   "summary": "'AI 시티, 현실이 되다.(AI CITY IN ACTION)’을 슬로건으로 내건 화성특례시(시장 정명근)의 글로벌 AI 엑스포 'MARS 2026'이 3일 서울 코엑스에서 막을 올렸다.오는 5일까지 사흘간 열리는 이번 행사의 개막식은 정명근 화성특례시장과 이계철 화성특례시의회 의장, 문정복·전용기·김승원·염태영·이재강·임문영·조계원·이주희·이준석 국회의원 등 여야 국회의원을 비롯해 1000여 명의 관계자 및 관람객이 참석한 가운데 진행됐다.정명근 화성특례시장은 개회사에서 \"화성특례시는 지난해 지방정부 최초로 AI 엑스포 MARS를",
-   "publishedAt": 1793693823000,
-   "source": "AI타임스",
+   "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+   "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+   "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+   "publishedAt": 1793637000000,
+   "source": "TechCrunch AI",
    "sourceType": "media",
-   "lang": "ko",
+   "lang": "en",
    "engagement": null,
-   "baseWeight": 26,
+   "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -970,7 +1011,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "\"AI 도시, 현실이 되다!”… 화성시, AI엑스포 'MARS 2026' 팡파르",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216966",
+   "summary": "'AI 시티, 현실이 되다.(AI CITY IN ACTION)’을 슬로건으로 내건 화성특례시(시장 정명근)의 글로벌 AI 엑스포 'MARS 2026'이 3일 서울 코엑스에서 막을 올렸다.오는 5일까지 사흘간 열리는 이번 행사의 개막식은 정명근 화성특례시장과 이계철 화성특례시의회 의장, 문정복·전용기·김승원·염태영·이재강·임문영·조계원·이주희·이준석 국회의원 등 여야 국회의원을 비롯해 1000여 명의 관계자 및 관람객이 참석한 가운데 진행됐다.정명근 화성특례시장은 개회사에서 \"화성특례시는 지난해 지방정부 최초로 AI 엑스포 MARS를",
+   "publishedAt": 1793693823000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -984,7 +1039,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -998,7 +1053,35 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "[게시판] LGU+, 서울여대와 개인정보 지키는 AI 데이터 기술 연구 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216937",
+   "summary": "■ LG유플러스(대표 홍범식)는 서울여자대학교와 개인정보보호·AI·데이터 분야 공동연구 및 인재 양성을 위한 업무협약을 체결했다고 밝혔다. 양측은 서울여대 ‘이노베이션 존’을 거점으로 개인정보를 보호하면서 데이터 활용 가치를 높일 수 있는 가명정보 결합·분석 기술을 공동 연구한다. 서울여대 석·박사 인력 양성 사업에도 참여해 교과과정 자문과 현장 멘토링 등을 지원할 예정이다.■ S2W(대표 서상덕)는 독일에서 열린 유럽 최대 사이버보안 전시회 ‘it-sa 2026’에 참가해 AI 기반 보안 제품 2종을 선보였다고 밝혔다. 공공기관용",
+   "publishedAt": 1793692800000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 데이터센터 명칭 'AI 컴퓨팅 캠퍼스'로 변경 추진...주민 반발 대응",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216940",
+   "summary": "오픈AI가 미국 내 데이터센터를 'AI 컴퓨팅 캠퍼스(AI Compute Campus)'로 바꾸는 방안을 추진한다. AI 데이터센터의 막대한 전력 소비와 환경 영향, 전기요금 상승 등을 둘러싼 지역 주민들의 반발이 커지자, 명칭 변경과 함께 지역사회 지원 및 전력망 보호 대책을 내놓으며 여론 관리에 나섰다.악시오스는 1일(현지시간) 오픈AI가 3일 중간선거 직후 AI 정책과 홍보 전략을 대대적으로 추진할 계획이라고 보도했다. 민주당이 하원을 탈환할 가능성이 커지면서 AI 산업에 대한 규제와 의회의 감시가 강화될 수 있다는 판단에서다",
+   "publishedAt": 1793691900000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1012,21 +1095,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "네오사피엔스, 보이저엑스 ‘브루’에 AI 목소리 공급…한 달 만에 2000만자 돌파",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216954",
-   "summary": "AI 음성합성 서비스 '타입캐스트'와 AI 영상 편집 서비스 '브루'의 협력이 사용자의 호응을 이끌며 시너지를 내고 있다.네오사피엔스(대표 김태수)는 타입캐스트를 보이저엑스의 브루 서비스에 제공한 지 한 달여 만에 누적 사용량 2000만자를 달성했다고 3일 밝혔다.브루는 자동 자막과 텍스트 기반 영상 편집 및 AI 목소리 생성 등을 지원하는 영상 제작 서비스다. 양사는 지난 9월 중순 공급 계약을 체결했고, 네오사피엔스는 영상 제작에 자주 쓰이는 한국어 목소리 53종을 브루에 제공했다.이를 통해 영상 제작자는 콘텐츠 분위기에 맞춰",
-   "publishedAt": 1793691000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1040,9 +1109,23 @@
    "comments": 190,
    "publishedAt": 1793472634000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false,
    "lastWeekRank": 8
+  },
+  {
+   "title": "네오사피엔스, 보이저엑스 ‘브루’에 AI 목소리 공급…한 달 만에 2000만자 돌파",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216954",
+   "summary": "AI 음성합성 서비스 '타입캐스트'와 AI 영상 편집 서비스 '브루'의 협력이 사용자의 호응을 이끌며 시너지를 내고 있다.네오사피엔스(대표 김태수)는 타입캐스트를 보이저엑스의 브루 서비스에 제공한 지 한 달여 만에 누적 사용량 2000만자를 달성했다고 3일 밝혔다.브루는 자동 자막과 텍스트 기반 영상 편집 및 AI 목소리 생성 등을 지원하는 영상 제작 서비스다. 양사는 지난 9월 중순 공급 계약을 체결했고, 네오사피엔스는 영상 제작에 자주 쓰이는 한국어 목소리 53종을 브루에 제공했다.이를 통해 영상 제작자는 콘텐츠 분위기에 맞춰",
+   "publishedAt": 1793691000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
+   "hot": false
   },
   {
    "title": "래블업, 상장 첫날 급등 후 급락…AI 인프라주 '호된 신고식'",
@@ -1055,7 +1138,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1069,7 +1152,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1083,7 +1166,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1097,7 +1180,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1111,21 +1194,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "SDT, AIDC '발열 해결사' 100kW 액침냉각 시스템 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216955",
-   "summary": "SDT(대표 윤지원)는 폭증하는 AI 연산 수요에 대응하기 위해 냉각 용량을 100kW로 대폭 향상시킨 '아쿠아랙 42U'를 개발했다고 3일 밝혔다.아쿠아랙은 최근 AI 및 고성능컴퓨팅(HPC) 수요 급증으로 GPU·NPU 등 고성능 가속기를 탑재한 고밀도 서버 증가로 데이터센터의 발열 제어가 핵심 과제로 떠오르는 가운데 선보이는 제품이다. 비전도성 특수 액체인 냉각유에 서버를 직접 담가 열을 식히는 단상 액침냉각 시스템이다.공기 대비 열전달 효율이 월등히 높은 냉각유를 활용해 고밀도 서버에서 발생하는 막대한 열을 즉각적으로 흡수하",
-   "publishedAt": 1793685794000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1139,7 +1208,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "SDT, AIDC '발열 해결사' 100kW 액침냉각 시스템 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216955",
+   "summary": "SDT(대표 윤지원)는 폭증하는 AI 연산 수요에 대응하기 위해 냉각 용량을 100kW로 대폭 향상시킨 '아쿠아랙 42U'를 개발했다고 3일 밝혔다.아쿠아랙은 최근 AI 및 고성능컴퓨팅(HPC) 수요 급증으로 GPU·NPU 등 고성능 가속기를 탑재한 고밀도 서버 증가로 데이터센터의 발열 제어가 핵심 과제로 떠오르는 가운데 선보이는 제품이다. 비전도성 특수 액체인 냉각유에 서버를 직접 담가 열을 식히는 단상 액침냉각 시스템이다.공기 대비 열전달 효율이 월등히 높은 냉각유를 활용해 고밀도 서버에서 발생하는 막대한 열을 즉각적으로 흡수하",
+   "publishedAt": 1793685794000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1153,7 +1236,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1167,7 +1250,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1181,7 +1264,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1195,7 +1278,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1209,7 +1292,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1223,7 +1306,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1237,7 +1320,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1251,48 +1334,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
-   "url": "https://huggingface.co/papers/2611.03126",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 31,
-   "summary": "Despite recent advances in CUAs, their development remains constrained by the limited diversity, controllability, and reliability of interaction data. Moreover, conventional optimization pipelines lack iterative feedback, while existing recursive improvement approaches often rely on self-generated e",
-   "publishedAt": 1793608874000,
-   "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, UAE 석유·정부·투자 업무에 AI 에이전트 도입…4건 협약",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216939",
-   "summary": "오픈AI가 아랍에미리트(UAE)의 에너지·정부·투자 분야에 AI 에이전트를 도입하는 등 4건의 협약을 체결했다. 석유회사의 유전 개발과 생산·판매를 연결하는 AI를 제공하고, 정부에는 규정을 분석해 행정업무를 지원하는 시스템을 도입하는 등 중동에서 실제 산업 현장을 겨냥한 사업을 확대하고 있다.오픈AI는 2일(현지시간) 아부다비에서 열린 국제석유전시회(ADIPEC)를 계기로 UAE 주요 기관들과 협력 계약을 발표했다. 샘 알트먼 오픈AI CEO는 칼레드 빈 모하메드 빈 자이드 알 나흐얀 아부다비 왕세자와 만나 AI 도입과 투자 협력",
-   "publishedAt": 1793674504000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 32,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, 매출 급증에도 영업적자…AI 인프라 투자 부담",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216932",
-   "summary": "앤트로픽이 3분기 매출 170억달러(약 23조원)를 기록하며 가파른 성장세를 이어갔지만, 대규모 컴퓨팅 인프라 투자 부담으로 영업 적자로 돌아섰다. AI 모델 개발과 서비스 확대를 위해 추후 지출하기로 약정한 금액도 8954억달러(약 1154조원)에 달해 기업공개(IPO)를 앞두고 수익성 확보가 거듭 주요 과제로 꼽혔다.앤트로픽은 2일(현지시간) 미국 증권거래위원회(SEC)에 제출한 수정 기업공개 신고서(S-1)를 통해 3분기 재무 실적과 인프라 투자 계획을 공개했다. 지난달 26일 처음 IPO 신고서를 제출한 데 이어 9월 말까지",
-   "publishedAt": 1793673626000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.9,
    "hot": false
   },
   {
@@ -1306,50 +1348,36 @@
    "comments": 295,
    "publishedAt": 1793381245000,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.6,
    "hot": false,
    "lastWeekRank": 20
   },
   {
-   "title": "오픈AI, 12월부터 챗GPT·코덱스 사용량 통합…기존 앱 1월 종료",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216934",
-   "summary": "오픈AI가 오는 12월부터 챗GPT와 코딩 에이전트 '코덱스(Codex)'의 사용량 한도를 통합한다. 일반 대화 기능인 '챗(Chat)'과 업무 자동화 기능인 '워크(Work)'도 하나의 대화 환경으로 결합하며, 기존 맥용 데스크톱 앱인 '챗GPT 클래식(ChatGPT Classic)'은 2027년 1월30일 서비스를 종료한다.2일(현지시간) 와이콤비네이터의 기술 커뮤니티 해커뉴스에 따르면, 한 이용자가 오픈AI로부터 받은 이메일을 공개했다. 여기에는 챗GPT의 기능 통합과 사용량 정책 개편 계획이 담겼다.이를 통해 지난달 28일",
-   "publishedAt": 1793672875000,
+   "title": "오픈AI, UAE 석유·정부·투자 업무에 AI 에이전트 도입…4건 협약",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216939",
+   "summary": "오픈AI가 아랍에미리트(UAE)의 에너지·정부·투자 분야에 AI 에이전트를 도입하는 등 4건의 협약을 체결했다. 석유회사의 유전 개발과 생산·판매를 연결하는 AI를 제공하고, 정부에는 규정을 분석해 행정업무를 지원하는 시스템을 도입하는 등 중동에서 실제 산업 현장을 겨냥한 사업을 확대하고 있다.오픈AI는 2일(현지시간) 아부다비에서 열린 국제석유전시회(ADIPEC)를 계기로 UAE 주요 기관들과 협력 계약을 발표했다. 샘 알트먼 오픈AI CEO는 칼레드 빈 모하메드 빈 자이드 알 나흐얀 아부다비 왕세자와 만나 AI 도입과 투자 협력",
+   "publishedAt": 1793674504000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.6,
    "hot": false
   },
   {
-   "title": "업스테이지 '솔라 프로 4', 범정부 행정망 도입…공무원 모델 선택권 확대",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216931",
-   "summary": "업스테이지의 자체 개발 대형언어모델(LLM)이 범정부 행정망에서 사용할 수 있는 AI 모델 대열에 가세했다. 이로써 공직사회에서 업무시 선택할 수 있는 LLM 선택의 폭이 더 넓어졌다.업스테이지(대표 김성훈)는 ‘솔라 프로 4’를 범정부 AI 공통기반에 탑재하고 정식 서비스에 나섰다고 3일 밝혔다.범정부 AI 공통기반은 행정안전부와 과학기술정보통신부가 중앙부처와 지방자치단체에 AI 모델, 데이터, 개발 환경 등을 공통으로 제공하는 행정망 전용 AI 인프라로 삼성SDS ‘패브릭스(FabriX)’과 네이버클라우드의 '클로바 스튜디오 포",
-   "publishedAt": 1793671798000,
+   "title": "앤트로픽, 매출 급증에도 영업적자…AI 인프라 투자 부담",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216932",
+   "summary": "앤트로픽이 3분기 매출 170억달러(약 23조원)를 기록하며 가파른 성장세를 이어갔지만, 대규모 컴퓨팅 인프라 투자 부담으로 영업 적자로 돌아섰다. AI 모델 개발과 서비스 확대를 위해 추후 지출하기로 약정한 금액도 8954억달러(약 1154조원)에 달해 기업공개(IPO)를 앞두고 수익성 확보가 거듭 주요 과제로 꼽혔다.앤트로픽은 2일(현지시간) 미국 증권거래위원회(SEC)에 제출한 수정 기업공개 신고서(S-1)를 통해 3분기 재무 실적과 인프라 투자 계획을 공개했다. 지난달 26일 처음 IPO 신고서를 제출한 데 이어 9월 말까지",
+   "publishedAt": 1793673626000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "비드래프트, AI가 스스로 해제 못 하는 '킬스위치' 개발…보안 OS 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216938",
-   "summary": "AI 전문 비드래프트(대표 김민식)가 AI 모델 내부에 정지 회로를 구현한 보안 운영체제(OS) 'ViKernel'을 공개했다. AI가 대화나 추가 학습을 통해 정지 명령을 무력화하지 못하도록 설계한 것이 핵심이다. AI가 스스로 코드를 수정하고 성능을 개선하는 기술이 발전하면서 통제 장치까지 변경하는 상황을 막기 위한 시도다.비드래프트는 AI 모델의 가중치에 통제 기능을 직접 구현하는 '웨이트 네이티브 OS(Weight-Native OS)' 기술을 개발했다고 3일 밝혔다. 기존 AI 보안이 주로 모델 외부의 가드레일을 통해 위험한",
-   "publishedAt": 1793671539000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1363,54 +1391,23 @@
    "comments": 1,
    "publishedAt": 1793355771000,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.5,
    "hot": false,
    "lastWeekRank": 31
   },
   {
-   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-   "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50307183",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 301,
-   "comments": 259,
-   "publishedAt": 1793381085000,
+   "title": "오픈AI, 12월부터 챗GPT·코덱스 사용량 통합…기존 앱 1월 종료",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216934",
+   "summary": "오픈AI가 오는 12월부터 챗GPT와 코딩 에이전트 '코덱스(Codex)'의 사용량 한도를 통합한다. 일반 대화 기능인 '챗(Chat)'과 업무 자동화 기능인 '워크(Work)'도 하나의 대화 환경으로 결합하며, 기존 맥용 데스크톱 앱인 '챗GPT 클래식(ChatGPT Classic)'은 2027년 1월30일 서비스를 종료한다.2일(현지시간) 와이콤비네이터의 기술 커뮤니티 해커뉴스에 따르면, 한 이용자가 오픈AI로부터 받은 이메일을 공개했다. 여기에는 챗GPT의 기능 통합과 사용량 정책 개편 계획이 담겼다.이를 통해 지난달 28일",
+   "publishedAt": 1793672875000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 31.4,
-   "hot": false,
-   "lastWeekRank": 26
-  },
-  {
-   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-   "url": "https://github.com/dbreunig/nesformer",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50306442",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 295,
-   "comments": 153,
-   "publishedAt": 1793378422000,
-   "isAI": true,
-   "score": 31.2,
-   "hot": false,
-   "lastWeekRank": 30
-  },
-  {
-   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-   "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50304122",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 315,
-   "comments": 389,
-   "publishedAt": 1793369300000,
-   "isAI": true,
-   "score": 31.1,
-   "hot": false,
-   "lastWeekRank": 33
+   "score": 31.5,
+   "hot": false
   }
  ]
 }
