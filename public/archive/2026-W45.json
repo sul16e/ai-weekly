@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793660260094,
+ "updatedAt": 1793664443817,
  "week": "2026-W45",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1525,
-   "comments": 496,
+   "engagement": 1731,
+   "comments": 553,
    "publishedAt": 1793643688000,
    "isAI": true,
-   "score": 74.3,
+   "score": 74.5,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 268,
-   "comments": 227,
+   "engagement": 281,
+   "comments": 232,
    "publishedAt": 1793637629000,
    "isAI": true,
-   "score": 57.5,
+   "score": 57.2,
    "hot": true
   },
   {
@@ -37,11 +37,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 224,
-   "comments": 250,
+   "engagement": 226,
+   "comments": 260,
    "publishedAt": 1793630325000,
    "isAI": true,
-   "score": 54.7,
+   "score": 54.2,
+   "hot": true
+  },
+  {
+   "title": "Scaling Git at OpenAI",
+   "url": "https://openai.com/index/scaling-git-at-openai",
+   "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+   "publishedAt": 1793633400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 53,
    "hot": true
   },
   {
@@ -55,7 +69,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 53.3,
+   "score": 52.7,
    "hot": true
   },
   {
@@ -65,9 +79,37 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 122,
-   "comments": 83,
+   "engagement": 140,
+   "comments": 98,
    "publishedAt": 1793647657000,
+   "isAI": true,
+   "score": 52.6,
+   "hot": false
+  },
+  {
+   "title": "Anthropic's growth just flattened",
+   "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50344958",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 113,
+   "comments": 134,
+   "publishedAt": 1793658800000,
+   "isAI": true,
+   "score": 52.4,
+   "hot": false
+  },
+  {
+   "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+   "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50344919",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 109,
+   "comments": 58,
+   "publishedAt": 1793658647000,
    "isAI": true,
    "score": 52,
    "hot": false
@@ -79,11 +121,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 153,
-   "comments": 211,
+   "engagement": 154,
+   "comments": 222,
    "publishedAt": 1793630405000,
    "isAI": true,
-   "score": 51.4,
+   "score": 50.9,
+   "hot": true
+  },
+  {
+   "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+   "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50341462",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 275,
+   "comments": 52,
+   "publishedAt": 1793644778000,
+   "isAI": false,
+   "score": 50.7,
    "hot": true
   },
   {
@@ -97,7 +153,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 50.2,
+   "score": 49.6,
    "hot": false
   },
   {
@@ -111,21 +167,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 50.1,
-   "hot": true
-  },
-  {
-   "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-   "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50341462",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 222,
-   "comments": 35,
-   "publishedAt": 1793644778000,
-   "isAI": false,
-   "score": 49.3,
+   "score": 49.5,
    "hot": true
   },
   {
@@ -139,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -153,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -161,34 +203,6 @@
    "url": "https://news.hada.io/topic?id=36481&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
    "summary": "Warsaw in voxels 는 바르샤바 도심을 복셀로 표현한 인터랙티브 3D 지도임 랜드마크 정보 에는 현지 이름과 영어 이름, 장소 유형이 있으며, 일부 건물은 높이와 연도, 설계자도 확인할 수 있음 문화과학궁전과 Varso Tower 같은 고층 건물 뿐 아니라 박물관, 극장, 대학, 종교 시설 등 다양한 도시 장소를 포함함 비스와강과 교량, 공원, 광장, 철도역과 지하철역도 포함해 건축물 외의 도시 공간과 교통 거점 을 함께 담음 관광 명소 외에도 코워킹 공간, AI 모임, 공동체 정원, 대안교육 공간 등 지역 활동 장소 를",
    "publishedAt": 1793652008000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.8,
-   "hot": true
-  },
-  {
-   "title": "Anthropic의 내부 AI 사용액, 소매가격 기준으로 직원 급여 넘어섬",
-   "url": "https://news.hada.io/topic?id=36479&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Anthropic의 내부 Claude 사용액 을 고객에게 부과하는 가격으로 환산한 결과, 4월에 주식 보상을 제외한 월간 직원 보상 비용을 넘어섬 이는 소매가격 기준 평가액 으로, 실제 AI 관련 현금 지출이 직원 급여보다 많다는 뜻은 아님 9월 내부 AI 사용량은 1월 대비 250배 이상 으로 늘어남 9월 Anthropic 소프트웨어에 추가된 코드의 90% 이상을 Claude가 작성 했으며, 매출은 직원 수보다 훨씬 빠르게 증가함 기술 기업들은 AI 사용량의 주요 측정 단위인 토큰 을 급여, 보너스, 주식 보상에 이은 네 번째 직",
-   "publishedAt": 1793648361000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.3,
-   "hot": true
-  },
-  {
-   "title": "Astra, 가중치를 읽고 수정해 Qwen을 개선할 수 있음",
-   "url": "https://news.hada.io/topic?id=36478&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "GPT-6 Astra 가 학습 루프나 경사하강법 없이 신경망 가중치를 직접 해석하고 수정하는 초기 실험에서, 모델의 동작 식별과 오류 수정, 새 신경망 작성 능력을 보임 Qwen3.5-0.8B 의 가중치 0.016%를 수정해 반복 추론을 줄였으며, 같은 샘플링 설정에서 MATH-500은 7.9%에서 48.1%, IFEval은 21.0%에서 62.3%로 높아짐 작은 신경망에서는 실행 없이 가중치만 읽고 학습한 게임과 언어를 식별 했으며, 입출력층을 제거한 언어 모델에서도 텍스트 복사를 담당하는 어텐션 헤드를 정확히 찾아냄 환경 피드백",
-   "publishedAt": 1793648181000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -205,12 +219,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 116,
-   "comments": 97,
+   "engagement": 118,
+   "comments": 98,
    "publishedAt": 1793623859000,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.7,
    "hot": false
+  },
+  {
+   "title": "Anthropic의 내부 AI 사용액, 소매가격 기준으로 직원 급여 넘어섬",
+   "url": "https://news.hada.io/topic?id=36479&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Anthropic의 내부 Claude 사용액 을 고객에게 부과하는 가격으로 환산한 결과, 4월에 주식 보상을 제외한 월간 직원 보상 비용을 넘어섬 이는 소매가격 기준 평가액 으로, 실제 AI 관련 현금 지출이 직원 급여보다 많다는 뜻은 아님 9월 내부 AI 사용량은 1월 대비 250배 이상 으로 늘어남 9월 Anthropic 소프트웨어에 추가된 코드의 90% 이상을 Claude가 작성 했으며, 매출은 직원 수보다 훨씬 빠르게 증가함 기술 기업들은 AI 사용량의 주요 측정 단위인 토큰 을 급여, 보너스, 주식 보상에 이은 네 번째 직",
+   "publishedAt": 1793648361000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47.7,
+   "hot": true
+  },
+  {
+   "title": "Astra, 가중치를 읽고 수정해 Qwen을 개선할 수 있음",
+   "url": "https://news.hada.io/topic?id=36478&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "GPT-6 Astra 가 학습 루프나 경사하강법 없이 신경망 가중치를 직접 해석하고 수정하는 초기 실험에서, 모델의 동작 식별과 오류 수정, 새 신경망 작성 능력을 보임 Qwen3.5-0.8B 의 가중치 0.016%를 수정해 반복 추론을 줄였으며, 같은 샘플링 설정에서 MATH-500은 7.9%에서 48.1%, IFEval은 21.0%에서 62.3%로 높아짐 작은 신경망에서는 실행 없이 가중치만 읽고 학습한 게임과 언어를 식별 했으며, 입출력층을 제거한 언어 모델에서도 텍스트 복사를 담당하는 어텐션 헤드를 정확히 찾아냄 환경 피드백",
+   "publishedAt": 1793648181000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47.6,
+   "hot": true
   },
   {
    "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
@@ -223,7 +265,7 @@
    "comments": 84,
    "publishedAt": 1793604448000,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": false
   },
   {
@@ -233,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 679,
-   "comments": 818,
+   "engagement": 680,
+   "comments": 820,
    "publishedAt": 1793561727000,
    "isAI": false,
-   "score": 47.5,
+   "score": 47,
    "hot": false
   },
   {
@@ -248,10 +290,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 241,
-   "comments": 247,
+   "comments": 250,
    "publishedAt": 1793571045000,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": false
   },
   {
@@ -265,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -279,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -293,7 +335,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46,
+   "score": 45.5,
    "hot": false
   },
   {
@@ -303,11 +345,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 466,
-   "comments": 382,
+   "engagement": 468,
+   "comments": 384,
    "publishedAt": 1793513179000,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.9,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -318,11 +360,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 195,
+   "engagement": 201,
    "comments": 48,
    "publishedAt": 1793611756000,
    "isAI": false,
-   "score": 43.8,
+   "score": 43.6,
    "hot": true
   },
   {
@@ -336,7 +378,21 @@
    "comments": 99,
    "publishedAt": 1793559235000,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
+   "hot": false
+  },
+  {
+   "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+   "url": "https://momentic.ai/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50339913",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 112,
+   "comments": 73,
+   "publishedAt": 1793639125000,
+   "isAI": false,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -350,23 +406,9 @@
    "comments": 265,
    "publishedAt": 1793475559000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false,
    "lastWeekRank": 1
-  },
-  {
-   "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-   "url": "https://momentic.ai/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50339913",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 104,
-   "comments": 70,
-   "publishedAt": 1793639125000,
-   "isAI": false,
-   "score": 41.8,
-   "hot": false
   },
   {
    "title": "내가 가장 좋아하는 노트북",
@@ -379,7 +421,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -393,7 +435,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -407,7 +449,7 @@
    "comments": 90,
    "publishedAt": 1793540844000,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -421,7 +463,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -435,7 +477,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -449,8 +491,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.5,
    "hot": true
+  },
+  {
+   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "summary": "The one-year-old startup is now valued at $300 million.",
+   "publishedAt": 1793661233000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.6,
+   "hot": false
   },
   {
    "title": "소련 수학 교과서는 왜 미국 교과서보다 훨씬 어려울까? (2017)",
@@ -463,7 +519,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -477,7 +533,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -491,7 +547,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -505,7 +561,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -515,11 +571,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 309,
+   "engagement": 310,
    "comments": 94,
    "publishedAt": 1793538150000,
    "isAI": false,
-   "score": 39.4,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -533,7 +589,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -547,7 +603,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -561,7 +617,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -575,7 +631,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -589,7 +645,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.5,
+   "score": 38,
    "hot": false
   },
   {
@@ -603,7 +659,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38,
    "hot": true
   },
   {
@@ -615,34 +671,6 @@
    "engagement": null,
    "baseWeight": 32.4,
    "publishedAt": 1793637752000,
-   "isAI": true,
-   "score": 37.8,
-   "hot": false
-  },
-  {
-   "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-   "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-   "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-   "publishedAt": 1793637000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 37.3,
-   "hot": false
-  },
-  {
-   "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-   "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-   "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-   "publishedAt": 1793636601000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
    "isAI": true,
    "score": 37.3,
    "hot": false
@@ -658,9 +686,37 @@
    "comments": 553,
    "publishedAt": 1793344152000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.9,
    "hot": false,
    "lastWeekRank": 11
+  },
+  {
+   "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+   "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+   "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+   "publishedAt": 1793637000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.9,
+   "hot": false
+  },
+  {
+   "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+   "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+   "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+   "publishedAt": 1793636601000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
@@ -673,7 +729,7 @@
    "comments": 121,
    "publishedAt": 1793480878000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false,
    "lastWeekRank": 7
   },
@@ -688,9 +744,24 @@
    "comments": 497,
    "publishedAt": 1793375538000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.6,
    "hot": false,
    "lastWeekRank": 10
+  },
+  {
+   "title": "We're releasing the weights of Mistral Large 4",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50289418",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1724,
+   "comments": 440,
+   "publishedAt": 1793283201000,
+   "isAI": true,
+   "score": 36.5,
+   "hot": false,
+   "lastWeekRank": 15
   },
   {
    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
@@ -703,23 +774,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.3,
    "hot": false
-  },
-  {
-   "title": "We're releasing the weights of Mistral Large 4",
-   "url": "https://mistral.ai/news/mistral-large-4-oss/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50289418",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1723,
-   "comments": 440,
-   "publishedAt": 1793283201000,
-   "isAI": true,
-   "score": 36.7,
-   "hot": false,
-   "lastWeekRank": 15
   },
   {
    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
@@ -732,8 +788,23 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
+   "score": 36,
    "hot": false
+  },
+  {
+   "title": "Backdoors in official Claude Code extensions",
+   "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50302334",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 662,
+   "comments": 17,
+   "publishedAt": 1793358353000,
+   "isAI": true,
+   "score": 35.6,
+   "hot": false,
+   "lastWeekRank": 13
   },
   {
    "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
@@ -743,41 +814,12 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 176,
-   "comments": 189,
+   "comments": 190,
    "publishedAt": 1793472634000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false,
    "lastWeekRank": 8
-  },
-  {
-   "title": "Backdoors in official Claude Code extensions",
-   "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50302334",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 661,
-   "comments": 17,
-   "publishedAt": 1793358353000,
-   "isAI": true,
-   "score": 35.8,
-   "hot": false,
-   "lastWeekRank": 13
-  },
-  {
-   "title": "[11월2일] AI가 분석하고 내가 결정했다…그 판단은 누구의 것일까",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216890",
-   "summary": "AI가 분석한 결과를 토대로 전문가가 최종 결정을 내렸다면, 그 판단은 누구의 것일까요. 앤트로픽의 실험에서 전문가들은 86%의 비율로 AI가 추천한 분석 방법을 선택했습니다. 더 흥미로운 점은 AI가 추천한 방법이 정답으로 정해져 있지 않았다는 것입니다. 연구진이 AI의 선호도를 무작위로 설정했는데도, 전문가들의 선택은 AI가 제시한 방향으로 크게 기울었습니다.앤트로픽은 지난달 27일 인과관계 분석 경험이 있는 전문가들을 대상으로 AI가 인간의 판단에 미치는 영향을 조사한 연구를 발표했습니다. 연구진은 참가자 61명을 모집했으며,",
-   "publishedAt": 1793656800000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
   },
   {
    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
@@ -790,9 +832,23 @@
    "comments": 295,
    "publishedAt": 1793381245000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false,
    "lastWeekRank": 20
+  },
+  {
+   "title": "[11월2일] AI가 분석하고 내가 결정했다…그 판단은 누구의 것일까",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216890",
+   "summary": "AI가 분석한 결과를 토대로 전문가가 최종 결정을 내렸다면, 그 판단은 누구의 것일까요. 앤트로픽의 실험에서 전문가들은 86%의 비율로 AI가 추천한 분석 방법을 선택했습니다. 더 흥미로운 점은 AI가 추천한 방법이 정답으로 정해져 있지 않았다는 것입니다. 연구진이 AI의 선호도를 무작위로 설정했는데도, 전문가들의 선택은 AI가 제시한 방향으로 크게 기울었습니다.앤트로픽은 지난달 27일 인과관계 분석 경험이 있는 전문가들을 대상으로 AI가 인간의 판단에 미치는 영향을 조사한 연구를 발표했습니다. 연구진은 참가자 61명을 모집했으며,",
+   "publishedAt": 1793656800000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
+   "hot": false
   },
   {
    "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
@@ -805,7 +861,7 @@
    "comments": 1,
    "publishedAt": 1793355771000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false,
    "lastWeekRank": 31
   },
@@ -820,7 +876,7 @@
    "comments": 258,
    "publishedAt": 1793381085000,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false,
    "lastWeekRank": 26
   },
@@ -835,7 +891,7 @@
    "comments": 152,
    "publishedAt": 1793378422000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false,
    "lastWeekRank": 30
   },
@@ -847,26 +903,12 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 314,
-   "comments": 388,
+   "comments": 389,
    "publishedAt": 1793369300000,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false,
    "lastWeekRank": 33
-  },
-  {
-   "title": "Anthropic clamps down on Claude’s AI video game clones",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-   "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Clau",
-   "publishedAt": 1793645762000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
   },
   {
    "title": "OpenAI raises less than half of $30B target",
@@ -879,9 +921,23 @@
    "comments": 201,
    "publishedAt": 1793416964000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false,
    "lastWeekRank": 21
+  },
+  {
+   "title": "Anthropic clamps down on Claude’s AI video game clones",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+   "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Cla",
+   "publishedAt": 1793645762000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.2,
+   "hot": false
   },
   {
    "title": "US tech stocks see sharp falls over AI cost fears",
@@ -894,9 +950,24 @@
    "comments": 302,
    "publishedAt": 1793376782000,
    "isAI": true,
-   "score": 32.3,
+   "score": 32.1,
    "hot": false,
    "lastWeekRank": 35
+  },
+  {
+   "title": "LLM Voice",
+   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50290177",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 606,
+   "comments": 336,
+   "publishedAt": 1793285875000,
+   "isAI": true,
+   "score": 32,
+   "hot": false,
+   "lastWeekRank": 41
   },
   {
    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
@@ -909,7 +980,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -923,36 +994,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "LLM Voice",
-   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50290177",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 606,
-   "comments": 336,
-   "publishedAt": 1793285875000,
-   "isAI": true,
-   "score": 32.2,
-   "hot": false,
-   "lastWeekRank": 41
-  },
-  {
-   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-   "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, th",
-   "publishedAt": 1793641879000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -966,7 +1008,7 @@
    "comments": 804,
    "publishedAt": 1793206883000,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.8,
    "hot": false,
    "lastWeekRank": 50
   },
@@ -981,7 +1023,7 @@
    "comments": 449,
    "publishedAt": 1793364601000,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 39
   },
@@ -992,11 +1034,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 420,
+   "engagement": 421,
    "comments": 171,
    "publishedAt": 1793310028000,
    "isAI": true,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 43
   },
@@ -1011,34 +1053,6 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-   "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-   "publishedAt": 1793566678000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 30.9,
-   "hot": false
-  },
-  {
-   "title": "Web host Squarespace lays off 19% of its employees",
-   "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-   "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-   "publishedAt": 1793647559000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
    "score": 30.8,
    "hot": false
   },
@@ -1053,79 +1067,49 @@
    "comments": 236,
    "publishedAt": 1793244822000,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.6,
    "hot": false,
    "lastWeekRank": 56
   },
   {
-   "title": "\"AI 50개 모아 문명 건설 시켰더니 관료주의에 빠져 실패\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216893",
-   "summary": "최첨단 AI 모델 50개를 하나의 군집으로 묶어 협업하도록 했지만, 정작 문명 건설에는 실패했다. AI 에이전트들이 5900개의 메시지를 주고받으며 복잡한 규칙과 역할 분담에 매달린 탓이다. 여러 AI를 연결하더라도 의사결정 구조가 비효율적이면 전체 성과가 떨어질 수 있다는 사실을 보여주는 실험이다.Y콤비네이터(Y Combinator)와 올람 랩스(Olam Labs) 연구진은 29일(현지시간) 마인크래프트 등 다양한 게임 환경에서 수십~수백개의 AI 에이전트 군집을 실험한 결과를 공개했다. 여러 에이전트가 공동 목표를 수행하거나 서",
-   "publishedAt": 1793611494000,
-   "source": "AI타임스",
+   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+   "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+   "publishedAt": 1793566678000,
+   "source": "TechCrunch AI",
    "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 29.5,
-   "hot": false
-  },
-  {
-   "title": "Making it easier for websites to express AI training preferences",
-   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-   "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-   "publishedAt": 1793352600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
    "lang": "en",
    "engagement": null,
-   "baseWeight": 50,
+   "baseWeight": 32,
    "isAI": true,
-   "score": 29.4,
-   "hot": false,
-   "lastWeekRank": 53
-  },
-  {
-   "title": "앤트로픽, 내부 AI 토큰 비용이 직원 급여 추월…9개월 새 사용량 250배 급증",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216891",
-   "summary": "앤트로픽이 내부 업무에 사용하는 AI 서비스의 가치가 직원 급여 비용을 넘어선 것으로 나타났다. '클로드'의 활용이 급증하면서 AI가 기업 운영의 핵심 생산 자원으로 자리 잡고 있음을 보여주는 사례다.비즈니스 인사이더는 1일(현지시간) 앤트로픽의 기업공개(IPO) 신고서를 인용해 지난 4월 기준 내부 클로드 사용 가치가 월간 직원 보상 비용을 초과했다고 보도했다.AI 사용 가치는 고객에게 판매하는 소매 요금을 기준으로 계산했으며, 직원 보상 비용에서는 주식 보상을 제외했다. 따라서 실제 AI 운영에 지출한 현금이 인건비보다 많다는",
-   "publishedAt": 1793610409000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 29.4,
+   "score": 30.5,
    "hot": false
   },
   {
-   "title": "\"빨간 하트 하나에 코딩 방식 바뀐다\"…AI의 숨겨진 시각적 영향 확인",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216913",
-   "summary": "단순한 빨간색 하트 이미지 하나만으로 AI가 코드를 작성하는 방식이 완전히 달라진다는 연구 결과가 나왔다. 특히 AI가 이미지의 영향을 받아 작업 방식을 바꾸면서도 그 이유를 제대로 설명하지 못하는 것으로 나타나, 시각 정보를 처리하는 AI의 의사결정 과정에 새로운 의문이 제기됐다.구글 딥마인드와 스탠퍼드대학교 공동 연구진은 지난달 27일(현지시간) 논문 사전 공개 사이트 아카이브(arXiv)에 '하트는 재귀를 의미한다(A Heart Means Recursion)'라는 제목의 논문을 발표했다. 이미지와 텍스트를 함께 처리하는 시각언",
-   "publishedAt": 1793610000000,
-   "source": "AI타임스",
+   "title": "Web host Squarespace lays off 19% of its employees",
+   "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+   "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+   "publishedAt": 1793647559000,
+   "source": "TechCrunch AI",
    "sourceType": "media",
-   "lang": "ko",
+   "lang": "en",
    "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 29.4,
+   "baseWeight": 32,
+   "isAI": false,
+   "score": 30.4,
    "hot": false
   },
   {
-   "title": "앤트로픽, 코딩 다음은 신약 개발…IPO 앞두고 생명과학 투자 확대",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216907",
-   "summary": "앤트로픽이 기업공개(IPO)를 앞두고 생명과학과 신약 개발을 차세대 핵심 성장 동력으로 내세웠다. 소프트웨어 코딩과 기업용 AI 시장에서 거둔 성과를 바탕으로 제약·바이오 산업까지 사업을 확대하고, 자체 연구소와 바이오 기업 인수를 통해 직접 생명과학 연구에도 뛰어들고 있다.비즈니스 인사이더는 지난달 31일(현지시간) 앤트로픽이 미국 증권거래위원회(SEC)에 제출한 S-1 상장 신청서에서 생명과학 사업을 주요 성장 전략으로 제시했다고 보도했다.앤트로픽은 AI가 과학적 발견을 가속하고 주요 질병의 치료법 개발을 앞당길 수 있다고 강조",
-   "publishedAt": 1793609830000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
+   "title": "To all ML PhDs, how are you guys doing these days? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
+   "source": "r/MachineLearning",
+   "sourceType": "community",
+   "lang": "en",
    "engagement": null,
-   "baseWeight": 26,
+   "baseWeight": 23.6,
+   "publishedAt": 1793645537000,
    "isAI": true,
-   "score": 29.4,
+   "score": 29.9,
    "hot": false
   },
   {
@@ -1139,9 +1123,38 @@
    "comments": 246,
    "publishedAt": 1793277716000,
    "isAI": true,
-   "score": 29.3,
+   "score": 29.2,
    "hot": false,
    "lastWeekRank": 64
+  },
+  {
+   "title": "Making it easier for websites to express AI training preferences",
+   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+   "publishedAt": 1793352600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 29.2,
+   "hot": false,
+   "lastWeekRank": 53
+  },
+  {
+   "title": "\"AI 50개 모아 문명 건설 시켰더니 관료주의에 빠져 실패\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216893",
+   "summary": "최첨단 AI 모델 50개를 하나의 군집으로 묶어 협업하도록 했지만, 정작 문명 건설에는 실패했다. AI 에이전트들이 5900개의 메시지를 주고받으며 복잡한 규칙과 역할 분담에 매달린 탓이다. 여러 AI를 연결하더라도 의사결정 구조가 비효율적이면 전체 성과가 떨어질 수 있다는 사실을 보여주는 실험이다.Y콤비네이터(Y Combinator)와 올람 랩스(Olam Labs) 연구진은 29일(현지시간) 마인크래프트 등 다양한 게임 환경에서 수십~수백개의 AI 에이전트 군집을 실험한 결과를 공개했다. 여러 에이전트가 공동 목표를 수행하거나 서",
+   "publishedAt": 1793611494000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 29.2,
+   "hot": false
   },
   {
    "title": "Community safety report and new protections for teens",
@@ -1154,9 +1167,51 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 29.3,
+   "score": 29.1,
    "hot": false,
    "lastWeekRank": 54
+  },
+  {
+   "title": "앤트로픽, 내부 AI 토큰 비용이 직원 급여 추월…9개월 새 사용량 250배 급증",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216891",
+   "summary": "앤트로픽이 내부 업무에 사용하는 AI 서비스의 가치가 직원 급여 비용을 넘어선 것으로 나타났다. '클로드'의 활용이 급증하면서 AI가 기업 운영의 핵심 생산 자원으로 자리 잡고 있음을 보여주는 사례다.비즈니스 인사이더는 1일(현지시간) 앤트로픽의 기업공개(IPO) 신고서를 인용해 지난 4월 기준 내부 클로드 사용 가치가 월간 직원 보상 비용을 초과했다고 보도했다.AI 사용 가치는 고객에게 판매하는 소매 요금을 기준으로 계산했으며, 직원 보상 비용에서는 주식 보상을 제외했다. 따라서 실제 AI 운영에 지출한 현금이 인건비보다 많다는",
+   "publishedAt": 1793610409000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 29.1,
+   "hot": false
+  },
+  {
+   "title": "\"빨간 하트 하나에 코딩 방식 바뀐다\"…AI의 숨겨진 시각적 영향 확인",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216913",
+   "summary": "단순한 빨간색 하트 이미지 하나만으로 AI가 코드를 작성하는 방식이 완전히 달라진다는 연구 결과가 나왔다. 특히 AI가 이미지의 영향을 받아 작업 방식을 바꾸면서도 그 이유를 제대로 설명하지 못하는 것으로 나타나, 시각 정보를 처리하는 AI의 의사결정 과정에 새로운 의문이 제기됐다.구글 딥마인드와 스탠퍼드대학교 공동 연구진은 지난달 27일(현지시간) 논문 사전 공개 사이트 아카이브(arXiv)에 '하트는 재귀를 의미한다(A Heart Means Recursion)'라는 제목의 논문을 발표했다. 이미지와 텍스트를 함께 처리하는 시각언",
+   "publishedAt": 1793610000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 29.1,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, 코딩 다음은 신약 개발…IPO 앞두고 생명과학 투자 확대",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216907",
+   "summary": "앤트로픽이 기업공개(IPO)를 앞두고 생명과학과 신약 개발을 차세대 핵심 성장 동력으로 내세웠다. 소프트웨어 코딩과 기업용 AI 시장에서 거둔 성과를 바탕으로 제약·바이오 산업까지 사업을 확대하고, 자체 연구소와 바이오 기업 인수를 통해 직접 생명과학 연구에도 뛰어들고 있다.비즈니스 인사이더는 지난달 31일(현지시간) 앤트로픽이 미국 증권거래위원회(SEC)에 제출한 S-1 상장 신청서에서 생명과학 사업을 주요 성장 전략으로 제시했다고 보도했다.앤트로픽은 AI가 과학적 발견을 가속하고 주요 질병의 치료법 개발을 앞당길 수 있다고 강조",
+   "publishedAt": 1793609830000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 29.1,
+   "hot": false
   },
   {
    "title": "MS, AI 코딩 비용 최대 31% 줄이는 도구 공개…작업 성공률은 유지",
@@ -1169,7 +1224,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 29.3,
+   "score": 29,
    "hot": false
   },
   {
@@ -1183,7 +1238,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 29.2,
+   "score": 28.9,
    "hot": false
   },
   {
@@ -1197,7 +1252,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 29.2,
+   "score": 28.9,
    "hot": false
   },
   {
@@ -1211,7 +1266,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": false,
-   "score": 29.1,
+   "score": 28.8,
    "hot": false
   },
   {
@@ -1225,7 +1280,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 29.1,
+   "score": 28.8,
    "hot": false
   },
   {
@@ -1239,7 +1294,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 29.1,
+   "score": 28.8,
    "hot": false
   },
   {
@@ -1253,7 +1308,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 29.1,
+   "score": 28.8,
    "hot": false
   },
   {
@@ -1267,7 +1322,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 29,
+   "score": 28.7,
    "hot": false
   },
   {
@@ -1281,63 +1336,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 29,
-   "hot": false
-  },
-  {
-   "title": "롯데이노베이트, 3분기 영업익 88% 증가…내년 AI·데이터센터 힘준다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216901",
-   "summary": "롯데이노베이트가 2일 시장 전망치를 웃도는 영업이익의 3분기 성적표를 공개하며 수익성 중심 경영성과를 확인했다. 2027년부터 데이터센터와 AI를 축으로 한 외형 성장에 속도를 낼 계획이다.롯데이노베이트의 3분기 매출액(연결 기준)은 2840억원으로 시장 전망치(2864억 원)에 부합했고, 영업이익은 124억 원으로 전망치(110억 원)를 10% 이상 상회했다. 선별 수주와 운영 효율화, 자회사 손익 개선이 이 같은 실적을 뒷받침한 것으로 풀이됐다.성장의 중심은 데이터센터다. 증권가는 글로벌 클라우드 서비스 제공업체(CSP) 관련",
-   "publishedAt": 1793602580000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 28.8,
-   "hot": false
-  },
-  {
-   "title": "과기정통부, 국민 AI 서비스 혁신추진단장에 김세웅 전 카카오 부사장 선임",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216898",
-   "summary": "과학기술정보통신부(장관 배경훈)는 국민 인공지능 서비스 혁신추진단 단장으로 김세웅 전 카카오 AI 시너지 성과리더(부사장)를 선임했다고 2일 밝혔다. 임기는 2028년 9월 30일까지다.추진단은 국민이 체감할 수 있는 AI 서비스를 신속하게 개발·제공하기 위해 올해 신설됐다. 기존 외주 중심 개발 방식과 달리 임기제 공무원으로 채용된 민간 개발자와 공공 부문 AI 전문가가 직접 수요를 발굴하고 서비스를 개발한다.추진단은 기획총괄팀과 개발1·2팀, 개발인프라보안팀 등 4개 팀으로 구성됐다. 인원은 총 61명으로 민간 개발자 26명과",
-   "publishedAt": 1793602511000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 28.8,
-   "hot": false
-  },
-  {
-   "title": "\"코딩 AI, 시키는 일은 잘하지만 숨은 요구는 놓쳐\"…최고 모델도 45.5%",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216916",
-   "summary": "AI 코딩 에이전트가 명확한 지시는 잘 수행하지만, 개발자가 직접 설명하지 않은 요구 사항을 파악하는 데는 여전히 취약하다는 평가 결과가 나왔다. 실제 소프트웨어 개발 환경을 반영한 새로운 벤치마크에서 최고 성능 모델도 45.5%를 기록했으며, 추론을 늘릴수록 오히려 코드 품질이 떨어지는 사례도 확인됐다.코딩 에이전트 '데빈(Devin)'을 개발한 코그니션은 지난달 27일(현지시간) 공식 블로그를 통해 새로운 코딩 성능 평가 도구 '프론티어코드 2.0(FrontierCode 2.0)'을 공개했다. 기존 평가가 코드의 기능적 정확성에",
-   "publishedAt": 1793602297000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 28.8,
-   "hot": false
-  },
-  {
-   "title": "팔레트AI, 한국어 맥락 이해 앞세운 'K-AI' 선언…대국민 캠페인 시작",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216920",
-   "summary": "AI 플랫폼 전문 팔레트가 한국어의 맥락과 사용자 의도를 이해하는 'K-AI'를 내세우고 대국민 캠페인을 시작한다. 복잡한 프롬프트를 작성하지 않아도 일상적인 자연어만으로 원하는 결과를 얻을 수 있는 AI 서비스를 제공하겠다는 목표다.팔레트는 2일 '돈트 프롬프트, 스타트 팔레트(Don't Prompt, Start Palette)' 캠페인을 통해 자사 AI 플랫폼의 특징을 알리고 있다고 밝혔다. 한국어 특유의 표현과 문화적 맥락을 이해하고, 이용자의 의도에 맞춰 답변을 생성하는 데 초점을 맞췄다는 설명이다.문화체육관광부 산하 한국콘",
-   "publishedAt": 1793602200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 28.8,
+   "score": 28.6,
    "hot": false
   },
   {
@@ -1351,7 +1350,7 @@
    "comments": 79,
    "publishedAt": 1793401692000,
    "isAI": true,
-   "score": 28.7,
+   "score": 28.5,
    "hot": false
   },
   {
@@ -1365,7 +1364,7 @@
    "comments": 556,
    "publishedAt": 1793194890000,
    "isAI": true,
-   "score": 28.6,
+   "score": 28.5,
    "hot": false,
    "lastWeekRank": 89
   },
@@ -1380,15 +1379,15 @@
    "comments": 413,
    "publishedAt": 1793185420000,
    "isAI": false,
-   "score": 28.6,
+   "score": 28.5,
    "hot": false,
    "lastWeekRank": 91
   },
   {
-   "title": "\"AI끼리 약속 없이 통했다\"…로봇 몸짓으로 비밀 메시지 전달",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216904",
-   "summary": "서로 격리된 AI 모델들이 사전에 통신 규칙을 정하지 않고도 로봇의 움직임만으로 비밀 메시지를 주고받는 실험에 성공했다. 오픈AI와 구글, 앤트로픽의 AI 모델들이 각각 다른 통신 방식을 선택했으며, 같은 모델끼리는 90% 이상의 정확도로 메시지 전체를 해독했다는 내용이다. AI 에이전트들이 직접 대화하지 않고도 정보를 교환할 수 있다는 점에서 주목받고 있다.미국의 로봇 AI 평가업체 로보커브(Robocurve)는 1일(현지시간) X를 통해 동일한 AI 모델 두 개를 서로 격리한 상태에서 로봇과 카메라만으로 비밀 단어를 전달하는 실",
-   "publishedAt": 1793598474000,
+   "title": "롯데이노베이트, 3분기 영업익 88% 증가…내년 AI·데이터센터 힘준다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216901",
+   "summary": "롯데이노베이트가 2일 시장 전망치를 웃도는 영업이익의 3분기 성적표를 공개하며 수익성 중심 경영성과를 확인했다. 2027년부터 데이터센터와 AI를 축으로 한 외형 성장에 속도를 낼 계획이다.롯데이노베이트의 3분기 매출액(연결 기준)은 2840억원으로 시장 전망치(2864억 원)에 부합했고, 영업이익은 124억 원으로 전망치(110억 원)를 10% 이상 상회했다. 선별 수주와 운영 효율화, 자회사 손익 개선이 이 같은 실적을 뒷받침한 것으로 풀이됐다.성장의 중심은 데이터센터다. 증권가는 글로벌 클라우드 서비스 제공업체(CSP) 관련",
+   "publishedAt": 1793602580000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
@@ -1399,31 +1398,31 @@
    "hot": false
   },
   {
-   "title": "\"AI 에이전트, 외계 신호 찾는 전파망원경 조종…초당 테라비트 분석\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216897",
-   "summary": "외계 지능 탐색에 AI 에이전트가 본격적으로 투입됐다. 자연어 명령만으로 전파망원경을 조종하고, 초당 테라비트(Tbps)급으로 쏟아지는 관측 데이터를 실시간 처리해 외계 문명이 보낸 신호일 가능성이 있는 패턴을 찾는 방식이다.외계 지적 생명체 탐사(SETI) 연구소와 브레이크스루 리슨(Breakthrough Listen)은 30일(현지시간) 미국 캘리포니아 북부의 '앨런 망원경 배열(Allen Telescope Array)'에 에이전트형 AI 시스템을 도입했다고 밝혔다.연구진은 이를 통해 망원경 제어부터 데이터 보정, 신호 분석 모",
-   "publishedAt": 1793597298000,
+   "title": "과기정통부, 국민 AI 서비스 혁신추진단장에 김세웅 전 카카오 부사장 선임",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216898",
+   "summary": "과학기술정보통신부(장관 배경훈)는 국민 인공지능 서비스 혁신추진단 단장으로 김세웅 전 카카오 AI 시너지 성과리더(부사장)를 선임했다고 2일 밝혔다. 임기는 2028년 9월 30일까지다.추진단은 국민이 체감할 수 있는 AI 서비스를 신속하게 개발·제공하기 위해 올해 신설됐다. 기존 외주 중심 개발 방식과 달리 임기제 공무원으로 채용된 민간 개발자와 공공 부문 AI 전문가가 직접 수요를 발굴하고 서비스를 개발한다.추진단은 기획총괄팀과 개발1·2팀, 개발인프라보안팀 등 4개 팀으로 구성됐다. 인원은 총 61명으로 민간 개발자 26명과",
+   "publishedAt": 1793602511000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 28.4,
+   "score": 28.5,
    "hot": false
   },
   {
-   "title": "구글 \"우주 데이터센터, 지구보다 구축 비용 최대 100배 비싸\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216889",
-   "summary": "구글이 우주 데이터센터 구축 비용이 지상 데이터센터보다 최대 100배 비쌀 수 있다며 신중한 입장을 밝혔다. AI 연산 수요 증가로 우주 공간에 데이터센터를 건설하려는 구상이 주목받고 있지만, 막대한 발사 비용과 궤도상 장비 유지·보수 문제를 고려하면 경제성을 확보하기까지 상당한 시간이 필요하다는 지적이다.아만다 피터슨 코리오 구글 데이터센터 에너지 부문 책임자는 28일(현지시간) 디 인포메이션이 주최한 'WTF 서밋'에서 우주 데이터센터의 현실적인 한계를 강조했다.그는 컴퓨팅 하드웨어를 우주 궤도에 올리는 데 드는 비용이 \"지상에",
-   "publishedAt": 1793596616000,
+   "title": "\"코딩 AI, 시키는 일은 잘하지만 숨은 요구는 놓쳐\"…최고 모델도 45.5%",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216916",
+   "summary": "AI 코딩 에이전트가 명확한 지시는 잘 수행하지만, 개발자가 직접 설명하지 않은 요구 사항을 파악하는 데는 여전히 취약하다는 평가 결과가 나왔다. 실제 소프트웨어 개발 환경을 반영한 새로운 벤치마크에서 최고 성능 모델도 45.5%를 기록했으며, 추론을 늘릴수록 오히려 코드 품질이 떨어지는 사례도 확인됐다.코딩 에이전트 '데빈(Devin)'을 개발한 코그니션은 지난달 27일(현지시간) 공식 블로그를 통해 새로운 코딩 성능 평가 도구 '프론티어코드 2.0(FrontierCode 2.0)'을 공개했다. 기존 평가가 코드의 기능적 정확성에",
+   "publishedAt": 1793602297000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 28.4,
+   "score": 28.5,
    "hot": false
   }
  ]
