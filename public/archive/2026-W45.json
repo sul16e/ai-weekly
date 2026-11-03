@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793684244927,
+ "updatedAt": 1793687898740,
  "week": "2026-W45",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 2265,
-   "comments": 725,
+   "engagement": 2361,
+   "comments": 739,
    "publishedAt": 1793643688000,
    "isAI": true,
-   "score": 72.7,
+   "score": 72.3,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 274,
-   "comments": 212,
+   "engagement": 289,
+   "comments": 226,
    "publishedAt": 1793658647000,
    "isAI": true,
-   "score": 57.2,
+   "score": 57.1,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 305,
-   "comments": 245,
+   "engagement": 310,
+   "comments": 246,
    "publishedAt": 1793637629000,
    "isAI": true,
-   "score": 54.8,
+   "score": 54.4,
    "hot": true
   },
   {
@@ -51,11 +51,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 191,
-   "comments": 218,
+   "engagement": 197,
+   "comments": 226,
    "publishedAt": 1793658800000,
    "isAI": true,
-   "score": 54,
+   "score": 53.7,
+   "hot": true
+  },
+  {
+   "title": "Scaling Git at OpenAI",
+   "url": "https://openai.com/index/scaling-git-at-openai/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50345924",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 158,
+   "comments": 71,
+   "publishedAt": 1793663276000,
+   "isAI": true,
+   "score": 52.5,
    "hot": true
   },
   {
@@ -65,11 +79,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 175,
-   "comments": 158,
+   "engagement": 180,
+   "comments": 160,
    "publishedAt": 1793647657000,
    "isAI": true,
-   "score": 51.6,
+   "score": 51.3,
+   "hot": true
+  },
+  {
+   "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+   "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50341462",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 423,
+   "comments": 124,
+   "publishedAt": 1793644778000,
+   "isAI": false,
+   "score": 51,
+   "hot": true
+  },
+  {
+   "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50337439",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 229,
+   "comments": 270,
+   "publishedAt": 1793630325000,
+   "isAI": true,
+   "score": 50.8,
    "hot": true
   },
   {
@@ -83,8 +125,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.4,
-   "hot": true
+   "score": 50.8,
+   "hot": false
   },
   {
    "title": "Preparing our next security sprint to harden OpenAI",
@@ -97,49 +139,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 51.4,
-   "hot": true
-  },
-  {
-   "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
-   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50337439",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 228,
-   "comments": 270,
-   "publishedAt": 1793630325000,
-   "isAI": true,
-   "score": 51.3,
-   "hot": true
-  },
-  {
-   "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-   "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50341462",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 400,
-   "comments": 116,
-   "publishedAt": 1793644778000,
-   "isAI": false,
-   "score": 51.1,
-   "hot": true
-  },
-  {
-   "title": "Scaling Git at OpenAI",
-   "url": "https://openai.com/index/scaling-git-at-openai/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50345924",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 124,
-   "comments": 57,
-   "publishedAt": 1793663276000,
-   "isAI": true,
-   "score": 50.9,
+   "score": 50.8,
    "hot": false
   },
   {
@@ -153,7 +153,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.3,
    "hot": false
   },
   {
@@ -163,12 +163,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 138,
-   "comments": 94,
+   "engagement": 144,
+   "comments": 98,
    "publishedAt": 1793645684000,
    "isAI": true,
-   "score": 49.3,
+   "score": 49.1,
    "hot": false
+  },
+  {
+   "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+   "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50337454",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 172,
+   "comments": 243,
+   "publishedAt": 1793630405000,
+   "isAI": true,
+   "score": 48.5,
+   "hot": true
   },
   {
    "title": "Momentic (YC W24) - 앱을 직접 사용해 버그를 찾는 에이전트",
@@ -181,21 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
-   "hot": true
-  },
-  {
-   "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-   "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50337454",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 168,
-   "comments": 243,
-   "publishedAt": 1793630405000,
-   "isAI": true,
-   "score": 48.8,
+   "score": 48.4,
    "hot": true
   },
   {
@@ -209,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -223,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -237,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -251,21 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
-   "hot": true
-  },
-  {
-   "title": "Postgres 19 출시가 늦어지는 건 AI 때문이다 - 버그 발견이 수정을 앞지르다",
-   "url": "https://news.hada.io/topic?id=36491&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "LLM으로 발견한 버그 제보가 급증 하면서 PostgreSQL의 수정 부담이 커짐. PostgreSQL 19는 예년의 9~10월보다 늦은 11월 출시가 예상되며, 베타 후반에 대형 기능 3개도 철회됨 버그 발견은 훨씬 쉬워졌지만 수정은 같은 만큼 쉬워지지 않음 . AI가 작성한 수정안도 정확성과 프로젝트 기준 준수 여부를 사람이 검토하고 커밋해야 함 같은 기간을 전년과 비교하면, 출시 준비 버전에 반영한 백포트 커밋은 60% 이상 , 적어도 하나의 이전 버전까지 반영한 커밋은 74% 이상 증가 함 기존 버전의 보안 문제와 버그 대응",
-   "publishedAt": 1793664125000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 47.1,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -279,8 +265,36 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47,
+   "score": 46.6,
    "hot": false
+  },
+  {
+   "title": "Postgres 19 출시가 늦어지는 건 AI 때문이다 - 버그 발견이 수정을 앞지르다",
+   "url": "https://news.hada.io/topic?id=36491&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "LLM으로 발견한 버그 제보가 급증 하면서 PostgreSQL의 수정 부담이 커짐. PostgreSQL 19는 예년의 9~10월보다 늦은 11월 출시가 예상되며, 베타 후반에 대형 기능 3개도 철회됨 버그 발견은 훨씬 쉬워졌지만 수정은 같은 만큼 쉬워지지 않음 . AI가 작성한 수정안도 정확성과 프로젝트 기준 준수 여부를 사람이 검토하고 커밋해야 함 같은 기간을 전년과 비교하면, 출시 준비 버전에 반영한 백포트 커밋은 60% 이상 , 적어도 하나의 이전 버전까지 반영한 커밋은 74% 이상 증가 함 기존 버전의 보안 문제와 버그 대응",
+   "publishedAt": 1793664125000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.6,
+   "hot": true
+  },
+  {
+   "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+   "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50346153",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 180,
+   "comments": 127,
+   "publishedAt": 1793664533000,
+   "isAI": false,
+   "score": 46.4,
+   "hot": true
   },
   {
    "title": "The latest AI news we announced in October 2026",
@@ -293,36 +307,8 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 46.8,
-   "hot": true
-  },
-  {
-   "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-   "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50346153",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 162,
-   "comments": 112,
-   "publishedAt": 1793664533000,
-   "isAI": false,
-   "score": 45.9,
-   "hot": true
-  },
-  {
-   "title": "잠깐 확인...",
-   "url": "https://news.hada.io/topic?id=36483&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "AI 에이전트에게 코딩을 맡기고 확인 작업 을 하게 된 수석 개발자가, 죽은 뒤 주문 누락의 원인을 검증하러 가던 아침을 회상하는 이야기임 꽃 배달 서비스에서 반복되던 주문 누락의 유력한 원인은 서버와 창고의 시각 차이 임. 에이전트는 창고 접근 권한이 없어 개발자에게 직접 주문 대기열을 확인해 달라고 요청함 개발자는 횡단보도에서 휴대전화로 주문을 지켜보다 차에 치이며, 마지막 순간에도 끝내지 못한 작업과 메시지 를 생각함 음성 스피커, 얼굴 인식 출입문, 무인 택시가 일상에 들어온 가운데, 화자는 누가 무엇을 알고 판 …",
-   "publishedAt": 1793655373000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.9,
-   "hot": true
+   "score": 46.3,
+   "hot": false
   },
   {
    "title": "Last night an AI agent performed brain surgery on a mouse",
@@ -332,53 +318,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 128,
-   "comments": 100,
+   "comments": 101,
    "publishedAt": 1793623859000,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.4,
    "hot": false
-  },
-  {
-   "title": "실직한 기술직 노동자들, 샌프란시스코 AI 호황에서 소외되다",
-   "url": "https://news.hada.io/topic?id=36482&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Anthropic과 OpenAI가 창출하는 막대한 부 에 가려 샌프란시스코의 해고와 불확실한 고용시장이 주목받지 못하고 있음 두 기업의 예정된 기업공개(IPO) 는 샌프란시스코에 큰 부를 가져올 것으로 예상됨 골든게이트교 건너편에서는 해고된 노동자 48명 이상 이 모인 산행이 AI 호황의 다른 면을 드러냄 참가자들은 월요일 오전 11시, 샌프란시스코만을 내려다보는 Mount Tamalpais 를 찾음 전 Google 직원 Basem Istanbouli 가 이끈 참가자들은 약 12명씩 무리를 지어 한산한 등산로를 내려옴 AI가 만드는",
-   "publishedAt": 1793652188000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.5,
-   "hot": true
-  },
-  {
-   "title": "Show HN: Warsaw in voxels - 바르샤바 도심의 인터랙티브 3D 지도",
-   "url": "https://news.hada.io/topic?id=36481&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Warsaw in voxels 는 바르샤바 도심을 복셀로 표현한 인터랙티브 3D 지도임 랜드마크 정보 에는 현지 이름과 영어 이름, 장소 유형이 있으며, 일부 건물은 높이와 연도, 설계자도 확인할 수 있음 문화과학궁전과 Varso Tower 같은 고층 건물 뿐 아니라 박물관, 극장, 대학, 종교 시설 등 다양한 도시 장소를 포함함 비스와강과 교량, 공원, 광장, 철도역과 지하철역도 포함해 건축물 외의 도시 공간과 교통 거점 을 함께 담음 관광 명소 외에도 코워킹 공간, AI 모임, 공동체 정원, 대안교육 공간 등 지역 활동 장소 를",
-   "publishedAt": 1793652008000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.5,
-   "hot": true
-  },
-  {
-   "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-   "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50334038",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 153,
-   "comments": 86,
-   "publishedAt": 1793604448000,
-   "isAI": true,
-   "score": 44.9,
-   "hot": true
   },
   {
    "title": "Ask HN: Which TV do you recommend for privacy?",
@@ -387,12 +331,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 695,
-   "comments": 838,
+   "engagement": 700,
+   "comments": 841,
    "publishedAt": 1793561727000,
    "isAI": false,
-   "score": 44.9,
+   "score": 44.6,
    "hot": false
+  },
+  {
+   "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+   "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50334038",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 154,
+   "comments": 86,
+   "publishedAt": 1793604448000,
+   "isAI": true,
+   "score": 44.5,
+   "hot": true
   },
   {
    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
@@ -405,7 +363,7 @@
    "comments": 252,
    "publishedAt": 1793571045000,
    "isAI": true,
-   "score": 44.4,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -419,7 +377,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -433,7 +391,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.9,
    "hot": false
   },
   {
@@ -447,7 +405,7 @@
    "comments": 387,
    "publishedAt": 1793513179000,
    "isAI": true,
-   "score": 43,
+   "score": 42.7,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -458,11 +416,67 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 215,
+   "engagement": 218,
    "comments": 52,
    "publishedAt": 1793611756000,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.5,
+   "hot": true
+  },
+  {
+   "title": "미국 30~33세의 순자산",
+   "url": "https://news.hada.io/topic?id=36513&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "미국 30~33세 집단의 순자산 중앙값은 6만 8,000달러 로 추정됨. 연방 조사 자료를 바탕으로 모델링한 수치이며, 초기 기준은 개인이 아닌 가구 단위임 상위 25% 기준은 23만 5,000달러 , 상위 10% 기준은 44만 달러로, 상위 10% 진입선이 중앙값의 약 6.5배임 하위 25% 기준은 7,100달러 , 하위 10% 기준은 마이너스 5,500달러 로, 분포 하단에서는 자산보다 부채가 많음 평균은 8만 8,400달러 로 상위 자산층의 영향을 받으며, 전형적인 수준을 비교할 때는 중앙값이 더 적합함 기초 조사인 Fed S",
+   "publishedAt": 1793683942000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
+  },
+  {
+   "title": "HackerBooks - HackerNews에서 언급된 책만 모은 HackerTube의 책 버전",
+   "url": "https://news.hada.io/topic?id=36511&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "카파시(Karpathy)의 HackerTube에서 영감을 받아, 2007년부터 현재까지 해커뉴스 댓글에서 유저들이 언급한 약 16,500권의 책을 모아 보여주는 웹사이트 각 도서 항목은 실제로 그 책이 언급된 해커뉴스 댓글로 직접 연결되며(긍정·부정 언급 모두 포함), 전체 데이터셋은 사이트 내 소개 페이지에서 다운로드 가능 가장 많이 언급된 책은 , , , 순. …",
+   "publishedAt": 1793682745000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
+  },
+  {
+   "title": "자영업자나 1인 사업자인가요? NIST가 맞춤형 사이버보안 가이드를 공개함",
+   "url": "https://news.hada.io/topic?id=36509&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "NIST 가 1인 사업자를 위한 사이버보안 가이드를 공개함. 보안 기초를 익히고 사업에 맞는 위험 완화 전략을 실행하도록 돕는 자료임 NIST Cybersecurity Framework 2.0 의 조치 중 1인 사업에 적합한 항목을 골라 우선순위를 정하고 실행할 수 있도록 구성함 사전 보안 지식이 없는 독자 를 대상으로 쉬운 언어를 사용하며, 많은 조치를 제한된 기술 지식이나 최소한의 비용으로 직접 실행할 수 있음 각 조치에 실행 이유와 단계별 실행 방법 을 제공하며, 정기적인 데이터 백업과 소프트웨어 업데이트 등을 첫 단계로 권장",
+   "publishedAt": 1793680605000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
+   "hot": true
+  },
+  {
+   "title": "Intel 주가 폭락 심화, 3조 5,000억 달러 규모 반도체주 급락 확산",
+   "url": "https://news.hada.io/topic?id=36508&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "11월 2일 S&P 500 종목 약 70%가 상승했지만 거의 모든 반도체주는 하락했으며, Yahoo Finance 집계 기준 하루에 시가총액 4,000억 달러 이상 이 사라짐 Intel 은 부진한 전망으로 10월 30일 약 29% 폭락한 뒤 이날도 약 9% 하락해, 시가총액이 9월 말의 절반 아래로 내려감 올해 상승을 이끌었던 메모리/스토리지 종목 도 약 6~8% 하락했으며, 본문 집계 기준 반도체/메모리주의 10월 6일 이후 시가총액 감소액은 약 3조 7,000억 달러 에 달함 시장 전망은 악재가 이미 가격에 반영됐다는 판단 과 ",
+   "publishedAt": 1793680425000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -472,11 +486,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 137,
-   "comments": 91,
+   "engagement": 138,
+   "comments": 92,
    "publishedAt": 1793639125000,
    "isAI": false,
-   "score": 41.3,
+   "score": 41,
    "hot": false
   },
   {
@@ -490,7 +504,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -500,11 +514,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 120,
+   "engagement": 121,
    "comments": 43,
    "publishedAt": 1793643168000,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -514,11 +528,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 165,
+   "engagement": 166,
    "comments": 99,
    "publishedAt": 1793559235000,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -532,8 +546,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
+  },
+  {
+   "title": "Anthropic blocks users for anything touching training larger models",
+   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50319358",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 489,
+   "comments": 268,
+   "publishedAt": 1793475559000,
+   "isAI": true,
+   "score": 39.9,
+   "hot": false,
+   "lastWeekRank": 1
   },
   {
    "title": "에이전트와 함께 개발하기 위한 실용 원칙",
@@ -546,23 +575,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.8,
    "hot": true
-  },
-  {
-   "title": "Anthropic blocks users for anything touching training larger models",
-   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50319358",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 489,
-   "comments": 267,
-   "publishedAt": 1793475559000,
-   "isAI": true,
-   "score": 40.1,
-   "hot": false,
-   "lastWeekRank": 1
   },
   {
    "title": "DNS 빌드 지연을 절반으로 줄이고 메모리 사용량을 85% 절감한 방법",
@@ -575,7 +589,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -589,7 +603,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -603,21 +617,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
-   "hot": true
-  },
-  {
-   "title": "BYD, 지난달 미국의 한 분기 전체보다 많은 전기차 판매",
-   "url": "https://news.hada.io/topic?id=36489&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "BYD 가 2026년 10월 순수 전기차 30만 5,743대를 판매해 월간 최고 기록을 경신함. 미국 전체의 3분기 전기차 판매 추정치인 26만 2,500여 대를 웃돎 순수 전기차 판매는 전년 동월 대비 37% 증가 하며 성장을 이끈 반면, 플러그인 하이브리드 판매는 17% 감소함 10월까지 누적 순수 전기차 판매는 195만 3,700대 로 전년 동기 대비 6% 늘었으며, 10월 전체 판매에서 순수 전기차가 약 63%를 차지함 해외 시장 확대 에 힘쓰는 BYD는 10월까지 전기차와 플러그인 하이브리드 150만 대 이상을 수출함. 전",
-   "publishedAt": 1793662371000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.4,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -631,8 +631,22 @@
    "comments": 90,
    "publishedAt": 1793540844000,
    "isAI": true,
-   "score": 39.3,
+   "score": 39,
    "hot": false
+  },
+  {
+   "title": "BYD, 지난달 미국의 한 분기 전체보다 많은 전기차 판매",
+   "url": "https://news.hada.io/topic?id=36489&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "BYD 가 2026년 10월 순수 전기차 30만 5,743대를 판매해 월간 최고 기록을 경신함. 미국 전체의 3분기 전기차 판매 추정치인 26만 2,500여 대를 웃돎 순수 전기차 판매는 전년 동월 대비 37% 증가 하며 성장을 이끈 반면, 플러그인 하이브리드 판매는 17% 감소함 10월까지 누적 순수 전기차 판매는 195만 3,700대 로 전년 동기 대비 6% 늘었으며, 10월 전체 판매에서 순수 전기차가 약 63%를 차지함 해외 시장 확대 에 힘쓰는 BYD는 10월까지 전기차와 플러그인 하이브리드 150만 대 이상을 수출함. 전",
+   "publishedAt": 1793662371000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39,
+   "hot": true
   },
   {
    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
@@ -645,7 +659,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -659,7 +673,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -673,7 +687,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -687,21 +701,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
-   "hot": true
-  },
-  {
-   "title": "PostHog, 데이터 웨어하우스를 DuckDB에서 이전",
-   "url": "https://news.hada.io/topic?id=36484&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "PostHog가 예상보다 커지고 복잡해진 고객 워크로드를 처리하기 위해 DuckDB 기반 웨어하우스에서 이전 함. ClickHouse에서 DuckDB로 전환한 지 5개월 만이며, 최근 3개월간 아키텍처를 다시 설계함 단일 노드 실행 구조 에서는 쿼리가 도착하기 전에 워커 크기를 정해야 했지만, 필요한 CPU와 메모리를 예측하기 어려웠음 DuckLake의 카탈로그 호환성 요구 가 최적화 선택지를 제한함. 커밋마다 전체 카탈로그 통계를 다시 읽어 단일 테이블 쓰기에 3분 이상 걸릴 수 있었음 내부 검증용 DuckLake는 약 2PB, ",
-   "publishedAt": 1793655553000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.6,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -715,7 +715,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.4,
+   "score": 38,
    "hot": false
   },
   {
@@ -729,7 +729,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -739,11 +739,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 312,
+   "engagement": 313,
    "comments": 94,
    "publishedAt": 1793538150000,
    "isAI": false,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -757,7 +757,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.4,
+   "score": 37,
    "hot": false
   },
   {
@@ -771,7 +771,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -785,23 +785,9 @@
    "comments": 553,
    "publishedAt": 1793344152000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 11
-  },
-  {
-   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-   "publishedAt": 1793647157000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.9,
-   "hot": false
   },
   {
    "title": "We're releasing the weights of Mistral Large 4",
@@ -814,9 +800,23 @@
    "comments": 440,
    "publishedAt": 1793283201000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.6,
    "hot": false,
    "lastWeekRank": 15
+  },
+  {
+   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+   "publishedAt": 1793647157000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.5,
+   "hot": false
   },
   {
    "title": "AI isn't replacing SREs, it's deskilling them",
@@ -829,7 +829,7 @@
    "comments": 499,
    "publishedAt": 1793375538000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.4,
    "hot": false,
    "lastWeekRank": 10
   },
@@ -844,7 +844,7 @@
    "comments": 123,
    "publishedAt": 1793480878000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35,
    "hot": false,
    "lastWeekRank": 7
   },
@@ -858,7 +858,7 @@
    "baseWeight": 32.4,
    "publishedAt": 1793637752000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -872,7 +872,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -886,7 +886,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -900,7 +900,7 @@
    "comments": 17,
    "publishedAt": 1793358353000,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false,
    "lastWeekRank": 13
   },
@@ -915,7 +915,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.4,
+   "score": 34,
    "hot": false
   },
   {
@@ -929,9 +929,65 @@
    "comments": 190,
    "publishedAt": 1793472634000,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false,
    "lastWeekRank": 8
+  },
+  {
+   "title": "국가 슈퍼컴 6호기 ‘한강’ 가동…칩 1.8만개 탑재 세계 10위권 기대",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216948",
+   "summary": "과학기술정보통신부(장관 배경훈)와 한국과학기술정보연구원(KISTI)은 지난 2일 대전 KISTI 본원에서 국가 슈퍼컴퓨터 6호기 ‘한강’ 가동식을 개최했다고 밝혔다.한강은 2018년 도입된 5호기 ‘누리온’의 후속 시스템이다. 기존 CPU 기반 계산과학·모의실험 연구에 더해 GPU를 활용한 AI 기반 과학 연구도 지원하도록 성능을 강화했다.엔비디아의 CPU·GPU 통합 가속기 칩 ‘GH200’ 등 GPU 8496개와 CPU 9936개를 탑재했다. 이론 연산 성능은 614페타플롭스(PFLOPS)로 5호기 대비 24배 높였으며, 저장공",
+   "publishedAt": 1793686679000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "SKT, ‘1인 1에이전트’ 속도 낸다...사내 우수 에이전트 5건 선정",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216945",
+   "summary": "‘1인 1에이전트’ 기업을 향하여.'SK텔레콤(대표 정재헌)은 구성원이 개발한 AI 에이전트를 평가하는 사내 경연대회 ‘AX 스파크’ 파이널 행사를 열고 우수작을 시상했다고 3일 밝혔다.지난 8월부터 3개월간 전사 조직에서 총 173건이 출품됐다. SK텔레콤은 매월 예선을 거쳐 20건을 선정한 뒤 심사위원 평가와 구성원 투표를 통해 최종 후보 5건을 선정했다.대상은 스마트폰 악성 앱을 분석하고 공격 서버를 자동 추적하는 통합보안센터의 ‘M-트리플A’가 차지했다. 최우수상은 서비스 기획부터 개발·운영까지 자율 수행하는 멀티 에이전트",
+   "publishedAt": 1793686565000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "SDT, AIDC '발열 해결사' 100kW 액침냉각 시스템 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216955",
+   "summary": "SDT(대표 윤지원)는 폭증하는 AI 연산 수요에 대응하기 위해 냉각 용량을 100kW로 대폭 향상시킨 '아쿠아랙 42U'를 개발했다고 3일 밝혔다.아쿠아랙은 최근 AI 및 고성능컴퓨팅(HPC) 수요 급증으로 GPU·NPU 등 고성능 가속기를 탑재한 고밀도 서버 증가로 데이터센터의 발열 제어가 핵심 과제로 떠오르는 가운데 선보이는 제품이다. 비전도성 특수 액체인 냉각유에 서버를 직접 담가 열을 식히는 단상 액침냉각 시스템이다.공기 대비 열전달 효율이 월등히 높은 냉각유를 활용해 고밀도 서버에서 발생하는 막대한 열을 즉각적으로 흡수하",
+   "publishedAt": 1793685794000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "마벨, 루멘텀 154조에 인수…AI 데이터센터 광통신 강화",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216952",
+   "summary": "미국 반도체 기업 마벨 테크놀로지(Marvell Technology)가 광통신 부품 업체 루멘텀(Lumentum)을 1150억달러(약 154조원)에 인수한다. AI 데이터센터에서 급증하는 데이터 전송 수요에 대응하기 위해 광학 연결 기술을 확보하고, 브로드컴과의 경쟁력을 강화하려는 전략이다.마벨은 2일(현지시간) 루멘텀을 전액 주식 교환 방식으로 인수하기로 합의했다고 밝혔다. 부채를 포함한 거래 규모는 1150억달러로, 기술기업 간 역대 최대 규모의 인수합병(M&A) 중 하나다.루멘텀 주주들은 보유 주식 1주당 마벨 주식 4.5주를",
+   "publishedAt": 1793685616000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
   },
   {
    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
@@ -944,7 +1000,49 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "오라클·메타, AI 투자 위해 수백억달러 조달…고금리 부담에 직면",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216944",
+   "summary": "오라클과 메타 등 미국 빅테크 기업들이 AI 인프라 투자를 위해 다시 대규모 자금 조달에 나서고 있다. 그러나 AI 투자 수익성에 대한 의문이 커지면서 투자자들이 더 높은 금리를 요구하는 등 자금 조달 부담도 커지고 있다.블룸버그와 로이터 등에 따르면, 오라클은 2일(현지시간) 채권과 주식 발행을 통해 총 200억달러(약 26조원)를 조달한다고 밝혔다. 이 가운데 100억달러는 미국 회사채 시장에서 확보하고, 나머지 100억달러는 주식 발행으로 마련한다.오라클은 회사채를 2029~2046년 만기의 5개 구간으로 나눠 발행했으며, 금",
+   "publishedAt": 1793685080000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "애플, 아이폰·맥 판매 호조에도 성장 둔화…중국 매출 기대 이하",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216941",
+   "summary": "애플이 아이폰과 맥 판매 호조에 힘입어 시장 예상치를 웃도는 분기 실적을 기록했다. 다만 매출 성장률이 전 분기보다 둔화한 데다 중국 시장과 아이패드 판매가 기대에 미치지 못하면서 성장세에 대한 우려도 커졌다. 메모리 반도체 가격 급등으로 수익성이 압박받는 가운데, AI 서비스 운영 비용도 추가 부담 요인으로 떠올랐다.애플은 2일(현지시간) 2026회계연도 4분기(7~9월) 매출이 1145억달러(약 153조7000억원)로 전년 동기 대비 12% 증가했다고 발표했다. 시장조사업체들이 집계한 평균 전망치인 1135억달러를 웃도는 수준이",
+   "publishedAt": 1793684613000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "위고페어, AI 브랜드 보호 기술로 10억 프리 시리즈A 투자 유치",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216949",
+   "summary": "위고페어(대표 김종면)는 알바트로스인베스트먼트로부터 10억 원 규모의 프리 시리즈A 투자를 유치했다고 3일 밝혔다. 지난 2020년 설립한 위고페어는 국내외 온라인 마켓과 SNS에서 위조상품을 찾아내고 신고·차단까지 처리하는 브랜드 보호 플랫폼을 운영한다. 크롤러가 상품과 판매자 정보를 자동으로 수집하면 AI 이미지 분석 시스템이 위조 의심 상품을 걸러내고, 플랫폼별 신고 절차를 자동화하는 등 단속 현황을 한 화면에서 관리할 수 있다.위고페어는 이미 패션·뷰티 분야를 중심으로 100곳이 넘는 브랜드를 고객사로 확보했다. 최근에는 뷰",
+   "publishedAt": 1793684269000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -958,7 +1056,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -972,7 +1070,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -986,11 +1084,11 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
-   "title": "르쿤, 서로 다른 AI가 같은 세상 이해하는 조건 증명…학습 샘플 42배 절감",
+   "title": "르쿤, 다른 AI가 같은 세상 이해하는 조건 증명…학습 샘플 42배 절감",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216943",
    "summary": "서로 다른 데이터를 학습한 AI 모델들이 세상을 비슷한 방식으로 이해하게 되는 조건을 수학적으로 증명한 연구가 나왔다. 특히 AI 모델의 크기를 키우는 대신 학습 방법을 바꾸면 기존 언어모델보다 42배 적은 학습 샘플로 같은 수준의 내부 표현 유사성을 확보할 수 있다는 결과가 나왔다.얀 르쿤 뉴욕대학교 교수와 랜들 베일스트리에로 브라운대학교 교수는 29일(현지시간) 아카이브에 'JEPA를 이용한 플라톤적 표상 가설의 증명과 개선'이라는 논문을 공개했다. 두 연구자는 르쿤이 설립한 AMI 랩스에도 소속돼 있다.이번 연구는 2024년",
    "publishedAt": 1793678632000,
@@ -1000,7 +1098,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1014,7 +1112,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1028,7 +1126,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1042,7 +1140,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1056,7 +1154,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1070,7 +1168,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1084,7 +1182,7 @@
    "comments": 295,
    "publishedAt": 1793381245000,
    "isAI": true,
-   "score": 32.3,
+   "score": 32.1,
    "hot": false,
    "lastWeekRank": 20
   },
@@ -1099,23 +1197,9 @@
    "comments": 1,
    "publishedAt": 1793355771000,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false,
    "lastWeekRank": 31
-  },
-  {
-   "title": "[AI리더의 서가] 온톨로지 비법노트",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216786",
-   "summary": "온톨로지 비법노트김정석 | 리코멘드2026년 10월 26일추천이유저자는 벡터 검색의 한계를 온톨로지로 극복하는 방법을 제시하며, 서울시 실시간 도시 데이터를 활용해 FOL, ASP, Protégé, SPARQL 등의 도구로 OAG를 직접 구현하도록 안내합니다. 복잡한 조건과 규칙을 포함한 질문에 정확한 답변을 제공하는 의사결정 지원 시스템을 완성할 수 있습니다.상세보기 검색증강생성(RAG)을 한 번 붙여 본 개발자라면 비슷한 벽 앞에 선다. 질문과 닮은 문서는 잘 찾아오는데, 장소와 시간, 현재 상태, 업무 규칙과 예외를 함께 따져",
-   "publishedAt": 1793664000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
   },
   {
    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
@@ -1128,9 +1212,23 @@
    "comments": 258,
    "publishedAt": 1793381085000,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false,
    "lastWeekRank": 26
+  },
+  {
+   "title": "[AI리더의 서가] 온톨로지 비법노트",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216786",
+   "summary": "온톨로지 비법노트김정석 | 리코멘드2026년 10월 26일추천이유저자는 벡터 검색의 한계를 온톨로지로 극복하는 방법을 제시하며, 서울시 실시간 도시 데이터를 활용해 FOL, ASP, Protégé, SPARQL 등의 도구로 OAG를 직접 구현하도록 안내합니다. 복잡한 조건과 규칙을 포함한 질문에 정확한 답변을 제공하는 의사결정 지원 시스템을 완성할 수 있습니다.상세보기 검색증강생성(RAG)을 한 번 붙여 본 개발자라면 비슷한 벽 앞에 선다. 질문과 닮은 문서는 잘 찾아오는데, 장소와 시간, 현재 상태, 업무 규칙과 예외를 함께 따져",
+   "publishedAt": 1793664000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.7,
+   "hot": false
   },
   {
    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
@@ -1143,7 +1241,7 @@
    "comments": 153,
    "publishedAt": 1793378422000,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.5,
    "hot": false,
    "lastWeekRank": 30
   },
@@ -1158,7 +1256,7 @@
    "comments": 389,
    "publishedAt": 1793369300000,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false,
    "lastWeekRank": 33
   },
@@ -1173,38 +1271,9 @@
    "comments": 336,
    "publishedAt": 1793285875000,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false,
    "lastWeekRank": 41
-  },
-  {
-   "title": "[11월2일] AI가 분석하고 내가 결정했다…그 판단은 누구의 것일까",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216890",
-   "summary": "AI가 분석한 결과를 토대로 전문가가 최종 결정을 내렸다면, 그 판단은 누구의 것일까요. 앤트로픽의 실험에서 전문가들은 86%의 비율로 AI가 추천한 분석 방법을 선택했습니다. 더 흥미로운 점은 AI가 추천한 방법이 정답으로 정해져 있지 않았다는 것입니다. 연구진이 AI의 선호도를 무작위로 설정했는데도, 전문가들의 선택은 AI가 제시한 방향으로 크게 기울었습니다.앤트로픽은 지난달 27일 인과관계 분석 경험이 있는 전문가들을 대상으로 AI가 인간의 판단에 미치는 영향을 조사한 연구를 발표했습니다. 연구진은 참가자 61명을 모집했으며,",
-   "publishedAt": 1793656800000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "OpenAI raises less than half of $30B target",
-   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50312922",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 187,
-   "comments": 201,
-   "publishedAt": 1793416964000,
-   "isAI": true,
-   "score": 31.3,
-   "hot": false,
-   "lastWeekRank": 21
   },
   {
    "title": "Gemini 4 Carbon",
@@ -1217,9 +1286,24 @@
    "comments": 804,
    "publishedAt": 1793206883000,
    "isAI": true,
-   "score": 31.3,
+   "score": 31.2,
    "hot": false,
    "lastWeekRank": 50
+  },
+  {
+   "title": "OpenAI raises less than half of $30B target",
+   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50312922",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 187,
+   "comments": 201,
+   "publishedAt": 1793416964000,
+   "isAI": true,
+   "score": 31.1,
+   "hot": false,
+   "lastWeekRank": 21
   },
   {
    "title": "US tech stocks see sharp falls over AI cost fears",
@@ -1232,9 +1316,23 @@
    "comments": 303,
    "publishedAt": 1793376782000,
    "isAI": true,
-   "score": 31.1,
+   "score": 31,
    "hot": false,
    "lastWeekRank": 35
+  },
+  {
+   "title": "[11월2일] AI가 분석하고 내가 결정했다…그 판단은 누구의 것일까",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216890",
+   "summary": "AI가 분석한 결과를 토대로 전문가가 최종 결정을 내렸다면, 그 판단은 누구의 것일까요. 앤트로픽의 실험에서 전문가들은 86%의 비율로 AI가 추천한 분석 방법을 선택했습니다. 더 흥미로운 점은 AI가 추천한 방법이 정답으로 정해져 있지 않았다는 것입니다. 연구진이 AI의 선호도를 무작위로 설정했는데도, 전문가들의 선택은 AI가 제시한 방향으로 크게 기울었습니다.앤트로픽은 지난달 27일 인과관계 분석 경험이 있는 전문가들을 대상으로 AI가 인간의 판단에 미치는 영향을 조사한 연구를 발표했습니다. 연구진은 참가자 61명을 모집했으며,",
+   "publishedAt": 1793656800000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31,
+   "hot": false
   },
   {
    "title": "We ran AI agent swarms in Minecraft and Mindustry",
@@ -1247,7 +1345,7 @@
    "comments": 173,
    "publishedAt": 1793310028000,
    "isAI": true,
-   "score": 30.6,
+   "score": 30.4,
    "hot": false,
    "lastWeekRank": 43
   },
@@ -1258,11 +1356,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 597,
+   "engagement": 598,
    "comments": 451,
    "publishedAt": 1793364601000,
    "isAI": false,
-   "score": 30.4,
+   "score": 30.3,
    "hot": false,
    "lastWeekRank": 39
   },
@@ -1272,34 +1370,6 @@
    "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Cla",
    "publishedAt": 1793645762000,
    "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.4,
-   "hot": false
-  },
-  {
-   "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-   "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 h",
-   "publishedAt": 1793642490000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.1,
-   "hot": false
-  },
-  {
-   "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-   "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-   "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
-   "publishedAt": 1793642731000,
-   "source": "Ars Technica",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
@@ -1319,108 +1389,36 @@
    "comments": 236,
    "publishedAt": 1793244822000,
    "isAI": true,
-   "score": 30,
+   "score": 29.9,
    "hot": false,
    "lastWeekRank": 56
   },
   {
-   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-   "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-   "publishedAt": 1793570123000,
-   "source": "TechCrunch AI",
+   "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+   "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 h",
+   "publishedAt": 1793642490000,
+   "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
-   "baseWeight": 32,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 29.3,
+   "score": 29.8,
    "hot": false
   },
   {
-   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-   "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-   "publishedAt": 1793566678000,
-   "source": "TechCrunch AI",
+   "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+   "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+   "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+   "publishedAt": 1793642731000,
+   "source": "Ars Technica",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
-   "baseWeight": 32,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 29.1,
-   "hot": false
-  },
-  {
-   "title": "Web host Squarespace lays off 19% of its employees",
-   "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-   "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-   "publishedAt": 1793647559000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
-   "score": 28.8,
-   "hot": false
-  },
-  {
-   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-   "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50288019",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 338,
-   "comments": 246,
-   "publishedAt": 1793277716000,
-   "isAI": true,
-   "score": 28.6,
-   "hot": false,
-   "lastWeekRank": 64
-  },
-  {
-   "title": "Making it easier for websites to express AI training preferences",
-   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-   "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-   "publishedAt": 1793352600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 28.4,
-   "hot": false,
-   "lastWeekRank": 53
-  },
-  {
-   "title": "Community safety report and new protections for teens",
-   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-   "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-   "publishedAt": 1793350800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 28.4,
-   "hot": false,
-   "lastWeekRank": 54
-  },
-  {
-   "title": "To all ML PhDs, how are you guys doing these days? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
-   "source": "r/MachineLearning",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 23.6,
-   "publishedAt": 1793645537000,
-   "isAI": true,
-   "score": 28.2,
+   "score": 29.8,
    "hot": false
   }
  ]
