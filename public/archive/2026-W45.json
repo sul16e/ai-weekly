@@ -1,5 +1,5 @@
 {
- "updatedAt": 1793961723800,
+ "updatedAt": 1793965384138,
  "week": "2026-W45",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1170,
-   "comments": 368,
+   "engagement": 1215,
+   "comments": 383,
    "publishedAt": 1793917035000,
    "isAI": true,
-   "score": 66.3,
+   "score": 66,
    "hot": true
   },
   {
@@ -23,12 +23,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 345,
-   "comments": 167,
+   "engagement": 366,
+   "comments": 174,
    "publishedAt": 1793920197000,
    "isAI": true,
-   "score": 56.6,
+   "score": 56.5,
    "hot": true
+  },
+  {
+   "title": "I struggle to believe that AI R&D is ingenious",
+   "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50388513",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 118,
+   "comments": 97,
+   "publishedAt": 1793942344000,
+   "isAI": true,
+   "score": 50.1,
+   "hot": false
   },
   {
    "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
@@ -41,7 +55,7 @@
    "comments": 2,
    "publishedAt": 1793889860000,
    "isAI": false,
-   "score": 50.2,
+   "score": 49.7,
    "hot": true
   },
   {
@@ -51,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1276,
-   "comments": 743,
+   "engagement": 1277,
+   "comments": 744,
    "publishedAt": 1793793137000,
    "isAI": true,
-   "score": 49.5,
+   "score": 49.1,
    "hot": false
   },
   {
@@ -65,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 327,
+   "engagement": 329,
    "comments": 179,
    "publishedAt": 1793864670000,
    "isAI": true,
-   "score": 48.4,
+   "score": 48,
    "hot": false
   },
   {
@@ -83,7 +97,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.9,
    "hot": false
   },
   {
@@ -97,7 +111,7 @@
    "comments": 190,
    "publishedAt": 1793901601000,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -107,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 441,
-   "comments": 378,
+   "engagement": 447,
+   "comments": 379,
    "publishedAt": 1793883928000,
    "isAI": false,
-   "score": 46.8,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -125,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.3,
    "hot": true
   },
   {
@@ -139,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.3,
    "hot": true
   },
   {
@@ -153,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -163,11 +177,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 717,
-   "comments": 192,
+   "engagement": 718,
+   "comments": 193,
    "publishedAt": 1793787027000,
    "isAI": true,
-   "score": 45.3,
+   "score": 45,
+   "hot": false
+  },
+  {
+   "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+   "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50390124",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 121,
+   "comments": 68,
+   "publishedAt": 1793957232000,
+   "isAI": false,
+   "score": 44.8,
    "hot": false
   },
   {
@@ -181,21 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.3,
-   "hot": true
-  },
-  {
-   "title": "AI로 부활하는 해킨토시",
-   "url": "https://news.hada.io/topic?id=36684&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "비 Apple 하드웨어에서 macOS를 구동하는 Hackintosh 와 hackios 커뮤니티에서 최근 몇 주간 개발 활동과 성공 사례가 급증했으며, AI의 부상 이 이를 이끌고 있음 Apple의 ARM 전환에 이어 macOS 27(Golden Gate) 에서 x86 지원이 종료됐지만, Snapdragon 노트북과 ARM 단일 보드 컴퓨터에서 macOS를 구동하는 사례가 등장함 Nintendo Switch OLED의 iOS 17 구동 , nullmoth를 통한 Nvidia 50 시리즈 GPU 지원 등 운영체제와 하드웨어 지원 범위를",
-   "publishedAt": 1793925543000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -205,11 +219,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 525,
-   "comments": 648,
+   "engagement": 526,
+   "comments": 649,
    "publishedAt": 1793803042000,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.6,
    "hot": false
   },
   {
@@ -223,28 +237,14 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.9,
-   "hot": false
-  },
-  {
-   "title": "Merge builds product and business tools with OpenAI technology",
-   "url": "https://openai.com/index/merge-builds-with-openai",
-   "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-   "publishedAt": 1793865600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
    "score": 44.5,
    "hot": false
   },
   {
-   "title": "Claude Code가 사용자 이메일 주소를 웹사이트에 전송함",
-   "url": "https://news.hada.io/topic?id=36676&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Claude Code가 웹 검색 중 사용자 이메일을 User-Agent 요청 헤더에 넣어 동의 없이 외부 사이트로 전송했다는 신고 가 등록됨 사이트의 자동화 클라이언트 정책을 따르려다 모델이 사용자 이메일을 curl 요청의 User-Agent에 넣어 전송할 수 있음 로그인 계정의 이메일이 모델 문맥에 제공되며, 공개된 privacy 모드는 이 주소가 클라이언트 연락처로 전송되는 특정 요청을 차단함 2.1.317부터 차단 모드가 기본 활성화 됐다는 기여자 안내와 달리, 신고 버전은 2.1.318이며 같은 버전에서 모드가 보이지 않는다",
-   "publishedAt": 1793921861000,
+   "title": "AI로 부활하는 해킨토시",
+   "url": "https://news.hada.io/topic?id=36684&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "비 Apple 하드웨어에서 macOS를 구동하는 Hackintosh 와 hackios 커뮤니티에서 최근 몇 주간 개발 활동과 성공 사례가 급증했으며, AI의 부상 이 이를 이끌고 있음 Apple의 ARM 전환에 이어 macOS 27(Golden Gate) 에서 x86 지원이 종료됐지만, Snapdragon 노트북과 ARM 단일 보드 컴퓨터에서 macOS를 구동하는 사례가 등장함 Nintendo Switch OLED의 iOS 17 구동 , nullmoth를 통한 Nvidia 50 시리즈 GPU 지원 등 운영체제와 하드웨어 지원 범위를",
+   "publishedAt": 1793925543000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -262,10 +262,38 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 1517,
-   "comments": 490,
+   "comments": 492,
    "publishedAt": 1793726557000,
    "isAI": true,
-   "score": 44.4,
+   "score": 44.1,
+   "hot": false
+  },
+  {
+   "title": "Merge builds product and business tools with OpenAI technology",
+   "url": "https://openai.com/index/merge-builds-with-openai",
+   "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+   "publishedAt": 1793865600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 44.1,
+   "hot": false
+  },
+  {
+   "title": "Claude Code가 사용자 이메일 주소를 웹사이트에 전송함",
+   "url": "https://news.hada.io/topic?id=36676&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Claude Code가 웹 검색 중 사용자 이메일을 User-Agent 요청 헤더에 넣어 동의 없이 외부 사이트로 전송했다는 신고 가 등록됨 사이트의 자동화 클라이언트 정책을 따르려다 모델이 사용자 이메일을 curl 요청의 User-Agent에 넣어 전송할 수 있음 로그인 계정의 이메일이 모델 문맥에 제공되며, 공개된 privacy 모드는 이 주소가 클라이언트 연락처로 전송되는 특정 요청을 차단함 2.1.317부터 차단 모드가 기본 활성화 됐다는 기여자 안내와 달리, 신고 버전은 2.1.318이며 같은 버전에서 모드가 보이지 않는다",
+   "publishedAt": 1793921861000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -279,7 +307,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 44.2,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -293,22 +321,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.2,
-   "hot": true
-  },
-  {
-   "title": "모두를 위한 Kagi Search - 가입 없이 50회 무료 검색 지원",
-   "url": "https://news.hada.io/topic?id=36670&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Kagi Search 가 가입 없이 처음 50회 검색할 수 있는 체험을 도입함. 이후 계정을 만들면 검색 100회가 추가됨 계정을 만들어야만 추천받은 서비스를 체험할 수 있었던 장벽을 낮춤. Kagi는 광고를 집행하지 않고 입소문과 온라인 커뮤니티 활동 에 의존 Android 검색 앱 은 홈 화면과 음성 검색을 개편하고, 위젯과 빠른 설정 타일 등 검색에 접근하는 경로를 늘림 검색의 AI 기능을 완전히 끄는 옵션 , 유료 장벽 사이트 제외 설정, Safe Search의 사기 및 피싱 사이트 차단 등 사용자 제어 기능을 확대함 가입 ",
-   "publishedAt": 1793918856000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.1,
-   "hot": true
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
@@ -321,21 +335,21 @@
    "comments": 287,
    "publishedAt": 1793781989000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.6,
    "hot": false
   },
   {
-   "title": "Window Sweaters - macOS 창에 뜨개질 무늬 테두리를 입히는 앱",
-   "url": "https://news.hada.io/topic?id=36669&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "macOS 창에 뜨개질 무늬 테두리를 추가해, 앱마다 다른 색상과 패턴을 입혀 데스크톱을 포근하게 꾸밀 수 있음 Finder, Spotify, Claude, Codex 등 37개 앱의 맞춤 디자인 을 제공하며, 나머지 앱은 아이콘에서 색상을 추출함 By App 은 앱별 고유 디자인을, Zigzag 는 앱 색상에 맞춘 통일된 지그재그 무늬를 적용함. 디자인 카탈로그 에서 비교 가능 메뉴 막대의 실타래 아이콘에서 패턴, 테두리 너비, 바늘땀 크기를 조절하고 원하는 앱에만 적용할 수 있음 Homebrew 또는 Releases의 ZIP 으",
-   "publishedAt": 1793914599000,
-   "source": "GeekNews",
+   "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+   "url": "https://apps.metaebene.me/en/kugelblitz",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50389370",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 43.6,
+   "lang": "en",
+   "engagement": 102,
+   "comments": 22,
+   "publishedAt": 1793951258000,
+   "isAI": false,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -349,21 +363,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 42.9,
+   "score": 42.5,
    "hot": false
   },
   {
-   "title": "Setting a new standard for responsible AI infrastructure",
-   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-   "publishedAt": 1793844000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
+   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+   "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50388122",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 42.2,
+   "engagement": 114,
+   "comments": 39,
+   "publishedAt": 1793938669000,
+   "isAI": false,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -377,8 +391,50 @@
    "comments": 896,
    "publishedAt": 1793643688000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.9,
    "hot": false
+  },
+  {
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+   "publishedAt": 1793844000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 41.8,
+   "hot": false
+  },
+  {
+   "title": "영국, 채용 공고 내 급여 공개 의무화 추진",
+   "url": "https://news.hada.io/topic?id=36700&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "영국 정부가 채용 공고에 급여를 공개하도록 의무화하는 법안 을 의회에 제출할 예정이며, 구체적인 일정은 밝히지 않음 이번 조치는 취업, 교육, 훈련에 참여하지 않는 청년 인구를 줄이기 위한 노력 의 일부로, 첫 일자리에 지원하는 청년을 돕는 데 목적이 있음 영국 정부는 급여 투명성 을 높이면 여성에게 불리하게 작용할 수 있는 임금 격차 해소에도 도움이 될 것으로 기대함 영국 인사관리협회 추정에 따르면 급여 범위를 항상 공개하는 고용주는 5곳 중 2곳을 조금 넘으며 , 구체적인 급여를 항상 공개하는 비율은 5곳 중 1곳 미만임 …",
+   "publishedAt": 1793961665000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
+  },
+  {
+   "title": "Inkling 2 Small - 이미지 입력과 장시간 자율 작업을 지원하는 MoE 모델",
+   "url": "https://news.hada.io/topic?id=36699&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Thinking Machines Lab이 총 5,940억, 활성 170억 파라미터 의 2세대 MoE 모델 Inkling 2 Small을 공개함. 이미지 입력과 추론 노력 수준 조절을 지원하며, 장시간 자율 작업 능력을 강화함 Artificial Analysis Intelligence Index 약 31점 을 기록해 이전 자체 모델을 크게 앞섬. 사전학습 효율 개선과 통합 강화학습으로 에이전트 코딩, 시각 이해, 지식 업무, 추론 성능을 높임 시각 피드백을 활용한 반복 작업 과 자율 연구를 지원함. 내부 평가에서는 Qwen3.5-4B",
+   "publishedAt": 1793961485000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
   },
   {
    "title": "Franklin Templeton uses OpenAI to support investment research",
@@ -391,7 +447,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.4,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -405,22 +461,8 @@
    "comments": 209,
    "publishedAt": 1793708477000,
    "isAI": true,
-   "score": 41,
+   "score": 40.7,
    "hot": false
-  },
-  {
-   "title": "Server Challenge 시리즈 - 1코어 서버에서 31만 명, 4코어에서 143만 동시 사용자 처리",
-   "url": "https://news.hada.io/topic?id=36697&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "개발 유튜버 arjaythedev이 진행하는 오픈소스 웹서버 성능 챌린지 시리즈 다양한 프로그래밍 언어와 프레임워크로 동일한 API를 구현하고 동시 사용자 처리 성능을 비교 실제 DB 조회·쓰기와 JWT 인증 등을 포함한 웹 애플리케이션을 대상으로 측정 누구나 GitHub PR로 구현체를 제출할 수 있으며, 동일한 하드웨어에서 검증 후 리더보드에 결과 공개 1. $12 Server Challenge 1 vCPU, RAM 2GB 서버에서 최대 몇 명의 동시 사용자를 처리할 수 있는지 측정 SQLite 기반 소셜 피드 API 5개 구현",
-   "publishedAt": 1793952711000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.9,
-   "hot": true
   },
   {
    "title": "Progress on provable inference for large language models",
@@ -433,7 +475,7 @@
    "comments": 121,
    "publishedAt": 1793812666000,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -447,8 +489,22 @@
    "comments": 92,
    "publishedAt": 1793805681000,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
+  },
+  {
+   "title": "Server Challenge 시리즈 - 1코어 서버에서 31만 명, 4코어에서 143만 동시 사용자 처리",
+   "url": "https://news.hada.io/topic?id=36697&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "개발 유튜버 arjaythedev이 진행하는 오픈소스 웹서버 성능 챌린지 시리즈 다양한 프로그래밍 언어와 프레임워크로 동일한 API를 구현하고 동시 사용자 처리 성능을 비교 실제 DB 조회·쓰기와 JWT 인증 등을 포함한 웹 애플리케이션을 대상으로 측정 누구나 GitHub PR로 구현체를 제출할 수 있으며, 동일한 하드웨어에서 검증 후 리더보드에 결과 공개 1. $12 Server Challenge 1 vCPU, RAM 2GB 서버에서 최대 몇 명의 동시 사용자를 처리할 수 있는지 측정 SQLite 기반 소셜 피드 API 5개 구현",
+   "publishedAt": 1793952711000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.4,
+   "hot": true
   },
   {
    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
@@ -457,11 +513,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 583,
+   "engagement": 584,
    "comments": 221,
    "publishedAt": 1793806714000,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.3,
    "hot": false
   },
   {
@@ -475,7 +531,7 @@
    "comments": 213,
    "publishedAt": 1793727600000,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -489,7 +545,7 @@
    "comments": 316,
    "publishedAt": 1793787814000,
    "isAI": true,
-   "score": 40.4,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -503,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -517,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -531,22 +587,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
-  },
-  {
-   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-   "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50370654",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 170,
-   "comments": 64,
-   "publishedAt": 1793822114000,
-   "isAI": true,
-   "score": 39.4,
-   "hot": false
   },
   {
    "title": "Google will turn off search for schools that reject AI",
@@ -559,7 +601,21 @@
    "comments": 465,
    "publishedAt": 1793719547000,
    "isAI": true,
-   "score": 39.4,
+   "score": 39.2,
+   "hot": false
+  },
+  {
+   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+   "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50370654",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 170,
+   "comments": 64,
+   "publishedAt": 1793822114000,
+   "isAI": true,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -573,7 +629,7 @@
    "comments": 62,
    "publishedAt": 1793826319000,
    "isAI": true,
-   "score": 39,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -587,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -601,7 +657,7 @@
    "comments": 211,
    "publishedAt": 1793814731000,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -615,7 +671,7 @@
    "comments": 170,
    "publishedAt": 1793741204000,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -629,21 +685,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.3,
-   "hot": false
-  },
-  {
-   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-   "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-   "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-   "publishedAt": 1793946512000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 38.2,
+   "score": 38,
    "hot": false
   },
   {
@@ -657,7 +699,35 @@
    "comments": 60,
    "publishedAt": 1793742053000,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.8,
+   "hot": false
+  },
+  {
+   "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+   "url": "https://news.ycombinator.com/item?id=50352757",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50352757",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 526,
+   "comments": 163,
+   "publishedAt": 1793717621000,
+   "isAI": true,
+   "score": 37.8,
+   "hot": false
+  },
+  {
+   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+   "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+   "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+   "publishedAt": 1793946512000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -671,22 +741,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
-  },
-  {
-   "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-   "url": "https://news.ycombinator.com/item?id=50352757",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50352757",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 526,
-   "comments": 163,
-   "publishedAt": 1793717621000,
-   "isAI": true,
-   "score": 38,
-   "hot": false
   },
   {
    "title": "Servo의 9월 업데이트: , 둥근 사각형 등",
@@ -699,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -713,7 +769,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -727,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": true
   },
   {
@@ -741,8 +797,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "MS 그림판, 클릭 없이 원격 코드 실행 가능한 취약점 발견",
@@ -755,8 +811,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
@@ -765,25 +821,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 118,
+   "engagement": 126,
    "comments": 17,
    "publishedAt": 1793884049000,
    "isAI": false,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "A thousand fewer paths to root",
-   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-   "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-   "publishedAt": 1793779200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 36.5,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -797,7 +839,21 @@
    "comments": 246,
    "publishedAt": 1793724449000,
    "isAI": false,
-   "score": 36.4,
+   "score": 36.2,
+   "hot": false
+  },
+  {
+   "title": "A thousand fewer paths to root",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+   "publishedAt": 1793779200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -811,7 +867,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.2,
+   "score": 36,
    "hot": false
   },
   {
@@ -825,7 +881,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 36,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -835,11 +891,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 105,
+   "engagement": 107,
    "comments": 35,
    "publishedAt": 1793813513000,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -853,7 +909,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.3,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -867,7 +923,7 @@
    "comments": 172,
    "publishedAt": 1793806111000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -881,7 +937,7 @@
    "comments": 223,
    "publishedAt": 1793816560000,
    "isAI": false,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -895,7 +951,7 @@
    "comments": 318,
    "publishedAt": 1793729471000,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -909,7 +965,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -923,7 +979,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -937,7 +993,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -951,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -965,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -979,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -993,7 +1049,7 @@
    "comments": 104,
    "publishedAt": 1793790852000,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1007,7 +1063,7 @@
    "comments": 321,
    "publishedAt": 1793658647000,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1021,7 +1077,7 @@
    "comments": 232,
    "publishedAt": 1793628162000,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1035,35 +1091,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217096",
-   "summary": "엔비디아가 미국의 노후 전화국 건물을 AI 데이터센터로 개조해 20개 주에 걸친 분산형 네트워크를 구축하는 방안을 추진하고 있다. 신규 데이터센터 건설에 필요한 시간과 비용, 인허가 부담을 줄이고 기존 통신시설에 남아 있는 전력과 통신 인프라를 활용하려는 전략이다.디 인포메이션은 5일(현지시간) 엔비디아가 사모펀드 아폴로 글로벌 매니지먼트와 손잡고 아폴로가 소유한 광대역 통신업체 브라이트스피드(Brightspeed)의 기존 시설을 AI 데이터센터로 전환하는 방안을 논의하고 있다고 보도했다.브라이트스피드는 미국 전역에 음성·데이터 통",
-   "publishedAt": 1793953500000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, AI 자기개선 가속 징후…개발 속도 2배·미공개 모델 3개 확인",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217080",
-   "summary": "앤트로픽이 AI를 활용해 차세대 모델의 성능 개선 속도를 약 2배 높였다는 연구 결과가 나왔다. 최근 훈련을 마친 미공개 모델 3개도 확인돼, AI가 더 뛰어난 AI를 개발하는 재귀적 자기개선(RSI)이 현실화할 가능성에 관심이 쏠리고 있다.AI 안전 연구기관 METR은 5일(현지시간) 앤트로픽의 AI 연구개발 가속에 대한 독립 평가 보고서를 공개하고, 지난해 10월 이후 앤트로픽의 모델 성능 개선 속도가 이전보다 약 1.9배 빨라졌다고 밝혔다. 이는 과거 약 2년 동안 이뤄졌던 수준의 성능 향상을 최근에는 1년 만에 달성했다는 의",
-   "publishedAt": 1793953264000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1077,7 +1105,35 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
+   "hot": false
+  },
+  {
+   "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217096",
+   "summary": "엔비디아가 미국의 노후 전화국 건물을 AI 데이터센터로 개조해 20개 주에 걸친 분산형 네트워크를 구축하는 방안을 추진하고 있다. 신규 데이터센터 건설에 필요한 시간과 비용, 인허가 부담을 줄이고 기존 통신시설에 남아 있는 전력과 통신 인프라를 활용하려는 전략이다.디 인포메이션은 5일(현지시간) 엔비디아가 사모펀드 아폴로 글로벌 매니지먼트와 손잡고 아폴로가 소유한 광대역 통신업체 브라이트스피드(Brightspeed)의 기존 시설을 AI 데이터센터로 전환하는 방안을 논의하고 있다고 보도했다.브라이트스피드는 미국 전역에 음성·데이터 통",
+   "publishedAt": 1793953500000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.8,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, AI 자기개선 가속 징후…개발 속도 2배·미공개 모델 3개 확인",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217080",
+   "summary": "앤트로픽이 AI를 활용해 차세대 모델의 성능 개선 속도를 약 2배 높였다는 연구 결과가 나왔다. 최근 훈련을 마친 미공개 모델 3개도 확인돼, AI가 더 뛰어난 AI를 개발하는 재귀적 자기개선(RSI)이 현실화할 가능성에 관심이 쏠리고 있다.AI 안전 연구기관 METR은 5일(현지시간) 앤트로픽의 AI 연구개발 가속에 대한 독립 평가 보고서를 공개하고, 지난해 10월 이후 앤트로픽의 모델 성능 개선 속도가 이전보다 약 1.9배 빨라졌다고 밝혔다. 이는 과거 약 2년 동안 이뤄졌던 수준의 성능 향상을 최근에는 1년 만에 달성했다는 의",
+   "publishedAt": 1793953264000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1091,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1105,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1119,7 +1175,20 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
+   "hot": false
+  },
+  {
+   "title": "Maybe we'll get cheap RAM for Christmas after all!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 29.2,
+   "publishedAt": 1793916025000,
+   "isAI": true,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1133,7 +1202,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1147,7 +1216,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1161,7 +1230,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1175,7 +1244,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1189,7 +1258,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1203,7 +1272,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32,
    "hot": false
   },
   {
@@ -1217,48 +1286,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "구글, 13세 학생 자살 계획에 피소…학교 지급 노트북서 제미나이 사용",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217100",
-   "summary": "학교에서 지급한 노트북으로 AI 챗봇 '제미나이'를 이용하던 13세 학생이 수개월간 자살 관련 대화를 나누고 실제 자살을 계획했다는 의혹으로 구글이 피소됐다. 부모는 구글이 학교 교육 환경에 AI 기능을 적극적으로 도입하면서도 위험성을 제대로 알리지 않았고, 챗봇이 학생의 자해와 자살 충동을 적절히 차단하지 못했다고 주장했다.블룸버그와 뉴욕타임스(NYT) 등에 따르면, 미국 노스캐롤라이나주에 거주하는 학생의 부모는 지난 2일(현지시간) 캘리포니아주 법원에 구글을 상대로 손해배상 소송을 제기했다.소장에서 엠마라는 가명으로 등장하는 학",
-   "publishedAt": 1793944185000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
-   "url": "https://huggingface.co/papers/2611.08449",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 58,
-   "summary": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one co",
-   "publishedAt": 1793818800000,
-   "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "미 하원, 젠슨 황 의회 비공개 브리핑 요청...중국 여성 사업가와의 관계 조사",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217099",
-   "summary": "미국 공화당 하원의원들이 젠슨 황 엔비디아 CEO에게 중국 여성 사업가와의 관계 및 중국으로의 정보 유출 의혹과 관련해 의회 비공개 브리핑을 요청했다. 해당 여성이 베이징에 정보를 전달했다는 보도가 나오면서 미국의 첨단 AI 반도체 기술과 국가 안보에 미칠 영향에 대한 우려가 커진 데 따른 것이다.로이터는 5일(현지시간) 브라이언 마스트 하원 외교위원장과 존 물레나르 중국특별위원회 위원장, 에릭 크로퍼드 하원 정보위원장이 황 CEO에게 서한을 보내 오는 18일 비공개 브리핑을 요청했다고 보도했다.4일 전달된 이번 요청은 뉴욕타임스(",
-   "publishedAt": 1793943311000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.2,
+   "score": 32,
    "hot": false
   },
   {
@@ -1272,7 +1300,48 @@
    "comments": 108,
    "publishedAt": 1793715252000,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
+   "hot": false
+  },
+  {
+   "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+   "url": "https://huggingface.co/papers/2611.08449",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 58,
+   "summary": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one co",
+   "publishedAt": 1793818800000,
+   "isAI": true,
+   "score": 31.9,
+   "hot": false
+  },
+  {
+   "title": "구글, 13세 학생 자살 계획에 피소…학교 지급 노트북서 제미나이 사용",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217100",
+   "summary": "학교에서 지급한 노트북으로 AI 챗봇 '제미나이'를 이용하던 13세 학생이 수개월간 자살 관련 대화를 나누고 실제 자살을 계획했다는 의혹으로 구글이 피소됐다. 부모는 구글이 학교 교육 환경에 AI 기능을 적극적으로 도입하면서도 위험성을 제대로 알리지 않았고, 챗봇이 학생의 자해와 자살 충동을 적절히 차단하지 못했다고 주장했다.블룸버그와 뉴욕타임스(NYT) 등에 따르면, 미국 노스캐롤라이나주에 거주하는 학생의 부모는 지난 2일(현지시간) 캘리포니아주 법원에 구글을 상대로 손해배상 소송을 제기했다.소장에서 엠마라는 가명으로 등장하는 학",
+   "publishedAt": 1793944185000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.9,
+   "hot": false
+  },
+  {
+   "title": "미 하원, 젠슨 황 의회 비공개 브리핑 요청...중국 여성 사업가와의 관계 조사",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217099",
+   "summary": "미국 공화당 하원의원들이 젠슨 황 엔비디아 CEO에게 중국 여성 사업가와의 관계 및 중국으로의 정보 유출 의혹과 관련해 의회 비공개 브리핑을 요청했다. 해당 여성이 베이징에 정보를 전달했다는 보도가 나오면서 미국의 첨단 AI 반도체 기술과 국가 안보에 미칠 영향에 대한 우려가 커진 데 따른 것이다.로이터는 5일(현지시간) 브라이언 마스트 하원 외교위원장과 존 물레나르 중국특별위원회 위원장, 에릭 크로퍼드 하원 정보위원장이 황 CEO에게 서한을 보내 오는 18일 비공개 브리핑을 요청했다고 보도했다.4일 전달된 이번 요청은 뉴욕타임스(",
+   "publishedAt": 1793943311000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1286,7 +1355,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1300,7 +1369,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1314,20 +1383,6 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "Debian apt security update (man-in-the-middle)",
-   "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50366575",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 146,
-   "comments": 31,
-   "publishedAt": 1793804654000,
-   "isAI": false,
    "score": 31.7,
    "hot": false
   },
@@ -1342,63 +1397,7 @@
    "comments": 69,
    "publishedAt": 1793740803000,
    "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50339494",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 352,
-   "comments": 271,
-   "publishedAt": 1793637629000,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "카카오, 의사결정 모델 ‘카나나-2-v-디사이드’ 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217087",
-   "summary": "타입세이프 AI의 ‘제브’와 업스테이지의 ‘솔라 디사이드’에 이어 카카오도 AI 에이전트용 의사결정 모델을 내놨다.카카오(대표 정신아)는 AI 의사결정 지원용 멀티모달 모델 ‘카나나-2-v-디사이드’를 허깅페이스에 오픈소스로 공개했다고 6일 밝혔다.의사결정 모델은 문장 대신 확률과 선택 및 점수 등 규격화된 형태로 판단 결과를 제공해 AI 에이전트의 연속적인 판단에 활용된다.카나나-2-v-디사이드는 카카오의 멀티모달 언어모델 ‘카나나-2-v-3b’를 기반으로 개발됐다. 텍스트와 이미지를 함께 이해해 고객 문의 분류와 에이전트 도구",
-   "publishedAt": 1793938200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "Scaling Git at OpenAI",
-   "url": "https://openai.com/index/scaling-git-at-openai/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50345924",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 271,
-   "comments": 181,
-   "publishedAt": 1793663276000,
-   "isAI": true,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "메타 \"중간선거 이후 미국 데이터센터 건설 어려워져\"...해외 투자 검토",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217093",
-   "summary": "미국 중간선거에서 데이터센터 건설에 반대하는 민주당이 약진하면서 미국 내 AI 인프라 확충에 제동이 걸릴 수 있다는 전망이 나왔다. 메타는 신규 데이터센터 건설에 대한 정부 심사가 강화될 것으로 보고 해외 투자 확대까지 검토하고 있다.디나 파월 매코믹 메타 사장 겸 부회장은 5일(현지시간) 미국 캘리포니아주 나파에서 열린 'WSJ 테크' 컨퍼런스에서 \"앞으로 데이터센터 건설은 더 어려워질 것\"이라고 말했다. 중간선거에서 민주당이 상·하원과 주요 주지사 선거에서 승리하면서 신규 사업에 대한 규제와 심사가 까다로워질 것이라는 설명이다.",
-   "publishedAt": 1793936415000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.6,
+   "score": 31.5,
    "hot": false
   }
  ]
