@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794051540745,
+ "updatedAt": 1794055196719,
  "week": "2026-W45",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1575,
+   "engagement": 1577,
    "comments": 504,
    "publishedAt": 1793917035000,
    "isAI": true,
-   "score": 54.7,
+   "score": 54.3,
    "hot": false
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 318,
-   "comments": 273,
+   "engagement": 328,
+   "comments": 289,
    "publishedAt": 1793996843000,
    "isAI": true,
-   "score": 53.9,
+   "score": 53.6,
    "hot": true
   },
   {
@@ -38,10 +38,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 283,
-   "comments": 567,
+   "comments": 569,
    "publishedAt": 1793984076000,
    "isAI": true,
-   "score": 51.2,
+   "score": 50.7,
    "hot": true
   },
   {
@@ -51,17 +51,31 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 340,
-   "comments": 231,
+   "engagement": 343,
+   "comments": 233,
    "publishedAt": 1793972127000,
    "isAI": true,
-   "score": 51,
+   "score": 50.6,
    "hot": true
   },
   {
-   "title": "Software Line Specialist - AI 에이전트가 해결하지 못한 코드 문제를 고치는 개발자",
+   "title": "Devvm.dev: 프로젝트마다 하나의 VM",
+   "url": "https://news.hada.io/topic?id=36746&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "devvm 은 프로젝트별로 도구 체인을 갖춘 격리 VM을 만들어, 개발자나 코딩 에이전트가 바로 작업할 수 있게 하는 무료 오픈소스 도구임 프로젝트 파일을 바탕으로 도구 체인을 자동 선택 하며, Claude Code, Codex, opencode를 호스트에 설치하지 않고 VM 안에서 실행할 수 있음 기본적으로 허용 목록 기반 네트워크 를 사용하고 홈 디렉터리 접근을 제한하며, --clone 을 쓰면 호스트 작업 트리 대신 VM 전용 저장소 복제본에서 작업함 에이전트의 인증 정보는 호스트에 유지 하고 VM에는 대체 값을 전달하며, 외",
+   "publishedAt": 1794051167000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.4,
+   "hot": true
+  },
+  {
+   "title": "Software Line Specialist - AI가 못 고친 코드를 고치는 사람을 구합니다",
    "url": "https://news.hada.io/topic?id=36742&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "ACME Inc.가 TypeScript 시니어 코드 전문가 를 모집함. AI 에이전트가 해결하지 못한 복잡한 문제를 코드를 직접 읽고 수정하는 역할임 지난 2년간 AI 우선 방식 으로 운영하며 영어로 작업의 99.5%를 해결했지만, 프롬프트가 통하지 않거나 에이전트가 반복에 빠지는 나머지 0.5%를 맡길 엔지니어가 필요함 담당자는 코드, 로그, 데이터베이스를 조사하고 수정안 작성부터 테스트, 검토, 배포까지 독립적으로 수행 하며, 에이전트 학습용 사후 분석도 작성함 2022년 이전 TypeScript 경력 5년 이상 을 요구하며, ",
+   "summary": "2028년의 개발자 채용 공고를 흉내 낸 풍자 기술 스택이 ‘영어’인 스타트업에서 AI가 해결하지 못한 마지막 0.5% 를 맡을 TypeScript 개발자를 구함 코드, 로그, DB를 직접 살펴보고 수정부터 테스트, 리뷰, 배포까지 맡음 2022년 이전 TypeScript 경력 5년 이상 을 요구하며, 종이 시험과 AI 없는 실시간 디버깅을 치름 병렬 개발이 기본인 회사에서 이 직무만큼은 한 번에 한 문제 에 집중할 수 있음 AI가 막히면 IDE를 열어 주세요 가상의 스타트업 ACME Inc.는 소상공인의 재무 현황을 모니터링하는 ",
    "publishedAt": 1794042080000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -69,7 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.1,
    "hot": true
   },
   {
@@ -83,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -97,21 +111,7 @@
    "comments": 224,
    "publishedAt": 1793920197000,
    "isAI": true,
-   "score": 47.6,
-   "hot": false
-  },
-  {
-   "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-   "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50390124",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 636,
-   "comments": 415,
-   "publishedAt": 1793957232000,
-   "isAI": false,
-   "score": 47.5,
+   "score": 47.2,
    "hot": false
   },
   {
@@ -121,12 +121,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 196,
-   "comments": 158,
+   "engagement": 205,
+   "comments": 172,
    "publishedAt": 1794028818000,
    "isAI": false,
-   "score": 47.2,
+   "score": 47.1,
    "hot": true
+  },
+  {
+   "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+   "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50390124",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 636,
+   "comments": 417,
+   "publishedAt": 1793957232000,
+   "isAI": false,
+   "score": 47.1,
+   "hot": false
   },
   {
    "title": "Show GN: Heirmos – Claude Code와 Codex가 같은 기억을 쓰게 하는 플러그인",
@@ -139,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 45,
    "hot": true
   },
   {
@@ -153,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.1,
    "hot": true
   },
   {
@@ -167,8 +181,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 44.1,
+   "hot": false
   },
   {
    "title": "대부분의 AI 스타트업은 살아남지 못한다 - 살아남는 회사를 만드는 방법 [영상]",
@@ -181,8 +195,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "Craft Anything - 웹사이트, 앱, 게임을 분석하고 AI로 재구현하는 도구",
@@ -195,8 +209,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.5,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "세계에서 가장 AI에 진심인 회사를 만든 방법",
@@ -209,8 +223,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -233,39 +247,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 129,
+   "engagement": 130,
    "comments": 59,
    "publishedAt": 1793974389000,
    "isAI": true,
-   "score": 43.9,
-   "hot": false
-  },
-  {
-   "title": "Anthropic IPO 투자자들, 기업가치를 낮게는 약 1,430조원으로 예상",
-   "url": "https://news.hada.io/topic?id=36726&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Anthropic 의 잠재 IPO 투자자 일부가 기업가치를 낮게는 1조 1,000억 달러($1,100b) 로 검토 중인 것으로 관계자를 통해 전해짐 선거 이후 거센 매도세 에 부딪히면서 잠재 투자자들이 예상 기업가치를 재검토하고 있음 사안에 정통한 관계자들에 따르면, 잠재 투자자들은 1조 2,000억~1조 3,000억 달러 수준의 기업가치를 논의 중임 Anthropic은 다음 주 공식 IPO 마케팅 개시를 앞두고 있음 해당 금액은 잠재 투자자들이 검토 중인 평가액 으로, 확정된 IPO 기업가치가 아님 투자자들의 기업가치 재검토 An",
-   "publishedAt": 1794004838000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 43.7,
-   "hot": false
-  },
-  {
-   "title": "불확실한 사례만 Opus에 맡긴 Jev, 비용은 4분의 1로",
-   "url": "https://news.hada.io/topic?id=36725&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "서로 다른 사람의 고객 기록을 잘못 합쳤는지 판별하는 작업 에 저렴한 결정 모델 Jev를 먼저 사용하고, 판단 점수가 애매한 사례만 Opus에 넘기는 방식을 시험함. 평가는 합성 데이터로 진행 쉬운 테스트에서는 전체의 22%만 Opus로 재검토해 정확도 98.8% 를 기록. Opus 단독의 99.0%에 근접하면서, 1,000건당 비용은 3.86달러에서 0.88달러 로 줄어듦 핵심은 틀릴 가능성이 있는 사례를 골라내는 능력 이었음. Jev의 오답은 판단 점수 50% 부근에 몰렸지만, GPT-6 Luna는 틀린 사례에도 높은 확신을 보",
-   "publishedAt": 1794004658000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 43.7,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -275,11 +261,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 201,
-   "comments": 200,
+   "engagement": 203,
+   "comments": 202,
    "publishedAt": 1793942344000,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -289,11 +275,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 225,
+   "engagement": 229,
    "comments": 42,
    "publishedAt": 1793983829000,
    "isAI": false,
-   "score": 42.7,
+   "score": 42.5,
+   "hot": true
+  },
+  {
+   "title": "모든 Mac에는 문서화되지 않은 가족 구성원 분류기가 탑재돼 있음",
+   "url": "https://news.hada.io/topic?id=36748&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "macOS의 두 데몬이 연락처, 사진, 일정, 통신 기록 등을 결합해 사용자와 주변 사람의 개인 지식 그래프 를 기기 안에 구축함 가족 관계 추론에는 XGBoost 분류기 2개 가 쓰이며, 신원 정보뿐 아니라 요일과 시간대별 연락 패턴, 사진 동시 등장 등 144개 특징 을 입력으로 사용함 데이터는 전체 디스크 접근 권한 으로 보호되는 위치에 평문 SQLite 데이터베이스로 저장됨. 다만 선언된 모든 추론 기능이 실제로 작동하는지는 확인되지 않았음 연락처나 사실을 삭제해도 철회된 행과 별도 관계 점수가 남을 수 있으며, 보존 기간과",
+   "publishedAt": 1794054892000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 42,
+   "hot": true
+  },
+  {
+   "title": "Show GN: Y-Term - Your terminal, augmented (확장형 터미널 에뮬레이터)",
+   "url": "https://news.hada.io/topic?id=36747&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "제 맘대로(?) 만들어 쓰고 있는 터미널 에뮬레이터 입니다. 요즘 좋은 터미널들이 많죠. tmux, cmux, herdr 등등. 한동안 이것 저것 쓰다가, 내가 좋아하는 기능들만 넣어서 직접 만들어 써볼까 하는 생각이 들었습니다. 첫 버전을 만든다음 매일 매일 쓰면서 필요한 기능들, 아쉬운 기능들을 계속 추가하면서 다듬고 있고요. 제가 생각하고 있는 개발 방향은 Augmented (증강, 확장) 터미널입니다. 제가 터미널을 하루 종일 쓰기는 하지만, VIM이나 Emacs 쓰는 분들처럼 정말 열심히 터미널을 쓰는 건 아니거든요. 풀 ",
+   "publishedAt": 1794053492000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
    "hot": true
   },
   {
@@ -303,12 +317,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1292,
+   "engagement": 1293,
    "comments": 748,
    "publishedAt": 1793793137000,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.5,
    "hot": false
+  },
+  {
+   "title": "Asahi Linux 개발 현황: Linux 7.3",
+   "url": "https://news.hada.io/topic?id=36744&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "M3 지원이 정식 공개 되어 설치 시 EXPERT 플래그가 필요 없어짐. DCP 활성화로 성능과 배터리 사용 시간이 개선되고, 절전과 MacBook 노치 주변 화면 활용도 가능해짐 업스트림 기여 가 확대되어 macaudio와 AVD 드라이버가 검토 단계에 진입함. M4 Pro/Max와 M5의 초기 Devicetree도 제출됐지만, 현재는 TTY로 부팅할 수 있는 최소 수준임 Thunderbolt 초기 지원 이 사용자에게 배포되기 시작함. USB3, XDomain, Thunderbolt Networking만 지원하며, 대부분의 Thu",
+   "publishedAt": 1794047664000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
+   "hot": true
+  },
+  {
+   "title": "Bong: 주소창 단축키로 원하는 사이트를 바로 검색하는 셀프호스팅 가능한 리다이렉터",
+   "url": "https://news.hada.io/topic?id=36743&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "주소창에 .yt 검색어 , .gh 검색어 처럼 짧은 접두사를 붙여 유튜브·깃허브 등 원하는 사이트의 검색 결과로 바로 이동시켜 주는 도구 DuckDuckGo의 !bang 기능을 셀프호스팅으로 구현 OpenSearch 를 지원해 브라우저 기본 검색엔진 등록 및 자동완성(Suggest)이 가능하고, 한글 초성 매칭 ·부분 입력·오타 보정을 지원 Go로 작성되어 가볍고, 별도 DB 없이 YAML 파일 하나로 나만의 검색 단축키를 손쉽게 정의 가능",
+   "publishedAt": 1794046877000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41,
+   "hot": true
   },
   {
    "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -321,7 +363,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -331,11 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 330,
-   "comments": 126,
+   "engagement": 331,
+   "comments": 127,
    "publishedAt": 1793938669000,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -349,7 +391,7 @@
    "comments": 2,
    "publishedAt": 1793889860000,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -363,7 +405,7 @@
    "comments": 123,
    "publishedAt": 1793982692000,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -377,7 +419,7 @@
    "comments": 65,
    "publishedAt": 1793951258000,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -391,7 +433,7 @@
    "comments": 189,
    "publishedAt": 1793864670000,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -405,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -415,11 +457,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 133,
+   "engagement": 134,
    "comments": 135,
    "publishedAt": 1793993064000,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.3,
+   "hot": false
+  },
+  {
+   "title": "Australian universities are creating AI-native graduates",
+   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+   "publishedAt": 1793898000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -433,22 +489,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
-  },
-  {
-   "title": "Australian universities are creating AI-native graduates",
-   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-   "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-   "publishedAt": 1793898000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 38.8,
-   "hot": false
   },
   {
    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
@@ -461,20 +503,6 @@
    "comments": 494,
    "publishedAt": 1793726557000,
    "isAI": true,
-   "score": 38.6,
-   "hot": false
-  },
-  {
-   "title": "Discord is ditching Electron and its new app uses less RAM",
-   "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50378625",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 489,
-   "comments": 424,
-   "publishedAt": 1793883928000,
-   "isAI": false,
    "score": 38.4,
    "hot": false
   },
@@ -489,7 +517,21 @@
    "comments": 200,
    "publishedAt": 1793787027000,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.2,
+   "hot": false
+  },
+  {
+   "title": "Discord is ditching Electron and its new app uses less RAM",
+   "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50378625",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 489,
+   "comments": 425,
+   "publishedAt": 1793883928000,
+   "isAI": false,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -503,7 +545,7 @@
    "comments": 191,
    "publishedAt": 1793901601000,
    "isAI": true,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -517,13 +559,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
-   "title": "Libghostty 1.0 - 터미널 에뮬레이션 C 라이브러리와 ABI 안정화",
+   "title": "libghostty 1.0 공개 - Ghostty의 터미널 엔진을 안정적인 C 라이브러리로",
    "url": "https://news.hada.io/topic?id=36736&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Ghostty의 코어에서 분리한 터미널 에뮬레이션 C 라이브러리 libghostty-vt 가 1.0에 도달 했으며, 라이브러리와 C ABI 모두 안정화됨 JetBrains IDE 터미널 에 이미 적용됐고, Neovim의 libvterm 대체 PR도 승인된 상태임. 무료 및 상용 제품 수백 개에서 사용되며 TUI 렌더링과 퍼징에도 활용됨 시맨틱 버저닝과 엄격한 ABI 호환성 을 보장하며, API 설계와 CI 검증, 심볼 버전 관리로 배포판 패키징과 동적 링크를 지원함 MIT 라이선스 이며 기본 런타임 의존성은 libc뿐임. Linux",
+   "summary": "Ghostty의 터미널 엔진을 분리한 libghostty-vt 가 1.0에 도달 함. 다른 앱도 이 라이브러리를 연결해 자체 터미널을 구현할 수 있음 C ABI가 안정화 돼 배포판이 라이브러리를 별도 패키지로 제공하고, 앱은 이를 동적으로 연결할 수 있음. Ghostty 앱과 별도로 릴리스하며, 오프라인 빌드에 필요한 소스와 의존성도 제공함 JetBrains IDE의 내장 터미널에 이미 적용 됐으며, Turborepo의 작업 출력 렌더링과 TUI 프로그램 테스트에도 쓰임 Neovim도 libvterm 을 교체하는 PR을 승인 함. ",
    "publishedAt": 1794018811000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -541,12 +583,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 156,
+   "engagement": 157,
    "comments": 104,
    "publishedAt": 1793965206000,
    "isAI": false,
-   "score": 38,
-   "hot": true
+   "score": 37.7,
+   "hot": false
   },
   {
    "title": "Ask HN: What's your current AI agentic setup?",
@@ -555,11 +597,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 546,
+   "engagement": 547,
    "comments": 678,
    "publishedAt": 1793803042000,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -573,7 +615,7 @@
    "comments": 899,
    "publishedAt": 1793643688000,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -587,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -601,21 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
-   "hot": true
-  },
-  {
-   "title": "Omarchy 4.5 - 플로팅 데스크톱, 50개 언어와 Mac 네이티브 설치 지원",
-   "url": "https://news.hada.io/topic?id=36729&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "개발자용 Linux 배포판 Omarchy에 창을 자유롭게 겹쳐 배치하는 플로팅 모드와 독 이 추가됨. 작업 공간마다 타일링, 스크롤링, 플로팅 방식을 따로 선택할 수 있음 M1/M2/M3/Neo MacBook에 macOS를 유지하면서 네이티브 설치 할 수 있음. macOS용 설치 앱을 제공해 USB나 터미널 명령 없이 설치하며, M4 이후 기종 지원은 개발 중임 메뉴와 데스크톱에 50개 언어 를 지원하고, 설치 단계부터 한국어를 포함한 동아시아 입력기 5종과 글꼴 을 설정할 수 있음 패키지를 하나씩 설치하던 방식에서 사전 제작한 시",
-   "publishedAt": 1794010821000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.3,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -629,21 +657,21 @@
    "comments": 289,
    "publishedAt": 1793781989000,
    "isAI": true,
-   "score": 37.2,
+   "score": 37,
    "hot": false
   },
   {
-   "title": "UEFI를 활용한 베어메탈 프로그래밍 첫걸음",
-   "url": "https://news.hada.io/topic?id=36727&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Linux 워크스테이션 에서 UEFI 펌웨어를 사용하는 PC용 베어메탈 애플리케이션을 개발하는 연재임 숙련된 Linux 개발자 를 대상으로 하며, UEFI 사전 지식은 필요하지 않음 개발에 필요한 소프트웨어 도구와 컴파일/링크 방법 을 다룸 EFI 시스템 파티션 , 부팅 가능한 디스크 제작, 기본 파일 관리까지 다룸 각 편이 앞선 편의 내용을 전제로 하므로 순서대로 읽어야 하며, 순서를 건너뛰면 이해하기 어려울 수 있음 대상과 학습 범위 UEFI 펌웨어가 있는 PC 를 대상으로, Linux 워크스테이션에서 베어메탈 애플리케이션을 개",
-   "publishedAt": 1794005018000,
+   "title": "Omarchy 4.5 - 플로팅 데스크톱, 50개 언어와 Mac 네이티브 설치 지원",
+   "url": "https://news.hada.io/topic?id=36729&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "개발자용 Linux 배포판 Omarchy에 창을 자유롭게 겹쳐 배치하는 플로팅 모드와 독 이 추가됨. 작업 공간마다 타일링, 스크롤링, 플로팅 방식을 따로 선택할 수 있음 M1/M2/M3/Neo MacBook에 macOS를 유지하면서 네이티브 설치 할 수 있음. macOS용 설치 앱을 제공해 USB나 터미널 명령 없이 설치하며, M4 이후 기종 지원은 개발 중임 메뉴와 데스크톱에 50개 언어 를 지원하고, 설치 단계부터 한국어를 포함한 동아시아 입력기 5종과 글꼴 을 설정할 수 있음 패키지를 하나씩 설치하던 방식에서 사전 제작한 시",
+   "publishedAt": 1794010821000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -657,35 +685,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "2000년대 초, 게임을 만드는 아이로 산다는 것",
-   "url": "https://news.hada.io/topic?id=36724&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "The Games Factory 는 대규모 전문가 팀만 게임을 만들 수 있다고 생각하던 어린 Jay Tholen에게 직접 가상 세계를 만드는 길을 열어줌 학교생활의 어려움과 잦은 이사 속에서 Klik 커뮤니티 가 사회생활의 중심이 됐고, 게임과 그림을 공유하며 인정받고 싶다는 마음이 창작을 이끌었음 2001~2003년 여러 게임을 공개했지만, 기본 이동 기능의 버그 와 부족한 구현 지식 때문에 프로젝트를 중단하거나 미완성 버전을 배포하는 일이 반복됨 온라인 동료와 더 큰 게임을 시도했으나 개인 사정과 컴퓨터 사용 제한으로 작업이 줄",
-   "publishedAt": 1794001250000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "생존의 한계를 넘어 살아가기: 거대한 구덩이 함정에 갇힌 숲개미들 (2016)",
-   "url": "https://news.hada.io/topic?id=36723&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "생존의 한계를 넘어 살아가기: 거대한 구덩이 함정에 갇힌 숲개미들 (2016)",
-   "publishedAt": 1794001070000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.3,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -698,20 +698,6 @@
    "lang": "en",
    "engagement": null,
    "baseWeight": 50,
-   "isAI": true,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "Crusoe sells troubled Wyoming data center project to Google",
-   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-   "summary": "The deal highlights the challenges of developing massive AI data centers.",
-   "publishedAt": 1794015628000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
    "isAI": true,
    "score": 36,
    "hot": false
@@ -727,7 +713,21 @@
    "comments": 209,
    "publishedAt": 1793708477000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
+   "hot": false
+  },
+  {
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "summary": "The deal highlights the challenges of developing massive AI data centers.",
+   "publishedAt": 1794015628000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -741,7 +741,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -755,7 +755,7 @@
    "comments": 214,
    "publishedAt": 1793727600000,
    "isAI": true,
-   "score": 35.2,
+   "score": 35,
    "hot": false
   },
   {
@@ -769,7 +769,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -783,7 +783,7 @@
    "comments": 44,
    "publishedAt": 1793893917000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -797,7 +797,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -811,35 +811,7 @@
    "comments": 469,
    "publishedAt": 1793719547000,
    "isAI": true,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "Cult.fit builds operational muscle with Codex",
-   "url": "https://openai.com/index/cultfit-builds-with-codex",
-   "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-   "publishedAt": 1793908800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": false,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "Franklin Templeton uses OpenAI to support investment research",
-   "url": "https://openai.com/index/franklin-templeton",
-   "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-   "publishedAt": 1793836800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 34.3,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -853,7 +825,7 @@
    "comments": 92,
    "publishedAt": 1793805681000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34,
    "hot": false
   },
   {
@@ -864,10 +836,38 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 321,
-   "comments": 320,
+   "comments": 321,
    "publishedAt": 1793787814000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "Cult.fit builds operational muscle with Codex",
+   "url": "https://openai.com/index/cultfit-builds-with-codex",
+   "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+   "publishedAt": 1793908800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": false,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "Franklin Templeton uses OpenAI to support investment research",
+   "url": "https://openai.com/index/franklin-templeton",
+   "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+   "publishedAt": 1793836800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 34,
    "hot": false
   },
   {
@@ -881,7 +881,7 @@
    "comments": 122,
    "publishedAt": 1793812666000,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -895,7 +895,21 @@
    "comments": 223,
    "publishedAt": 1793806714000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organizatio",
+   "publishedAt": 1794054600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -909,7 +923,7 @@
    "comments": 27,
    "publishedAt": 1793934986000,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -923,7 +937,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -937,21 +951,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "How a Blue Wave midterm might reshape the AI industry",
-   "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-   "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
-   "publishedAt": 1793988000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.4,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -965,7 +965,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -979,7 +979,7 @@
    "comments": 170,
    "publishedAt": 1793741204000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   },
   {
@@ -993,7 +993,21 @@
    "comments": 163,
    "publishedAt": 1793717621000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "How a Blue Wave midterm might reshape the AI industry",
+   "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+   "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
+   "publishedAt": 1793988000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1007,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1021,21 +1035,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217132",
-   "summary": "오픈AI 출신 미라 무라티가 이끄는 씽킹 머신스 랩(Thinking Machines Lab)이 기존 모델보다 성능을 크게 높인 새로운 AI 모델을 공개했다. 중국 주요 오픈웨이트 모델과 경쟁할 수 있는 수준으로 평가되며, 기업이 자체 업무에 맞춰 AI를 개발할 수 있도록 모델 가중치도 공개할 계획이다.씽킹 머신스는 5일(현지시간) 공식 블로그를 통해 2세대 모델 '잉클링 2 스몰(Inkling 2 Small)'을 출시했다고 밝혔다. 총 5940억개의 매개변수를 갖춘 전문가 혼합(MoE) 모델로, 실제 추론에는 170억개만 활성화한다",
-   "publishedAt": 1794041142000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1049,7 +1049,7 @@
    "comments": 60,
    "publishedAt": 1793742053000,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1063,7 +1063,21 @@
    "comments": 64,
    "publishedAt": 1793822114000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217132",
+   "summary": "오픈AI 출신 미라 무라티가 이끄는 씽킹 머신스 랩(Thinking Machines Lab)이 기존 모델보다 성능을 크게 높인 새로운 AI 모델을 공개했다. 중국 주요 오픈웨이트 모델과 경쟁할 수 있는 수준으로 평가되며, 기업이 자체 업무에 맞춰 AI를 개발할 수 있도록 모델 가중치도 공개할 계획이다.씽킹 머신스는 5일(현지시간) 공식 블로그를 통해 2세대 모델 '잉클링 2 스몰(Inkling 2 Small)'을 출시했다고 밝혔다. 총 5940억개의 매개변수를 갖춘 전문가 혼합(MoE) 모델로, 실제 추론에는 170억개만 활성화한다",
+   "publishedAt": 1794041142000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1077,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1091,21 +1105,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "미 중간선거 후폭풍…민주당, 빅테크 대대적 조사·AI 규제 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217130",
-   "summary": "미국 중간선거에서 상·하원을 모두 장악한 민주당이 빅테크 기업에 대한 대규모 조사와 AI 규제 입법을 준비하고 있다. 트럼프 행정부와 긴밀한 관계를 맺어온 기업들의 정부 거래를 조사하는 동시에 AI 모델의 안전성, 데이터센터 전력 비용, 엔비디아의 중국 AI 칩 수출까지 규제 대상으로 삼을 계획이다.워싱턴포스트(WP)와 로이터, 블룸버그는 6일(현지시간) 민주당이 내년 1월 의회 운영권을 확보하면 주요 기술 기업을 상대로 청문회와 자료 제출 요구, AI 규제 입법에 나설 것이라고 보도했다.가장 먼저 주목받는 것은 트럼프 행정부와 빅",
-   "publishedAt": 1794037437000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1119,7 +1119,21 @@
    "comments": 62,
    "publishedAt": 1793826319000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "미 중간선거 후폭풍…민주당, 빅테크 대대적 조사·AI 규제 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217130",
+   "summary": "미국 중간선거에서 상·하원을 모두 장악한 민주당이 빅테크 기업에 대한 대규모 조사와 AI 규제 입법을 준비하고 있다. 트럼프 행정부와 긴밀한 관계를 맺어온 기업들의 정부 거래를 조사하는 동시에 AI 모델의 안전성, 데이터센터 전력 비용, 엔비디아의 중국 AI 칩 수출까지 규제 대상으로 삼을 계획이다.워싱턴포스트(WP)와 로이터, 블룸버그는 6일(현지시간) 민주당이 내년 1월 의회 운영권을 확보하면 주요 기술 기업을 상대로 청문회와 자료 제출 요구, AI 규제 입법에 나설 것이라고 보도했다.가장 먼저 주목받는 것은 트럼프 행정부와 빅",
+   "publishedAt": 1794037437000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1133,7 +1147,7 @@
    "comments": 213,
    "publishedAt": 1793814731000,
    "isAI": false,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1147,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.2,
+   "score": 32,
    "hot": false
   },
   {
@@ -1161,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1175,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1189,7 +1203,7 @@
    "comments": 30,
    "publishedAt": 1793884049000,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1203,7 +1217,7 @@
    "comments": 246,
    "publishedAt": 1793724449000,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1217,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1231,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 30.8,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1245,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1259,77 +1273,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.6,
-   "hot": false
-  },
-  {
-   "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217123",
-   "summary": "세계 최대 파운드리 업체 TSMC가 엔비디아의 요청으로 차세대 메모리인 '3D D램' 생산을 검토하고 있다. 실제 사업에 진출하면 삼성전자와 SK하이닉스, 마이크론이 주도하는 메모리 시장에 새로운 경쟁자가 등장하게 된다.디 인포메이션은 6일(현지시간) 사안에 정통한 소식통 2명을 인용해 TSMC가 최근 최대 고객사인 엔비디아의 요청에 따라 3D D램 생산 계획을 수립하기 시작했다고 보도했다.이번 움직임은 AI 반도체 수요 급증으로 메모리 공급 부족이 심화하면서 나왔다. D램 가격이 크게 오르자, 엔비디아와 애플 등 주요 반도체 설계",
-   "publishedAt": 1794014377000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "오픈AI CFO \"중간선거 결과와 관계없이 데이터센터 투자 계속할 것\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217119",
-   "summary": "오픈AI가 미국 중간선거에서 데이터센터 건설에 반대하는 민주당이 압승했음에도 AI 인프라 확장 계획을 유지하겠다고 밝혔다. 지역사회의 반발과 규제 강화 가능성이 커졌지만, 급증하는 AI 수요에 대응하려면 데이터센터 투자가 불가피하다는 입장이다.사라 프라이어 오픈AI CFO는 6일(현지시간) CNBC와의 인터뷰에서 \"중간선거 결과를 생각할 때도 고객 수요를 충족하기 위해 어떻게 투자를 지속할지 고민해야 한다\"고 말했다. 이어 \"필요한 컴퓨팅 자원을 확보할 수 있도록 지역사회와 관계를 구축하는 작업을 계속할 것\"이라고 강조했다.이번 중",
-   "publishedAt": 1794013409000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.4,
-   "hot": false
-  },
-  {
-   "title": "[AI카툰] Bob, Senior IT guy - 밥, 결혼정보회사에서 알바",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217124",
-   "summary": "글·그림 Dr. Alf",
-   "publishedAt": 1794013200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.4,
-   "hot": false
-  },
-  {
-   "title": "테슬라, 판매 부진 사이버트럭 접고 로보택시 역량 집중",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217118",
-   "summary": "테슬라가 판매 부진을 겪어온 전기 픽업트럭 사이버트럭 생산을 내년 중반부터 단계적으로 축소한다. 대신 자율주행 로보택시 사이버캡 생산을 확대해 AI와 로보틱스 중심으로 사업 구조를 전환한다는 계획이다.일론 머스크 CEO는 6일(현지시간) X를 통해 텍사스 기가팩토리의 사이버트럭 생산을 2027년 중반쯤 중단할 예정이라고 밝혔다. 생산 공간을 사이버캡에 할당하기 위한 조치다.사이버트럭 생산을 완전히 종료할지, 다른 공장으로 이전할지는 명확히 밝히지 않았다. 머스크는 한 이용자가 사이버트럭 생산 중단을 '한 시대의 종말'이라고 표현하자",
-   "publishedAt": 1794013029000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.4,
-   "hot": false
-  },
-  {
-   "title": "예진, 한국어 특화 8B AI 모델 공개…사전학습부터 독자 개발",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217114",
-   "summary": "AI 전문 예진(대표 고종현)은 한국어에 특화된 80억 매개변수 파운데이션 모델 ‘예진 8B v3’를 개발했다고 6일 밝혔다.예진 8B v3는 해외 공개 모델의 가중치를 쓰지 않고, 토크나이저 설계부터 사전학습까지 전 과정을 직접 수행한 프롬 스크래치 모델이다. 공개 모델 6종과 가중치를 비교한 결과, 유사도가 0.0014 이하로 기존 모델을 미세조정한 파생 모델이 아니라는 설명이다.학습에는 과학기술정보통신부와 정보통신산업진흥원(NIPA)의 ‘고성능 컴퓨팅 지원사업’으로 지원받은 엔비디아 H200 그래픽처리장치(GPU) 8장을 활용",
-   "publishedAt": 1794012900000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.4,
+   "score": 30.3,
    "hot": false
   },
   {
@@ -1343,7 +1287,77 @@
    "comments": 321,
    "publishedAt": 1793729471000,
    "isAI": true,
-   "score": 30.3,
+   "score": 30.2,
+   "hot": false
+  },
+  {
+   "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217123",
+   "summary": "세계 최대 파운드리 업체 TSMC가 엔비디아의 요청으로 차세대 메모리인 '3D D램' 생산을 검토하고 있다. 실제 사업에 진출하면 삼성전자와 SK하이닉스, 마이크론이 주도하는 메모리 시장에 새로운 경쟁자가 등장하게 된다.디 인포메이션은 6일(현지시간) 사안에 정통한 소식통 2명을 인용해 TSMC가 최근 최대 고객사인 엔비디아의 요청에 따라 3D D램 생산 계획을 수립하기 시작했다고 보도했다.이번 움직임은 AI 반도체 수요 급증으로 메모리 공급 부족이 심화하면서 나왔다. D램 가격이 크게 오르자, 엔비디아와 애플 등 주요 반도체 설계",
+   "publishedAt": 1794014377000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.2,
+   "hot": false
+  },
+  {
+   "title": "오픈AI CFO \"중간선거 결과와 관계없이 데이터센터 투자 계속할 것\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217119",
+   "summary": "오픈AI가 미국 중간선거에서 데이터센터 건설에 반대하는 민주당이 압승했음에도 AI 인프라 확장 계획을 유지하겠다고 밝혔다. 지역사회의 반발과 규제 강화 가능성이 커졌지만, 급증하는 AI 수요에 대응하려면 데이터센터 투자가 불가피하다는 입장이다.사라 프라이어 오픈AI CFO는 6일(현지시간) CNBC와의 인터뷰에서 \"중간선거 결과를 생각할 때도 고객 수요를 충족하기 위해 어떻게 투자를 지속할지 고민해야 한다\"고 말했다. 이어 \"필요한 컴퓨팅 자원을 확보할 수 있도록 지역사회와 관계를 구축하는 작업을 계속할 것\"이라고 강조했다.이번 중",
+   "publishedAt": 1794013409000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.1,
+   "hot": false
+  },
+  {
+   "title": "[AI카툰] Bob, Senior IT guy - 밥, 결혼정보회사에서 알바",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217124",
+   "summary": "글·그림 Dr. Alf",
+   "publishedAt": 1794013200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.1,
+   "hot": false
+  },
+  {
+   "title": "테슬라, 판매 부진 사이버트럭 접고 로보택시 역량 집중",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217118",
+   "summary": "테슬라가 판매 부진을 겪어온 전기 픽업트럭 사이버트럭 생산을 내년 중반부터 단계적으로 축소한다. 대신 자율주행 로보택시 사이버캡 생산을 확대해 AI와 로보틱스 중심으로 사업 구조를 전환한다는 계획이다.일론 머스크 CEO는 6일(현지시간) X를 통해 텍사스 기가팩토리의 사이버트럭 생산을 2027년 중반쯤 중단할 예정이라고 밝혔다. 생산 공간을 사이버캡에 할당하기 위한 조치다.사이버트럭 생산을 완전히 종료할지, 다른 공장으로 이전할지는 명확히 밝히지 않았다. 머스크는 한 이용자가 사이버트럭 생산 중단을 '한 시대의 종말'이라고 표현하자",
+   "publishedAt": 1794013029000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.1,
+   "hot": false
+  },
+  {
+   "title": "예진, 한국어 특화 8B AI 모델 공개…사전학습부터 독자 개발",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217114",
+   "summary": "AI 전문 예진(대표 고종현)은 한국어에 특화된 80억 매개변수 파운데이션 모델 ‘예진 8B v3’를 개발했다고 6일 밝혔다.예진 8B v3는 해외 공개 모델의 가중치를 쓰지 않고, 토크나이저 설계부터 사전학습까지 전 과정을 직접 수행한 프롬 스크래치 모델이다. 공개 모델 6종과 가중치를 비교한 결과, 유사도가 0.0014 이하로 기존 모델을 미세조정한 파생 모델이 아니라는 설명이다.학습에는 과학기술정보통신부와 정보통신산업진흥원(NIPA)의 ‘고성능 컴퓨팅 지원사업’으로 지원받은 엔비디아 H200 그래픽처리장치(GPU) 8장을 활용",
+   "publishedAt": 1794012900000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.1,
    "hot": false
   },
   {
@@ -1357,21 +1371,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.3,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽 IPO 예상 몸값 2조→1.1조달러…한 달 만에 45% 하락",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217122",
-   "summary": "앤트로픽의 기업공개(IPO)를 앞두고 투자자들의 기업가치 평가가 계속 낮아지고 있다. 최근 AI 관련주 급락 이후 일부 투자자는 기업가치를 1조1000억달러(약 1500조원)까지 낮게 평가했지만, 앤트로픽은 다음 주 예정된 IPO 로드쇼를 진행할 계획이다.블룸버그는 6일(현지시간) 앤트로픽 IPO 참여를 검토하는 투자자들이 기업가치를 1조2000억~1조3000억달러로 평가하고 있으며, 일부는 1조1000억달러까지 낮게 보고 있다고 보도했다. 이는 한때 거론됐던 최대 2조달러보다 45% 낮은 수준이다. 아직 최종 공모가격이 확정된 것",
-   "publishedAt": 1794011309000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.2,
+   "score": 30,
    "hot": false
   },
   {
@@ -1385,21 +1385,21 @@
    "comments": 232,
    "publishedAt": 1793628162000,
    "isAI": true,
-   "score": 30.1,
+   "score": 29.9,
    "hot": false
   },
   {
-   "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-   "url": "https://news.ycombinator.com/item?id=50368804",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50368804",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 111,
-   "comments": 36,
-   "publishedAt": 1793813513000,
+   "title": "앤트로픽 IPO 예상 몸값 2조→1.1조달러…한 달 만에 45% 하락",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217122",
+   "summary": "앤트로픽의 기업공개(IPO)를 앞두고 투자자들의 기업가치 평가가 계속 낮아지고 있다. 최근 AI 관련주 급락 이후 일부 투자자는 기업가치를 1조1000억달러(약 1500조원)까지 낮게 평가했지만, 앤트로픽은 다음 주 예정된 IPO 로드쇼를 진행할 계획이다.블룸버그는 6일(현지시간) 앤트로픽 IPO 참여를 검토하는 투자자들이 기업가치를 1조2000억~1조3000억달러로 평가하고 있으며, 일부는 1조1000억달러까지 낮게 보고 있다고 보도했다. 이는 한때 거론됐던 최대 2조달러보다 45% 낮은 수준이다. 아직 최종 공모가격이 확정된 것",
+   "publishedAt": 1794011309000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 30,
+   "score": 29.9,
    "hot": false
   }
  ]
