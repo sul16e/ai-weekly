@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794025959884,
+ "updatedAt": 1794029616220,
  "week": "2026-W45",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1561,
-   "comments": 496,
+   "engagement": 1563,
+   "comments": 500,
    "publishedAt": 1793917035000,
    "isAI": true,
-   "score": 58.1,
+   "score": 57.6,
    "hot": false
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 238,
-   "comments": 180,
+   "engagement": 249,
+   "comments": 198,
    "publishedAt": 1793996843000,
    "isAI": true,
-   "score": 55.4,
+   "score": 55.2,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 259,
-   "comments": 516,
+   "engagement": 261,
+   "comments": 523,
    "publishedAt": 1793984076000,
    "isAI": true,
-   "score": 54.1,
+   "score": 53.6,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 307,
-   "comments": 220,
+   "engagement": 309,
+   "comments": 223,
    "publishedAt": 1793972127000,
    "isAI": true,
-   "score": 53.8,
+   "score": 53.3,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 624,
+   "engagement": 627,
    "comments": 410,
    "publishedAt": 1793957232000,
    "isAI": false,
-   "score": 50.6,
+   "score": 50.2,
    "hot": true
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 498,
+   "engagement": 499,
    "comments": 223,
    "publishedAt": 1793920197000,
    "isAI": true,
-   "score": 50.4,
+   "score": 50,
    "hot": false
   },
   {
@@ -97,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -111,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -125,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -139,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -153,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -167,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -181,7 +181,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.6,
    "hot": false
   },
   {
@@ -195,7 +195,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
+   "hot": true
+  },
+  {
+   "title": "불확실한 사례만 Opus에 맡긴 Jev, 비용은 4분의 1로",
+   "url": "https://news.hada.io/topic?id=36725&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "서로 다른 사람의 고객 기록을 잘못 합쳤는지 판별하는 작업 에 저렴한 결정 모델 Jev를 먼저 사용하고, 판단 점수가 애매한 사례만 Opus에 넘기는 방식을 시험함. 평가는 합성 데이터로 진행 쉬운 테스트에서는 전체의 22%만 Opus로 재검토해 정확도 98.8% 를 기록. Opus 단독의 99.0%에 근접하면서, 1,000건당 비용은 3.86달러에서 0.88달러 로 줄어듦 핵심은 틀릴 가능성이 있는 사례를 골라내는 능력 이었음. Jev의 오답은 판단 점수 50% 부근에 몰렸지만, GPT-6 Luna는 틀린 사례에도 높은 확신을 보",
+   "publishedAt": 1794004658000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -209,22 +223,8 @@
    "comments": 57,
    "publishedAt": 1793974389000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.4,
    "hot": false
-  },
-  {
-   "title": "불확실한 사례만 Opus에 맡긴 Jev, 비용은 4분의 1로",
-   "url": "https://news.hada.io/topic?id=36725&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "서로 다른 사람의 고객 기록을 잘못 합쳤는지 판별하는 작업 에 저렴한 결정 모델 Jev를 먼저 사용하고, 판단 점수가 애매한 사례만 Opus에 넘기는 방식을 시험함. 평가는 합성 데이터로 진행 쉬운 테스트에서는 전체의 22%만 Opus로 재검토해 정확도 98.8% 를 기록. Opus 단독의 99.0%에 근접하면서, 1,000건당 비용은 3.86달러에서 0.88달러 로 줄어듦 핵심은 틀릴 가능성이 있는 사례를 골라내는 능력 이었음. Jev의 오답은 판단 점수 50% 부근에 몰렸지만, GPT-6 Luna는 틀린 사례에도 높은 확신을 보",
-   "publishedAt": 1794004658000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.9,
-   "hot": true
   },
   {
    "title": "I struggle to believe that AI R&D is ingenious",
@@ -233,12 +233,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 184,
-   "comments": 191,
+   "engagement": 188,
+   "comments": 196,
    "publishedAt": 1793942344000,
    "isAI": true,
-   "score": 45.8,
-   "hot": true
+   "score": 45.5,
+   "hot": false
   },
   {
    "title": "이제 모든 것이 AI 사기다",
@@ -251,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 45,
    "hot": true
   },
   {
@@ -261,11 +261,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 204,
-   "comments": 37,
+   "engagement": 209,
+   "comments": 38,
    "publishedAt": 1793983829000,
    "isAI": false,
-   "score": 45,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -279,7 +279,7 @@
    "comments": 748,
    "publishedAt": 1793793137000,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -293,7 +293,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -303,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 308,
-   "comments": 110,
+   "engagement": 309,
+   "comments": 111,
    "publishedAt": 1793938669000,
    "isAI": false,
-   "score": 42.9,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -321,7 +321,7 @@
    "comments": 2,
    "publishedAt": 1793889860000,
    "isAI": false,
-   "score": 42.8,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -335,7 +335,7 @@
    "comments": 114,
    "publishedAt": 1793982692000,
    "isAI": false,
-   "score": 42.7,
+   "score": 42.3,
    "hot": true
   },
   {
@@ -345,11 +345,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 246,
+   "engagement": 247,
    "comments": 65,
    "publishedAt": 1793951258000,
    "isAI": false,
-   "score": 42.6,
+   "score": 42.3,
    "hot": true
   },
   {
@@ -363,7 +363,7 @@
    "comments": 189,
    "publishedAt": 1793864670000,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -373,25 +373,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 123,
-   "comments": 126,
+   "engagement": 125,
+   "comments": 129,
    "publishedAt": 1793993064000,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.5,
    "hot": false
   },
   {
-   "title": "Show GN: RepUnlock – 카메라로 스쿼트를 세어 SNS 잠금을 푸는 안드로이드 앱",
-   "url": "https://news.hada.io/topic?id=36738&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "HS솔루션에서 만든 앱입니다. 인스타그램이나 유튜브를 열기 전에 몸을 한 번 움직이게 하는 방법이 없을까 하다가 만들었습니다. 의지로는 잘 안 되니, 앱 쪽에서 잠가 두고 운동을 해야 열리게 했습니다. 무엇을 하나 잠글 앱을 고르면, 그 앱을 열 때 잠금 화면이 뜹니다. 휴대폰 카메라 앞에서 운동하면 횟수를 세고, 목표를 채우면 이용 시간이 적립됩니다. 스쿼트 15회 = 10분, 푸시업 10회 = 10분, 플랭크 30초 = 5분입니다. 목표에 못 미치면 비례해서 줍니다(최소 1분). 적립된 시간 동안만 잠근 앱을 쓸 수 있고, 시간",
-   "publishedAt": 1794019926000,
+   "title": "Show GN: 돌싱벗 - 30~50대 돌싱을 위한 소개팅 앱",
+   "url": "https://news.hada.io/topic?id=36739&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "안녕하세요. 안드로이드 앱을 혼자 만들고 있습니다. 30대, 40대, 50대 돌싱과 새 인연을 찾는 분들을 위한 소개팅 앱을 구글 플레이에 올렸습니다. 앱은 Kotlin, Jetpack Compose / 서버는 FastAPI, PostgreSQL 지인 막기: 연락처 번호를 해시로 바꿔 비교하고, 이름은 보내지 않음 프로필과 사진은 운영자가 직접 확인한 뒤 공개, 사진을 바꾸면 다시 확인 수락해야 대화가 열리고, 대화로 전화번호와 외부 링크는 보낼 수 없음 30일 넘게 접속하지 않은 회원은 목록에서 제외 지금은 오픈 기념으로 모든 기",
+   "publishedAt": 1794025126000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 41.4,
    "hot": true
   },
   {
@@ -405,8 +405,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.8,
    "hot": false
+  },
+  {
+   "title": "Show GN: RepUnlock – 카메라로 스쿼트를 세어 SNS 잠금을 푸는 안드로이드 앱",
+   "url": "https://news.hada.io/topic?id=36738&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "HS솔루션에서 만든 앱입니다. 인스타그램이나 유튜브를 열기 전에 몸을 한 번 움직이게 하는 방법이 없을까 하다가 만들었습니다. 의지로는 잘 안 되니, 앱 쪽에서 잠가 두고 운동을 해야 열리게 했습니다. 무엇을 하나 잠글 앱을 고르면, 그 앱을 열 때 잠금 화면이 뜹니다. 휴대폰 카메라 앞에서 운동하면 횟수를 세고, 목표를 채우면 이용 시간이 적립됩니다. 스쿼트 15회 = 10분, 푸시업 10회 = 10분, 플랭크 30초 = 5분입니다. 목표에 못 미치면 비례해서 줍니다(최소 1분). 적립된 시간 동안만 잠근 앱을 쓸 수 있고, 시간",
+   "publishedAt": 1794019926000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.8,
+   "hot": true
   },
   {
    "title": "Libghostty 1.0 - 터미널 에뮬레이션 C 라이브러리와 ABI 안정화",
@@ -419,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.7,
    "hot": true
   },
   {
@@ -433,36 +447,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
-  },
-  {
-   "title": "Firecracker VM 탈출: PwnEscape 2부",
-   "url": "https://news.hada.io/topic?id=36734&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "기존에 확보한 호스트 메모리 접근 수단 으로 게스트 내부에서 호스트의 Firecracker 스레드를 장악하고 호스트 root 권한으로 코드를 실행함 KVM_RUN 복귀 시점 을 겨냥해 커널에 저장된 사용자 공간 레지스터를 변경하고, 지정한 함수와 인자로 Firecracker가 실행을 이어가도록 함 게스트 페이지의 식별 패턴을 출발점으로 EPT와 호스트 페이지 테이블 을 추적해 Firecracker 주소 공간, ASLR 적용 위치, 활성 vCPU의 저장 레지스터를 찾아냄 Firecracker의 표준 오류에 8바이트 식별 문자열 을 출",
-   "publishedAt": 1794015306000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.7,
-   "hot": true
-  },
-  {
-   "title": "Discord is ditching Electron and its new app uses less RAM",
-   "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50378625",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 482,
-   "comments": 418,
-   "publishedAt": 1793883928000,
-   "isAI": false,
-   "score": 40.6,
-   "hot": false
   },
   {
    "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
@@ -475,8 +461,36 @@
    "comments": 191,
    "publishedAt": 1793901601000,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.2,
    "hot": false
+  },
+  {
+   "title": "Discord is ditching Electron and its new app uses less RAM",
+   "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50378625",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 482,
+   "comments": 418,
+   "publishedAt": 1793883928000,
+   "isAI": false,
+   "score": 40.2,
+   "hot": false
+  },
+  {
+   "title": "Firecracker VM 탈출: PwnEscape 2부",
+   "url": "https://news.hada.io/topic?id=36734&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "기존에 확보한 호스트 메모리 접근 수단 으로 게스트 내부에서 호스트의 Firecracker 스레드를 장악하고 호스트 root 권한으로 코드를 실행함 KVM_RUN 복귀 시점 을 겨냥해 커널에 저장된 사용자 공간 레지스터를 변경하고, 지정한 함수와 인자로 Firecracker가 실행을 이어가도록 함 게스트 페이지의 식별 패턴을 출발점으로 EPT와 호스트 페이지 테이블 을 추적해 Firecracker 주소 공간, ASLR 적용 위치, 활성 vCPU의 저장 레지스터를 찾아냄 Firecracker의 표준 오류에 8바이트 식별 문자열 을 출",
+   "publishedAt": 1794015306000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.2,
+   "hot": true
   },
   {
    "title": "We've built an open-source feature flag server for 11 years",
@@ -489,22 +503,8 @@
    "comments": 101,
    "publishedAt": 1793965206000,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": false
-  },
-  {
-   "title": "Omarchy 4.5 - 플로팅 데스크톱, 50개 언어와 Mac 네이티브 설치 지원",
-   "url": "https://news.hada.io/topic?id=36729&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "개발자용 Linux 배포판 Omarchy에 창을 자유롭게 겹쳐 배치하는 플로팅 모드와 독 이 추가됨. 작업 공간마다 타일링, 스크롤링, 플로팅 방식을 따로 선택할 수 있음 M1/M2/M3/Neo MacBook에 macOS를 유지하면서 네이티브 설치 할 수 있음. macOS용 설치 앱을 제공해 USB나 터미널 명령 없이 설치하며, M4 이후 기종 지원은 개발 중임 메뉴와 데스크톱에 50개 언어 를 지원하고, 설치 단계부터 한국어를 포함한 동아시아 입력기 5종과 글꼴 을 설정할 수 있음 패키지를 하나씩 설치하던 방식에서 사전 제작한 시",
-   "publishedAt": 1794010821000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.2,
-   "hot": true
   },
   {
    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
@@ -517,7 +517,7 @@
    "comments": 197,
    "publishedAt": 1793787027000,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -531,8 +531,22 @@
    "comments": 494,
    "publishedAt": 1793726557000,
    "isAI": true,
-   "score": 40,
+   "score": 39.8,
    "hot": false
+  },
+  {
+   "title": "Omarchy 4.5 - 플로팅 데스크톱, 50개 언어와 Mac 네이티브 설치 지원",
+   "url": "https://news.hada.io/topic?id=36729&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "개발자용 Linux 배포판 Omarchy에 창을 자유롭게 겹쳐 배치하는 플로팅 모드와 독 이 추가됨. 작업 공간마다 타일링, 스크롤링, 플로팅 방식을 따로 선택할 수 있음 M1/M2/M3/Neo MacBook에 macOS를 유지하면서 네이티브 설치 할 수 있음. macOS용 설치 앱을 제공해 USB나 터미널 명령 없이 설치하며, M4 이후 기종 지원은 개발 중임 메뉴와 데스크톱에 50개 언어 를 지원하고, 설치 단계부터 한국어를 포함한 동아시아 입력기 5종과 글꼴 을 설정할 수 있음 패키지를 하나씩 설치하던 방식에서 사전 제작한 시",
+   "publishedAt": 1794010821000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.7,
+   "hot": true
   },
   {
    "title": "Ask HN: What's your current AI agentic setup?",
@@ -541,11 +555,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 541,
+   "engagement": 544,
    "comments": 675,
    "publishedAt": 1793803042000,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -559,35 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
-   "hot": true
-  },
-  {
-   "title": "2000년대 초, 게임을 만드는 아이로 산다는 것",
-   "url": "https://news.hada.io/topic?id=36724&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "The Games Factory 는 대규모 전문가 팀만 게임을 만들 수 있다고 생각하던 어린 Jay Tholen에게 직접 가상 세계를 만드는 길을 열어줌 학교생활의 어려움과 잦은 이사 속에서 Klik 커뮤니티 가 사회생활의 중심이 됐고, 게임과 그림을 공유하며 인정받고 싶다는 마음이 창작을 이끌었음 2001~2003년 여러 게임을 공개했지만, 기본 이동 기능의 버그 와 부족한 구현 지식 때문에 프로젝트를 중단하거나 미완성 버전을 배포하는 일이 반복됨 온라인 동료와 더 큰 게임을 시도했으나 개인 사정과 컴퓨터 사용 제한으로 작업이 줄",
-   "publishedAt": 1794001250000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39,
-   "hot": true
-  },
-  {
-   "title": "생존의 한계를 넘어 살아가기: 거대한 구덩이 함정에 갇힌 숲개미들 (2016)",
-   "url": "https://news.hada.io/topic?id=36723&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "생존의 한계를 넘어 살아가기: 거대한 구덩이 함정에 갇힌 숲개미들 (2016)",
-   "publishedAt": 1794001070000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -601,7 +587,7 @@
    "comments": 898,
    "publishedAt": 1793643688000,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -615,8 +601,36 @@
    "comments": 289,
    "publishedAt": 1793781989000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.6,
    "hot": false
+  },
+  {
+   "title": "2000년대 초, 게임을 만드는 아이로 산다는 것",
+   "url": "https://news.hada.io/topic?id=36724&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "The Games Factory 는 대규모 전문가 팀만 게임을 만들 수 있다고 생각하던 어린 Jay Tholen에게 직접 가상 세계를 만드는 길을 열어줌 학교생활의 어려움과 잦은 이사 속에서 Klik 커뮤니티 가 사회생활의 중심이 됐고, 게임과 그림을 공유하며 인정받고 싶다는 마음이 창작을 이끌었음 2001~2003년 여러 게임을 공개했지만, 기본 이동 기능의 버그 와 부족한 구현 지식 때문에 프로젝트를 중단하거나 미완성 버전을 배포하는 일이 반복됨 온라인 동료와 더 큰 게임을 시도했으나 개인 사정과 컴퓨터 사용 제한으로 작업이 줄",
+   "publishedAt": 1794001250000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.6,
+   "hot": true
+  },
+  {
+   "title": "생존의 한계를 넘어 살아가기: 거대한 구덩이 함정에 갇힌 숲개미들 (2016)",
+   "url": "https://news.hada.io/topic?id=36723&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "생존의 한계를 넘어 살아가기: 거대한 구덩이 함정에 갇힌 숲개미들 (2016)",
+   "publishedAt": 1794001070000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.6,
+   "hot": true
   },
   {
    "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -629,7 +643,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.4,
+   "hot": false
+  },
+  {
+   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber",
+   "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+   "publishedAt": 1793869200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -643,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -657,22 +685,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
-  },
-  {
-   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-   "url": "https://openai.com/index/introducing-gpt-6-cyber",
-   "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-   "publishedAt": 1793869200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 38.5,
-   "hot": false
   },
   {
    "title": "Merge builds product and business tools with OpenAI technology",
@@ -685,35 +699,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.2,
-   "hot": false
-  },
-  {
-   "title": "OpenStreetMap의 실제 건물을 부수는 멀티플레이어 탱크 게임",
-   "url": "https://news.hada.io/topic?id=36719&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "World Strike 는 OpenStreetMap 기반의 실제 도시 지도를 장난감 탱크로 돌아다니는 샌드박스 게임임 블록 형태의 건물을 무너뜨릴 수 있으며, 파괴된 상태가 모든 플레이어에게 공유 됨 다른 탱크와 대결 하거나 건물 잔해에 이모지로 자신의 흔적을 남길 수 있음 도시 검색이나 지도 선택 으로 배치할 장소를 정하고, 키보드와 마우스 또는 터치로 탱크를 조작함 탱크가 파괴되면 5분의 복귀 대기 시간 이 적용되며, 게임을 떠나도 타이머는 계속 진행됨 실제 도시를 공유하는 샌드박스 World Strike 는 OpenStreet",
-   "publishedAt": 1793993618000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.2,
-   "hot": true
-  },
-  {
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-   "publishedAt": 1794005626000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 37.7,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -727,7 +713,21 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.3,
+   "hot": false
+  },
+  {
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+   "publishedAt": 1794005626000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -741,7 +741,7 @@
    "comments": 209,
    "publishedAt": 1793708477000,
    "isAI": true,
-   "score": 37.1,
+   "score": 37,
    "hot": false
   },
   {
@@ -755,7 +755,7 @@
    "comments": 44,
    "publishedAt": 1793893917000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -769,7 +769,7 @@
    "comments": 214,
    "publishedAt": 1793727600000,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -783,7 +783,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -797,34 +797,6 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 36.4,
-   "hot": false
-  },
-  {
-   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-   "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-   "publishedAt": 1793990678000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-   "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-   "publishedAt": 1793990660000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
    "score": 36.1,
    "hot": false
   },
@@ -839,21 +811,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
-   "title": "Nvidia Kubernetes Engine (NVKE)",
-   "url": "https://github.com/dsx-ai-factory/nvke",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50387738",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+   "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+   "publishedAt": 1793990678000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 123,
-   "comments": 27,
-   "publishedAt": 1793934986000,
-   "isAI": false,
-   "score": 35.8,
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.7,
+   "hot": false
+  },
+  {
+   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+   "publishedAt": 1793990660000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -867,21 +853,7 @@
    "comments": 92,
    "publishedAt": 1793805681000,
    "isAI": true,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "How a Blue Wave midterm might reshape the AI industry",
-   "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-   "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
-   "publishedAt": 1793988000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.8,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -895,21 +867,7 @@
    "comments": 122,
    "publishedAt": 1793812666000,
    "isAI": true,
-   "score": 35.7,
-   "hot": false
-  },
-  {
-   "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-   "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50367125",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 588,
-   "comments": 222,
-   "publishedAt": 1793806714000,
-   "isAI": false,
-   "score": 35.7,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -923,7 +881,35 @@
    "comments": 320,
    "publishedAt": 1793787814000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "Nvidia Kubernetes Engine (NVKE)",
+   "url": "https://github.com/dsx-ai-factory/nvke",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50387738",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 123,
+   "comments": 27,
+   "publishedAt": 1793934986000,
+   "isAI": false,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+   "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50367125",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 588,
+   "comments": 222,
+   "publishedAt": 1793806714000,
+   "isAI": false,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -937,7 +923,21 @@
    "comments": 468,
    "publishedAt": 1793719547000,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "How a Blue Wave midterm might reshape the AI industry",
+   "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+   "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
+   "publishedAt": 1793988000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -951,7 +951,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -965,7 +965,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -979,7 +979,7 @@
    "comments": 64,
    "publishedAt": 1793822114000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -993,7 +993,7 @@
    "comments": 170,
    "publishedAt": 1793741204000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1007,21 +1007,7 @@
    "comments": 163,
    "publishedAt": 1793717621000,
    "isAI": true,
-   "score": 34.4,
-   "hot": false
-  },
-  {
-   "title": "Everything is an AI scam now",
-   "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50371508",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 152,
-   "comments": 62,
-   "publishedAt": 1793826319000,
-   "isAI": true,
-   "score": 34.1,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1035,7 +1021,21 @@
    "comments": 60,
    "publishedAt": 1793742053000,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "Everything is an AI scam now",
+   "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50371508",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 152,
+   "comments": 62,
+   "publishedAt": 1793826319000,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1046,22 +1046,8 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 392,
-   "comments": 212,
+   "comments": 213,
    "publishedAt": 1793814731000,
-   "isAI": false,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-   "url": "https://firenook.dev/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50378643",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 168,
-   "comments": 30,
-   "publishedAt": 1793884049000,
    "isAI": false,
    "score": 33.7,
    "hot": false
@@ -1077,35 +1063,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false
   },
   {
-   "title": "유럽 16개국서 데이터센터 반대 공동 행동…MS 건설 현장 난입",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217126",
-   "summary": "미국 중간선거에서 데이터센터 건설에 반대하는 후보들이 잇따라 승리한 데 이어 유럽에서도 데이터센터 반대 운동이 본격화하고 있다. 유럽 16개국의 시민단체 100여곳이 데이터센터 건설 중단을 요구하는 공동 행동에 나섰으며, 네덜란드에서는 시위대가 마이크로소프트(MS)의 AI 데이터센터 건설 현장에 진입하는 사태까지 벌어졌다.로이터와 가디언 등은 6일(현지시간) 네덜란드 암스테르담에서 시위대가 MS의 AI 데이터센터 건설 현장에 진입했다고 보도했다. 일부 참가자는 울타리를 넘어 크레인에 올라가 현수막을 걸고 조명탄을 터뜨렸다. AP에",
-   "publishedAt": 1794016662000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 15조 투자 유치…목표는 41조→27조로 축소",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217117",
-   "summary": "오픈AI가 기업가치 1조2500억달러(약 1704조원)를 인정받으며 110억달러(약 15조원)의 신규 투자를 유치했다. 그러나 AI 투자심리 악화로 당초 300억달러 이상이었던 자금 조달 목표를 최대 200억달러로 낮췄다.블룸버그는 6일(현지시간) 복수의 소식통을 인용해 오픈AI가 110억달러의 투자금을 입금받으며 이번 투자 라운드의 첫 단계를 마무리했다고 보도했다.전체 투자 규모는 최대 200억달러까지 늘어날 수 있으며, 나머지 자금은 향후 몇 주 안에 확보할 것으로 예상된다.오픈AI는 당초 기업가치 1조4000억달러(약 1909",
-   "publishedAt": 1794015861000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
+   "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+   "url": "https://firenook.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50378643",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 169,
+   "comments": 30,
+   "publishedAt": 1793884049000,
+   "isAI": false,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1119,7 +1091,35 @@
    "comments": 246,
    "publishedAt": 1793724449000,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "유럽 16개국서 데이터센터 반대 공동 행동…MS 건설 현장 난입",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217126",
+   "summary": "미국 중간선거에서 데이터센터 건설에 반대하는 후보들이 잇따라 승리한 데 이어 유럽에서도 데이터센터 반대 운동이 본격화하고 있다. 유럽 16개국의 시민단체 100여곳이 데이터센터 건설 중단을 요구하는 공동 행동에 나섰으며, 네덜란드에서는 시위대가 마이크로소프트(MS)의 AI 데이터센터 건설 현장에 진입하는 사태까지 벌어졌다.로이터와 가디언 등은 6일(현지시간) 네덜란드 암스테르담에서 시위대가 MS의 AI 데이터센터 건설 현장에 진입했다고 보도했다. 일부 참가자는 울타리를 넘어 크레인에 올라가 현수막을 걸고 조명탄을 터뜨렸다. AP에",
+   "publishedAt": 1794016662000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 15조 투자 유치…목표는 41조→27조로 축소",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217117",
+   "summary": "오픈AI가 기업가치 1조2500억달러(약 1704조원)를 인정받으며 110억달러(약 15조원)의 신규 투자를 유치했다. 그러나 AI 투자심리 악화로 당초 300억달러 이상이었던 자금 조달 목표를 최대 200억달러로 낮췄다.블룸버그는 6일(현지시간) 복수의 소식통을 인용해 오픈AI가 110억달러의 투자금을 입금받으며 이번 투자 라운드의 첫 단계를 마무리했다고 보도했다.전체 투자 규모는 최대 200억달러까지 늘어날 수 있으며, 나머지 자금은 향후 몇 주 안에 확보할 것으로 예상된다.오픈AI는 당초 기업가치 1조4000억달러(약 1909",
+   "publishedAt": 1794015861000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1133,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1147,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1161,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1175,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1189,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1203,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1217,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.3,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1231,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1245,21 +1245,20 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
-   "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-   "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-   "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advance",
-   "publishedAt": 1794006044000,
-   "source": "The Verge",
-   "sourceType": "media",
+   "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+   "url": "https://huggingface.co/papers/2611.08373",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
+   "engagement": 113,
+   "summary": "Reliable robotic manipulation requires both semantic understanding and precise control in three-dimensional space. However, vision-language-action (VLA) foundations largely inherit visual representations from 2D vision-language pre-training, while spatial supervision is often introduced only during ",
+   "publishedAt": 1793818800000,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1273,7 +1272,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
+   "hot": false
+  },
+  {
+   "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+   "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+   "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advance",
+   "publishedAt": 1794006044000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1287,20 +1300,6 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-   "url": "https://news.ycombinator.com/item?id=50368804",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50368804",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 109,
-   "comments": 36,
-   "publishedAt": 1793813513000,
-   "isAI": true,
    "score": 31.4,
    "hot": false
   },
@@ -1312,37 +1311,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 257,
-   "comments": 320,
+   "comments": 321,
    "publishedAt": 1793729471000,
    "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-   "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-   "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-   "publishedAt": 1793998601000,
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
-   "url": "https://huggingface.co/papers/2611.08373",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 101,
-   "summary": "Reliable robotic manipulation requires both semantic understanding and precise control in three-dimensional space. However, vision-language-action (VLA) foundations largely inherit visual representations from 2D vision-language pre-training, while spatial supervision is often introduced only during ",
-   "publishedAt": 1793818800000,
-   "isAI": true,
    "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+   "url": "https://news.ycombinator.com/item?id=50368804",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50368804",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 110,
+   "comments": 36,
+   "publishedAt": 1793813513000,
+   "isAI": true,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1356,7 +1342,34 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 31.2,
+   "score": 31,
+   "hot": false
+  },
+  {
+   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+   "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+   "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+   "publishedAt": 1793998601000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31,
+   "hot": false
+  },
+  {
+   "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+   "url": "https://huggingface.co/papers/2611.08449",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 96,
+   "summary": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one co",
+   "publishedAt": 1793818800000,
+   "isAI": true,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1370,20 +1383,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
-   "url": "https://huggingface.co/papers/2611.08449",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 96,
-   "summary": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one co",
-   "publishedAt": 1793818800000,
-   "isAI": true,
-   "score": 31,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1397,7 +1397,7 @@
    "comments": 175,
    "publishedAt": 1793806111000,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.7,
    "hot": false
   }
  ]
