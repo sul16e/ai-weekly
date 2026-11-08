@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794131232434,
+ "updatedAt": 1794138214883,
  "week": "2026-W45",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 289,
-   "comments": 170,
+   "engagement": 360,
+   "comments": 219,
    "publishedAt": 1794107508000,
    "isAI": true,
-   "score": 58,
+   "score": 58.7,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 388,
-   "comments": 268,
+   "engagement": 426,
+   "comments": 287,
    "publishedAt": 1794084332000,
    "isAI": true,
-   "score": 56.7,
+   "score": 56.4,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 454,
-   "comments": 273,
+   "engagement": 465,
+   "comments": 278,
    "publishedAt": 1794074537000,
    "isAI": true,
-   "score": 56.5,
+   "score": 55.6,
    "hot": true
   },
   {
@@ -51,12 +51,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 984,
-   "comments": 249,
+   "engagement": 1007,
+   "comments": 253,
    "publishedAt": 1794044196000,
    "isAI": false,
-   "score": 51.7,
+   "score": 50.9,
    "hot": false
+  },
+  {
+   "title": "Show GN: 라플라스의 가위 - LLM을 재학습하지 않고, 출력 가중치만 안전하게 수정.",
+   "url": "https://news.hada.io/topic?id=36805&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "모델을 재학습하지 않고, 출력 가중치의 방향을 조절해서 답변을 바꿀 수 있게 도와줍니다. 기존 정답도 안전하게 유지합니다.",
+   "publishedAt": 1794135518000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
+   "hot": true
+  },
+  {
+   "title": "`free-router 실사용 후기 — 무료 AI 모델을 코딩 에이전트에 붙여 며칠 써보며 겪은 것`",
+   "url": "https://news.hada.io/topic?id=36803&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "직접 쓴 글입니다. NVIDIA NIM·OpenRouter의 무료 모델을 실시간 핑으로 순위 매겨 코딩 에이전트 설정에 넣어주는 오픈소스 CLI free-router 를 며칠 써본 기록입니다. Claude Code는 지원하지 않음 : README 기준 연동 대상은 OpenCode, OpenClaw, Hermes Agent. 그래서 메인 작업 대체가 아니라 가벼운 사이드 작업에 곁들여 본 후기 등급(Tier)은 고정값, 실제 사용 가능 여부는 그때그때 다름 : 같은 모델을 시간 간격을 두고 보니 S+ 모델이 가동률 83%→74%로 떨",
+   "publishedAt": 1794134265000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.4,
+   "hot": true
+  },
+  {
+   "title": "Microsoft, Oracle의 AI 클라우드 용량 임대 계약 단계적 종료 중",
+   "url": "https://news.hada.io/topic?id=36802&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Bloomberg News에 따르면 Microsoft는 수십억 달러 규모의 클라우드 제휴 재검토 의 일환으로 Oracle 계약을 갱신하지 않고 최근 수개월간 임대한 AI 컴퓨팅 용량의 사용을 중단해 왔음 임대한 인프라는 이전 세대 Nvidia 칩 을 사용하며, Microsoft의 변화하는 요구를 충족하지 못해 시간이 흐를수록 활용 가치가 낮아진 것으로 전해짐 Oracle은 이전 세대 GPU를 포함한 OCI AI 인프라 수요 가 여전히 강하다고 밝혔으며, Microsoft는 Reuters의 논평 요청에 즉각 응답하지 않음 IREN 은",
+   "publishedAt": 1794133909000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.4,
+   "hot": true
   },
   {
    "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
@@ -65,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 461,
-   "comments": 291,
+   "engagement": 474,
+   "comments": 302,
    "publishedAt": 1794071196000,
    "isAI": false,
-   "score": 49.4,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -83,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -97,8 +139,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 46.9,
    "hot": true
+  },
+  {
+   "title": "Claude Code sends your email address to websites",
+   "url": "https://github.com/anthropics/claude-code/issues/107757",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50385272",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1596,
+   "comments": 523,
+   "publishedAt": 1793917035000,
+   "isAI": true,
+   "score": 45.8,
+   "hot": false
   },
   {
    "title": "Aspen - Git의 설계 범위를 넘어 에이전트 커밋을 확장하는 오픈소스 서버",
@@ -111,22 +167,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 45.7,
    "hot": true
-  },
-  {
-   "title": "Claude Code sends your email address to websites",
-   "url": "https://github.com/anthropics/claude-code/issues/107757",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50385272",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1596,
-   "comments": 522,
-   "publishedAt": 1793917035000,
-   "isAI": true,
-   "score": 46.4,
-   "hot": false
   },
   {
    "title": "Claude Code의 \"다시 묻지 않기\", 공개 GitHub 파일 1,122개에 비밀번호 노출",
@@ -139,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.8,
+   "score": 44.9,
    "hot": true
   },
   {
@@ -153,8 +195,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.5,
    "hot": true
+  },
+  {
+   "title": "AI is dramatically accelerating AI research",
+   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50397994",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 368,
+   "comments": 348,
+   "publishedAt": 1793996843000,
+   "isAI": true,
+   "score": 44.3,
+   "hot": false
   },
   {
    "title": "웹에서 AI가 일으키는 온갖 부작용에 어떻게 대처하고 계신가요?",
@@ -167,49 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.1,
-   "hot": true
-  },
-  {
-   "title": "AI is dramatically accelerating AI research",
-   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50397994",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 365,
-   "comments": 348,
-   "publishedAt": 1793996843000,
-   "isAI": true,
-   "score": 45,
-   "hot": false
-  },
-  {
-   "title": "MaxxBench - “DeepSWE 점수는 좋네요. 그런데 진짜인가요?”",
-   "url": "https://news.hada.io/topic?id=36780&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "MaxxBench 는 코딩 벤치마크 DeepSWE의 과제 89개를 조금씩 바꿔, 에이전트가 익숙한 정답 대신 달라진 작업에 적응하는지 평가함. 테스트 보고서 파일명을 소문자로 바꾸는 식 참조 패치는 17줄(3.5%) 늘었지만, DeepSWE 공개 점수가 둘 다 약 74%였던 Claude Opus 5.5와 Gemini 3.8 Flash 는 MaxxBench에서 각각 76.4%와 53.4% 를 기록함 일부 에이전트는 명시된 요구사항을 이해하고도 숨겨진 테스트에 나올 법한 동작 을 택함. 예를 들어 큰 정수의 정밀도가 깨지는 걸 알면서도",
-   "publishedAt": 1794094484000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.9,
-   "hot": true
-  },
-  {
-   "title": "10달러짜리 4G USB 동글로 홈 서버 돌리기",
-   "url": "https://news.hada.io/topic?id=36776&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "배송비 포함 10달러에 구매한 4G USB 동글(OpenStick) 에 Debian을 설치하고, Podman으로 DNS 차단, AI 에이전트, 모니터링, RSS 등을 운영하는 홈랩 구축 RAM 512MB, 1GHz ARM Cortex-A53 4코어 와 4GB eMMC를 갖췄으며, 설치 과정은 다소 복잡하지만 적은 전력으로 소음 없이 홈 서버를 운영할 수 있음 AdGuard Home 으로 DNS 수준에서 유해 도메인을 차단하고, CastSponsorSkip 으로 Google Cast 재생 중 협찬 구간을 건너뛰는 등 일상에 유용한 서",
-   "publishedAt": 1794088135000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.1,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -219,24 +233,10 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 322,
-   "comments": 298,
+   "engagement": 345,
+   "comments": 332,
    "publishedAt": 1794049875000,
    "isAI": false,
-   "score": 43.9,
-   "hot": true
-  },
-  {
-   "title": "에이전트 메모리 설계 - 무엇을 기억하고, 잘못된 기억은 어떻게 고칠까",
-   "url": "https://news.hada.io/topic?id=36775&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Anthropic은 AI 에이전트가 다음 세션을 위해 무엇을 기억하고, 쌓인 기억을 어떻게 정리할지 Claude로 실험함 에이전트는 검증된 해결법이나 이어서 할 일을 노트로 남겨 다음 세션에서 다시 활용 할 수 있음 드리밍(dreaming) 은 세션 사이에 메모를 원본 대화 로그와 대조해 오류를 고치고, 여러 세션에 흩어진 노트를 주제별로 연결하는 과정임. 관련 내용을 위키로 묶어 나중에 찾아보기 쉽게 만들 수 있음 내부 문서 평가에서 원문 검색에 위키를 더하자 채점 기준 충족률이 53%에서 최대 61% 로 올랐고, 질문당 약 2만",
-   "publishedAt": 1794084680000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
    "score": 43.7,
    "hot": false
   },
@@ -248,10 +248,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 159,
-   "comments": 89,
+   "comments": 93,
    "publishedAt": 1794033544000,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -261,12 +261,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 377,
-   "comments": 328,
+   "engagement": 390,
+   "comments": 339,
    "publishedAt": 1794028818000,
    "isAI": false,
-   "score": 42.8,
+   "score": 42.3,
    "hot": false
+  },
+  {
+   "title": "The $8 Linux Computer (2022)",
+   "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50404599",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 242,
+   "comments": 92,
+   "publishedAt": 1794060020000,
+   "isAI": false,
+   "score": 42.1,
+   "hot": true
   },
   {
    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
@@ -279,22 +293,8 @@
    "comments": 618,
    "publishedAt": 1793984076000,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.1,
    "hot": false
-  },
-  {
-   "title": "The $8 Linux Computer (2022)",
-   "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50404599",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 233,
-   "comments": 92,
-   "publishedAt": 1794060020000,
-   "isAI": false,
-   "score": 42.6,
-   "hot": true
   },
   {
    "title": "Gemini Omni 1.2 Flash",
@@ -304,10 +304,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 362,
-   "comments": 250,
+   "comments": 251,
    "publishedAt": 1793972127000,
    "isAI": true,
-   "score": 42.5,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -317,12 +317,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 274,
-   "comments": 129,
+   "engagement": 280,
+   "comments": 132,
    "publishedAt": 1794044346000,
    "isAI": false,
-   "score": 42.1,
+   "score": 41.5,
    "hot": false
+  },
+  {
+   "title": "Kalshi, 주 도박법 집행을 막으려는 요청이 잇따라 기각되며 법정 패배 누적",
+   "url": "https://news.hada.io/topic?id=36801&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "연방 항소법원 두 곳이 Kalshi의 도박법 집행 저지 시도 를 코네티컷, 뉴욕, 네바다 사건에서 받아들이지 않았으며, 아칸소 법무장관도 별도 소송을 제기함 핵심 쟁점은 예측시장 거래가 연방 규제기관 CFTC만 관할하는 스왑 인지, 주 정부가 도박법으로 규제할 수 있는 베팅인지에 있음 아칸소는 Kalshi가 면허, 감독, 세금 등 도박 사업자 의무를 따르지 않고 18세 이용자에게도 베팅을 허용 했다며 주법 위반을 주장함 트럼프 행정부는 Kalshi 편에서 연방의 독점 규제 권한 을 주장하며, 예측시장에 도박법을 집행하려는 10개 주",
+   "publishedAt": 1794131056000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
+   "hot": true
+  },
+  {
+   "title": "기억에 남는 프로그래밍 책 다섯 권 (2008)",
+   "url": "https://news.hada.io/topic?id=36800&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "널리 알려진 고전 대신, 프로그래밍에 대한 사고에 영향을 준 비주류 책 다섯 권 을 골라 최적화, 실제 문제 해결, 창의성, 코드 구조화를 살펴봄 Zen of Assembly Language 는 독학으로 익힌 어셈블리 기법을 해부하고 확장한 책으로, 주로 8088/8086 최적화를 다루지만 80486이 고급 데스크톱에 등장할 무렵 출간됨 Scientific Forth 와 Fractals, Visualization, and J 는 언어 설명을 위한 장난감 예제 대신, 각 분야 전문가가 실제 문제를 해결하는 본격적인 프로그램으로 언어의",
+   "publishedAt": 1794130876000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
+   "hot": true
+  },
+  {
+   "title": "촬영 후 무료로 공개된 모든 프로세서 다이 사진",
+   "url": "https://news.hada.io/topic?id=36799&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "1972~2024년 프로세서 356개 의 다이 사진을 모아, 칩 내부의 실리콘을 살펴볼 수 있는 시각화임 다이를 촬영하려면 프로세서 패키지를 갈아내거나 용해 한 뒤, 남은 실리콘을 현미경으로 찍어야 함 칩을 클릭하면 사진을 크게 볼 수 있으며, True scale 은 크기가 알려진 114개 다이를 동일한 축척으로 표시함 Intel 8008부터 AMD Zen 5 CCD까지, PC와 서버 프로세서뿐 아니라 게임기 CPU, SoC, I/O 다이 도 포함함 소수의 촬영자가 누구나 사용할 수 있도록 공개한 사진 을 바탕으로 하며, Pauli",
+   "publishedAt": 1794130696000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.1,
+   "hot": true
   },
   {
    "title": "숫자 2 네 개로 모든 정수 만들기 (2025)",
@@ -335,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -349,35 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
-   "hot": true
-  },
-  {
-   "title": "Show GN: DailyFit - 그날의 몸 상태로 운동을 짜고, 음성으로 티칭해주는 홈트레이닝 코치",
-   "url": "https://news.hada.io/topic?id=36794&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "직접 만든 서비스입니다. 가입·설치 없이 브라우저에서 바로 써볼 수 있습니다. 출근 전엔 시간이, 퇴근 후엔 기운이 없어 헬스장을 꾸준히 못 갔습니다. 집에서라도 짧게 이어가고 싶었는데, 집에선 뭘 해야 할지 몰랐고 운동 코치처럼 도와주는 사람이 없으니 실천이 잘 안됐습니다. 그래서 나에게 맞는 운동을 처방해주고 음성으로 티칭해주는 서비스를 만들었습니다. [기능] 1분 정도 질문에 답합니다: 목적, 시간(10~30분), 가진 장비와 무게, 경력, 층간소음 모드, 오늘 불편한 부위와 아픈 동작 그날의 운동(구성, 세트·횟수·템 …",
-   "publishedAt": 1794119432000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.5,
-   "hot": true
-  },
-  {
-   "title": "*sshole, 우리는 대체 언제 C를 없앨 것인가?",
-   "url": "https://news.hada.io/topic?id=36792&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "잠긴 계정과 해시 오류가 같은 \"*\" 값을 사용하는 충돌 로, PAM 없는 musl 시스템에서 인증되지 않은 사용자가 셸을 얻을 수 있는 취약점이 발생함 이번 문제는 메모리 안전성 취약점이 아님 . Rust에서도 같은 코드를 작성할 수 있지만, 타입 시스템이 형성하는 개발 관행은 이런 오류 처리를 용인하지 않음 musl은 일부 바이너리가 crypt 의 NULL 반환을 확인하지 않자 , 오류 시 NULL을 반환하도록 한 POSIX 명세 대신 \"*\" 센티널 값을 반환하도록 변경했음 Rust 의존성에는 컴파일 시간과 이식성 비용 이 실제",
-   "publishedAt": 1794117780000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.4,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -391,8 +405,36 @@
    "comments": 229,
    "publishedAt": 1793920197000,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.7,
    "hot": false
+  },
+  {
+   "title": "Show GN: DailyFit - 그날의 몸 상태로 운동을 짜고, 음성으로 티칭해주는 홈트레이닝 코치",
+   "url": "https://news.hada.io/topic?id=36794&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "직접 만든 서비스입니다. 가입·설치 없이 브라우저에서 바로 써볼 수 있습니다. 출근 전엔 시간이, 퇴근 후엔 기운이 없어 헬스장을 꾸준히 못 갔습니다. 집에서라도 짧게 이어가고 싶었는데, 집에선 뭘 해야 할지 몰랐고 운동 코치처럼 도와주는 사람이 없으니 실천이 잘 안됐습니다. 그래서 나에게 맞는 운동을 처방해주고 음성으로 티칭해주는 서비스를 만들었습니다. [기능] 1분 정도 질문에 답합니다: 목적, 시간(10~30분), 가진 장비와 무게, 경력, 층간소음 모드, 오늘 불편한 부위와 아픈 동작 그날의 운동(구성, 세트·횟수·템 …",
+   "publishedAt": 1794119432000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.7,
+   "hot": true
+  },
+  {
+   "title": "*sshole, 우리는 대체 언제 C를 없앨 것인가?",
+   "url": "https://news.hada.io/topic?id=36792&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "잠긴 계정과 해시 오류가 같은 \"*\" 값을 사용하는 충돌 로, PAM 없는 musl 시스템에서 인증되지 않은 사용자가 셸을 얻을 수 있는 취약점이 발생함 이번 문제는 메모리 안전성 취약점이 아님 . Rust에서도 같은 코드를 작성할 수 있지만, 타입 시스템이 형성하는 개발 관행은 이런 오류 처리를 용인하지 않음 musl은 일부 바이너리가 crypt 의 NULL 반환을 확인하지 않자 , 오류 시 NULL을 반환하도록 한 POSIX 명세 대신 \"*\" 센티널 값을 반환하도록 변경했음 Rust 의존성에는 컴파일 시간과 이식성 비용 이 실제",
+   "publishedAt": 1794117780000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.5,
+   "hot": true
   },
   {
    "title": "Terry Pratchett의 서재 - 1:12 축척으로 만든 미니어처",
@@ -405,21 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
-   "hot": true
-  },
-  {
-   "title": "생명은 얼마나 오래 기다릴 수 있을까?",
-   "url": "https://news.hada.io/topic?id=36789&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "미생물이 활동을 거의 멈춘 채 생존 능력을 유지하는 기간 은 탐사선 오염 관리, 행성 간 생명 이동, 화성의 고대 생명 발견 가능성을 좌우함 우주에서 미생물을 죽이는 주된 요인은 자외선 이지만, 얇은 먼지나 다른 미생물의 잔해만으로도 차단할 수 있어 우주 환경 자체에 탐사선 살균을 맡기기 어려움 운석 내부가 심하게 가열되지 않고 화성에서 지구까지 이동할 수 있다는 증거와 미생물의 장기 생존 능력은 암석을 통한 생명 전파 가설 을 뒷받침하지만, 우주 방사선이 이동 시간을 제한할 가능성이 큼 암염 속 미생물은 약 10만 년간 …",
-   "publishedAt": 1794112509000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -433,8 +461,22 @@
    "comments": 424,
    "publishedAt": 1793957232000,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.1,
    "hot": false
+  },
+  {
+   "title": "생명은 얼마나 오래 기다릴 수 있을까?",
+   "url": "https://news.hada.io/topic?id=36789&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "미생물이 활동을 거의 멈춘 채 생존 능력을 유지하는 기간 은 탐사선 오염 관리, 행성 간 생명 이동, 화성의 고대 생명 발견 가능성을 좌우함 우주에서 미생물을 죽이는 주된 요인은 자외선 이지만, 얇은 먼지나 다른 미생물의 잔해만으로도 차단할 수 있어 우주 환경 자체에 탐사선 살균을 맡기기 어려움 운석 내부가 심하게 가열되지 않고 화성에서 지구까지 이동할 수 있다는 증거와 미생물의 장기 생존 능력은 암석을 통한 생명 전파 가설 을 뒷받침하지만, 우주 방사선이 이동 시간을 제한할 가능성이 큼 암염 속 미생물은 약 10만 년간 …",
+   "publishedAt": 1794112509000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.9,
+   "hot": true
   },
   {
    "title": "Show GN: 꿈을 적으면 그 장면을 그림으로 그려주는 꿈 일기 루담",
@@ -447,8 +489,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 38.8,
    "hot": true
+  },
+  {
+   "title": "Five memorable books about programming (2008)",
+   "url": "https://prog21.dadgum.com/19.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50406319",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 121,
+   "comments": 78,
+   "publishedAt": 1794072649000,
+   "isAI": false,
+   "score": 38.1,
+   "hot": false
   },
   {
    "title": "언어 모델의 거부 행동은 단일 방향에 의해 매개됨",
@@ -461,49 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
-   "hot": true
-  },
-  {
-   "title": "Five memorable books about programming (2008)",
-   "url": "https://prog21.dadgum.com/19.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50406319",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 114,
-   "comments": 74,
-   "publishedAt": 1794072649000,
-   "isAI": false,
-   "score": 38.3,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Coldframe, 슈퍼마켓 냉장 제어기로 위장하는 허니팟",
-   "url": "https://news.hada.io/topic?id=36779&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Coldframe 은 냉장 제어기를 흉내 내 접속 출처, 시도한 비밀번호, 사용한 공개 익스플로잇을 기록하며, 실제 장비나 제어 기능은 제공하지 않는 허니팟임 Danfoss AK-SM 800A 와 Copeland/Dixell XWEB EVO 두 가지 장비를 모방하며, 로그인 화면뿐 아니라 HTTP 헤더, 인증 흐름 등 실제 장비의 웹 지문을 재현함 취약한 계정이나 특정 인증 우회로 로그인하면 가짜 냉장 진열대 대시보드 를 제공하고, 제상 버튼을 누르는 등 후속 행동까지 기록함 Python 표준 라이브러리만 사용하는 단일 파일 로 구",
-   "publishedAt": 1794091107000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.4,
-   "hot": true
-  },
-  {
-   "title": "모든 Windows 11 앱은 Electron을 버려야 한다, Discord가 그 이유를 보여줬다",
-   "url": "https://news.hada.io/topic?id=36778&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Discord가 Electron 기반 데스크톱 앱을 Rust와 GPUI로 재구축 하고 있음. 시작 속도 비교 영상에서는 새 앱을 늦게 켰는데도 친구 목록이 먼저 뜸 새 클라이언트는 계정 2개를 동시 실행하면서도 RAM 290.2MB 를 사용함. 기존 1GB보다 약 70% 적지만, 아직 동일 조건 비교 벤치마크는 없음 빠른 초기화와 새 아키텍처 덕분에 “Starting” 화면을 없애고 , 업데이트는 백그라운드에서 자동으로 처리함 데스크톱 UI는 브라우저 엔진 대신 GPU로 직접 렌더링 하고, 모바일과 웹도 Rust 코드를 공유함. 웹",
-   "publishedAt": 1794090927000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.4,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -517,22 +531,8 @@
    "comments": 749,
    "publishedAt": 1793793137000,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.8,
    "hot": false
-  },
-  {
-   "title": "산마리노 여행 노트",
-   "url": "https://news.hada.io/topic?id=36777&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "이탈리아에 둘러싸인 인구 약 3만 3,500명의 산마리노는 작고 위협적이지 않은 국가라는 지위와 외교 를 활용해 수백 년간 독립을 유지해 왔음 세계에서 가장 오래 지속된 공화국을 자처하지만 301년 건국설은 근거가 희박 하며, 실제 정치체제도 과두정, 파시즘, 공산당 참여 연립정부를 거쳐 변화해 왔음 이탈리아와의 관계는 생존뿐 아니라 경제도 좌우함. 전후 좌파 정부의 카지노 실험 은 이탈리아의 국경 검문에 막혀 실패했고, 오늘날 경제는 이탈리아/EU 시장에 깊이 통합돼 있음 관광 중심지인 수도에는 관광 인프라 가 잘 갖춰져 있 …",
-   "publishedAt": 1794088316000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.1,
-   "hot": true
   },
   {
    "title": "I struggle to believe that AI R&D is ingenious",
@@ -541,11 +541,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 219,
+   "engagement": 220,
    "comments": 217,
    "publishedAt": 1793942344000,
    "isAI": true,
-   "score": 37,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -559,7 +559,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -573,7 +573,7 @@
    "comments": 63,
    "publishedAt": 1793974389000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36,
    "hot": false
   },
   {
@@ -587,7 +587,7 @@
    "comments": 19,
    "publishedAt": 1793988246000,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -601,7 +601,7 @@
    "comments": 54,
    "publishedAt": 1793983829000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -615,7 +615,7 @@
    "comments": 899,
    "publishedAt": 1793643688000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -629,21 +629,7 @@
    "comments": 495,
    "publishedAt": 1793726557000,
    "isAI": true,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "Measuring how AI agents handle everyday wet-lab science",
-   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-   "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-   "publishedAt": 1793923200000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 34.7,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -657,21 +643,21 @@
    "comments": 2,
    "publishedAt": 1793889860000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.2,
    "hot": false
   },
   {
-   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-   "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50388122",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+   "publishedAt": 1793923200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
    "lang": "en",
-   "engagement": 342,
-   "comments": 137,
-   "publishedAt": 1793938669000,
-   "isAI": false,
-   "score": 34.4,
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -685,7 +671,21 @@
    "comments": 193,
    "publishedAt": 1793864670000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+   "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50388122",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 342,
+   "comments": 137,
+   "publishedAt": 1793938669000,
+   "isAI": false,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -699,7 +699,7 @@
    "comments": 200,
    "publishedAt": 1793787027000,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -713,7 +713,7 @@
    "comments": 66,
    "publishedAt": 1793951258000,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -724,10 +724,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 557,
-   "comments": 689,
+   "comments": 691,
    "publishedAt": 1793803042000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217147",
+   "summary": "과학 연구에서 AI 활용이 늘고 있지만, 새로운 아이디어나 가설을 만드는 작업보다 데이터 분석과 논문 작성에 집중되고 있다는 조사 결과가 나왔다. 연구자들은 가설 생성을 과학적 발견에서 가장 중요한 활동으로 꼽았지만, 실제 AI 사용 비중은 4% 수준에 그쳤다.앤트로픽은 5일(현지시간) 공식 블로그를 통해 '과학적 발견을 위한 AI: 연구자들은 클로드를 어떻게 사용하는가'라는 보고서를 공개했다.지난 8월2일부터 9월30일까지 '클로드'와 '클로드 코드'에서 이뤄진 과학 연구 관련 세션 20만7049건을 분석하고, 별도로 과학자 52",
+   "publishedAt": 1794129264000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -741,7 +755,21 @@
    "comments": 130,
    "publishedAt": 1793982692000,
    "isAI": false,
-   "score": 33.5,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+   "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50362905",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 616,
+   "comments": 289,
+   "publishedAt": 1793781989000,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -755,77 +783,7 @@
    "comments": 39,
    "publishedAt": 1793956410000,
    "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217146",
-   "summary": "중국 앤트그룹이 이미지와 동영상을 이해하고 복잡한 작업을 수행하는 멀티모달 AI 모델 '링 3.2 플래시(Ling-3.2-flash)'를 출시했다. 앤트로픽의 '클로드 오퍼스 5'를 일부 성능 평가에서 앞섰으며, 외부 웹 제작 평가에서도 상위 10위에 올랐다. 특히 저렴한 사용료와 100만토큰의 긴 컨텍스트를 앞세워 기업용 AI 에이전트 시장을 공략하고 있다.앤트그룹의 링 개발팀은 5일 최신 멀티모달 모델 링 3.2 플래시를 공개했다. 이번 모델은 총 5600억개의 매개변수를 보유했으며, 실제 추론에는 250억개만 활성화하는 전문가",
-   "publishedAt": 1794124740000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-   "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50362905",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 615,
-   "comments": 289,
-   "publishedAt": 1793781989000,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "Australian universities are creating AI-native graduates",
-   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-   "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-   "publishedAt": 1793898000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "Democrats launching congressional investigations into SpaceXAI, META and Apple",
-   "url": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50397102",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 146,
-   "comments": 149,
-   "publishedAt": 1793993064000,
-   "isAI": false,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "Discord is ditching Electron and its new app uses less RAM",
-   "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50378625",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 492,
-   "comments": 432,
-   "publishedAt": 1793883928000,
-   "isAI": false,
-   "score": 33,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -839,7 +797,63 @@
    "comments": 209,
    "publishedAt": 1793708477000,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "Australian universities are creating AI-native graduates",
+   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+   "publishedAt": 1793898000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217146",
+   "summary": "중국 앤트그룹이 이미지와 동영상을 이해하고 복잡한 작업을 수행하는 멀티모달 AI 모델 '링 3.2 플래시(Ling-3.2-flash)'를 출시했다. 앤트로픽의 '클로드 오퍼스 5'를 일부 성능 평가에서 앞섰으며, 외부 웹 제작 평가에서도 상위 10위에 올랐다. 특히 저렴한 사용료와 100만토큰의 긴 컨텍스트를 앞세워 기업용 AI 에이전트 시장을 공략하고 있다.앤트그룹의 링 개발팀은 5일 최신 멀티모달 모델 링 3.2 플래시를 공개했다. 이번 모델은 총 5600억개의 매개변수를 보유했으며, 실제 추론에는 250억개만 활성화하는 전문가",
+   "publishedAt": 1794124740000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "Discord is ditching Electron and its new app uses less RAM",
+   "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50378625",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 492,
+   "comments": 432,
+   "publishedAt": 1793883928000,
+   "isAI": false,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "Democrats launching congressional investigations into SpaceXAI, META and Apple",
+   "url": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50397102",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 146,
+   "comments": 150,
+   "publishedAt": 1793993064000,
+   "isAI": false,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -853,7 +867,7 @@
    "comments": 192,
    "publishedAt": 1793901601000,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -867,7 +881,7 @@
    "comments": 214,
    "publishedAt": 1793727600000,
    "isAI": true,
-   "score": 32,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -881,35 +895,7 @@
    "comments": 112,
    "publishedAt": 1793965206000,
    "isAI": false,
-   "score": 31.8,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217145",
-   "summary": "앤트로픽이 '클로드'를 활용해 40년 동안 정확한 기능이 밝혀지지 않은 세포 속 단백질 구조물의 새로운 형태를 발견했다. 특히 기존에 몇주가 걸리던 3차원 구조 분석의 첫 모델을 34시간 만에 완성하고, 전문 연구 경험이 부족한 분야에서도 AI가 과학자의 연구를 도울 수 있다는 가능성을 보여줬다.앤트로픽은 4일(현지시간) 공식 블로그를 통해 자체 생물학 연구팀이 클로드와 함께 '볼트 입자(vault particle)'의 새로운 형태를 발견하고 3D 구조를 밝혀냈다고 발표했다. 연구진은 4개월이 채 걸리지 않은 이번 프로젝트의 결과를",
-   "publishedAt": 1794107338000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217141",
-   "summary": "아마존웹서비스(AWS)가 여러 AI 에이전트의 작업을 조율하고 반복적인 개발 업무를 자동으로 수행하는 '키로 봇(Kiro Bots)'을 출시했다. 각 에이전트가 과거 작업과 개발자의 판단 기준을 기억하고 맡은 업무를 지속적으로 관리하도록 해, 개발자가 여러 AI 에이전트를 일일이 감독해야 하는 부담을 줄이는 것이 핵심이다.AWS는 5일(현지시간) 공식 블로그를 통해 AI 개발 환경 '키로 크루(Kiro Crew)'에서 키로 봇을 제공하기 시작했다고 밝혔다.키로 크루는 이미 여러 AI 에이전트의 병렬 실행과 장기 기억, 예약 작업 기",
-   "publishedAt": 1794106105000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.6,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -923,21 +909,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217144",
-   "summary": "구글이 퀄컴의 지분 5억4800만달러(약 7400억원)어치를 확보했다. 기존에 투자했던 AI 반도체 소프트웨어 기업을 퀄컴이 인수하면서 주식을 취득한 것으로, 퀄컴이 스마트폰 중심의 사업을 AI 데이터센터로 확대하는 시점에 알려져 주목받고 있다.로이터는 6일(현지시간) 구글 모회사 알파벳이 지난 3분기 퀄컴 주식 약 300만주를 확보했다고 보도했다.9월30일 기준 지분 가치는 약 5억4800만달러다. 이번 지분은 퀄컴이 지난 7월 AI 반도체 소프트웨어 기업 '모듈러(Modular)'를 인수하면서 확보한 것이다. 구글의 벤처투자 조",
-   "publishedAt": 1794104808000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.5,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -951,7 +923,21 @@
    "comments": 470,
    "publishedAt": 1793719547000,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217145",
+   "summary": "앤트로픽이 '클로드'를 활용해 40년 동안 정확한 기능이 밝혀지지 않은 세포 속 단백질 구조물의 새로운 형태를 발견했다. 특히 기존에 몇주가 걸리던 3차원 구조 분석의 첫 모델을 34시간 만에 완성하고, 전문 연구 경험이 부족한 분야에서도 AI가 과학자의 연구를 도울 수 있다는 가능성을 보여줬다.앤트로픽은 4일(현지시간) 공식 블로그를 통해 자체 생물학 연구팀이 클로드와 함께 '볼트 입자(vault particle)'의 새로운 형태를 발견하고 3D 구조를 밝혀냈다고 발표했다. 연구진은 4개월이 채 걸리지 않은 이번 프로젝트의 결과를",
+   "publishedAt": 1794107338000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -965,7 +951,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31.3,
+   "score": 31,
+   "hot": false
+  },
+  {
+   "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217141",
+   "summary": "아마존웹서비스(AWS)가 여러 AI 에이전트의 작업을 조율하고 반복적인 개발 업무를 자동으로 수행하는 '키로 봇(Kiro Bots)'을 출시했다. 각 에이전트가 과거 작업과 개발자의 판단 기준을 기억하고 맡은 업무를 지속적으로 관리하도록 해, 개발자가 여러 AI 에이전트를 일일이 감독해야 하는 부담을 줄이는 것이 핵심이다.AWS는 5일(현지시간) 공식 블로그를 통해 AI 개발 환경 '키로 크루(Kiro Crew)'에서 키로 봇을 제공하기 시작했다고 밝혔다.키로 크루는 이미 여러 AI 에이전트의 병렬 실행과 장기 기억, 예약 작업 기",
+   "publishedAt": 1794106105000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.9,
+   "hot": false
+  },
+  {
+   "title": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217144",
+   "summary": "구글이 퀄컴의 지분 5억4800만달러(약 7400억원)어치를 확보했다. 기존에 투자했던 AI 반도체 소프트웨어 기업을 퀄컴이 인수하면서 주식을 취득한 것으로, 퀄컴이 스마트폰 중심의 사업을 AI 데이터센터로 확대하는 시점에 알려져 주목받고 있다.로이터는 6일(현지시간) 구글 모회사 알파벳이 지난 3분기 퀄컴 주식 약 300만주를 확보했다고 보도했다.9월30일 기준 지분 가치는 약 5억4800만달러다. 이번 지분은 퀄컴이 지난 7월 AI 반도체 소프트웨어 기업 '모듈러(Modular)'를 인수하면서 확보한 것이다. 구글의 벤처투자 조",
+   "publishedAt": 1794104808000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -979,7 +993,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
+   "score": 30.7,
    "hot": false
   },
   {
@@ -993,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.2,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1007,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.2,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1021,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1035,7 +1049,7 @@
    "comments": 86,
    "publishedAt": 1793995754000,
    "isAI": false,
-   "score": 30.9,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1049,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.3,
    "hot": false
   },
   {
@@ -1063,21 +1077,7 @@
    "comments": 323,
    "publishedAt": 1793787814000,
    "isAI": true,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "OpenAI to acquire Pierre Computer Company",
-   "url": "https://openai.com/index/openai-to-acquire-pierre/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50366863",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 264,
-   "comments": 93,
-   "publishedAt": 1793805681000,
-   "isAI": true,
-   "score": 30.3,
+   "score": 30.2,
    "hot": false
   },
   {
@@ -1091,7 +1091,21 @@
    "comments": 163,
    "publishedAt": 1793717621000,
    "isAI": true,
-   "score": 30.3,
+   "score": 30.1,
+   "hot": false
+  },
+  {
+   "title": "OpenAI to acquire Pierre Computer Company",
+   "url": "https://openai.com/index/openai-to-acquire-pierre/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50366863",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 264,
+   "comments": 93,
+   "publishedAt": 1793805681000,
+   "isAI": true,
+   "score": 30,
    "hot": false
   },
   {
@@ -1105,21 +1119,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 30.3,
-   "hot": false
-  },
-  {
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-   "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-   "publishedAt": 1793898000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 30.3,
+   "score": 30,
    "hot": false
   },
   {
@@ -1133,7 +1133,21 @@
    "comments": 223,
    "publishedAt": 1793806714000,
    "isAI": false,
-   "score": 30.2,
+   "score": 29.9,
+   "hot": false
+  },
+  {
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+   "publishedAt": 1793898000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 29.9,
    "hot": false
   },
   {
@@ -1147,7 +1161,7 @@
    "comments": 122,
    "publishedAt": 1793812666000,
    "isAI": true,
-   "score": 30.1,
+   "score": 29.8,
    "hot": false
   },
   {
@@ -1161,7 +1175,7 @@
    "comments": 170,
    "publishedAt": 1793741204000,
    "isAI": true,
-   "score": 30,
+   "score": 29.8,
    "hot": false
   },
   {
@@ -1175,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 29.9,
+   "score": 29.6,
    "hot": false
   },
   {
@@ -1189,7 +1203,7 @@
    "comments": 60,
    "publishedAt": 1793742053000,
    "isAI": true,
-   "score": 29.8,
+   "score": 29.5,
    "hot": false
   },
   {
@@ -1203,49 +1217,7 @@
    "comments": 44,
    "publishedAt": 1793893917000,
    "isAI": true,
-   "score": 29.7,
-   "hot": false
-  },
-  {
-   "title": "Crusoe sells troubled Wyoming data center project to Google",
-   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-   "summary": "The deal highlights the challenges of developing massive AI data centers.",
-   "publishedAt": 1794015628000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 29.2,
-   "hot": false
-  },
-  {
-   "title": "Cult.fit builds operational muscle with Codex",
-   "url": "https://openai.com/index/cultfit-builds-with-codex",
-   "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-   "publishedAt": 1793908800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": false,
-   "score": 29.1,
-   "hot": false
-  },
-  {
-   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-   "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50370654",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 170,
-   "comments": 64,
-   "publishedAt": 1793822114000,
-   "isAI": true,
-   "score": 28.9,
+   "score": 29.4,
    "hot": false
   },
   {
@@ -1259,7 +1231,49 @@
    "comments": 247,
    "publishedAt": 1793724449000,
    "isAI": false,
-   "score": 28.9,
+   "score": 28.7,
+   "hot": false
+  },
+  {
+   "title": "Cult.fit builds operational muscle with Codex",
+   "url": "https://openai.com/index/cultfit-builds-with-codex",
+   "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+   "publishedAt": 1793908800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": false,
+   "score": 28.7,
+   "hot": false
+  },
+  {
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "summary": "The deal highlights the challenges of developing massive AI data centers.",
+   "publishedAt": 1794015628000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 28.7,
+   "hot": false
+  },
+  {
+   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+   "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50370654",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 170,
+   "comments": 64,
+   "publishedAt": 1793822114000,
+   "isAI": true,
+   "score": 28.6,
    "hot": false
   },
   {
@@ -1273,21 +1287,7 @@
    "comments": 213,
    "publishedAt": 1793814731000,
    "isAI": false,
-   "score": 28.6,
-   "hot": false
-  },
-  {
-   "title": "Everything is an AI scam now",
-   "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50371508",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 152,
-   "comments": 62,
-   "publishedAt": 1793826319000,
-   "isAI": true,
-   "score": 28.5,
+   "score": 28.3,
    "hot": false
   },
   {
@@ -1301,7 +1301,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 28.5,
+   "score": 28.3,
+   "hot": false
+  },
+  {
+   "title": "Everything is an AI scam now",
+   "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50371508",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 152,
+   "comments": 62,
+   "publishedAt": 1793826319000,
+   "isAI": true,
+   "score": 28.2,
    "hot": false
   },
   {
@@ -1315,63 +1329,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 28.5,
-   "hot": false
-  },
-  {
-   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-   "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-   "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-   "publishedAt": 1794089242000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
-   "score": 28.3,
-   "hot": false
-  },
-  {
-   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-   "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-   "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, m",
-   "publishedAt": 1794066600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 28.3,
-   "hot": false
-  },
-  {
-   "title": "The US let Nvidia sell chips to an empty office in China",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-   "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a ho",
-   "publishedAt": 1794066225000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 28.3,
-   "hot": false
-  },
-  {
-   "title": "Nvidia Kubernetes Engine (NVKE)",
-   "url": "https://github.com/dsx-ai-factory/nvke",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50387738",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 124,
-   "comments": 29,
-   "publishedAt": 1793934986000,
-   "isAI": false,
-   "score": 28.2,
+   "score": 28.1,
    "hot": false
   },
   {
@@ -1385,21 +1343,63 @@
    "comments": 232,
    "publishedAt": 1793628162000,
    "isAI": true,
-   "score": 28.1,
+   "score": 28,
    "hot": false
   },
   {
-   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-   "publishedAt": 1794086228000,
+   "title": "Nvidia Kubernetes Engine (NVKE)",
+   "url": "https://github.com/dsx-ai-factory/nvke",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50387738",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 124,
+   "comments": 29,
+   "publishedAt": 1793934986000,
+   "isAI": false,
+   "score": 27.8,
+   "hot": false
+  },
+  {
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+   "publishedAt": 1794089242000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": false,
-   "score": 28.1,
+   "score": 27.8,
+   "hot": false
+  },
+  {
+   "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+   "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+   "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, m",
+   "publishedAt": 1794066600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 27.8,
+   "hot": false
+  },
+  {
+   "title": "The US let Nvidia sell chips to an empty office in China",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a ho",
+   "publishedAt": 1794066225000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 27.7,
    "hot": false
   }
  ]
