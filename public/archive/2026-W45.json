@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794107893518,
+ "updatedAt": 1794111551939,
  "week": "2026-W45",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 417,
-   "comments": 240,
+   "engagement": 423,
+   "comments": 248,
    "publishedAt": 1794074537000,
    "isAI": true,
-   "score": 59.6,
+   "score": 59.1,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 212,
-   "comments": 144,
+   "engagement": 249,
+   "comments": 162,
    "publishedAt": 1794084332000,
    "isAI": true,
-   "score": 55.2,
+   "score": 56.1,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 841,
-   "comments": 231,
+   "engagement": 864,
+   "comments": 234,
    "publishedAt": 1794044196000,
    "isAI": false,
-   "score": 53.7,
+   "score": 53.4,
    "hot": true
   },
   {
@@ -51,11 +51,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 391,
-   "comments": 257,
+   "engagement": 400,
+   "comments": 263,
    "publishedAt": 1794071196000,
    "isAI": false,
-   "score": 51.3,
+   "score": 50.9,
+   "hot": true
+  },
+  {
+   "title": "Aspen - Git의 설계 범위를 넘어 에이전트 커밋을 확장하는 오픈소스 서버",
+   "url": "https://news.hada.io/topic?id=36787&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Aspen 은 수백 개 에이전트가 하나의 저장소에 동시에 푸시하는 환경을 위한 오픈소스 Git 서버로, OpenAI의 내부 백엔드 Pando 설계를 독립적으로 구현함 저장소 전체가 아닌 브랜치별 비교 후 교체(compare-and-swap) 로 푸시를 처리하고, 저장된 팩(pack)을 재사용 해 클라이언트마다 같은 이력을 다시 압축하는 작업을 없앰 확장성을 위해 모든 브랜치의 일관된 단일 스냅샷 과 클라이언트별 맞춤 팩을 포기함 자체 측정에서 S3 Standard를 사용해 단일 저장소에 초당 567회 푸시 를 5분간 오류 없이 유지",
+   "publishedAt": 1794107581000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.4,
    "hot": true
   },
   {
@@ -69,7 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -80,10 +94,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 1592,
-   "comments": 516,
+   "comments": 518,
    "publishedAt": 1793917035000,
    "isAI": true,
-   "score": 48.5,
+   "score": 48.2,
    "hot": false
   },
   {
@@ -97,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
   },
   {
@@ -111,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -125,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -139,7 +153,7 @@
    "comments": 345,
    "publishedAt": 1793996843000,
    "isAI": true,
-   "score": 47.5,
+   "score": 47.1,
    "hot": false
   },
   {
@@ -153,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -205,11 +219,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 153,
-   "comments": 81,
+   "engagement": 154,
+   "comments": 82,
    "publishedAt": 1794033544000,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -220,10 +234,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 312,
-   "comments": 613,
+   "comments": 614,
    "publishedAt": 1793984076000,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
    "hot": false
   },
   {
@@ -233,12 +247,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 360,
-   "comments": 250,
+   "engagement": 361,
+   "comments": 251,
    "publishedAt": 1793972127000,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": false
+  },
+  {
+   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+   "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50403507",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 252,
+   "comments": 227,
+   "publishedAt": 1794049875000,
+   "isAI": false,
+   "score": 44.3,
+   "hot": true
   },
   {
    "title": "Asahi Linux Progress Linux 7.3",
@@ -247,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 333,
-   "comments": 268,
+   "engagement": 342,
+   "comments": 285,
    "publishedAt": 1794028818000,
    "isAI": false,
-   "score": 44.5,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -261,25 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 207,
+   "engagement": 209,
    "comments": 87,
    "publishedAt": 1794060020000,
    "isAI": false,
-   "score": 44.4,
-   "hot": true
-  },
-  {
-   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-   "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50403507",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 235,
-   "comments": 222,
-   "publishedAt": 1794049875000,
-   "isAI": false,
-   "score": 44.2,
+   "score": 44,
    "hot": true
   },
   {
@@ -289,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 243,
-   "comments": 119,
+   "engagement": 247,
+   "comments": 123,
    "publishedAt": 1794044346000,
    "isAI": false,
-   "score": 43.8,
+   "score": 43.5,
    "hot": true
   },
   {
@@ -303,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 514,
-   "comments": 230,
+   "engagement": 515,
+   "comments": 229,
    "publishedAt": 1793920197000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -321,7 +335,7 @@
    "comments": 424,
    "publishedAt": 1793957232000,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -335,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -349,7 +363,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -363,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -377,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -391,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -405,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -415,11 +429,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 216,
+   "engagement": 217,
    "comments": 217,
    "publishedAt": 1793942344000,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -433,7 +447,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -447,7 +461,7 @@
    "comments": 63,
    "publishedAt": 1793974389000,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -461,7 +475,7 @@
    "comments": 749,
    "publishedAt": 1793793137000,
    "isAI": true,
-   "score": 38.3,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -475,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -489,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -503,7 +517,7 @@
    "comments": 19,
    "publishedAt": 1793988246000,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -517,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -531,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -541,11 +555,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 246,
+   "engagement": 247,
    "comments": 54,
    "publishedAt": 1793983829000,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -559,21 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
-   "hot": true
-  },
-  {
-   "title": "RealPage 임대료 책정 소송, 세입자에게 약 3억 6,000만 달러 지급하는 합의로 마무리",
-   "url": "https://news.hada.io/topic?id=36765&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "미국 연방법원이 RealPage 소프트웨어를 통한 임대료 담합 의혹 집단소송의 합의를 승인함. 합의에 참여한 임대인들이 세입자에게 지급할 금액은 약 3억 6,000만 달러 임 합의 기업들은 잘못이나 법적 책임을 인정하지 않았지만, 가격 추천을 위한 비공개 데이터 제공과 경쟁사 비공개 데이터 활용 을 중단하기로 함 합의 대상은 2018년 10월 18일부터 2025년 11월 21일까지 지정된 RealPage 제품을 사용한 미국 공동주택에서 소유주나 운영사에 임대료를 낸 세입자임 워싱턴 D.C.와 4개 주 법무장관은 합의가 별도 소송을 ",
-   "publishedAt": 1794069296000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.5,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -587,20 +587,6 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-   "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50388122",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 342,
-   "comments": 136,
-   "publishedAt": 1793938669000,
-   "isAI": false,
    "score": 36.1,
    "hot": false
   },
@@ -615,7 +601,21 @@
    "comments": 2,
    "publishedAt": 1793889860000,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+   "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50388122",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 342,
+   "comments": 136,
+   "publishedAt": 1793938669000,
+   "isAI": false,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -629,7 +629,7 @@
    "comments": 495,
    "publishedAt": 1793726557000,
    "isAI": true,
-   "score": 36,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -643,7 +643,7 @@
    "comments": 899,
    "publishedAt": 1793643688000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -657,7 +657,7 @@
    "comments": 193,
    "publishedAt": 1793864670000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -667,11 +667,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 265,
+   "engagement": 266,
    "comments": 66,
    "publishedAt": 1793951258000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -685,7 +685,7 @@
    "comments": 130,
    "publishedAt": 1793982692000,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -699,7 +699,7 @@
    "comments": 200,
    "publishedAt": 1793787027000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -713,7 +713,21 @@
    "comments": 39,
    "publishedAt": 1793956410000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.8,
+   "hot": false
+  },
+  {
+   "title": "Ask HN: What's your current AI agentic setup?",
+   "url": "https://news.ycombinator.com/item?id=50366117",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50366117",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 555,
+   "comments": 685,
+   "publishedAt": 1793803042000,
+   "isAI": true,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -727,21 +741,7 @@
    "comments": 149,
    "publishedAt": 1793993064000,
    "isAI": false,
-   "score": 34.8,
-   "hot": false
-  },
-  {
-   "title": "Ask HN: What's your current AI agentic setup?",
-   "url": "https://news.ycombinator.com/item?id=50366117",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50366117",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 554,
-   "comments": 683,
-   "publishedAt": 1793803042000,
-   "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -755,7 +755,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -765,11 +765,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 490,
+   "engagement": 491,
    "comments": 432,
    "publishedAt": 1793883928000,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -783,7 +783,7 @@
    "comments": 289,
    "publishedAt": 1793781989000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -797,7 +797,7 @@
    "comments": 192,
    "publishedAt": 1793901601000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -811,35 +811,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시…반복 업무까지 자동화",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217141",
-   "summary": "아마존웹서비스(AWS)가 여러 AI 에이전트의 작업을 조율하고 반복적인 개발 업무를 자동으로 수행하는 '키로 봇(Kiro Bots)'을 출시했다. 각 에이전트가 과거 작업과 개발자의 판단 기준을 기억하고 맡은 업무를 지속적으로 관리하도록 해, 개발자가 여러 AI 에이전트를 일일이 감독해야 하는 부담을 줄이는 것이 핵심이다.AWS는 5일(현지시간) 공식 블로그를 통해 AI 개발 환경 '키로 크루(Kiro Crew)'에서 키로 봇을 제공하기 시작했다고 밝혔다.키로 크루는 이미 여러 AI 에이전트의 병렬 실행과 장기 기억, 예약 작업 기",
-   "publishedAt": 1794106105000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217144",
-   "summary": "구글이 퀄컴의 지분 5억4800만달러(약 7400억원)어치를 확보했다. 기존에 투자했던 AI 반도체 소프트웨어 기업을 퀄컴이 인수하면서 주식을 취득한 것으로, 퀄컴이 스마트폰 중심의 사업을 AI 데이터센터로 확대하는 시점에 알려져 주목받고 있다.로이터는 6일(현지시간) 구글 모회사 알파벳이 지난 3분기 퀄컴 주식 약 300만주를 확보했다고 보도했다.9월30일 기준 지분 가치는 약 5억4800만달러다. 이번 지분은 퀄컴이 지난 7월 AI 반도체 소프트웨어 기업 '모듈러(Modular)'를 인수하면서 확보한 것이다. 구글의 벤처투자 조",
-   "publishedAt": 1794104808000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -853,7 +825,35 @@
    "comments": 209,
    "publishedAt": 1793708477000,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시…반복 업무까지 자동화",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217141",
+   "summary": "아마존웹서비스(AWS)가 여러 AI 에이전트의 작업을 조율하고 반복적인 개발 업무를 자동으로 수행하는 '키로 봇(Kiro Bots)'을 출시했다. 각 에이전트가 과거 작업과 개발자의 판단 기준을 기억하고 맡은 업무를 지속적으로 관리하도록 해, 개발자가 여러 AI 에이전트를 일일이 감독해야 하는 부담을 줄이는 것이 핵심이다.AWS는 5일(현지시간) 공식 블로그를 통해 AI 개발 환경 '키로 크루(Kiro Crew)'에서 키로 봇을 제공하기 시작했다고 밝혔다.키로 크루는 이미 여러 AI 에이전트의 병렬 실행과 장기 기억, 예약 작업 기",
+   "publishedAt": 1794106105000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217144",
+   "summary": "구글이 퀄컴의 지분 5억4800만달러(약 7400억원)어치를 확보했다. 기존에 투자했던 AI 반도체 소프트웨어 기업을 퀄컴이 인수하면서 주식을 취득한 것으로, 퀄컴이 스마트폰 중심의 사업을 AI 데이터센터로 확대하는 시점에 알려져 주목받고 있다.로이터는 6일(현지시간) 구글 모회사 알파벳이 지난 3분기 퀄컴 주식 약 300만주를 확보했다고 보도했다.9월30일 기준 지분 가치는 약 5억4800만달러다. 이번 지분은 퀄컴이 지난 7월 AI 반도체 소프트웨어 기업 '모듈러(Modular)'를 인수하면서 확보한 것이다. 구글의 벤처투자 조",
+   "publishedAt": 1794104808000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -867,7 +867,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -881,7 +881,7 @@
    "comments": 111,
    "publishedAt": 1793965206000,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -895,7 +895,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -909,7 +909,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -923,7 +923,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -937,7 +937,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -951,7 +951,7 @@
    "comments": 214,
    "publishedAt": 1793727600000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -965,20 +965,6 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50397711",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 101,
-   "comments": 89,
-   "publishedAt": 1793995754000,
-   "isAI": false,
    "score": 32.6,
    "hot": false
   },
@@ -993,7 +979,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.4,
+   "hot": false
+  },
+  {
+   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50397711",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 101,
+   "comments": 89,
+   "publishedAt": 1793995754000,
+   "isAI": false,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1007,7 +1007,7 @@
    "comments": 470,
    "publishedAt": 1793719547000,
    "isAI": true,
-   "score": 32.1,
+   "score": 32,
    "hot": false
   },
   {
@@ -1021,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1035,7 +1035,7 @@
    "comments": 323,
    "publishedAt": 1793787814000,
    "isAI": true,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1049,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1063,7 +1063,7 @@
    "comments": 93,
    "publishedAt": 1793805681000,
    "isAI": true,
-   "score": 31.3,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1077,7 +1077,7 @@
    "comments": 122,
    "publishedAt": 1793812666000,
    "isAI": true,
-   "score": 31.2,
+   "score": 31,
    "hot": false
   },
   {
@@ -1091,20 +1091,6 @@
    "comments": 223,
    "publishedAt": 1793806714000,
    "isAI": false,
-   "score": 31.2,
-   "hot": false
-  },
-  {
-   "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-   "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50380658",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 104,
-   "comments": 44,
-   "publishedAt": 1793893917000,
-   "isAI": true,
    "score": 31,
    "hot": false
   },
@@ -1119,7 +1105,7 @@
    "comments": 163,
    "publishedAt": 1793717621000,
    "isAI": true,
-   "score": 31,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1133,21 +1119,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31,
+   "score": 30.9,
    "hot": false
   },
   {
-   "title": "Crusoe sells troubled Wyoming data center project to Google",
-   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-   "summary": "The deal highlights the challenges of developing massive AI data centers.",
-   "publishedAt": 1794015628000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
+   "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+   "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50380658",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
+   "engagement": 104,
+   "comments": 44,
+   "publishedAt": 1793893917000,
    "isAI": true,
-   "score": 31,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1161,7 +1147,21 @@
    "comments": 170,
    "publishedAt": 1793741204000,
    "isAI": true,
-   "score": 30.8,
+   "score": 30.7,
+   "hot": false
+  },
+  {
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "summary": "The deal highlights the challenges of developing massive AI data centers.",
+   "publishedAt": 1794015628000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 30.7,
    "hot": false
   },
   {
@@ -1175,7 +1175,7 @@
    "comments": 60,
    "publishedAt": 1793742053000,
    "isAI": true,
-   "score": 30.6,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1189,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 30.4,
+   "score": 30.2,
    "hot": false
   },
   {
@@ -1203,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": false,
-   "score": 30.3,
+   "score": 30,
    "hot": false
   },
   {
@@ -1217,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 30.2,
+   "score": 29.9,
    "hot": false
   },
   {
@@ -1231,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.2,
+   "score": 29.8,
    "hot": false
   },
   {
@@ -1245,21 +1245,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.1,
-   "hot": false
-  },
-  {
-   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-   "publishedAt": 1794086228000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
-   "score": 30,
+   "score": 29.8,
    "hot": false
   },
   {
@@ -1273,7 +1259,21 @@
    "comments": 64,
    "publishedAt": 1793822114000,
    "isAI": true,
-   "score": 29.9,
+   "score": 29.7,
+   "hot": false
+  },
+  {
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+   "publishedAt": 1794086228000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": false,
+   "score": 29.7,
    "hot": false
   },
   {
@@ -1287,20 +1287,6 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 29.9,
-   "hot": false
-  },
-  {
-   "title": "Nvidia Kubernetes Engine (NVKE)",
-   "url": "https://github.com/dsx-ai-factory/nvke",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50387738",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 124,
-   "comments": 28,
-   "publishedAt": 1793934986000,
-   "isAI": false,
    "score": 29.6,
    "hot": false
   },
@@ -1315,7 +1301,21 @@
    "comments": 247,
    "publishedAt": 1793724449000,
    "isAI": false,
-   "score": 29.6,
+   "score": 29.5,
+   "hot": false
+  },
+  {
+   "title": "Nvidia Kubernetes Engine (NVKE)",
+   "url": "https://github.com/dsx-ai-factory/nvke",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50387738",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 124,
+   "comments": 29,
+   "publishedAt": 1793934986000,
+   "isAI": false,
+   "score": 29.4,
    "hot": false
   },
   {
@@ -1329,7 +1329,7 @@
    "comments": 62,
    "publishedAt": 1793826319000,
    "isAI": true,
-   "score": 29.5,
+   "score": 29.4,
    "hot": false
   },
   {
@@ -1339,11 +1339,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 393,
+   "engagement": 394,
    "comments": 213,
    "publishedAt": 1793814731000,
    "isAI": false,
-   "score": 29.5,
+   "score": 29.4,
    "hot": false
   },
   {
@@ -1357,21 +1357,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 29.5,
-   "hot": false
-  },
-  {
-   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-   "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organizatio",
-   "publishedAt": 1794054600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 29.2,
+   "score": 29.3,
    "hot": false
   },
   {
@@ -1385,7 +1371,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 29.1,
+   "score": 28.9,
    "hot": false
   },
   {
@@ -1399,7 +1385,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 29.1,
+   "score": 28.9,
+   "hot": false
+  },
+  {
+   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organizatio",
+   "publishedAt": 1794054600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 28.9,
    "hot": false
   }
  ]
