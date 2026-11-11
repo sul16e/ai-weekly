@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794423860957,
+ "updatedAt": 1794427517811,
  "week": "2026-W46",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 808,
-   "comments": 302,
+   "engagement": 843,
+   "comments": 312,
    "publishedAt": 1794398722000,
    "isAI": true,
-   "score": 66.8,
+   "score": 66.5,
    "hot": true
   },
   {
@@ -27,7 +27,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 61.2,
+   "score": 60.5,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 478,
-   "comments": 495,
+   "engagement": 488,
+   "comments": 508,
    "publishedAt": 1794345903000,
    "isAI": true,
-   "score": 53.8,
+   "score": 53.4,
    "hot": true
   },
   {
@@ -55,8 +55,22 @@
    "comments": 214,
    "publishedAt": 1794349076000,
    "isAI": true,
-   "score": 53.6,
+   "score": 53.1,
    "hot": true
+  },
+  {
+   "title": "Atuin Threads: All your agent sessions on every machine",
+   "url": "https://blog.atuin.sh/threads-agent-sessions/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50453637",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 143,
+   "comments": 58,
+   "publishedAt": 1794406246000,
+   "isAI": true,
+   "score": 52.1,
+   "hot": false
   },
   {
    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -69,22 +83,22 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 52.4,
+   "score": 51.8,
    "hot": true
   },
   {
-   "title": "Atuin Threads: All your agent sessions on every machine",
-   "url": "https://blog.atuin.sh/threads-agent-sessions/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50453637",
+   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50455394",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 125,
-   "comments": 54,
-   "publishedAt": 1794406246000,
-   "isAI": true,
-   "score": 51.4,
-   "hot": false
+   "engagement": 271,
+   "comments": 141,
+   "publishedAt": 1794415124000,
+   "isAI": false,
+   "score": 51.6,
+   "hot": true
   },
   {
    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
@@ -93,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 421,
-   "comments": 139,
+   "engagement": 422,
+   "comments": 140,
    "publishedAt": 1794333675000,
    "isAI": true,
-   "score": 51.2,
+   "score": 50.7,
    "hot": false
   },
   {
@@ -107,26 +121,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1120,
-   "comments": 412,
+   "engagement": 1124,
+   "comments": 416,
    "publishedAt": 1794324320000,
    "isAI": false,
-   "score": 51,
+   "score": 50.6,
    "hot": false
-  },
-  {
-   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50455394",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 232,
-   "comments": 123,
-   "publishedAt": 1794415124000,
-   "isAI": false,
-   "score": 50.7,
-   "hot": true
   },
   {
    "title": "AI usage generates a fragile codebase",
@@ -135,12 +135,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 618,
-   "comments": 583,
+   "engagement": 623,
+   "comments": 591,
    "publishedAt": 1794306358000,
    "isAI": true,
-   "score": 50.5,
+   "score": 50.1,
    "hot": false
+  },
+  {
+   "title": "선형계획법으로 가중치 공간 프로그래밍을 할 수 있을까?",
+   "url": "https://news.hada.io/topic?id=37003&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Qwen3.5-0.8B의 반복 사고를 줄이는 가중치 수정 을 선형계획법(LP)으로 구해, GPT-6 Astra의 약 8시간 탐색을 약 1분씩 걸리는 몇 차례 최적화로 대체함 반복을 유발하는 잔차 스트림 방향을 고정하면, 반복 토큰은 반대 방향으로 밀고 정상적인 추론 토큰은 거의 건드리지 않는 조건을 선형 부등식 으로 만들 수 있음 Astra와 같은 방향을 사용한 LP 수정은 8분의 1 수준의 가중치만 변경 하면서 GSM8K, MATH-500, IFEval에서 잡음 범위 내의 유사한 성능을 얻음 가중치를 바꾸지 않고 모든 토큰에 일정",
+   "publishedAt": 1794426276000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.8,
+   "hot": true
   },
   {
    "title": "Apple is killing its Support Community forum next week",
@@ -149,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 219,
-   "comments": 124,
+   "engagement": 244,
+   "comments": 144,
    "publishedAt": 1794405731000,
    "isAI": false,
-   "score": 48.8,
+   "score": 49.3,
    "hot": true
   },
   {
@@ -163,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 360,
-   "comments": 129,
+   "engagement": 366,
+   "comments": 131,
    "publishedAt": 1794371337000,
    "isAI": false,
-   "score": 48.4,
+   "score": 48,
    "hot": true
   },
   {
@@ -177,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 274,
-   "comments": 211,
+   "engagement": 275,
+   "comments": 212,
    "publishedAt": 1794333307000,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.5,
    "hot": false
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.3,
    "hot": false
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -223,7 +237,7 @@
    "comments": 159,
    "publishedAt": 1794326835000,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.1,
    "hot": false
   },
   {
@@ -237,7 +251,7 @@
    "comments": 8,
    "publishedAt": 1794250589000,
    "isAI": true,
-   "score": 47.4,
+   "score": 47.1,
    "hot": false
   },
   {
@@ -251,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -261,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 183,
-   "comments": 29,
+   "engagement": 199,
+   "comments": 30,
    "publishedAt": 1794400217000,
    "isAI": false,
-   "score": 46.5,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -279,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -293,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -303,26 +317,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 730,
-   "comments": 147,
+   "engagement": 732,
+   "comments": 148,
    "publishedAt": 1794248678000,
    "isAI": true,
-   "score": 45.4,
+   "score": 45,
    "hot": false
   },
   {
-   "title": "Apple, 여러 Mac을 묶어 로컬 AI 모델을 실행하는 ‘Harbor’ 준비 중",
-   "url": "https://news.hada.io/topic?id=36982&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Apple은 Mac 한 대 또는 여러 대를 로컬 AI 추론 서버로 쓰는 앱 ‘Harbor’ 를 개발 중임 Apple silicon 에서 오픈 웨이트 모델을 실행해 Mac을 개인용 AI 추론 서버로 만들며, 앱 소개에 따르면 데이터가 하드웨어 밖이나 클라우드로 전송되지 않음 Thunderbolt 5 로 여러 Mac을 연결하고 통합 메모리를 합쳐, 단일 Mac의 용량을 넘는 모델을 실행하거나 더 많은 동시 요청을 처리할 수 있음 기기 자동 감지와 클러스터 구성, 앱 내 모델 검색/다운로드/로딩을 지원해 수동 설정이나 명령줄 작업 없이 ",
-   "publishedAt": 1794385962000,
-   "source": "GeekNews",
+   "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+   "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50452742",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.8,
-   "hot": true
+   "lang": "en",
+   "engagement": 149,
+   "comments": 48,
+   "publishedAt": 1794401046000,
+   "isAI": false,
+   "score": 44.3,
+   "hot": false
   },
   {
    "title": "ChatGPT Plus for veterans and servicemembers",
@@ -335,50 +349,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 44.5,
-   "hot": true
-  },
-  {
-   "title": "투박한 차단 망치로 단순한 봇을 가차 없이 막기",
-   "url": "https://news.hada.io/topic?id=36981&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "B6 는 robots.txt 에서 접근을 금지한 숨은 허니팟에 방문하면 해당 IP를 .htaccess 에 등록해 사이트 전체 접근을 차단하는 도구임 OpenBenches.org 적용 사례 에서 봇 트래픽이 80% 넘게 줄었으며, 하루 데이터 전송량은 최고 216GB에서 약 25GB로 감소함 모든 페이지에 숨겨진 링크 를 넣어 크롤러를 유도하며, 캐시를 많이 사용하는 사이트에서도 작동하도록 구현함 User-Agent나 국가 등 다른 신호를 확인하지 않고 즉시 차단 하며, 사전 경고나 자동 이의 제기 절차가 없음 유용한 봇과 무관한 이",
-   "publishedAt": 1794384140000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.5,
-   "hot": true
-  },
-  {
-   "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
-   "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50452742",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 143,
-   "comments": 46,
-   "publishedAt": 1794401046000,
-   "isAI": false,
-   "score": 44.4,
+   "score": 44.1,
    "hot": false
-  },
-  {
-   "title": "Show GN: NOX - LLM 채팅으로 영상을 찾고 제어하는 NVR/VMS 플랫폼",
-   "url": "https://news.hada.io/topic?id=36979&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "NOX 소개 NOX는 제가 2024년 8월부터 혼자 만들고 있는 NVR(네트워크 비디오 레코더)/VMS(영상관리시스템) 플랫폼입니다. 카메라 연동(ONVIF/RTSP), 녹화·재생·검색, 실시간 AI 분석(객체 검출, 번호판 인식, 영상 비식별), 권한 관리와 감사 로그, 국가정보원(NIS) 보안요구사항 인증 대응을 갖췄고, 라이선스 서버와 Paddle 기반 구독 결제도 연동했습니다. 특히 LLM 채팅을 지원합니다. \"어제 오전 9시 30분 현관 영상 보여줘\"처럼 말하면 영상을 찾아 재생하고, 라이브·재생·검색 화면을 열거나 재생 ",
-   "publishedAt": 1794381040000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.2,
-   "hot": true
   },
   {
    "title": "A great old-timey game-programming hack (2013)",
@@ -387,11 +359,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 242,
+   "engagement": 246,
    "comments": 55,
    "publishedAt": 1794362191000,
    "isAI": false,
-   "score": 44,
+   "score": 43.7,
    "hot": true
   },
   {
@@ -405,7 +377,7 @@
    "comments": 256,
    "publishedAt": 1794290468000,
    "isAI": false,
-   "score": 44,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -419,7 +391,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 43.5,
+   "score": 43.1,
    "hot": true
   },
   {
@@ -433,8 +405,50 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
+  },
+  {
+   "title": "Pharo in the Browser with WebAssembly",
+   "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50453763",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 105,
+   "comments": 30,
+   "publishedAt": 1794406887000,
+   "isAI": false,
+   "score": 41.9,
+   "hot": false
+  },
+  {
+   "title": "WebGL2로 구현한 극사실적인 모래 시뮬레이터",
+   "url": "https://news.hada.io/topic?id=37002&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Sand 는 브라우저에서 모래 알갱이를 움직이며 놀 수 있는 시뮬레이터임 WebGL2와 JavaScript 로 구현됨 손가락으로 모래 알갱이를 밀거나 , 드래그로 그림을 그릴 수 있음 휴대전화를 기울이면 모래가 미끄러지고, 흔들면 알갱이가 흩어짐 휴대전화, 태블릿, 데스크톱 의 브라우저에서 실행할 수 있음 모래 조작 방식 손가락으로 모래 알갱이를 밀거나 드래그해 그림을 그릴 수 있음 휴대전화를 기울이면 모래가 미끄러지고, 흔들면 알갱이가 흩어짐 구현과 실행 환경 WebGL2와 JavaScript 로 구현한 브라우저 기반 모래 시뮬레",
+   "publishedAt": 1794426096000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
+  },
+  {
+   "title": "AWS가 마침내 자체 AWS 에뮬레이터를 만들었다",
+   "url": "https://news.hada.io/topic?id=37001&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "AWS Emulator 는 실제 AWS를 호출하지 않고 로컬 머신, 개발 서버, CI에서 AWS API를 사용하는 소프트웨어를 테스트하는 도구로, AWS 계정 없이 사용 가능함 서버 모드 에서는 AWS CLI나 SDK가 에뮬레이터 엔드포인트를 향하도록 설정하며, Rust 임베디드 모드 에서는 테스트마다 격리된 인스턴스를 프로세스 내부에서 실행함 개발과 테스트 전용 으로, 프로덕션 워크로드나 보안 테스트에는 사용하면 안 되며 실제 AWS와의 동작 일치도는 릴리스별로 확인해야 함 Rust 기반 구조 로 AWS 서비스마다 별도 크레이트를",
+   "publishedAt": 1794425916000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "Life on Claude Nine",
@@ -443,11 +457,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 124,
+   "engagement": 125,
    "comments": 84,
    "publishedAt": 1794332684000,
    "isAI": true,
-   "score": 42,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -458,11 +472,25 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 378,
-   "comments": 275,
+   "comments": 277,
    "publishedAt": 1794254695000,
    "isAI": true,
-   "score": 41.9,
+   "score": 41.6,
    "hot": false
+  },
+  {
+   "title": "연기 감지기 오작동으로 Jane Street의 유일한 뉴욕 데이터센터가 물바다가 될 뻔한 사건",
+   "url": "https://news.hada.io/topic?id=37000&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "공사 중 발생한 먼지가 연기 경보 를 울리면서 Jane Street 데이터센터의 냉방이 꺼지고 스프링클러 배관에 물이 채워져, 서버 발열만으로 살수가 시작될 수 있는 상황이 벌어짐 스프링클러는 열에 반응해 물을 분사 하지만, 연기 감지 시 공기 순환을 막으려고 냉방도 중단하는 구조여서 실제 화재 없이도 위험한 온도 상승이 발생함 인근에 살던 시스템팀 직원이 현장으로 달려가 장비 전원 케이블을 직접 분리 했고, 온도는 살수 기준인 화씨 150도에 못 미치는 143.6도에서 멈춤 뉴욕 주요 시장이 문을 닫은 뒤 발생해 운영 중단의 영향",
+   "publishedAt": 1794422422000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
   },
   {
    "title": "Closing the AI guidance gap in education",
@@ -475,8 +503,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.3,
    "hot": false
+  },
+  {
+   "title": "Tim Peters 별세",
+   "url": "https://news.hada.io/topic?id=36999&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Tim Peters가 2026년 7월 15일 별세 했으며, Guido van Rossum이 Python 커뮤니티에 부고를 전함 Zen of Python(PEP 20) 을 쓴 Peters는 Python 초기부터 언어 설계에 참여했으며, Guido에게는 멘토이자 공동 설계자였음 2002년 Python 리스트를 위해 개발한 정렬 알고리듬 Timsort 는 이후 Java와 Android에도 채택됨 메모리 할당기, 가비지 컬렉터, 제너레이터, 수치 연산부터 doctest 까지, Python 구현 전반의 안정성과 완성도를 높이는 데 기여함 동",
+   "publishedAt": 1794422242000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
   },
   {
    "title": "Gemini Intelligence: New features, on more devices",
@@ -489,7 +531,21 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
+   "hot": false
+  },
+  {
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "url": "https://openai.com/index/singapore-airlines-travel-work",
+   "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+   "publishedAt": 1794297600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 41,
    "hot": false
   },
   {
@@ -503,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": true
   },
   {
@@ -517,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -531,21 +587,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 40.9,
    "hot": true
   },
   {
-   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-   "url": "https://openai.com/index/singapore-airlines-travel-work",
-   "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-   "publishedAt": 1794297600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
+   "title": "AMD's Zen 6 Family: Feeding the Beast",
+   "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50443090",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 41.3,
+   "engagement": 258,
+   "comments": 108,
+   "publishedAt": 1794330152000,
+   "isAI": false,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -559,21 +615,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41,
-   "hot": false
-  },
-  {
-   "title": "AMD's Zen 6 Family: Feeding the Beast",
-   "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50443090",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 257,
-   "comments": 108,
-   "publishedAt": 1794330152000,
-   "isAI": false,
-   "score": 40.9,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -587,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -601,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -615,7 +657,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -629,7 +671,63 @@
    "comments": 64,
    "publishedAt": 1794295178000,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.9,
+   "hot": false
+  },
+  {
+   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+   "publishedAt": 1794426840000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.9,
+   "hot": false
+  },
+  {
+   "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+   "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+   "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+   "publishedAt": 1794425695000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.8,
+   "hot": false
+  },
+  {
+   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+   "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50435660",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 194,
+   "comments": 193,
+   "publishedAt": 1794280806000,
+   "isAI": true,
+   "score": 39.7,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+   "url": "https://github.com/adrbn/bo2-mac",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50449891",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 126,
+   "comments": 56,
+   "publishedAt": 1794373007000,
+   "isAI": false,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -643,35 +741,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.6,
    "hot": true
   },
   {
-   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-   "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50435660",
+   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50415628",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 194,
-   "comments": 193,
-   "publishedAt": 1794280806000,
+   "engagement": 901,
+   "comments": 494,
+   "publishedAt": 1794161767000,
    "isAI": true,
-   "score": 40,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-   "url": "https://github.com/adrbn/bo2-mac",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50449891",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 124,
-   "comments": 55,
-   "publishedAt": 1794373007000,
-   "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -685,21 +769,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 39.8,
-   "hot": false
-  },
-  {
-   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50415628",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 901,
-   "comments": 494,
-   "publishedAt": 1794161767000,
-   "isAI": true,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -713,7 +783,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 39.4,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -727,21 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
-   "hot": true
-  },
-  {
-   "title": "옛날 게임 프로그래밍의 기막힌 최적화 묘수 (2013)",
-   "url": "https://news.hada.io/topic?id=36989&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "8비트 PC용 횡스크롤 게임에서 이미 수작업으로 최적화한 배경 타일 복사 루틴을 약 70% 더 빠르게 만들어, 끊기던 움직임을 부드럽게 바꾼 사례임 6809의 스택 포인터 2개와 다중 레지스터 push/pull 명령 을 메모리 복사에 전용하고, DP 레지스터까지 동원해 한 번에 7바이트를 옮김 스택의 읽기와 쓰기 방향이 반대라 이미지 순서가 뒤틀렸지만, 타일을 7바이트 블록 단위로 미리 역순 배치 해 복사 과정에서 원래 모습으로 돌아오게 함 사운드 인터럽트가 스택으로 쓰던 타일 메모리를 훼손하자, 손상 대상을 화면 버퍼로 옮기고 그",
-   "publishedAt": 1794400449000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.2,
+   "score": 39,
    "hot": true
   },
   {
@@ -751,32 +807,18 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 111,
+   "engagement": 112,
    "comments": 74,
    "publishedAt": 1794374754000,
    "isAI": false,
-   "score": 39.1,
-   "hot": false
-  },
-  {
-   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-   "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-   "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-   "publishedAt": 1794413684000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
    "score": 38.8,
    "hot": false
   },
   {
-   "title": "Show GN: 에이전트가 글을 제대로 쓰도록 만들기, Human-readable writing",
-   "url": "https://news.hada.io/topic?id=36988&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "안녕하세요. human-readable-writing은 에이전트에 설치해 사용하는 글쓰기 스킬입니다. 지침은 압축된 명사구를 주체와 동작이 드러나는 문장으로 풀고, 조건·예외·불확실성을 해당 주장 가까이에 배치하도록 합니다. 원문의 사실·수치·전문 용어는 유지하고, 불분명한 관계는 추측해서 채우지 않도록 지시합니다. 에이전트가 작성한 문서의 가독성을 고민하다가 관련 연구 (https://arxiv.org/abs/2610.29162v1)를 참고해 작성 지침을 만들고 제 작업에 적용해 봤습니다. 개인적으로 유용하다고 느껴 재사용할 수 ",
-   "publishedAt": 1794397220000,
+   "title": "옛날 게임 프로그래밍의 기막힌 최적화 묘수 (2013)",
+   "url": "https://news.hada.io/topic?id=36989&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "8비트 PC용 횡스크롤 게임에서 이미 수작업으로 최적화한 배경 타일 복사 루틴을 약 70% 더 빠르게 만들어, 끊기던 움직임을 부드럽게 바꾼 사례임 6809의 스택 포인터 2개와 다중 레지스터 push/pull 명령 을 메모리 복사에 전용하고, DP 레지스터까지 동원해 한 번에 7바이트를 옮김 스택의 읽기와 쓰기 방향이 반대라 이미지 순서가 뒤틀렸지만, 타일을 7바이트 블록 단위로 미리 역순 배치 해 복사 과정에서 원래 모습으로 돌아오게 함 사운드 인터럽트가 스택으로 쓰던 타일 메모리를 훼손하자, 손상 대상을 화면 버퍼로 옮기고 그",
+   "publishedAt": 1794400449000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -797,8 +839,36 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false
+  },
+  {
+   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+   "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+   "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+   "publishedAt": 1794413684000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 38.4,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 에이전트가 글을 제대로 쓰도록 만들기, Human-readable writing",
+   "url": "https://news.hada.io/topic?id=36988&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "안녕하세요. human-readable-writing은 에이전트에 설치해 사용하는 글쓰기 스킬입니다. 지침은 압축된 명사구를 주체와 동작이 드러나는 문장으로 풀고, 조건·예외·불확실성을 해당 주장 가까이에 배치하도록 합니다. 원문의 사실·수치·전문 용어는 유지하고, 불분명한 관계는 추측해서 채우지 않도록 지시합니다. 에이전트가 작성한 문서의 가독성을 고민하다가 관련 연구 (https://arxiv.org/abs/2610.29162v1)를 참고해 작성 지침을 만들고 제 작업에 적용해 봤습니다. 개인적으로 유용하다고 느껴 재사용할 수 ",
+   "publishedAt": 1794397220000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.4,
+   "hot": true
   },
   {
    "title": "I'm not convinced the AI bubble exists",
@@ -811,7 +881,7 @@
    "comments": 966,
    "publishedAt": 1794181476000,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -825,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -839,7 +909,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.3,
+   "score": 37.9,
+   "hot": false
+  },
+  {
+   "title": "$30M Raised to Redo the CPU",
+   "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50447036",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 134,
+   "comments": 139,
+   "publishedAt": 1794348843000,
+   "isAI": false,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -853,22 +937,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
-  },
-  {
-   "title": "$30M Raised to Redo the CPU",
-   "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50447036",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 133,
-   "comments": 138,
-   "publishedAt": 1794348843000,
-   "isAI": false,
-   "score": 37.9,
-   "hot": false
   },
   {
    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
@@ -881,22 +951,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.5,
    "hot": false
-  },
-  {
-   "title": "Microsoft, macOS용 Process Explorer 공개",
-   "url": "https://news.hada.io/topic?id=36980&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Sysinternals Process Explorer for Mac 은 Microsoft의 프로세스 검사 도구를 macOS용으로 구현한 네이티브 앱임 실시간 트리 에서 어떤 프로세스가 무엇을 실행했는지 볼 수 있고, 각 프로세스가 열어 둔 파일, 불러온 라이브러리, 실행 중인 스레드를 확인할 수 있음 Swift, SwiftUI, AppKit 으로 구현했으며, libproc , sysctl 등 공개 macOS API로 데이터를 수집함 프로세스별 TCP/IP 연결과 코드 서명 을 확인하고, VirusTotal 조회, 프로세스 종료/일시",
-   "publishedAt": 1794382383000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.2,
-   "hot": true
   },
   {
    "title": "A year after the 100% AI mandate nobody understands our code",
@@ -909,7 +965,7 @@
    "comments": 199,
    "publishedAt": 1794262752000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -923,21 +979,7 @@
    "comments": 1282,
    "publishedAt": 1794176409000,
    "isAI": false,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "Introducing Businesses in ChatGPT",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt",
-   "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-   "publishedAt": 1794304800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": false,
-   "score": 36.2,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -951,21 +993,21 @@
    "comments": 492,
    "publishedAt": 1794107508000,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false
   },
   {
-   "title": "Terence Tao의 Six Math Essentials - 수학의 여섯 가지 핵심 개념",
-   "url": "https://news.hada.io/topic?id=36978&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "필즈상 수상자 Terence Tao 가 고대부터 오늘날의 연구 최전선까지 수학을 이끌어 온 여섯 개념으로 복잡한 세계를 이해하는 길을 소개함 수 는 정량적 사고의 출발점이며, 대수학 은 추상화의 출발점임 기하학 은 눈에 보이는 범위를 넘어 계산하는 방법임 확률 은 엄밀한 사고로 불확실성을 헤쳐 나가는 도구임 해석학 은 매우 크거나 작은 것을 다루는 수단이며, 동역학 은 변화의 수학임 책이 다루는 여섯 개념 Six Math Essentials 는 수학의 여섯 핵심 개념을 통해 복잡한 세계를 이해하도록 돕는 책임 수 : 정량적 사고로 ",
-   "publishedAt": 1794371474000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+   "publishedAt": 1794304800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
    "engagement": null,
-   "baseWeight": 42,
+   "baseWeight": 50,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -979,7 +1021,7 @@
    "comments": 136,
    "publishedAt": 1794311479000,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -993,7 +1035,7 @@
    "comments": 27,
    "publishedAt": 1794249238000,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -1007,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1018,10 +1060,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 768,
-   "comments": 233,
+   "comments": 234,
    "publishedAt": 1794177335000,
    "isAI": false,
-   "score": 35.4,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1031,11 +1073,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 216,
+   "engagement": 217,
    "comments": 78,
    "publishedAt": 1794212269000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1049,7 +1091,7 @@
    "comments": 208,
    "publishedAt": 1794133324000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1063,7 +1105,7 @@
    "comments": 215,
    "publishedAt": 1794166662000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1077,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1091,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1101,11 +1143,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 229,
+   "engagement": 230,
    "comments": 76,
    "publishedAt": 1794263441000,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1119,7 +1161,7 @@
    "comments": 42,
    "publishedAt": 1794247544000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1133,14 +1175,28 @@
    "comments": 428,
    "publishedAt": 1794084332000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.6,
    "hot": false,
    "lastWeekRank": 2
   },
   {
+   "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+   "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+   "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+   "publishedAt": 1794421000000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
+   "hot": false
+  },
+  {
    "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
    "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-   "summary": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+   "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
    "publishedAt": 1794418652000,
    "source": "Ars Technica",
    "sourceType": "media",
@@ -1148,7 +1204,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1162,7 +1218,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1173,40 +1229,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 492,
-   "comments": 418,
+   "comments": 419,
    "publishedAt": 1794169603000,
    "isAI": false,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-   "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. Alp",
-   "publishedAt": 1794409200000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "The end of Microsoft Research's AI Frontiers group",
-   "url": "https://hunch.net/?p=13764006",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50406563",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 511,
-   "comments": 309,
-   "publishedAt": 1794074537000,
-   "isAI": true,
    "score": 32.4,
-   "hot": false,
-   "lastWeekRank": 3
+   "hot": false
   },
   {
    "title": "Claude Code sends your email address to websites",
@@ -1219,22 +1246,51 @@
    "comments": 535,
    "publishedAt": 1793917035000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.3,
    "hot": false,
    "lastWeekRank": 11
   },
   {
-   "title": "Google DeepMind just mathematically verified key parts of Signal",
-   "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-   "summary": "The four-week project hints that AI could make formal verification far more practical.",
-   "publishedAt": 1794406137000,
-   "source": "Ars Technica",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "url": "https://hunch.net/?p=13764006",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50406563",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 511,
+   "comments": 309,
+   "publishedAt": 1794074537000,
+   "isAI": true,
+   "score": 32.2,
+   "hot": false,
+   "lastWeekRank": 3
+  },
+  {
+   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+   "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. Alp",
+   "publishedAt": 1794409200000,
+   "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+   "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+   "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the",
+   "publishedAt": 1794427334000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": false,
+   "score": 32,
    "hot": false
   },
   {
@@ -1248,7 +1304,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
+   "score": 31.9,
+   "hot": false
+  },
+  {
+   "title": "Google DeepMind just mathematically verified key parts of Signal",
+   "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+   "summary": "The four-week project hints that AI could make formal verification far more practical.",
+   "publishedAt": 1794406137000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1262,7 +1332,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.8,
+   "hot": false
+  },
+  {
+   "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+   "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+   "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+   "publishedAt": 1794424942000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": false,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1276,7 +1360,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1290,7 +1374,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1304,7 +1388,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1318,91 +1402,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
-   "url": "https://huggingface.co/papers/2611.14210",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 71,
-   "summary": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-p",
-   "publishedAt": 1794250800000,
-   "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-   "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-   "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-   "publishedAt": 1794337432000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-   "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-   "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-   "publishedAt": 1794336592000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "Need for Speed Underground 2 online in the browser",
-   "url": "https://nfsu2.xyz/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50403052",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1173,
-   "comments": 293,
-   "publishedAt": 1794044196000,
-   "isAI": false,
    "score": 31.2,
-   "hot": false,
-   "lastWeekRank": 4
-  },
-  {
-   "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-   "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-   "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-   "publishedAt": 1794413767000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "Apple capped engineers at a $200 daily AI budget",
-   "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50421426",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 113,
-   "comments": 126,
-   "publishedAt": 1794202211000,
-   "isAI": true,
-   "score": 31,
    "hot": false
   }
  ]
