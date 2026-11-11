@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794412901044,
+ "updatedAt": 1794416559711,
  "week": "2026-W46",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 562,
-   "comments": 216,
+   "engagement": 691,
+   "comments": 257,
    "publishedAt": 1794398722000,
    "isAI": true,
-   "score": 65.7,
+   "score": 66.9,
    "hot": true
   },
   {
@@ -27,7 +27,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 63.4,
+   "score": 62.6,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 437,
-   "comments": 209,
+   "engagement": 438,
+   "comments": 210,
    "publishedAt": 1794349076000,
    "isAI": true,
-   "score": 55.1,
+   "score": 54.6,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 422,
-   "comments": 437,
+   "engagement": 446,
+   "comments": 463,
    "publishedAt": 1794345903000,
    "isAI": true,
-   "score": 54.4,
+   "score": 54.3,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 414,
+   "engagement": 416,
    "comments": 138,
    "publishedAt": 1794333675000,
    "isAI": true,
-   "score": 52.5,
+   "score": 52,
    "hot": true
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1109,
-   "comments": 402,
+   "engagement": 1113,
+   "comments": 406,
    "publishedAt": 1794324320000,
    "isAI": false,
-   "score": 52.3,
+   "score": 51.9,
    "hot": false
   },
   {
@@ -94,11 +94,39 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 614,
-   "comments": 578,
+   "comments": 579,
    "publishedAt": 1794306358000,
    "isAI": true,
-   "score": 51.8,
+   "score": 51.3,
    "hot": false
+  },
+  {
+   "title": "Protecting SSH Keys with macOS Secure Enclave",
+   "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50449748",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 346,
+   "comments": 123,
+   "publishedAt": 1794371337000,
+   "isAI": false,
+   "score": 49,
+   "hot": true
+  },
+  {
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50443716",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 271,
+   "comments": 204,
+   "publishedAt": 1794333307000,
+   "isAI": true,
+   "score": 48.8,
+   "hot": true
   },
   {
    "title": "Google 소프트웨어 엔지니어, AI 에이전트 48개로 NASA 라이다를 분석해 72시간 만에 지도에 없는 마야 ...",
@@ -111,49 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
-   "hot": true
-  },
-  {
-   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50443716",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 267,
-   "comments": 202,
-   "publishedAt": 1794333307000,
-   "isAI": true,
-   "score": 49.1,
-   "hot": true
-  },
-  {
-   "title": "Protecting SSH Keys with macOS Secure Enclave",
-   "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50449748",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 326,
-   "comments": 119,
-   "publishedAt": 1794371337000,
-   "isAI": false,
-   "score": 49,
-   "hot": true
-  },
-  {
-   "title": "Expo의 Exact - React 없이 웹·iOS·macOS·Linux 앱을 만드는 AI 에이전트 중심 런타임",
-   "url": "https://news.hada.io/topic?id=36991&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Expo가 공개한 Rust 기반 크로스 플랫폼 애플리케이션 런타임으로, 하나의 코드베이스에서 웹과 macOS, iOS, Linux의 네이티브 앱을 개발할 수 있도록 설계됨 AI 코딩 에이전트가 앱을 작성하고 빌드, 실행, 화면 확인, 사용자 조작, 테스트까지 자동으로 수행할 수 있는 Agent-native 아키텍처 가 핵심 UI는 자체 선언형 언어인 Contract 로 작성하고, 비즈니스 로직과 데이터 처리는 TypeScript 또는 Rust로 구현 React나 JSX를 사용하지 않으며, 네이티브 UI 렌더링에 WebView나 Ja",
-   "publishedAt": 1794405906000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 49,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -167,7 +153,21 @@
    "comments": 159,
    "publishedAt": 1794326835000,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.4,
+   "hot": false
+  },
+  {
+   "title": "Expo의 Exact - React 없이 웹·iOS·macOS·Linux 앱을 만드는 AI 에이전트 중심 런타임",
+   "url": "https://news.hada.io/topic?id=36991&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Expo가 공개한 Rust 기반 크로스 플랫폼 애플리케이션 런타임으로, 하나의 코드베이스에서 웹과 macOS, iOS, Linux의 네이티브 앱을 개발할 수 있도록 설계됨 AI 코딩 에이전트가 앱을 작성하고 빌드, 실행, 화면 확인, 사용자 조작, 테스트까지 자동으로 수행할 수 있는 Agent-native 아키텍처 가 핵심 UI는 자체 선언형 언어인 Contract 로 작성하고, 비즈니스 로직과 데이터 처리는 TypeScript 또는 Rust로 구현 React나 JSX를 사용하지 않으며, 네이티브 UI 렌더링에 WebView나 Ja",
+   "publishedAt": 1794405906000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.4,
    "hot": true
   },
   {
@@ -181,7 +181,7 @@
    "comments": 8,
    "publishedAt": 1794250589000,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.2,
    "hot": false
   },
   {
@@ -195,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -209,8 +209,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.1,
    "hot": true
+  },
+  {
+   "title": "Apple is killing its Support Community forum next week",
+   "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50453555",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 149,
+   "comments": 80,
+   "publishedAt": 1794405731000,
+   "isAI": false,
+   "score": 46.4,
+   "hot": false
   },
   {
    "title": "Google Gemini routes personal Drive files and emails to human annotators",
@@ -223,8 +237,22 @@
    "comments": 147,
    "publishedAt": 1794248678000,
    "isAI": true,
-   "score": 46.4,
+   "score": 46,
    "hot": false
+  },
+  {
+   "title": "Can a Linear Program Do Weight-Space Programming?",
+   "url": "https://nathan.rs/posts/weight-space-lp/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50452655",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 154,
+   "comments": 26,
+   "publishedAt": 1794400217000,
+   "isAI": false,
+   "score": 45.9,
+   "hot": true
   },
   {
    "title": "Apple, 여러 Mac을 묶어 로컬 AI 모델을 실행하는 ‘Harbor’ 준비 중",
@@ -237,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 45.9,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -279,7 +307,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.1,
+   "hot": true
+  },
+  {
+   "title": "A great old-timey game-programming hack (2013)",
+   "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50448921",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 237,
+   "comments": 54,
+   "publishedAt": 1794362191000,
+   "isAI": false,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -293,35 +335,35 @@
    "comments": 256,
    "publishedAt": 1794290468000,
    "isAI": false,
-   "score": 45.1,
+   "score": 44.7,
    "hot": false
   },
   {
-   "title": "A great old-timey game-programming hack (2013)",
-   "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50448921",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+   "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+   "publishedAt": 1794412800000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
    "lang": "en",
-   "engagement": 230,
-   "comments": 47,
-   "publishedAt": 1794362191000,
+   "engagement": null,
+   "baseWeight": 45,
    "isAI": false,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
-   "title": "Can a Linear Program Do Weight-Space Programming?",
-   "url": "https://nathan.rs/posts/weight-space-lp/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50452655",
+   "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+   "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50452742",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 126,
-   "comments": 19,
-   "publishedAt": 1794400217000,
+   "engagement": 116,
+   "comments": 26,
+   "publishedAt": 1794401046000,
    "isAI": false,
-   "score": 44.6,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -335,7 +377,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -346,10 +388,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 122,
-   "comments": 80,
+   "comments": 81,
    "publishedAt": 1794332684000,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -363,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.6,
    "hot": false
   },
   {
@@ -377,7 +419,7 @@
    "comments": 274,
    "publishedAt": 1794254695000,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -391,7 +433,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -405,7 +447,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -419,7 +461,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
    "hot": false
   },
   {
@@ -433,7 +475,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -443,12 +485,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 251,
-   "comments": 106,
+   "engagement": 252,
+   "comments": 108,
    "publishedAt": 1794330152000,
    "isAI": false,
-   "score": 41.9,
-   "hot": true
+   "score": 41.5,
+   "hot": false
   },
   {
    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
@@ -461,21 +503,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 41.8,
-   "hot": true
-  },
-  {
-   "title": "2026년 화석연료 CO2 배출량 감소 전망",
-   "url": "https://news.hada.io/topic?id=36993&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Global Carbon Project는 2026년 세계 화석연료 CO2 배출량이 0.4% 감소 한 382억 톤에 이를 것으로 전망함. 태양광과 풍력 확대, 이란 분쟁에 따른 에너지 충격이 감소 요인임 석유 배출량은 1.9% 감소 할 전망이지만, 에너지 충격에 대한 단기 반응일 가능성이 있어 지속 가능한 배출 감축이나 정점 도달을 확정할 수 없음 태양광, 풍력, 전기차 확대가 세계 에너지 수요 증가분의 약 3분의 2 를 충당하고 있으나, 화석연료 CO2 배출량의 지속적 감소를 이끌기에는 보급 속도가 아직 부족함 토지 이용 변화에 따",
-   "publishedAt": 1794408072000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.4,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -489,8 +517,22 @@
    "comments": 63,
    "publishedAt": 1794295178000,
    "isAI": true,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
+  },
+  {
+   "title": "2026년 화석연료 CO2 배출량 감소 전망",
+   "url": "https://news.hada.io/topic?id=36993&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Global Carbon Project는 2026년 세계 화석연료 CO2 배출량이 0.4% 감소 한 382억 톤에 이를 것으로 전망함. 태양광과 풍력 확대, 이란 분쟁에 따른 에너지 충격이 감소 요인임 석유 배출량은 1.9% 감소 할 전망이지만, 에너지 충격에 대한 단기 반응일 가능성이 있어 지속 가능한 배출 감축이나 정점 도달을 확정할 수 없음 태양광, 풍력, 전기차 확대가 세계 에너지 수요 증가분의 약 3분의 2 를 충당하고 있으나, 화석연료 CO2 배출량의 지속적 감소를 이끌기에는 보급 속도가 아직 부족함 토지 이용 변화에 따",
+   "publishedAt": 1794408072000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.9,
+   "hot": true
   },
   {
    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
@@ -503,7 +545,7 @@
    "comments": 193,
    "publishedAt": 1794280806000,
    "isAI": true,
-   "score": 41,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -517,7 +559,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 40.9,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -531,35 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
-   "hot": true
-  },
-  {
-   "title": "Google Cloud launches Gemini for healthcare.",
-   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-   "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-   "publishedAt": 1794315600000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 40.5,
-   "hot": false
-  },
-  {
-   "title": "옛날 게임 프로그래밍의 기막힌 최적화 묘수 (2013)",
-   "url": "https://news.hada.io/topic?id=36989&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "8비트 PC용 횡스크롤 게임에서 이미 수작업으로 최적화한 배경 타일 복사 루틴을 약 70% 더 빠르게 만들어, 끊기던 움직임을 부드럽게 바꾼 사례임 6809의 스택 포인터 2개와 다중 레지스터 push/pull 명령 을 메모리 복사에 전용하고, DP 레지스터까지 동원해 한 번에 7바이트를 옮김 스택의 읽기와 쓰기 방향이 반대라 이미지 순서가 뒤틀렸지만, 타일을 7바이트 블록 단위로 미리 역순 배치 해 복사 과정에서 원래 모습으로 돌아오게 함 사운드 인터럽트가 스택으로 쓰던 타일 메모리를 훼손하자, 손상 대상을 화면 버퍼로 옮기고 그",
-   "publishedAt": 1794400449000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.5,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -573,7 +587,77 @@
    "comments": 493,
    "publishedAt": 1794161767000,
    "isAI": true,
-   "score": 40.4,
+   "score": 40.1,
+   "hot": false
+  },
+  {
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+   "publishedAt": 1794315600000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 40.1,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+   "url": "https://github.com/adrbn/bo2-mac",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50449891",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 115,
+   "comments": 48,
+   "publishedAt": 1794373007000,
+   "isAI": false,
+   "score": 40,
+   "hot": false
+  },
+  {
+   "title": "옛날 게임 프로그래밍의 기막힌 최적화 묘수 (2013)",
+   "url": "https://news.hada.io/topic?id=36989&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "8비트 PC용 횡스크롤 게임에서 이미 수작업으로 최적화한 배경 타일 복사 루틴을 약 70% 더 빠르게 만들어, 끊기던 움직임을 부드럽게 바꾼 사례임 6809의 스택 포인터 2개와 다중 레지스터 push/pull 명령 을 메모리 복사에 전용하고, DP 레지스터까지 동원해 한 번에 7바이트를 옮김 스택의 읽기와 쓰기 방향이 반대라 이미지 순서가 뒤틀렸지만, 타일을 7바이트 블록 단위로 미리 역순 배치 해 복사 과정에서 원래 모습으로 돌아오게 함 사운드 인터럽트가 스택으로 쓰던 타일 메모리를 훼손하자, 손상 대상을 화면 버퍼로 옮기고 그",
+   "publishedAt": 1794400449000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40,
+   "hot": true
+  },
+  {
+   "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+   "url": "https://github.com/gmkurtzer/ginux",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50450007",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 110,
+   "comments": 72,
+   "publishedAt": 1794374754000,
+   "isAI": false,
+   "score": 39.9,
+   "hot": false
+  },
+  {
+   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+   "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+   "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+   "publishedAt": 1794413684000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -587,22 +671,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
-  },
-  {
-   "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-   "url": "https://github.com/gmkurtzer/ginux",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50450007",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 106,
-   "comments": 64,
-   "publishedAt": 1794374754000,
-   "isAI": false,
-   "score": 39.9,
-   "hot": false
   },
   {
    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
@@ -615,21 +685,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.6,
-   "hot": false
-  },
-  {
-   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-   "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-   "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-   "publishedAt": 1794409200000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 39.6,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -643,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -653,11 +709,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 569,
-   "comments": 963,
+   "engagement": 570,
+   "comments": 965,
    "publishedAt": 1794181476000,
    "isAI": true,
-   "score": 39.3,
+   "score": 39.1,
+   "hot": false
+  },
+  {
+   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+   "publishedAt": 1794409200000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -671,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -685,7 +755,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -695,11 +765,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 129,
-   "comments": 132,
+   "engagement": 131,
+   "comments": 136,
    "publishedAt": 1794348843000,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -713,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -727,7 +797,7 @@
    "comments": 197,
    "publishedAt": 1794262752000,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -741,7 +811,7 @@
    "comments": 1281,
    "publishedAt": 1794176409000,
    "isAI": false,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -755,7 +825,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -769,8 +839,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "Show GN: Officeflare - Cloudflare 인프라 위에 올라가는 오피스 스위트",
@@ -783,22 +853,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
-  },
-  {
-   "title": "Gleam을 써보자",
-   "url": "https://news.hada.io/topic?id=36975&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Gleam 은 Erlang VM인 BEAM과 JavaScript를 대상으로 컴파일되는 정적 타입 함수형 언어로, 간결한 문법과 Erlang/Elixir 생태계 상호운용성을 갖춤 파이프 연산자 |> , 콜백 중첩을 줄이는 use , 꼬리 호출 최적화를 중심으로 불변 데이터와 함수 조합을 다루며, Rust의 함수형 코드에 익숙하다면 친숙하게 접근할 수 있음 대수적 데이터 타입 으로 원치 않는 상태를 표현하지 못하게 설계할 수 있고, BEAM 백엔드와 JavaScript 프런트엔드에서 타입 정의를 공유할 수 있음 BEAM과 OTP 는 메",
-   "publishedAt": 1794369774000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
@@ -811,7 +867,21 @@
    "comments": 135,
    "publishedAt": 1794311479000,
    "isAI": false,
-   "score": 37,
+   "score": 36.7,
+   "hot": false
+  },
+  {
+   "title": "Gleam을 써보자",
+   "url": "https://news.hada.io/topic?id=36975&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Gleam 은 Erlang VM인 BEAM과 JavaScript를 대상으로 컴파일되는 정적 타입 함수형 언어로, 간결한 문법과 Erlang/Elixir 생태계 상호운용성을 갖춤 파이프 연산자 |> , 콜백 중첩을 줄이는 use , 꼬리 호출 최적화를 중심으로 불변 데이터와 함수 조합을 다루며, Rust의 함수형 코드에 익숙하다면 친숙하게 접근할 수 있음 대수적 데이터 타입 으로 원치 않는 상태를 표현하지 못하게 설계할 수 있고, BEAM 백엔드와 JavaScript 프런트엔드에서 타입 정의를 공유할 수 있음 BEAM과 OTP 는 메",
+   "publishedAt": 1794369774000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -825,7 +895,21 @@
    "comments": 27,
    "publishedAt": 1794249238000,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "Goodbye Claude, hello Pi",
+   "url": "https://caleb.software/posts/claude-to-pi.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50410107",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 819,
+   "comments": 492,
+   "publishedAt": 1794107508000,
+   "isAI": true,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -839,21 +923,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
-   "hot": false
-  },
-  {
-   "title": "Goodbye Claude, hello Pi",
-   "url": "https://caleb.software/posts/claude-to-pi.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50410107",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 818,
-   "comments": 492,
-   "publishedAt": 1794107508000,
-   "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -867,34 +937,6 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.4,
-   "hot": false
-  },
-  {
-   "title": "AMD Zen 6 제품군: 강력한 코어에 일감 공급하기",
-   "url": "https://news.hada.io/topic?id=36972&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Zen 6 는 단일 스레드의 듀얼 디코더 활용, 더 빠른 분기 처리, 확장된 비순차 실행 구조로 Zen 5 대비 실행 엔진에 일감을 공급하고 메모리 지연을 숨기는 능력을 개선함 Zen 6와 Zen 6c 는 이제 코어 밀도뿐 아니라 내부 실행 구조도 다르며, 각각 높은 클럭과 더 큰 비순차 실행 구조를 통한 지연 흡수에 맞춘 설계로 보임 VNNI 처리량 은 거의 두 배로 늘고 256비트 벡터 로드는 사이클당 4개로 증가한 반면, 정수 곱셈 유닛은 면적 대비 효용을 이유로 3개에서 2개로 줄어듦 추정 SPEC CPU 2026 단일 스레",
-   "publishedAt": 1794361218000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-   "url": "https://ketchup3d.github.io/app/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50418176",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 766,
-   "comments": 233,
-   "publishedAt": 1794177335000,
-   "isAI": false,
    "score": 36.1,
    "hot": false
   },
@@ -909,7 +951,35 @@
    "comments": 78,
    "publishedAt": 1794212269000,
    "isAI": true,
-   "score": 36,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+   "url": "https://ketchup3d.github.io/app/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50418176",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 766,
+   "comments": 233,
+   "publishedAt": 1794177335000,
+   "isAI": false,
+   "score": 35.8,
+   "hot": false
+  },
+  {
+   "title": "AMD Zen 6 제품군: 강력한 코어에 일감 공급하기",
+   "url": "https://news.hada.io/topic?id=36972&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Zen 6 는 단일 스레드의 듀얼 디코더 활용, 더 빠른 분기 처리, 확장된 비순차 실행 구조로 Zen 5 대비 실행 엔진에 일감을 공급하고 메모리 지연을 숨기는 능력을 개선함 Zen 6와 Zen 6c 는 이제 코어 밀도뿐 아니라 내부 실행 구조도 다르며, 각각 높은 클럭과 더 큰 비순차 실행 구조를 통한 지연 흡수에 맞춘 설계로 보임 VNNI 처리량 은 거의 두 배로 늘고 256비트 벡터 로드는 사이클당 4개로 증가한 반면, 정수 곱셈 유닛은 면적 대비 효용을 이유로 3개에서 2개로 줄어듦 추정 SPEC CPU 2026 단일 스레",
+   "publishedAt": 1794361218000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -923,21 +993,7 @@
    "comments": 208,
    "publishedAt": 1794133324000,
    "isAI": true,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "Process Explorer for macOS",
-   "url": "https://github.com/microsoft/Procexp-Mac",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50433216",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 228,
-   "comments": 73,
-   "publishedAt": 1794263441000,
-   "isAI": false,
-   "score": 35.1,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -951,7 +1007,7 @@
    "comments": 215,
    "publishedAt": 1794166662000,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -965,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -979,7 +1035,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "Process Explorer for macOS",
+   "url": "https://github.com/microsoft/Procexp-Mac",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50433216",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 228,
+   "comments": 74,
+   "publishedAt": 1794263441000,
+   "isAI": false,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -993,7 +1063,7 @@
    "comments": 41,
    "publishedAt": 1794247544000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1007,15 +1077,15 @@
    "comments": 428,
    "publishedAt": 1794084332000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34,
    "hot": false,
    "lastWeekRank": 2
   },
   {
-   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-   "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. Alp",
-   "publishedAt": 1794409200000,
+   "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+   "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+   "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature tha",
+   "publishedAt": 1794412800000,
    "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
@@ -1026,25 +1096,11 @@
    "hot": false
   },
   {
-   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-   "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-   "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn p",
-   "publishedAt": 1794405600000,
+   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+   "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. Alp",
+   "publishedAt": 1794409200000,
    "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Google DeepMind just mathematically verified key parts of Signal",
-   "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-   "summary": "The four-week project hints that AI could make formal verification far more practical.",
-   "publishedAt": 1794406137000,
-   "source": "Ars Technica",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
@@ -1064,33 +1120,33 @@
    "comments": 418,
    "publishedAt": 1794169603000,
    "isAI": false,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   },
   {
-   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-   "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-   "publishedAt": 1794344932000,
-   "source": "TechCrunch AI",
+   "title": "Google DeepMind just mathematically verified key parts of Signal",
+   "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+   "summary": "The four-week project hints that AI could make formal verification far more practical.",
+   "publishedAt": 1794406137000,
+   "source": "Ars Technica",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
-   "baseWeight": 32,
+   "baseWeight": 26,
    "isAI": true,
    "score": 33,
    "hot": false
   },
   {
-   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-   "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-   "publishedAt": 1794343933000,
-   "source": "TechCrunch AI",
+   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+   "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn p",
+   "publishedAt": 1794405600000,
+   "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
-   "baseWeight": 32,
+   "baseWeight": 26,
    "isAI": true,
    "score": 32.9,
    "hot": false
@@ -1106,34 +1162,20 @@
    "comments": 309,
    "publishedAt": 1794074537000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.7,
    "hot": false,
    "lastWeekRank": 3
   },
   {
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-   "publishedAt": 1794250800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": false,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "Serve Robotics wants to democratize sidewalk delivery robots",
-   "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
-   "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access ",
-   "publishedAt": 1794400200000,
-   "source": "The Verge",
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+   "publishedAt": 1794344932000,
+   "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
-   "baseWeight": 26,
+   "baseWeight": 32,
    "isAI": true,
    "score": 32.7,
    "hot": false
@@ -1154,6 +1196,34 @@
    "lastWeekRank": 11
   },
   {
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+   "publishedAt": 1794250800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": false,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+   "publishedAt": 1794343933000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.6,
+   "hot": false
+  },
+  {
    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
@@ -1164,7 +1234,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1178,7 +1248,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1192,7 +1262,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1206,7 +1276,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.3,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+   "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+   "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+   "publishedAt": 1794413767000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": false,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1220,7 +1304,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1234,8 +1318,23 @@
    "comments": 126,
    "publishedAt": 1794202211000,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.5,
    "hot": false
+  },
+  {
+   "title": "Need for Speed Underground 2 online in the browser",
+   "url": "https://nfsu2.xyz/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50403052",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1173,
+   "comments": 293,
+   "publishedAt": 1794044196000,
+   "isAI": false,
+   "score": 31.5,
+   "hot": false,
+   "lastWeekRank": 4
   },
   {
    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
@@ -1248,7 +1347,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1262,36 +1361,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "Need for Speed Underground 2 online in the browser",
-   "url": "https://nfsu2.xyz/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50403052",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1173,
-   "comments": 292,
-   "publishedAt": 1794044196000,
-   "isAI": false,
-   "score": 31.6,
-   "hot": false,
-   "lastWeekRank": 4
-  },
-  {
-   "title": "'페이블 5.2' 프롬프트 가이드 공개…\"코드 맡기면 정리 5배 증가\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217271",
-   "summary": "앤트로픽이 최신 모델 '클로드 페이블 5.2'의 프롬프트 작성법을 공개하며 기존 모델에 사용하던 지침을 재검토하라고 권고했다. 특히 코드의 소유권을 어떻게 표현하느냐에 따라 AI의 작업 방식이 크게 달라지는 것으로 나타났다.앤트로픽은 10일(현지시간) 공식 개발자 문서를 통해 페이블 5.2의 성능과 비용을 최적화하기 위한 프롬프트 가이드를 공개했다. 장시간 작업의 조기 중단, 불필요한 승인 요청, 코드 수정 범위, 하위 에이전트 활용 등 실제 개발 과정에서 나타나는 문제와 해결 방법을 담았다.가장 눈길을 끄는 것은 코드 소유권에 관",
-   "publishedAt": 1794387945000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1305,7 +1375,21 @@
    "comments": 216,
    "publishedAt": 1794149363000,
    "isAI": true,
-   "score": 31.5,
+   "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "'페이블 5.2' 프롬프트 가이드 공개…\"코드 맡기면 정리 5배 증가\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217271",
+   "summary": "앤트로픽이 최신 모델 '클로드 페이블 5.2'의 프롬프트 작성법을 공개하며 기존 모델에 사용하던 지침을 재검토하라고 권고했다. 특히 코드의 소유권을 어떻게 표현하느냐에 따라 AI의 작업 방식이 크게 달라지는 것으로 나타났다.앤트로픽은 10일(현지시간) 공식 개발자 문서를 통해 페이블 5.2의 성능과 비용을 최적화하기 위한 프롬프트 가이드를 공개했다. 장시간 작업의 조기 중단, 불필요한 승인 요청, 코드 수정 범위, 하위 에이전트 활용 등 실제 개발 과정에서 나타나는 문제와 해결 방법을 담았다.가장 눈길을 끄는 것은 코드 소유권에 관",
+   "publishedAt": 1794387945000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1313,90 +1397,6 @@
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217274",
    "summary": "구글이 실제 자동차 공장에서 휴머노이드 로봇의 작업 성공률을 96%까지 높인 새로운 물리적 AI 모델을 공개했다. 기존 모델보다 정교한 손동작과 작업 속도를 개선하고, 최신 AI 모델을 로봇 훈련에도 활용해 산업 현장 적용 가능성을 높였다.구글 딥마인드는 10일(현지시간) 공식 블로그를 통해 최신 비전-언어-행동(VLA) 모델 '제미나이 로보틱스 2.5(Gemini Robotics 2.5)'를 발표했다. 로봇이 수행할 수 있는 작업의 범위를 넓히고, 새로운 동작을 배우는 속도와 작업의 정확성, 안전성을 개선한 것이 특징이다.지난 7",
    "publishedAt": 1794387088000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "메타, AI 에이전트 '뮤즈' 애플워치·웨어OS로 확대",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217278",
-   "summary": "메타가 소비자용 AI 에이전트 '뮤즈(Muse)'를 애플워치와 구글의 웨어OS(Wear OS) 스마트워치로 확대했다. 지난 9월 출시 이후 스마트폰과 태블릿에 이어 웨어러블 기기까지 지원하면서, 이용자가 일상에서 AI 에이전트를 쉽게 사용할 수 있도록 서비스 접점을 늘리고 있다.메타는 9일(현지시간) X를 통해 스마트워치용 뮤즈 서비스를 발표했다. 사용자는 스마트워치에서 음성이나 문자로 AI 에이전트에 작업을 요청하고 답변과 진행 상황을 확인할 수 있다. 애플워치에서는 화면에 뮤즈 실행 버튼을 배치해 빠르게 서비스를 호출하는 기능도",
-   "publishedAt": 1794386479000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-   "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-   "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-   "publishedAt": 1794326048000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "문샷, 중국서 엔비디아 최신 AI 칩 임대 정황…금융 문서 확인",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217294",
-   "summary": "중국 문샷AI가 미국의 중국 수출 규제 대상인 엔비디아의 최신 AI 칩 'B300'을 중국 내에서 임대하려 했다는 금융 계약 문서가 발견됐다. 문샷은 관련 거래를 부인했으며, 블룸버그의 취재 이후 공개 문서에서 문샷의 이름이 사라져 실제 거래 여부와 장비 반입 경로에 관심이 모이고 있다.블룸버그는 10일(현지시간) 중국 금융기관에 제출된 계약 문서를 확인한 결과, 문샷에 엔비디아 B300 GPU를 탑재한 슈퍼마이크로 서버 32대의 컴퓨팅 서비스를 제공하는 계약이 명시돼 있었다고 보도했다. 해당 서버는 중국 서부 간쑤성 칭양시에 보관",
-   "publishedAt": 1794386009000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-   "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-   "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-   "publishedAt": 1794324570000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "TSMC, 자체 칩 개발 나선 오픈AI·앤트로픽에 최대 1.3조원 투자",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217289",
-   "summary": "세계 최대 파운드리 업체 TSMC가 자체 AI 반도체 개발에 나선 오픈AI와 앤트로픽에 최대 10억달러(약 1조3400억원)를 투자하기로 했다. 두 AI 기업이 엔비디아 등 외부 반도체 업체에 대한 의존도를 낮추기 위해 자체 칩 개발을 추진하면서, TSMC도 반도체 공급을 넘어 이들 기업의 지분을 확보하며 관계를 강화하려는 움직임으로 해석된다.TSMC 이사회는 10일 앤트로픽 주식 매입에 최대 5억달러(약 6680억원), 오픈AI 우선주 투자에 최대 5억달러를 각각 승인했다. 앤트로픽 투자는 기업공개(IPO) 공모가를 기준으로 보통",
-   "publishedAt": 1794384318000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "[게시판] 패스트캠퍼스·엔비디아 해커톤서 신약개발 AI 에이전트 우승 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217295",
-   "summary": "■ 데이원컴퍼니(대표 신해동·김동혁)의 실무 교육 브랜드 패스트캠퍼스는 엔비디아와 공동 개최한 ‘에이전틱 AI 해커톤’ 결선을 ‘엔비디아 AI 데이 서울 2026’에서 진행했다고 밝혔다. 최종 우승은 신약개발·의료 AI 연구자와 현직 약사로 구성된 ‘플라이게이트’ 팀이 차지했다. 엔비디아 ‘바이오니모 NIM’과 ‘네모트론’을 활용해 신약개발부터 시판 후 안전성 검토까지 서로 다른 업무를 하나의 AI 에이전트 워크플로로 연결해 주목받았다.■ 코난테크놀로지(대표 김영섬)는 AI 기반 다국어 안내 시스템 ‘링고엑스’의 운영 성과를 부산교",
-   "publishedAt": 1794384000000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
