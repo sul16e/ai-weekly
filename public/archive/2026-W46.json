@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794420216106,
+ "updatedAt": 1794423860957,
  "week": "2026-W46",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 760,
-   "comments": 283,
+   "engagement": 808,
+   "comments": 302,
    "publishedAt": 1794398722000,
    "isAI": true,
-   "score": 67,
+   "score": 66.8,
    "hot": true
   },
   {
@@ -27,21 +27,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 61.9,
-   "hot": true
-  },
-  {
-   "title": "Tracking Anthropic-discovered vulnerabilities",
-   "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50447074",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 439,
-   "comments": 211,
-   "publishedAt": 1794349076000,
-   "isAI": true,
-   "score": 54.1,
+   "score": 61.2,
    "hot": true
   },
   {
@@ -51,12 +37,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 467,
-   "comments": 483,
+   "engagement": 478,
+   "comments": 495,
    "publishedAt": 1794345903000,
    "isAI": true,
-   "score": 54.1,
+   "score": 53.8,
    "hot": true
+  },
+  {
+   "title": "Tracking Anthropic-discovered vulnerabilities",
+   "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50447074",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 440,
+   "comments": 214,
+   "publishedAt": 1794349076000,
+   "isAI": true,
+   "score": 53.6,
+   "hot": true
+  },
+  {
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+   "publishedAt": 1794420000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 52.4,
+   "hot": true
+  },
+  {
+   "title": "Atuin Threads: All your agent sessions on every machine",
+   "url": "https://blog.atuin.sh/threads-agent-sessions/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50453637",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 125,
+   "comments": 54,
+   "publishedAt": 1794406246000,
+   "isAI": true,
+   "score": 51.4,
+   "hot": false
   },
   {
    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
@@ -65,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 419,
+   "engagement": 421,
    "comments": 139,
    "publishedAt": 1794333675000,
    "isAI": true,
-   "score": 51.6,
+   "score": 51.2,
    "hot": false
   },
   {
@@ -79,12 +107,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1119,
-   "comments": 411,
+   "engagement": 1120,
+   "comments": 412,
    "publishedAt": 1794324320000,
    "isAI": false,
-   "score": 51.5,
+   "score": 51,
    "hot": false
+  },
+  {
+   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50455394",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 232,
+   "comments": 123,
+   "publishedAt": 1794415124000,
+   "isAI": false,
+   "score": 50.7,
+   "hot": true
   },
   {
    "title": "AI usage generates a fragile codebase",
@@ -94,52 +136,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 618,
-   "comments": 580,
+   "comments": 583,
    "publishedAt": 1794306358000,
    "isAI": true,
-   "score": 50.9,
-   "hot": false
-  },
-  {
-   "title": "Atuin Threads: All your agent sessions on every machine",
-   "url": "https://blog.atuin.sh/threads-agent-sessions/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50453637",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 109,
-   "comments": 39,
-   "publishedAt": 1794406246000,
-   "isAI": true,
-   "score": 50.8,
-   "hot": false
-  },
-  {
-   "title": "Protecting SSH Keys with macOS Secure Enclave",
-   "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50449748",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 356,
-   "comments": 126,
-   "publishedAt": 1794371337000,
-   "isAI": false,
-   "score": 48.8,
-   "hot": true
-  },
-  {
-   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50443716",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 273,
-   "comments": 208,
-   "publishedAt": 1794333307000,
-   "isAI": true,
-   "score": 48.4,
+   "score": 50.5,
    "hot": false
   },
   {
@@ -149,12 +149,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 194,
-   "comments": 106,
+   "engagement": 219,
+   "comments": 124,
    "publishedAt": 1794405731000,
    "isAI": false,
-   "score": 48.3,
+   "score": 48.8,
    "hot": true
+  },
+  {
+   "title": "Protecting SSH Keys with macOS Secure Enclave",
+   "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50449748",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 360,
+   "comments": 129,
+   "publishedAt": 1794371337000,
+   "isAI": false,
+   "score": 48.4,
+   "hot": true
+  },
+  {
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50443716",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 274,
+   "comments": 211,
+   "publishedAt": 1794333307000,
+   "isAI": true,
+   "score": 47.9,
+   "hot": false
+  },
+  {
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "url": "https://openai.com/index/jiostar-vijay-seshadri",
+   "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+   "publishedAt": 1794355200000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 47.7,
+   "hot": false
   },
   {
    "title": "Google 소프트웨어 엔지니어, AI 에이전트 48개로 NASA 라이다를 분석해 72시간 만에 지도에 없는 마야 ...",
@@ -167,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -181,7 +223,21 @@
    "comments": 159,
    "publishedAt": 1794326835000,
    "isAI": true,
-   "score": 48,
+   "score": 47.6,
+   "hot": false
+  },
+  {
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50429906",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 994,
+   "comments": 8,
+   "publishedAt": 1794250589000,
+   "isAI": true,
+   "score": 47.4,
    "hot": false
   },
   {
@@ -195,22 +251,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
-   "title": "Claude Fable 5.2 and Mythos 5.2",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50429906",
+   "title": "Can a Linear Program Do Weight-Space Programming?",
+   "url": "https://nathan.rs/posts/weight-space-lp/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50452655",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 994,
-   "comments": 8,
-   "publishedAt": 1794250589000,
-   "isAI": true,
-   "score": 47.8,
-   "hot": false
+   "engagement": 183,
+   "comments": 29,
+   "publishedAt": 1794400217000,
+   "isAI": false,
+   "score": 46.5,
+   "hot": true
   },
   {
    "title": "Show GN: Fame - 교과서 사진으로 빈칸 시험지를 만드는 고등학생용 내신 암기 앱",
@@ -223,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -237,36 +293,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
-   "hot": true
-  },
-  {
-   "title": "Can a Linear Program Do Weight-Space Programming?",
-   "url": "https://nathan.rs/posts/weight-space-lp/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50452655",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 173,
-   "comments": 29,
-   "publishedAt": 1794400217000,
-   "isAI": false,
-   "score": 46.5,
-   "hot": true
-  },
-  {
-   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50455394",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 133,
-   "comments": 66,
-   "publishedAt": 1794415124000,
-   "isAI": false,
    "score": 46.1,
-   "hot": false
+   "hot": true
   },
   {
    "title": "Google Gemini routes personal Drive files and emails to human annotators",
@@ -275,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 727,
+   "engagement": 730,
    "comments": 147,
    "publishedAt": 1794248678000,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.4,
    "hot": false
   },
   {
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -307,7 +335,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 45,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -321,8 +349,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.5,
    "hot": true
+  },
+  {
+   "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+   "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50452742",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 143,
+   "comments": 46,
+   "publishedAt": 1794401046000,
+   "isAI": false,
+   "score": 44.4,
+   "hot": false
   },
   {
    "title": "Show GN: NOX - LLM 채팅으로 영상을 찾고 제어하는 NVR/VMS 플랫폼",
@@ -335,22 +377,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.2,
    "hot": true
-  },
-  {
-   "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
-   "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50452742",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 136,
-   "comments": 39,
-   "publishedAt": 1794401046000,
-   "isAI": false,
-   "score": 44.4,
-   "hot": false
   },
   {
    "title": "A great old-timey game-programming hack (2013)",
@@ -359,11 +387,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 240,
-   "comments": 54,
+   "engagement": 242,
+   "comments": 55,
    "publishedAt": 1794362191000,
    "isAI": false,
-   "score": 44.4,
+   "score": 44,
    "hot": true
   },
   {
@@ -373,11 +401,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 715,
+   "engagement": 717,
    "comments": 256,
    "publishedAt": 1794290468000,
    "isAI": false,
-   "score": 44.4,
+   "score": 44,
    "hot": false
   },
   {
@@ -391,7 +419,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 44,
+   "score": 43.5,
    "hot": true
   },
   {
@@ -405,7 +433,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -415,11 +443,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 123,
-   "comments": 82,
+   "engagement": 124,
+   "comments": 84,
    "publishedAt": 1794332684000,
    "isAI": true,
-   "score": 42.3,
+   "score": 42,
    "hot": false
   },
   {
@@ -429,11 +457,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 376,
-   "comments": 274,
+   "engagement": 378,
+   "comments": 275,
    "publishedAt": 1794254695000,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -447,7 +475,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -461,8 +489,50 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 42,
+   "score": 41.6,
    "hot": false
+  },
+  {
+   "title": "Show HN: 미디어 서버를 위한 15MB 셀프 호스팅 Netflix와 Spotify",
+   "url": "https://news.hada.io/topic?id=36998&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "HolyArrs 는 TV 프로그램, 영화, 음악의 탐색과 요청, 릴리스 선택, 다운로드 연계, 라이브러리 정리를 하나로 묶어 여러 미디어 관리 앱을 대체하는 셀프 호스팅 앱임 약 15MB 이미지 로 배포되며, 작품 1만 개를 등록한 환경에서 유휴 메모리는 약 140MiB임. 로그인과 웹 포트도 각각 하나로 통합함 요청한 작품을 등록된 소스에서 검색하고 Pick rules 의 크기, 품질, 언어 조건에 따라 릴리스를 골라 외부 다운로더로 전달한 뒤, 라이브러리에 정리하고 미디어 서버에 알림 Plex, Jellyfin, Emby 및 기",
+   "publishedAt": 1794419161000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
+  },
+  {
+   "title": "Apple, 다음 주 Support Community 포럼 폐쇄",
+   "url": "https://news.hada.io/topic?id=36997&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Apple이 사용자 간 제품 상담과 문제 해결 공간인 Apple Support Community 를 읽기 전용으로 전환했으며, 2026년 11월 20일 영구 폐쇄 할 예정임 포럼은 1998년 Apple Tech Exchange 로 출범한 뒤 여러 차례 이름을 바꾸며 사용자 간 기술 지원을 이어왔음 수십 년간 쌓인 기존 게시물의 처리 방침은 공개되지 않았음 Apple은 전략과 고객 요구를 신중히 평가 한 뒤 커뮤니티 운영 종료를 결정했다고 밝힘 종료 이후에도 공식 Apple Support 사이트 에서 안내와 지원을 받을 수 있음 읽기",
+   "publishedAt": 1794418981000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
+  },
+  {
+   "title": "전압 글리칭으로 채굴 카드에 잠든 A100 성능 끌어내기",
+   "url": "https://news.hada.io/topic?id=36996&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "GA100의 전압 결함 주입(VFI) 취약점 으로 임의의 eFuse를 프로그래밍해, CMP 170HX 8GB 채굴 카드를 사실상 A100-80G로 전환함 물리적 퓨즈를 되돌리는 대신, Fuseless Fuse(FF) 영역에 새 레코드를 추가해 기능 제한 설정을 덮어씀. 전압 글리칭과 제어 퓨즈 재읽기를 조합해 양산 카드의 쓰기 보호를 우회함 정상 메모리가 80GB인 카드에서는 전체 80GB 를 사용할 수 있었으며, 실제 확보 가능한 용량과 연산 자원은 칩 결함에 따라 달라짐 정상 동작하는 SM을 활성화한 카드의 FP16 FMA 처리",
+   "publishedAt": 1794418801000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
   },
   {
    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
@@ -475,7 +545,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.3,
+   "hot": false
+  },
+  {
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+   "publishedAt": 1794294000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 41,
+   "hot": false
+  },
+  {
+   "title": "AMD's Zen 6 Family: Feeding the Beast",
+   "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50443090",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 257,
+   "comments": 108,
+   "publishedAt": 1794330152000,
+   "isAI": false,
+   "score": 40.9,
    "hot": false
   },
   {
@@ -489,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -503,36 +601,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 40.9,
    "hot": true
-  },
-  {
-   "title": "Work at the Frontier: AI’s effect on freelance work",
-   "url": "https://openai.com/index/ai-effect-on-freelance-work",
-   "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-   "publishedAt": 1794294000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 41.3,
-   "hot": false
-  },
-  {
-   "title": "AMD's Zen 6 Family: Feeding the Beast",
-   "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50443090",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 255,
-   "comments": 108,
-   "publishedAt": 1794330152000,
-   "isAI": false,
-   "score": 41.2,
-   "hot": false
   },
   {
    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
@@ -545,7 +615,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -556,10 +626,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 164,
-   "comments": 63,
+   "comments": 64,
    "publishedAt": 1794295178000,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -573,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -587,7 +657,21 @@
    "comments": 193,
    "publishedAt": 1794280806000,
    "isAI": true,
-   "score": 40.3,
+   "score": 40,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+   "url": "https://github.com/adrbn/bo2-mac",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50449891",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 124,
+   "comments": 55,
+   "publishedAt": 1794373007000,
+   "isAI": false,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -601,21 +685,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 40.1,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-   "url": "https://github.com/adrbn/bo2-mac",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50449891",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 121,
-   "comments": 55,
-   "publishedAt": 1794373007000,
-   "isAI": false,
-   "score": 40,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -626,10 +696,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 901,
-   "comments": 493,
+   "comments": 494,
    "publishedAt": 1794161767000,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -643,7 +713,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -657,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -671,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -682,16 +752,16 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 111,
-   "comments": 71,
+   "comments": 74,
    "publishedAt": 1794374754000,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": false
   },
   {
    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
    "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-   "summary": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+   "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
    "publishedAt": 1794413684000,
    "source": "TechCrunch AI",
    "sourceType": "media",
@@ -699,7 +769,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -713,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -727,7 +797,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -741,7 +811,7 @@
    "comments": 966,
    "publishedAt": 1794181476000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -755,13 +825,13 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-   "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+   "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
    "publishedAt": 1794409200000,
    "source": "TechCrunch AI",
    "sourceType": "media",
@@ -769,7 +839,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -783,8 +853,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
+  },
+  {
+   "title": "$30M Raised to Redo the CPU",
+   "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50447036",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 133,
+   "comments": 138,
+   "publishedAt": 1794348843000,
+   "isAI": false,
+   "score": 37.9,
+   "hot": false
   },
   {
    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
@@ -797,21 +881,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.3,
-   "hot": false
-  },
-  {
-   "title": "$30M Raised to Redo the CPU",
-   "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50447036",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 133,
-   "comments": 137,
-   "publishedAt": 1794348843000,
-   "isAI": false,
-   "score": 38.2,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -825,7 +895,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -836,10 +906,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 158,
-   "comments": 198,
+   "comments": 199,
    "publishedAt": 1794262752000,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -849,11 +919,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 981,
-   "comments": 1281,
+   "engagement": 982,
+   "comments": 1282,
    "publishedAt": 1794176409000,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -867,7 +937,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.2,
+   "hot": false
+  },
+  {
+   "title": "Goodbye Claude, hello Pi",
+   "url": "https://caleb.software/posts/claude-to-pi.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50410107",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 820,
+   "comments": 492,
+   "publishedAt": 1794107508000,
+   "isAI": true,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -881,7 +965,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -895,21 +979,7 @@
    "comments": 136,
    "publishedAt": 1794311479000,
    "isAI": false,
-   "score": 36.4,
-   "hot": false
-  },
-  {
-   "title": "Show GN: Officeflare - Cloudflare 인프라 위에 올라가는 오피스 스위트",
-   "url": "https://news.hada.io/topic?id=36977&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Cloudflare 인프라 위에서 동작하는 오피스 스위트를 만들어 사용하고 있습니다. 클라우드플레어에 이메일 라우팅, 이메일 발송 같은 기능들이 도입되며, 오래 전부터 생각만 해오던 제품을 만들 수 있게 되었네요. 현재 시점에서 제공하는 기능은 총 3가지입니다. 1. 메일 클플의 Email routing을 사용해 메일을 수신하고, Email sending을 사용해 메일을 발신합니다. 메일 발송은 페이드 플랜을 필요로 하므로 유료 계정 위에 올려 사용하거나, resend 와 같은 별도 프로바이더를 연결하셔야 합니다. 수신된 메일은 메",
-   "publishedAt": 1794371014000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -923,48 +993,6 @@
    "comments": 27,
    "publishedAt": 1794249238000,
    "isAI": true,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Goodbye Claude, hello Pi",
-   "url": "https://caleb.software/posts/claude-to-pi.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50410107",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 819,
-   "comments": 492,
-   "publishedAt": 1794107508000,
-   "isAI": true,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Gleam을 써보자",
-   "url": "https://news.hada.io/topic?id=36975&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Gleam 은 Erlang VM인 BEAM과 JavaScript를 대상으로 컴파일되는 정적 타입 함수형 언어로, 간결한 문법과 Erlang/Elixir 생태계 상호운용성을 갖춤 파이프 연산자 |> , 콜백 중첩을 줄이는 use , 꼬리 호출 최적화를 중심으로 불변 데이터와 함수 조합을 다루며, Rust의 함수형 코드에 익숙하다면 친숙하게 접근할 수 있음 대수적 데이터 타입 으로 원치 않는 상태를 표현하지 못하게 설계할 수 있고, BEAM 백엔드와 JavaScript 프런트엔드에서 타입 정의를 공유할 수 있음 BEAM과 OTP 는 메",
-   "publishedAt": 1794369774000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "Show GN: TimeCarver - 집중한 시간만큼 돌을 깎는 타이머 앱",
-   "url": "https://news.hada.io/topic?id=36973&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "집중해야 하는데 자꾸 딴짓을 하게 되는 저 같은 분들을 위해 만든, iOS·Android 포커스 타이머 앱 TimeCarver입니다. 집중하는 동안 원석이 조금씩 깎여 나가고, 딴짓을 하면 균열이 생깁니다. 시간이 다 되면 직접 깎은 조각상 한 점이 남습니다. 가입이나 로그인은 없고, 무료로 주요 기능들을 이용하실 수 있습니다. 주요 기능 원석과 시간(1분~3시간)을 고르고 시작하면, 시간이 흐르는 만큼 원석이 윤곽부터 디테일까지 깎여 나갑니다. 어떤 작품이 될지는 미리 알려주지 않고, 시간이 다 되면 좌대 위에서 공개됩니다. 오래",
-   "publishedAt": 1794366457000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
    "score": 36,
    "hot": false
   },
@@ -979,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -989,11 +1017,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 766,
+   "engagement": 768,
    "comments": 233,
    "publishedAt": 1794177335000,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -1007,7 +1035,7 @@
    "comments": 78,
    "publishedAt": 1794212269000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1021,7 +1049,7 @@
    "comments": 208,
    "publishedAt": 1794133324000,
    "isAI": true,
-   "score": 35,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -1035,7 +1063,7 @@
    "comments": 215,
    "publishedAt": 1794166662000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1049,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1063,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1077,7 +1105,7 @@
    "comments": 76,
    "publishedAt": 1794263441000,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1087,11 +1115,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 109,
-   "comments": 41,
+   "engagement": 111,
+   "comments": 42,
    "publishedAt": 1794247544000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1105,7 +1133,7 @@
    "comments": 428,
    "publishedAt": 1794084332000,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -1120,7 +1148,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1128,20 +1156,6 @@
    "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
    "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature tha",
    "publishedAt": 1794412800000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-   "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. Alp",
-   "publishedAt": 1794409200000,
    "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
@@ -1162,35 +1176,21 @@
    "comments": 418,
    "publishedAt": 1794169603000,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false
   },
   {
-   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-   "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-   "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn p",
-   "publishedAt": 1794405600000,
+   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+   "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. Alp",
+   "publishedAt": 1794409200000,
    "source": "The Verge",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "Google DeepMind just mathematically verified key parts of Signal",
-   "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-   "summary": "The four-week project hints that AI could make formal verification far more practical.",
-   "publishedAt": 1794406137000,
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1200,11 +1200,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 510,
+   "engagement": 511,
    "comments": 309,
    "publishedAt": 1794074537000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.4,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -1219,9 +1219,37 @@
    "comments": 535,
    "publishedAt": 1793917035000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.4,
    "hot": false,
    "lastWeekRank": 11
+  },
+  {
+   "title": "Google DeepMind just mathematically verified key parts of Signal",
+   "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+   "summary": "The four-week project hints that AI could make formal verification far more practical.",
+   "publishedAt": 1794406137000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+   "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn p",
+   "publishedAt": 1794405600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.2,
+   "hot": false
   },
   {
    "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -1234,7 +1262,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 32.3,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1248,7 +1276,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1262,7 +1290,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1276,7 +1304,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1290,7 +1318,20 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+   "url": "https://huggingface.co/papers/2611.14210",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 71,
+   "summary": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-p",
+   "publishedAt": 1794250800000,
+   "isAI": true,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1304,7 +1345,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1318,35 +1359,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-   "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-   "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-   "publishedAt": 1794413767000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
    "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "Apple capped engineers at a $200 daily AI budget",
-   "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50421426",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 113,
-   "comments": 126,
-   "publishedAt": 1794202211000,
-   "isAI": true,
-   "score": 31.3,
    "hot": false
   },
   {
@@ -1360,49 +1373,36 @@
    "comments": 293,
    "publishedAt": 1794044196000,
    "isAI": false,
-   "score": 31.3,
+   "score": 31.2,
    "hot": false,
    "lastWeekRank": 4
   },
   {
-   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-   "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-   "publishedAt": 1794331800000,
+   "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+   "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+   "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+   "publishedAt": 1794413767000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
-   "isAI": true,
-   "score": 31.3,
+   "isAI": false,
+   "score": 31.1,
    "hot": false
   },
   {
-   "title": "OpenAI raises $11B at a $1.25T valuation",
-   "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50413822",
+   "title": "Apple capped engineers at a $200 daily AI budget",
+   "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50421426",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 190,
-   "comments": 216,
-   "publishedAt": 1794149363000,
+   "engagement": 113,
+   "comments": 126,
+   "publishedAt": 1794202211000,
    "isAI": true,
-   "score": 31.2,
-   "hot": false
-  },
-  {
-   "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
-   "url": "https://huggingface.co/papers/2611.14210",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 67,
-   "summary": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-p",
-   "publishedAt": 1794250800000,
-   "isAI": true,
-   "score": 31.2,
+   "score": 31,
    "hot": false
   }
  ]
