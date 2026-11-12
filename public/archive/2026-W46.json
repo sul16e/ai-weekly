@@ -1,21 +1,7 @@
 {
- "updatedAt": 1794457432457,
+ "updatedAt": 1794461077512,
  "week": "2026-W46",
  "items": [
-  {
-   "title": "My AI agents found an unmapped Maya site?",
-   "url": "https://pietromiotti.com/latest/maya-site",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50452455",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 948,
-   "comments": 343,
-   "publishedAt": 1794398722000,
-   "isAI": true,
-   "score": 62.1,
-   "hot": true
-  },
   {
    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
@@ -23,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 459,
-   "comments": 443,
+   "engagement": 485,
+   "comments": 469,
    "publishedAt": 1794432275000,
    "isAI": true,
-   "score": 61.8,
+   "score": 61.7,
+   "hot": true
+  },
+  {
+   "title": "My AI agents found an unmapped Maya site?",
+   "url": "https://pietromiotti.com/latest/maya-site",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50452455",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 953,
+   "comments": 350,
+   "publishedAt": 1794398722000,
+   "isAI": true,
+   "score": 61.6,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 702,
-   "comments": 973,
+   "engagement": 757,
+   "comments": 1072,
    "publishedAt": 1794436266000,
    "isAI": false,
-   "score": 58.8,
+   "score": 58.9,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 321,
-   "comments": 100,
+   "engagement": 341,
+   "comments": 105,
    "publishedAt": 1794421962000,
    "isAI": true,
-   "score": 57,
+   "score": 56.9,
    "hot": true
   },
   {
@@ -69,7 +69,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 55.3,
+   "score": 54.7,
    "hot": true
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 439,
-   "comments": 225,
+   "engagement": 450,
+   "comments": 227,
    "publishedAt": 1794415124000,
    "isAI": false,
-   "score": 51.4,
+   "score": 51.1,
    "hot": true
   },
   {
@@ -93,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 199,
+   "engagement": 203,
    "comments": 77,
    "publishedAt": 1794406246000,
    "isAI": true,
-   "score": 50.6,
+   "score": 50.2,
    "hot": true
   },
   {
@@ -107,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 146,
+   "engagement": 148,
    "comments": 148,
    "publishedAt": 1794424003000,
    "isAI": true,
-   "score": 50.5,
+   "score": 50.1,
    "hot": false
   },
   {
@@ -121,12 +121,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 522,
-   "comments": 528,
+   "engagement": 526,
+   "comments": 532,
    "publishedAt": 1794345903000,
    "isAI": true,
-   "score": 50,
+   "score": 49.6,
    "hot": false
+  },
+  {
+   "title": "AI 시대, git push 앞뒤에서 바뀌는 것들",
+   "url": "https://news.hada.io/article/git-push-in-the-agent-era?utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "2026년 10월, Anthropic은 사내 모노레포에서 Git을 자체 버전 관리 시스템인 Scion으로 교체했다 고 밝혔습니다. 11월에는 OpenAI도 병렬 에이전트 개발을 위해 Pando라는 새 Git 백엔드를 만들었다 고 공개했습니다. 두 회사 모두 여러 에이전트가 동시에 작업하면서 저장소에 걸리는 부하가 커졌지만, 바꾼 범위는 달랐습니다. Anthropic은 버전 관리 시스템 자체를 바꿨고, OpenAI는 서버 쪽을 바꿨습니다. OpenAI 개발자들은 그래서 Pando에서도 예전처럼 git clone 으로 코드를 받고 gi",
+   "publishedAt": 1794457164000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.4,
+   "hot": true
   },
   {
    "title": "Tracking Anthropic-discovered vulnerabilities",
@@ -135,11 +149,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 447,
+   "engagement": 448,
    "comments": 219,
    "publishedAt": 1794349076000,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.9,
    "hot": false
   },
   {
@@ -153,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.8,
    "hot": true
   },
   {
@@ -167,7 +181,7 @@
    "comments": 4,
    "publishedAt": 1794436595000,
    "isAI": false,
-   "score": 48.7,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": true
   },
   {
@@ -251,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": true
   },
   {
@@ -265,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": true
   },
   {
@@ -275,11 +289,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 425,
+   "engagement": 428,
    "comments": 142,
    "publishedAt": 1794333675000,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.8,
    "hot": false
   },
   {
@@ -289,11 +303,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1150,
+   "engagement": 1152,
    "comments": 434,
    "publishedAt": 1794324320000,
    "isAI": false,
-   "score": 47.2,
+   "score": 46.8,
+   "hot": false
+  },
+  {
+   "title": "AI usage generates a fragile codebase",
+   "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50438318",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 632,
+   "comments": 608,
+   "publishedAt": 1794306358000,
+   "isAI": true,
+   "score": 46.5,
    "hot": false
   },
   {
@@ -307,22 +335,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
    "hot": true
-  },
-  {
-   "title": "AI usage generates a fragile codebase",
-   "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50438318",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 632,
-   "comments": 608,
-   "publishedAt": 1794306358000,
-   "isAI": true,
-   "score": 46.9,
-   "hot": false
   },
   {
    "title": "AI, activity, and outcomes in software engineering",
@@ -331,11 +345,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 110,
+   "engagement": 111,
    "comments": 102,
    "publishedAt": 1794414808000,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.4,
    "hot": false
   },
   {
@@ -343,34 +357,6 @@
    "url": "https://news.hada.io/topic?id=37009&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
    "summary": "셸 명령 기록을 검색하고 동기화하는 Atuin이 18.24부터 코딩 에이전트 세션도 검색하고 재개 할 수 있게 함 개발 서버의 Claude Code에서 시작한 작업을 노트북의 Codex에서 이어갈 수 있음 . 이전 대화 기록을 바탕으로 새 세션을 열어 작업 맥락을 이어받음 세션 수집은 사용자가 켜야 시작 함. 기록을 로컬에만 둘 수도 있고, Atuin 호스팅 서버나 자체 서버를 통해 종단 간 암호화로 동기화 할 수도 있음 MCP 를 통해 에이전트가 이전 세션을 직접 검색하고 참조할 수 있어, 과거의 시도와 의사결정 이유, 조사 결과",
    "publishedAt": 1794433461000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.6,
-   "hot": true
-  },
-  {
-   "title": "100% AI 사용 의무화 1년 후, 아무도 이해하지 못하는 우리의 코드",
-   "url": "https://news.hada.io/topic?id=37006&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "100% AI 사용 의무화 1년 후, 아무도 이해하지 못하는 우리의 코드",
-   "publishedAt": 1794429825000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.1,
-   "hot": true
-  },
-  {
-   "title": "Fireworks AI 보안 침해, Notion과 고객에게 영향",
-   "url": "https://news.hada.io/topic?id=37005&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Notion의 공급업체 Fireworks AI에서 보안 사고 가 발생해 전체 Notion 워크스페이스의 1% 미만 이 영향을 받음 Notion은 확인된 피해 고객에게 연락했으며 조사는 진행 중 임. 사용자와 워크스페이스 소유자 모두 연락을 받지 않았다면 현재까지 영향 대상으로 확인되지 않았으며, 당장 필요한 조치는 없음 영향을 받은 고객은 워크스페이스에서 해당 데이터를 확인 할 수 있으며, 해당 기간 Notion AI에 입력한 비밀번호나 API 키 등 인증 정보는 즉시 교체 하도록 권고함 Fireworks는 계약상 데이터 무보관(Z",
-   "publishedAt": 1794429644000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -391,7 +377,7 @@
    "comments": 3,
    "publishedAt": 1794405731000,
    "isAI": false,
-   "score": 45.7,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -401,11 +387,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 257,
+   "engagement": 261,
    "comments": 38,
    "publishedAt": 1794400217000,
    "isAI": false,
-   "score": 45,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -419,8 +405,8 @@
    "comments": 137,
    "publishedAt": 1794371337000,
    "isAI": false,
-   "score": 44.8,
-   "hot": true
+   "score": 44.4,
+   "hot": false
   },
   {
    "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
@@ -429,11 +415,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 203,
-   "comments": 90,
+   "engagement": 209,
+   "comments": 91,
    "publishedAt": 1794411186000,
    "isAI": false,
-   "score": 44.4,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -447,7 +433,7 @@
    "comments": 216,
    "publishedAt": 1794333307000,
    "isAI": true,
-   "score": 44.4,
+   "score": 44,
    "hot": false
   },
   {
@@ -461,7 +447,7 @@
    "comments": 8,
    "publishedAt": 1794250589000,
    "isAI": true,
-   "score": 44.3,
+   "score": 44,
    "hot": false
   },
   {
@@ -471,11 +457,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 292,
+   "engagement": 293,
    "comments": 164,
    "publishedAt": 1794326835000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -489,7 +475,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -499,32 +485,18 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 733,
+   "engagement": 736,
    "comments": 148,
    "publishedAt": 1794248678000,
    "isAI": true,
-   "score": 42.4,
+   "score": 42.2,
    "hot": false
   },
   {
-   "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
-   "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50452742",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 170,
-   "comments": 56,
-   "publishedAt": 1794401046000,
-   "isAI": false,
-   "score": 41.8,
-   "hot": true
-  },
-  {
-   "title": "더 나은, 더 효율적인 RAG를 위한 빠른 검색",
-   "url": "https://news.hada.io/topic?id=37031&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Apple 연구진이 고정된 벡터 데이터베이스와 실제 질의 분포를 바탕으로 작은 신경망을 미리 학습해 최대 내적 검색(MIPS) 의 추론 속도와 정확도를 높이는 방법을 개발함 기존 중심점 기반 검색은 클러스터 내부의 최적 키를 놓칠 수 있음. SupportNet 은 클러스터별 최상의 일치 점수를 예측해 질의를 더 적합한 클러스터로 보냄 KeyNet 은 질의를 최적 키에 가까운 벡터로 변환해 기존 IVF 인덱스에 전달함. Natural Questions 실험에서 대형 모델은 질의 변환 시간을 포함해 99% 재현율에 도달하는 시간을 최대",
-   "publishedAt": 1794454388000,
+   "title": "GitHub Actions를 잠금 파일로 고정하기",
+   "url": "https://news.hada.io/topic?id=37037&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "GitHub Actions가 워크플로 잠금 파일 을 지원하면서, 워크플로에는 버전 태그를 쓰고 별도 파일에 커밋 정보를 고정할 수 있게 됨 Git에서 가져오는 액션의 태그는 변경 가능 하므로, 공격자가 안전했던 태그를 악성 코드로 돌리는 공급망 공격을 막기 위해 기존에는 전체 SHA 고정이 권장됐음 gh actions-lock 을 실행하면 워크플로를 버전 태그 형식으로 바꾸고 .github/workflows/actions.lock 을 생성하며, 수정된 워크플로와 잠금 파일을 함께 커밋해야 함 Renovate와 Dependabot 은",
+   "publishedAt": 1794457922000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -535,10 +507,38 @@
    "hot": true
   },
   {
-   "title": "페인트 얼룩의 93%는 유효한 Perl 프로그램이다 (2019)",
-   "url": "https://news.hada.io/topic?id=37029&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "페인트 얼룩을 OCR로 인식한 결과 93%가 유효한 Perl 프로그램으로 파싱 됐으며, 유효한 Perl 코드를 만들지 않고 벽에 페인트를 묻히는 것도 가능했음 연구의 주요 데이터셋은 페인트 얼룩 이미지 100개 이며, 유효한 Perl 프로그램이 아닌 사례 7개도 확인함 공개 갤러리에서 얼룩 이미지와 대응하는 Perl 코드 를 함께 볼 수 있으며, 파싱되지 않은 이미지는 빨간색으로 구분함 OCR 설정에 따라 여러 유효한 프로그램이 인식되면, 갤러리에는 개인적인 미적 기준으로 가장 흥미로운 코드 를 골라 실었음 제출 마감 뒤 추가로 주",
-   "publishedAt": 1794450712000,
+   "title": "Show GN: 딸깍 - 국어사전 명사 2만 7천 개로 컴퓨터와 하는 끝말잇기, 성냥개비 문제 정답 찾기",
+   "url": "https://news.hada.io/topic?id=37033&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "8월에 매일 자정 10문제가 열리는 퍼즐 사이트로 한 번 소개드렸던 딸깍입니다. 석 달 동안 \"매일 문제\" 말고 직접 갖고 놀 수 있는 것을 몇 개 붙여서 다시 올립니다. 끝말잇기 (/kkeut) 국립국어원 한국어기초사전의 두 글자 이상 명사 27,831개만 받습니다. 두음법칙은 인정합니다. 컴퓨터는 새싹부터 고수까지 5단계인데, 고수는 \"다음 사람이 이을 말이 없는 끝 글자\"로 끝나는 말을 노리고 칩니다. 매일 퍼즐도 하나 열립니다. \"N수 안에 컴퓨터를 막아라\" 식인데, 내보내기 전에 정답 길이 실제로 있는지 탐색으로 확인합니다",
+   "publishedAt": 1794457103000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
+  },
+  {
+   "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+   "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50452742",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 170,
+   "comments": 57,
+   "publishedAt": 1794401046000,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
+  },
+  {
+   "title": "더 나은, 더 효율적인 RAG를 위한 빠른 검색",
+   "url": "https://news.hada.io/topic?id=37031&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Apple 연구진이 고정된 벡터 데이터베이스와 실제 질의 분포를 바탕으로 작은 신경망을 미리 학습해 최대 내적 검색(MIPS) 의 추론 속도와 정확도를 높이는 방법을 개발함 기존 중심점 기반 검색은 클러스터 내부의 최적 키를 놓칠 수 있음. SupportNet 은 클러스터별 최상의 일치 점수를 예측해 질의를 더 적합한 클러스터로 보냄 KeyNet 은 질의를 최적 키에 가까운 벡터로 변환해 기존 IVF 인덱스에 전달함. Natural Questions 실험에서 대형 모델은 질의 변환 시간을 포함해 99% 재현율에 도달하는 시간을 최대",
+   "publishedAt": 1794454388000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -555,12 +555,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 266,
-   "comments": 66,
+   "engagement": 267,
+   "comments": 67,
    "publishedAt": 1794362191000,
    "isAI": false,
-   "score": 41,
+   "score": 40.7,
    "hot": false
+  },
+  {
+   "title": "페인트 얼룩의 93%는 유효한 Perl 프로그램이다 (2019)",
+   "url": "https://news.hada.io/topic?id=37029&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "페인트 얼룩을 OCR로 인식한 결과 93%가 유효한 Perl 프로그램으로 파싱 됐으며, 유효한 Perl 코드를 만들지 않고 벽에 페인트를 묻히는 것도 가능했음 연구의 주요 데이터셋은 페인트 얼룩 이미지 100개 이며, 유효한 Perl 프로그램이 아닌 사례 7개도 확인함 공개 갤러리에서 얼룩 이미지와 대응하는 Perl 코드 를 함께 볼 수 있으며, 파싱되지 않은 이미지는 빨간색으로 구분함 OCR 설정에 따라 여러 유효한 프로그램이 인식되면, 갤러리에는 개인적인 미적 기준으로 가장 흥미로운 코드 를 골라 실었음 제출 마감 뒤 추가로 주",
+   "publishedAt": 1794450712000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.7,
+   "hot": true
   },
   {
    "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
@@ -569,11 +583,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 722,
+   "engagement": 723,
    "comments": 257,
    "publishedAt": 1794290468000,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -587,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -601,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -615,7 +629,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -629,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -643,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -657,7 +671,7 @@
    "comments": 35,
    "publishedAt": 1794406887000,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -671,7 +685,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.5,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -685,7 +699,35 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
+   "hot": false
+  },
+  {
+   "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50431144",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 379,
+   "comments": 278,
+   "publishedAt": 1794254695000,
+   "isAI": true,
+   "score": 38.9,
+   "hot": false
+  },
+  {
+   "title": "Life on Claude Nine",
+   "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50443587",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 132,
+   "comments": 85,
+   "publishedAt": 1794332684000,
+   "isAI": true,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -699,56 +741,14 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.7,
    "hot": true
-  },
-  {
-   "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50431144",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 379,
-   "comments": 278,
-   "publishedAt": 1794254695000,
-   "isAI": true,
-   "score": 39.1,
-   "hot": false
   },
   {
    "title": "우리는 왜 아직도 이렇게 열심히 일하는가?",
    "url": "https://news.hada.io/topic?id=37008&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
    "summary": "미국의 시간당 생산량은 1973년의 2.5배 가 됐지만, 일반 노동자의 시간당 임금 구매력은 19% 늘어나는 데 그쳤고 인구 1인당 노동시간은 오히려 증가함 핵심 문제는 임금이 노동의 가격 이면서 생산물을 배분받는 생활의 입장권 이라는 데 있음. 자동화는 노동의 희소가치를 낮추지만, 임금에 생계가 달린 사람은 일을 거절하기 어려움 미국에서 1973년에 40시간 걸려 만들던 양을 이제 16시간이면 생산 할 수 있음. 하지만 당시 40시간치 임금으로 살 수 있던 물건을 사려면, 오늘날 일반 노동자도 약 34시간치 임금 이 필요함 저자의",
    "publishedAt": 1794433281000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.1,
-   "hot": true
-  },
-  {
-   "title": "Life on Claude Nine",
-   "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50443587",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 130,
-   "comments": 85,
-   "publishedAt": 1794332684000,
-   "isAI": true,
-   "score": 39,
-   "hot": false
-  },
-  {
-   "title": "우리에게는 더 많은 염소 희생 제사가 필요하다",
-   "url": "https://news.hada.io/topic?id=37007&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "사회정책이나 자선사업을 시작하기 전 필요한 것은 성공에 대한 확신보다 자신의 무지를 인정하는 절차적 겸손 임. 선의로 설계한 개입도 기대한 효과를 내지 못하는 경우가 많음 정책의 의도가 곧 결과를 보장한다고 느끼는 통제의 환상 은 효과 검증 자체를 생략하게 만들 수 있음. 교육사업부터 정부의 마약 단속까지 목표나 실험적 평가가 빠진 사례가 있음 단일 연구의 긍정적 결과 만으로 개입의 효과를 신뢰하기 어려움. 더 엄격한 평가나 다른 지역에서의 실행에서는 효과가 사라지거나 줄어들기도 함 실패를 마주했을 때 상식적인 …",
-   "publishedAt": 1794430005000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -769,7 +769,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -783,7 +783,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -797,21 +797,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 38.3,
-   "hot": false
-  },
-  {
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-   "publishedAt": 1794441000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 38.1,
+   "score": 38,
    "hot": false
   },
   {
@@ -825,7 +811,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
+   "hot": false
+  },
+  {
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "publishedAt": 1794441000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 37.7,
+   "hot": false
+  },
+  {
+   "title": "AMD's Zen 6 Family: Feeding the Beast",
+   "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50443090",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 263,
+   "comments": 115,
+   "publishedAt": 1794330152000,
+   "isAI": false,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -839,21 +853,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.9,
-   "hot": false
-  },
-  {
-   "title": "AMD's Zen 6 Family: Feeding the Beast",
-   "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50443090",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 262,
-   "comments": 115,
-   "publishedAt": 1794330152000,
-   "isAI": false,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -863,11 +863,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 901,
+   "engagement": 902,
    "comments": 496,
    "publishedAt": 1794161767000,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -881,7 +881,7 @@
    "comments": 60,
    "publishedAt": 1794373007000,
    "isAI": false,
-   "score": 37.5,
+   "score": 37.1,
    "hot": false
   },
   {
@@ -895,7 +895,7 @@
    "comments": 64,
    "publishedAt": 1794295178000,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -906,10 +906,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 194,
-   "comments": 193,
+   "comments": 191,
    "publishedAt": 1794280806000,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -919,11 +919,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 141,
-   "comments": 221,
+   "engagement": 144,
+   "comments": 222,
    "publishedAt": 1794367611000,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -937,7 +937,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -951,7 +951,21 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.4,
+   "hot": false
+  },
+  {
+   "title": "I'm not convinced the AI bubble exists",
+   "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50418975",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 572,
+   "comments": 970,
+   "publishedAt": 1794181476000,
+   "isAI": true,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -965,21 +979,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.6,
-   "hot": false
-  },
-  {
-   "title": "I'm not convinced the AI bubble exists",
-   "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50418975",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 570,
-   "comments": 970,
-   "publishedAt": 1794181476000,
-   "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -993,7 +993,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1007,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -1021,7 +1021,7 @@
    "comments": 77,
    "publishedAt": 1794374754000,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -1035,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1045,11 +1045,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 141,
+   "engagement": 142,
    "comments": 147,
    "publishedAt": 1794348843000,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1063,21 +1063,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-   "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-   "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-   "publishedAt": 1794409200000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.8,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1088,10 +1074,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 983,
-   "comments": 1283,
+   "comments": 1284,
    "publishedAt": 1794176409000,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1105,7 +1091,7 @@
    "comments": 200,
    "publishedAt": 1794262752000,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1119,7 +1105,21 @@
    "comments": 492,
    "publishedAt": 1794107508000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+   "publishedAt": 1794409200000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -1133,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1147,21 +1147,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "네이버, AI 팩토리 2조원 첫 수주 확보…”10곳 이상과 추가 협상 중\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217303",
-   "summary": "네이버가 엔비디아·브룩필드와 추진하는 AI 팩토리 사업에서 약 2조원 규모의 첫 공급 계약을 따냈다. 인프라 투자 부담으로 3분기 영업이익은 20% 넘게 줄었지만, 네이버 측은 2027년부터 AI 팩토리 사업이 실제 이익에 기여할 것으로 내다 봤다.최수연 네이버 대표는 12일 3분기 실적발표 컨퍼런스콜에서 \"미국 AI 추론 기업과 차세대 GPU를 포함한 약 2조 원 규모의 컴퓨팅 서비스 공급 계약을 체결했다\"고 밝혔다. 고객사 이름은 공개하지 않았다.계약 물량은 전력 기준 약 20메가와트(MW)이며, 엔비디아 B300과 차세대 GP",
-   "publishedAt": 1794455108000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1175,7 +1161,21 @@
    "comments": 27,
    "publishedAt": 1794249238000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "네이버, AI 팩토리 2조원 첫 수주 확보…”10곳 이상과 추가 협상 중\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217303",
+   "summary": "네이버가 엔비디아·브룩필드와 추진하는 AI 팩토리 사업에서 약 2조원 규모의 첫 공급 계약을 따냈다. 인프라 투자 부담으로 3분기 영업이익은 20% 넘게 줄었지만, 네이버 측은 2027년부터 AI 팩토리 사업이 실제 이익에 기여할 것으로 내다 봤다.최수연 네이버 대표는 12일 3분기 실적발표 컨퍼런스콜에서 \"미국 AI 추론 기업과 차세대 GPU를 포함한 약 2조 원 규모의 컴퓨팅 서비스 공급 계약을 체결했다\"고 밝혔다. 고객사 이름은 공개하지 않았다.계약 물량은 전력 기준 약 20메가와트(MW)이며, 엔비디아 B300과 차세대 GP",
+   "publishedAt": 1794455108000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1189,7 +1189,7 @@
    "comments": 235,
    "publishedAt": 1794177335000,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1203,21 +1203,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "구글, 판단 전용 AI '제미나이 디시전 1' 출시...질문 1000개 동시 처리",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217307",
-   "summary": "구글이 텍스트를 생성하는 대신 주어진 조건에 따라 빠르게 판단하고 선택하는 전용 AI 모델 '제미나이 디시전 1(Gemini Decision 1)'을 출시했다. 최대 1000개의 질문을 한 번에 처리하면서도 입력 토큰 100만개당 0.10달러라는 낮은 가격을 내세웠다. AI 에이전트의 도구 선택과 업무 분기, 모델 라우팅 등 반복적인 판단 작업을 저렴하고 빠르게 자동화하는 데 초점을 맞췄다.구글은 11일(현지시간) 공식 블로그를 통해 '제미나이 디시전 1'과 이를 활용하는 '제미나이 디시전 API(Gemini Decisions AP",
-   "publishedAt": 1794452858000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1231,21 +1217,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
-   "title": "미 공화당, 젠슨 황 의회 소환장 발부 추진…사임 요구까지 등장",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217301",
-   "summary": "미국 공화당이 중국 정보기관 연루 의혹을 받는 여성과 관계를 맺은 젠슨 황 엔비디아 CEO에 대한 의회 소환장 발부를 추진하고 있다. 황 CEO가 자발적인 비공개 브리핑 요청에 응하지 않으면 강제 출석을 요구하겠다는 것으로, 개인적인 사생활 논란이 엔비디아의 국가 안보 문제와 미국의 대중국 AI 반도체 수출 정책에 대한 조사로 번지고 있다.블룸버그와 로이터 등은 11일(현지시간) 미국 하원 공화당 지도부가 황 CEO의 의회 출석을 강제하기 위한 소환장 발부를 준비하고 있다고 보도했다.존 물레나르 하원 미중전략경쟁특별위원회 위원장은",
-   "publishedAt": 1794451812000,
+   "title": "구글, 판단 전용 AI '제미나이 디시전 1' 출시...질문 1000개 동시 처리",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217307",
+   "summary": "구글이 텍스트를 생성하는 대신 주어진 조건에 따라 빠르게 판단하고 선택하는 전용 AI 모델 '제미나이 디시전 1(Gemini Decision 1)'을 출시했다. 최대 1000개의 질문을 한 번에 처리하면서도 입력 토큰 100만개당 0.10달러라는 낮은 가격을 내세웠다. AI 에이전트의 도구 선택과 업무 분기, 모델 라우팅 등 반복적인 판단 작업을 저렴하고 빠르게 자동화하는 데 초점을 맞췄다.구글은 11일(현지시간) 공식 블로그를 통해 '제미나이 디시전 1'과 이를 활용하는 '제미나이 디시전 API(Gemini Decisions AP",
+   "publishedAt": 1794452858000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1259,7 +1245,21 @@
    "comments": 137,
    "publishedAt": 1794311479000,
    "isAI": false,
-   "score": 33.3,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "미 공화당, 젠슨 황 의회 소환장 발부 추진…사임 요구까지 등장",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217301",
+   "summary": "미국 공화당이 중국 정보기관 연루 의혹을 받는 여성과 관계를 맺은 젠슨 황 엔비디아 CEO에 대한 의회 소환장 발부를 추진하고 있다. 황 CEO가 자발적인 비공개 브리핑 요청에 응하지 않으면 강제 출석을 요구하겠다는 것으로, 개인적인 사생활 논란이 엔비디아의 국가 안보 문제와 미국의 대중국 AI 반도체 수출 정책에 대한 조사로 번지고 있다.블룸버그와 로이터 등은 11일(현지시간) 미국 하원 공화당 지도부가 황 CEO의 의회 출석을 강제하기 위한 소환장 발부를 준비하고 있다고 보도했다.존 물레나르 하원 미중전략경쟁특별위원회 위원장은",
+   "publishedAt": 1794451812000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1273,7 +1273,7 @@
    "comments": 79,
    "publishedAt": 1794212269000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   },
   {
@@ -1287,7 +1287,7 @@
    "comments": 209,
    "publishedAt": 1794133324000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   },
   {
@@ -1301,7 +1301,7 @@
    "comments": 215,
    "publishedAt": 1794166662000,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1315,7 +1315,7 @@
    "comments": 428,
    "publishedAt": 1794084332000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -1330,7 +1330,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1344,7 +1344,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1358,7 +1358,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1372,7 +1372,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1386,22 +1386,23 @@
    "comments": 77,
    "publishedAt": 1794263441000,
    "isAI": false,
-   "score": 32,
+   "score": 31.8,
    "hot": false
   },
   {
-   "title": "[11월11일] 앤트로픽이 월가에 진짜 하고 싶었던 말…42분 영상에 담긴 5가지 투자 논리",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217257",
-   "summary": "기업공개(IPO)를 앞둔 앤트로픽이 투자자들을 설득하기 위해 42분짜리 영상을 공개했습니다. 다리오 아모데이 CEO를 비롯한 경영진이 직접 등장해 1조달러가 넘는 기업가치를 인정받아야 하는 이유를 설명한 것으로, AI 안전을 강조해 온 앤트로픽이 투자자들에게 어떤 경쟁력과 성장 가능성을 내세웠는지 보여줍니다.앤트로픽은 10일(현지시간) 투자자 대상 기업 설명회인 로드쇼(Roadshow)를 시작하고, 미국 전용 IPO 홈페이지에 설명 영상을 공개했습니다. 로드쇼는 경영진이 투자자들에게 회사를 소개하고 투자를 유치하는 행사로, 최근에는",
-   "publishedAt": 1794434400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
+   "title": "Claude Code sends your email address to websites",
+   "url": "https://github.com/anthropics/claude-code/issues/107757",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50385272",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1614,
+   "comments": 535,
+   "publishedAt": 1793917035000,
    "isAI": true,
-   "score": 31.8,
-   "hot": false
+   "score": 31.6,
+   "hot": false,
+   "lastWeekRank": 11
   }
  ]
 }
