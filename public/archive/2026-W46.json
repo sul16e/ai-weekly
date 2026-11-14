@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794657782753,
+ "updatedAt": 1794661442429,
  "week": "2026-W46",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 656,
-   "comments": 385,
+   "engagement": 726,
+   "comments": 419,
    "publishedAt": 1794624779000,
    "isAI": true,
-   "score": 63.5,
+   "score": 63.8,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 396,
+   "engagement": 397,
    "comments": 101,
    "publishedAt": 1794591010000,
    "isAI": true,
-   "score": 53.9,
+   "score": 53.4,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 488,
-   "comments": 384,
+   "engagement": 489,
+   "comments": 387,
    "publishedAt": 1794565093000,
    "isAI": true,
-   "score": 51.9,
+   "score": 51.5,
    "hot": false
   },
   {
@@ -51,11 +51,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 320,
-   "comments": 420,
+   "engagement": 343,
+   "comments": 464,
    "publishedAt": 1794582524000,
    "isAI": true,
    "score": 51.1,
+   "hot": true
+  },
+  {
+   "title": "No AI Slop: A Manifesto",
+   "url": "https://www.slopmanifesto.com/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50488769",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 203,
+   "comments": 122,
+   "publishedAt": 1794599516000,
+   "isAI": true,
+   "score": 49.3,
    "hot": true
   },
   {
@@ -65,32 +79,18 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 344,
-   "comments": 210,
+   "engagement": 345,
+   "comments": 212,
    "publishedAt": 1794568426000,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.3,
    "hot": false
   },
   {
-   "title": "No AI Slop: A Manifesto",
-   "url": "https://www.slopmanifesto.com/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50488769",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 202,
-   "comments": 121,
-   "publishedAt": 1794599516000,
-   "isAI": true,
-   "score": 49.7,
-   "hot": true
-  },
-  {
-   "title": "Show HN: Isometric SF - 샌프란시스코 베이 지역의 픽셀 아트 지도",
-   "url": "https://news.hada.io/topic?id=37151&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Isometric SF 는 샌프란시스코 베이 지역을 아이소메트릭 픽셀 아트로 보여주는 지도임 골든게이트부터 산호세까지 베이 지역 전체를 담음 지도를 확대/축소 하며 살펴볼 수 있음 검색과 공유 기능을 지원함 모든 지도 타일은 Google Maps 3D 캡처 를 바탕으로 AI 모델 이 그렸음 지도 범위와 제작 방식 Isometric SF 는 골든게이트부터 산호세까지 베이 지역 전체를 담은 아이소메트릭 픽셀 아트 지도로, 확대/축소와 검색, 공유가 가능함 모든 타일 을 AI 모델이 Google Maps의 3D 캡처를 바탕으로 그리는 방",
-   "publishedAt": 1794641552000,
+   "title": "ggml v1.0.0 - 폐기 예정 API 제거, FP8 지원과 백엔드 성능 개선",
+   "url": "https://news.hada.io/topic?id=37153&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "llama.cpp의 텐서 연산 라이브러리 ggml이 1.0.0을 출시 함. 폐기 예정이던 공개 API와 DIAG_MASK 연산을 제거하고, YaRN 설정과 FP8 지원을 확장 RPC 프로토콜이 v9로 올라가 이전 버전과의 연결을 거부 하므로, RPC를 쓰는 환경에서는 클라이언트와 서버를 함께 업데이트해야 함 CUDA 에 OCP FP8 지원과 배치 크기 2~24에 맞춘 양자화 행렬 곱셈을 추가하고, Metal 에서는 MoE 라우팅 연산을 하나로 합침 FlashAttention과 MoE 실행 경로 를 여러 백엔드에서 확장해, Intel",
+   "publishedAt": 1794645182000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -107,11 +107,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 169,
-   "comments": 71,
+   "engagement": 172,
+   "comments": 72,
    "publishedAt": 1794592523000,
    "isAI": true,
-   "score": 47.4,
+   "score": 47.1,
+   "hot": true
+  },
+  {
+   "title": "Show HN: Isometric SF - 샌프란시스코 베이 지역의 픽셀 아트 지도",
+   "url": "https://news.hada.io/topic?id=37151&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Isometric SF 는 샌프란시스코 베이 지역을 아이소메트릭 픽셀 아트로 보여주는 지도임 골든게이트부터 산호세까지 베이 지역 전체를 담음 지도를 확대/축소 하며 살펴볼 수 있음 검색과 공유 기능을 지원함 모든 지도 타일은 Google Maps 3D 캡처 를 바탕으로 AI 모델 이 그렸음 지도 범위와 제작 방식 Isometric SF 는 골든게이트부터 산호세까지 베이 지역 전체를 담은 아이소메트릭 픽셀 아트 지도로, 확대/축소와 검색, 공유가 가능함 모든 타일 을 AI 모델이 Google Maps의 3D 캡처를 바탕으로 그리는 방",
+   "publishedAt": 1794641552000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -122,11 +136,39 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 996,
-   "comments": 909,
+   "comments": 911,
    "publishedAt": 1794484001000,
    "isAI": true,
-   "score": 47.4,
+   "score": 47,
    "hot": false
+  },
+  {
+   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+   "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50487864",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 362,
+   "comments": 194,
+   "publishedAt": 1794595244000,
+   "isAI": false,
+   "score": 46.7,
+   "hot": true
+  },
+  {
+   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+   "url": "https://text.npr.org/nx-s1-6029408",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50484960",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 188,
+   "comments": 178,
+   "publishedAt": 1794583750000,
+   "isAI": true,
+   "score": 46.7,
+   "hot": true
   },
   {
    "title": "Jonathan Blow: AI가 코딩을 해결했다면, 왜 내 소프트웨어는 여전히 그대로일까? [영상]",
@@ -139,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -153,36 +195,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
-   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-   "url": "https://text.npr.org/nx-s1-6029408",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50484960",
+   "title": "Nvidia employees petition to bring back Jensen Huang",
+   "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50477231",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 187,
-   "comments": 176,
-   "publishedAt": 1794583750000,
-   "isAI": true,
-   "score": 47.1,
-   "hot": true
-  },
-  {
-   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-   "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50487864",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 355,
-   "comments": 194,
-   "publishedAt": 1794595244000,
+   "engagement": 805,
+   "comments": 667,
+   "publishedAt": 1794536184000,
    "isAI": false,
-   "score": 47,
-   "hot": true
+   "score": 45.7,
+   "hot": false
   },
   {
    "title": "Gemini 4 Hydrogen",
@@ -192,24 +220,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 565,
-   "comments": 349,
+   "comments": 350,
    "publishedAt": 1794506508000,
    "isAI": true,
-   "score": 46.1,
-   "hot": false
-  },
-  {
-   "title": "Nvidia employees petition to bring back Jensen Huang",
-   "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50477231",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 804,
-   "comments": 666,
-   "publishedAt": 1794536184000,
-   "isAI": false,
-   "score": 46,
+   "score": 45.7,
    "hot": false
   },
   {
@@ -220,10 +234,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 203,
-   "comments": 47,
+   "comments": 48,
    "publishedAt": 1794622896000,
    "isAI": false,
-   "score": 45.9,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -233,11 +247,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 500,
+   "engagement": 501,
    "comments": 161,
    "publishedAt": 1794509521000,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.3,
+   "hot": false
+  },
+  {
+   "title": "Claude Meetings",
+   "url": "https://claude.com/resources/articles/claude-meetings",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50491097",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 103,
+   "comments": 78,
+   "publishedAt": 1794609555000,
+   "isAI": true,
+   "score": 45.1,
+   "hot": false
+  },
+  {
+   "title": "Service degradation on Microsoft 365",
+   "url": "https://status.cloud.microsoft/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50471731",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1165,
+   "comments": 986,
+   "publishedAt": 1794507648000,
+   "isAI": false,
+   "score": 45.1,
    "hot": false
   },
   {
@@ -251,22 +293,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.1,
    "hot": true
-  },
-  {
-   "title": "Service degradation on Microsoft 365",
-   "url": "https://status.cloud.microsoft/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50471731",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1165,
-   "comments": 986,
-   "publishedAt": 1794507648000,
-   "isAI": false,
-   "score": 45.5,
-   "hot": false
   },
   {
    "title": "Claude Is Down",
@@ -279,7 +307,7 @@
    "comments": 179,
    "publishedAt": 1794565209000,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45,
+   "score": 44.6,
    "hot": true
   },
   {
@@ -307,7 +335,7 @@
    "comments": 105,
    "publishedAt": 1794524777000,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -321,7 +349,7 @@
    "comments": 159,
    "publishedAt": 1794520571000,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.3,
    "hot": false
   },
   {
@@ -335,8 +363,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.3,
-   "hot": true
+   "score": 43.9,
+   "hot": false
+  },
+  {
+   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+   "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50474959",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 765,
+   "comments": 215,
+   "publishedAt": 1794520989000,
+   "isAI": false,
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "음악 플레이어를 이렇게 만들지는 말자",
@@ -349,21 +391,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.2,
-   "hot": true
+   "score": 43.7,
+   "hot": false
   },
   {
-   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-   "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50474959",
+   "title": "Rust 1.100",
+   "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50472038",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 763,
-   "comments": 215,
-   "publishedAt": 1794520989000,
+   "engagement": 883,
+   "comments": 316,
+   "publishedAt": 1794508745000,
    "isAI": false,
-   "score": 44.1,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -377,7 +419,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -391,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -405,21 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.9,
-   "hot": false
-  },
-  {
-   "title": "Rust 1.100",
-   "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50472038",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 883,
-   "comments": 315,
-   "publishedAt": 1794508745000,
-   "isAI": false,
-   "score": 43.8,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -433,7 +461,7 @@
    "comments": 308,
    "publishedAt": 1794546503000,
    "isAI": false,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -443,11 +471,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 724,
-   "comments": 246,
+   "engagement": 726,
+   "comments": 247,
    "publishedAt": 1794502962000,
    "isAI": false,
-   "score": 42,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -461,35 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.8,
-   "hot": true
-  },
-  {
-   "title": "Why Zig over C for Systems Programming",
-   "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50483611",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 217,
-   "comments": 223,
-   "publishedAt": 1794578473000,
-   "isAI": false,
-   "score": 41.2,
-   "hot": true
-  },
-  {
-   "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
-   "url": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50487688",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 167,
-   "comments": 56,
-   "publishedAt": 1794594556000,
-   "isAI": false,
-   "score": 40.9,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -499,12 +499,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 112,
-   "comments": 12,
+   "engagement": 118,
+   "comments": 13,
    "publishedAt": 1794622541000,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.8,
    "hot": false
+  },
+  {
+   "title": "Why Zig over C for Systems Programming",
+   "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50483611",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 217,
+   "comments": 225,
+   "publishedAt": 1794578473000,
+   "isAI": false,
+   "score": 40.8,
+   "hot": true
+  },
+  {
+   "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
+   "url": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50487688",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 172,
+   "comments": 57,
+   "publishedAt": 1794594556000,
+   "isAI": false,
+   "score": 40.7,
+   "hot": true
   },
   {
    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
@@ -517,7 +545,7 @@
    "comments": 705,
    "publishedAt": 1794432275000,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -531,22 +559,8 @@
    "comments": 392,
    "publishedAt": 1794398722000,
    "isAI": true,
-   "score": 40.6,
+   "score": 40.3,
    "hot": false
-  },
-  {
-   "title": "ggml v1.0.0 - 폐기 예정 API 제거, FP8 지원과 백엔드 성능 개선",
-   "url": "https://news.hada.io/topic?id=37153&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "ggml 1.0.0 은 폐기 예정 공개 API와 기존 DIAG_MASK 연산을 제거하고, YaRN 설정과 FP8 지원을 확장한 릴리스임 RPC 프로토콜 v9 은 호환되지 않는 상대의 연결을 거부하며, 로딩 속도와 연결 실패 처리를 개선함 CUDA와 Metal 은 행 수가 적은 행렬 곱셈과 MoE 연산을 최적화하고, CUDA에는 OCP FP8 지원과 NVFP4 연산 융합을 추가함 FlashAttention과 MoE 실행 경로 를 여러 백엔드에서 확장해, Intel용 프리필 커널과 장치 측 MoE 스케줄러, Adreno용 분해형 Fla",
-   "publishedAt": 1794645182000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.5,
-   "hot": true
   },
   {
    "title": "Global Microsoft Outage",
@@ -559,7 +573,7 @@
    "comments": 181,
    "publishedAt": 1794550703000,
    "isAI": false,
-   "score": 40.4,
+   "score": 40.1,
    "hot": false
   },
   {
@@ -573,7 +587,7 @@
    "comments": 232,
    "publishedAt": 1794517789000,
    "isAI": true,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
@@ -587,7 +601,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
@@ -601,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -612,10 +626,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 454,
-   "comments": 485,
+   "comments": 486,
    "publishedAt": 1794513093000,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -629,7 +643,7 @@
    "comments": 76,
    "publishedAt": 1794585124000,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -643,7 +657,7 @@
    "comments": 1645,
    "publishedAt": 1794436266000,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -657,7 +671,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -671,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -685,21 +699,7 @@
    "comments": 161,
    "publishedAt": 1794421962000,
    "isAI": true,
-   "score": 39,
-   "hot": false
-  },
-  {
-   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-   "url": "https://brave.com/blog/search-api-agentic-payments/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50477649",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 260,
-   "comments": 150,
-   "publishedAt": 1794539288000,
-   "isAI": false,
-   "score": 38.6,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -713,7 +713,21 @@
    "comments": 1,
    "publishedAt": 1794507433000,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.3,
+   "hot": false
+  },
+  {
+   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+   "url": "https://brave.com/blog/search-api-agentic-payments/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50477649",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 260,
+   "comments": 150,
+   "publishedAt": 1794539288000,
+   "isAI": false,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -727,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -741,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -751,11 +765,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 142,
-   "comments": 46,
+   "engagement": 144,
+   "comments": 52,
    "publishedAt": 1794580120000,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -769,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -783,8 +797,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "EU Digital Identity Wallet rollout: every EU state on one board",
@@ -797,7 +811,7 @@
    "comments": 87,
    "publishedAt": 1794581887000,
    "isAI": false,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -811,8 +825,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "셀을 차지하지 않는 터미널 테두리",
@@ -825,8 +839,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "“글루 워크는 해롭다”에 대한 반론",
@@ -839,8 +853,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.1,
-   "hot": true
+   "score": 36.7,
+   "hot": false
   },
   {
    "title": "Jensen Huang resigns as Nvidia CEO immediately",
@@ -853,7 +867,7 @@
    "comments": 14,
    "publishedAt": 1794491771000,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -867,7 +881,7 @@
    "comments": 84,
    "publishedAt": 1794524911000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -881,7 +895,7 @@
    "comments": 183,
    "publishedAt": 1794479306000,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -895,7 +909,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -909,7 +923,7 @@
    "comments": 236,
    "publishedAt": 1794466368000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -923,7 +937,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -937,7 +951,7 @@
    "comments": 245,
    "publishedAt": 1794492328000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -951,7 +965,7 @@
    "comments": 557,
    "publishedAt": 1794345903000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -965,21 +979,7 @@
    "comments": 17,
    "publishedAt": 1794555595000,
    "isAI": false,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-   "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50467460",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 239,
-   "comments": 8,
-   "publishedAt": 1794492757000,
-   "isAI": false,
-   "score": 34.2,
+   "score": 34,
    "hot": false
   },
   {
@@ -993,7 +993,21 @@
    "comments": 276,
    "publishedAt": 1794415124000,
    "isAI": false,
-   "score": 34.2,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+   "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50467460",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 239,
+   "comments": 8,
+   "publishedAt": 1794492757000,
+   "isAI": false,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1007,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1021,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1035,21 +1049,7 @@
    "comments": 198,
    "publishedAt": 1794449471000,
    "isAI": false,
-   "score": 33.8,
-   "hot": false
-  },
-  {
-   "title": "AI agent startup LangChain hits $3B valuation",
-   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-   "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-   "publishedAt": 1794598677000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1063,49 +1063,21 @@
    "comments": 221,
    "publishedAt": 1794349076000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false
   },
   {
-   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-   "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-   "publishedAt": 1794595230000,
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "publishedAt": 1794598677000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217412",
-   "summary": "아마존이 자사에서 판매하지 않는 제품까지 전 세계 상품 정보를 모으는 방안을 검토하고 있다. 소비자가 제품을 비교하기 위해 다른 사이트로 이동하는 일을 줄이고, 구매를 대신하는 외부 AI 에이전트도 아마존을 찾도록 하려는 구상이다.로이터는 13일(현지시간) 내부 문서와 관계자들을 인용해 아마존이 ‘월드 프로덕트 그래프(World Product Graph)’라는 프로젝트를 추진하고 있다고 보도했다.브랜드에서 제공받는 정보와 다른 유통 사이트에서 수집한 데이터를 결합해 상품 간 차이와 관계를 파악하는 것이 목표다. 이용자가 최신 모델을",
-   "publishedAt": 1794651563000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "Atuin Threads: All your agent sessions on every machine",
-   "url": "https://blog.atuin.sh/threads-agent-sessions/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50453637",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 237,
-   "comments": 84,
-   "publishedAt": 1794406246000,
-   "isAI": true,
-   "score": 33.3,
    "hot": false
   },
   {
@@ -1119,7 +1091,21 @@
    "comments": 626,
    "publishedAt": 1794306358000,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "Atuin Threads: All your agent sessions on every machine",
+   "url": "https://blog.atuin.sh/threads-agent-sessions/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50453637",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 237,
+   "comments": 84,
+   "publishedAt": 1794406246000,
+   "isAI": true,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1133,21 +1119,35 @@
    "comments": 8,
    "publishedAt": 1794250589000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33.1,
    "hot": false
   },
   {
-   "title": "미 재무장관, 메가스피드 제재 지연에 상무부 공개 비판…러트닉 경질론까지",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217411",
-   "summary": "스콧 베선트 미국 재무장관이 엔비디아 AI 칩을 구매해 온 싱가포르 기업 메가스피드에 대한 수출 통제를 미뤄 온 상무부를 공개적으로 비판했다. 재무부 등 4개 정부 기관이 수개월 전부터 제재에 찬성했지만, 상무부가 조치를 취하지 않았다는 것이다. 젠슨 황 전 엔비디아 CEO의 퇴진 이후 하워드 러트닉 상무장관의 경질 가능성까지 거론되고 있으며, 러트닉 장관은 다음 달 의회에서 증언하기로 했다.베선트 장관은 13일(현지시간) CNBC 인터뷰에서 메가스피드에 대한 제재 지연 문제를 언급하며 상무부의 대응을 비판했다.그는 \"재무부와 국방",
-   "publishedAt": 1794649547000,
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+   "publishedAt": 1794595230000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217412",
+   "summary": "아마존이 자사에서 판매하지 않는 제품까지 전 세계 상품 정보를 모으는 방안을 검토하고 있다. 소비자가 제품을 비교하기 위해 다른 사이트로 이동하는 일을 줄이고, 구매를 대신하는 외부 AI 에이전트도 아마존을 찾도록 하려는 구상이다.로이터는 13일(현지시간) 내부 문서와 관계자들을 인용해 아마존이 ‘월드 프로덕트 그래프(World Product Graph)’라는 프로젝트를 추진하고 있다고 보도했다.브랜드에서 제공받는 정보와 다른 유통 사이트에서 수집한 데이터를 결합해 상품 간 차이와 관계를 파악하는 것이 목표다. 이용자가 최신 모델을",
+   "publishedAt": 1794651563000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   },
   {
@@ -1161,7 +1161,21 @@
    "comments": 442,
    "publishedAt": 1794324320000,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "미 재무장관, 메가스피드 제재 지연에 상무부 공개 비판…러트닉 경질론까지",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217411",
+   "summary": "스콧 베선트 미국 재무장관이 엔비디아 AI 칩을 구매해 온 싱가포르 기업 메가스피드에 대한 수출 통제를 미뤄 온 상무부를 공개적으로 비판했다. 재무부 등 4개 정부 기관이 수개월 전부터 제재에 찬성했지만, 상무부가 조치를 취하지 않았다는 것이다. 젠슨 황 전 엔비디아 CEO의 퇴진 이후 하워드 러트닉 상무장관의 경질 가능성까지 거론되고 있으며, 러트닉 장관은 다음 달 의회에서 증언하기로 했다.베선트 장관은 13일(현지시간) CNBC 인터뷰에서 메가스피드에 대한 제재 지연 문제를 언급하며 상무부의 대응을 비판했다.그는 \"재무부와 국방",
+   "publishedAt": 1794649547000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1175,7 +1189,7 @@
    "comments": 146,
    "publishedAt": 1794333675000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1189,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1203,21 +1217,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217406",
-   "summary": "젠슨 황 전 엔비디아 CEO가 대규모 AI 투자에 제동을 걸었던 콜레트 크레스 최고재무책임자(CFO)를 회의에서 공개적으로 깎아내렸던 사실이 드러났다. 황의 공격적인 투자 전략을 견제해 온 크레스가 임시 CEO에 오르면서, 엔비디아의 AI 산업 투자 방식에도 변화가 생길지 주목된다.월스트리트저널(WSJ)과 로이터는 13일(현지시간) 복수의 소식통을 인용, 황 전 CEO와 크레스 임시 CEO가 엔비디아의 대규모 AI 투자와 고객사 금융 지원 문제를 놓고 여러 차례 충돌했다고 보도했다.이에 따르면, 황 전 CEO는 지난 8월 주요 재무",
-   "publishedAt": 1794642571000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1231,14 +1231,27 @@
    "comments": 197,
    "publishedAt": 1794424003000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false
   },
   {
-   "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217405",
-   "summary": "말레이시아 정부가 싱가포르 클라우드 컴퓨팅 기업 메가스피드의 현지 계열사가 수입한 엔비디아 AI 칩의 재수출 여부를 조사하고 있다. 젠슨 황 전 엔비디아 CEO와 관련된 의혹으로 주목받은 메가스피드가 미국의 반도체 수출 통제를 우회하는 데 활용됐을 가능성이 제기되자, 말레이시아 정부도 직접 칩 유통 경로 확인에 나선 것이다.말레이시아 투자통상산업부는 13일(현지시간) 세관 당국과 함께 메가스피드 계열사인 스피드매트릭스(Speedmatrix)가 수입한 AI 칩과 서버가 다른 국가로 재수출됐는지, 관련 거래가 자국 법률을 준수했는지 조",
-   "publishedAt": 1794639189000,
+   "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 27.6,
+   "publishedAt": 1794627606000,
+   "isAI": true,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217406",
+   "summary": "젠슨 황 전 엔비디아 CEO가 대규모 AI 투자에 제동을 걸었던 콜레트 크레스 최고재무책임자(CFO)를 회의에서 공개적으로 깎아내렸던 사실이 드러났다. 황의 공격적인 투자 전략을 견제해 온 크레스가 임시 CEO에 오르면서, 엔비디아의 AI 산업 투자 방식에도 변화가 생길지 주목된다.월스트리트저널(WSJ)과 로이터는 13일(현지시간) 복수의 소식통을 인용, 황 전 CEO와 크레스 임시 CEO가 엔비디아의 대규모 AI 투자와 고객사 금융 지원 문제를 놓고 여러 차례 충돌했다고 보도했다.이에 따르면, 황 전 CEO는 지난 8월 주요 재무",
+   "publishedAt": 1794642571000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
@@ -1259,7 +1272,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.8,
+   "hot": false
+  },
+  {
+   "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217405",
+   "summary": "말레이시아 정부가 싱가포르 클라우드 컴퓨팅 기업 메가스피드의 현지 계열사가 수입한 엔비디아 AI 칩의 재수출 여부를 조사하고 있다. 젠슨 황 전 엔비디아 CEO와 관련된 의혹으로 주목받은 메가스피드가 미국의 반도체 수출 통제를 우회하는 데 활용됐을 가능성이 제기되자, 말레이시아 정부도 직접 칩 유통 경로 확인에 나선 것이다.말레이시아 투자통상산업부는 13일(현지시간) 세관 당국과 함께 메가스피드 계열사인 스피드매트릭스(Speedmatrix)가 수입한 AI 칩과 서버가 다른 국가로 재수출됐는지, 관련 거래가 자국 법률을 준수했는지 조",
+   "publishedAt": 1794639189000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1269,11 +1296,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 168,
+   "engagement": 169,
    "comments": 5,
    "publishedAt": 1794491798000,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1286,20 +1313,6 @@
    "engagement": 737,
    "comments": 148,
    "publishedAt": 1794248678000,
-   "isAI": true,
-   "score": 31.8,
-   "hot": false
-  },
-  {
-   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-   "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-   "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-   "publishedAt": 1794574339000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
    "isAI": true,
    "score": 31.7,
    "hot": false
@@ -1315,7 +1328,21 @@
    "comments": 39,
    "publishedAt": 1794507348000,
    "isAI": false,
-   "score": 31.6,
+   "score": 31.4,
+   "hot": false
+  },
+  {
+   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+   "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+   "publishedAt": 1794574339000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1329,7 +1356,7 @@
    "comments": 32,
    "publishedAt": 1794428637000,
    "isAI": true,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1343,20 +1370,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "publishedAt": 1794627606000,
-   "isAI": true,
-   "score": 31.1,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1370,7 +1384,7 @@
    "comments": 218,
    "publishedAt": 1794333307000,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.7,
    "hot": false
   },
   {
@@ -1384,21 +1398,7 @@
    "comments": 29,
    "publishedAt": 1794497152000,
    "isAI": false,
-   "score": 30.7,
-   "hot": false
-  },
-  {
-   "title": "딥시크·문샷 등 중국 4개사, 수출 통제 '블랙웰' 사용 흔적 발견",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217397",
-   "summary": "딥시크와 문샷 AI 등 중국 주요 AI 기업들이 미국의 수출 통제를 받는 엔비디아 최신 '블랙웰' GPU를 AI 모델 개발에 사용한 정황이 발견됐다. 공개된 모델 가중치에서 블랙웰 특유의 숫자 배열을 찾아낸 것으로, 중국 기업들의 첨단 GPU 사용 의혹을 뒷받침하는 구체적인 기술적 증거가 제시됐다.비영리 연구단체 언엠플로이먼트 랩스(Unemployment Labs)의 윌 드퓌 연구원은 12일(현지시간) 연구 보고서를 통해 중국 AI 기업 4곳이 공개한 모델 6종에서 엔비디아 블랙웰 GPU와 일치하는 초기 가중치 패턴을 발견했다고 밝",
-   "publishedAt": 1794622711000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.7,
+   "score": 30.5,
    "hot": false
   }
  ]
