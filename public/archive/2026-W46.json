@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794624870104,
+ "updatedAt": 1794628527576,
  "week": "2026-W46",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 341,
-   "comments": 93,
+   "engagement": 349,
+   "comments": 94,
    "publishedAt": 1794591010000,
    "isAI": true,
-   "score": 57.7,
+   "score": 57.3,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 484,
+   "engagement": 487,
    "comments": 383,
    "publishedAt": 1794565093000,
    "isAI": true,
-   "score": 56.5,
+   "score": 56,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 186,
-   "comments": 106,
+   "engagement": 189,
+   "comments": 108,
    "publishedAt": 1794599516000,
    "isAI": true,
-   "score": 53.8,
+   "score": 53.4,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 314,
-   "comments": 195,
+   "engagement": 320,
+   "comments": 196,
    "publishedAt": 1794568426000,
    "isAI": true,
-   "score": 53.6,
+   "score": 53.2,
    "hot": true
   },
   {
@@ -66,10 +66,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 996,
-   "comments": 905,
+   "comments": 906,
    "publishedAt": 1794484001000,
    "isAI": true,
-   "score": 50.9,
+   "score": 50.5,
    "hot": false
   },
   {
@@ -79,12 +79,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 146,
+   "engagement": 151,
    "comments": 64,
    "publishedAt": 1794592523000,
    "isAI": true,
-   "score": 50.6,
-   "hot": false
+   "score": 50.4,
+   "hot": true
   },
   {
    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
@@ -93,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 166,
-   "comments": 166,
+   "engagement": 171,
+   "comments": 170,
    "publishedAt": 1794583750000,
    "isAI": true,
-   "score": 50.5,
+   "score": 50.2,
    "hot": true
   },
   {
@@ -107,11 +107,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 299,
-   "comments": 169,
+   "engagement": 313,
+   "comments": 172,
    "publishedAt": 1794595244000,
    "isAI": false,
-   "score": 50,
+   "score": 49.8,
+   "hot": true
+  },
+  {
+   "title": "Show GN: 로컬 AI머신을 구입하기 전에 성능을 미리 예측할 수 있는 웹앱",
+   "url": "https://news.hada.io/topic?id=37143&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "안녕하세요, LLM 에 대해 공부하면서 로컬 인퍼런스를 위해 장비를 구매하고자 했는데, \"어느 스펙까지 맞춰야 DeepSeek 를 원활하게 돌릴지\" 같은 질문에 매번 손으로 계산하는 것이 귀찮더라고요. 그래서 Claude와 함께 장비의 스펙과 모델을 입력하면 prefill/decode TPS를 예측할 수 있는 시뮬레이션 웹앱을 개발했습니다. 초기 모델링은 간단하게 디코드는 memory bandwidth, 프리필은 FLOPS 로 계산했었는데, 하는 김에 좀 더 고도화 시켜서 layer별 연산 특성과, (클러스터인 경우) 인터커넥트에서",
+   "publishedAt": 1794626127000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
    "hot": true
   },
   {
@@ -121,11 +135,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 792,
-   "comments": 652,
+   "engagement": 796,
+   "comments": 653,
    "publishedAt": 1794536184000,
    "isAI": false,
-   "score": 49.8,
+   "score": 49.4,
    "hot": false
   },
   {
@@ -135,12 +149,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 559,
+   "engagement": 560,
    "comments": 349,
    "publishedAt": 1794506508000,
    "isAI": true,
-   "score": 49.7,
+   "score": 49.3,
    "hot": false
+  },
+  {
+   "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50484658",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 152,
+   "comments": 136,
+   "publishedAt": 1794582524000,
+   "isAI": true,
+   "score": 49.1,
+   "hot": true
   },
   {
    "title": "로폼 운영사 해킹으로 2만여 명 개인정보 유출, ‘모두의 창업’ 참가자 818명 포함",
@@ -153,22 +181,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.6,
+   "score": 49,
    "hot": true
-  },
-  {
-   "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50484658",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 148,
-   "comments": 135,
-   "publishedAt": 1794582524000,
-   "isAI": true,
-   "score": 49.4,
-   "hot": false
   },
   {
    "title": "Claude Is Down",
@@ -177,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 197,
-   "comments": 173,
+   "engagement": 198,
+   "comments": 174,
    "publishedAt": 1794565209000,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.9,
    "hot": true
   },
   {
@@ -191,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 495,
+   "engagement": 496,
    "comments": 161,
    "publishedAt": 1794509521000,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.8,
    "hot": false
   },
   {
@@ -205,11 +219,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1162,
+   "engagement": 1164,
    "comments": 979,
    "publishedAt": 1794507648000,
    "isAI": false,
-   "score": 49.1,
+   "score": 48.7,
    "hot": false
   },
   {
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
    "hot": true
   },
   {
@@ -247,11 +261,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 338,
+   "engagement": 340,
    "comments": 104,
    "publishedAt": 1794524777000,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.9,
+   "hot": false
+  },
+  {
+   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "url": "https://unemploymentlabs.com/checkpoint-forensics",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50474883",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 357,
+   "comments": 152,
+   "publishedAt": 1794520571000,
+   "isAI": true,
+   "score": 47.8,
    "hot": false
   },
   {
@@ -265,22 +293,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
-  },
-  {
-   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-   "url": "https://unemploymentlabs.com/checkpoint-forensics",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50474883",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 356,
-   "comments": 152,
-   "publishedAt": 1794520571000,
-   "isAI": true,
-   "score": 48.2,
-   "hot": false
   },
   {
    "title": "빅테크는 우리를 실망시킨다",
@@ -293,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -307,7 +321,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.3,
    "hot": false
   },
   {
@@ -321,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": true
   },
   {
@@ -331,11 +345,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 876,
-   "comments": 312,
+   "engagement": 877,
+   "comments": 313,
    "publishedAt": 1794508745000,
    "isAI": false,
-   "score": 47.2,
+   "score": 46.8,
    "hot": false
   },
   {
@@ -345,11 +359,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 462,
-   "comments": 307,
+   "engagement": 464,
+   "comments": 308,
    "publishedAt": 1794546503000,
    "isAI": false,
-   "score": 47,
+   "score": 46.6,
    "hot": true
   },
   {
@@ -359,11 +373,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 686,
-   "comments": 200,
+   "engagement": 697,
+   "comments": 201,
    "publishedAt": 1794520989000,
    "isAI": false,
-   "score": 46.9,
+   "score": 46.6,
    "hot": false
   },
   {
@@ -377,21 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
-   "hot": true
-  },
-  {
-   "title": "Claude 서비스 장애 발생",
-   "url": "https://news.hada.io/topic?id=37122&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "claude.ai, Claude API, Claude Code 등에서 오류 증가가 발생했으며, 제공된 장애 이력상 2026년 11월 13일의 두 장애는 모두 해결됨 Microsoft 365 커넥터 와 Claude for Outlook은 회복 조짐을 보이지만, 일부 SharePoint 검색 요청은 여전히 오류를 반환함 Microsoft 측 장애가 종료되지 않아 오류가 재발할 가능성 이 있으며, 해당 연동 문제는 계속 모니터링 중임 10월에는 Google Calendar와 Gmail 커넥터 , Claude Sonnet 5.5의 오류 증",
-   "publishedAt": 1794594987000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.8,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -401,11 +401,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 719,
+   "engagement": 722,
    "comments": 245,
    "publishedAt": 1794502962000,
    "isAI": false,
-   "score": 45.2,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -415,11 +415,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 214,
-   "comments": 192,
+   "engagement": 216,
+   "comments": 196,
    "publishedAt": 1794578473000,
    "isAI": false,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -433,8 +433,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 44.1,
-   "hot": true
+   "score": 43.7,
+   "hot": false
   },
   {
    "title": "Global Microsoft Outage",
@@ -443,11 +443,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 285,
+   "engagement": 287,
    "comments": 181,
    "publishedAt": 1794550703000,
    "isAI": false,
-   "score": 43.8,
+   "score": 43.5,
    "hot": true
   },
   {
@@ -457,11 +457,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 196,
+   "engagement": 197,
    "comments": 232,
    "publishedAt": 1794517789000,
    "isAI": true,
-   "score": 43.6,
+   "score": 43.3,
+   "hot": false
+  },
+  {
+   "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
+   "url": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50487688",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 144,
+   "comments": 46,
+   "publishedAt": 1794594556000,
+   "isAI": false,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -475,7 +489,7 @@
    "comments": 72,
    "publishedAt": 1794585124000,
    "isAI": false,
-   "score": 43.4,
+   "score": 43,
    "hot": true
   },
   {
@@ -489,7 +503,7 @@
    "comments": 702,
    "publishedAt": 1794432275000,
    "isAI": true,
-   "score": 43.3,
+   "score": 43,
    "hot": false
   },
   {
@@ -499,11 +513,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 448,
-   "comments": 479,
+   "engagement": 450,
+   "comments": 480,
    "publishedAt": 1794513093000,
    "isAI": false,
-   "score": 43,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -517,21 +531,7 @@
    "comments": 392,
    "publishedAt": 1794398722000,
    "isAI": true,
-   "score": 43,
-   "hot": false
-  },
-  {
-   "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
-   "url": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50487688",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 135,
-   "comments": 46,
-   "publishedAt": 1794594556000,
-   "isAI": false,
-   "score": 42.9,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -545,7 +545,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.8,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -559,8 +559,36 @@
    "comments": 1643,
    "publishedAt": 1794436266000,
    "isAI": false,
-   "score": 42.2,
+   "score": 41.9,
    "hot": false
+  },
+  {
+   "title": "FAA, 01:19Z에 전국 항공기 이륙 중지 해제",
+   "url": "https://news.hada.io/topic?id=37145&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "FAA 지휘센터 가 전국 항공기 이륙 중지 조치를 해제함 공지에 기재된 목적지 공항과 포함 시설은 모두 전체(ALL) 임 해제 공지의 서명 시각은 2026년 11월 14일 01:19Z 임 공지의 효력 시간 은 14일 01:19~02:00임 사유 항목은 비어 있으며 , 이륙 중지나 해제 이유는 제공되지 않음 전국 이륙 중지 해제 공지 ATCSCC 공지 005 는 FAA 지휘센터의 전국 이륙 중지 해제 를 알림 적용 범위는 목적지 공항 전체와 포함 시설 전체 임 공지에 기재된 시간은 다음과 같음 이벤트 시간 은 14일 01:16~01:",
+   "publishedAt": 1794627426000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.9,
+   "hot": true
+  },
+  {
+   "title": "우크라이나, 2주도 안 돼 러시아 정유 능력 36% 마비시켜",
+   "url": "https://news.hada.io/topic?id=37144&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "방산업체 Fire Point 에 따르면 우크라이나 드론이 13일 동안 러시아 주요 정유소 최소 9곳을 공격했으며, 피격 시설은 러시아 전체 정유 능력의 36% 를 차지함 피격 정유소의 연간 원유 처리 능력 합계는 1억 2,000만 톤 이상 임 젤렌스키 대통령 은 러시아의 우크라이나 전력망 공격에 대한 직접적인 보복으로 러시아 정유 기반 시설 공격을 계속하겠다고 밝힘 공격 대상에는 러시아에서 두 번째로 큰 Kirishi 정유소 와 발트해 Ust-Luga항의 석유 수출 터미널 도 포함됨 Reuters 에 따르면 2026년 10월 말 이",
+   "publishedAt": 1794627246000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
@@ -569,12 +597,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 257,
-   "comments": 148,
+   "engagement": 258,
+   "comments": 149,
    "publishedAt": 1794539288000,
    "isAI": false,
-   "score": 41.8,
-   "hot": true
+   "score": 41.4,
+   "hot": false
   },
   {
    "title": "Ask HN: Microsoft/Azure Outage?",
@@ -587,7 +615,7 @@
    "comments": 1,
    "publishedAt": 1794507433000,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -601,7 +629,7 @@
    "comments": 161,
    "publishedAt": 1794421962000,
    "isAI": true,
-   "score": 41.4,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -615,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -629,7 +657,7 @@
    "comments": 39,
    "publishedAt": 1794580120000,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": false
   },
   {
@@ -643,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -657,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -671,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -685,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -695,11 +723,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 119,
+   "engagement": 120,
    "comments": 86,
    "publishedAt": 1794581887000,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
@@ -713,7 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -727,7 +755,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -741,7 +769,21 @@
    "comments": 14,
    "publishedAt": 1794491771000,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.4,
+   "hot": false
+  },
+  {
+   "title": "Why You Should Expect an AI Crash",
+   "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50475735",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 101,
+   "comments": 84,
+   "publishedAt": 1794524911000,
+   "isAI": true,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -755,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -769,7 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -783,35 +825,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
-   "hot": true
-  },
-  {
-   "title": "Why You Should Expect an AI Crash",
-   "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50475735",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 101,
-   "comments": 84,
-   "publishedAt": 1794524911000,
-   "isAI": true,
-   "score": 39.6,
-   "hot": false
-  },
-  {
-   "title": "시스템 프로그래밍에서 C보다 Zig를 선택하는 이유",
-   "url": "https://news.hada.io/topic?id=37123&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Zig 는 C처럼 가비지 컬렉터 없이 하드웨어에 가까운 코드를 작성하면서도, 자원 정리와 오류 처리 등 C에서 시간이 드는 작업을 언어 기능으로 지원함 errdefer 는 할당 바로 아래에 오류 발생 시 정리 코드를 두고 역순으로 실행하며, 테스트용 할당기로 각 할당 실패 경로의 메모리 누수도 확인할 수 있음 배열 끝을 한 칸 넘겨 읽는 예제에서 C 코드는 경고 없이 잘못된 합계를 출력 했지만, Zig는 길이를 가진 슬라이스의 범위를 검사해 Debug 와 ReleaseSafe 에서 실행을 중단함 오류를 반환 타입에 포함 해 처리를 ",
-   "publishedAt": 1794598402000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.9,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -821,11 +835,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 368,
+   "engagement": 369,
    "comments": 183,
    "publishedAt": 1794479306000,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -839,22 +853,8 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
-  },
-  {
-   "title": "“LibreOffice는 1년 365일 작동합니다. 그냥 그렇다고요.”",
-   "url": "https://news.hada.io/topic?id=37121&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "LibreOffice 는 1년 내내 작동함 작동 기간을 “ 365일 ”로 명시함 “ 실제로(actually) ”라는 말로 작동 여부를 한 번 더 강조하는 문장임 “ 그냥 그렇다고요(Just saying) ”라는 짧은 말로 마무리함 구체적인 기능이나 기술적 설명 은 덧붙이지 않음 LibreOffice의 짧은 메시지 “LibreOffice는 실제로 1년 365일 작동합니다 . 그냥 그렇다고요.”라는 한 문장의 게시물임",
-   "publishedAt": 1794594807000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.5,
-   "hot": true
   },
   {
    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -867,7 +867,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -877,11 +877,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 402,
+   "engagement": 403,
    "comments": 236,
    "publishedAt": 1794466368000,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -895,7 +895,7 @@
    "comments": 17,
    "publishedAt": 1794555595000,
    "isAI": false,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -906,10 +906,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 254,
-   "comments": 236,
+   "comments": 240,
    "publishedAt": 1794492328000,
    "isAI": false,
-   "score": 37.2,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -923,7 +923,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -937,7 +937,7 @@
    "comments": 8,
    "publishedAt": 1794492757000,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -951,7 +951,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -965,7 +965,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -979,7 +979,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -993,7 +993,7 @@
    "comments": 275,
    "publishedAt": 1794415124000,
    "isAI": false,
-   "score": 36.3,
+   "score": 36,
    "hot": false
   },
   {
@@ -1003,11 +1003,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 565,
+   "engagement": 566,
    "comments": 557,
    "publishedAt": 1794345903000,
    "isAI": true,
-   "score": 36.2,
+   "score": 36,
    "hot": false
   },
   {
@@ -1021,7 +1021,7 @@
    "comments": 199,
    "publishedAt": 1794449471000,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -1035,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1049,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -1059,11 +1059,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 459,
+   "engagement": 460,
    "comments": 221,
    "publishedAt": 1794349076000,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -1073,11 +1073,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 236,
+   "engagement": 237,
    "comments": 84,
    "publishedAt": 1794406246000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -1091,7 +1091,7 @@
    "comments": 626,
    "publishedAt": 1794306358000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1105,21 +1105,21 @@
    "comments": 442,
    "publishedAt": 1794324320000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.5,
    "hot": false
   },
   {
-   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-   "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-   "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-   "publishedAt": 1794574339000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50429906",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
+   "engagement": 1000,
+   "comments": 8,
+   "publishedAt": 1794250589000,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1133,35 +1133,7 @@
    "comments": 197,
    "publishedAt": 1794424003000,
    "isAI": true,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "Gondola doubles revenue as its team builds more with Codex",
-   "url": "https://openai.com/business/customer-stories/gondola",
-   "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-   "publishedAt": 1794484800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": false,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
-   "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50467139",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 168,
-   "comments": 5,
-   "publishedAt": 1794491798000,
-   "isAI": false,
-   "score": 34.4,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1175,21 +1147,49 @@
    "comments": 146,
    "publishedAt": 1794333675000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.2,
    "hot": false
   },
   {
-   "title": "Claude Fable 5.2 and Mythos 5.2",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50429906",
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "url": "https://openai.com/business/customer-stories/gondola",
+   "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+   "publishedAt": 1794484800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": false,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+   "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+   "publishedAt": 1794574339000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+   "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50467139",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 999,
-   "comments": 8,
-   "publishedAt": 1794250589000,
-   "isAI": true,
-   "score": 34.4,
+   "engagement": 168,
+   "comments": 5,
+   "publishedAt": 1794491798000,
+   "isAI": false,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1203,7 +1203,7 @@
    "comments": 39,
    "publishedAt": 1794507348000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1217,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1231,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1245,7 +1245,7 @@
    "comments": 32,
    "publishedAt": 1794428637000,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1259,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1273,7 +1273,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1287,7 +1287,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1301,7 +1301,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -1315,35 +1315,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "아모데이 \"컴퓨팅 수요 예측이 최대 경영 난제…과잉도 부족도 위험\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217401",
-   "summary": "다리오 아모데이 앤트로픽 CEO가 AI 컴퓨팅 투자 규모를 결정하는 것이 회사의 가장 어려운 경영 과제라며, 과잉 투자와 투자 부족에 따른 위험을 설명했다. 기업공개(IPO)를 추진하는 주요 이유도 막대한 컴퓨팅 투자에 필요한 자금을 확보하고 재무적 위험에 대비하기 위해서라고 밝혔다.블룸버그와 파이낸셜타임스(FT) 등에 따르면 아모데이 CEO는 13일(현지시간) 뉴욕 JP모건체이스 본사에서 열린 투자자 대상 행사에서 제이미 다이먼 JP모건 CEO와 대담하며 이같이 밝혔다.그는 \"컴퓨팅은 회사가 직면한 가장 심각한 사업적 난제\"라며",
-   "publishedAt": 1794616393000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
-   "url": "https://github.com/chocoford/ExcalidrawZ",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50468944",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 128,
-   "comments": 27,
-   "publishedAt": 1794497152000,
-   "isAI": false,
-   "score": 33,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1357,7 +1329,35 @@
    "comments": 148,
    "publishedAt": 1794248678000,
    "isAI": true,
-   "score": 33,
+   "score": 32.8,
+   "hot": false
+  },
+  {
+   "title": "아모데이 \"컴퓨팅 수요 예측이 최대 경영 난제…과잉도 부족도 위험\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217401",
+   "summary": "다리오 아모데이 앤트로픽 CEO가 AI 컴퓨팅 투자 규모를 결정하는 것이 회사의 가장 어려운 경영 과제라며, 과잉 투자와 투자 부족에 따른 위험을 설명했다. 기업공개(IPO)를 추진하는 주요 이유도 막대한 컴퓨팅 투자에 필요한 자금을 확보하고 재무적 위험에 대비하기 위해서라고 밝혔다.블룸버그와 파이낸셜타임스(FT) 등에 따르면 아모데이 CEO는 13일(현지시간) 뉴욕 JP모건체이스 본사에서 열린 투자자 대상 행사에서 제이미 다이먼 JP모건 CEO와 대담하며 이같이 밝혔다.그는 \"컴퓨팅은 회사가 직면한 가장 심각한 사업적 난제\"라며",
+   "publishedAt": 1794616393000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.8,
+   "hot": false
+  },
+  {
+   "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+   "url": "https://github.com/chocoford/ExcalidrawZ",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50468944",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 129,
+   "comments": 27,
+   "publishedAt": 1794497152000,
+   "isAI": false,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1371,7 +1371,20 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "Stories coming out about Jensen",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 34,
+   "publishedAt": 1794535133000,
+   "isAI": true,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1385,21 +1398,7 @@
    "comments": 112,
    "publishedAt": 1794414808000,
    "isAI": true,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50443716",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 297,
-   "comments": 218,
-   "publishedAt": 1794333307000,
-   "isAI": true,
-   "score": 32.4,
+   "score": 32.3,
    "hot": false
   }
  ]
