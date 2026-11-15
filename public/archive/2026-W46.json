@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794711832701,
+ "updatedAt": 1794715475224,
  "week": "2026-W46",
  "items": [
   {
@@ -9,12 +9,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1041,
-   "comments": 623,
+   "engagement": 1049,
+   "comments": 624,
    "publishedAt": 1794624779000,
    "isAI": true,
-   "score": 58.4,
+   "score": 57.9,
    "hot": false
+  },
+  {
+   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+   "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50501631",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 309,
+   "comments": 162,
+   "publishedAt": 1794695190000,
+   "isAI": false,
+   "score": 51.6,
+   "hot": true
   },
   {
    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
@@ -23,8 +37,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 187,
-   "comments": 9,
+   "engagement": 199,
+   "comments": 11,
    "publishedAt": 1794668655000,
    "isAI": true,
    "score": 51.2,
@@ -37,25 +51,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 482,
-   "comments": 177,
+   "engagement": 502,
+   "comments": 181,
    "publishedAt": 1794660345000,
    "isAI": false,
-   "score": 50.9,
+   "score": 50.7,
    "hot": true
   },
   {
-   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-   "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50501631",
-   "source": "Hacker News",
+   "title": "Show HN: 순수 JAX 약 200줄로 구현한 DeepSeek V3",
+   "url": "https://news.hada.io/topic?id=37189&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "DeepSeek-V3 아키텍처를 순수 JAX 190줄로 구현 하고, MacBook Air에서 퍼블릭 도메인 추리소설로 처음부터 사전학습한 프로젝트임 Flax, Equinox, PyTorch 없이 배열 딕셔너리와 함수 로 모델을 구성하며, MLA, DeepSeekMoE, 전문가 부하 균형, 다중 토큰 예측 등 논문의 주요 구조를 담음 MacBook Air M5 24GB에서 3,620만 파라미터 모델 을 약 2.6시간 학습했으며, 검증 손실은 250스텝의 5.02에서 최종 3.51로 낮아짐 전문가별 라우팅 편향을 적용하면 전문가 부하가",
+   "publishedAt": 1794713629000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 245,
-   "comments": 132,
-   "publishedAt": 1794695190000,
-   "isAI": false,
-   "score": 50.1,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
+   "hot": true
+  },
+  {
+   "title": "Nvidia, 순환 금융 거래로 GPU 가격을 의도적으로 높게 유지했다는 의혹",
+   "url": "https://news.hada.io/topic?id=37187&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Nvidia가 자사 칩을 구매하는 고객사에 자금을 지원 해 수요를 만들고 GPU 가격을 높게 유지하려 했다는 의혹이 나옴 Wall Street Journal 보도에 따르면, Nvidia는 TSMC 웨이퍼 공급 과잉 을 흡수하고 높은 GPU 가격을 유지하려고 2026년 중후반 추가 금융 거래를 추진함 당시 CFO였던 Colette Kress는 거래 규모를 우려 했으며, Nvidia는 이후 OpenAI와의 계약을 비롯한 일부 자금 지원 거래를 늦추거나 축소 또는 중단함 AI 데이터센터가 소비자 기기용 메모리 생산 능력을 흡수하면서 가격",
+   "publishedAt": 1794709984000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -69,7 +97,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.6,
+   "hot": true
+  },
+  {
+   "title": "Italy fines Meta $887M over Android users' data access",
+   "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50497009",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 358,
+   "comments": 246,
+   "publishedAt": 1794664086000,
+   "isAI": false,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -83,21 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.8,
-   "hot": true
-  },
-  {
-   "title": "Italy fines Meta $887M over Android users' data access",
-   "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50497009",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 348,
-   "comments": 238,
-   "publishedAt": 1794664086000,
-   "isAI": false,
-   "score": 48.7,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -111,7 +139,7 @@
    "comments": 183,
    "publishedAt": 1794663377000,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.9,
    "hot": false
   },
   {
@@ -125,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -139,8 +167,22 @@
    "comments": 107,
    "publishedAt": 1794591010000,
    "isAI": true,
-   "score": 47.5,
+   "score": 47.1,
    "hot": false
+  },
+  {
+   "title": "A family tree of software job titles",
+   "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50499038",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 240,
+   "comments": 116,
+   "publishedAt": 1794678319000,
+   "isAI": false,
+   "score": 47,
+   "hot": true
   },
   {
    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
@@ -149,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 462,
-   "comments": 671,
+   "engagement": 465,
+   "comments": 673,
    "publishedAt": 1794582524000,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.8,
    "hot": false
   },
   {
@@ -167,21 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.1,
-   "hot": true
-  },
-  {
-   "title": "A family tree of software job titles",
-   "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50499038",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 225,
-   "comments": 110,
-   "publishedAt": 1794678319000,
-   "isAI": false,
-   "score": 47,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -195,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -209,7 +237,7 @@
    "comments": 390,
    "publishedAt": 1794565093000,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": false
   },
   {
@@ -219,12 +247,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 215,
-   "comments": 94,
+   "engagement": 218,
+   "comments": 95,
    "publishedAt": 1794670852000,
    "isAI": false,
-   "score": 45.6,
+   "score": 45.2,
    "hot": true
+  },
+  {
+   "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+   "url": "https://retrocomputing.stackexchange.com/questions/17957",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50501594",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 138,
+   "comments": 52,
+   "publishedAt": 1794694969000,
+   "isAI": false,
+   "score": 44.4,
+   "hot": false
   },
   {
    "title": "AI is destroying the trust between writers and readers",
@@ -237,7 +279,7 @@
    "comments": 230,
    "publishedAt": 1794568426000,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -251,21 +293,7 @@
    "comments": 129,
    "publishedAt": 1794599516000,
    "isAI": true,
-   "score": 43.8,
-   "hot": false
-  },
-  {
-   "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-   "url": "https://retrocomputing.stackexchange.com/questions/17957",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50501594",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 121,
-   "comments": 39,
-   "publishedAt": 1794694969000,
-   "isAI": false,
-   "score": 43.7,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -275,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 152,
-   "comments": 91,
+   "engagement": 155,
+   "comments": 92,
    "publishedAt": 1794678500000,
    "isAI": false,
-   "score": 43.6,
+   "score": 43.3,
    "hot": true
   },
   {
@@ -293,7 +321,7 @@
    "comments": 916,
    "publishedAt": 1794484001000,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -304,24 +332,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 132,
-   "comments": 61,
+   "comments": 62,
    "publishedAt": 1794672014000,
    "isAI": false,
-   "score": 41.6,
-   "hot": false
-  },
-  {
-   "title": "OpenAI disbands its robotics team as its general models start running robots",
-   "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50487184",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 175,
-   "comments": 73,
-   "publishedAt": 1794592523000,
-   "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -331,11 +345,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 142,
-   "comments": 29,
+   "engagement": 145,
+   "comments": 33,
    "publishedAt": 1794665154000,
    "isAI": false,
-   "score": 41.4,
+   "score": 41.2,
+   "hot": false
+  },
+  {
+   "title": "OpenAI disbands its robotics team as its general models start running robots",
+   "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50487184",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 176,
+   "comments": 73,
+   "publishedAt": 1794592523000,
+   "isAI": true,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -349,7 +377,7 @@
    "comments": 211,
    "publishedAt": 1794595244000,
    "isAI": false,
-   "score": 41.4,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -360,10 +388,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 192,
-   "comments": 192,
+   "comments": 193,
    "publishedAt": 1794583750000,
    "isAI": true,
-   "score": 41.3,
+   "score": 41,
    "hot": false
   },
   {
@@ -377,7 +405,7 @@
    "comments": 350,
    "publishedAt": 1794506508000,
    "isAI": true,
-   "score": 41.3,
+   "score": 41,
    "hot": false
   },
   {
@@ -391,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -402,39 +430,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 812,
-   "comments": 687,
+   "comments": 688,
    "publishedAt": 1794536184000,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.6,
    "hot": false
-  },
-  {
-   "title": "소프트웨어 직무명의 계보",
-   "url": "https://news.hada.io/topic?id=37182&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "1940년대부터 현재까지 104개 소프트웨어 직무명 을 연결한 대화형 계보도로, 직무의 기원과 분화, 상호 영향을 살펴볼 수 있음 직무를 7개 계열 과 5년 단위 시간축으로 배치하고, 실선은 파생 관계를, 점선은 영향 관계나 흔한 경력 이동을 나타냄 웹마스터의 분화와 풀스택의 등장처럼 직무는 분리와 재통합 을 반복하며, 프롬프트 엔지니어처럼 다른 직무에 빠르게 흡수되는 경우도 있음 Systems Engineer 는 시대에 따라 서로 다른 직무를 가리켰고, 최근의 FDE는 1960년대 IBM 고객 현장 업무와 닮아 있어 새 이름이 반",
-   "publishedAt": 1794702823000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.9,
-   "hot": true
-  },
-  {
-   "title": "Text.js - 브라우저 콘솔에서 동작하는 앱을 만드는 React 프레임워크",
-   "url": "https://news.hada.io/topic?id=37181&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "React 컴포넌트와 훅으로 텍스트 UI와 키 입력을 정의 하면, Text.js가 브라우저 개발자 도구의 Console 탭 에 앱을 렌더링 Box 와 Text 로 레이아웃을 잡고 표, 차트, 폼, 명령 팔레트 를 조합해 키보드로 조작하는 대시보드나 도구를 제작 React 상태가 바뀌면 Yoga로 화면을 문자 격자에 배치하고, 변경된 프레임만 console.log() 한 번 으로 출력 파일 기반 라우팅 으로 app/ 아래에 페이지와 공통 레이아웃을 정의하고, route.ts 로 같은 프로젝트에 API를 추가 DB 조회가 필요한 페이지",
-   "publishedAt": 1794702602000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.9,
-   "hot": true
   },
   {
    "title": "Gemini 4 Hydrogen and Orchestrator",
@@ -447,21 +447,7 @@
    "comments": 163,
    "publishedAt": 1794509521000,
    "isAI": true,
-   "score": 40.8,
-   "hot": false
-  },
-  {
-   "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50497155",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 129,
-   "comments": 65,
-   "publishedAt": 1794665365000,
-   "isAI": false,
-   "score": 40.7,
+   "score": 40.5,
    "hot": false
   },
   {
@@ -475,7 +461,63 @@
    "comments": 993,
    "publishedAt": 1794507648000,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.4,
+   "hot": false
+  },
+  {
+   "title": "소프트웨어 직무명의 계보",
+   "url": "https://news.hada.io/topic?id=37182&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "1940년대부터 현재까지 104개 소프트웨어 직무명 을 연결한 대화형 계보도로, 직무의 기원과 분화, 상호 영향을 살펴볼 수 있음 직무를 7개 계열 과 5년 단위 시간축으로 배치하고, 실선은 파생 관계를, 점선은 영향 관계나 흔한 경력 이동을 나타냄 웹마스터의 분화와 풀스택의 등장처럼 직무는 분리와 재통합 을 반복하며, 프롬프트 엔지니어처럼 다른 직무에 빠르게 흡수되는 경우도 있음 Systems Engineer 는 시대에 따라 서로 다른 직무를 가리켰고, 최근의 FDE는 1960년대 IBM 고객 현장 업무와 닮아 있어 새 이름이 반",
+   "publishedAt": 1794702823000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.4,
+   "hot": true
+  },
+  {
+   "title": "Text.js - 브라우저 콘솔에서 동작하는 앱을 만드는 React 프레임워크",
+   "url": "https://news.hada.io/topic?id=37181&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "React 컴포넌트와 훅으로 텍스트 UI와 키 입력을 정의 하면, Text.js가 브라우저 개발자 도구의 Console 탭 에 앱을 렌더링 Box 와 Text 로 레이아웃을 잡고 표, 차트, 폼, 명령 팔레트 를 조합해 키보드로 조작하는 대시보드나 도구를 제작 React 상태가 바뀌면 Yoga로 화면을 문자 격자에 배치하고, 변경된 프레임만 console.log() 한 번 으로 출력 파일 기반 라우팅 으로 app/ 아래에 페이지와 공통 레이아웃을 정의하고, route.ts 로 같은 프로젝트에 API를 추가 DB 조회가 필요한 페이지",
+   "publishedAt": 1794702602000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.4,
+   "hot": true
+  },
+  {
+   "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50497155",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 130,
+   "comments": 65,
+   "publishedAt": 1794665365000,
+   "isAI": false,
+   "score": 40.3,
+   "hot": false
+  },
+  {
+   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "url": "https://unemploymentlabs.com/checkpoint-forensics",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50474883",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 392,
+   "comments": 166,
+   "publishedAt": 1794520571000,
+   "isAI": true,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -486,24 +528,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 215,
-   "comments": 52,
+   "comments": 53,
    "publishedAt": 1794622896000,
    "isAI": false,
-   "score": 40.1,
-   "hot": false
-  },
-  {
-   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-   "url": "https://unemploymentlabs.com/checkpoint-forensics",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50474883",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 384,
-   "comments": 165,
-   "publishedAt": 1794520571000,
-   "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -513,11 +541,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 110,
+   "engagement": 111,
    "comments": 87,
    "publishedAt": 1794609555000,
    "isAI": true,
-   "score": 40,
+   "score": 39.7,
+   "hot": false
+  },
+  {
+   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50475713",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 352,
+   "comments": 105,
+   "publishedAt": 1794524777000,
+   "isAI": true,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -545,22 +587,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
-  },
-  {
-   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-   "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50475713",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 352,
-   "comments": 105,
-   "publishedAt": 1794524777000,
-   "isAI": true,
-   "score": 39.9,
-   "hot": false
   },
   {
    "title": "Claude Is Down",
@@ -573,7 +601,7 @@
    "comments": 179,
    "publishedAt": 1794565209000,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -601,7 +629,7 @@
    "comments": 222,
    "publishedAt": 1794520989000,
    "isAI": false,
-   "score": 39.4,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -615,7 +643,7 @@
    "comments": 320,
    "publishedAt": 1794508745000,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -629,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -643,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -657,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -671,7 +699,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -685,21 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
-   "hot": true
-  },
-  {
-   "title": "KDE 다큐멘터리: 자유 소프트웨어의 언더독들 이야기 [영상]",
-   "url": "https://news.hada.io/topic?id=37168&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "KDE 는 사용하기 어려웠던 Linux를 누구나 쓸 수 있는 데스크톱으로 만들려는 시도에서 출발해, 소프트웨어를 통한 자유와 사용자 통제권을 추구하는 커뮤니티로 성장함 Qt 는 소규모 팀이 완성도 높은 그래픽 환경을 빠르게 만드는 기반이었지만, 초기의 독점 라이선스는 GNOME 탄생과 자유 소프트웨어 진영의 분열을 촉발함 자원봉사자들의 필요에서 시작한 응용 프로그램과 KHTML 브라우저 엔진은 KDE의 범위를 넓혔으며, KHTML은 이후 Safari와 WebKit으로 이어짐 KDE 4 는 대규모 재설계와 미완성 데스크톱 출시로 심각",
-   "publishedAt": 1794685232000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.8,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -713,14 +727,14 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false
   },
   {
-   "title": "Show HN: 오늘 밤 FAA 전국 이륙 중단 상황을 보여주는 미국 항공편 실시간 지도",
-   "url": "https://news.hada.io/topic?id=37167&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Ground Stop Watch 는 미국 상공의 항공기 위치와 출발 현황을 실시간으로 보여주고, 타임라인으로 FAA 전국 이륙 중단과 회복 과정을 다시 살펴볼 수 있는 독립 웹페이지임 adsb.fi의 ADS-B 추적 데이터 와 FAA 공항 지연 정보를 활용하며, 공항별 출발과 항공사별 운항 규모를 일주일 전 같은 시간대와 비교함 추적 데이터상 상공의 상업용 항공편은 최저점에서 전주 대비 96% 감소 했고, 출발 편수가 평소의 4분의 1 미만인 상태가 5시간 34분 이어짐 FAA는 2026년 11월 13일 오후 3시 54분 전국 이륙",
-   "publishedAt": 1794681126000,
+   "title": "KDE 다큐멘터리: 자유 소프트웨어의 언더독들 이야기 [영상]",
+   "url": "https://news.hada.io/topic?id=37168&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "KDE 는 사용하기 어려웠던 Linux를 누구나 쓸 수 있는 데스크톱으로 만들려는 시도에서 출발해, 소프트웨어를 통한 자유와 사용자 통제권을 추구하는 커뮤니티로 성장함 Qt 는 소규모 팀이 완성도 높은 그래픽 환경을 빠르게 만드는 기반이었지만, 초기의 독점 라이선스는 GNOME 탄생과 자유 소프트웨어 진영의 분열을 촉발함 자원봉사자들의 필요에서 시작한 응용 프로그램과 KHTML 브라우저 엔진은 KDE의 범위를 넓혔으며, KHTML은 이후 Safari와 WebKit으로 이어짐 KDE 4 는 대규모 재설계와 미완성 데스크톱 출시로 심각",
+   "publishedAt": 1794685232000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -741,14 +755,14 @@
    "comments": 309,
    "publishedAt": 1794546503000,
    "isAI": false,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
-   "title": "테크 기업들이 프라이버시의 개념을 다시 바꾸려 함",
-   "url": "https://news.hada.io/topic?id=37166&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "스마트 안경과 녹음형 웨어러블은 사용자 한 사람의 선택 으로 주변인의 대화와 행동까지 기록하며, 프라이버시 문제를 물리적 일상으로 더 깊이 확장함 기업의 암호화, 접근 제한, 개인정보 설정 같은 기술적 보호 약속 은 기기 사용자에게 집중되며, 기록 대상이 된 비사용자가 실질적으로 거부할 방법은 제공하지 못함 원본 음성을 저장하지 않더라도 대화 요약과 전사 기록 은 남을 수 있으며, 법 집행기관의 데이터 접근 문제도 피할 수 없음 눈에 띄는 녹음이나 필기와 달리 수동 조작 없는 상시 감시 는 지속적인 기록을 장려하고 사용 …",
-   "publishedAt": 1794677593000,
+   "title": "Show HN: 오늘 밤 FAA 전국 이륙 중단 상황을 보여주는 미국 항공편 실시간 지도",
+   "url": "https://news.hada.io/topic?id=37167&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Ground Stop Watch 는 미국 상공의 항공기 위치와 출발 현황을 실시간으로 보여주고, 타임라인으로 FAA 전국 이륙 중단과 회복 과정을 다시 살펴볼 수 있는 독립 웹페이지임 adsb.fi의 ADS-B 추적 데이터 와 FAA 공항 지연 정보를 활용하며, 공항별 출발과 항공사별 운항 규모를 일주일 전 같은 시간대와 비교함 추적 데이터상 상공의 상업용 항공편은 최저점에서 전주 대비 96% 감소 했고, 출발 편수가 평소의 4분의 1 미만인 상태가 5시간 34분 이어짐 FAA는 2026년 11월 13일 오후 3시 54분 전국 이륙",
+   "publishedAt": 1794681126000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -759,31 +773,17 @@
    "hot": true
   },
   {
-   "title": "누구나 이해할 수 있는 ML 모듈",
-   "url": "https://news.hada.io/topic?id=37165&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "ML 모듈 은 함수와 타입을 묶는 데 그치지 않고, 모듈 자체에 시그니처(signature) 라는 타입을 부여해 공개 인터페이스와 구현을 분리함 하나의 구현에 서로 다른 시그니처 를 적용하면 내부 함수를 숨기거나, 일부 기능만 제공하는 모듈로 재사용할 수 있음 추상 타입 은 내부 자료 표현까지 감춰 외부 코드가 불변 조건을 깨뜨리지 못하게 함 매개변수화된 모듈 은 다른 모듈을 입력받아 타입과 연산을 함께 전달받으며, include 는 작게 나눈 모듈을 다시 조합할 수 있게 함 빌드 시스템의 캐시와 실행기를 교체하는 사례처럼 정적 모",
-   "publishedAt": 1794675771000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.8,
-   "hot": true
-  },
-  {
    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
    "url": "https://github.com/simpsoka/zigzag",
    "commentsUrl": "https://news.ycombinator.com/item?id=50470488",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 739,
+   "engagement": 740,
    "comments": 253,
    "publishedAt": 1794502962000,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -797,7 +797,21 @@
    "comments": 392,
    "publishedAt": 1794398722000,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.2,
+   "hot": false
+  },
+  {
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50458900",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 680,
+   "comments": 707,
+   "publishedAt": 1794432275000,
+   "isAI": true,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -811,21 +825,7 @@
    "comments": 14,
    "publishedAt": 1794622541000,
    "isAI": false,
-   "score": 37.1,
-   "hot": false
-  },
-  {
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50458900",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 680,
-   "comments": 706,
-   "publishedAt": 1794432275000,
-   "isAI": true,
-   "score": 37.1,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -839,21 +839,7 @@
    "comments": 65,
    "publishedAt": 1794594556000,
    "isAI": false,
-   "score": 36.3,
-   "hot": false
-  },
-  {
-   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-   "publishedAt": 1794677400000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.2,
+   "score": 36,
    "hot": false
   },
   {
@@ -867,7 +853,21 @@
    "comments": 1646,
    "publishedAt": 1794436266000,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "publishedAt": 1794677400000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -881,7 +881,7 @@
    "comments": 238,
    "publishedAt": 1794578473000,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -895,34 +895,6 @@
    "comments": 233,
    "publishedAt": 1794517789000,
    "isAI": true,
-   "score": 36,
-   "hot": false
-  },
-  {
-   "title": "Global Microsoft Outage",
-   "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50479098",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 292,
-   "comments": 183,
-   "publishedAt": 1794550703000,
-   "isAI": false,
-   "score": 35.7,
-   "hot": false
-  },
-  {
-   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-   "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50473190",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 457,
-   "comments": 498,
-   "publishedAt": 1794513093000,
-   "isAI": false,
    "score": 35.7,
    "hot": false
   },
@@ -937,7 +909,35 @@
    "comments": 161,
    "publishedAt": 1794421962000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.5,
+   "hot": false
+  },
+  {
+   "title": "Global Microsoft Outage",
+   "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50479098",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 292,
+   "comments": 183,
+   "publishedAt": 1794550703000,
+   "isAI": false,
+   "score": 35.4,
+   "hot": false
+  },
+  {
+   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50473190",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 457,
+   "comments": 499,
+   "publishedAt": 1794513093000,
+   "isAI": false,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -951,7 +951,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -965,7 +965,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -979,7 +979,7 @@
    "comments": 78,
    "publishedAt": 1794585124000,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -993,7 +993,7 @@
    "comments": 1,
    "publishedAt": 1794507433000,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1007,7 +1007,7 @@
    "comments": 151,
    "publishedAt": 1794539288000,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1021,7 +1021,21 @@
    "comments": 55,
    "publishedAt": 1794580120000,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "중국, 젠슨 황 사임·미국 규제 강화에 4조원대 AI 데이터센터 사업 위기",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217419",
+   "summary": "중국에서 엔비디아의 수출 제한 AI 칩을 기반으로 추진 중인 4조원대 데이터센터 사업이 차질을 빚을 가능성이 커지고 있다. 미국의 규제 강화 움직임과 젠슨 황 전 엔비디아 CEO의 사임으로 핵심 GPU 확보가 불투명해진 가운데, 중국 기업들은 여전히 엔비디아 칩을 전제로 대규모 투자를 진행하고 있는 것으로 나타났다.로이터는 13일(현지시간) 중국의 조달 공고와 투자 계획, 건설 계약, 기업 공시 등 150건 이상을 분석한 결과, 엔비디아의 수출 제한 프로세서를 기반으로 한 프로젝트와 장비 계약 규모가 230억위안(약 4조2000억원",
+   "publishedAt": 1794712383000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1035,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1049,7 +1063,7 @@
    "comments": 14,
    "publishedAt": 1794491771000,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1063,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1077,7 +1091,7 @@
    "comments": 84,
    "publishedAt": 1794524911000,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1091,21 +1105,7 @@
    "comments": 92,
    "publishedAt": 1794581887000,
    "isAI": false,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "엔비디아 투자자들 \"젠슨 황 복귀 검토해야\"…머스크 등 거물 가세",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217413",
-   "summary": "젠슨 황 전 엔비디아 CEO의 복귀를 요구하는 목소리가 실리콘밸리 기술 업계에서 주요 투자자들로 이어지고 있다. 엔비디아 지분 20억달러 이상을 보유한 투자사 두 곳이 이사회에 후임 CEO 선임을 서두르지 말고, 황의 복귀 가능성을 검토하라고 촉구했다. 일론 머스크 CEO 등 기술 업계 거물들도 황의 퇴진이 엔비디아의 사업 경쟁력과 미국 AI 산업에 타격을 줄 수 있다며 복귀를 지지하고 있다.CNBC는 14일(현지시간) 브래드 거스트너 알티미터 캐피털 CEO와 개빈 베이커 아트레이데스매니지먼트 CEO가 엔비디아 이사회에 공동 서한을",
-   "publishedAt": 1794696769000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1119,7 +1119,21 @@
    "comments": 184,
    "publishedAt": 1794479306000,
    "isAI": false,
-   "score": 32.4,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "엔비디아 투자자들 \"젠슨 황 복귀 검토해야\"…머스크 등 거물 가세",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217413",
+   "summary": "젠슨 황 전 엔비디아 CEO의 복귀를 요구하는 목소리가 실리콘밸리 기술 업계에서 주요 투자자들로 이어지고 있다. 엔비디아 지분 20억달러 이상을 보유한 투자사 두 곳이 이사회에 후임 CEO 선임을 서두르지 말고, 황의 복귀 가능성을 검토하라고 촉구했다. 일론 머스크 CEO 등 기술 업계 거물들도 황의 퇴진이 엔비디아의 사업 경쟁력과 미국 AI 산업에 타격을 줄 수 있다며 복귀를 지지하고 있다.CNBC는 14일(현지시간) 브래드 거스트너 알티미터 캐피털 CEO와 개빈 베이커 아트레이데스매니지먼트 CEO가 엔비디아 이사회에 공동 서한을",
+   "publishedAt": 1794696769000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1130,10 +1144,23 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 569,
-   "comments": 559,
+   "comments": 560,
    "publishedAt": 1794345903000,
    "isAI": true,
-   "score": 32.2,
+   "score": 32.1,
+   "hot": false
+  },
+  {
+   "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
+   "source": "r/MachineLearning",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26.8,
+   "publishedAt": 1794688394000,
+   "isAI": true,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1147,7 +1174,7 @@
    "comments": 236,
    "publishedAt": 1794466368000,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1161,7 +1188,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1175,7 +1202,7 @@
    "comments": 8,
    "publishedAt": 1794250589000,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1189,7 +1216,7 @@
    "comments": 276,
    "publishedAt": 1794415124000,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1203,7 +1230,7 @@
    "comments": 221,
    "publishedAt": 1794349076000,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1217,7 +1244,7 @@
    "comments": 626,
    "publishedAt": 1794306358000,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1228,38 +1255,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 261,
-   "comments": 256,
+   "comments": 257,
    "publishedAt": 1794492328000,
    "isAI": false,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "Supporting research on AI and children’s safety",
-   "url": "https://openai.com/index/children-first-declaration",
-   "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-   "publishedAt": 1794441600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-   "publishedAt": 1794441600000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1273,7 +1272,35 @@
    "comments": 442,
    "publishedAt": 1794324320000,
    "isAI": false,
-   "score": 31,
+   "score": 30.9,
+   "hot": false
+  },
+  {
+   "title": "Supporting research on AI and children’s safety",
+   "url": "https://openai.com/index/children-first-declaration",
+   "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+   "publishedAt": 1794441600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 30.9,
+   "hot": false
+  },
+  {
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+   "publishedAt": 1794441600000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1287,7 +1314,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": false,
-   "score": 31,
+   "score": 30.7,
    "hot": false
   },
   {
@@ -1301,7 +1328,7 @@
    "comments": 8,
    "publishedAt": 1794492757000,
    "isAI": false,
-   "score": 30.7,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1315,34 +1342,7 @@
    "comments": 198,
    "publishedAt": 1794449471000,
    "isAI": false,
-   "score": 30.7,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-   "url": "https://github.com/GoogleChrome/modern-web-guidance",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50443812",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 443,
-   "comments": 146,
-   "publishedAt": 1794333675000,
-   "isAI": true,
-   "score": 30.7,
-   "hot": false
-  },
-  {
-   "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/",
-   "source": "r/LocalLLaMA",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 30.8,
-   "publishedAt": 1794627606000,
-   "isAI": true,
-   "score": 30.7,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1356,7 +1356,34 @@
    "comments": 84,
    "publishedAt": 1794406246000,
    "isAI": true,
-   "score": 30.6,
+   "score": 30.5,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50443812",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 444,
+   "comments": 146,
+   "publishedAt": 1794333675000,
+   "isAI": true,
+   "score": 30.5,
+   "hot": false
+  },
+  {
+   "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/",
+   "source": "r/LocalLLaMA",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 30.8,
+   "publishedAt": 1794627606000,
+   "isAI": true,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1370,34 +1397,6 @@
    "comments": 148,
    "publishedAt": 1794248678000,
    "isAI": true,
-   "score": 30.3,
-   "hot": false
-  },
-  {
-   "title": "TSMC Hacked",
-   "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50479721",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 115,
-   "comments": 17,
-   "publishedAt": 1794555595000,
-   "isAI": false,
-   "score": 30.2,
-   "hot": false
-  },
-  {
-   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-   "publishedAt": 1794692482000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
    "score": 30.2,
    "hot": false
   }
