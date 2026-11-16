@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794824720126,
+ "updatedAt": 1794828379587,
  "week": "2026-W47",
  "items": [
   {
@@ -13,7 +13,7 @@
    "comments": 616,
    "publishedAt": 1794754018000,
    "isAI": true,
-   "score": 61.8,
+   "score": 61.2,
    "hot": true
   },
   {
@@ -27,7 +27,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 57.1,
+   "score": 56.5,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 532,
-   "comments": 231,
+   "engagement": 533,
+   "comments": 232,
    "publishedAt": 1794767770000,
    "isAI": false,
-   "score": 51,
+   "score": 50.5,
    "hot": true
   },
   {
@@ -55,7 +55,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 50.9,
+   "score": 50.4,
    "hot": false
   },
   {
@@ -69,7 +69,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 50.9,
+   "score": 50.4,
    "hot": false
   },
   {
@@ -83,7 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -93,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 254,
-   "comments": 323,
+   "engagement": 256,
+   "comments": 330,
    "publishedAt": 1794786955000,
    "isAI": false,
-   "score": 47.4,
+   "score": 47,
    "hot": true
   },
   {
@@ -111,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -125,7 +125,7 @@
    "comments": 229,
    "publishedAt": 1794742851000,
    "isAI": false,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -139,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -153,21 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
-   "hot": true
-  },
-  {
-   "title": "Show GN: agent-monitor - 어느 에이전트 세션이 내 답을 기다리는지 보여주는 macOS 메뉴바 앱",
-   "url": "https://news.hada.io/topic?id=37251&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "터미널에서 Claude Code나 Codex 세션 여럿을 띄워 놓고 일하다 보면 어느 세션이 작업을 마치고 제 응답을 기다리는지 놓치곤 했습니다. 승인 요청을 띄운 채 한참 기다리던 세션을 뒤늦게 발견하는 일이 잦아서 만들었습니다. 메뉴바에는 '2/5'처럼 숫자가 표시됩니다. 실행 중인 세션 5개 중 2개가 제 응답을 기다린다는 뜻입니다. 기다리는 세션이 없으면 숫자가 흐려지고, 클릭하면 응답이 필요한 세션부터 목록에 표시됩니다. 주요 기능은 다음과 같습니다. 여러 앱의 세션을 한곳에 모읍니다. 터미널의 Claude Code나 Co",
-   "publishedAt": 1794796377000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -181,7 +167,7 @@
    "comments": 650,
    "publishedAt": 1794624779000,
    "isAI": true,
-   "score": 45.5,
+   "score": 45.2,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -196,7 +182,7 @@
    "comments": 159,
    "publishedAt": 1794785093000,
    "isAI": false,
-   "score": 43.6,
+   "score": 43.1,
    "hot": true
   },
   {
@@ -210,7 +196,7 @@
    "comments": 121,
    "publishedAt": 1794756081000,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.5,
    "hot": true
   },
   {
@@ -221,10 +207,38 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 155,
-   "comments": 103,
+   "comments": 104,
    "publishedAt": 1794775048000,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.4,
+   "hot": true
+  },
+  {
+   "title": "Linux 7.4-rc3",
+   "url": "https://news.hada.io/topic?id=37282&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Linus Torvalds 가 linux-kernel 목록에 올린 Linux 7.4-rc3 글임. 변경은 아주 많지만, 실제 패치의 대부분은 작다고 함. 파일시스템이 diffstat 에 보이는 것은 더 큰 패치가 몇 개 있기 때문이고, iomap 호출 규약 변경은 꽤 사소하지만 크며, smb 클라이언트 수정이 몇 개라고 함. selftest 여러 개와 문서 갱신도 있다고 함.",
+   "publishedAt": 1794823864000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
+  },
+  {
+   "title": "Show GN: AFTERNS 나스닥 선물 - 나스닥 선물이 지금 왜 오르고 빠지는지 정리해 주는 페이지",
+   "url": "https://news.hada.io/topic?id=37281&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "안녕하세요. 미국 주식 실적 서비스 afterns를 혼자 운영하는 개발자입니다. 미국 주식을 하다 보면 오늘 나스닥이 어떤 흐름인지 궁금할 때가 많습니다. 나스닥 선물이 빠지거나 오를 때 왜 그런지는 직접 복잡한 검색을 해야 했습니다. 그래서 한 페이지에서 시세와 이유를 같이 보게 만들었습니다. ■ 보여 주는 것 나스닥100 선물 시세와 1분봉 차트 (한국시간) 지금 지수를 받치는 요인과 끌어내리는 요인: CNBC·MarketWatch·WSJ 보도를 한국어로 요약하고, 차트 흐름과 맞는 내용을 이유로 보여 줍니다 미장 개장·마감(프",
+   "publishedAt": 1794822003000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -238,7 +252,7 @@
    "comments": 236,
    "publishedAt": 1794695190000,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.9,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -253,7 +267,7 @@
    "comments": 28,
    "publishedAt": 1794668655000,
    "isAI": true,
-   "score": 41,
+   "score": 40.7,
    "hot": false,
    "lastWeekRank": 5
   },
@@ -268,7 +282,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -282,7 +296,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -296,7 +310,7 @@
    "comments": 212,
    "publishedAt": 1794660345000,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.6,
    "hot": false,
    "lastWeekRank": 7
   },
@@ -311,21 +325,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
-   "hot": true
-  },
-  {
-   "title": "Salon 저널리즘 30년의 기록 보존하기",
-   "url": "https://news.hada.io/topic?id=37268&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Salon 이 창간 31년 만에 발행 중단을 발표했지만, 웹 아카이빙으로 과거 기사에 계속 접근할 수 있음 1995년 창간한 Salon은 인터넷에서 탄생한 초기 주요 매체 중 하나로, 정치와 문화, 비평 을 결합하며 디지털 저널리즘 형성에 기여함 Internet Archive의 Wayback Machine 은 거의 30년 동안 여러 도메인에 걸쳐 Salon의 기록을 보존해 옴 현재 Wayback Machine에서 Salon 기사 25만 건 이상 을 찾을 수 있으며, 초기 웹 시대부터 이어진 디지털 저널리즘과 문화적 논의를 담고 있음",
-   "publishedAt": 1794807184000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -339,9 +339,23 @@
    "comments": 219,
    "publishedAt": 1794678319000,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false,
    "lastWeekRank": 8
+  },
+  {
+   "title": "Salon 저널리즘 30년의 기록 보존하기",
+   "url": "https://news.hada.io/topic?id=37268&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Salon 이 창간 31년 만에 발행 중단을 발표했지만, 웹 아카이빙으로 과거 기사에 계속 접근할 수 있음 1995년 창간한 Salon은 인터넷에서 탄생한 초기 주요 매체 중 하나로, 정치와 문화, 비평 을 결합하며 디지털 저널리즘 형성에 기여함 Internet Archive의 Wayback Machine 은 거의 30년 동안 여러 도메인에 걸쳐 Salon의 기록을 보존해 옴 현재 Wayback Machine에서 Salon 기사 25만 건 이상 을 찾을 수 있으며, 초기 웹 시대부터 이어진 디지털 저널리즘과 문화적 논의를 담고 있음",
+   "publishedAt": 1794807184000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.4,
+   "hot": true
   },
   {
    "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
@@ -351,10 +365,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 124,
-   "comments": 117,
+   "comments": 119,
    "publishedAt": 1794771071000,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -368,7 +382,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -382,7 +396,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -396,7 +410,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -410,7 +424,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -424,7 +438,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -438,7 +452,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -452,7 +466,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -463,10 +477,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 317,
-   "comments": 172,
+   "comments": 173,
    "publishedAt": 1794694969000,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -480,7 +494,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -494,7 +508,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -508,21 +522,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
-   "hot": true
-  },
-  {
-   "title": "국토부, 구글의 1:5,000 지도 국외 반출 보안조건 이행 확인",
-   "url": "https://news.hada.io/topic?id=37249&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "정부가 11월 13일 구글의 1:5,000 고정밀 지도 국외 반출에 붙인 보안조건의 이행 결과 를 확인. 반출은 지난 2월 27일 조건부로 허가했음 기본 바탕지도와 길찾기에 필요한 도로망 데이터 가 반출 대상임. 국내 제휴사가 국내 서버에서 가공하고, 정부 검토를 거쳐 국외로 보낼 수 있음. 국내 제휴사는 티맵모빌리티 구글 지도와 구글 어스에서 한국 영토의 위도·경도 표시를 제한 함. 군사·보안시설을 가린 영상은 국토지리정보원이 처리하며, 구글은 국내 제휴사로부터 받는 즉시 기존 영상을 교체해야 함 정부는 영상과 데이터의 반출 과 ",
-   "publishedAt": 1794793802000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.4,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -536,7 +536,7 @@
    "comments": 302,
    "publishedAt": 1794664086000,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false,
    "lastWeekRank": 13
   },
@@ -551,7 +551,7 @@
    "comments": 110,
    "publishedAt": 1794591010000,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false,
    "lastWeekRank": 17
   },
@@ -566,7 +566,7 @@
    "comments": 728,
    "publishedAt": 1794582524000,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.5,
    "hot": false,
    "lastWeekRank": 19
   },
@@ -581,7 +581,7 @@
    "comments": 200,
    "publishedAt": 1794663377000,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false,
    "lastWeekRank": 16
   },
@@ -596,7 +596,7 @@
    "comments": 392,
    "publishedAt": 1794565093000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.5,
    "hot": false,
    "lastWeekRank": 22
   },
@@ -611,8 +611,23 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
+   "score": 36,
    "hot": false
+  },
+  {
+   "title": "Anthropic IPO",
+   "url": "https://ipo.anthropic.com/us/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50465829",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1004,
+   "comments": 919,
+   "publishedAt": 1794484001000,
+   "isAI": true,
+   "score": 35.7,
+   "hot": false,
+   "lastWeekRank": 29
   },
   {
    "title": "PyPI's redesigned project pages with clearer security signals are now live",
@@ -625,24 +640,9 @@
    "comments": 131,
    "publishedAt": 1794670852000,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false,
    "lastWeekRank": 21
-  },
-  {
-   "title": "Anthropic IPO",
-   "url": "https://ipo.anthropic.com/us/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50465829",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1004,
-   "comments": 918,
-   "publishedAt": 1794484001000,
-   "isAI": true,
-   "score": 35.9,
-   "hot": false,
-   "lastWeekRank": 29
   },
   {
    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -655,7 +655,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -669,7 +669,7 @@
    "comments": 235,
    "publishedAt": 1794568426000,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.2,
    "hot": false,
    "lastWeekRank": 25
   },
@@ -684,7 +684,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -698,7 +698,7 @@
    "comments": 133,
    "publishedAt": 1794599516000,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.4,
    "hot": false,
    "lastWeekRank": 28
   },
@@ -713,9 +713,23 @@
    "comments": 353,
    "publishedAt": 1794506508000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.1,
    "hot": false,
    "lastWeekRank": 34
+  },
+  {
+   "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+   "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+   "summary": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from China. In a letter to Lutnick on Sunday, ",
+   "publishedAt": 1794826800000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
   },
   {
    "title": "Gemini 4 Hydrogen and Orchestrator",
@@ -728,9 +742,24 @@
    "comments": 165,
    "publishedAt": 1794509521000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.7,
    "hot": false,
    "lastWeekRank": 37
+  },
+  {
+   "title": "Service degradation on Microsoft 365",
+   "url": "https://status.cloud.microsoft/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50471731",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1173,
+   "comments": 995,
+   "publishedAt": 1794507648000,
+   "isAI": false,
+   "score": 33.6,
+   "hot": false,
+   "lastWeekRank": 40
   },
   {
    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
@@ -740,41 +769,12 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 442,
-   "comments": 188,
+   "comments": 189,
    "publishedAt": 1794520571000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.5,
    "hot": false,
    "lastWeekRank": 43
-  },
-  {
-   "title": "Service degradation on Microsoft 365",
-   "url": "https://status.cloud.microsoft/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50471731",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1172,
-   "comments": 995,
-   "publishedAt": 1794507648000,
-   "isAI": false,
-   "score": 33.7,
-   "hot": false,
-   "lastWeekRank": 40
-  },
-  {
-   "title": "알리바바 '큐원4 맥스' 정식 출시…성능 높이고 작업 비용 67% 절감",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217466",
-   "summary": "알리바바가 차세대 AI 모델 '큐원4 맥스(Qwen4-Max)'의 기술 사양과 성능 평가 결과를 공개하고 정식 출시했다. 전작과 같은 2조4000억개 규모의 매개변수를 유지하면서 실제 연산에 사용하는 매개변수를 25% 줄였으며, 외부 평가에서는 성능이 향상되고 작업당 비용은 약 67% 감소한 것으로 나타났다.알리바바 큐원팀은 16일(현지시간) 공식 블로그를 통해 큐원4 맥스의 새로운 아키텍처와 벤치마크, API 가격을 발표했다. 지난 11일 프리뷰 서비스를 시작한 지 5일 만으로, 당시 공개하지 않았던 모델 구조와 성능을 구체적으로",
-   "publishedAt": 1794821504000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
   },
   {
    "title": "US IRS free online tax filing open source repo (2025)",
@@ -787,50 +787,22 @@
    "comments": 110,
    "publishedAt": 1794678500000,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 27
   },
   {
-   "title": "미국, 엔비디아·오픈AI 등 AI 기업 20여곳 '국가 대표기업' 지정 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217465",
-   "summary": "미국 정부가 엔비디아와 오픈AI, 앤트로픽 등 주요 AI 기업 20여곳을 '국가 대표기업(National Champions)'으로 선정하고 해외 사업 수주를 지원할 계획이다. 반도체와 AI 모델, 클라우드 등을 하나로 묶어 수출하고 정부가 금융과 외교, 수출 허가 절차까지 지원하는 것으로, 중국과의 글로벌 AI 시장 경쟁에서 미국 기술의 영향력을 높이려는 전략이다.월스트리트저널(WSJ)은 15일(현지시간) 트럼프 행정부가 엔비디아를 비롯해 아마존, 마이크로소프트, 오픈AI, 앤트로픽 등 20여개 기업을 AI 국가 대표기업으로 선정할",
-   "publishedAt": 1794820018000,
+   "title": "알리바바 '큐원4 맥스' 정식 출시…성능 높이고 작업 비용 67% 절감",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217466",
+   "summary": "알리바바가 차세대 AI 모델 '큐원4 맥스(Qwen4-Max)'의 기술 사양과 성능 평가 결과를 공개하고 정식 출시했다. 전작과 같은 2조4000억개 규모의 매개변수를 유지하면서 실제 연산에 사용하는 매개변수를 25% 줄였으며, 외부 평가에서는 성능이 향상되고 작업당 비용은 약 67% 감소한 것으로 나타났다.알리바바 큐원팀은 16일(현지시간) 공식 블로그를 통해 큐원4 맥스의 새로운 아키텍처와 벤치마크, API 가격을 발표했다. 지난 11일 프리뷰 서비스를 시작한 지 5일 만으로, 당시 공개하지 않았던 모델 구조와 성능을 구체적으로",
+   "publishedAt": 1794821504000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "영상 생성 AI, 1년 만에 판도 역전…중국 모델이 상위권 장악",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217463",
-   "summary": "1년 전 미국 기업들이 주도했던 영상 생성 모델 성능 평가에서 중국 기업들이 최상위권을 차지했다. 알리바바의 '완 3.0(Wan 3.0)'이 1위, 미니맥스의 오픈웨이트 모델 'H3'가 3위에 올랐으며, 바이트댄스의 '시댄스 2.5(Seedance 2.5)'도 4위를 기록했다.아티피셜 애널리시스(AA)의 13일 기준 음성 포함 텍스트·영상 생성 평가에서 알리바바 완 3.0이 1175점으로 1위를 차지했다.미국 유토파이 스튜디오의 '유토파이 X(Utopai X)'가 1170점으로 2위, 중국 미니맥스 H3가 1161점으로 3위, 바이",
-   "publishedAt": 1794819600000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "앤트그룹, 로봇에 '촉각' 더하는 AI 공개…물체 잡는 힘까지 판단",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217455",
-   "summary": "앤트그룹이 로봇이 손끝의 촉각 정보를 이해하고 물체를 잡는 힘까지 판단할 수 있도록 하는 AI 모델을 공개했다. 시각과 언어, 동작 생성에 이어 촉각까지 로봇 AI에 결합한 것으로, 열쇠로 자물쇠를 열거나 치약을 적절한 힘으로 짜는 등 섬세한 손동작을 구현할 수 있도록 했다.앤트그룹 산하 로비앤트(Robbyant)는 10일 촉각 기반 로봇 파운데이션 모델 '링봇 터치(LingBot-Touch)'를 오픈소스로 공개했다. 이 모델은 약 5000시간에 달하는 실제 촉각 데이터를 학습해 접촉 위치와 압력, 힘의 분포 및 시간에 따른 변화를",
-   "publishedAt": 1794819435000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -844,9 +816,51 @@
    "comments": 692,
    "publishedAt": 1794536184000,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false,
    "lastWeekRank": 41
+  },
+  {
+   "title": "미국, 엔비디아·오픈AI 등 AI 기업 20여곳 '국가 대표기업' 지정 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217465",
+   "summary": "미국 정부가 엔비디아와 오픈AI, 앤트로픽 등 주요 AI 기업 20여곳을 '국가 대표기업(National Champions)'으로 선정하고 해외 사업 수주를 지원할 계획이다. 반도체와 AI 모델, 클라우드 등을 하나로 묶어 수출하고 정부가 금융과 외교, 수출 허가 절차까지 지원하는 것으로, 중국과의 글로벌 AI 시장 경쟁에서 미국 기술의 영향력을 높이려는 전략이다.월스트리트저널(WSJ)은 15일(현지시간) 트럼프 행정부가 엔비디아를 비롯해 아마존, 마이크로소프트, 오픈AI, 앤트로픽 등 20여개 기업을 AI 국가 대표기업으로 선정할",
+   "publishedAt": 1794820018000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "영상 생성 AI, 1년 만에 판도 역전…중국 모델이 상위권 장악",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217463",
+   "summary": "1년 전 미국 기업들이 주도했던 영상 생성 모델 성능 평가에서 중국 기업들이 최상위권을 차지했다. 알리바바의 '완 3.0(Wan 3.0)'이 1위, 미니맥스의 오픈웨이트 모델 'H3'가 3위에 올랐으며, 바이트댄스의 '시댄스 2.5(Seedance 2.5)'도 4위를 기록했다.아티피셜 애널리시스(AA)의 13일 기준 음성 포함 텍스트·영상 생성 평가에서 알리바바 완 3.0이 1175점으로 1위를 차지했다.미국 유토파이 스튜디오의 '유토파이 X(Utopai X)'가 1170점으로 2위, 중국 미니맥스 H3가 1161점으로 3위, 바이",
+   "publishedAt": 1794819600000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "앤트그룹, 로봇에 '촉각' 더하는 AI 공개…물체 잡는 힘까지 판단",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217455",
+   "summary": "앤트그룹이 로봇이 손끝의 촉각 정보를 이해하고 물체를 잡는 힘까지 판단할 수 있도록 하는 AI 모델을 공개했다. 시각과 언어, 동작 생성에 이어 촉각까지 로봇 AI에 결합한 것으로, 열쇠로 자물쇠를 열거나 치약을 적절한 힘으로 짜는 등 섬세한 손동작을 구현할 수 있도록 했다.앤트그룹 산하 로비앤트(Robbyant)는 10일 촉각 기반 로봇 파운데이션 모델 '링봇 터치(LingBot-Touch)'를 오픈소스로 공개했다. 이 모델은 약 5000시간에 달하는 실제 촉각 데이터를 학습해 접촉 위치와 압력, 힘의 분포 및 시간에 따른 변화를",
+   "publishedAt": 1794819435000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
   },
   {
    "title": "수주잔고 100배 폭증… 국내 AI 인프라 업계, 3분기 실적 '약진'",
@@ -859,7 +873,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -873,7 +887,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -887,7 +901,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -901,7 +915,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -915,35 +929,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "중국 에이스, AI 보컬 음악 생성 세계 1위…수노 제쳤다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217452",
-   "summary": "중국 AI 기업들이 이미지와 영상 생성에 이어 음악 생성 분야에서도 존재감을 키우고 있다. AI 보컬 합성 기술을 앞세운 에이스 스튜디오가 글로벌 음악 생성 AI 평가에서 미국 수노를 앞지르며 시장 경쟁 구도에 변화를 예고했다. 중국 AI 음악 기업 에이스 스튜디오(ACE Studio)의 지난 10일(현지시간) 음악 생성 모델 ‘에이스 뮤직 v1(ACE Music v1)’이 글로벌 음악 생성 AI 평가에서 '수노(Suno)'를 제치고 1위에 올랐다.ACE Music v1 just hit #1 on @ArtificialAnlys' m",
-   "publishedAt": 1794815013000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "배우 없이 만든 중국 첫 AI 영화, 흥행 참패…3주간 3.6억원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217460",
-   "summary": "중국 최초의 AI 생성 장편 영화가 극장 흥행에 실패했다. 배우와 실사 촬영 없이 제작했다는 기술적 성과에도 불구하고 어색한 표정과 장면 간 시각적 불일치, 매끄럽지 못한 이야기 전개가 관객들의 외면을 받았다. AI 콘텐츠가 일상화된 중국에서도 극장 영화에는 여전히 인간의 창작과 감성을 기대한다는 분석이 나온다.사우스차이나모닝포스트(SCMP)는 15일(현지시간) 중국 최초의 AI 생성 극장용 장편 영화 '삼성퇴: 퓨처 패스트(Sanxingdui: Future Past)'가 개봉 후 3주 동안 약 180만위안(약 3억6000만원)의",
-   "publishedAt": 1794814598000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -957,7 +943,7 @@
    "comments": 73,
    "publishedAt": 1794592523000,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false,
    "lastWeekRank": 36
   },
@@ -972,7 +958,7 @@
    "comments": 196,
    "publishedAt": 1794583750000,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false,
    "lastWeekRank": 39
   },
@@ -987,50 +973,51 @@
    "comments": 105,
    "publishedAt": 1794524777000,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false,
    "lastWeekRank": 45
   },
   {
-   "title": "AI 가수 '자니아 모네', 첫 AI 음악상 4관왕…'AI판 그래미' 시동",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217461",
-   "summary": "미국에서 AI 음악 창작자들을 위한 첫 시상식이 열려 빌보드 차트에 진입한 AI 가수 '자니아 모네(Xania Monet)'가 4관왕을 차지했다. 기존 음악계가 AI 음악의 저작권과 창작자 자격을 놓고 논쟁을 벌이는 가운데, AI 음악 제작자들이 독자적인 차트와 인증·시상 체계를 구축하며 새로운 음악 분야로 인정받기 위한 움직임에 나섰다.미국 첫 'AI 뮤직 어워즈(AIMA)'가 13일(현지시간) 로스앤젤레스 시내 마이언 극장에서 개최됐다. AI를 활용해 음악을 제작한 창작자들을 위한 행사로, 총 25개 부문에서 수상자를 선정했다.",
-   "publishedAt": 1794813373000,
+   "title": "중국 에이스, AI 보컬 음악 생성 세계 1위…수노 제쳤다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217452",
+   "summary": "중국 AI 기업들이 이미지와 영상 생성에 이어 음악 생성 분야에서도 존재감을 키우고 있다. AI 보컬 합성 기술을 앞세운 에이스 스튜디오가 글로벌 음악 생성 AI 평가에서 미국 수노를 앞지르며 시장 경쟁 구도에 변화를 예고했다. 중국 AI 음악 기업 에이스 스튜디오(ACE Studio)의 지난 10일(현지시간) 음악 생성 모델 ‘에이스 뮤직 v1(ACE Music v1)’이 글로벌 음악 생성 AI 평가에서 '수노(Suno)'를 제치고 1위에 올랐다.ACE Music v1 just hit #1 on @ArtificialAnlys' m",
+   "publishedAt": 1794815013000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false
   },
   {
-   "title": "KAIST, 입모양 읽는 AI로 시각적 음성인식 향상 기술 개발",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217443",
-   "summary": "한국과학기술원(KAIST·총장 배충식)은 입술 움직임만으로 말을 문자로 바꾸는 시각적 음성 인식(VSR)의 정확도를 높이는 AI 기술을 개발했다고 16일 밝혔다.기존에는 입모양만으로 서로 다른 소리를 구별하기 어려웠고, AI는 첫 단어부터 순서대로 생성하는 자가회귀(AR) 방식이라 앞부분의 오류가 뒤 문장까지 이어지는 문제가 존재했다.노용만 교수 연구팀(전기및전자공학부)은 이러한 순차적 생성의 한계를 극복하기 위해 확산 대형언어모델(DLLM)을 시각적 음성 인식에 최초로 도입한 ‘DLLM-VSR’ 프레임워크를 제안했다.마스크 기반",
-   "publishedAt": 1794812241000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
+   "title": "My AI agents found an unmapped Maya site?",
+   "url": "https://pietromiotti.com/latest/maya-site",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50452455",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1036,
+   "comments": 392,
+   "publishedAt": 1794398722000,
    "isAI": true,
-   "score": 32.8,
-   "hot": false
+   "score": 32.6,
+   "hot": false,
+   "lastWeekRank": 55
   },
   {
-   "title": "\"챗GPT에 SNS 데이터 연동\"...뉴엔AI, 소셜 분석 MCP 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217458",
-   "summary": "뉴엔AI(대표 배성환)는 자사의 소셜미디어 데이터 검색·분석 기능과 연동되는 '퀘타아이 MCP'를 출시했다고 16일 밝혔다.퀘타아이 MCP는 별도 API 개발 없이 챗GPT·클로드 등 생성형 AI에 뉴엔AI의 소셜미디어 분석 기능을 연동하고 자연어로 질문하면 AI가 적합한 분석 도구를 선택, 데이터를 조회·분석할 수 있다.SNS와 온라인 커뮤니티 등 실제 소비자 데이터 기반 분석 결과를 제공해 신뢰도 높은 답변을 도출할 수 있다는 설명이다.기업 고객을 위한 보안·편의 기능도 제공한다. 전 구간 암호화 통신과 ‘OAuth 2.1’ 기",
-   "publishedAt": 1794812186000,
+   "title": "배우 없이 만든 중국 첫 AI 영화, 흥행 참패…3주간 3.6억원",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217460",
+   "summary": "중국 최초의 AI 생성 장편 영화가 극장 흥행에 실패했다. 배우와 실사 촬영 없이 제작했다는 기술적 성과에도 불구하고 어색한 표정과 장면 간 시각적 불일치, 매끄럽지 못한 이야기 전개가 관객들의 외면을 받았다. AI 콘텐츠가 일상화된 중국에서도 극장 영화에는 여전히 인간의 창작과 감성을 기대한다는 분석이 나온다.사우스차이나모닝포스트(SCMP)는 15일(현지시간) 중국 최초의 AI 생성 극장용 장편 영화 '삼성퇴: 퓨처 패스트(Sanxingdui: Future Past)'가 개봉 후 3주 동안 약 180만위안(약 3억6000만원)의",
+   "publishedAt": 1794814598000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1044,24 +1031,66 @@
    "comments": 215,
    "publishedAt": 1794595244000,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.5,
    "hot": false,
    "lastWeekRank": 38
   },
   {
-   "title": "My AI agents found an unmapped Maya site?",
-   "url": "https://pietromiotti.com/latest/maya-site",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50452455",
+   "title": "AI 가수 '자니아 모네', 첫 AI 음악상 4관왕…'AI판 그래미' 시동",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217461",
+   "summary": "미국에서 AI 음악 창작자들을 위한 첫 시상식이 열려 빌보드 차트에 진입한 AI 가수 '자니아 모네(Xania Monet)'가 4관왕을 차지했다. 기존 음악계가 AI 음악의 저작권과 창작자 자격을 놓고 논쟁을 벌이는 가운데, AI 음악 제작자들이 독자적인 차트와 인증·시상 체계를 구축하며 새로운 음악 분야로 인정받기 위한 움직임에 나섰다.미국 첫 'AI 뮤직 어워즈(AIMA)'가 13일(현지시간) 로스앤젤레스 시내 마이언 극장에서 개최됐다. AI를 활용해 음악을 제작한 창작자들을 위한 행사로, 총 25개 부문에서 수상자를 선정했다.",
+   "publishedAt": 1794813373000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "Rust 1.100",
+   "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50472038",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1036,
-   "comments": 392,
-   "publishedAt": 1794398722000,
-   "isAI": true,
-   "score": 32.7,
+   "engagement": 901,
+   "comments": 323,
+   "publishedAt": 1794508745000,
+   "isAI": false,
+   "score": 32.4,
    "hot": false,
-   "lastWeekRank": 55
+   "lastWeekRank": 51
+  },
+  {
+   "title": "KAIST, 입모양 읽는 AI로 시각적 음성인식 향상 기술 개발",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217443",
+   "summary": "한국과학기술원(KAIST·총장 배충식)은 입술 움직임만으로 말을 문자로 바꾸는 시각적 음성 인식(VSR)의 정확도를 높이는 AI 기술을 개발했다고 16일 밝혔다.기존에는 입모양만으로 서로 다른 소리를 구별하기 어려웠고, AI는 첫 단어부터 순서대로 생성하는 자가회귀(AR) 방식이라 앞부분의 오류가 뒤 문장까지 이어지는 문제가 존재했다.노용만 교수 연구팀(전기및전자공학부)은 이러한 순차적 생성의 한계를 극복하기 위해 확산 대형언어모델(DLLM)을 시각적 음성 인식에 최초로 도입한 ‘DLLM-VSR’ 프레임워크를 제안했다.마스크 기반",
+   "publishedAt": 1794812241000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.4,
+   "hot": false
+  },
+  {
+   "title": "\"챗GPT에 SNS 데이터 연동\"...뉴엔AI, 소셜 분석 MCP 출시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217458",
+   "summary": "뉴엔AI(대표 배성환)는 자사의 소셜미디어 데이터 검색·분석 기능과 연동되는 '퀘타아이 MCP'를 출시했다고 16일 밝혔다.퀘타아이 MCP는 별도 API 개발 없이 챗GPT·클로드 등 생성형 AI에 뉴엔AI의 소셜미디어 분석 기능을 연동하고 자연어로 질문하면 AI가 적합한 분석 도구를 선택, 데이터를 조회·분석할 수 있다.SNS와 온라인 커뮤니티 등 실제 소비자 데이터 기반 분석 결과를 제공해 신뢰도 높은 답변을 도출할 수 있다는 설명이다.기업 고객을 위한 보안·편의 기능도 제공한다. 전 구간 암호화 통신과 ‘OAuth 2.1’ 기",
+   "publishedAt": 1794812186000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.4,
+   "hot": false
   },
   {
    "title": "네이버 카페에 AI 에이전트 도입...3개 카페서 베타 테스트 진행",
@@ -1074,7 +1103,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1088,7 +1117,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1102,38 +1131,9 @@
    "comments": 224,
    "publishedAt": 1794520989000,
    "isAI": false,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false,
    "lastWeekRank": 48
-  },
-  {
-   "title": "Rust 1.100",
-   "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50472038",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 901,
-   "comments": 323,
-   "publishedAt": 1794508745000,
-   "isAI": false,
-   "score": 32.5,
-   "hot": false,
-   "lastWeekRank": 51
-  },
-  {
-   "title": "백악관 \"AI 보안 사고 자진 신고하면 처벌 완화\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217450",
-   "summary": "백악관이 AI 관련 사이버 공격이나 보안 취약점을 선의로 자진 신고하는 기업에 대해 최소 1년간 규제상 책임을 제한하는 방안을 권고했다. AI의 공격 능력이 빠르게 발전하면서 기존 보안 기준을 준수한 기업도 피해를 볼 수 있는 만큼, 처벌 부담을 줄여 사고 정보 공유를 장려하겠다는 취지다.블룸버그에 따르면, 도널드 트럼프 대통령의 AI 태스크포스인 '초지능 부대(SIF)' 관계자들은 12일(현지시간) 백악관 회의에서 각 정부 기관에 사이버 사고에 대한 기존 규제 기준을 재검토하라고 권고했다.현행 기준이 AI 관련 보안 사고의 특성을",
-   "publishedAt": 1794809239000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
-   "hot": false
   },
   {
    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
@@ -1146,9 +1146,23 @@
    "comments": 40,
    "publishedAt": 1794665154000,
    "isAI": false,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false,
    "lastWeekRank": 35
+  },
+  {
+   "title": "백악관 \"AI 보안 사고 자진 신고하면 처벌 완화\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217450",
+   "summary": "백악관이 AI 관련 사이버 공격이나 보안 취약점을 선의로 자진 신고하는 기업에 대해 최소 1년간 규제상 책임을 제한하는 방안을 권고했다. AI의 공격 능력이 빠르게 발전하면서 기존 보안 기준을 준수한 기업도 피해를 볼 수 있는 만큼, 처벌 부담을 줄여 사고 정보 공유를 장려하겠다는 취지다.블룸버그에 따르면, 도널드 트럼프 대통령의 AI 태스크포스인 '초지능 부대(SIF)' 관계자들은 12일(현지시간) 백악관 회의에서 각 정부 기관에 사이버 사고에 대한 기존 규제 기준을 재검토하라고 권고했다.현행 기준이 AI 관련 보안 사고의 특성을",
+   "publishedAt": 1794809239000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.1,
+   "hot": false
   },
   {
    "title": "웹케시, 하나은행 '통합CMS AI 분석 시범사업' 수행",
@@ -1161,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32,
    "hot": false
   },
   {
@@ -1175,7 +1189,7 @@
    "comments": 709,
    "publishedAt": 1794432275000,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false,
    "lastWeekRank": 58
   },
@@ -1190,7 +1204,7 @@
    "comments": 179,
    "publishedAt": 1794565209000,
    "isAI": true,
-   "score": 32,
+   "score": 31.8,
    "hot": false,
    "lastWeekRank": 47
   },
@@ -1205,7 +1219,7 @@
    "comments": 68,
    "publishedAt": 1794672014000,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false,
    "lastWeekRank": 42
   },
@@ -1220,21 +1234,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "LGU+, 클라우드 기반 보안 플랫폼 'U+SASE' 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217439",
-   "summary": "LG유플러스(대표 홍범식)는 기업 네트워크와 보안을 통합한 클라우드 기반 보안 플랫폼 'U+SASE'를 출시했다고 16일 밝혔다.U+SASE는 본사·지사·데이터센터·클라우드·재택근무 등 다양한 업무 공간의 네트워크 연결과 보안 기능을 하나의 플랫폼에서 관리하는 서비스다.최근 서비스형 소프트웨어(SaaS) 확산과 원격근무·생성형 AI 활용 증가에 따른 기업 내부 데이터 노출 위험과 기존 사내 네트워크 중심 보안 체계의 한계를 극복한다는 설명이다.주요 기능은 ▲유해 웹사이트 접속을 막는 보안 웹 게이트웨이(SWG) ▲클라우드 기반 방화",
-   "publishedAt": 1794800226000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1248,9 +1248,23 @@
    "comments": 70,
    "publishedAt": 1794665365000,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 44
+  },
+  {
+   "title": "LGU+, 클라우드 기반 보안 플랫폼 'U+SASE' 출시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217439",
+   "summary": "LG유플러스(대표 홍범식)는 기업 네트워크와 보안을 통합한 클라우드 기반 보안 플랫폼 'U+SASE'를 출시했다고 16일 밝혔다.U+SASE는 본사·지사·데이터센터·클라우드·재택근무 등 다양한 업무 공간의 네트워크 연결과 보안 기능을 하나의 플랫폼에서 관리하는 서비스다.최근 서비스형 소프트웨어(SaaS) 확산과 원격근무·생성형 AI 활용 증가에 따른 기업 내부 데이터 노출 위험과 기존 사내 네트워크 중심 보안 체계의 한계를 극복한다는 설명이다.주요 기능은 ▲유해 웹사이트 접속을 막는 보안 웹 게이트웨이(SWG) ▲클라우드 기반 방화",
+   "publishedAt": 1794800226000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.3,
+   "hot": false
   },
   {
    "title": "Claude Meetings",
@@ -1263,7 +1277,7 @@
    "comments": 88,
    "publishedAt": 1794609555000,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false,
    "lastWeekRank": 50
   },
@@ -1278,9 +1292,39 @@
    "comments": 257,
    "publishedAt": 1794502962000,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false,
    "lastWeekRank": 57
+  },
+  {
+   "title": "Nvidia is preparing to oust Jensen Huang",
+   "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50459703",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1226,
+   "comments": 1649,
+   "publishedAt": 1794436266000,
+   "isAI": false,
+   "score": 31,
+   "hot": false,
+   "lastWeekRank": 60
+  },
+  {
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "url": "https://openai.com/business/customer-stories/shield",
+   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+   "publishedAt": 1794556800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 31,
+   "hot": false,
+   "lastWeekRank": 54
   },
   {
    "title": "미국·한국 등 9개국, 중국 견제 AI 공급망 보호 공동 선언",
@@ -1293,7 +1337,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.4,
+   "score": 31,
    "hot": false
   },
   {
@@ -1307,7 +1351,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
+   "score": 31,
    "hot": false
   },
   {
@@ -1321,7 +1365,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
+   "score": 31,
    "hot": false
   },
   {
@@ -1335,7 +1379,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
+   "score": 31,
    "hot": false
   },
   {
@@ -1349,24 +1393,9 @@
    "comments": 56,
    "publishedAt": 1794622896000,
    "isAI": false,
-   "score": 31.2,
+   "score": 30.9,
    "hot": false,
    "lastWeekRank": 49
-  },
-  {
-   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-   "url": "https://openai.com/business/customer-stories/shield",
-   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-   "publishedAt": 1794556800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 31.2,
-   "hot": false,
-   "lastWeekRank": 54
   },
   {
    "title": "Microsoft Outlook/365 still down after 12 hours",
@@ -1379,24 +1408,9 @@
    "comments": 311,
    "publishedAt": 1794546503000,
    "isAI": false,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false,
    "lastWeekRank": 56
-  },
-  {
-   "title": "Nvidia is preparing to oust Jensen Huang",
-   "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50459703",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1226,
-   "comments": 1649,
-   "publishedAt": 1794436266000,
-   "isAI": false,
-   "score": 31.1,
-   "hot": false,
-   "lastWeekRank": 60
   },
   {
    "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
@@ -1405,11 +1419,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 426,
-   "comments": 209,
+   "engagement": 428,
+   "comments": 211,
    "publishedAt": 1794461364000,
    "isAI": true,
-   "score": 31,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1423,23 +1437,9 @@
    "comments": 161,
    "publishedAt": 1794421962000,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.8,
    "hot": false,
    "lastWeekRank": 62
-  },
-  {
-   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-   "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-   "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by he",
-   "publishedAt": 1794792416000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.9,
-   "hot": false
   }
  ]
 }
