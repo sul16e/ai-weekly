@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794849356647,
+ "updatedAt": 1794853002898,
  "week": "2026-W47",
  "items": [
   {
@@ -9,25 +9,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1214,
-   "comments": 647,
+   "engagement": 1228,
+   "comments": 648,
    "publishedAt": 1794754018000,
    "isAI": true,
-   "score": 58.3,
+   "score": 57.8,
    "hot": false
   },
   {
-   "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+   "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
    "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
    "commentsUrl": "https://news.ycombinator.com/item?id=50517488",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 410,
-   "comments": 228,
+   "engagement": 536,
+   "comments": 331,
    "publishedAt": 1794836347000,
    "isAI": false,
-   "score": 55.3,
+   "score": 57.2,
+   "hot": true
+  },
+  {
+   "title": "Broadening access to AI for scientists",
+   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+   "publishedAt": 1794848400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 57.2,
    "hot": true
   },
   {
@@ -41,7 +55,49 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 53.1,
+   "score": 52.6,
+   "hot": true
+  },
+  {
+   "title": "Our first phase of embedded assessments",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+   "publishedAt": 1794816000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 52.1,
+   "hot": true
+  },
+  {
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "url": "https://openai.com/index/strengthening-online-child-safety",
+   "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+   "publishedAt": 1794848400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": false,
+   "score": 49.3,
+   "hot": true
+  },
+  {
+   "title": "“…그리고 이 증명은 Lean으로 검증됐습니다”",
+   "url": "https://news.hada.io/topic?id=37290&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "AI가 생성한 Lean 코드 를 근거로 정리가 옳다고 판단하려면, 명제의 일치 여부, 실제 컴파일, 증명의 대상과 공리, 커널 버그 악용 여부를 확인해야 함 정리의 명제와 증명은 별개 이며, Lean 코드가 논문의 핵심 정리를 기술하는지부터 확인해야 함. OpenAI가 공개한 Lean 코드 포함 정리 290개 중 약 38개는 논문의 핵심 정리 자체를 기술하지 않음 lake comparator 는 신뢰할 수 있는 파일의 명제와 비신뢰 코드를 가져와 증명한 명제가 동일한지, 증명이 수학의 공리만 사용하는지 검사함 lake compara",
+   "publishedAt": 1794844164000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -51,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 607,
-   "comments": 263,
+   "engagement": 609,
+   "comments": 267,
    "publishedAt": 1794767770000,
    "isAI": false,
-   "score": 48.7,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -69,7 +125,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.1,
    "hot": false
   },
   {
@@ -79,11 +135,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 407,
-   "comments": 513,
+   "engagement": 420,
+   "comments": 533,
    "publishedAt": 1794786955000,
    "isAI": false,
-   "score": 48.1,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -97,7 +153,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.2,
    "hot": false
   },
   {
@@ -111,8 +167,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.2,
    "hot": false
+  },
+  {
+   "title": "Science at the Frontier: How scientists use ChatGPT",
+   "url": "https://openai.com/index/science-at-the-frontier",
+   "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+   "publishedAt": 1794830400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": false,
+   "score": 46.8,
+   "hot": true
   },
   {
    "title": "Show GN: MaaC – 악보를 코드로 쓰고 AI가 편곡까지 하게 만든 음악 언어와 Rust CLI",
@@ -125,8 +195,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.7,
    "hot": true
+  },
+  {
+   "title": "Nvidia was in trouble before the Jensen Huang mess",
+   "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50518567",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 142,
+   "comments": 128,
+   "publishedAt": 1794842649000,
+   "isAI": false,
+   "score": 46,
+   "hot": false
   },
   {
    "title": "거의 무엇이든 만드는 방법",
@@ -139,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -149,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 525,
-   "comments": 248,
+   "engagement": 529,
+   "comments": 250,
    "publishedAt": 1794742851000,
    "isAI": false,
-   "score": 44.7,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -167,8 +251,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 44.4,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "More ways to move care forward with ChatGPT for Healthcare",
@@ -181,8 +265,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 44.4,
-   "hot": true
+   "score": 44,
+   "hot": false
   },
   {
    "title": "Show GN: 스택큐브 – 거래처가 카톡·메일·엑셀로 보내는 주문을 한 목록으로 모아 정리하는 도구",
@@ -195,7 +279,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.6,
    "hot": false
   },
   {
@@ -209,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -219,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1106,
-   "comments": 650,
+   "engagement": 1108,
+   "comments": 649,
    "publishedAt": 1794624779000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -238,22 +322,8 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 43.5,
+   "score": 43,
    "hot": true
-  },
-  {
-   "title": "Qwen4-Max - 네이티브 비전과 100만 토큰 컨텍스트를 갖춘 장기 작업용 AI 모델",
-   "url": "https://news.hada.io/topic?id=37262&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Alibaba가 이미지와 영상을 직접 처리하고 100만 토큰 컨텍스트 를 지원하는 Qwen4-Max 를 공개함 2.4조 파라미터 백본의 새 Qwen4 아키텍처를 기반으로, 네이티브 비전과 100만 토큰 컨텍스트를 결합해 전문 도구 사용과 장시간 작업 수행을 지원 자체 Work360 평가에서 Qwen3.8-Max 대비 점수가 47.74에서 52.69 로 올랐음. 토큰 사용량과 API 요금이 줄면서 작업당 평균 비용은 4.43달러에서 1.67달러로 62% 감소 Live Delivery 는 장기 작업에서 사용 가능한 첫 결과물을 일찍 제",
-   "publishedAt": 1794801460000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 43.5,
-   "hot": false
   },
   {
    "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
@@ -262,11 +332,95 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 153,
-   "comments": 71,
+   "engagement": 160,
+   "comments": 74,
    "publishedAt": 1794804786000,
    "isAI": false,
-   "score": 42.3,
+   "score": 42.2,
+   "hot": true
+  },
+  {
+   "title": "Tell HN: 사기 목적으로 HN에서 이메일 주소가 수집되고 있음",
+   "url": "https://news.hada.io/topic?id=37295&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Who's for Hire 월간 게시물 등에 공개한 개인 이메일은 악의적인 방문자나 봇/에이전트도 수집할 수 있음 사이트마다 고유한 이메일 주소를 사용한 덕분에 HN 전용 주소 로 온 AWS 요금 연체 이메일 이 가짜임을 즉시 알아챈 경험이 있음 마찬가지로 페이지를 비공개로 설정할 수 있다는 소셜 미디어 사이트에 사용한 주소에서도 스팸을 받은 경험이 있음 예상치 못했거나 의심스러운 이메일은 열기 전에 발신자 이름에 마우스를 올려 발신 도메인 을 확인하고, 이상하면 열지 않도록 권함 이미 열었다면 링크를 클릭하기 전에 마우스를 올려 ",
+   "publishedAt": 1794847026000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.3,
+   "hot": true
+  },
+  {
+   "title": "내부고발자, 6명 숨진 이란의 미군 기지 공격과 관련해 미 국방부 책임 제기",
+   "url": "https://news.hada.io/topic?id=37294&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "쿠웨이트에서 이란의 드론 공격으로 부상한 육군 소령 Stephen Ramsbottom 이 병력 보호 부족에 대한 우려를 국방부가 외면했다며 의회에 내부고발 신고서 를 제출함 3월 1일 Shuaiba 항구의 임시 작전센터가 공격받아 육군 예비군 6명이 사망 하고 수십 명이 부상했으며, 현장 관계자에 따르면 시설에는 드론이나 미사일을 막을 방호 수단이 없었음 Ramsbottom은 상관들에게 공중 공격 방호 부족 을 여러 차례 알렸지만 걱정할 필요가 없다는 답을 받았으며, 이후 추진하기로 한 드론 대응 체계도 도착하지 않았다고 밝힘 신고",
+   "publishedAt": 1794846846000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
+  },
+  {
+   "title": "커피하우스와 과학의 부상 [pdf]",
+   "url": "https://news.hada.io/topic?id=37293&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "17세기 런던에서 교구 내 첫 커피하우스 가 문을 연 뒤 응용과학자와 과학기구 상점이 지속적으로 늘어남 증가는 옥스퍼드와 케임브리지에 대한 가문 연계가 약한 실무자 에게 집중됐으며, 기구 제작자의 기술과 이론가의 지식을 잇는 사회적 연결도 늘어남 커피하우스 개점 교구에서 수학 실무자는 개점 전 평균 0.62명에서 개점 시기와 이후 관측 기간 평균 1.30명으로, 과학기구 상점 은 0.33곳에서 1.57곳으로 증가함 유럽 도시에서도 첫 커피하우스 개점 뒤 응용수학 서적과 과학기구 제작자가 늘었지만, 이 도시 간 비교는 인과효과가 …",
+   "publishedAt": 1794844704000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41,
+   "hot": true
+  },
+  {
+   "title": "먹통 노트북을 되살리는 ThinkPad의 비밀 전원 버튼 코드 (2007)",
+   "url": "https://news.hada.io/topic?id=37292&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "전원 버튼과 충전 연결에 전혀 반응하지 않던 Lenovo ThinkPad z61t 가 IBM 지원 담당자의 전원 버튼 조작 안내를 따른 뒤 정상 작동함 당시 노트북은 절전 상태였는데도 매우 뜨거웠고 , 절전 표시등과 배터리 표시등 모두 꺼져 있었으며 배터리를 뺐다 끼워도 반응이 없었음 복구 절차는 AC 어댑터와 배터리를 분리 한 뒤 전원 버튼을 1초 간격으로 10번 누르고, 이어서 30초 동안 길게 누르는 방식임 이후 배터리를 다시 장착하고 전원 버튼을 누르자 노트북이 이전처럼 정상적으로 켜짐 지원 담당자는 이를 정전기 방전(sta",
+   "publishedAt": 1794844524000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.9,
+   "hot": true
+  },
+  {
+   "title": "Amazon의 할인 착시: ‘특가’ 약 3개 중 1개는 절약 효과 없고, 약 10개 중 1개는 더 비싸",
+   "url": "https://news.hada.io/topic?id=37291&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Groundwork Collaborative가 2024~2025년 Amazon의 Black Friday와 Cyber Monday 특가 상품 350개 이상 을 분석한 결과, 약 3분의 1은 행사 전 한 달 동안 같거나 더 낮은 가격에 구매할 수 있었음 조사 대상 특가 상품의 약 10분의 1은 행사 때 오히려 더 비쌌으며 , 이들 상품의 행사 가격은 이전 수 주간 구매 가능했던 가격보다 중앙값 기준 19% 높았음 2025년 행사에서 Hunter 레인부츠는 행사 시작 9일 전보다 59% , UGG Butte 부츠는 약 4주 전보다 83%",
+   "publishedAt": 1794844344000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.9,
+   "hot": true
+  },
+  {
+   "title": "도대체 w2rt6byl5nf1opmc-a.com은 뭐 하는 도메인인가?",
+   "url": "https://news.hada.io/topic?id=37289&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "DNS 조회조차 되지 않는 도메인 이 Majestic Million에서 Google, Facebook, Apple 등에 이어 8위에 올라 있음 순위 기준은 방문자 수가 아니라 링크를 보내는 서로 다른 서브넷 수 이며, 이 도메인은 상위 100개 중 가장 빠르게 성장하고 있음 Majestic은 약 2억 4,100만 개의 백링크 를 집계했지만, Ahrefs에서 확인되는 백링크는 53개뿐으로 두 서비스의 수치가 크게 엇갈림 등록 이전의 백링크 , 실제 접속 불가 상태와 맞지 않는 크롤링 기록, 백링크 총계와 불일치하는 앵커 텍스트 집계 ",
+   "publishedAt": 1794843984000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -277,10 +431,52 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 173,
-   "comments": 173,
+   "comments": 174,
    "publishedAt": 1794785093000,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
+   "hot": true
+  },
+  {
+   "title": "Show GN: Pdfable - 브라우저에서 PDF의 기존 텍스트를 직접 편집하는 도구",
+   "url": "https://news.hada.io/topic?id=37288&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "안녕하세요. PDF를 브라우저에서 직접 편집할 수 있는 도구인 Pdfable을 만들고 운영하고 있습니다. Pdfable은 PDF 문서에 이미 들어 있는 텍스트를 직접 수정하고, 편집한 결과를 다시 PDF로 내보낼 수 있는 온라인 PDF 편집기입니다. PDF에서 몇 글자만 수정하면 되는 경우에도 기존에는 문서를 Word로 변환한 뒤 수정하고 다시 PDF로 저장하는 경우가 많았습니다. 이 과정에서 글꼴이나 줄바꿈, 페이지 레이아웃이 달라지기도 합니다. 일부 온라인 PDF 편집기도 기존 내용을 수정하기보다는 새로운 텍스트 상자를 위에 추",
+   "publishedAt": 1794837266000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.1,
+   "hot": true
+  },
+  {
+   "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+   "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+   "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+   "publishedAt": 1794852670000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 40,
+   "hot": false
+  },
+  {
+   "title": "Debian, 6.1.0-55 커널 업데이트 후 무응답 발생",
+   "url": "https://news.hada.io/topic?id=37287&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Debian 커널 패키지 6.1.192-1 업데이트 후 서버와 가상 머신이 응답하지 않는 문제가 신고됐으며, 로그에서 EXT4의 NULL 포인터 역참조가 확인됨 최초 신고 서버는 재부팅 몇 분 뒤 IMAP, SMTP, HTTP, SSH 요청에 응답하지 않았고, 이후 로컬 인터페이스도 멈춤 amd64, arm64, i686 환경에서 유사한 충돌이 보고됐으며, KVM 게스트 5대에서는 부팅 후 25초부터 약 5시간 사이에 발생함 여러 신고 환경에서 이전 커널 6.1.0-54 (6.1.190-1) 는 안정적으로 동작했으며, EXT4 캐시",
+   "publishedAt": 1794836090000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -290,11 +486,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 229,
-   "comments": 133,
+   "engagement": 230,
+   "comments": 135,
    "publishedAt": 1794756081000,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.8,
+   "hot": false
+  },
+  {
+   "title": "Show GN: redfirst, PR이 추가한 테스트가 수정 전에도 통과하는지 확인하는 도구",
+   "url": "https://news.hada.io/topic?id=37286&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "코딩 에이전트가 버그를 고치는 PR에는 보통 테스트가 같이 붙어 옵니다. 그 테스트가 정말 그 수정을 검사하는지 궁금해서, 에이전트가 연 버그 수정 PR 120건을 다시 돌려 봤습니다. 별 100개가 넘는 파이썬 저장소에서 병합된 PR이고, 저장소마다 한 건씩 골랐습니다. 방법은 단순합니다. PR이 바꾼 테스트 파일은 그대로 두고 나머지 파일을 PR 전으로 되돌린 다음, PR이 추가하거나 고친 테스트만 다시 돌립니다. 수정을 되돌렸는데도 새 테스트가 모두 통과한다면 그 테스트는 수정을 검사하지 않는 겁니다. 남의 코드라서 격리된 컨",
+   "publishedAt": 1794834660000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.8,
+   "hot": true
+  },
+  {
+   "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+   "publishedAt": 1794850603000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -308,7 +532,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 40,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -322,7 +546,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -336,7 +560,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -346,11 +570,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 165,
+   "engagement": 166,
    "comments": 120,
    "publishedAt": 1794775048000,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -364,21 +588,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.4,
-   "hot": false
-  },
-  {
-   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-   "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-   "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-   "publishedAt": 1794841354000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 39.1,
+   "score": 39,
    "hot": false
   },
   {
@@ -392,9 +602,38 @@
    "comments": 238,
    "publishedAt": 1794695190000,
    "isAI": false,
-   "score": 39,
+   "score": 38.7,
    "hot": false,
    "lastWeekRank": 3
+  },
+  {
+   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50497589",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 274,
+   "comments": 30,
+   "publishedAt": 1794668655000,
+   "isAI": true,
+   "score": 38.7,
+   "hot": false,
+   "lastWeekRank": 5
+  },
+  {
+   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+   "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+   "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+   "publishedAt": 1794841354000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 38.6,
+   "hot": false
   },
   {
    "title": "Linux 7.4-rc3",
@@ -407,23 +646,23 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
-   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50497589",
+   "title": "Tech companies are trying to shift the concept of privacy again",
+   "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50496602",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 273,
-   "comments": 30,
-   "publishedAt": 1794668655000,
-   "isAI": true,
-   "score": 38.9,
+   "engagement": 604,
+   "comments": 219,
+   "publishedAt": 1794660345000,
+   "isAI": false,
+   "score": 37.7,
    "hot": false,
-   "lastWeekRank": 5
+   "lastWeekRank": 7
   },
   {
    "title": "Show GN: 별부자 - 칭찬과 별을 주고받는 곳",
@@ -436,23 +675,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
-  },
-  {
-   "title": "Tech companies are trying to shift the concept of privacy again",
-   "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50496602",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 603,
-   "comments": 219,
-   "publishedAt": 1794660345000,
-   "isAI": false,
-   "score": 38,
-   "hot": false,
-   "lastWeekRank": 7
   },
   {
    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
@@ -465,7 +689,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -479,7 +703,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.5,
    "hot": true
   },
   {
@@ -489,11 +713,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 456,
+   "engagement": 457,
    "comments": 219,
    "publishedAt": 1794678319000,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false,
    "lastWeekRank": 8
   },
@@ -508,7 +732,7 @@
    "comments": 128,
    "publishedAt": 1794771071000,
    "isAI": false,
-   "score": 37.3,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -522,8 +746,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "Salon 저널리즘 30년의 기록 보존하기",
@@ -536,8 +760,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.8,
+   "hot": false
   },
   {
    "title": "How did Woz write the Apple 1 BASIC before building the computer? (2021)",
@@ -550,7 +774,7 @@
    "comments": 176,
    "publishedAt": 1794694969000,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -564,91 +788,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "버튼에 cursor: pointer 적용하기",
-   "url": "https://news.hada.io/topic?id=37264&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "CSSWG 가 appearance: base-… 를 사용하는 버튼과 여러 폼 요소에 cursor: pointer 를 적용하는 커서 규칙을 채택하기로 합의함 이번 결정은 브라우저의 기존 기본 스타일을 바꾸는 것이 아님 . 새 규칙은 기본 외형을 지정하는 appearance: base-… 요소에 적용됨 해당 사용자 에이전트 스타일에는 !important 가 없으므로 , 개발자가 스타일시트에서 default 나 다른 커서로 덮어쓸 수 있음 합의된 구분은 포인터는 클릭 , 텍스트 커서는 텍스트 입력 준비, 움켜쥔 손 모양은 드래그를 알리는",
-   "publishedAt": 1794802173000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.6,
-   "hot": false
-  },
-  {
-   "title": "Jiff - 시간대 처리를 중심에 둔 Rust 날짜와 시간 라이브러리",
-   "url": "https://news.hada.io/topic?id=37263&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Jiff 1.0 은 시간대를 API의 중심에 두어 일광절약시간제와 관련된 흔한 문제를 자동 처리하는 Rust 날짜와 시간 라이브러리임 장기 API 안정성 을 목표로 하며, 중대한 API 결함이 발견되지 않는 한 1.0을 무기한 유지할 계획임 현지 날짜와 시간, 특정 시점, 시간대 를 별도 타입으로 모델링하고 결합하며, 시간대 전환으로 시각이 반복되거나 사라지는 상황도 기본 정책과 명시적 선택 API로 처리함 Span 은 달력 단위와 물리적 시간 단위를 함께 보존하며, 하루를 언제나 24시간으로 간주하지 않고 날짜 연산과 반올림에 시",
-   "publishedAt": 1794801993000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.6,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Agweb - 작업을 방해하지 않는 에이전트용 브라우저",
-   "url": "https://news.hada.io/topic?id=37261&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Agweb 은 macOS에서 여러 코딩 에이전트가 셸 명령으로 조작하는 WebKit 기반 브라우저로, 키보드 포커스를 빼앗지 않는 하나의 창에서 작업 상황을 실시간으로 볼 수 있음 에이전트마다 독립된 작업 공간과 탭 을 사용하며, 같은 이름의 프로필을 쓰는 에이전트들은 로그인 상태를 동시에 공유함 요소 참조를 유지 하고 동작 응답에 변경 사항을 포함해 매 단계마다 스냅샷을 다시 받을 필요를 줄이며, 동작이 유발한 네트워크 요청도 기다림 유휴 탭은 실행을 제한한 뒤 일시 중단함. 개발자 Mac에서 유휴 페이지 5개를 열었을 때 CPU",
-   "publishedAt": 1794801280000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.6,
-   "hot": false
-  },
-  {
-   "title": "미국 하원의원의 주식 거래는 시장을 이길까? 8,900건의 거래 검증",
-   "url": "https://news.hada.io/topic?id=37260&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "하원의원 99명의 주식 매수/매도 8,941건 을 분석해, 공시 직후 거래를 따라 했을 때와 의원의 실제 거래일부터 측정했을 때의 수익률을 시장 지수와 비교함 공시일부터 6개월간 매수 종목의 동일가중 S&P 500 대비 초과수익률 중앙값은 −2.4% 였으며, 90% 구간은 −3.9%~+0.1%였음 같은 기준으로 매도 종목의 초과수익률 중앙값은 −1.7% 로, 매수한 종목이 매도한 종목보다 좋은 성과를 내지 못함 의원의 실제 거래일부터 측정해도 매수 종목의 초과수익률 중앙값은 −1.5% 였으며, 정당, 거래 규모, 계좌, 공시 지연별",
-   "publishedAt": 1794801100000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "clice v1.0 출시: 모던 C++ 언어 서버",
-   "url": "https://news.hada.io/topic?id=37259&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "LLVM/Clang 기반 C/C++ 언어 서버 clice가 첫 안정 버전 v1.0을 출시 함. 약 4개월의 알파 테스트와 실제 오픈소스 프로젝트 검증을 거쳤으며, C++23으로 구현하고 자체 코드베이스에서도 동작함 멀티프로세스 컴파일 로 컴파일러 충돌을 작업 프로세스 안에 격리함. 작업 프로세스 하나가 종료돼도 정의 이동과 강조 표시 등 나머지 언어 서버 기능은 계속 동작함 C++20 명명된 모듈 을 지원하고 PCH/PCM을 디스크에 캐시해 세션 간 재사용함. 모든 모듈 파일을 담은 compile_commands.json 이 있으면",
-   "publishedAt": 1794800920000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "Odin으로 작성한 NES 에뮬레이터",
-   "url": "https://news.hada.io/topic?id=37258&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "lucyNES 는 Battletoads와 수백 개 게임을 정상 실행할 수준의 정확도를 갖춘 NES 에뮬레이터로, Odin으로 개발됨 디버거와 메뉴 화면, 상태 저장 , 컨트롤러 지원, CRT 셰이더 전환 기능을 갖췄으며 사운드는 부분적으로 구현됨 개발에는 약 7개월 이 걸렸으며, 초기 구동보다 마지막 정확도를 높이는 작업이 어려웠음. 특히 병렬로 동작하는 CPU와 PPU의 통신 타이밍 을 정밀하게 재현해야 함 매퍼 7종 을 지원하지만 일부 구현이 불완전해 실행되지 않는 게임이 있음. 사운드도 대부분의 게임에서 개선이 필요하며 DMC",
-   "publishedAt": 1794800740000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.5,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -658,11 +798,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 441,
+   "engagement": 442,
    "comments": 111,
    "publishedAt": 1794591010000,
    "isAI": true,
-   "score": 36.2,
+   "score": 36,
    "hot": false,
    "lastWeekRank": 17
   },
@@ -674,54 +814,12 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 489,
-   "comments": 729,
+   "comments": 731,
    "publishedAt": 1794582524000,
    "isAI": true,
-   "score": 36.2,
+   "score": 36,
    "hot": false,
    "lastWeekRank": 19
-  },
-  {
-   "title": "젠슨 황, Nvidia CEO 복귀를 위해 실리콘밸리 측근들과 논의 중",
-   "url": "https://news.hada.io/topic?id=37254&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Jensen Huang 이 중국 스파이 의혹을 받는 여성 및 부하 직원과의 관계 보도 이후 Nvidia CEO에서 사임한 지 며칠 만에 복귀를 검토 중이며, 실리콘밸리 측근들이 이사회에 복직을 압박하고 있음 Nvidia 이사회가 Huang의 행위에 대한 독립 조사 를 진행하는 가운데, 측근들은 실리콘밸리 경영진으로 구성된 대응 조직인 '워룸(war room)'을 꾸리고 백악관의 지지까지 확보하려 하고 있음 Elon Musk와 Tim Sweeney 등이 CEO 복귀를 요구하는 공개서한에 동참했으며, 일부 Nvidia 직원들도 서명했지",
-   "publishedAt": 1794796633000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "Vulcan 로켓, 비행 재개 발사 실패로 Amazon 위성 40기 손실",
-   "url": "https://news.hada.io/topic?id=37253&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "ULA의 Vulcan Centaur 가 11월 15일 발사 후 약 10분 만에 이상을 일으켜 Amazon 인터넷 위성 40기 를 궤도에 투입하지 못함 이번 발사는 기존 고체 로켓 부스터(SRB) 문제를 개선한 뒤 9개월 만에 재개한 비행이었음 과거 두 차례 비행에서는 부스터 노즐이 타서 떨어져 나갔지만 탑재체의 궤도 투입에는 성공했으며, 이후 미 우주군은 Vulcan의 국가안보 임무 발사를 중단함 이번에는 부스터가 정상 작동한 것으로 보였으나 다른 문제가 발생 했으며, ULA는 초기 발표 시점에 원인을 파악할 구체적인 데이터가 없다",
-   "publishedAt": 1794796453000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "Show GN: Landlink - 인터넷 없이 통신하는 오픈소스 프로젝트",
-   "url": "https://news.hada.io/topic?id=37252&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Landlink는 통신망이 없는 곳에서도 휴대폰끼리 LoRa로 메시지를 주고받게 해주는 오프그리드 통신 프로젝트입니다. ESP32 기반 LoRa 보드에 펌웨어를 올리고 휴대폰 앱과 BLE로 연결하면 손안의 작은 기지국처럼 동작합니다. 지난 6월 처음 소개드린 이후 펌웨어 v0.4.0까지 나오면서 Meshtastic 상시 호환과 Wi-Fi 메시를 통한 사진, 영상 전송이 추가되었습니다. 어디에 쓰나요 재난, 등산, 캠핑, 오지처럼 휴대폰 신호가 없거나 통신망이 끊긴 환경에서 문자와 위치 공유 통신사 인프라나 요금제 없이 운영하는 그룹",
-   "publishedAt": 1794796398000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.1,
-   "hot": false
   },
   {
    "title": "Italy fines Meta $887M over Android users' data access",
@@ -734,7 +832,7 @@
    "comments": 307,
    "publishedAt": 1794664086000,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 13
   },
@@ -749,7 +847,7 @@
    "comments": 40,
    "publishedAt": 1794767800000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -763,7 +861,7 @@
    "comments": 392,
    "publishedAt": 1794565093000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false,
    "lastWeekRank": 22
   },
@@ -778,7 +876,7 @@
    "comments": 201,
    "publishedAt": 1794663377000,
    "isAI": true,
-   "score": 35,
+   "score": 34.8,
    "hot": false,
    "lastWeekRank": 16
   },
@@ -793,7 +891,7 @@
    "comments": 920,
    "publishedAt": 1794484001000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false,
    "lastWeekRank": 29
   },
@@ -808,7 +906,7 @@
    "comments": 132,
    "publishedAt": 1794670852000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false,
    "lastWeekRank": 21
   },
@@ -823,7 +921,7 @@
    "comments": 239,
    "publishedAt": 1794568426000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
    "hot": false,
    "lastWeekRank": 25
   },
@@ -838,21 +936,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-   "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-   "publishedAt": 1794785400000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -866,7 +950,7 @@
    "comments": 133,
    "publishedAt": 1794599516000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false,
    "lastWeekRank": 28
   },
@@ -881,50 +965,22 @@
    "comments": 353,
    "publishedAt": 1794506508000,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false,
    "lastWeekRank": 34
   },
   {
-   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-   "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-   "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-   "publishedAt": 1794779795000,
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+   "publishedAt": 1794785400000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-   "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-   "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more informat",
-   "publishedAt": 1794837600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "Google Maps can now create trip itineraries for you",
-   "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-   "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spannin",
-   "publishedAt": 1794837600000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
+   "score": 33,
    "hot": false
   },
   {
@@ -938,24 +994,9 @@
    "comments": 165,
    "publishedAt": 1794509521000,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.6,
    "hot": false,
    "lastWeekRank": 37
-  },
-  {
-   "title": "Service degradation on Microsoft 365",
-   "url": "https://status.cloud.microsoft/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50471731",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1173,
-   "comments": 996,
-   "publishedAt": 1794507648000,
-   "isAI": false,
-   "score": 32.7,
-   "hot": false,
-   "lastWeekRank": 40
   },
   {
    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
@@ -968,9 +1009,66 @@
    "comments": 193,
    "publishedAt": 1794520571000,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.5,
    "hot": false,
    "lastWeekRank": 43
+  },
+  {
+   "title": "Service degradation on Microsoft 365",
+   "url": "https://status.cloud.microsoft/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50471731",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1173,
+   "comments": 996,
+   "publishedAt": 1794507648000,
+   "isAI": false,
+   "score": 32.5,
+   "hot": false,
+   "lastWeekRank": 40
+  },
+  {
+   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+   "publishedAt": 1794779795000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+   "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+   "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more informat",
+   "publishedAt": 1794837600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "Google Maps can now create trip itineraries for you",
+   "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+   "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spannin",
+   "publishedAt": 1794837600000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.5,
+   "hot": false
   },
   {
    "title": "The Nvidia scandal isn’t slowing down",
@@ -983,7 +1081,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -994,10 +1092,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 818,
-   "comments": 693,
+   "comments": 692,
    "publishedAt": 1794536184000,
    "isAI": false,
-   "score": 32.2,
+   "score": 32,
    "hot": false,
    "lastWeekRank": 41
   },
@@ -1012,7 +1110,7 @@
    "comments": 392,
    "publishedAt": 1794398722000,
    "isAI": true,
-   "score": 32,
+   "score": 31.9,
    "hot": false,
    "lastWeekRank": 55
   },
@@ -1023,11 +1121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 176,
+   "engagement": 177,
    "comments": 110,
    "publishedAt": 1794678500000,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false,
    "lastWeekRank": 27
   },
@@ -1042,7 +1140,7 @@
    "comments": 105,
    "publishedAt": 1794524777000,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.6,
    "hot": false,
    "lastWeekRank": 45
   },
@@ -1057,7 +1155,7 @@
    "comments": 73,
    "publishedAt": 1794592523000,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false,
    "lastWeekRank": 36
   },
@@ -1072,9 +1170,24 @@
    "comments": 196,
    "publishedAt": 1794583750000,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false,
    "lastWeekRank": 39
+  },
+  {
+   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+   "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50474959",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 798,
+   "comments": 224,
+   "publishedAt": 1794520989000,
+   "isAI": false,
+   "score": 31.3,
+   "hot": false,
+   "lastWeekRank": 48
   },
   {
    "title": "Rust 1.100",
@@ -1087,24 +1200,9 @@
    "comments": 323,
    "publishedAt": 1794508745000,
    "isAI": false,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 51
-  },
-  {
-   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-   "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50474959",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 797,
-   "comments": 224,
-   "publishedAt": 1794520989000,
-   "isAI": false,
-   "score": 31.4,
-   "hot": false,
-   "lastWeekRank": 48
   },
   {
    "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
@@ -1117,7 +1215,7 @@
    "comments": 215,
    "publishedAt": 1794595244000,
    "isAI": false,
-   "score": 31.3,
+   "score": 31.1,
    "hot": false,
    "lastWeekRank": 38
   },
@@ -1132,7 +1230,7 @@
    "comments": 710,
    "publishedAt": 1794432275000,
    "isAI": true,
-   "score": 31.3,
+   "score": 31.1,
    "hot": false,
    "lastWeekRank": 58
   },
@@ -1147,21 +1245,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-   "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-   "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-   "publishedAt": 1794840493000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
-   "score": 31.2,
+   "score": 31,
    "hot": false
   },
   {
@@ -1175,7 +1259,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.2,
+   "score": 30.9,
+   "hot": false
+  },
+  {
+   "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+   "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+   "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+   "publishedAt": 1794840493000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": false,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1189,7 +1287,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.2,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1203,7 +1301,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1217,8 +1315,23 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31,
+   "score": 30.7,
    "hot": false
+  },
+  {
+   "title": "Claude Is Down",
+   "url": "https://status.claude.com/history",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50481220",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 200,
+   "comments": 179,
+   "publishedAt": 1794565209000,
+   "isAI": true,
+   "score": 30.6,
+   "hot": false,
+   "lastWeekRank": 47
   },
   {
    "title": "엔비디아 '그루트 2', 로봇 동작 넘어 미래 예측…시연 5회로 성공률 95%",
@@ -1231,7 +1344,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1245,7 +1358,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1256,27 +1369,12 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 169,
-   "comments": 41,
+   "comments": 43,
    "publishedAt": 1794665154000,
    "isAI": false,
-   "score": 30.8,
+   "score": 30.5,
    "hot": false,
    "lastWeekRank": 35
-  },
-  {
-   "title": "Claude Is Down",
-   "url": "https://status.claude.com/history",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50481220",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 200,
-   "comments": 179,
-   "publishedAt": 1794565209000,
-   "isAI": true,
-   "score": 30.8,
-   "hot": false,
-   "lastWeekRank": 47
   },
   {
    "title": "[게시판] 멋쟁이사자처럼 베트남에 '피지컬 AI 데이터랩' 개소 등 단신",
@@ -1289,7 +1387,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.8,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1303,7 +1401,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.8,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1317,7 +1415,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.8,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1331,106 +1429,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.7,
-   "hot": false
-  },
-  {
-   "title": "AI 가수 '자니아 모네', 첫 AI 음악상 4관왕…'AI판 그래미' 시동",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217461",
-   "summary": "미국에서 AI 음악 창작자들을 위한 첫 시상식이 열려 빌보드 차트에 진입한 AI 가수 '자니아 모네(Xania Monet)'가 4관왕을 차지했다. 기존 음악계가 AI 음악의 저작권과 창작자 자격을 놓고 논쟁을 벌이는 가운데, AI 음악 제작자들이 독자적인 차트와 인증·시상 체계를 구축하며 새로운 음악 분야로 인정받기 위한 움직임에 나섰다.미국 첫 'AI 뮤직 어워즈(AIMA)'가 13일(현지시간) 로스앤젤레스 시내 마이언 극장에서 개최됐다. AI를 활용해 음악을 제작한 창작자들을 위한 행사로, 총 25개 부문에서 수상자를 선정했다.",
-   "publishedAt": 1794813373000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.6,
-   "hot": false
-  },
-  {
-   "title": "KAIST, 입모양 읽는 AI로 시각적 음성인식 향상 기술 개발",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217443",
-   "summary": "한국과학기술원(KAIST·총장 배충식)은 입술 움직임만으로 말을 문자로 바꾸는 시각적 음성 인식(VSR)의 정확도를 높이는 AI 기술을 개발했다고 16일 밝혔다.기존에는 입모양만으로 서로 다른 소리를 구별하기 어려웠고, AI는 첫 단어부터 순서대로 생성하는 자가회귀(AR) 방식이라 앞부분의 오류가 뒤 문장까지 이어지는 문제가 존재했다.노용만 교수 연구팀(전기및전자공학부)은 이러한 순차적 생성의 한계를 극복하기 위해 확산 대형언어모델(DLLM)을 시각적 음성 인식에 최초로 도입한 ‘DLLM-VSR’ 프레임워크를 제안했다.마스크 기반",
-   "publishedAt": 1794812241000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "\"챗GPT에 SNS 데이터 연동\"...뉴엔AI, 소셜 분석 MCP 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217458",
-   "summary": "뉴엔AI(대표 배성환)는 자사의 소셜미디어 데이터 검색·분석 기능과 연동되는 '퀘타아이 MCP'를 출시했다고 16일 밝혔다.퀘타아이 MCP는 별도 API 개발 없이 챗GPT·클로드 등 생성형 AI에 뉴엔AI의 소셜미디어 분석 기능을 연동하고 자연어로 질문하면 AI가 적합한 분석 도구를 선택, 데이터를 조회·분석할 수 있다.SNS와 온라인 커뮤니티 등 실제 소비자 데이터 기반 분석 결과를 제공해 신뢰도 높은 답변을 도출할 수 있다는 설명이다.기업 고객을 위한 보안·편의 기능도 제공한다. 전 구간 암호화 통신과 ‘OAuth 2.1’ 기",
-   "publishedAt": 1794812186000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "네이버 카페에 AI 에이전트 도입...3개 카페서 베타 테스트 진행",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217453",
-   "summary": "네이버(대표 최수연)는 네이버 카페 회원을 위한 ‘AI 카페 에이전트'의 비공개 베타 테스트(CBT)를 진행 중이라고 16일 밝혔다.AI 카페 에이전트는 카페에 축적된 정보를 바탕으로 사용자 질문에 답변하고 관련 원문으로 연결하는 서비스이다. 일반 검색이나 범용 AI로는 찾기 어려운 게시글과 댓글 속 경험·노하우를 답변에 반영, 회원들의 다양한 의견까지 제시하는 것이 특징이다.예를 들어 겨울철 차박 배터리 소모량을 물으면 회원 경험담을 요약하고 원문을 첨부한다. 유후인 료칸 객실 노천탕의 필요성을 물으면 객실 노천탕 추천 의견과 대",
-   "publishedAt": 1794812125000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "노타, 두베에 금융권 특화 AI 코딩 에이전트 기술 제공",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217457",
-   "summary": "노타(대표 채명수)는 금융 IT 전문 두베에 온프레미스 AI 코딩 에이전트 사업을 위한 금융권 특화 대형언어모델(LLM)과 서버를 공급했다고 16일 밝혔다.두베는 금융권 시스템통합(SI) 전문 기업으로 금융기업 대상 AI 코딩 에이전트 사업을 펼치고 있다. 노타는 두베의 AI 코딩 에이전트에 맞춰 모델 경량화, 추론·서빙 최적화부터 서버 구성까지 통합 제공했다.폐쇄망을 쓰는 금융권 특성을 고려해 온프레미스 방식을 적용, 고객사 내부 서버에서 LLM이 실행이 가능하도록 구현했다.특히 대량의 코드와 개발 지침을 반복 처리하는 코딩 에이",
-   "publishedAt": 1794812067000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-   "url": "https://github.com/simpsoka/zigzag",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50470488",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 741,
-   "comments": 257,
-   "publishedAt": 1794502962000,
-   "isAI": false,
    "score": 30.4,
-   "hot": false,
-   "lastWeekRank": 57
-  },
-  {
-   "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-   "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50463399",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 440,
-   "comments": 224,
-   "publishedAt": 1794461364000,
-   "isAI": true,
-   "score": 30.3,
    "hot": false
   }
  ]
