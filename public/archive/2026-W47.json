@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794810080766,
+ "updatedAt": 1794813740263,
  "week": "2026-W47",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1129,
-   "comments": 609,
+   "engagement": 1138,
+   "comments": 611,
    "publishedAt": 1794754018000,
    "isAI": true,
-   "score": 64,
+   "score": 63.4,
    "hot": true
   },
   {
@@ -27,7 +27,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 53.1,
+   "score": 52.5,
    "hot": true
   },
   {
@@ -41,7 +41,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 53.1,
+   "score": 52.5,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 476,
-   "comments": 205,
+   "engagement": 496,
+   "comments": 211,
    "publishedAt": 1794767770000,
    "isAI": false,
-   "score": 52.1,
+   "score": 51.9,
    "hot": true
   },
   {
@@ -69,7 +69,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.4,
+   "score": 48.8,
    "hot": true
   },
   {
@@ -83,7 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.6,
    "hot": true
   },
   {
@@ -93,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 484,
-   "comments": 222,
+   "engagement": 489,
+   "comments": 226,
    "publishedAt": 1794742851000,
    "isAI": false,
-   "score": 48.8,
+   "score": 48.4,
    "hot": true
   },
   {
@@ -111,7 +111,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -125,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48,
+   "score": 47.5,
    "hot": true
   },
   {
@@ -139,35 +139,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": true
   },
   {
-   "title": "X.com을 처음부터 다시 구축하기 - 서버 3개를 하나로",
-   "url": "https://news.hada.io/topic?id=37245&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "X가 기존 웹 애플리케이션을 5명의 엔지니어와 AI 코딩 에이전트 를 활용해 6개월 이내에 재구축함. 기존의 사용자·검색 크롤러·링크 미리보기용 서버 3개를 하나로 통합했으며, 비로그인 서비스 전환을 완료하고 로그인 서비스도 국가별로 순차 전환 중임 기존 React 기반 클라이언트 렌더링 은 HTML 셸과 JavaScript를 다운로드·실행한 뒤 GraphQL 데이터를 요청해야 했음. 새 구조는 스트리밍 서버 렌더링(SSR) 으로 첫 응답부터 실제 콘텐츠를 전달하고, 서버에서 가져온 데이터를 브라우저가 재사용하도록 변경함 느린 네트",
-   "publishedAt": 1794792002000,
-   "source": "GeekNews",
+   "title": "What's Next for Nvidia?",
+   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50512235",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 47.4,
-   "hot": true
-  },
-  {
-   "title": "새로운 풀스택 디자이너 - Figma 스케치에서 작동하는 데모까지",
-   "url": "https://news.hada.io/topic?id=37244&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "AI가 구현을 가속하면서 디자이너의 역할은 직접 만들고 시험하며 선별하는 쪽으로 확장 되고 있음. Shopify의 제품 디자인 스튜디오는 Figma의 정적인 화면에서 Codex와 Claude Code로 만든 작동하는 데모로 빠르게 이동함 최종 품질과 판단은 여전히 사람의 책임 임. AI에 복잡한 작업을 한꺼번에 맡기기보다 구성 요소로 나누고, 결과를 반복적으로 검토하며 원하는 시각적 품질과 상호작용으로 이끌어야 함 Shopify는 관리자 화면을 새롭게 다듬는 동시에 Sidekick과의 대화로 스토어를 조작하는 경험 을 탐색함. 디자",
-   "publishedAt": 1794790802000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 47.2,
+   "lang": "en",
+   "engagement": 198,
+   "comments": 265,
+   "publishedAt": 1794786955000,
+   "isAI": false,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -177,27 +163,13 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1102,
+   "engagement": 1103,
    "comments": 649,
    "publishedAt": 1794624779000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.5,
    "hot": false,
    "lastWeekRank": 1
-  },
-  {
-   "title": "What's Next for Nvidia?",
-   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50512235",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 183,
-   "comments": 237,
-   "publishedAt": 1794786955000,
-   "isAI": false,
-   "score": 46.5,
-   "hot": true
   },
   {
    "title": "Jensen Huang might return to Nvidia as CEO",
@@ -206,11 +178,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 156,
-   "comments": 156,
+   "engagement": 163,
+   "comments": 157,
    "publishedAt": 1794785093000,
    "isAI": false,
-   "score": 44.9,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -220,11 +192,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 196,
-   "comments": 115,
+   "engagement": 202,
+   "comments": 116,
    "publishedAt": 1794756081000,
    "isAI": false,
-   "score": 43.2,
+   "score": 43,
    "hot": true
   },
   {
@@ -234,11 +206,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 146,
-   "comments": 96,
+   "engagement": 148,
+   "comments": 97,
    "publishedAt": 1794775048000,
    "isAI": false,
-   "score": 43,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -252,7 +224,7 @@
    "comments": 236,
    "publishedAt": 1794695190000,
    "isAI": false,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -267,9 +239,37 @@
    "comments": 28,
    "publishedAt": 1794668655000,
    "isAI": true,
-   "score": 42.4,
+   "score": 42,
    "hot": false,
    "lastWeekRank": 5
+  },
+  {
+   "title": "시드로 생성한 지형을 비행하는 WebGL 비행 시뮬레이터",
+   "url": "https://news.hada.io/topic?id=37269&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Baron 은 시드로 생성한 지형에서 이륙, 탐험, 착륙을 즐기는 브라우저 기반 WebGL 비행 시뮬레이터 임 터치, 키보드, 게임패드 조작을 지원하며, 마우스 스틱과 기기 기울이기로도 조종할 수 있음 스로틀, 플랩, 브레이크, 방향타를 조작하고 추적 시점과 조종석 시점 을 전환할 수 있음 비행 계획에서는 이륙부터 착륙까지 흰색 화살표 를 따라가며, 격납고에서는 기체의 속도와 상승률 등 성능을 확인할 수 있음 실행에는 WebGL 2 가 필요하며, 브라우저나 그래픽 드라이버가 지원하지 않으면 최신 브라우저와 하드웨어 가속 활성화를 안",
+   "publishedAt": 1794807364000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
+  },
+  {
+   "title": "Salon 저널리즘 30년의 기록 보존하기",
+   "url": "https://news.hada.io/topic?id=37268&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Salon 이 창간 31년 만에 발행 중단을 발표했지만, 웹 아카이빙으로 과거 기사에 계속 접근할 수 있음 1995년 창간한 Salon은 인터넷에서 탄생한 초기 주요 매체 중 하나로, 정치와 문화, 비평 을 결합하며 디지털 저널리즘 형성에 기여함 Internet Archive의 Wayback Machine 은 거의 30년 동안 여러 도메인에 걸쳐 Salon의 기록을 보존해 옴 현재 Wayback Machine에서 Salon 기사 25만 건 이상 을 찾을 수 있으며, 초기 웹 시대부터 이어진 디지털 저널리즘과 문화적 논의를 담고 있음",
+   "publishedAt": 1794807184000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
   },
   {
    "title": "Tech companies are trying to shift the concept of privacy again",
@@ -278,11 +278,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 595,
+   "engagement": 596,
    "comments": 211,
    "publishedAt": 1794660345000,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.9,
    "hot": false,
    "lastWeekRank": 7
   },
@@ -297,8 +297,37 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.8,
    "hot": true
+  },
+  {
+   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+   "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50509883",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 121,
+   "comments": 110,
+   "publishedAt": 1794771071000,
+   "isAI": false,
+   "score": 40.6,
+   "hot": false
+  },
+  {
+   "title": "A family tree of software job titles",
+   "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50499038",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 444,
+   "comments": 219,
+   "publishedAt": 1794678319000,
+   "isAI": false,
+   "score": 40.6,
+   "hot": false,
+   "lastWeekRank": 8
   },
   {
    "title": "버튼에 cursor: pointer 적용하기",
@@ -311,7 +340,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -325,37 +354,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": true
-  },
-  {
-   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-   "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50509883",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 120,
-   "comments": 108,
-   "publishedAt": 1794771071000,
-   "isAI": false,
-   "score": 40.9,
-   "hot": false
-  },
-  {
-   "title": "A family tree of software job titles",
-   "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50499038",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 440,
-   "comments": 219,
-   "publishedAt": 1794678319000,
-   "isAI": false,
-   "score": 40.9,
-   "hot": false,
-   "lastWeekRank": 8
   },
   {
    "title": "Show HN: Agweb - 작업을 방해하지 않는 에이전트용 브라우저",
@@ -368,7 +368,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
    "hot": true
   },
   {
@@ -382,7 +382,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -396,7 +396,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -410,8 +410,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
+  },
+  {
+   "title": "How did Woz write the Apple 1 BASIC before building the computer? (2021)",
+   "url": "https://retrocomputing.stackexchange.com/questions/17957",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50501594",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 315,
+   "comments": 172,
+   "publishedAt": 1794694969000,
+   "isAI": false,
+   "score": 39.9,
+   "hot": false
   },
   {
    "title": "젠슨 황, Nvidia CEO 복귀를 위해 실리콘밸리 측근들과 논의 중",
@@ -424,7 +438,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -438,7 +452,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -452,22 +466,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
-  },
-  {
-   "title": "How did Woz write the Apple 1 BASIC before building the computer? (2021)",
-   "url": "https://retrocomputing.stackexchange.com/questions/17957",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50501594",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 315,
-   "comments": 171,
-   "publishedAt": 1794694969000,
-   "isAI": false,
-   "score": 40.2,
-   "hot": false
   },
   {
    "title": "국토부, 구글의 1:5,000 지도 국외 반출 보안조건 이행 확인",
@@ -480,7 +480,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -494,7 +494,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -508,7 +508,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -522,7 +522,7 @@
    "comments": 302,
    "publishedAt": 1794664086000,
    "isAI": false,
-   "score": 39,
+   "score": 38.7,
    "hot": false,
    "lastWeekRank": 13
   },
@@ -533,11 +533,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 438,
+   "engagement": 439,
    "comments": 110,
    "publishedAt": 1794591010000,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.5,
    "hot": false,
    "lastWeekRank": 17
   },
@@ -548,11 +548,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 483,
+   "engagement": 484,
    "comments": 727,
    "publishedAt": 1794582524000,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false,
    "lastWeekRank": 19
   },
@@ -567,7 +567,7 @@
    "comments": 199,
    "publishedAt": 1794663377000,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false,
    "lastWeekRank": 16
   },
@@ -582,7 +582,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -596,9 +596,24 @@
    "comments": 390,
    "publishedAt": 1794565093000,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.4,
    "hot": false,
    "lastWeekRank": 22
+  },
+  {
+   "title": "PyPI's redesigned project pages with clearer security signals are now live",
+   "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50497892",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 274,
+   "comments": 131,
+   "publishedAt": 1794670852000,
+   "isAI": false,
+   "score": 36.8,
+   "hot": false,
+   "lastWeekRank": 21
   },
   {
    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -611,23 +626,23 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.2,
+   "score": 36.8,
    "hot": false
   },
   {
-   "title": "PyPI's redesigned project pages with clearer security signals are now live",
-   "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50497892",
+   "title": "Anthropic IPO",
+   "url": "https://ipo.anthropic.com/us/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50465829",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 273,
-   "comments": 130,
-   "publishedAt": 1794670852000,
-   "isAI": false,
-   "score": 37.1,
+   "engagement": 1004,
+   "comments": 918,
+   "publishedAt": 1794484001000,
+   "isAI": true,
+   "score": 36.4,
    "hot": false,
-   "lastWeekRank": 21
+   "lastWeekRank": 29
   },
   {
    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
@@ -640,23 +655,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
-  },
-  {
-   "title": "Anthropic IPO",
-   "url": "https://ipo.anthropic.com/us/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50465829",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1003,
-   "comments": 918,
-   "publishedAt": 1794484001000,
-   "isAI": true,
-   "score": 36.5,
-   "hot": false,
-   "lastWeekRank": 29
   },
   {
    "title": "AI is destroying the trust between writers and readers",
@@ -669,7 +669,7 @@
    "comments": 234,
    "publishedAt": 1794568426000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36.1,
    "hot": false,
    "lastWeekRank": 25
   },
@@ -680,11 +680,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 223,
+   "engagement": 224,
    "comments": 133,
    "publishedAt": 1794599516000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false,
    "lastWeekRank": 28
   },
@@ -695,11 +695,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 571,
+   "engagement": 572,
    "comments": 353,
    "publishedAt": 1794506508000,
    "isAI": true,
-   "score": 35,
+   "score": 34.8,
    "hot": false,
    "lastWeekRank": 34
   },
@@ -711,10 +711,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 176,
-   "comments": 109,
+   "comments": 110,
    "publishedAt": 1794678500000,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false,
    "lastWeekRank": 27
   },
@@ -725,11 +725,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 505,
+   "engagement": 506,
    "comments": 165,
    "publishedAt": 1794509521000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.4,
    "hot": false,
    "lastWeekRank": 37
   },
@@ -744,7 +744,7 @@
    "comments": 995,
    "publishedAt": 1794507648000,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.3,
    "hot": false,
    "lastWeekRank": 40
   },
@@ -755,11 +755,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 438,
+   "engagement": 439,
    "comments": 185,
    "publishedAt": 1794520571000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.2,
    "hot": false,
    "lastWeekRank": 43
   },
@@ -774,22 +774,78 @@
    "comments": 691,
    "publishedAt": 1794536184000,
    "isAI": false,
-   "score": 34.2,
+   "score": 34,
    "hot": false,
    "lastWeekRank": 41
   },
   {
-   "title": "백악관 \"AI 보안 사고 자진 신고하면 처벌 완화\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217450",
-   "summary": "백악관이 AI 관련 사이버 공격이나 보안 취약점을 선의로 자진 신고하는 기업에 대해 최소 1년간 규제상 책임을 제한하는 방안을 권고했다. AI의 공격 능력이 빠르게 발전하면서 기존 보안 기준을 준수한 기업도 피해를 볼 수 있는 만큼, 처벌 부담을 줄여 사고 정보 공유를 장려하겠다는 취지다.블룸버그에 따르면, 도널드 트럼프 대통령의 AI 태스크포스인 '초지능 부대(SIF)' 관계자들은 12일(현지시간) 백악관 회의에서 각 정부 기관에 사이버 사고에 대한 기존 규제 기준을 재검토하라고 권고했다.현행 기준이 AI 관련 보안 사고의 특성을",
-   "publishedAt": 1794809239000,
+   "title": "AI 가수 '자니아 모네', 첫 AI 음악상 4관왕…'AI판 그래미' 시동",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217461",
+   "summary": "미국에서 AI 음악 창작자들을 위한 첫 시상식이 열려 빌보드 차트에 진입한 AI 가수 '자니아 모네(Xania Monet)'가 4관왕을 차지했다. 기존 음악계가 AI 음악의 저작권과 창작자 자격을 놓고 논쟁을 벌이는 가운데, AI 음악 제작자들이 독자적인 차트와 인증·시상 체계를 구축하며 새로운 음악 분야로 인정받기 위한 움직임에 나섰다.미국 첫 'AI 뮤직 어워즈(AIMA)'가 13일(현지시간) 로스앤젤레스 시내 마이언 극장에서 개최됐다. AI를 활용해 음악을 제작한 창작자들을 위한 행사로, 총 25개 부문에서 수상자를 선정했다.",
+   "publishedAt": 1794813373000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "KAIST, 입모양 읽는 AI로 시각적 음성인식 향상 기술 개발",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217443",
+   "summary": "한국과학기술원(KAIST·총장 배충식)은 입술 움직임만으로 말을 문자로 바꾸는 시각적 음성 인식(VSR)의 정확도를 높이는 AI 기술을 개발했다고 16일 밝혔다.기존에는 입모양만으로 서로 다른 소리를 구별하기 어려웠고, AI는 첫 단어부터 순서대로 생성하는 자가회귀(AR) 방식이라 앞부분의 오류가 뒤 문장까지 이어지는 문제가 존재했다.노용만 교수 연구팀(전기및전자공학부)은 이러한 순차적 생성의 한계를 극복하기 위해 확산 대형언어모델(DLLM)을 시각적 음성 인식에 최초로 도입한 ‘DLLM-VSR’ 프레임워크를 제안했다.마스크 기반",
+   "publishedAt": 1794812241000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "\"챗GPT에 SNS 데이터 연동\"...뉴엔AI, 소셜 분석 MCP 출시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217458",
+   "summary": "뉴엔AI(대표 배성환)는 자사의 소셜미디어 데이터 검색·분석 기능과 연동되는 '퀘타아이 MCP'를 출시했다고 16일 밝혔다.퀘타아이 MCP는 별도 API 개발 없이 챗GPT·클로드 등 생성형 AI에 뉴엔AI의 소셜미디어 분석 기능을 연동하고 자연어로 질문하면 AI가 적합한 분석 도구를 선택, 데이터를 조회·분석할 수 있다.SNS와 온라인 커뮤니티 등 실제 소비자 데이터 기반 분석 결과를 제공해 신뢰도 높은 답변을 도출할 수 있다는 설명이다.기업 고객을 위한 보안·편의 기능도 제공한다. 전 구간 암호화 통신과 ‘OAuth 2.1’ 기",
+   "publishedAt": 1794812186000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "네이버 카페에 AI 에이전트 도입...3개 카페서 베타 테스트 진행",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217453",
+   "summary": "네이버(대표 최수연)는 네이버 카페 회원을 위한 ‘AI 카페 에이전트'의 비공개 베타 테스트(CBT)를 진행 중이라고 16일 밝혔다.AI 카페 에이전트는 카페에 축적된 정보를 바탕으로 사용자 질문에 답변하고 관련 원문으로 연결하는 서비스이다. 일반 검색이나 범용 AI로는 찾기 어려운 게시글과 댓글 속 경험·노하우를 답변에 반영, 회원들의 다양한 의견까지 제시하는 것이 특징이다.예를 들어 겨울철 차박 배터리 소모량을 물으면 회원 경험담을 요약하고 원문을 첨부한다. 유후인 료칸 객실 노천탕의 필요성을 물으면 객실 노천탕 추천 의견과 대",
+   "publishedAt": 1794812125000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "노타, 두베에 금융권 특화 AI 코딩 에이전트 기술 제공",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217457",
+   "summary": "노타(대표 채명수)는 금융 IT 전문 두베에 온프레미스 AI 코딩 에이전트 사업을 위한 금융권 특화 대형언어모델(LLM)과 서버를 공급했다고 16일 밝혔다.두베는 금융권 시스템통합(SI) 전문 기업으로 금융기업 대상 AI 코딩 에이전트 사업을 펼치고 있다. 노타는 두베의 AI 코딩 에이전트에 맞춰 모델 경량화, 추론·서빙 최적화부터 서버 구성까지 통합 제공했다.폐쇄망을 쓰는 금융권 특성을 고려해 온프레미스 방식을 적용, 고객사 내부 서버에서 LLM이 실행이 가능하도록 구현했다.특히 대량의 코드와 개발 지침을 반복 처리하는 코딩 에이",
+   "publishedAt": 1794812067000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -803,7 +859,7 @@
    "comments": 73,
    "publishedAt": 1794592523000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false,
    "lastWeekRank": 36
   },
@@ -818,22 +874,22 @@
    "comments": 196,
    "publishedAt": 1794583750000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.6,
    "hot": false,
    "lastWeekRank": 39
   },
   {
-   "title": "웹케시, 하나은행 '통합CMS AI 분석 시범사업' 수행",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217444",
-   "summary": "금융 AI 전문 웹케시(대표 강원주)는 하나은행과 ‘통합CMS AI 분석 시범사업’ 계약을 체결했다고 16일 밝혔다.내년 2월까지 5개월간 진행되는 이 사업은 하나은행의 기업 자금관리 서비스 ‘통합CMS’에 대형언어모델(LLM) 기반 AI 금융정보 분석 기능을 적용하고, 실제 고객 환경에서 그 실효성을 검증하는 프로젝트이다. 사업의 핵심은 자연어 기반 금융정보 분석 기능이다. 고객이 일상적인 언어로 질문하면 AI가 금융 데이터를 바탕으로 자금 현황과 거래정보를 조회·분석하고, 관련 보고서 등을 제공하는 방식이다.양사는 하나은행 고객",
-   "publishedAt": 1794808115000,
+   "title": "백악관 \"AI 보안 사고 자진 신고하면 처벌 완화\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217450",
+   "summary": "백악관이 AI 관련 사이버 공격이나 보안 취약점을 선의로 자진 신고하는 기업에 대해 최소 1년간 규제상 책임을 제한하는 방안을 권고했다. AI의 공격 능력이 빠르게 발전하면서 기존 보안 기준을 준수한 기업도 피해를 볼 수 있는 만큼, 처벌 부담을 줄여 사고 정보 공유를 장려하겠다는 취지다.블룸버그에 따르면, 도널드 트럼프 대통령의 AI 태스크포스인 '초지능 부대(SIF)' 관계자들은 12일(현지시간) 백악관 회의에서 각 정부 기관에 사이버 사고에 대한 기존 규제 기준을 재검토하라고 권고했다.현행 기준이 AI 관련 보안 사고의 특성을",
+   "publishedAt": 1794809239000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -847,7 +903,7 @@
    "comments": 215,
    "publishedAt": 1794595244000,
    "isAI": false,
-   "score": 33.6,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 38
   },
@@ -858,13 +914,27 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 356,
+   "engagement": 357,
    "comments": 105,
    "publishedAt": 1794524777000,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.4,
    "hot": false,
    "lastWeekRank": 45
+  },
+  {
+   "title": "웹케시, 하나은행 '통합CMS AI 분석 시범사업' 수행",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217444",
+   "summary": "금융 AI 전문 웹케시(대표 강원주)는 하나은행과 ‘통합CMS AI 분석 시범사업’ 계약을 체결했다고 16일 밝혔다.내년 2월까지 5개월간 진행되는 이 사업은 하나은행의 기업 자금관리 서비스 ‘통합CMS’에 대형언어모델(LLM) 기반 AI 금융정보 분석 기능을 적용하고, 실제 고객 환경에서 그 실효성을 검증하는 프로젝트이다. 사업의 핵심은 자연어 기반 금융정보 분석 기능이다. 고객이 일상적인 언어로 질문하면 AI가 금융 데이터를 바탕으로 자금 현황과 거래정보를 조회·분석하고, 관련 보고서 등을 제공하는 방식이다.양사는 하나은행 고객",
+   "publishedAt": 1794808115000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
+   "hot": false
   },
   {
    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
@@ -873,13 +943,28 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 168,
+   "engagement": 169,
    "comments": 40,
    "publishedAt": 1794665154000,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false,
    "lastWeekRank": 35
+  },
+  {
+   "title": "My AI agents found an unmapped Maya site?",
+   "url": "https://pietromiotti.com/latest/maya-site",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50452455",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1036,
+   "comments": 392,
+   "publishedAt": 1794398722000,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false,
+   "lastWeekRank": 55
   },
   {
    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
@@ -892,7 +977,7 @@
    "comments": 224,
    "publishedAt": 1794520989000,
    "isAI": false,
-   "score": 33.2,
+   "score": 33,
    "hot": false,
    "lastWeekRank": 48
   },
@@ -907,24 +992,9 @@
    "comments": 323,
    "publishedAt": 1794508745000,
    "isAI": false,
-   "score": 33.2,
+   "score": 33,
    "hot": false,
    "lastWeekRank": 51
-  },
-  {
-   "title": "My AI agents found an unmapped Maya site?",
-   "url": "https://pietromiotti.com/latest/maya-site",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50452455",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1036,
-   "comments": 392,
-   "publishedAt": 1794398722000,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false,
-   "lastWeekRank": 55
   },
   {
    "title": "애플, AI 안경 차별화 전략은 '시리 앱 제어'…기존 아이폰 앱 활용",
@@ -937,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -951,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -965,7 +1035,7 @@
    "comments": 179,
    "publishedAt": 1794565209000,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false,
    "lastWeekRank": 47
   },
@@ -980,9 +1050,24 @@
    "comments": 68,
    "publishedAt": 1794672014000,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false,
    "lastWeekRank": 42
+  },
+  {
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50458900",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 681,
+   "comments": 709,
+   "publishedAt": 1794432275000,
+   "isAI": true,
+   "score": 32.4,
+   "hot": false,
+   "lastWeekRank": 58
   },
   {
    "title": "미국·한국 등 9개국, 중국 견제 AI 공급망 보호 공동 선언",
@@ -995,7 +1080,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1009,7 +1094,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1023,7 +1108,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1037,23 +1122,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.3,
    "hot": false
-  },
-  {
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50458900",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 681,
-   "comments": 709,
-   "publishedAt": 1794432275000,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false,
-   "lastWeekRank": 58
   },
   {
    "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
@@ -1066,7 +1136,7 @@
    "comments": 70,
    "publishedAt": 1794665365000,
    "isAI": false,
-   "score": 32.5,
+   "score": 32.2,
    "hot": false,
    "lastWeekRank": 44
   },
@@ -1081,23 +1151,9 @@
    "comments": 88,
    "publishedAt": 1794609555000,
    "isAI": true,
-   "score": 32.3,
+   "score": 32,
    "hot": false,
    "lastWeekRank": 50
-  },
-  {
-   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-   "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-   "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by he",
-   "publishedAt": 1794792416000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.3,
-   "hot": false
   },
   {
    "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
@@ -1110,9 +1166,23 @@
    "comments": 56,
    "publishedAt": 1794622896000,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false,
    "lastWeekRank": 49
+  },
+  {
+   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by he",
+   "publishedAt": 1794792416000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.9,
+   "hot": false
   },
   {
    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
@@ -1125,7 +1195,7 @@
    "comments": 257,
    "publishedAt": 1794502962000,
    "isAI": false,
-   "score": 32,
+   "score": 31.8,
    "hot": false,
    "lastWeekRank": 57
   },
@@ -1140,7 +1210,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32,
+   "score": 31.8,
    "hot": false,
    "lastWeekRank": 54
   },
@@ -1155,23 +1225,9 @@
    "comments": 310,
    "publishedAt": 1794546503000,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false,
    "lastWeekRank": 56
-  },
-  {
-   "title": "[AI리더의 서가] AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217277",
-   "summary": "AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링정상혁 | 위키북스2026년 11월 12일추천이유개발자가 AI 에이전트가 생성한 배치 코드를 효과적으로 감독하고 검증하는 방법을 스프링 배치의 핵심 원리와 함께 설명합니다. 이 책은 개발 환경과 운영 환경의 데이터 크기 차이로 인한 문제를 해결하고, AI 시대에 안정적인 배치 시스템을 구축하도록 안내합니다.상세보기 \"코딩 에이전트로 짠 배치 코드를 운영에 그대로 올려도 될까요?\" 최근 개발팀 단위로 들어오는 도서 문의에서 자주 함께 나오는 질문이다. 금융이나 커머스처럼 밤마다 수백",
-   "publishedAt": 1794787200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.8,
-   "hot": false
   },
   {
    "title": "Nvidia is preparing to oust Jensen Huang",
@@ -1184,9 +1240,37 @@
    "comments": 1649,
    "publishedAt": 1794436266000,
    "isAI": false,
-   "score": 31.6,
+   "score": 31.5,
    "hot": false,
    "lastWeekRank": 60
+  },
+  {
+   "title": "[AI리더의 서가] AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217277",
+   "summary": "AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링정상혁 | 위키북스2026년 11월 12일추천이유개발자가 AI 에이전트가 생성한 배치 코드를 효과적으로 감독하고 검증하는 방법을 스프링 배치의 핵심 원리와 함께 설명합니다. 이 책은 개발 환경과 운영 환경의 데이터 크기 차이로 인한 문제를 해결하고, AI 시대에 안정적인 배치 시스템을 구축하도록 안내합니다.상세보기 \"코딩 에이전트로 짠 배치 코드를 운영에 그대로 올려도 될까요?\" 최근 개발팀 단위로 들어오는 도서 문의에서 자주 함께 나오는 질문이다. 금융이나 커머스처럼 밤마다 수백",
+   "publishedAt": 1794787200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.4,
+   "hot": false
+  },
+  {
+   "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+   "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50463399",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 412,
+   "comments": 198,
+   "publishedAt": 1794461364000,
+   "isAI": true,
+   "score": 31.3,
+   "hot": false
   },
   {
    "title": "Gemini Decisions API",
@@ -1199,23 +1283,9 @@
    "comments": 161,
    "publishedAt": 1794421962000,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 62
-  },
-  {
-   "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-   "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50463399",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 399,
-   "comments": 196,
-   "publishedAt": 1794461364000,
-   "isAI": true,
-   "score": 31.3,
-   "hot": false
   },
   {
    "title": "Show HN: Agweb – a browser for agents that stays out of your way",
@@ -1224,11 +1294,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 107,
+   "engagement": 108,
    "comments": 37,
    "publishedAt": 1794665292000,
    "isAI": false,
-   "score": 30.5,
+   "score": 30.3,
    "hot": false,
    "lastWeekRank": 59
   },
@@ -1243,9 +1313,24 @@
    "comments": 234,
    "publishedAt": 1794517789000,
    "isAI": true,
-   "score": 30.4,
+   "score": 30.2,
    "hot": false,
    "lastWeekRank": 63
+  },
+  {
+   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50473190",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 460,
+   "comments": 499,
+   "publishedAt": 1794513093000,
+   "isAI": false,
+   "score": 30,
+   "hot": false,
+   "lastWeekRank": 65
   },
   {
    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
@@ -1258,23 +1343,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.3,
+   "score": 30,
    "hot": false
-  },
-  {
-   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-   "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50473190",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 459,
-   "comments": 499,
-   "publishedAt": 1794513093000,
-   "isAI": false,
-   "score": 30.1,
-   "hot": false,
-   "lastWeekRank": 65
   },
   {
    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
@@ -1287,7 +1357,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 29.9,
+   "score": 29.7,
    "hot": false,
    "lastWeekRank": 68
   },
@@ -1302,24 +1372,9 @@
    "comments": 14,
    "publishedAt": 1794622541000,
    "isAI": false,
-   "score": 29.8,
-   "hot": false,
-   "lastWeekRank": 61
-  },
-  {
-   "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
-   "url": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50487688",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 189,
-   "comments": 66,
-   "publishedAt": 1794594556000,
-   "isAI": false,
    "score": 29.6,
    "hot": false,
-   "lastWeekRank": 64
+   "lastWeekRank": 61
   },
   {
    "title": "Global Microsoft Outage",
@@ -1332,24 +1387,9 @@
    "comments": 184,
    "publishedAt": 1794550703000,
    "isAI": false,
-   "score": 29.6,
-   "hot": false,
-   "lastWeekRank": 67
-  },
-  {
-   "title": "Why Zig over C for Systems Programming",
-   "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50483611",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 218,
-   "comments": 239,
-   "publishedAt": 1794578473000,
-   "isAI": false,
    "score": 29.5,
    "hot": false,
-   "lastWeekRank": 66
+   "lastWeekRank": 67
   },
   {
    "title": "Claude Fable 5.2 and Mythos 5.2",
@@ -1367,6 +1407,36 @@
    "lastWeekRank": 81
   },
   {
+   "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
+   "url": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50487688",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 189,
+   "comments": 66,
+   "publishedAt": 1794594556000,
+   "isAI": false,
+   "score": 29.4,
+   "hot": false,
+   "lastWeekRank": 64
+  },
+  {
+   "title": "Why Zig over C for Systems Programming",
+   "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50483611",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 218,
+   "comments": 240,
+   "publishedAt": 1794578473000,
+   "isAI": false,
+   "score": 29.3,
+   "hot": false,
+   "lastWeekRank": 66
+  },
+  {
    "title": "Apple has new Mac app coming to make running local AI models easy",
    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
    "commentsUrl": "https://news.ycombinator.com/item?id=50446520",
@@ -1377,81 +1447,9 @@
    "comments": 564,
    "publishedAt": 1794345903000,
    "isAI": true,
-   "score": 29.3,
-   "hot": false,
-   "lastWeekRank": 80
-  },
-  {
-   "title": "Ask HN: Microsoft/Azure Outage?",
-   "url": "https://news.ycombinator.com/item?id=50471668",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50471668",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 402,
-   "comments": 1,
-   "publishedAt": 1794507433000,
-   "isAI": false,
    "score": 29.2,
    "hot": false,
-   "lastWeekRank": 73
-  },
-  {
-   "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
-   "source": "r/MachineLearning",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 25.2,
-   "publishedAt": 1794764296000,
-   "isAI": true,
-   "score": 29.1,
-   "hot": false
-  },
-  {
-   "title": "AI usage generates a fragile codebase",
-   "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50438318",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 645,
-   "comments": 626,
-   "publishedAt": 1794306358000,
-   "isAI": true,
-   "score": 28.8,
-   "hot": false,
-   "lastWeekRank": 83
-  },
-  {
-   "title": "Introducing ChatGPT Wallet",
-   "url": "https://openai.com/index/introducing-chatgpt-wallet",
-   "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-   "publishedAt": 1794582000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": false,
-   "score": 28.8,
-   "hot": false,
-   "lastWeekRank": 72
-  },
-  {
-   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-   "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-   "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-   "publishedAt": 1794774057000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
-   "score": 28.8,
-   "hot": false
+   "lastWeekRank": 80
   }
  ]
 }
