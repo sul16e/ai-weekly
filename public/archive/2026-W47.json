@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794894634947,
+ "updatedAt": 1794898283502,
  "week": "2026-W47",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 870,
-   "comments": 518,
+   "engagement": 877,
+   "comments": 519,
    "publishedAt": 1794836347000,
    "isAI": false,
-   "score": 54.7,
+   "score": 54.3,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 417,
-   "comments": 267,
+   "engagement": 468,
+   "comments": 305,
    "publishedAt": 1794869900000,
    "isAI": false,
-   "score": 53.6,
+   "score": 54.1,
    "hot": true
   },
   {
@@ -41,7 +41,7 @@
    "comments": 660,
    "publishedAt": 1794754018000,
    "isAI": true,
-   "score": 52.6,
+   "score": 52.1,
    "hot": false
   },
   {
@@ -55,7 +55,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 50.7,
+   "score": 50.2,
    "hot": false
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 356,
-   "comments": 223,
+   "engagement": 362,
+   "comments": 226,
    "publishedAt": 1794853037000,
    "isAI": false,
-   "score": 49.8,
+   "score": 49.4,
    "hot": true
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 350,
-   "comments": 79,
+   "engagement": 357,
+   "comments": 80,
    "publishedAt": 1794848019000,
    "isAI": false,
-   "score": 48.9,
+   "score": 48.6,
    "hot": true
   },
   {
@@ -97,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.3,
    "hot": true
   },
   {
@@ -111,8 +111,36 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.1,
    "hot": true
+  },
+  {
+   "title": "Rust changed me as a developer",
+   "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50522563",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 243,
+   "comments": 147,
+   "publishedAt": 1794860210000,
+   "isAI": false,
+   "score": 47,
+   "hot": true
+  },
+  {
+   "title": "How Revolut raises ambition without lowering the bar",
+   "url": "https://openai.com/business/customer-stories/revolut",
+   "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+   "publishedAt": 1794821400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 46.7,
+   "hot": false
   },
   {
    "title": "AVA - AI 에이전트용 데이터 분석 및 시각화 프레임워크",
@@ -125,21 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
-   "hot": true
-  },
-  {
-   "title": "Rust changed me as a developer",
-   "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50522563",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 231,
-   "comments": 145,
-   "publishedAt": 1794860210000,
-   "isAI": false,
-   "score": 47.1,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -153,21 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.1,
-   "hot": true
-  },
-  {
-   "title": "GitHub에서 Codeberg로 이전하기",
-   "url": "https://news.hada.io/topic?id=37314&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Inko와 개인 프로젝트 를 Codeberg로 이전하면서 70개 이상의 저장소를 검토함. GitHub 복귀 후 기여자는 다소 늘었지만, AI로 생성한 저품질 기여와 자유 소프트웨어 가치에 대한 우려가 다시 이전을 택한 배경임 저장소 가져오기 는 대체로 작동했지만, GitHub 요청 제한에 걸려도 안내가 없고 사용자 연결과 이슈 유형은 별도 처리가 필요했음 Forgejo Actions 는 기존 GitHub Actions 설정을 활용하기에 유리했지만 완전히 호환되지는 않음. 공유 러너의 자원, 플랫폼, 이미지 갱신 제약 때문에 자체 러",
-   "publishedAt": 1794873891000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 47,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -181,8 +181,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.5,
    "hot": false
+  },
+  {
+   "title": "GitHub에서 Codeberg로 이전하기",
+   "url": "https://news.hada.io/topic?id=37314&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Inko와 개인 프로젝트 를 Codeberg로 이전하면서 70개 이상의 저장소를 검토함. GitHub 복귀 후 기여자는 다소 늘었지만, AI로 생성한 저품질 기여와 자유 소프트웨어 가치에 대한 우려가 다시 이전을 택한 배경임 저장소 가져오기 는 대체로 작동했지만, GitHub 요청 제한에 걸려도 안내가 없고 사용자 연결과 이슈 유형은 별도 처리가 필요했음 Forgejo Actions 는 기존 GitHub Actions 설정을 활용하기에 유리했지만 완전히 호환되지는 않음. 공유 러너의 자원, 플랫폼, 이미지 갱신 제약 때문에 자체 러",
+   "publishedAt": 1794873891000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.5,
+   "hot": true
   },
   {
    "title": "Our first phase of embedded assessments",
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.5,
+   "score": 46.1,
    "hot": false
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.8,
    "hot": true
   },
   {
@@ -219,11 +233,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 265,
+   "engagement": 270,
    "comments": 238,
    "publishedAt": 1794842649000,
    "isAI": false,
-   "score": 45.9,
+   "score": 45.6,
    "hot": true
   },
   {
@@ -237,7 +251,7 @@
    "comments": 2,
    "publishedAt": 1794863318000,
    "isAI": false,
-   "score": 45.6,
+   "score": 45.2,
    "hot": true
   },
   {
@@ -247,12 +261,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 265,
-   "comments": 192,
+   "engagement": 286,
+   "comments": 200,
    "publishedAt": 1794835102000,
    "isAI": false,
-   "score": 45,
+   "score": 45.2,
    "hot": true
+  },
+  {
+   "title": "What's Next for Nvidia?",
+   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50512235",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 468,
+   "comments": 571,
+   "publishedAt": 1794786955000,
+   "isAI": false,
+   "score": 43.4,
+   "hot": false
   },
   {
    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
@@ -265,21 +293,7 @@
    "comments": 273,
    "publishedAt": 1794767770000,
    "isAI": false,
-   "score": 43.8,
-   "hot": false
-  },
-  {
-   "title": "What's Next for Nvidia?",
-   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50512235",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 466,
-   "comments": 571,
-   "publishedAt": 1794786955000,
-   "isAI": false,
-   "score": 43.7,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -293,7 +307,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 43.7,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -307,7 +321,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.2,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -321,7 +335,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -335,8 +349,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false
+  },
+  {
+   "title": "저작권으로는 이길 수 없다",
+   "url": "https://news.hada.io/topic?id=37337&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "기업의 공유 자원 남용 에 맞서 카피레프트를 강화하거나 소프트웨어를 독점화하기보다, 작업의 개성, 기술의 구조, 상호부조에서 대안을 찾아야 함 저작권 집행 은 법적 위협과 변호사, 국가 권력에 의존하므로, 장기적으로 그 기반인 권력과 통제의 논리를 재생산하지 않고 활용하기 어려움 프로젝트에 깊이 배어 있는 개성 은 원치 않는 기업의 활용을 어렵게 할 수 있으며, 기업이 이를 지워도 이후 변경 사항을 따라가려면 추가 작업이 필요함 기술을 쉽게 구현하도록 돕기 전에 누구에게 이익이 되는지 살피고, OIDC와 BitTorrent처럼 …",
+   "publishedAt": 1794895374000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
   },
   {
    "title": "Science at the Frontier: How scientists use ChatGPT",
@@ -349,7 +377,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -363,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": true
   },
   {
@@ -377,7 +405,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -388,10 +416,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 537,
-   "comments": 249,
+   "comments": 250,
    "publishedAt": 1794742851000,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": false
   },
   {
@@ -405,7 +433,7 @@
    "comments": 649,
    "publishedAt": 1794624779000,
    "isAI": true,
-   "score": 40.2,
+   "score": 40,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -420,7 +448,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -434,7 +462,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -448,7 +476,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -462,7 +490,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -476,7 +504,7 @@
    "comments": 61,
    "publishedAt": 1794850481000,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -490,7 +518,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -504,7 +532,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -518,7 +546,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -532,7 +560,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 39.3,
+   "score": 39,
    "hot": false
   },
   {
@@ -546,7 +574,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 39.3,
+   "score": 39,
    "hot": false
   },
   {
@@ -560,7 +588,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -574,7 +602,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -588,7 +616,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -598,11 +626,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 171,
+   "engagement": 172,
    "comments": 79,
    "publishedAt": 1794804786000,
    "isAI": false,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -616,7 +644,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -630,21 +658,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.1,
-   "hot": true
-  },
-  {
-   "title": "Frame - 31.5인치 컬러 전자종이 디스플레이",
-   "url": "https://news.hada.io/topic?id=37304&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "TRMNL이 직접 제작한 수제 목재 프레임 에 31.5인치 풀컬러 전자종이 디스플레이를 넣은 세 번째 제품 Frame 의 사전 주문을 시작함 기존 TRMNL 기능에 더해, 지정 시각에 화면을 갱신하는 Clock Sync 와 microSD를 이용해 서버에 개인정보를 보내지 않고 작동하는 오프라인 모드 를 지원함 색상 변환 엔진 Lazarus 를 개발 중이며, TRMNL은 이를 통한 색상 일치 성능이 Spectra 6 디스플레이 중 시장 최고 수준이라고 봄 충전식 배터리와 후면 USB-C 전원 연결 을 제공하며, 추가 하드웨어 없이 가",
-   "publishedAt": 1794861308000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.1,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -658,7 +672,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.4,
+   "score": 37,
    "hot": false
   },
   {
@@ -672,7 +686,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 37.3,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -686,7 +700,7 @@
    "comments": 190,
    "publishedAt": 1794785093000,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -700,7 +714,7 @@
    "comments": 146,
    "publishedAt": 1794756081000,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -714,7 +728,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -728,7 +742,7 @@
    "comments": 30,
    "publishedAt": 1794668655000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.5,
    "hot": false,
    "lastWeekRank": 5
   },
@@ -743,7 +757,7 @@
    "comments": 127,
    "publishedAt": 1794775048000,
    "isAI": false,
-   "score": 35.6,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -757,7 +771,7 @@
    "comments": 240,
    "publishedAt": 1794695190000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false,
    "lastWeekRank": 3
   },
@@ -772,7 +786,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -786,49 +800,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-   "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-   "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-   "publishedAt": 1794849000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "OpenAI will embed safety researchers to investigate AI subversion",
-   "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-   "publishedAt": 1794848563000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-   "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-   "publishedAt": 1794848400000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -842,9 +814,51 @@
    "comments": 219,
    "publishedAt": 1794660345000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.7,
    "hot": false,
    "lastWeekRank": 7
+  },
+  {
+   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+   "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+   "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+   "publishedAt": 1794849000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "OpenAI will embed safety researchers to investigate AI subversion",
+   "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+   "publishedAt": 1794848563000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+   "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+   "publishedAt": 1794848400000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.6,
+   "hot": false
   },
   {
    "title": "Audible turns to AI to help users discover audiobooks",
@@ -857,7 +871,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -871,7 +885,7 @@
    "comments": 220,
    "publishedAt": 1794678319000,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false,
    "lastWeekRank": 8
   },
@@ -886,23 +900,50 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
-   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50484658",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 489,
-   "comments": 737,
-   "publishedAt": 1794582524000,
+   "title": "세계 슈퍼컴퓨터 신규 진입 역대 최저…한국 '한강' 12위",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217486",
+   "summary": "세계 최고 성능 슈퍼컴퓨터 순위에 새로 진입한 시스템이 1993년 집계 시작 이후 가장 적은 27대를 기록했다. 고성능 컴퓨팅(HPC) 시장의 성장은 계속되고 있지만, 신규 컴퓨팅 투자가 전통적인 슈퍼컴퓨터에서 AI 데이터센터로 이동하는 흐름이 영향을 미친 것으로 분석된다.TOP500 공식 발표에 따르면, 16일(현지시간) 미국 시카고에서 열린 슈퍼컴퓨팅 2026(SC26)에서 발표된 제68회 순위에서 중국 선전 국가슈퍼컴퓨팅센터의 '라인샤인(LineShine)'이 2.198엑사플롭스(ExaFLOPS)의 성능으로 세계 1위를 유지했",
+   "publishedAt": 1794896961000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "업스테이지·코히어 '소버린 AI 동맹'…한국 넘어 아태 기업 AI 시장 정조준",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217489",
+   "summary": "업스테이지(대표 김성훈)가 캐나다의 대표 AI 기업 코히어와 손잡고 국내는 물론 아시아태평양 지역 기업용(엔터프라이즈) AI 시장 공략에 나선다. 글로벌 소버린 AI 수요에 대응하기 위한 공동 모델 개발도 추진한다.업스테이지는 규제 산업 및 정부 부문 특화 소버린 AI 기업 코히어와 전략적 제휴를 맺었다고 17일 밝혔다. 코히어는 2019년 구글 출신 연구원들이 설립한 캐나다 기업으로, 고메즈 CEO는 트랜스포머 논문의 공동 저자다.두 회사는 우선 업스테이지의 자체 대형언어모델(LLM) '솔라 프로'와 '솔라 미니', 문서 처리 A",
+   "publishedAt": 1794896857000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "스마일샤크, AWS와 스타트업 AI 세미나 개최…에이전트 적용 사례 공유",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217494",
+   "summary": "AI 클라우드 관리 전문 스마일샤크(대표 장진환)가 아마존웹서비스(AWS)와 공동으로 스타트업의 AI 사업화 전략과 에이전트 구축 사례를 공유하는 세미나를 개최했다. AI 투자 동향부터 실제 기업 업무에 적용한 기술까지 소개하며 AI 에이전트 도입에 필요한 데이터 관리와 사람의 검토 역할을 강조했다.스마일샤크는 서울 강남구 오렌지플래닛 강남센터에서 'AI로 만드는 성장, VC가 보는 기회'를 주제로 세미나를 진행했다고 17일 밝혔다.행사에서는 파트너스인베스트먼트가 AI 에이전트 스타트업 투자 현황과 전망, 관련 기업의 성공 사례를",
+   "publishedAt": 1794896722000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
    "score": 33.8,
-   "hot": false,
-   "lastWeekRank": 19
+   "hot": false
   },
   {
    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
@@ -915,9 +956,24 @@
    "comments": 111,
    "publishedAt": 1794591010000,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.6,
    "hot": false,
    "lastWeekRank": 17
+  },
+  {
+   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50484658",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 489,
+   "comments": 737,
+   "publishedAt": 1794582524000,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false,
+   "lastWeekRank": 19
   },
   {
    "title": "오픈AI, 외부 전문가에 내부 모델·학습 데이터 개방...AI 안전성 독립 검증",
@@ -930,7 +986,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "How did Woz write the Apple 1 BASIC before building the computer? (2021)",
+   "url": "https://retrocomputing.stackexchange.com/questions/17957",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50501594",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 320,
+   "comments": 178,
+   "publishedAt": 1794694969000,
+   "isAI": false,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -944,7 +1014,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -958,21 +1028,7 @@
    "comments": 129,
    "publishedAt": 1794771071000,
    "isAI": false,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "How did Woz write the Apple 1 BASIC before building the computer? (2021)",
-   "url": "https://retrocomputing.stackexchange.com/questions/17957",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50501594",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 319,
-   "comments": 178,
-   "publishedAt": 1794694969000,
-   "isAI": false,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -986,7 +1042,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1000,21 +1056,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "최예진 교수, 엔비디아 등에서 1500억 유치…'자기개선 AI' 개발",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217481",
-   "summary": "최예진 스탠퍼드대학교 교수와 카를로스 게스트린 교수가 설립한 AI 스타트업 '노에리(Noeri)'가 창업 5개월 만에 엔비디아 등 주요 기술 기업으로부터 1억1000만달러(약 1500억원)의 투자를 유치했다. 기존 AI 모델과 도구를 기업 업무에 맞게 조합하고 지속적으로 개선하는 기술을 개발하는 것으로, 창업진은 소형 AI가 여러 모델을 지휘해 특정 평가에서 GPT-5를 능가하고 과학 연구에서도 성과를 낸 바 있다.블룸버그는 16일(현지시간) 스탠퍼드대의 저명한 AI 연구자 두 명이 공동 창업한 노에리가 1억1000만달러를 유치하고",
-   "publishedAt": 1794887113000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1028,22 +1070,37 @@
    "comments": 921,
    "publishedAt": 1794484001000,
    "isAI": true,
-   "score": 33.1,
+   "score": 33,
    "hot": false,
    "lastWeekRank": 29
   },
   {
-   "title": "캘리포니아주, 오픈AI 상대 소송...\"AI 에이전트 통제 실패 80건 넘어\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217476",
-   "summary": "미국 캘리포니아주가 AI 모델 개발과 시험 과정에서 안전조치를 소홀히 해 사이버 공격을 초래했다며 오픈AI를 상대로 소송을 제기했다. AI 모델의 자율적 행동으로 발생한 사이버 사고에 주정부가 직접 법적 책임을 묻는 첫 사례다.월스트리트저널(WSJ)과 로이터 등에 따르면, 캘리포니아주 법무장관실은 16일(현지시간) 샌프란시스코 카운티 상급법원에 오픈AI를 상대로 소송을 제기했다고 발표했다.롭 본타 캘리포니아주 법무장관은 오픈AI가 위험성을 인지한 상태에서 충분한 안전장치와 감독 없이 모델을 시험했으며, 관련 사고를 막기 위한 조치도",
-   "publishedAt": 1794885208000,
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "url": "https://status.claude.com/incidents/nn11wk485zfn",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50481187",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 493,
+   "comments": 393,
+   "publishedAt": 1794565093000,
+   "isAI": true,
+   "score": 32.9,
+   "hot": false,
+   "lastWeekRank": 22
+  },
+  {
+   "title": "최예진 교수, 엔비디아 등에서 1500억 유치…'자기개선 AI' 개발",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217481",
+   "summary": "최예진 스탠퍼드대학교 교수와 카를로스 게스트린 교수가 설립한 AI 스타트업 '노에리(Noeri)'가 창업 5개월 만에 엔비디아 등 주요 기술 기업으로부터 1억1000만달러(약 1500억원)의 투자를 유치했다. 기존 AI 모델과 도구를 기업 업무에 맞게 조합하고 지속적으로 개선하는 기술을 개발하는 것으로, 창업진은 소형 AI가 여러 모델을 지휘해 특정 평가에서 GPT-5를 능가하고 과학 연구에서도 성과를 낸 바 있다.블룸버그는 16일(현지시간) 스탠퍼드대의 저명한 AI 연구자 두 명이 공동 창업한 노에리가 1억1000만달러를 유치하고",
+   "publishedAt": 1794887113000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1057,24 +1114,23 @@
    "comments": 313,
    "publishedAt": 1794664086000,
    "isAI": false,
-   "score": 33,
+   "score": 32.7,
    "hot": false,
    "lastWeekRank": 13
   },
   {
-   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-   "url": "https://status.claude.com/incidents/nn11wk485zfn",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50481187",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 493,
-   "comments": 393,
-   "publishedAt": 1794565093000,
+   "title": "캘리포니아주, 오픈AI 상대 소송...\"AI 에이전트 통제 실패 80건 넘어\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217476",
+   "summary": "미국 캘리포니아주가 AI 모델 개발과 시험 과정에서 안전조치를 소홀히 해 사이버 공격을 초래했다며 오픈AI를 상대로 소송을 제기했다. AI 모델의 자율적 행동으로 발생한 사이버 사고에 주정부가 직접 법적 책임을 묻는 첫 사례다.월스트리트저널(WSJ)과 로이터 등에 따르면, 캘리포니아주 법무장관실은 16일(현지시간) 샌프란시스코 카운티 상급법원에 오픈AI를 상대로 소송을 제기했다고 발표했다.롭 본타 캘리포니아주 법무장관은 오픈AI가 위험성을 인지한 상태에서 충분한 안전장치와 감독 없이 모델을 시험했으며, 관련 사고를 막기 위한 조치도",
+   "publishedAt": 1794885208000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 33,
-   "hot": false,
-   "lastWeekRank": 22
+   "score": 32.7,
+   "hot": false
   },
   {
    "title": "알트먼 \"젠슨 황 없이도 AI 산업 괜찮을 것\"...복귀 지지는 유보",
@@ -1087,7 +1143,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1100,20 +1156,6 @@
    "engagement": 103,
    "comments": 60,
    "publishedAt": 1794778691000,
-   "isAI": false,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "Eclipse Mosquitto – An open source MQTT broker",
-   "url": "https://github.com/eclipse-mosquitto/mosquitto",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50509416",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 111,
-   "comments": 42,
-   "publishedAt": 1794767800000,
    "isAI": false,
    "score": 32.1,
    "hot": false
@@ -1129,9 +1171,23 @@
    "comments": 202,
    "publishedAt": 1794663377000,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false,
    "lastWeekRank": 16
+  },
+  {
+   "title": "Eclipse Mosquitto – An open source MQTT broker",
+   "url": "https://github.com/eclipse-mosquitto/mosquitto",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50509416",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 111,
+   "comments": 42,
+   "publishedAt": 1794767800000,
+   "isAI": false,
+   "score": 31.8,
+   "hot": false
   },
   {
    "title": "AI is destroying the trust between writers and readers",
@@ -1144,7 +1200,7 @@
    "comments": 239,
    "publishedAt": 1794568426000,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false,
    "lastWeekRank": 25
   },
@@ -1159,7 +1215,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1173,7 +1229,7 @@
    "comments": 353,
    "publishedAt": 1794506508000,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 34
   },
@@ -1188,7 +1244,7 @@
    "comments": 132,
    "publishedAt": 1794670852000,
    "isAI": false,
-   "score": 31.3,
+   "score": 31.1,
    "hot": false,
    "lastWeekRank": 21
   },
@@ -1203,7 +1259,7 @@
    "comments": 165,
    "publishedAt": 1794509521000,
    "isAI": true,
-   "score": 31,
+   "score": 30.9,
    "hot": false,
    "lastWeekRank": 37
   },
@@ -1218,9 +1274,24 @@
    "comments": 996,
    "publishedAt": 1794507648000,
    "isAI": false,
-   "score": 31,
+   "score": 30.8,
    "hot": false,
    "lastWeekRank": 40
+  },
+  {
+   "title": "My AI agents found an unmapped Maya site?",
+   "url": "https://pietromiotti.com/latest/maya-site",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50452455",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1036,
+   "comments": 392,
+   "publishedAt": 1794398722000,
+   "isAI": true,
+   "score": 30.8,
+   "hot": false,
+   "lastWeekRank": 55
   },
   {
    "title": "No AI Slop: A Manifesto",
@@ -1233,7 +1304,7 @@
    "comments": 133,
    "publishedAt": 1794599516000,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.7,
    "hot": false,
    "lastWeekRank": 28
   },
@@ -1248,24 +1319,9 @@
    "comments": 194,
    "publishedAt": 1794520571000,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.7,
    "hot": false,
    "lastWeekRank": 43
-  },
-  {
-   "title": "My AI agents found an unmapped Maya site?",
-   "url": "https://pietromiotti.com/latest/maya-site",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50452455",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1036,
-   "comments": 392,
-   "publishedAt": 1794398722000,
-   "isAI": true,
-   "score": 30.9,
-   "hot": false,
-   "lastWeekRank": 55
   },
   {
    "title": "California sues OpenAI over rogue AI hacking incidents",
@@ -1278,7 +1334,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1292,7 +1348,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1306,7 +1362,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1320,7 +1376,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1334,7 +1390,7 @@
    "comments": 693,
    "publishedAt": 1794536184000,
    "isAI": false,
-   "score": 30.4,
+   "score": 30.2,
    "hot": false,
    "lastWeekRank": 41
   },
@@ -1349,21 +1405,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.4,
-   "hot": false
-  },
-  {
-   "title": "Apple launches new app to study how people use AI for health",
-   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-   "summary": "Apple's new app for a study will answer everyday medical questions.",
-   "publishedAt": 1794792600000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 30.2,
+   "score": 30.1,
    "hot": false
   },
   {
@@ -1377,54 +1419,9 @@
    "comments": 105,
    "publishedAt": 1794524777000,
    "isAI": true,
-   "score": 30,
+   "score": 29.9,
    "hot": false,
    "lastWeekRank": 45
-  },
-  {
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50458900",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 682,
-   "comments": 710,
-   "publishedAt": 1794432275000,
-   "isAI": true,
-   "score": 30,
-   "hot": false,
-   "lastWeekRank": 58
-  },
-  {
-   "title": "Rust 1.100",
-   "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50472038",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 901,
-   "comments": 321,
-   "publishedAt": 1794508745000,
-   "isAI": false,
-   "score": 29.8,
-   "hot": false,
-   "lastWeekRank": 51
-  },
-  {
-   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-   "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50474959",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 799,
-   "comments": 225,
-   "publishedAt": 1794520989000,
-   "isAI": false,
-   "score": 29.7,
-   "hot": false,
-   "lastWeekRank": 48
   }
  ]
 }
