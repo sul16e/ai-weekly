@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794874962346,
+ "updatedAt": 1794878620387,
  "week": "2026-W47",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 813,
-   "comments": 494,
+   "engagement": 833,
+   "comments": 505,
    "publishedAt": 1794836347000,
    "isAI": false,
-   "score": 57.2,
+   "score": 56.8,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1254,
-   "comments": 651,
+   "engagement": 1259,
+   "comments": 652,
    "publishedAt": 1794754018000,
    "isAI": true,
-   "score": 54.9,
+   "score": 54.5,
    "hot": false
   },
   {
@@ -41,7 +41,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 53.6,
+   "score": 53.1,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 331,
-   "comments": 211,
+   "engagement": 335,
+   "comments": 213,
    "publishedAt": 1794853037000,
    "isAI": false,
-   "score": 52,
+   "score": 51.5,
    "hot": true
   },
   {
@@ -65,11 +65,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 289,
-   "comments": 69,
+   "engagement": 305,
+   "comments": 73,
    "publishedAt": 1794848019000,
    "isAI": false,
    "score": 50,
+   "hot": true
+  },
+  {
+   "title": "AVA - AI 에이전트용 데이터 분석 및 시각화 프레임워크",
+   "url": "https://news.hada.io/topic?id=37317&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "앱이나 AI 에이전트에 자연어로 데이터를 분석하고 차트를 만드는 기능 을 붙이는 JavaScript 프레임워크 “1월과 2월 매출을 제품별로 비교해 줘”라고 물으면 SQL을 생성해 실행하고, 결과 데이터와 요약 을 반환. 실행한 쿼리도 확인할 수 있음 CSV, Excel, Parquet 파일과 PostgreSQL, MySQL 등 을 연결하고, 파일과 DB의 데이터를 한 쿼리에서 함께 분석 열 구조와 결측치를 살펴보고 할인 후 금액을 매출로 본다 같은 업무 기준을 분석에 반영. 데이터에서 살펴볼 만한 질문도 제안 분석 결과와 질문에 ",
+   "publishedAt": 1794875402000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "AI 슬롭은 왜 이렇게 읽기 짜증날까?",
+   "url": "https://news.hada.io/topic?id=37316&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "AI 슬롭이 읽기 괴로운 이유는 불명확한 글쓰기 에 있음. 단어를 다 알아도 누가 무엇을 했는지, 요점이 무엇인지 다시 짚어야 하는 문장 이 자주 나옴 업무에서는 이런 글이 Slack 메시지나 PR 설명처럼 그냥 넘길 수 없는 글 에 섞여 있어, 이미 복잡한 내용을 해독해야 하는 독자의 부담이 커짐 불명확한 글에서는 행위자와 행동을 숨기는 문장 , 모호한 표현, 내용 없는 문장과 잘못된 강조라는 세 가지 결함이 반복됨 Claude Code 응답에서 가장 흔한 결함은 모호한 표현 임. 특히 DB 준비 상태 확인이 사용자 세션 진입 경",
+   "publishedAt": 1794874804000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.4,
+   "hot": true
+  },
+  {
+   "title": "GitHub에서 Codeberg로 이전하기",
+   "url": "https://news.hada.io/topic?id=37314&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Inko와 개인 프로젝트 를 Codeberg로 이전하면서 70개 이상의 저장소를 검토함. GitHub 복귀 후 기여자는 다소 늘었지만, AI로 생성한 저품질 기여와 자유 소프트웨어 가치에 대한 우려가 다시 이전을 택한 배경임 저장소 가져오기 는 대체로 작동했지만, GitHub 요청 제한에 걸려도 안내가 없고 사용자 연결과 이슈 유형은 별도 처리가 필요했음 Forgejo Actions 는 기존 GitHub Actions 설정을 활용하기에 유리했지만 완전히 호환되지는 않음. 공유 러너의 자원, 플랫폼, 이미지 갱신 제약 때문에 자체 러",
+   "publishedAt": 1794873891000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.3,
    "hot": true
   },
   {
@@ -83,8 +125,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49.5,
+   "score": 49,
    "hot": false
+  },
+  {
+   "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+   "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50524736",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 187,
+   "comments": 88,
+   "publishedAt": 1794869900000,
+   "isAI": false,
+   "score": 48.7,
+   "hot": true
   },
   {
    "title": "Our first phase of embedded assessments",
@@ -97,8 +153,36 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 49,
+   "score": 48.5,
    "hot": false
+  },
+  {
+   "title": "Carnegie Mellon, 컴퓨터 과학 강의를 YouTube에 무료 공개",
+   "url": "https://news.hada.io/topic?id=37307&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "CS Learn 을 통해 Carnegie Mellon 교수진의 실제 수업 전체 강의를 YouTube에서 무료로 시청할 수 있음 7개 학과 의 강의를 공개하며, AI, 로보틱스, 시스템, 생물학 등 여러 분야를 다룸 대규모 데이터셋 머신러닝과 컴퓨팅 원리 강의는 현재 시청 가능 하며, 소프트웨어 구축, 머신러닝 시스템, AI 에이전트 등의 강의가 11월 공개 일정에 포함됨 2027년 1월 에는 확률과 컴퓨팅, 멀티모달 머신러닝 등 5개 강의를 추가로 공개할 예정임 향후 무료 자기주도형 학습 자료 를 제공하고, 즉각적인 피드백과 배지 ",
+   "publishedAt": 1794868282000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.5,
+   "hot": true
+  },
+  {
+   "title": "CNN, Zoom, Fox News Served Visitors a Crypto-Stealing Skimmer – OPTIMJACK",
+   "url": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50523300",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 185,
+   "comments": 2,
+   "publishedAt": 1794863318000,
+   "isAI": false,
+   "score": 47.7,
+   "hot": true
   },
   {
    "title": "Nvidia was in trouble before the Jensen Huang mess",
@@ -107,11 +191,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 249,
-   "comments": 225,
+   "engagement": 254,
+   "comments": 229,
    "publishedAt": 1794842649000,
    "isAI": false,
-   "score": 48,
+   "score": 47.7,
+   "hot": true
+  },
+  {
+   "title": "Rust changed me as a developer",
+   "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50522563",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 180,
+   "comments": 114,
+   "publishedAt": 1794860210000,
+   "isAI": false,
+   "score": 47,
    "hot": true
   },
   {
@@ -125,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": true
   },
   {
@@ -139,21 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47,
-   "hot": true
-  },
-  {
-   "title": "Rust changed me as a developer",
-   "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50522563",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 164,
-   "comments": 104,
-   "publishedAt": 1794860210000,
-   "isAI": false,
-   "score": 46.7,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -167,7 +251,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 46.2,
+   "score": 45.8,
    "hot": true
   },
   {
@@ -177,11 +261,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 458,
-   "comments": 566,
+   "engagement": 460,
+   "comments": 570,
    "publishedAt": 1794786955000,
    "isAI": false,
-   "score": 45.8,
+   "score": 45.4,
    "hot": false
   },
   {
@@ -195,21 +279,21 @@
    "comments": 273,
    "publishedAt": 1794767770000,
    "isAI": false,
-   "score": 45.8,
+   "score": 45.4,
    "hot": false
   },
   {
-   "title": "“…그리고 이 증명은 Lean으로 검증됐습니다”",
-   "url": "https://news.hada.io/topic?id=37290&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "AI가 생성한 Lean 코드 를 근거로 정리가 옳다고 판단하려면, 명제의 일치 여부, 실제 컴파일, 증명의 대상과 공리, 커널 버그 악용 여부를 확인해야 함 정리의 명제와 증명은 별개 이며, Lean 코드가 논문의 핵심 정리를 기술하는지부터 확인해야 함. OpenAI가 공개한 Lean 코드 포함 정리 290개 중 약 38개는 논문의 핵심 정리 자체를 기술하지 않음 lake comparator 는 신뢰할 수 있는 파일의 명제와 비신뢰 코드를 가져와 증명한 명제가 동일한지, 증명이 수학의 공리만 사용하는지 검사함 lake compara",
-   "publishedAt": 1794844164000,
-   "source": "GeekNews",
+   "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+   "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50517321",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.7,
+   "lang": "en",
+   "engagement": 212,
+   "comments": 157,
+   "publishedAt": 1794835102000,
+   "isAI": false,
+   "score": 45.1,
    "hot": true
   },
   {
@@ -223,22 +307,8 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.4,
+   "score": 45,
    "hot": false
-  },
-  {
-   "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-   "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50517321",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 199,
-   "comments": 136,
-   "publishedAt": 1794835102000,
-   "isAI": false,
-   "score": 45.1,
-   "hot": true
   },
   {
    "title": "A step toward defining the Standard Model on a lattice",
@@ -251,7 +321,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.2,
    "hot": false
   },
   {
@@ -265,7 +335,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.2,
    "hot": false
   },
   {
@@ -279,21 +349,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 43.9,
-   "hot": false
-  },
-  {
-   "title": "Show GN: MaaC – 악보를 코드로 쓰고 AI가 편곡까지 하게 만든 음악 언어와 Rust CLI",
-   "url": "https://news.hada.io/topic?id=37285&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "왜 만들었나 저는 노래를 좋아해서 제 곡을 직접 만들어 보고 싶었습니다. 작곡 자체는 생각보다 어렵지 않았습니다. 스케일을 고르고, 코드 진행을 짜고, 멜로디를 붙이고, 가사를 쓰면 되니까요. 어려운 건 편곡이었습니다. 드럼, 베이스, 패드, 기타를 어떻게 얹고 섹션마다 어떻게 변화를 줄지는 완전히 다른 차원의 일이었습니다. 공부량이 엄청나더군요. 그래서 구글 Lyria와 Suno를 써 봤는데, 제 경우에는 내가 원하는 멜로디를 고정하기가 어려웠습니다. 수노는 유료라 접근성도 떨어졌습니다. 그러다 생각했습니다. 악보라는 건 …",
-   "publishedAt": 1794829774000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 43.9,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -307,8 +363,50 @@
    "comments": 256,
    "publishedAt": 1794742851000,
    "isAI": false,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
+  },
+  {
+   "title": "CI 시장은 세 갈래로 나뉘었다",
+   "url": "https://news.hada.io/topic?id=37320&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "CI 시장은 범용 러너 인프라, 오케스트레이션 플랫폼, 코드/빌드 엔지니어링 계층으로 나뉘며, 각각 실행 비용과 속도, 실행 환경 제어, 파이프라인 프로그래밍 가능성에 초점을 맞춤 GitHub Actions 는 커뮤니티 액션과 통합 기능으로 생태계의 중심을 차지하지만, 속도와 디버깅의 한계, 2026년의 안정성 문제로 경쟁 우위가 약해지고 있음 러너 교체형 서비스 는 기존 워크플로를 유지하면서 더 빠르거나 저렴한 실행 환경을 제공함. YAML이 표준으로 자리 잡고 러너가 범용 상품이 되면서 이 분야의 경쟁이 가장 치열함 에이전트가 ",
+   "publishedAt": 1794876001000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
+  },
+  {
+   "title": "세계 최대 브랜드들, Optimizely를 통해 악성코드에 감염",
+   "url": "https://news.hada.io/topic?id=37319&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Optimizely Web의 고객 프로젝트에 악성 JavaScript가 삽입 돼 Zoom, BBC, CNN, Salesforce, GitLab 등 178개 조직의 사이트 방문자에게 배포됨 공격자는 모든 페이지에서 실행되는 Project JavaScript 를 변조해 신뢰받던 Optimizely CDN으로 악성코드를 전달했으며, 다수 고객 프로젝트의 쓰기 권한을 확보한 경로는 아직 확인되지 않음 악성코드는 암호화폐 주소 바꿔치기와 카드 정보 탈취 , 쿠키와 화면 캡처 유출을 수행하고, iPhone과 iPad에는 Coruna와 Dark",
+   "publishedAt": 1794875990000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
+  },
+  {
+   "title": "United Airlines, 광범위한 시스템 장애 발생했다고 밝혀",
+   "url": "https://news.hada.io/topic?id=37318&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "United Airlines 에서 월요일 약 30분간 시스템 장애가 발생해 미국 공항의 일부 출발편이 지연됐으며, 항공사는 이후 복구를 발표함 영향을 받은 항공편은 150편 미만 이며, 이미 비행 중인 항공편과 United Express 항공편에는 영향이 없었음 승무원이 사용하는 비행 계획, 기상 브리핑, 승무원 관리 도구 에 접근 문제가 생겼고, 조종사에게 로그아웃하지 말라는 지침이 내려짐 FAA는 항공사 측 기술 장애 로 FAA 장비 문제는 아니라고 밝혔으며, United는 사이버보안 관련 문제라는 징후가 없다고 전함 이번 장애",
+   "publishedAt": 1794875810000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
   },
   {
    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
@@ -317,13 +415,41 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1111,
+   "engagement": 1112,
    "comments": 649,
    "publishedAt": 1794624779000,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.3,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "Rust가 개발자로서의 나를 바꾼 방식",
+   "url": "https://news.hada.io/topic?id=37313&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Rust를 6년 넘게 사용하고 4년 이상 실무에 적용한 경험 을 통해, 타입과 추상화, 소유권, 성능을 생각하는 방식이 달라짐 합 타입과 정적 디스패치 는 인터페이스나 런타임 분기에만 의존하지 않고 도메인을 모델링할 수 있게 하며, 추상화와 성능 사이의 비용을 더 명확히 드러냄 타입 주도 개발 은 실행 전 오류 검사에 그치지 않고 설계와 API를 다듬는 도구가 됨 컴파일 시점 매크로 로 반복 코드를 만들 수 있음. Serde는 타입에 속성을 붙이면 직렬화 코드를 생성하고, Clap은 타입과 문서 주석을 바탕으로 명령줄 인자 파싱과 ",
+   "publishedAt": 1794872316000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
+  },
+  {
+   "title": "BugMeNot 서비스 종료",
+   "url": "https://news.hada.io/topic?id=37311&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "BugMeNot 이 웹사이트에 서비스 종료 공지를 게시함 “ 더 나은 인터넷 ”을 꿈꿨던 모든 사람에게 감사 인사를 남김 공지에는 종료 이유나 구체적인 종료 시점 이 적혀 있지 않음 감사 인사 아래에는 영문 대문자 네 글자씩 묶인 문자열 이 실려 있음 문자열의 의미나 해독 방법 에 대한 안내는 없음 종료 공지 BugMeNot 웹사이트에 “BugMeNot has closed.”라는 종료 문구가 표시됨 “더 나은 인터넷을 꿈꿨던 모든 분께 감사드립니다”라는 감사 인사 외에 종료 경위나 후속 안내는 없음 이어지는 대문자 문자열 은 DXX",
+   "publishedAt": 1794872136000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
   },
   {
    "title": "Advancing computer-use agents for healthcare teams",
@@ -336,7 +462,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": false
   },
   {
@@ -350,8 +476,36 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": false
+  },
+  {
+   "title": "Aristotle Expands into Rust",
+   "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50520270",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 101,
+   "comments": 50,
+   "publishedAt": 1794850481000,
+   "isAI": false,
+   "score": 40.7,
+   "hot": false
+  },
+  {
+   "title": "Microsoft, 대규모 이메일 장애 원인으로 7월 패치에 유입된 소프트웨어 결함 지목",
+   "url": "https://news.hada.io/topic?id=37306&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Microsoft의 예비 사고 보고서에 따르면, 2026년 7월 네트워크 게이트웨이 패치에 유입된 결함 이 11월 부하 증가와 가용 용량 감소가 겹치면서 발현해 Exchange Online 등에서 대규모 장애를 일으킴 결함은 Windows 내부 프로세스의 잠금 경합 으로 CPU와 메모리를 고갈시켰으며, 기존 부하 테스트에 사용한 저사양 하드웨어보다 코어가 많은 최신 하드웨어에서 더 심해졌음 Teams의 게이트웨이 전환과 서버 용량 약 14%의 가동 중단 이 겹친 뒤, 트래픽 재라우팅이 연쇄 장애를 일으켜 최악의 시점에는 서버 80%",
+   "publishedAt": 1794864738000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.3,
+   "hot": true
   },
   {
    "title": "New Ask Maps features to help with holiday travel and prep",
@@ -364,7 +518,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -378,7 +532,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -392,7 +546,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -406,7 +560,7 @@
    "comments": 79,
    "publishedAt": 1794804786000,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -420,7 +574,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -434,7 +588,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 39.6,
+   "score": 39.2,
    "hot": false
   },
   {
@@ -448,7 +602,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -462,7 +616,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -476,7 +630,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -490,7 +644,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -504,7 +658,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -518,7 +672,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -532,64 +686,8 @@
    "comments": 186,
    "publishedAt": 1794785093000,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": false
-  },
-  {
-   "title": "커피하우스와 과학의 부상 [pdf]",
-   "url": "https://news.hada.io/topic?id=37293&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "17세기 런던에서 교구 내 첫 커피하우스 가 문을 연 뒤 응용과학자와 과학기구 상점이 지속적으로 늘어남 증가는 옥스퍼드와 케임브리지에 대한 가문 연계가 약한 실무자 에게 집중됐으며, 기구 제작자의 기술과 이론가의 지식을 잇는 사회적 연결도 늘어남 커피하우스 개점 교구에서 수학 실무자는 개점 전 평균 0.62명에서 개점 시기와 이후 관측 기간 평균 1.30명으로, 과학기구 상점 은 0.33곳에서 1.57곳으로 증가함 유럽 도시에서도 첫 커피하우스 개점 뒤 응용수학 서적과 과학기구 제작자가 늘었지만, 이 도시 간 비교는 인과효과가 …",
-   "publishedAt": 1794844704000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.4,
-   "hot": true
-  },
-  {
-   "title": "먹통 노트북을 되살리는 ThinkPad의 비밀 전원 버튼 코드 (2007)",
-   "url": "https://news.hada.io/topic?id=37292&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "전원 버튼과 충전 연결에 전혀 반응하지 않던 Lenovo ThinkPad z61t 가 IBM 지원 담당자의 전원 버튼 조작 안내를 따른 뒤 정상 작동함 당시 노트북은 절전 상태였는데도 매우 뜨거웠고 , 절전 표시등과 배터리 표시등 모두 꺼져 있었으며 배터리를 뺐다 끼워도 반응이 없었음 복구 절차는 AC 어댑터와 배터리를 분리 한 뒤 전원 버튼을 1초 간격으로 10번 누르고, 이어서 30초 동안 길게 누르는 방식임 이후 배터리를 다시 장착하고 전원 버튼을 누르자 노트북이 이전처럼 정상적으로 켜짐 지원 담당자는 이를 정전기 방전(sta",
-   "publishedAt": 1794844524000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.4,
-   "hot": true
-  },
-  {
-   "title": "Amazon의 할인 착시: ‘특가’ 약 3개 중 1개는 절약 효과 없고, 약 10개 중 1개는 더 비싸",
-   "url": "https://news.hada.io/topic?id=37291&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Groundwork Collaborative가 2024~2025년 Amazon의 Black Friday와 Cyber Monday 특가 상품 350개 이상 을 분석한 결과, 약 3분의 1은 행사 전 한 달 동안 같거나 더 낮은 가격에 구매할 수 있었음 조사 대상 특가 상품의 약 10분의 1은 행사 때 오히려 더 비쌌으며 , 이들 상품의 행사 가격은 이전 수 주간 구매 가능했던 가격보다 중앙값 기준 19% 높았음 2025년 행사에서 Hunter 레인부츠는 행사 시작 9일 전보다 59% , UGG Butte 부츠는 약 4주 전보다 83%",
-   "publishedAt": 1794844344000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.4,
-   "hot": true
-  },
-  {
-   "title": "도대체 w2rt6byl5nf1opmc-a.com은 뭐 하는 도메인인가?",
-   "url": "https://news.hada.io/topic?id=37289&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "DNS 조회조차 되지 않는 도메인 이 Majestic Million에서 Google, Facebook, Apple 등에 이어 8위에 올라 있음 Majestic Million은 해당 도메인에 링크를 건 서로 다른 IP 서브넷의 수 로 순위를 매김. 이 도메인은 상위 100개 중 가장 빠르게 성장하고 있음 Majestic은 약 2억 4,100만 개의 백링크 를 집계했지만, Ahrefs에서 확인되는 백링크는 53개뿐으로 두 서비스의 수치가 크게 엇갈림 Majestic에는 도메인 등록일보다 앞선 백링크 가 있었고, 링크에 쓰인 문구별 집계",
-   "publishedAt": 1794843984000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.4,
-   "hot": true
   },
   {
    "title": "California state AG sues OpenAI over rogue agent incidents",
@@ -602,7 +700,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -613,25 +711,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 232,
-   "comments": 141,
+   "comments": 142,
    "publishedAt": 1794756081000,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": false
-  },
-  {
-   "title": "Show GN: Pdfable - 브라우저에서 PDF의 기존 텍스트를 직접 편집하는 도구",
-   "url": "https://news.hada.io/topic?id=37288&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "안녕하세요. PDF를 브라우저에서 직접 편집할 수 있는 도구인 Pdfable을 만들고 운영하고 있습니다. Pdfable은 PDF 문서에 이미 들어 있는 텍스트를 직접 수정하고, 편집한 결과를 다시 PDF로 내보낼 수 있는 온라인 PDF 편집기입니다. PDF에서 몇 글자만 수정하면 되는 경우에도 기존에는 문서를 Word로 변환한 뒤 수정하고 다시 PDF로 저장하는 경우가 많았습니다. 이 과정에서 글꼴이나 줄바꿈, 페이지 레이아웃이 달라지기도 합니다. 일부 온라인 PDF 편집기도 기존 내용을 수정하기보다는 새로운 텍스트 상자를 위에 추",
-   "publishedAt": 1794837266000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.6,
-   "hot": true
   },
   {
    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
@@ -644,36 +728,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.1,
    "hot": false
-  },
-  {
-   "title": "Debian, 6.1.0-55 커널 업데이트 후 무응답 발생",
-   "url": "https://news.hada.io/topic?id=37287&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Debian 커널 패키지 6.1.192-1 업데이트 후 서버와 가상 머신이 응답하지 않는 문제가 신고됐으며, 로그에서 EXT4의 NULL 포인터 역참조가 확인됨 최초 신고 서버는 재부팅 몇 분 뒤 IMAP, SMTP, HTTP, SSH 요청에 응답하지 않았고, 이후 로컬 인터페이스도 멈춤 amd64, arm64, i686 환경에서 유사한 충돌이 보고됐으며, KVM 게스트 5대에서는 부팅 후 25초부터 약 5시간 사이에 발생함 여러 신고 환경에서 이전 커널 6.1.0-54 (6.1.190-1) 는 안정적으로 동작했으며, EXT4 캐시",
-   "publishedAt": 1794836090000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.5,
-   "hot": true
-  },
-  {
-   "title": "Show GN: redfirst, PR이 추가한 테스트가 수정 전에도 통과하는지 확인하는 도구",
-   "url": "https://news.hada.io/topic?id=37286&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "코딩 에이전트가 버그를 고치는 PR에는 보통 테스트가 같이 붙어 옵니다. 그 테스트가 정말 그 수정을 검사하는지 궁금해서, 에이전트가 연 버그 수정 PR 120건을 다시 돌려 봤습니다. 별 100개가 넘는 파이썬 저장소에서 병합된 PR이고, 저장소마다 한 건씩 골랐습니다. 방법은 단순합니다. PR이 바꾼 테스트 파일은 그대로 두고 나머지 파일을 PR 전으로 되돌린 다음, PR이 추가하거나 고친 테스트만 다시 돌립니다. 수정을 되돌렸는데도 새 테스트가 모두 통과한다면 그 테스트는 수정을 검사하지 않는 겁니다. 남의 코드라서 격리된 컨",
-   "publishedAt": 1794834660000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.4,
-   "hot": true
   },
   {
    "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
@@ -686,35 +742,7 @@
    "comments": 124,
    "publishedAt": 1794775048000,
    "isAI": false,
-   "score": 37.3,
-   "hot": false
-  },
-  {
-   "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-   "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-   "publishedAt": 1794850603000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 37.2,
-   "hot": false
-  },
-  {
-   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-   "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-   "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-   "publishedAt": 1794849000000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 37.1,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -728,36 +756,22 @@
    "comments": 30,
    "publishedAt": 1794668655000,
    "isAI": true,
-   "score": 37,
+   "score": 36.8,
    "hot": false,
    "lastWeekRank": 5
   },
   {
-   "title": "OpenAI will embed safety researchers to investigate AI subversion",
-   "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-   "publishedAt": 1794848563000,
+   "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+   "publishedAt": 1794850603000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-   "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-   "publishedAt": 1794848400000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 37,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -771,9 +785,51 @@
    "comments": 239,
    "publishedAt": 1794695190000,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.7,
    "hot": false,
    "lastWeekRank": 3
+  },
+  {
+   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+   "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+   "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+   "publishedAt": 1794849000000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.7,
+   "hot": false
+  },
+  {
+   "title": "OpenAI will embed safety researchers to investigate AI subversion",
+   "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+   "publishedAt": 1794848563000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.6,
+   "hot": false
+  },
+  {
+   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+   "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+   "publishedAt": 1794848400000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36.6,
+   "hot": false
   },
   {
    "title": "Audible turns to AI to help users discover audiobooks",
@@ -786,21 +842,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.6,
-   "hot": false
-  },
-  {
-   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-   "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-   "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-   "publishedAt": 1794841354000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.3,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -814,22 +856,22 @@
    "comments": 219,
    "publishedAt": 1794660345000,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false,
    "lastWeekRank": 7
   },
   {
-   "title": "Linux 7.4-rc3",
-   "url": "https://news.hada.io/topic?id=37282&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Linus Torvalds 가 linux-kernel 목록에 올린 Linux 7.4-rc3 글임. 변경은 아주 많지만, 실제 패치의 대부분은 작다고 함. 파일시스템이 diffstat 에 보이는 것은 더 큰 패치가 몇 개 있기 때문이고, iomap 호출 규약 변경은 꽤 사소하지만 크며, smb 클라이언트 수정이 몇 개라고 함. selftest 여러 개와 문서 갱신도 있다고 함.",
-   "publishedAt": 1794823864000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
+   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+   "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+   "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+   "publishedAt": 1794841354000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
    "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.2,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -843,7 +885,7 @@
    "comments": 219,
    "publishedAt": 1794678319000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.6,
    "hot": false,
    "lastWeekRank": 8
   },
@@ -858,7 +900,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.3,
+   "score": 35,
    "hot": false
   },
   {
@@ -872,7 +914,7 @@
    "comments": 129,
    "publishedAt": 1794771071000,
    "isAI": false,
-   "score": 35.1,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -886,7 +928,7 @@
    "comments": 178,
    "publishedAt": 1794694969000,
    "isAI": false,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -900,7 +942,7 @@
    "comments": 731,
    "publishedAt": 1794582524000,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false,
    "lastWeekRank": 19
   },
@@ -915,7 +957,7 @@
    "comments": 111,
    "publishedAt": 1794591010000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false,
    "lastWeekRank": 17
   },
@@ -930,23 +972,9 @@
    "comments": 313,
    "publishedAt": 1794664086000,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false,
    "lastWeekRank": 13
-  },
-  {
-   "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-   "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50511072",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 103,
-   "comments": 60,
-   "publishedAt": 1794778691000,
-   "isAI": false,
-   "score": 34,
-   "hot": false
   },
   {
    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
@@ -959,22 +987,22 @@
    "comments": 392,
    "publishedAt": 1794565093000,
    "isAI": true,
-   "score": 34,
+   "score": 33.8,
    "hot": false,
    "lastWeekRank": 22
   },
   {
-   "title": "[AI리더의 서가] 실전 AI 프로젝트 완주의 기술",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217281",
-   "summary": "실전 AI 프로젝트 완주의 기술서창호 | 한빛미디어2026년 11월 10일추천이유이 책은 높은 모델 성능보다 현업의 실제 문제 해결을 중심으로, AI 프로젝트의 시작부터 완주까지 체계적인 판단과 실행 기준을 제시합니다. STAR 프레임워크와 산업 사례를 통해 독자가 자신의 문제를 설계하고 결과로 연결하는 방법을 배울 수 있습니다.상세보기 연말이 다가오면 기업마다 내년 사업계획서에 AI 과제를 한 줄씩 올린다. 올해는 지난 1월 AI 기본법이 시행된 뒤 맞는 첫 계획 시즌이다. 무엇을 AI로 풀지뿐 아니라, 어디까지 AI에 맡기고 누",
-   "publishedAt": 1794873600000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.9,
+   "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+   "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50511072",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 103,
+   "comments": 60,
+   "publishedAt": 1794778691000,
+   "isAI": false,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -988,9 +1016,23 @@
    "comments": 921,
    "publishedAt": 1794484001000,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.7,
    "hot": false,
    "lastWeekRank": 29
+  },
+  {
+   "title": "[AI리더의 서가] 실전 AI 프로젝트 완주의 기술",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217281",
+   "summary": "실전 AI 프로젝트 완주의 기술서창호 | 한빛미디어2026년 11월 10일추천이유이 책은 높은 모델 성능보다 현업의 실제 문제 해결을 중심으로, AI 프로젝트의 시작부터 완주까지 체계적인 판단과 실행 기준을 제시합니다. STAR 프레임워크와 산업 사례를 통해 독자가 자신의 문제를 설계하고 결과로 연결하는 방법을 배울 수 있습니다.상세보기 연말이 다가오면 기업마다 내년 사업계획서에 AI 과제를 한 줄씩 올린다. 올해는 지난 1월 AI 기본법이 시행된 뒤 맞는 첫 계획 시즌이다. 무엇을 AI로 풀지뿐 아니라, 어디까지 AI에 맡기고 누",
+   "publishedAt": 1794873600000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
+   "hot": false
   },
   {
    "title": "Eclipse Mosquitto – An open source MQTT broker",
@@ -1003,7 +1045,7 @@
    "comments": 42,
    "publishedAt": 1794767800000,
    "isAI": false,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1017,7 +1059,7 @@
    "comments": 202,
    "publishedAt": 1794663377000,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false,
    "lastWeekRank": 16
   },
@@ -1032,7 +1074,7 @@
    "comments": 239,
    "publishedAt": 1794568426000,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.6,
    "hot": false,
    "lastWeekRank": 25
   },
@@ -1047,7 +1089,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1061,7 +1103,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1075,21 +1117,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "미국, 중국의 해외 GPU 우회 이용 차단…새 수출 규제 발표",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217467",
-   "summary": "미국 정부가 중국 기업들이 해외 데이터센터에서 첨단 AI 반도체를 빌려 사용하는 것을 제한하는 새로운 규정을 발표했다. 중국으로의 직접 수출뿐 아니라 해외 GPU의 원격 이용까지 통제하고, 싱가포르와 말레이시아 등 5개국에 대한 첨단 반도체 수출 심사도 강화한다.미국 상무부 산업안보국(BIS)은 16일(현지시간) 공식 발표를 통해 첨단 AI 반도체와 서버의 해외 원격 이용을 제한하는 잠정 최종 규정(Interim Final Rule)을 공개했다. 최근 중국 기업의 해외 GPU 임대 규제를 추진하고 있다는 사실이 알려진 데 이어 구체",
-   "publishedAt": 1794860013000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1103,18 +1131,18 @@
    "comments": 132,
    "publishedAt": 1794670852000,
    "isAI": false,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false,
    "lastWeekRank": 21
   },
   {
-   "title": "US moves to cut China’s remote access to AI chips",
-   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-   "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
-   "publishedAt": 1794856209000,
-   "source": "Ars Technica",
+   "title": "미국, 중국의 해외 GPU 우회 이용 차단…새 수출 규제 발표",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217467",
+   "summary": "미국 정부가 중국 기업들이 해외 데이터센터에서 첨단 AI 반도체를 빌려 사용하는 것을 제한하는 새로운 규정을 발표했다. 중국으로의 직접 수출뿐 아니라 해외 GPU의 원격 이용까지 통제하고, 싱가포르와 말레이시아 등 5개국에 대한 첨단 반도체 수출 심사도 강화한다.미국 상무부 산업안보국(BIS)은 16일(현지시간) 공식 발표를 통해 첨단 AI 반도체와 서버의 해외 원격 이용을 제한하는 잠정 최종 규정(Interim Final Rule)을 공개했다. 최근 중국 기업의 해외 GPU 임대 규제를 추진하고 있다는 사실이 알려진 데 이어 구체",
+   "publishedAt": 1794860013000,
+   "source": "AI타임스",
    "sourceType": "media",
-   "lang": "en",
+   "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
@@ -1132,9 +1160,23 @@
    "comments": 353,
    "publishedAt": 1794506508000,
    "isAI": true,
-   "score": 32.1,
+   "score": 32,
    "hot": false,
    "lastWeekRank": 34
+  },
+  {
+   "title": "US moves to cut China’s remote access to AI chips",
+   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+   "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
+   "publishedAt": 1794856209000,
+   "source": "Ars Technica",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.8,
+   "hot": false
   },
   {
    "title": "No AI Slop: A Manifesto",
@@ -1147,23 +1189,9 @@
    "comments": 133,
    "publishedAt": 1794599516000,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false,
    "lastWeekRank": 28
-  },
-  {
-   "title": "Apple launches new app to study how people use AI for health",
-   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-   "summary": "Apple's new app for a study will answer everyday medical questions.",
-   "publishedAt": 1794792600000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 31.8,
-   "hot": false
   },
   {
    "title": "Gemini 4 Hydrogen and Orchestrator",
@@ -1176,7 +1204,7 @@
    "comments": 165,
    "publishedAt": 1794509521000,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.6,
    "hot": false,
    "lastWeekRank": 37
   },
@@ -1191,9 +1219,23 @@
    "comments": 996,
    "publishedAt": 1794507648000,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.5,
    "hot": false,
    "lastWeekRank": 40
+  },
+  {
+   "title": "Apple launches new app to study how people use AI for health",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "summary": "Apple's new app for a study will answer everyday medical questions.",
+   "publishedAt": 1794792600000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 31.5,
+   "hot": false
   },
   {
    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
@@ -1206,7 +1248,7 @@
    "comments": 193,
    "publishedAt": 1794520571000,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.4,
    "hot": false,
    "lastWeekRank": 43
   },
@@ -1221,9 +1263,24 @@
    "comments": 392,
    "publishedAt": 1794398722000,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.3,
    "hot": false,
    "lastWeekRank": 55
+  },
+  {
+   "title": "Nvidia employees petition to bring back Jensen Huang",
+   "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50477231",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 818,
+   "comments": 693,
+   "publishedAt": 1794536184000,
+   "isAI": false,
+   "score": 31,
+   "hot": false,
+   "lastWeekRank": 41
   },
   {
    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
@@ -1236,7 +1293,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": false,
-   "score": 31.2,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1250,23 +1307,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 31.2,
+   "score": 30.9,
    "hot": false
-  },
-  {
-   "title": "Nvidia employees petition to bring back Jensen Huang",
-   "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50477231",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 818,
-   "comments": 693,
-   "publishedAt": 1794536184000,
-   "isAI": false,
-   "score": 31.1,
-   "hot": false,
-   "lastWeekRank": 41
   },
   {
    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
@@ -1279,7 +1321,7 @@
    "comments": 105,
    "publishedAt": 1794524777000,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.6,
    "hot": false,
    "lastWeekRank": 45
   },
@@ -1294,7 +1336,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.5,
    "hot": false
   },
   {
@@ -1308,7 +1350,7 @@
    "comments": 321,
    "publishedAt": 1794508745000,
    "isAI": false,
-   "score": 30.5,
+   "score": 30.4,
    "hot": false,
    "lastWeekRank": 51
   },
@@ -1323,9 +1365,24 @@
    "comments": 710,
    "publishedAt": 1794432275000,
    "isAI": true,
-   "score": 30.5,
+   "score": 30.4,
    "hot": false,
    "lastWeekRank": 58
+  },
+  {
+   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+   "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50474959",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 799,
+   "comments": 225,
+   "publishedAt": 1794520989000,
+   "isAI": false,
+   "score": 30.3,
+   "hot": false,
+   "lastWeekRank": 48
   },
   {
    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
@@ -1338,24 +1395,9 @@
    "comments": 197,
    "publishedAt": 1794583750000,
    "isAI": true,
-   "score": 30.4,
+   "score": 30.2,
    "hot": false,
    "lastWeekRank": 39
-  },
-  {
-   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-   "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50474959",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 798,
-   "comments": 225,
-   "publishedAt": 1794520989000,
-   "isAI": false,
-   "score": 30.4,
-   "hot": false,
-   "lastWeekRank": 48
   },
   {
    "title": "US IRS free online tax filing open source repo (2025)",
@@ -1368,7 +1410,7 @@
    "comments": 110,
    "publishedAt": 1794678500000,
    "isAI": false,
-   "score": 30.3,
+   "score": 30.1,
    "hot": false,
    "lastWeekRank": 27
   },
@@ -1383,53 +1425,9 @@
    "comments": 73,
    "publishedAt": 1794592523000,
    "isAI": true,
-   "score": 30.3,
-   "hot": false,
-   "lastWeekRank": 36
-  },
-  {
-   "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-   "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-   "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-   "publishedAt": 1794856322000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
-   "score": 30.3,
-   "hot": false
-  },
-  {
-   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-   "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50487864",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 386,
-   "comments": 215,
-   "publishedAt": 1794595244000,
-   "isAI": false,
    "score": 30.1,
    "hot": false,
-   "lastWeekRank": 38
-  },
-  {
-   "title": "Claude Is Down",
-   "url": "https://status.claude.com/history",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50481220",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 200,
-   "comments": 179,
-   "publishedAt": 1794565209000,
-   "isAI": true,
-   "score": 29.6,
-   "hot": false,
-   "lastWeekRank": 47
+   "lastWeekRank": 36
   }
  ]
 }
