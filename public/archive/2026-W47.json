@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794973318427,
+ "updatedAt": 1794976980250,
  "week": "2026-W47",
  "items": [
   {
@@ -9,25 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1138,
-   "comments": 720,
+   "engagement": 1164,
+   "comments": 733,
    "publishedAt": 1794937603000,
    "isAI": true,
-   "score": 67.8,
-   "hot": true
-  },
-  {
-   "title": "Apple Services Down",
-   "url": "https://developer.apple.com/system-status/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50535238",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 648,
-   "comments": 357,
-   "publishedAt": 1794937634000,
-   "isAI": false,
-   "score": 55.7,
+   "score": 67.3,
    "hot": true
   },
   {
@@ -37,11 +23,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 151,
-   "comments": 104,
+   "engagement": 197,
+   "comments": 133,
    "publishedAt": 1794961078000,
    "isAI": true,
-   "score": 54,
+   "score": 55.8,
+   "hot": true
+  },
+  {
+   "title": "Apple Services Down",
+   "url": "https://developer.apple.com/system-status/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50535238",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 658,
+   "comments": 370,
+   "publishedAt": 1794937634000,
+   "isAI": false,
+   "score": 55.3,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 503,
-   "comments": 576,
+   "engagement": 520,
+   "comments": 592,
    "publishedAt": 1794929908000,
    "isAI": false,
-   "score": 52.4,
+   "score": 52.2,
    "hot": true
   },
   {
@@ -69,7 +69,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 52.2,
+   "score": 51.7,
    "hot": true
   },
   {
@@ -79,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 423,
-   "comments": 207,
+   "engagement": 443,
+   "comments": 217,
    "publishedAt": 1794935526000,
    "isAI": false,
-   "score": 51.8,
+   "score": 51.6,
    "hot": true
   },
   {
@@ -94,10 +94,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 275,
-   "comments": 215,
+   "comments": 221,
    "publishedAt": 1794910840000,
    "isAI": true,
-   "score": 51.6,
+   "score": 51.1,
    "hot": true
   },
   {
@@ -107,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 185,
-   "comments": 243,
+   "engagement": 186,
+   "comments": 244,
    "publishedAt": 1794925199000,
    "isAI": true,
-   "score": 50.4,
+   "score": 49.9,
    "hot": true
   },
   {
@@ -125,20 +125,6 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.4,
-   "hot": true
-  },
-  {
-   "title": "We don't need more apps, we need better open source",
-   "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50532086",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 345,
-   "comments": 234,
-   "publishedAt": 1794926736000,
-   "isAI": false,
    "score": 48.8,
    "hot": true
   },
@@ -149,12 +135,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 113,
-   "comments": 45,
+   "engagement": 121,
+   "comments": 48,
    "publishedAt": 1794939378000,
    "isAI": true,
-   "score": 48.2,
+   "score": 48.3,
    "hot": false
+  },
+  {
+   "title": "We don't need more apps, we need better open source",
+   "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50532086",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 346,
+   "comments": 235,
+   "publishedAt": 1794926736000,
+   "isAI": false,
+   "score": 48.3,
+   "hot": true
+  },
+  {
+   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+   "url": "https://github.com/microsoft/onnxruntime",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50539610",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 199,
+   "comments": 45,
+   "publishedAt": 1794957529000,
+   "isAI": false,
+   "score": 47.8,
+   "hot": true
   },
   {
    "title": "B2B 요금 모델: 사용자 수 기반 과금을 대체하는 3가지 방식",
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.4,
    "hot": true
   },
   {
@@ -209,8 +223,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.2,
    "hot": true
+  },
+  {
+   "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+   "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50524736",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 717,
+   "comments": 595,
+   "publishedAt": 1794869900000,
+   "isAI": false,
+   "score": 46.9,
+   "hot": false
   },
   {
    "title": "Put Gemini to work for you",
@@ -223,7 +251,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -237,22 +265,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.4,
+   "score": 46.9,
    "hot": true
-  },
-  {
-   "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-   "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50524736",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 713,
-   "comments": 592,
-   "publishedAt": 1794869900000,
-   "isAI": false,
-   "score": 47.3,
-   "hot": false
   },
   {
    "title": "Regulatory Capture by Anthropic Through METR",
@@ -261,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 138,
+   "engagement": 140,
    "comments": 74,
    "publishedAt": 1794918117000,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.7,
    "hot": false
   },
   {
@@ -279,35 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.9,
-   "hot": true
-  },
-  {
-   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-   "url": "https://github.com/microsoft/onnxruntime",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50539610",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 166,
-   "comments": 38,
-   "publishedAt": 1794957529000,
-   "isAI": false,
-   "score": 46.7,
-   "hot": true
-  },
-  {
-   "title": "가중치 약 7GB LLM, \"26학년도 수능 표점 400점 초과 달성",
-   "url": "https://news.hada.io/topic?id=37366&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "플래그십 휴대전화 메모리에 오프로딩 될 용량의 오프라인 모델로 2026학년도 수능을 풀어보았더니 7.16GB Gemma 4 12B Q4가 원점수 총합 399.2, 8.6GB Ternary Bonsai 2-27B가 385.2로 메디컬 합격선을 보였습니다. 각각 자연형 기준 표준점수는 Reasoning 기준 405점 / 407점을 기록하였습니다. 현재 대책인 재난문자와 전파탐지기는 통신기기를 주 대상으로 하는데, Edge 인공지능에 대한 대책도 시급하여 보입니다.",
-   "publishedAt": 1794950146000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.7,
+   "score": 46.4,
    "hot": true
   },
   {
@@ -321,7 +307,7 @@
    "comments": 551,
    "publishedAt": 1794836347000,
    "isAI": false,
-   "score": 45.6,
+   "score": 45.2,
    "hot": false
   },
   {
@@ -335,7 +321,21 @@
    "comments": 669,
    "publishedAt": 1794754018000,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.4,
+   "hot": false
+  },
+  {
+   "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+   "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50539747",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 126,
+   "comments": 48,
+   "publishedAt": 1794958378000,
+   "isAI": false,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -349,7 +349,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -363,7 +363,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -373,26 +373,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 181,
+   "engagement": 182,
    "comments": 33,
    "publishedAt": 1794928029000,
    "isAI": false,
-   "score": 43.6,
+   "score": 43.2,
    "hot": true
-  },
-  {
-   "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-   "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50539747",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 108,
-   "comments": 44,
-   "publishedAt": 1794958378000,
-   "isAI": false,
-   "score": 42.9,
-   "hot": false
   },
   {
    "title": "Web Browser Engineering (2021)",
@@ -401,12 +387,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 130,
+   "engagement": 140,
    "comments": 20,
    "publishedAt": 1794945695000,
    "isAI": false,
-   "score": 42.9,
+   "score": 43.1,
    "hot": false
+  },
+  {
+   "title": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime",
+   "url": "https://news.hada.io/topic?id=37390&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "GitHub에서 사라진 마이크로소프트의 ONNX Runtime",
+   "publishedAt": 1794972659000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.5,
+   "hot": true
   },
   {
    "title": "Jiff 1.0: A datetime library for Rust",
@@ -419,7 +419,7 @@
    "comments": 95,
    "publishedAt": 1794848019000,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -433,7 +433,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.4,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -443,11 +443,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 388,
-   "comments": 258,
+   "engagement": 390,
+   "comments": 260,
    "publishedAt": 1794853037000,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -461,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -475,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -489,7 +489,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.5,
+   "hot": false
+  },
+  {
+   "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+   "url": "https://support.apple.com/en-us/149699",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50526560",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 243,
+   "comments": 123,
+   "publishedAt": 1794881824000,
+   "isAI": false,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -503,22 +517,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
-  },
-  {
-   "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-   "url": "https://support.apple.com/en-us/149699",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50526560",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 243,
-   "comments": 123,
-   "publishedAt": 1794881824000,
-   "isAI": false,
-   "score": 40.7,
-   "hot": false
   },
   {
    "title": "“X는 죽었다”는 말은 죽었다",
@@ -531,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.7,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -545,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -559,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -573,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -587,7 +587,7 @@
    "comments": 337,
    "publishedAt": 1794835102000,
    "isAI": false,
-   "score": 40.3,
+   "score": 40,
    "hot": false
   },
   {
@@ -601,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -615,7 +615,7 @@
    "comments": 183,
    "publishedAt": 1794860210000,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -629,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.4,
    "hot": true
   },
   {
@@ -643,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -657,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -671,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": true
   },
   {
@@ -685,7 +685,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -699,7 +699,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -713,7 +713,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -727,7 +727,7 @@
    "comments": 262,
    "publishedAt": 1794842649000,
    "isAI": false,
-   "score": 38.1,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -741,7 +741,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 38.1,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -755,7 +755,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": false
   },
   {
@@ -769,7 +769,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.4,
+   "hot": false
+  },
+  {
+   "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+   "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50509411",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 643,
+   "comments": 281,
+   "publishedAt": 1794767770000,
+   "isAI": false,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -783,21 +797,7 @@
    "comments": 2,
    "publishedAt": 1794863318000,
    "isAI": false,
-   "score": 37.2,
-   "hot": false
-  },
-  {
-   "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-   "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50509411",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 643,
-   "comments": 279,
-   "publishedAt": 1794767770000,
-   "isAI": false,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -811,7 +811,7 @@
    "comments": 585,
    "publishedAt": 1794786955000,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -825,21 +825,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-   "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-   "publishedAt": 1794941303000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -853,21 +839,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.2,
+   "score": 36,
    "hot": false
   },
   {
-   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-   "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-   "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-   "publishedAt": 1794938656000,
+   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+   "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+   "publishedAt": 1794941303000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.1,
+   "score": 36,
    "hot": false
   },
   {
@@ -881,9 +867,23 @@
    "comments": 650,
    "publishedAt": 1794624779000,
    "isAI": true,
-   "score": 36,
+   "score": 35.8,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+   "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+   "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+   "publishedAt": 1794938656000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.8,
+   "hot": false
   },
   {
    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
@@ -896,7 +896,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -910,7 +910,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -924,7 +924,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -938,7 +938,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -952,7 +952,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -966,7 +966,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -980,7 +980,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -994,7 +994,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -1004,11 +1004,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 543,
+   "engagement": 544,
    "comments": 262,
    "publishedAt": 1794742851000,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1022,7 +1022,7 @@
    "comments": 32,
    "publishedAt": 1794867563000,
    "isAI": false,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1036,7 +1036,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, IPO 공모가 80달러 이상으로 인상 검토…기관투자자 수요 몰려",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217526",
+   "summary": "앤트로픽이 기업공개(IPO)를 앞두고 투자자들의 높은 관심을 반영해 공모가를 당초 제시한 범위보다 높이는 방안을 검토하고 있다. AI 관련주 변동성이 커지고 엔비디아의 경영진 교체로 시장 불확실성이 확대됐지만, '클로드'를 앞세운 성장세가 투자 수요를 끌어올린 것으로 풀이된다.월스트리트저널(WSJ)은 17일(현지시간) 앤트로픽이 주당 70~78달러로 제시했던 공모가를 80달러 이상으로 높일 가능성이 있다고 보도했다.회사 측 자문사들은 기업가치를 1조5000억~1조6000억달러(약 1995조~2128조원) 수준으로 평가하는 방안을 논",
+   "publishedAt": 1794976902000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "중국, 미국 반도체 원격 접근 규제에 반발…“강행하면 보복 조치”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217521",
+   "summary": "중국이 미국의 첨단 AI 칩 원격 접근 제한 조치에 강하게 반발하며 보복을 경고했다. 엔비디아 등 미국 기업의 고성능 칩을 해외 데이터센터를 통해 빌려 쓰는 방식까지 규제하려는 움직임에 기술 갈등이 다시 고조되고 있다.중국 상무부는 17일(현지시간) 공식 발표를 통해 미국의 새로운 반도체 규제에 \"강한 불만과 단호한 반대\"를 표명했다.이어 \"미국이 같은 방향으로 협력하고 협의와 협력을 통해 이견을 해결하는 올바른 궤도로 돌아오기를 바란다\"며 \"미국이 규제를 강행한다면 중국은 주권과 안보, 발전 이익을 확고히 수호하기 위해 대응 조치",
+   "publishedAt": 1794974598000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1050,7 +1078,7 @@
    "comments": 68,
    "publishedAt": 1794850481000,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1064,7 +1092,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1078,7 +1106,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1092,7 +1120,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1106,7 +1134,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1120,7 +1148,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1134,7 +1162,7 @@
    "comments": 82,
    "publishedAt": 1794804786000,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1148,7 +1176,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1162,7 +1190,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1176,7 +1204,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1186,11 +1214,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 185,
-   "comments": 96,
+   "engagement": 186,
+   "comments": 99,
    "publishedAt": 1794791122000,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1204,7 +1232,7 @@
    "comments": 30,
    "publishedAt": 1794668655000,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.2,
    "hot": false,
    "lastWeekRank": 5
   },
@@ -1219,35 +1247,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": false,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-   "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-   "publishedAt": 1794966261000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "MS, 'MAI 코드 2' 출시…앤트로픽급 코딩 성능에 비용은 5%",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217511",
-   "summary": "마이크로소프트(MS)가 오픈AI와 앤트로픽의 첨단 모델에 근접한 코딩 성능을 훨씬 낮은 비용으로 구현한 자체 AI 모델 'MAI 코드 2(MAI Code 2)'를 공개했다. 사이버 보안과 AI 에이전트의 판단 작업에 특화한 모델도 함께 선보이며, 외부 AI 모델에 대한 의존도를 줄이고 자체 모델 경쟁력을 강화하고 나섰다.MS는 17일(현지시간) 미국 샌프란시스코에서 열린 연례 기술 행사 '이그나이트 2026'에서 코딩 전문 모델 'MAI 코드 2'와 경량형 'MAI 코드 2 플래시(MAI Code 2 Flash)', 보안 전문 모델",
-   "publishedAt": 1794945665000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.3,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1261,23 +1261,36 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 31.2,
+   "score": 31,
    "hot": false
   },
   {
-   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-   "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50501631",
-   "source": "Hacker News",
-   "sourceType": "community",
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+   "publishedAt": 1794966261000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
    "lang": "en",
-   "engagement": 451,
-   "comments": 240,
-   "publishedAt": 1794695190000,
+   "engagement": null,
+   "baseWeight": 32,
    "isAI": false,
-   "score": 30.9,
-   "hot": false,
-   "lastWeekRank": 3
+   "score": 31,
+   "hot": false
+  },
+  {
+   "title": "MS, 'MAI 코드 2' 출시…앤트로픽급 코딩 성능에 비용은 5%",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217511",
+   "summary": "마이크로소프트(MS)가 오픈AI와 앤트로픽의 첨단 모델에 근접한 코딩 성능을 훨씬 낮은 비용으로 구현한 자체 AI 모델 'MAI 코드 2(MAI Code 2)'를 공개했다. 사이버 보안과 AI 에이전트의 판단 작업에 특화한 모델도 함께 선보이며, 외부 AI 모델에 대한 의존도를 줄이고 자체 모델 경쟁력을 강화하고 나섰다.MS는 17일(현지시간) 미국 샌프란시스코에서 열린 연례 기술 행사 '이그나이트 2026'에서 코딩 전문 모델 'MAI 코드 2'와 경량형 'MAI 코드 2 플래시(MAI Code 2 Flash)', 보안 전문 모델",
+   "publishedAt": 1794945665000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31,
+   "hot": false
   },
   {
    "title": "Anthropic IPO",
@@ -1290,9 +1303,37 @@
    "comments": 921,
    "publishedAt": 1794484001000,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.8,
    "hot": false,
    "lastWeekRank": 29
+  },
+  {
+   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+   "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50501631",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 451,
+   "comments": 240,
+   "publishedAt": 1794695190000,
+   "isAI": false,
+   "score": 30.7,
+   "hot": false,
+   "lastWeekRank": 3
+  },
+  {
+   "title": "Sage S2.1 Flash Technical Report",
+   "url": "https://huggingface.co/papers/2611.21072",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 92,
+   "summary": "We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered ",
+   "publishedAt": 1794769200000,
+   "isAI": true,
+   "score": 30.7,
+   "hot": false
   },
   {
    "title": "Jensen Huang might return to Nvidia as CEO",
@@ -1305,7 +1346,7 @@
    "comments": 190,
    "publishedAt": 1794785093000,
    "isAI": false,
-   "score": 30.8,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1319,7 +1360,7 @@
    "comments": 150,
    "publishedAt": 1794756081000,
    "isAI": false,
-   "score": 30.8,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1333,37 +1374,9 @@
    "comments": 227,
    "publishedAt": 1794660345000,
    "isAI": false,
-   "score": 30.8,
+   "score": 30.6,
    "hot": false,
    "lastWeekRank": 7
-  },
-  {
-   "title": "Nvidia promises that revenue will keep soaring — for now",
-   "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-   "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-   "publishedAt": 1794961010000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
-   "score": 30.8,
-   "hot": false
-  },
-  {
-   "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
-   "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
-   "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
-   "publishedAt": 1794939214000,
-   "source": "Ars Technica",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.8,
-   "hot": false
   },
   {
    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
@@ -1376,35 +1389,22 @@
    "comments": 748,
    "publishedAt": 1794582524000,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.6,
    "hot": false,
    "lastWeekRank": 19
   },
   {
-   "title": "Sage S2.1 Flash Technical Report",
-   "url": "https://huggingface.co/papers/2611.21072",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 89,
-   "summary": "We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered ",
-   "publishedAt": 1794769200000,
-   "isAI": true,
-   "score": 30.7,
-   "hot": false
-  },
-  {
-   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-   "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-   "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-   "publishedAt": 1794958668000,
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+   "publishedAt": 1794961010000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": false,
-   "score": 30.6,
+   "score": 30.5,
    "hot": false
   }
  ]
