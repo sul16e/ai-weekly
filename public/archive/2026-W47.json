@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794987956612,
+ "updatedAt": 1794991600157,
  "week": "2026-W47",
  "items": [
   {
@@ -9,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1231,
-   "comments": 764,
+   "engagement": 1251,
+   "comments": 775,
    "publishedAt": 1794937603000,
    "isAI": true,
-   "score": 65.7,
+   "score": 65.2,
+   "hot": true
+  },
+  {
+   "title": "AI is killing All About Berlin",
+   "url": "https://nicolasbouliane.com/blog/death-by-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50542705",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 232,
+   "comments": 186,
+   "publishedAt": 1794984446000,
+   "isAI": true,
+   "score": 58.8,
    "hot": true
   },
   {
@@ -23,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 309,
-   "comments": 242,
+   "engagement": 347,
+   "comments": 265,
    "publishedAt": 1794961078000,
    "isAI": true,
-   "score": 58,
+   "score": 58.4,
    "hot": true
   },
   {
@@ -37,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 683,
-   "comments": 382,
+   "engagement": 685,
+   "comments": 386,
    "publishedAt": 1794937634000,
    "isAI": false,
-   "score": 53.9,
+   "score": 53.4,
    "hot": true
   },
   {
@@ -51,25 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 265,
-   "comments": 45,
+   "engagement": 330,
+   "comments": 72,
    "publishedAt": 1794978690000,
    "isAI": false,
-   "score": 51.9,
-   "hot": true
-  },
-  {
-   "title": "Highly classified US national security communications network goes down",
-   "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50532849",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 558,
-   "comments": 643,
-   "publishedAt": 1794929908000,
-   "isAI": false,
-   "score": 51.2,
+   "score": 53.3,
    "hot": true
   },
   {
@@ -79,11 +79,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 503,
-   "comments": 229,
+   "engagement": 523,
+   "comments": 238,
    "publishedAt": 1794935526000,
    "isAI": false,
-   "score": 51.1,
+   "score": 50.9,
+   "hot": true
+  },
+  {
+   "title": "Highly classified US national security communications network goes down",
+   "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50532849",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 565,
+   "comments": 652,
+   "publishedAt": 1794929908000,
+   "isAI": false,
+   "score": 50.8,
    "hot": true
   },
   {
@@ -93,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 161,
-   "comments": 204,
+   "engagement": 170,
+   "comments": 224,
    "publishedAt": 1794950172000,
    "isAI": true,
-   "score": 50.7,
+   "score": 50.6,
    "hot": true
   },
   {
@@ -111,8 +125,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 50.1,
+   "score": 49.6,
    "hot": false
+  },
+  {
+   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+   "url": "https://github.com/microsoft/onnxruntime",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50539610",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 302,
+   "comments": 66,
+   "publishedAt": 1794957529000,
+   "isAI": false,
+   "score": 49.4,
+   "hot": true
   },
   {
    "title": "How the Claude Code team thinks about verification",
@@ -122,23 +150,23 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 281,
-   "comments": 225,
+   "comments": 226,
    "publishedAt": 1794910840000,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.4,
    "hot": true
   },
   {
-   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-   "url": "https://github.com/microsoft/onnxruntime",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50539610",
-   "source": "Hacker News",
+   "title": "Show GN: Claude Code와 Codex를 한 화면에서 관리하는 macOS 개발 도구를 만들었습니다",
+   "url": "https://news.hada.io/topic?id=37400&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "안녕하세요. 개인적으로 개발하면서 불편했던 점을 해결하려고 codeme라는 데스크톱 앱을 만들었습니다. Claude Code나 Codex를 여러 개 실행하다 보면 터미널도 많아지고, 어떤 에이전트가 어떤 파일을 수정했는지 확인하기 번거롭더라고요. 그래서 Git worktree를 기반으로 에이전트마다 독립적인 작업 공간을 만들고, 진행 상황과 코드 변경 사항을 한 화면에서 확인할 수 있도록 구현했습니다. 주요 기능은 다음과 같습니다. Claude Code / Codex 멀티 에이전트 실행 Git worktree 생성 및 관리 에이전트",
+   "publishedAt": 1794985232000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 273,
-   "comments": 62,
-   "publishedAt": 1794957529000,
-   "isAI": false,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
    "score": 49.1,
    "hot": true
   },
@@ -147,48 +175,6 @@
    "url": "https://news.hada.io/topic?id=37396&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
    "summary": "AI로 만든 작은 도구를 나누는 사이트 Disposable을 만들어 혼자 운영하고 있습니다. 에이전트 덕분에 내 일에 딱 맞는 도구를 금방 만들 수 있게 됐지만, 그런 도구는 대개 쓰고 나면 버려지고 비슷한 일이 필요한 사람은 처음부터 다시 만듭니다. 그렇다고 오픈소스로 내놓자니 문서와 유지보수가 부담이고요. 그래서 \"오픈소스처럼 나누고, 관리 부담은 없이. 방법은 남기고, 도구는 내 방식대로 다시.\"를 원칙으로 삼았습니다. 직접 써서 효과를 본 도구를 유지보수 약속 없이 올리고, 받는 사람은 그대로 쓰거나, 함께 올라온 사양으로 ",
    "publishedAt": 1794980786000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.9,
-   "hot": true
-  },
-  {
-   "title": "FOSS for All Conference 2026: 커뮤니티 주도 국내 오픈소스 컨퍼런스",
-   "url": "https://news.hada.io/topic?id=37394&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "FOSS for All Conference 2026 대한민국 인터넷의 아버지로 불리는 전길남 박사 (KAIST 명예교수)가 FOSS for All Conference 2026 기조연사로 나서 Portable Software, 1983 을 발표함 1980년대 초 컴퓨터 국산화(KIET) 시절의 DOS·UNIX 이식 가능 소프트웨어 개발사, 리처드 스톨먼의 80년대 KAIST 방문 일화부터 오늘날 AI와 오픈 소프트웨어까지 다룸 본 행사는 FOSS for All 에서 두 번째로 여는 연례 자유·오픈소스 컨퍼런스 대형 프로젝트뿐 아니라 ",
-   "publishedAt": 1794978766000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.6,
-   "hot": true
-  },
-  {
-   "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-   "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50531751",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 187,
-   "comments": 246,
-   "publishedAt": 1794925199000,
-   "isAI": true,
-   "score": 48.5,
-   "hot": true
-  },
-  {
-   "title": "Google의 AI 답변, 검색 유입을 40% 줄임",
-   "url": "https://news.hada.io/topic?id=37392&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "미국 데스크톱 사용자를 대상으로 한 무작위 실험 에서 Google AI Overviews가 표시되면 외부 웹사이트 클릭이 약 40% 감소 함. 아직 동료 심사를 거치지 않은 연구이며, 모바일은 포함하지 않음 AI Overviews 노출 범위 가 정보 검색뿐 아니라 상품 비교, 사이트 탐색, 구매 목적 검색까지 확대됨. DataForSEO가 추적하는 미국 중심 키워드에서는 노출 비중이 2024년 9월 약 6%에서 2026년 8월 61%로 늘어남 생성형 엔진 최적화(GEO) 는 대체로 기존 SEO에 AI가 참고하는 외부 사이트에서의 존",
-   "publishedAt": 1794976919000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -205,12 +191,54 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 145,
-   "comments": 59,
+   "engagement": 149,
+   "comments": 60,
    "publishedAt": 1794939378000,
    "isAI": true,
-   "score": 48.3,
+   "score": 48.1,
    "hot": false
+  },
+  {
+   "title": "FOSS for All Conference 2026: 커뮤니티 주도 국내 오픈소스 컨퍼런스",
+   "url": "https://news.hada.io/topic?id=37394&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "FOSS for All Conference 2026 대한민국 인터넷의 아버지로 불리는 전길남 박사 (KAIST 명예교수)가 FOSS for All Conference 2026 기조연사로 나서 Portable Software, 1983 을 발표함 1980년대 초 컴퓨터 국산화(KIET) 시절의 DOS·UNIX 이식 가능 소프트웨어 개발사, 리처드 스톨먼의 80년대 KAIST 방문 일화부터 오늘날 AI와 오픈 소프트웨어까지 다룸 본 행사는 FOSS for All 에서 두 번째로 여는 연례 자유·오픈소스 컨퍼런스 대형 프로젝트뿐 아니라 ",
+   "publishedAt": 1794978766000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.1,
+   "hot": true
+  },
+  {
+   "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+   "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50531751",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 187,
+   "comments": 246,
+   "publishedAt": 1794925199000,
+   "isAI": true,
+   "score": 48,
+   "hot": true
+  },
+  {
+   "title": "Google의 AI 답변, 검색 유입을 40% 줄임",
+   "url": "https://news.hada.io/topic?id=37392&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "미국 데스크톱 사용자를 대상으로 한 무작위 실험 에서 Google AI Overviews가 표시되면 외부 웹사이트 클릭이 약 40% 감소 함. 아직 동료 심사를 거치지 않은 연구이며, 모바일은 포함하지 않음 AI Overviews 노출 범위 가 정보 검색뿐 아니라 상품 비교, 사이트 탐색, 구매 목적 검색까지 확대됨. DataForSEO가 추적하는 미국 중심 키워드에서는 노출 비중이 2024년 9월 약 6%에서 2026년 8월 61%로 늘어남 생성형 엔진 최적화(GEO) 는 대체로 기존 SEO에 AI가 참고하는 외부 사이트에서의 존",
+   "publishedAt": 1794976919000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 47.9,
+   "hot": true
   },
   {
    "title": "이스라엘 대 Wikipedia",
@@ -223,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -237,7 +265,7 @@
    "comments": 236,
    "publishedAt": 1794926736000,
    "isAI": false,
-   "score": 47,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -251,35 +279,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.7,
    "hot": true
   },
   {
-   "title": "실제로 등장한 curl의 Rust 재작성 프로젝트들",
-   "url": "https://news.hada.io/topic?id=37377&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "urlx 와 curl, rewritten in Rust 가 curl과 libcurl의 Rust 재구현을 내세우며 등장했지만, 특정 시점의 코드를 재현하는 일과 프로젝트를 장기간 유지하는 일은 다름 AI 에이전트의 재작성에는 기존 C 코드 , 풍부한 문서, API 사용 사례와 수천 개의 테스트가 토대가 됨 재작성에 걸린 3주 남짓 동안 원본 curl에는 300개 이상의 커밋 과 200개가 조금 넘는 버그 수정이 반영됐으며, 재작성 프로젝트들은 이 수정들을 갖추지 못한 상태임 2026년 확인된 curl 취약점 81개 중 14개, 17.",
-   "publishedAt": 1794960149000,
-   "source": "GeekNews",
+   "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+   "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50539747",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.1,
-   "hot": true
-  },
-  {
-   "title": "Solid 2.0 - 비동기를 반응형 그래프에 통합한 안정 버전 출시",
-   "url": "https://news.hada.io/topic?id=37376&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "UI 라이브러리 Solid의 2.0 안정 버전 이 출시됨. 서버 데이터를 가져오는 비동기 작업도 반응형 상태처럼 연결해, 데이터 변경에 따른 화면 갱신과 요청 간 경쟁 상태를 프레임워크가 처리 함 서버 함수를 코어에 통합 해 클라이언트에서 서버 코드를 호출하고, 실시간으로 바뀌는 데이터도 연속해서 받아 화면에 반영 할 수 있음. Request/Response 기반 RPC와 SSE 연결을 지원 개발 빌드 진단 이 반응성 오류의 코드, 소스 위치, 수정 방법을 제공함. 비동기 워터폴과 잘못 구성된 효과 루프 등도 감지해 AI 에이전트의",
-   "publishedAt": 1794958722000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.9,
+   "lang": "en",
+   "engagement": 184,
+   "comments": 62,
+   "publishedAt": 1794958378000,
+   "isAI": false,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -289,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 718,
-   "comments": 600,
+   "engagement": 720,
+   "comments": 601,
    "publishedAt": 1794869900000,
    "isAI": false,
-   "score": 45.6,
+   "score": 45.3,
    "hot": false
   },
   {
@@ -307,7 +321,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 45.5,
+   "score": 45,
    "hot": false
   },
   {
@@ -321,22 +335,8 @@
    "comments": 74,
    "publishedAt": 1794918117000,
    "isAI": true,
-   "score": 45.4,
-   "hot": false
-  },
-  {
-   "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-   "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50539747",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 168,
-   "comments": 56,
-   "publishedAt": 1794958378000,
-   "isAI": false,
    "score": 44.9,
-   "hot": true
+   "hot": false
   },
   {
    "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
@@ -345,11 +345,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 959,
+   "engagement": 960,
    "comments": 551,
    "publishedAt": 1794836347000,
    "isAI": false,
-   "score": 44.1,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -363,7 +363,7 @@
    "comments": 669,
    "publishedAt": 1794754018000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -373,8 +373,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 158,
-   "comments": 21,
+   "engagement": 165,
+   "comments": 23,
    "publishedAt": 1794945695000,
    "isAI": false,
    "score": 42.8,
@@ -391,7 +391,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -405,7 +405,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -415,11 +415,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 191,
+   "engagement": 193,
    "comments": 33,
    "publishedAt": 1794928029000,
    "isAI": false,
-   "score": 42.3,
+   "score": 42,
+   "hot": true
+  },
+  {
+   "title": "YC 스타트업 면접 중 알게 된 내 LinkedIn 무단 사용 사실",
+   "url": "https://news.hada.io/topic?id=37402&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "YC 스타트업 면접 중 알게 된 내 LinkedIn 무단 사용 사실",
+   "publishedAt": 1794987067000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
+  },
+  {
+   "title": "Show GN: 냥이잡기 - 부정행위를 시도하는 냥이들을 잡는 게임",
+   "url": "https://news.hada.io/topic?id=37401&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "\"제한 시간 45초. 당신은 냥이를 찾아낼 수 있나요?\" 요즘 시험 부정행위 관련해 논란이 많습니다. 심심하던 터라 시험 감독하는 게임 만들어봤습니다. 생각보다 부정행위를 잡아내는 게 어렵네요. 가볍게 만들어 보았으니 심심하실 때 한판 즐겨보시면 좋겠습니다!",
+   "publishedAt": 1794987012000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
    "hot": true
   },
   {
@@ -433,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -447,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -461,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -475,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -485,11 +513,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 438,
+   "engagement": 439,
    "comments": 95,
    "publishedAt": 1794848019000,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -503,7 +531,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -517,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -531,7 +559,7 @@
    "comments": 261,
    "publishedAt": 1794853037000,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -542,10 +570,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 247,
-   "comments": 126,
+   "comments": 127,
    "publishedAt": 1794881824000,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": false
   },
   {
@@ -559,7 +587,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 39.4,
+   "score": 39,
    "hot": false
   },
   {
@@ -573,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -587,21 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
-   "hot": true
-  },
-  {
-   "title": "Show GN: 깎깎 - 칼로 연필을 깎고 그 끝으로 그려 보는 3D iOS 게임",
-   "url": "https://news.hada.io/topic?id=37383&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "바이스에 물린 연필을 휠로 돌려 가며 칼로 한 겹씩 깎고, 다 깎은 끝으로 종이에 선을 그어 보는 게임입니다. 오늘 App Store 심사를 통과했고 Android(Google Play)에도 있습니다. 만들면서 신경 쓴 부분 연필 상태를 반지름 필드 하나로 들고 있습니다. 화면에 보이는 모양, 떨어지는 대팻밥, 절삭음, 종이에 그어지는 선이 모두 이 값 하나에서 나옵니다. 비대칭으로 깎입니다. 돌려 가며 깎으면 면마다 깎인 자국이 따로 남아서, 납작한 목공 연필은 한쪽으로는 가늘게, 다른 쪽으로는 굵게 그어집니다. 4색 심 연필은 ",
-   "publishedAt": 1794963570000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.1,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -615,8 +629,22 @@
    "comments": 338,
    "publishedAt": 1794835102000,
    "isAI": false,
-   "score": 39,
+   "score": 38.7,
    "hot": false
+  },
+  {
+   "title": "Show GN: 깎깎 - 칼로 연필을 깎고 그 끝으로 그려 보는 3D iOS 게임",
+   "url": "https://news.hada.io/topic?id=37383&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "바이스에 물린 연필을 휠로 돌려 가며 칼로 한 겹씩 깎고, 다 깎은 끝으로 종이에 선을 그어 보는 게임입니다. 오늘 App Store 심사를 통과했고 Android(Google Play)에도 있습니다. 만들면서 신경 쓴 부분 연필 상태를 반지름 필드 하나로 들고 있습니다. 화면에 보이는 모양, 떨어지는 대팻밥, 절삭음, 종이에 그어지는 선이 모두 이 값 하나에서 나옵니다. 비대칭으로 깎입니다. 돌려 가며 깎으면 면마다 깎인 자국이 따로 남아서, 납작한 목공 연필은 한쪽으로는 가늘게, 다른 쪽으로는 굵게 그어집니다. 4색 심 연필은 ",
+   "publishedAt": 1794963570000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.7,
+   "hot": true
   },
   {
    "title": "“X는 죽었다”는 말은 죽었다",
@@ -629,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -643,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -657,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -665,34 +693,6 @@
    "url": "https://news.hada.io/topic?id=37379&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
    "summary": "URL과 녹화 시간을 지정하면 Chrome 탭의 화면과 소리를 AV1 MP4로 저장 함 기본값은 720p 60fps이며 탭 오디오도 함께 녹음 Chrome 153의 내장 녹화 API 를 사용해 브라우저가 녹화 중에 바로 인코딩하며, FFmpeg 설치 없이 MP4를 만들 수 있음 Playwright, Puppeteer, CDP 에서 녹화 시작과 종료를 제어할 수 있어 로그인이나 페이지 로딩을 마친 뒤 필요한 구간만 녹화 가능 Playwright 테스트의 녹화 영상을 테스트 리포트에 자동 첨부 할 수 있음. 마우스 커서와 클릭 위치도 ",
    "publishedAt": 1794961802000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.9,
-   "hot": true
-  },
-  {
-   "title": "Rust changed me as a developer",
-   "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50522563",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 289,
-   "comments": 183,
-   "publishedAt": 1794860210000,
-   "isAI": false,
-   "score": 38.5,
-   "hot": false
-  },
-  {
-   "title": "350년 전, Ole Rømer는 빛의 속도가 유한하다는 사실을 발견했다",
-   "url": "https://news.hada.io/topic?id=37375&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Ole Rømer 는 1676년 목성의 위성 Io가 그림자에서 나오는 시각을 예측해, 빛이 이동하는 데 시간이 걸린다는 사실을 최초로 입증함 지구가 목성에서 멀어질 때 Io의 식 현상이 예상보다 늦게, 가까워질 때는 일찍 관측되는 패턴을 빛의 이동 거리 차이 로 해석함 추정한 광속은 약 초속 22만 5,000km 로 실제 값보다 약 25% 낮았지만, 빛의 속도가 유한하며 측정 가능하다는 점을 확인한 것이 핵심임 초기에는 반론도 있었으나 Huygens와 Newton이 지지했고, 약 50년 뒤 James Bradley의 별빛 광행차 발",
-   "publishedAt": 1794958542000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -708,11 +708,25 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 132,
+   "engagement": 139,
    "summary": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, lar",
    "publishedAt": 1794855600000,
    "isAI": true,
    "score": 38.4,
+   "hot": false
+  },
+  {
+   "title": "Rust changed me as a developer",
+   "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50522563",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 289,
+   "comments": 184,
+   "publishedAt": 1794860210000,
+   "isAI": false,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -726,7 +740,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -740,7 +754,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -754,7 +768,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -768,7 +782,7 @@
    "comments": 262,
    "publishedAt": 1794842649000,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -782,7 +796,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -796,21 +810,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-   "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-   "publishedAt": 1794954545000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36.3,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -824,7 +824,21 @@
    "comments": 282,
    "publishedAt": 1794767770000,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.9,
+   "hot": false
+  },
+  {
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+   "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+   "publishedAt": 1794954545000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -838,7 +852,7 @@
    "comments": 2,
    "publishedAt": 1794863318000,
    "isAI": false,
-   "score": 35.9,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -852,7 +866,7 @@
    "comments": 585,
    "publishedAt": 1794786955000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -866,7 +880,7 @@
    "comments": 650,
    "publishedAt": 1794624779000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.2,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -881,7 +895,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -895,7 +909,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -909,7 +923,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -923,7 +937,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -937,7 +951,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -951,7 +965,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -965,7 +979,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -979,7 +993,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -993,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1007,7 +1021,63 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "중국 AI 기업들, 수출 규제 앞두고 모델의 사이버 공격 능력 축소",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217541",
+   "summary": "중국 주요 AI 기업들이 해킹 등 사이버 공격에 악용될 수 있는 모델의 공격 능력을 줄이고 방어 능력을 강화하고 있다. 중국 정부가 핵심 인프라와 정부 네트워크를 공격할 수 있는 AI 기술의 수출 제한을 추진하면서, 기업들도 모델의 위험성을 낮추는 방향으로 개발 전략을 조정하고 있다.블룸버그는 16일(현지시간) 알리바바와 텐센트, 문샷 AI 등 중국 주요 AI 기업들이 최근 출시한 모델에서 사이버 공격에 활용할 수 있는 기능을 축소했다고 보도했다.알리바바는 최신 주력 모델인 '큐원4 맥스(Qwen4-Max)'를 공개하면서 모델 가중",
+   "publishedAt": 1794989239000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.8,
+   "hot": false
+  },
+  {
+   "title": "전남광주, 수능 AI 안경 대응 강화…132명 배치·감독교사 법률지원",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217520",
+   "summary": "19일 치러지는 2027학년도 대학수학능력시험에서 전남광주 지역 86개 시험장에 AI 기기 식별 지원인력 132명이 투입된다. 교육청은 초소형 카메라 탐지 장비를 지원하고, 부정행위 단속 과정에서 감독교사가 민원이나 소송에 휘말리면 법률 대응도 지원하기로 했다.18일 전남광주통합특별시교육청에 따르면 올해 지역 수능은 광주 40곳과 전남 46곳 등 86개 시험장, 1196개 시험실에서 진행된다. 응시 예정 인원은 3만1704명으로 지난해보다 979명 줄었다.교육청은 스마트안경 등 AI 기기를 이용한 부정행위에 대비해 기존 감독관과 교",
+   "publishedAt": 1794988671000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "허사비스의 AI 신약 기업, 6개월 새 9.4조 투자 유치…임상시험 본격 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217528",
+   "summary": "데미스 허사비스 구글 딥마인드 공동창업자가 설립한 AI 신약 개발 스타트업 아이소모픽 랩스(Isomorphic Labs)가 50억달러(약 6조6000억원) 규모의 투자를 유치했다. 지난 5월 21억달러를 조달한 데 이어 불과 6개월 만에 총 71억달러(약 9조4000억원)를 확보하며, AI로 설계한 자체 신약 후보물질의 임상시험 진입을 추진하고 있다.아이소모픽 랩스는 17일(현지시간) 공식 발표를 통해 시리즈C 투자 라운드에서 50억달러를 조달했다고 밝혔다.그린오크스와 세쿼이아 캐피털이 공동으로 투자를 주도했으며, 앤드리슨 호로위츠",
+   "publishedAt": 1794988457000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "미국 30여개 주, '캐릭터닷AI' 매각 심사 강화 요구…아동 대화 기록 쟁점",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217538",
+   "summary": "미국 30여개 주 정부가 아동의 자살을 부추겼다는 의혹을 받는 AI 챗봇 서비스 '캐릭터닷AI(Character.AI)'의 매각에 대해 철저한 조사를 요구했다. 특히 이용 아동들의 사적인 대화와 개인정보가 대량으로 포함된 만큼, 인수 기업의 정체와 데이터 처리 방식을 법원이 자세히 검토해야 한다는 주장이다.블룸버그에 따르면, 30여개 주의 법무장관을 대리하는 변호인은 17일(현지시간) 델라웨어주 파산법원에서 캐릭터닷AI의 매각 절차에 법원이 선임한 개인정보 보호 옴부즈맨을 참여시켜야 한다고 촉구했다.이번 매각은 생성 AI 모델이 파",
+   "publishedAt": 1794987964000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1021,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 34,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1035,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1049,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1063,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1077,7 +1147,7 @@
    "comments": 262,
    "publishedAt": 1794742851000,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1091,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1105,21 +1175,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, NATO에 사이버 보안 AI 공급…유럽 정부·기관으로 사업 확대",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217529",
-   "summary": "오픈AI가 북대서양조약기구(NATO)에 첨단 사이버 보안 AI 모델을 공급하며 정부·국제기구 대상 사업을 확대하고 있다. 앞서 우크라이나와 프랑스, 독일 등 유럽 각국의 사이버 방어 기관에도 기술을 제공한 데 이어 NATO의 핵심 네트워크 보호까지 맡으며, AI를 활용한 사이버 보안 시장 공략을 강화하고 있다.오픈AI는 17일(현지시간) 공식 발표를 통해 NATO 통신정보국(NCIA)과 협력해 동맹의 핵심 기관과 네트워크에 사이버 보안 AI 모델을 제공하고 있다고 밝혔다.NATO는 관련 작업에서 매월 최대 3000억개의 입력·출력",
-   "publishedAt": 1794981937000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1133,7 +1189,21 @@
    "comments": 32,
    "publishedAt": 1794867563000,
    "isAI": false,
-   "score": 33.3,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, NATO에 사이버 보안 AI 공급…유럽 정부·기관으로 사업 확대",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217529",
+   "summary": "오픈AI가 북대서양조약기구(NATO)에 첨단 사이버 보안 AI 모델을 공급하며 정부·국제기구 대상 사업을 확대하고 있다. 앞서 우크라이나와 프랑스, 독일 등 유럽 각국의 사이버 방어 기관에도 기술을 제공한 데 이어 NATO의 핵심 네트워크 보호까지 맡으며, AI를 활용한 사이버 보안 시장 공략을 강화하고 있다.오픈AI는 17일(현지시간) 공식 발표를 통해 NATO 통신정보국(NCIA)과 협력해 동맹의 핵심 기관과 네트워크에 사이버 보안 AI 모델을 제공하고 있다고 밝혔다.NATO는 관련 작업에서 매월 최대 3000억개의 입력·출력",
+   "publishedAt": 1794981937000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1147,7 +1217,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1161,21 +1231,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "노타, AI 에이전트 성능 높이는 풀스택 최적화 기술 공개...\"시간 47%·토큰 60% 절감\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217515",
-   "summary": "노타(대표 채명수)는 19일 AI 모델 경량화와 GPU 커널 최적화에 AI 에이전트의 작업 흐름까지 제어하는 ‘풀스택 최적화’ 기술을 공개했다.회사 측은 동일한 AI 모델과 GPU 환경에서 코딩 에이전트 클라인 기본 구성 대비 작업 시간을 최대 47%, 출력 토큰을 최대 60% 줄여 별도의 장비 증설이나 모델 교체 없이 기존 AI 인프의 활용 효율을 높였다고 밝혔다.에이전트는 하나의 요청을 처리하는 동안 모델 호출과 도구 사용, 결과 확인을 반복하기 때문에 불필요한 추론과 재검토가 누적되면 사용자의 대기시간과 연산 부담도 커질 수",
-   "publishedAt": 1794980931000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1189,7 +1245,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 33.2,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "노타, AI 에이전트 성능 높이는 풀스택 최적화 기술 공개...\"시간 47%·토큰 60% 절감\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217515",
+   "summary": "노타(대표 채명수)는 19일 AI 모델 경량화와 GPU 커널 최적화에 AI 에이전트의 작업 흐름까지 제어하는 ‘풀스택 최적화’ 기술을 공개했다.회사 측은 동일한 AI 모델과 GPU 환경에서 코딩 에이전트 클라인 기본 구성 대비 작업 시간을 최대 47%, 출력 토큰을 최대 60% 줄여 별도의 장비 증설이나 모델 교체 없이 기존 AI 인프의 활용 효율을 높였다고 밝혔다.에이전트는 하나의 요청을 처리하는 동안 모델 호출과 도구 사용, 결과 확인을 반복하기 때문에 불필요한 추론과 재검토가 누적되면 사용자의 대기시간과 연산 부담도 커질 수",
+   "publishedAt": 1794980931000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1203,7 +1273,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1217,7 +1287,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1231,7 +1301,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1245,7 +1315,7 @@
    "comments": 68,
    "publishedAt": 1794850481000,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1259,7 +1329,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1273,7 +1343,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1287,7 +1357,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.5,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1301,21 +1371,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "Satya Nadella says he’s AGI-pilled now",
-   "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-   "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI",
-   "publishedAt": 1794958878000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.2,
+   "score": 31,
    "hot": false
   },
   {
@@ -1329,79 +1385,21 @@
    "comments": 81,
    "publishedAt": 1794804786000,
    "isAI": false,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false
   },
   {
-   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50497589",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 276,
-   "comments": 30,
-   "publishedAt": 1794668655000,
-   "isAI": true,
-   "score": 30.8,
-   "hot": false,
-   "lastWeekRank": 5
-  },
-  {
-   "title": "[11월17일] 미국 이어 중국도 'AI 과학적 발견' 경쟁…문샷, 생물학·화학 연구에 집중",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217482",
-   "summary": "중국 AI 기업들도 미국의 오픈AI와 앤트로픽이 주도하는 'AI 과학적 발견' 경쟁에 뛰어들고 있습니다. 그동안 미국 최첨단 모델과의 성능 격차를 줄이는 데 집중했던 중국 기업들이 이제는 수학과 과학 분야에서 새로운 지식을 만들어내는 능력을 차세대 경쟁력으로 내세우기 시작한 것입니다.사우스차이나모닝포스트(SCMP)는 16일(현지시간) 문샷 AI가 '키미' 모델을 생물학과 화학, 신약 개발 연구에 활용하는 데 집중하고 있다고 소개했습니다.자코모 피카리 문샷 AI 국제사업 책임자는 최근 포르투갈 리스본에서 열린 '웹서밋 2026'에서",
-   "publishedAt": 1794952800000,
-   "source": "AI타임스",
+   "title": "Satya Nadella says he’s AGI-pilled now",
+   "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+   "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI",
+   "publishedAt": 1794958878000,
+   "source": "The Verge",
    "sourceType": "media",
-   "lang": "ko",
+   "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.7,
-   "hot": false
-  },
-  {
-   "title": "Nimony: A New Compiler for Nim",
-   "url": "https://nimony.org/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50512779",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 189,
-   "comments": 101,
-   "publishedAt": 1794791122000,
-   "isAI": false,
-   "score": 30.6,
-   "hot": false
-  },
-  {
-   "title": "Anthropic IPO",
-   "url": "https://ipo.anthropic.com/us/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50465829",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1007,
-   "comments": 922,
-   "publishedAt": 1794484001000,
-   "isAI": true,
-   "score": 30.6,
-   "hot": false,
-   "lastWeekRank": 29
-  },
-  {
-   "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217513",
-   "summary": "오픈AI가 차세대 플래그십 모델 'GPT-6.2 아스트라(Astra)'와 'GPT-6.2 솔(Sol)'을 출시했다. 안전성 문제로 이전 버전의 출시를 취소한 지 약 50일 만으로, 종합 성능 평가에서 세계 2위에 오르고 API 가격도 20% 인하하는 등 성능과 비용 경쟁력을 동시에 강화했다.오픈AI는 17일(현지시간) 공식 블로그를 통해 최고 성능 모델인 GPT-6.2 아스트라와 비용 효율성을 높인 GPT-6.2 솔을 공개했다. 두 모델은 전문 업무와 소프트웨어 개발, 과학 연구 등의 능력을 개선하면서 같은 작업에 필요한 출력 토큰",
-   "publishedAt": 1794952120000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.6,
+   "score": 30.9,
    "hot": false
   }
  ]
