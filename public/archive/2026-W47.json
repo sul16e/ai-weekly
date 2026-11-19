@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795081326979,
+ "updatedAt": 1795084985319,
  "week": "2026-W47",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 812,
-   "comments": 660,
+   "engagement": 840,
+   "comments": 670,
    "publishedAt": 1795037647000,
    "isAI": true,
-   "score": 63.5,
+   "score": 63.1,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 457,
-   "comments": 211,
+   "engagement": 465,
+   "comments": 213,
    "publishedAt": 1795016974000,
    "isAI": true,
-   "score": 55.4,
+   "score": 55,
    "hot": true
   },
   {
@@ -38,10 +38,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 781,
-   "comments": 695,
+   "comments": 696,
    "publishedAt": 1794984446000,
    "isAI": true,
-   "score": 54.8,
+   "score": 54.3,
    "hot": false
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 230,
+   "engagement": 231,
    "comments": 72,
    "publishedAt": 1795048185000,
    "isAI": true,
-   "score": 54.5,
+   "score": 53.9,
    "hot": true
   },
   {
@@ -65,11 +65,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 214,
-   "comments": 320,
+   "engagement": 238,
+   "comments": 384,
    "publishedAt": 1795044609000,
    "isAI": true,
-   "score": 53.3,
+   "score": 53.6,
+   "hot": true
+  },
+  {
+   "title": "LLM assisted reverse engineering",
+   "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50553225",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 219,
+   "comments": 52,
+   "publishedAt": 1795040953000,
+   "isAI": true,
+   "score": 52.4,
    "hot": true
   },
   {
@@ -83,22 +97,8 @@
    "comments": 853,
    "publishedAt": 1794937603000,
    "isAI": true,
-   "score": 52.5,
+   "score": 52.1,
    "hot": false
-  },
-  {
-   "title": "LLM assisted reverse engineering",
-   "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50553225",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 205,
-   "comments": 50,
-   "publishedAt": 1795040953000,
-   "isAI": true,
-   "score": 52.4,
-   "hot": true
   },
   {
    "title": "Google's AI answers reducing search traffic by 40%",
@@ -107,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 697,
-   "comments": 547,
+   "engagement": 698,
+   "comments": 554,
    "publishedAt": 1794961078000,
    "isAI": true,
-   "score": 51,
+   "score": 50.6,
    "hot": false
   },
   {
@@ -121,11 +121,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 210,
-   "comments": 139,
+   "engagement": 211,
+   "comments": 149,
    "publishedAt": 1795023947000,
    "isAI": true,
-   "score": 50.2,
+   "score": 49.7,
+   "hot": true
+  },
+  {
+   "title": "Java4Shell은 Java를 사용해야 할 이유다",
+   "url": "https://news.hada.io/topic?id=37467&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Java4Shell 은 JVM의 Base64 인코딩 인트린식에서 발생한 취약점임. 아직 업데이트하지 않은 Java 배포 환경은 -XX:-UseBASE64Intrinsics 를 추가하고, 가능한 시점에 패치된 VM으로 업그레이드해야 함 AI로 잠재적 문제를 찾는 데 필요한 노력이 줄어드는 가운데, 네이티브 코드 에서 비롯되고 널리 공유되는 의존성에 존재하는 취약점은 더 심각하고 광범위한 문제가 되기 쉬움 VM을 신뢰한다는 전제 에서 일반적인 Java 프로그램은 메모리 안전하며, 라이브러리의 네이티브 코드 호출에 대한 경고와 명시적 허",
+   "publishedAt": 1795082487000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.6,
    "hot": true
   },
   {
@@ -139,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.4,
+   "score": 48.9,
    "hot": true
   },
   {
@@ -153,7 +167,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.4,
+   "score": 48.9,
    "hot": true
   },
   {
@@ -163,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 310,
+   "engagement": 311,
    "comments": 55,
    "publishedAt": 1794994172000,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.8,
    "hot": false
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -195,7 +209,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.8,
+   "score": 47.3,
+   "hot": true
+  },
+  {
+   "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+   "url": "https://kapteko.com/15-million-webservers/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50556533",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 159,
+   "comments": 20,
+   "publishedAt": 1795067796000,
+   "isAI": false,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -209,7 +237,7 @@
    "comments": 77,
    "publishedAt": 1795020082000,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.6,
    "hot": false
   },
   {
@@ -223,7 +251,7 @@
    "comments": 139,
    "publishedAt": 1794975244000,
    "isAI": true,
-   "score": 46,
+   "score": 45.6,
    "hot": false
   },
   {
@@ -237,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -251,7 +279,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": false
   },
   {
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 44.9,
    "hot": true
   },
   {
@@ -279,7 +307,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 44.9,
    "hot": true
   },
   {
@@ -293,8 +321,22 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.5,
    "hot": false
+  },
+  {
+   "title": "Unreal Tournament 2004 in the Browser",
+   "url": "https://ut2004.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50554935",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 166,
+   "comments": 79,
+   "publishedAt": 1795051769000,
+   "isAI": false,
+   "score": 44.4,
+   "hot": true
   },
   {
    "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
@@ -307,7 +349,7 @@
    "comments": 125,
    "publishedAt": 1794978690000,
    "isAI": false,
-   "score": 44.8,
+   "score": 44.4,
    "hot": false
   },
   {
@@ -321,7 +363,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.2,
    "hot": false
   },
   {
@@ -331,38 +373,10 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 320,
-   "comments": 443,
+   "engagement": 321,
+   "comments": 444,
    "publishedAt": 1794950172000,
    "isAI": true,
-   "score": 44.5,
-   "hot": false
-  },
-  {
-   "title": "Unreal Tournament 2004 in the Browser",
-   "url": "https://ut2004.dev/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50554935",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 155,
-   "comments": 74,
-   "publishedAt": 1795051769000,
-   "isAI": false,
-   "score": 44.2,
-   "hot": true
-  },
-  {
-   "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-   "url": "https://kapteko.com/15-million-webservers/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50556533",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 121,
-   "comments": 14,
-   "publishedAt": 1795067796000,
-   "isAI": false,
    "score": 44.1,
    "hot": false
   },
@@ -377,7 +391,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -388,10 +402,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 161,
-   "comments": 104,
+   "comments": 106,
    "publishedAt": 1795045758000,
    "isAI": false,
-   "score": 43.8,
+   "score": 43.4,
    "hot": true
   },
   {
@@ -405,7 +419,7 @@
    "comments": 403,
    "publishedAt": 1794937634000,
    "isAI": false,
-   "score": 43,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -415,11 +429,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 213,
-   "comments": 68,
+   "engagement": 218,
+   "comments": 73,
    "publishedAt": 1795017883000,
    "isAI": false,
-   "score": 42.8,
+   "score": 42.6,
    "hot": true
   },
   {
@@ -430,11 +444,25 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 173,
-   "comments": 74,
+   "comments": 75,
    "publishedAt": 1794973663000,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
+  },
+  {
+   "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+   "url": "https://rshekhar.com/voyager/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50548161",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 204,
+   "comments": 49,
+   "publishedAt": 1795018731000,
+   "isAI": false,
+   "score": 42.1,
+   "hot": true
   },
   {
    "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
@@ -447,22 +475,8 @@
    "comments": 295,
    "publishedAt": 1794935526000,
    "isAI": false,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
-  },
-  {
-   "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-   "url": "https://rshekhar.com/voyager/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50548161",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 195,
-   "comments": 49,
-   "publishedAt": 1795018731000,
-   "isAI": false,
-   "score": 42.2,
-   "hot": true
   },
   {
    "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
@@ -475,7 +489,7 @@
    "comments": 103,
    "publishedAt": 1794957529000,
    "isAI": false,
-   "score": 42,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -486,10 +500,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 667,
-   "comments": 756,
+   "comments": 757,
    "publishedAt": 1794929908000,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.5,
    "hot": false
   },
   {
@@ -503,7 +517,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -517,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -531,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -545,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -555,11 +569,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 168,
-   "comments": 53,
+   "engagement": 170,
+   "comments": 54,
    "publishedAt": 1795013273000,
    "isAI": false,
-   "score": 40.4,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -573,7 +587,7 @@
    "comments": 233,
    "publishedAt": 1794910840000,
    "isAI": true,
-   "score": 40.2,
+   "score": 39.9,
    "hot": false
   },
   {
@@ -587,7 +601,7 @@
    "comments": 75,
    "publishedAt": 1794939378000,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -601,7 +615,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.3,
    "hot": false
   },
   {
@@ -615,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -629,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -643,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -657,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -671,7 +685,7 @@
    "comments": 257,
    "publishedAt": 1794925199000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.4,
    "hot": false
   },
   {
@@ -685,7 +699,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -699,7 +713,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -713,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -727,21 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
-   "hot": true
-  },
-  {
-   "title": "NoisyTCP CVE-2026-99288: Linux 관리자가 알아야 할 사항",
-   "url": "https://news.hada.io/topic?id=37445&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "CVE-2026-99288로 추적되는 이 11년 된 Linux 커널 결함으로 인해 인증되지 않은 공격자가 Nginx, Apache 또는 일반 SSH에서 조작된 TCP 패킷을 보내는 것만으로도 Linux 서버를 원격으로 충돌시킬 수 있습니다. 로그인도, 비밀번호도 필요없습니다.",
-   "publishedAt": 1795050776000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.4,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -755,8 +755,22 @@
    "comments": 105,
    "publishedAt": 1794958378000,
    "isAI": false,
-   "score": 38.3,
+   "score": 38,
    "hot": false
+  },
+  {
+   "title": "NoisyTCP CVE-2026-99288: Linux 관리자가 알아야 할 사항",
+   "url": "https://news.hada.io/topic?id=37445&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "CVE-2026-99288로 추적되는 이 11년 된 Linux 커널 결함으로 인해 인증되지 않은 공격자가 Nginx, Apache 또는 일반 SSH에서 조작된 TCP 패킷을 보내는 것만으로도 Linux 서버를 원격으로 충돌시킬 수 있습니다. 로그인도, 비밀번호도 필요없습니다.",
+   "publishedAt": 1795050776000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38,
+   "hot": true
   },
   {
    "title": "Cerebras Disaggregated Inference",
@@ -769,7 +783,7 @@
    "comments": 27,
    "publishedAt": 1794963383000,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -783,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -797,21 +811,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
-   "hot": true
-  },
-  {
-   "title": "Codeberg 도메인이 계정에서 갑자기 사라져 사이트 접속 불가",
-   "url": "https://news.hada.io/topic?id=37437&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "codeberg.org 가 아직 원인이 확인되지 않은 도메인 문제로 접속 불가 상태가 됨 도메인은 만료되거나 이전되지 않았는데도 Codeberg 계정에서 완전히 사라짐 Codeberg는 이와 관련한 이메일 알림을 받지 못함 공지 시점에 도메인은 clientHold 상태임 Codeberg는 원인 파악과 해결을 위해 도메인 등록업체에 연락을 시도 중 이며, 해결에 시간이 걸릴 수 있음 도메인 상태와 접속 장애 codeberg.org 는 원인이 아직 확인되지 않은 도메인 문제로 접속할 수 없는 상태임 도메인은 만료나 이전 없이 Codeb",
-   "publishedAt": 1795046742000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -825,21 +825,7 @@
    "comments": 671,
    "publishedAt": 1794754018000,
    "isAI": true,
-   "score": 37.6,
-   "hot": false
-  },
-  {
-   "title": "We don't need more apps, we need better open source",
-   "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50532086",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 353,
-   "comments": 258,
-   "publishedAt": 1794926736000,
-   "isAI": false,
-   "score": 37.4,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -853,7 +839,35 @@
    "comments": 620,
    "publishedAt": 1794869900000,
    "isAI": false,
-   "score": 37.4,
+   "score": 37.2,
+   "hot": false
+  },
+  {
+   "title": "We don't need more apps, we need better open source",
+   "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50532086",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 353,
+   "comments": 258,
+   "publishedAt": 1794926736000,
+   "isAI": false,
+   "score": 37.1,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+   "url": "https://news.ycombinator.com/item?id=50548660",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50548660",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 102,
+   "comments": 33,
+   "publishedAt": 1795020822000,
+   "isAI": false,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -867,7 +881,7 @@
    "comments": 556,
    "publishedAt": 1794836347000,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -881,7 +895,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.4,
+   "score": 36,
    "hot": false
   },
   {
@@ -895,7 +909,7 @@
    "comments": 75,
    "publishedAt": 1794918117000,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -909,7 +923,7 @@
    "comments": 17,
    "publishedAt": 1794942525000,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -923,7 +937,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -937,7 +951,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -951,7 +965,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -965,7 +979,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -979,7 +993,7 @@
    "comments": 29,
    "publishedAt": 1794945695000,
    "isAI": false,
-   "score": 35.2,
+   "score": 35,
    "hot": false
   },
   {
@@ -993,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -1007,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1021,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1035,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1049,7 +1063,7 @@
    "comments": 60,
    "publishedAt": 1794989864000,
    "isAI": false,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1059,11 +1073,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 209,
+   "engagement": 210,
    "comments": 37,
    "publishedAt": 1794928029000,
    "isAI": false,
-   "score": 34.2,
+   "score": 34,
    "hot": false
   },
   {
@@ -1077,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1091,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1105,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1119,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1133,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1147,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1161,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1175,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1189,77 +1203,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "메타, 주주 소송에 신주 발행 보류…AI 투자금 조달 계획 차질",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217588",
-   "summary": "메타가 투자자들의 소송으로 의결권 없는 ‘클래스 C’ 주식 발행 계획을 잠정 중단했다. AI 투자금을 조달하면서 마크 저커버그 CEO의 지배력을 유지하려던 자본 구조 개편에 제동이 걸렸다.파이낸셜타임스(FT)는 18일(현지시간) 메타가 델라웨어주 법원에 제출한 서류에서 관련 소송이 진행되는 동안 클래스 C 주식을 발행하지 않겠다고 밝혔다고 보도했다. 당초 새 주식의 거래는 내년 1월 시작할 계획이었다.캘리포니아주 교직원연금(CalSTRS)과 덴마크 연기금 PFA 등은 저커버그와 이사회가 일반 주주의 이익을 침해했다며 소송을 제기했다",
-   "publishedAt": 1795075290000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "미 의회 자문위 “중국군, AI 군사력 강화 위해 엔비디아 첨단 칩 확보 추진”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217576",
-   "summary": "중국군이 AI 기반 군사 역량을 강화하기 위해 엔비디아의 첨단 반도체 확보를 추진하고 있다는 미국 의회 자문기구의 보고서가 나왔다. 중국산 칩의 성능과 제조·소프트웨어 기술에 제약이 남아 있어, 미국의 수출 통제를 우회한 첨단 연산 자원 확보가 중요해졌다는 분석이다.미중경제안보검토위원회(USCC)는 18일(현지시간) 공개한 2026년 연례 보고서에서 중국 인민해방군이 무기와 지휘통제, 표적 식별, 군수 체계에 AI를 통합하는 ‘지능화 전쟁(Intelligentized Warfare)’을 추진하고 있다고 밝혔다.보고서는 중국군이 최근",
-   "publishedAt": 1795074986000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "AI타임스·영풍문고, ‘AI 시대, 믿고 읽을 책' 함께 고른다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217582",
-   "summary": "AI타임스와 영풍문고가 쏟아지는 AI 정보 속 신뢰할 수 있는 '지식과 지혜의 길라잡이'가 되기 위한 협력에 나선다.AI타임스와 영풍문고는 19일 서울 영풍문고 본사에서 상호협력을 위한 업무협약(MOU)을 맺고 서점의 도서 큐레이션 역량과 AI 전문매체의 저널리즘을 결합한 독자 서비스를 발굴, 제공하는데 협력하기로 했다.이번 협약으로 우선 영풍문고가 AI타임스에 연재 중인 ‘AI리더의 서가' 코너를 상설화해 협력 수위를 높인다. 이 코너는 AI산업·AI기술 등 AI타임스의 주요 기사 콘텐츠와 함께 정규 섹션으로 운영된다. 영풍문고가",
-   "publishedAt": 1795074675000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "광주 의료AI 플랫폼 45억 고도화…병·의원 465곳 진료기록 백업 지원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217585",
-   "summary": "광주가 의료데이터를 저장·조회하는 기존 시스템을 병·의원의 진료기록 관리와 의료AI 기술 검증·유통까지 지원하는 플랫폼으로 고도화한다. 협력 병·의원 465곳의 진료기록 백업·복구 체계를 구축하고, AI 진단지원 솔루션 최소 15종을 유통플랫폼에 탑재하는 것이 핵심이다.19일 광주테크노파크의 조달공고와 과업지시서에 따르면 '클라우드기반 의료데이터 활용 통합플랫폼 고도화(2차)' 사업에 총 44억9788만원이 책정됐다. 지난 10월26일 공고했으며, 이달 18일부터 입찰서 접수를 시작했다. 사업기간은 계약 체결일부터 2030년 11월",
-   "publishedAt": 1795074650000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "여수, AI 데이터센터 유치 공식화…가뭄 겪은 산단, 전력·용수 부담은",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217583",
-   "summary": "전남광주 여수시가 AI 데이터센터 유치를 공식화했다. 여수는 과거 가뭄으로 산업용수 공급이 제한됐으며, 새 데이터센터가 들어서면 기존 산업 수요에 더해 추가적인 전력·용수 공급이 필요할 수 있다.여수시의회는 지난 17일 제259회 정례회 제2차 본회의에서 박숙희 의원이 대표발의한 '여수시 인공지능 데이터센터 유치 지원에 관한 조례안'을 원안 가결했다.조례안에는 후보 입지와 전력·용수 등 기반시설 확보 가능성 조사, 제조업 특화 데이터센터 유치 지원, 산업 연계사업 발굴 등이 담겼다.서영학 여수시장도 같은 날 2027년도 예산안 시정",
-   "publishedAt": 1795074605000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1273,21 +1217,77 @@
    "comments": 99,
    "publishedAt": 1794848019000,
    "isAI": false,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   },
   {
-   "title": "디 인포메이션 \"엔비디아, 알리바바에 해외 GPU 임대 경로 연결\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217586",
-   "summary": "엔비디아 영업팀이 알리바바를 앨리스 황의 칩 임대 사업에 연결하고, 미국의 수출 통제 이후에는 동남아시아에서 AI 칩을 빌려 쓰는 방식을 제안했다는 보도가 등장했다. 이 소개가 이후 메가스피드로 이어진 사업의 고객 확보와 칩 구매 자금 조달에 도움을 줬다는 내용이다.디 인포메이션은 17일(현지시간) 관계자 3명을 인용, 엔비디아가 2022년 여러 달에 걸쳐 두 차례 알리바바와 앨리스 황을 연결했다고 전했다. 이번 보도는 기존에 알려진 두 회사의 거래 관계에서 엔비디아 영업 조직이 맡은 구체적인 역할을 다뤘다.이에 따르면 첫 소개는",
-   "publishedAt": 1795073113000,
+   "title": "메타, 주주 소송에 신주 발행 보류…AI 투자금 조달 계획 차질",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217588",
+   "summary": "메타가 투자자들의 소송으로 의결권 없는 ‘클래스 C’ 주식 발행 계획을 잠정 중단했다. AI 투자금을 조달하면서 마크 저커버그 CEO의 지배력을 유지하려던 자본 구조 개편에 제동이 걸렸다.파이낸셜타임스(FT)는 18일(현지시간) 메타가 델라웨어주 법원에 제출한 서류에서 관련 소송이 진행되는 동안 클래스 C 주식을 발행하지 않겠다고 밝혔다고 보도했다. 당초 새 주식의 거래는 내년 1월 시작할 계획이었다.캘리포니아주 교직원연금(CalSTRS)과 덴마크 연기금 PFA 등은 저커버그와 이사회가 일반 주주의 이익을 침해했다며 소송을 제기했다",
+   "publishedAt": 1795075290000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "미 의회 자문위 “중국군, AI 군사력 강화 위해 엔비디아 첨단 칩 확보 추진”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217576",
+   "summary": "중국군이 AI 기반 군사 역량을 강화하기 위해 엔비디아의 첨단 반도체 확보를 추진하고 있다는 미국 의회 자문기구의 보고서가 나왔다. 중국산 칩의 성능과 제조·소프트웨어 기술에 제약이 남아 있어, 미국의 수출 통제를 우회한 첨단 연산 자원 확보가 중요해졌다는 분석이다.미중경제안보검토위원회(USCC)는 18일(현지시간) 공개한 2026년 연례 보고서에서 중국 인민해방군이 무기와 지휘통제, 표적 식별, 군수 체계에 AI를 통합하는 ‘지능화 전쟁(Intelligentized Warfare)’을 추진하고 있다고 밝혔다.보고서는 중국군이 최근",
+   "publishedAt": 1795074986000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "AI타임스·영풍문고, ‘AI 시대, 믿고 읽을 책' 함께 고른다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217582",
+   "summary": "AI타임스와 영풍문고가 쏟아지는 AI 정보 속 신뢰할 수 있는 '지식과 지혜의 길라잡이'가 되기 위한 협력에 나선다.AI타임스와 영풍문고는 19일 서울 영풍문고 본사에서 상호협력을 위한 업무협약(MOU)을 맺고 서점의 도서 큐레이션 역량과 AI 전문매체의 저널리즘을 결합한 독자 서비스를 발굴, 제공하는데 협력하기로 했다.이번 협약으로 우선 영풍문고가 AI타임스에 연재 중인 ‘AI리더의 서가' 코너를 상설화해 협력 수위를 높인다. 이 코너는 AI산업·AI기술 등 AI타임스의 주요 기사 콘텐츠와 함께 정규 섹션으로 운영된다. 영풍문고가",
+   "publishedAt": 1795074675000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "광주 의료AI 플랫폼 45억 고도화…병·의원 465곳 진료기록 백업 지원",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217585",
+   "summary": "광주가 의료데이터를 저장·조회하는 기존 시스템을 병·의원의 진료기록 관리와 의료AI 기술 검증·유통까지 지원하는 플랫폼으로 고도화한다. 협력 병·의원 465곳의 진료기록 백업·복구 체계를 구축하고, AI 진단지원 솔루션 최소 15종을 유통플랫폼에 탑재하는 것이 핵심이다.19일 광주테크노파크의 조달공고와 과업지시서에 따르면 '클라우드기반 의료데이터 활용 통합플랫폼 고도화(2차)' 사업에 총 44억9788만원이 책정됐다. 지난 10월26일 공고했으며, 이달 18일부터 입찰서 접수를 시작했다. 사업기간은 계약 체결일부터 2030년 11월",
+   "publishedAt": 1795074650000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "여수, AI 데이터센터 유치 공식화…가뭄 겪은 산단, 전력·용수 부담은",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217583",
+   "summary": "전남광주 여수시가 AI 데이터센터 유치를 공식화했다. 여수는 과거 가뭄으로 산업용수 공급이 제한됐으며, 새 데이터센터가 들어서면 기존 산업 수요에 더해 추가적인 전력·용수 공급이 필요할 수 있다.여수시의회는 지난 17일 제259회 정례회 제2차 본회의에서 박숙희 의원이 대표발의한 '여수시 인공지능 데이터센터 유치 지원에 관한 조례안'을 원안 가결했다.조례안에는 후보 입지와 전력·용수 등 기반시설 확보 가능성 조사, 제조업 특화 데이터센터 유치 지원, 산업 연계사업 발굴 등이 담겼다.서영학 여수시장도 같은 날 2027년도 예산안 시정",
+   "publishedAt": 1795074605000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1301,35 +1301,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false
   },
   {
-   "title": "엔비디아, ‘RTX 스파크’ 소형 데스크톱 글로벌 출시…국내 사전예약 시작",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217579",
-   "summary": "엔비디아가 로컬 AI 에이전트를 24시간 구동할 수 있는 ‘RTX 스파크(RTX Spark)’ 소형 데스크톱을 19일 글로벌 출시했다. 에이수스·델·MSI 등이 제품을 선보이며, 국내에서는 19일부터 에이수스 제품의 사전예약이 시작됐다.RTX 스파크 소형 데스크톱은 20코어 그레이스 CPU와 6144개 쿠다 코어의 블랙웰 RTX GPU, 최대 128GB 통합 메모리를 탑재해 최대 1페타플롭의 AI 성능을 낸다.또 1200억 매개변수 규모 대형언어모델(LLM)을 로컬에서 실행하고 90GB 이상 3D 장면을 실시간 렌더링할 수 있다.",
-   "publishedAt": 1795071622000,
+   "title": "디 인포메이션 \"엔비디아, 알리바바에 해외 GPU 임대 경로 연결\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217586",
+   "summary": "엔비디아 영업팀이 알리바바를 앨리스 황의 칩 임대 사업에 연결하고, 미국의 수출 통제 이후에는 동남아시아에서 AI 칩을 빌려 쓰는 방식을 제안했다는 보도가 등장했다. 이 소개가 이후 메가스피드로 이어진 사업의 고객 확보와 칩 구매 자금 조달에 도움을 줬다는 내용이다.디 인포메이션은 17일(현지시간) 관계자 3명을 인용, 엔비디아가 2022년 여러 달에 걸쳐 두 차례 알리바바와 앨리스 황을 연결했다고 전했다. 이번 보도는 기존에 알려진 두 회사의 거래 관계에서 엔비디아 영업 조직이 맡은 구체적인 역할을 다뤘다.이에 따르면 첫 소개는",
+   "publishedAt": 1795073113000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "구글 “AI 끄면 검색도 포기”…뉴욕·LA·시카고 교육구, 대체 검색 검토",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217589",
-   "summary": "미국 뉴욕시와 로스앤젤레스, 시카고 교육구가 구글 검색을 다른 검색 엔진으로 바꾸는 방안을 검토하고 있다. 학생용 검색에서 AI 기능만 끌 수 없다는 구글의 정책에 대한 반발이 실제 서비스 교체 움직임으로 이어진 것이다.뉴욕타임스(NYT)는 18일(현지시간) 주요 교육구들이 구글에 AI 기능을 제외한 검색 서비스를 요구하며 대안을 찾고 있다고 보도했다.구글은 이달 초 내년부터 학교 관리자가 허용하기 전까지 학생 계정의 제미나이와 검색 등을 기본적으로 비활성화하겠다고 발표했다. 그러나 검색과 AI가 깊이 통합돼 있다는 이유로 ‘AI",
-   "publishedAt": 1795071000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1343,7 +1329,35 @@
    "comments": 262,
    "publishedAt": 1794853037000,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "엔비디아, ‘RTX 스파크’ 소형 데스크톱 글로벌 출시…국내 사전예약 시작",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217579",
+   "summary": "엔비디아가 로컬 AI 에이전트를 24시간 구동할 수 있는 ‘RTX 스파크(RTX Spark)’ 소형 데스크톱을 19일 글로벌 출시했다. 에이수스·델·MSI 등이 제품을 선보이며, 국내에서는 19일부터 에이수스 제품의 사전예약이 시작됐다.RTX 스파크 소형 데스크톱은 20코어 그레이스 CPU와 6144개 쿠다 코어의 블랙웰 RTX GPU, 최대 128GB 통합 메모리를 탑재해 최대 1페타플롭의 AI 성능을 낸다.또 1200억 매개변수 규모 대형언어모델(LLM)을 로컬에서 실행하고 90GB 이상 3D 장면을 실시간 렌더링할 수 있다.",
+   "publishedAt": 1795071622000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "구글 “AI 끄면 검색도 포기”…뉴욕·LA·시카고 교육구, 대체 검색 검토",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217589",
+   "summary": "미국 뉴욕시와 로스앤젤레스, 시카고 교육구가 구글 검색을 다른 검색 엔진으로 바꾸는 방안을 검토하고 있다. 학생용 검색에서 AI 기능만 끌 수 없다는 구글의 정책에 대한 반발이 실제 서비스 교체 움직임으로 이어진 것이다.뉴욕타임스(NYT)는 18일(현지시간) 주요 교육구들이 구글에 AI 기능을 제외한 검색 서비스를 요구하며 대안을 찾고 있다고 보도했다.구글은 이달 초 내년부터 학교 관리자가 허용하기 전까지 학생 계정의 제미나이와 검색 등을 기본적으로 비활성화하겠다고 발표했다. 그러나 검색과 AI가 깊이 통합돼 있다는 이유로 ‘AI",
+   "publishedAt": 1795071000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1357,7 +1371,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1371,7 +1385,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1385,21 +1399,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "북한, AI 챗봇 '지혜의 샘' 공개…정치 질문 금지·해외 모델 활용 추정",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217578",
-   "summary": "북한이 과학기술 분야의 질문에 답하고 번역 등을 수행하는 AI 챗봇 '지혜의 샘'을 공개했다. 챗GPT와 비슷한 대화형 인터페이스를 갖췄지만 정치·사회 관련 질문을 금지하고 있으며, 자체 개발한 파운데이션 모델이 아닌 해외 오픈웨이트 모델을 활용했을 가능성이 제기됐다.미국의 북한 전문매체 38노스는 18일(현지시간) 북한 교육방송 룡남산TV가 지난 17일 방영한 영상을 분석해 북한이 AI 챗봇을 개발한 사실을 확인했다고 보도했다.'인공지능봉사체계 1.0 지혜의 샘'이라는 이름의 챗봇은 김일성종합대학 인공지능기술연구소와 평양의 소프트",
-   "publishedAt": 1795068888000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   }
  ]
