@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795084985319,
+ "updatedAt": 1795088641294,
  "week": "2026-W47",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 840,
-   "comments": 670,
+   "engagement": 862,
+   "comments": 684,
    "publishedAt": 1795037647000,
    "isAI": true,
-   "score": 63.1,
+   "score": 62.7,
    "hot": true
   },
   {
@@ -23,39 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 465,
-   "comments": 213,
+   "engagement": 467,
+   "comments": 225,
    "publishedAt": 1795016974000,
    "isAI": true,
-   "score": 55,
-   "hot": true
-  },
-  {
-   "title": "AI is killing All About Berlin",
-   "url": "https://nicolasbouliane.com/blog/death-by-ai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50542705",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 781,
-   "comments": 696,
-   "publishedAt": 1794984446000,
-   "isAI": true,
-   "score": 54.3,
-   "hot": false
-  },
-  {
-   "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-   "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50554374",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 231,
-   "comments": 72,
-   "publishedAt": 1795048185000,
-   "isAI": true,
-   "score": 53.9,
+   "score": 54.5,
    "hot": true
   },
   {
@@ -65,11 +37,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 238,
-   "comments": 384,
+   "engagement": 259,
+   "comments": 456,
    "publishedAt": 1795044609000,
    "isAI": true,
-   "score": 53.6,
+   "score": 53.8,
+   "hot": true
+  },
+  {
+   "title": "AI is killing All About Berlin",
+   "url": "https://nicolasbouliane.com/blog/death-by-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50542705",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 783,
+   "comments": 699,
+   "publishedAt": 1794984446000,
+   "isAI": true,
+   "score": 53.8,
+   "hot": false
+  },
+  {
+   "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+   "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50554374",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 233,
+   "comments": 73,
+   "publishedAt": 1795048185000,
+   "isAI": true,
+   "score": 53.4,
    "hot": true
   },
   {
@@ -79,8 +79,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 219,
-   "comments": 52,
+   "engagement": 234,
+   "comments": 58,
    "publishedAt": 1795040953000,
    "isAI": true,
    "score": 52.4,
@@ -97,7 +97,7 @@
    "comments": 853,
    "publishedAt": 1794937603000,
    "isAI": true,
-   "score": 52.1,
+   "score": 51.7,
    "hot": false
   },
   {
@@ -107,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 698,
-   "comments": 554,
+   "engagement": 700,
+   "comments": 555,
    "publishedAt": 1794961078000,
    "isAI": true,
-   "score": 50.6,
+   "score": 50.1,
    "hot": false
   },
   {
@@ -121,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 211,
-   "comments": 149,
+   "engagement": 212,
+   "comments": 151,
    "publishedAt": 1795023947000,
    "isAI": true,
-   "score": 49.7,
+   "score": 49.3,
    "hot": true
   },
   {
@@ -139,35 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.6,
-   "hot": true
-  },
-  {
-   "title": "LLM을 활용한 리버스 엔지니어링",
-   "url": "https://news.hada.io/topic?id=37466&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "20년간 수작업으로 해 온 하드웨어/소프트웨어 리버스 엔지니어링에서, AI 에이전트와 전용 스킬 에 분석을 맡기고 사람이 방향을 조정해 작업 시간을 크게 줄임 분석은 바이너리 유형과 플랫폼 파악, 도구 선택, 주요 함수와 분기 구조 조사 순으로 진행하며, 발견 사항을 Markdown 파일 에 기록해 맥락 압축이나 에이전트 교체 이후에도 작업을 이어감 정적 분석만으로 막히면 디버깅, 로그, 실행 환경 제어 를 활용하고, 사람이 대화와 추론 기록을 읽으며 잘못된 탐색 방향을 교정함 가설 기반 디버깅 은 검증 가능한 가설을 CSV에 기록",
-   "publishedAt": 1795077468000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.9,
-   "hot": true
-  },
-  {
-   "title": "Anthropic, 기업공개 공모가 확정",
-   "url": "https://news.hada.io/topic?id=37465&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Anthropic 이 Class A 보통주의 기업공개(IPO) 공모가를 주당 83달러 로 확정함 공모 물량은 9억 8,000만 주 이며, Anthropic이 매각하는 주식과 일부 기존 주주가 매각하는 주식으로 구성됨 기존 주주의 매각 대금은 Anthropic에 유입되지 않음 2026년 11월 19일 Nasdaq Global Select Market에서 종목 기호 ANT 로 거래를 시작할 예정임 인수단에는 30일간 최대 1억 4,700만 주 의 Class A 보통주를 추가 매입할 수 있는 옵션이 부여됨 공모 가격과 물량 Class A",
-   "publishedAt": 1795077288000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 48.9,
+   "score": 49.1,
    "hot": true
   },
   {
@@ -181,8 +153,36 @@
    "comments": 55,
    "publishedAt": 1794994172000,
    "isAI": true,
-   "score": 48.8,
+   "score": 48.4,
    "hot": false
+  },
+  {
+   "title": "LLM을 활용한 리버스 엔지니어링",
+   "url": "https://news.hada.io/topic?id=37466&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "20년간 수작업으로 해 온 하드웨어/소프트웨어 리버스 엔지니어링에서, AI 에이전트와 전용 스킬 에 분석을 맡기고 사람이 방향을 조정해 작업 시간을 크게 줄임 분석은 바이너리 유형과 플랫폼 파악, 도구 선택, 주요 함수와 분기 구조 조사 순으로 진행하며, 발견 사항을 Markdown 파일 에 기록해 맥락 압축이나 에이전트 교체 이후에도 작업을 이어감 정적 분석만으로 막히면 디버깅, 로그, 실행 환경 제어 를 활용하고, 사람이 대화와 추론 기록을 읽으며 잘못된 탐색 방향을 교정함 가설 기반 디버깅 은 검증 가능한 가설을 CSV에 기록",
+   "publishedAt": 1795077468000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.4,
+   "hot": true
+  },
+  {
+   "title": "Anthropic, 기업공개 공모가 확정",
+   "url": "https://news.hada.io/topic?id=37465&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Anthropic 이 Class A 보통주의 기업공개(IPO) 공모가를 주당 83달러 로 확정함 공모 물량은 9억 8,000만 주 이며, Anthropic이 매각하는 주식과 일부 기존 주주가 매각하는 주식으로 구성됨 기존 주주의 매각 대금은 Anthropic에 유입되지 않음 2026년 11월 19일 Nasdaq Global Select Market에서 종목 기호 ANT 로 거래를 시작할 예정임 인수단에는 30일간 최대 1억 4,700만 주 의 Class A 보통주를 추가 매입할 수 있는 옵션이 부여됨 공모 가격과 물량 Class A",
+   "publishedAt": 1795077288000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.3,
+   "hot": true
   },
   {
    "title": "Show GN: 크리스마스 Claude Code 플러그인 SantaClaude",
@@ -195,7 +195,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.5,
+   "score": 48,
+   "hot": true
+  },
+  {
+   "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+   "url": "https://kapteko.com/15-million-webservers/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50556533",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 184,
+   "comments": 24,
+   "publishedAt": 1795067796000,
+   "isAI": false,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -209,21 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.3,
-   "hot": true
-  },
-  {
-   "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-   "url": "https://kapteko.com/15-million-webservers/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50556533",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 159,
-   "comments": 20,
-   "publishedAt": 1795067796000,
-   "isAI": false,
-   "score": 46.1,
+   "score": 46.8,
    "hot": true
   },
   {
@@ -237,7 +237,7 @@
    "comments": 77,
    "publishedAt": 1795020082000,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.2,
    "hot": false
   },
   {
@@ -247,11 +247,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 270,
+   "engagement": 271,
    "comments": 139,
    "publishedAt": 1794975244000,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.2,
+   "hot": false
+  },
+  {
+   "title": "The Silent Consensus",
+   "url": "https://openai.com/index/the-silent-consensus",
+   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+   "publishedAt": 1794996000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -265,22 +279,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 44.9,
    "hot": true
-  },
-  {
-   "title": "The Silent Consensus",
-   "url": "https://openai.com/index/the-silent-consensus",
-   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-   "publishedAt": 1794996000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 45.3,
-   "hot": false
   },
   {
    "title": "OpenAI 모델로 칩 설계 발전시키기",
@@ -293,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -307,22 +307,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
-   "hot": true
-  },
-  {
-   "title": "Research acceleration: The jagged frontier",
-   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-   "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-   "publishedAt": 1794988800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
    "score": 44.5,
-   "hot": false
+   "hot": true
   },
   {
    "title": "Unreal Tournament 2004 in the Browser",
@@ -331,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 166,
-   "comments": 79,
+   "engagement": 167,
+   "comments": 82,
    "publishedAt": 1795051769000,
    "isAI": false,
-   "score": 44.4,
+   "score": 44,
    "hot": true
   },
   {
@@ -349,7 +335,21 @@
    "comments": 125,
    "publishedAt": 1794978690000,
    "isAI": false,
-   "score": 44.4,
+   "score": 44,
+   "hot": false
+  },
+  {
+   "title": "Research acceleration: The jagged frontier",
+   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+   "publishedAt": 1794988800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 44,
    "hot": false
   },
   {
@@ -363,7 +363,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 44.2,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -377,7 +377,7 @@
    "comments": 444,
    "publishedAt": 1794950172000,
    "isAI": true,
-   "score": 44.1,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -391,7 +391,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -401,11 +401,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 161,
+   "engagement": 163,
    "comments": 106,
    "publishedAt": 1795045758000,
    "isAI": false,
-   "score": 43.4,
+   "score": 43,
+   "hot": true
+  },
+  {
+   "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+   "url": "https://exitpath-ruddy.vercel.app/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50547980",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 223,
+   "comments": 73,
+   "publishedAt": 1795017883000,
+   "isAI": false,
+   "score": 42.3,
    "hot": true
   },
   {
@@ -419,22 +433,8 @@
    "comments": 403,
    "publishedAt": 1794937634000,
    "isAI": false,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
-  },
-  {
-   "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
-   "url": "https://exitpath-ruddy.vercel.app/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50547980",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 218,
-   "comments": 73,
-   "publishedAt": 1795017883000,
-   "isAI": false,
-   "score": 42.6,
-   "hot": true
   },
   {
    "title": "Claude was trained on protein sequences at scale",
@@ -443,11 +443,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 173,
+   "engagement": 174,
    "comments": 75,
    "publishedAt": 1794973663000,
    "isAI": true,
-   "score": 42.3,
+   "score": 42,
    "hot": false
   },
   {
@@ -457,11 +457,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 204,
-   "comments": 49,
+   "engagement": 210,
+   "comments": 50,
    "publishedAt": 1795018731000,
    "isAI": false,
-   "score": 42.1,
+   "score": 41.9,
    "hot": true
   },
   {
@@ -475,7 +475,7 @@
    "comments": 295,
    "publishedAt": 1794935526000,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -489,7 +489,7 @@
    "comments": 103,
    "publishedAt": 1794957529000,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.3,
    "hot": false
   },
   {
@@ -503,7 +503,7 @@
    "comments": 757,
    "publishedAt": 1794929908000,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -517,7 +517,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.4,
+   "score": 41.1,
    "hot": false
   },
   {
@@ -531,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -545,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -559,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -570,10 +570,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 170,
-   "comments": 54,
+   "comments": 60,
    "publishedAt": 1795013273000,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -587,7 +587,7 @@
    "comments": 233,
    "publishedAt": 1794910840000,
    "isAI": true,
-   "score": 39.9,
+   "score": 39.6,
    "hot": false
   },
   {
@@ -601,7 +601,7 @@
    "comments": 75,
    "publishedAt": 1794939378000,
    "isAI": true,
-   "score": 39.4,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -615,7 +615,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39.3,
+   "score": 39,
    "hot": false
   },
   {
@@ -629,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -643,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -657,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -671,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -685,7 +685,7 @@
    "comments": 257,
    "publishedAt": 1794925199000,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -699,7 +699,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -713,7 +713,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 38.3,
+   "score": 38,
    "hot": false
   },
   {
@@ -727,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -741,35 +741,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
-   "hot": true
-  },
-  {
-   "title": "Archive Team is archiving the Apple Support Community",
-   "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50539747",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 265,
-   "comments": 105,
-   "publishedAt": 1794958378000,
-   "isAI": false,
-   "score": 38,
-   "hot": false
-  },
-  {
-   "title": "NoisyTCP CVE-2026-99288: Linux 관리자가 알아야 할 사항",
-   "url": "https://news.hada.io/topic?id=37445&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "CVE-2026-99288로 추적되는 이 11년 된 Linux 커널 결함으로 인해 인증되지 않은 공격자가 Nginx, Apache 또는 일반 SSH에서 조작된 TCP 패킷을 보내는 것만으로도 Linux 서버를 원격으로 충돌시킬 수 있습니다. 로그인도, 비밀번호도 필요없습니다.",
-   "publishedAt": 1795050776000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -783,8 +755,36 @@
    "comments": 27,
    "publishedAt": 1794963383000,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.6,
    "hot": false
+  },
+  {
+   "title": "Archive Team is archiving the Apple Support Community",
+   "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50539747",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 265,
+   "comments": 105,
+   "publishedAt": 1794958378000,
+   "isAI": false,
+   "score": 37.6,
+   "hot": false
+  },
+  {
+   "title": "NoisyTCP CVE-2026-99288: Linux 관리자가 알아야 할 사항",
+   "url": "https://news.hada.io/topic?id=37445&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "CVE-2026-99288로 추적되는 이 11년 된 Linux 커널 결함으로 인해 인증되지 않은 공격자가 Nginx, Apache 또는 일반 SSH에서 조작된 TCP 패킷을 보내는 것만으로도 Linux 서버를 원격으로 충돌시킬 수 있습니다. 로그인도, 비밀번호도 필요없습니다.",
+   "publishedAt": 1795050776000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 37.6,
+   "hot": true
   },
   {
    "title": "Java4Shell: Java 17의 인증 전 원격 코드 실행 취약점으로 서버 위험 노출(CVE-2026-114938)",
@@ -797,8 +797,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
+  },
+  {
+   "title": "All AI-generated code should be Open Source",
+   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50507303",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1282,
+   "comments": 671,
+   "publishedAt": 1794754018000,
+   "isAI": true,
+   "score": 37.3,
+   "hot": false
   },
   {
    "title": "nginx2root - nginx 원격 코드 실행 취약점 5개와 Linux 커널 권한 상승 취약점",
@@ -811,21 +825,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
-   "title": "All AI-generated code should be Open Source",
-   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50507303",
+   "title": "We don't need more apps, we need better open source",
+   "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50532086",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1281,
-   "comments": 671,
-   "publishedAt": 1794754018000,
-   "isAI": true,
-   "score": 37.5,
+   "engagement": 354,
+   "comments": 258,
+   "publishedAt": 1794926736000,
+   "isAI": false,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -839,21 +853,7 @@
    "comments": 620,
    "publishedAt": 1794869900000,
    "isAI": false,
-   "score": 37.2,
-   "hot": false
-  },
-  {
-   "title": "We don't need more apps, we need better open source",
-   "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50532086",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 353,
-   "comments": 258,
-   "publishedAt": 1794926736000,
-   "isAI": false,
-   "score": 37.1,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -863,11 +863,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 102,
-   "comments": 33,
+   "engagement": 105,
+   "comments": 36,
    "publishedAt": 1795020822000,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -881,21 +881,7 @@
    "comments": 556,
    "publishedAt": 1794836347000,
    "isAI": false,
-   "score": 36.5,
-   "hot": false
-  },
-  {
-   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-   "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-   "publishedAt": 1795048976000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 36,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -909,7 +895,21 @@
    "comments": 75,
    "publishedAt": 1794918117000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
+   "hot": false
+  },
+  {
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+   "publishedAt": 1795048976000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.6,
    "hot": false
   },
   {
@@ -923,7 +923,7 @@
    "comments": 17,
    "publishedAt": 1794942525000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -937,7 +937,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -951,7 +951,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -965,21 +965,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "Anthropic prices IPO at $83 a share, above projected range",
-   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-   "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-   "publishedAt": 1795039875000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.1,
+   "score": 35,
    "hot": false
   },
   {
@@ -993,7 +979,21 @@
    "comments": 29,
    "publishedAt": 1794945695000,
    "isAI": false,
-   "score": 35,
+   "score": 34.7,
+   "hot": false
+  },
+  {
+   "title": "Anthropic prices IPO at $83 a share, above projected range",
+   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+   "publishedAt": 1795039875000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1007,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -1021,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1035,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1049,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.3,
+   "score": 34,
    "hot": false
   },
   {
@@ -1063,7 +1063,7 @@
    "comments": 60,
    "publishedAt": 1794989864000,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1077,7 +1077,7 @@
    "comments": 37,
    "publishedAt": 1794928029000,
    "isAI": false,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -1091,7 +1091,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1105,7 +1105,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1119,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1133,7 +1133,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1147,7 +1147,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -1161,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1175,35 +1175,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "챗GPT 음성 받아쓰기 기능 개선...실시간 텍스트 변환·10분 녹음 제한 폐지",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217580",
-   "summary": "오픈AI가 '챗GPT'의 음성 받아쓰기를 개선해 말하는 동안 변환된 문장을 화면에서 확인할 수 있도록 했다. 기존 10분 녹음 제한도 없애 긴 질문이나 설명을 음성으로 입력하기 편해졌다.오픈AI는 18일(현지시간) 공식 릴리스 노트를 통해 ‘라이브 받아쓰기(Live Dictation)’를 전 세계 모든 챗GPT 요금제에 차례로 배포한다고 밝혔다. iOS와 안드로이드, 웹, 데스크톱 앱이 대상이다.기존에는 녹음을 마친 뒤 텍스트 변환 결과를 기다려야 했다. 이번 업데이트에서는 사용자가 말하는 동안 음성이 텍스트로 변환돼 녹음 종료 후",
-   "publishedAt": 1795077053000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-   "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-   "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-   "publishedAt": 1795018449000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.1,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1217,77 +1189,35 @@
    "comments": 99,
    "publishedAt": 1794848019000,
    "isAI": false,
-   "score": 33,
+   "score": 32.8,
    "hot": false
   },
   {
-   "title": "메타, 주주 소송에 신주 발행 보류…AI 투자금 조달 계획 차질",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217588",
-   "summary": "메타가 투자자들의 소송으로 의결권 없는 ‘클래스 C’ 주식 발행 계획을 잠정 중단했다. AI 투자금을 조달하면서 마크 저커버그 CEO의 지배력을 유지하려던 자본 구조 개편에 제동이 걸렸다.파이낸셜타임스(FT)는 18일(현지시간) 메타가 델라웨어주 법원에 제출한 서류에서 관련 소송이 진행되는 동안 클래스 C 주식을 발행하지 않겠다고 밝혔다고 보도했다. 당초 새 주식의 거래는 내년 1월 시작할 계획이었다.캘리포니아주 교직원연금(CalSTRS)과 덴마크 연기금 PFA 등은 저커버그와 이사회가 일반 주주의 이익을 침해했다며 소송을 제기했다",
-   "publishedAt": 1795075290000,
+   "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+   "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+   "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+   "publishedAt": 1795018449000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.8,
+   "hot": false
+  },
+  {
+   "title": "챗GPT 음성 받아쓰기 기능 개선...실시간 텍스트 변환·10분 녹음 제한 폐지",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217580",
+   "summary": "오픈AI가 '챗GPT'의 음성 받아쓰기를 개선해 말하는 동안 변환된 문장을 화면에서 확인할 수 있도록 했다. 기존 10분 녹음 제한도 없애 긴 질문이나 설명을 음성으로 입력하기 편해졌다.오픈AI는 18일(현지시간) 공식 릴리스 노트를 통해 ‘라이브 받아쓰기(Live Dictation)’를 전 세계 모든 챗GPT 요금제에 차례로 배포한다고 밝혔다. iOS와 안드로이드, 웹, 데스크톱 앱이 대상이다.기존에는 녹음을 마친 뒤 텍스트 변환 결과를 기다려야 했다. 이번 업데이트에서는 사용자가 말하는 동안 음성이 텍스트로 변환돼 녹음 종료 후",
+   "publishedAt": 1795077053000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "미 의회 자문위 “중국군, AI 군사력 강화 위해 엔비디아 첨단 칩 확보 추진”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217576",
-   "summary": "중국군이 AI 기반 군사 역량을 강화하기 위해 엔비디아의 첨단 반도체 확보를 추진하고 있다는 미국 의회 자문기구의 보고서가 나왔다. 중국산 칩의 성능과 제조·소프트웨어 기술에 제약이 남아 있어, 미국의 수출 통제를 우회한 첨단 연산 자원 확보가 중요해졌다는 분석이다.미중경제안보검토위원회(USCC)는 18일(현지시간) 공개한 2026년 연례 보고서에서 중국 인민해방군이 무기와 지휘통제, 표적 식별, 군수 체계에 AI를 통합하는 ‘지능화 전쟁(Intelligentized Warfare)’을 추진하고 있다고 밝혔다.보고서는 중국군이 최근",
-   "publishedAt": 1795074986000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "AI타임스·영풍문고, ‘AI 시대, 믿고 읽을 책' 함께 고른다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217582",
-   "summary": "AI타임스와 영풍문고가 쏟아지는 AI 정보 속 신뢰할 수 있는 '지식과 지혜의 길라잡이'가 되기 위한 협력에 나선다.AI타임스와 영풍문고는 19일 서울 영풍문고 본사에서 상호협력을 위한 업무협약(MOU)을 맺고 서점의 도서 큐레이션 역량과 AI 전문매체의 저널리즘을 결합한 독자 서비스를 발굴, 제공하는데 협력하기로 했다.이번 협약으로 우선 영풍문고가 AI타임스에 연재 중인 ‘AI리더의 서가' 코너를 상설화해 협력 수위를 높인다. 이 코너는 AI산업·AI기술 등 AI타임스의 주요 기사 콘텐츠와 함께 정규 섹션으로 운영된다. 영풍문고가",
-   "publishedAt": 1795074675000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "광주 의료AI 플랫폼 45억 고도화…병·의원 465곳 진료기록 백업 지원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217585",
-   "summary": "광주가 의료데이터를 저장·조회하는 기존 시스템을 병·의원의 진료기록 관리와 의료AI 기술 검증·유통까지 지원하는 플랫폼으로 고도화한다. 협력 병·의원 465곳의 진료기록 백업·복구 체계를 구축하고, AI 진단지원 솔루션 최소 15종을 유통플랫폼에 탑재하는 것이 핵심이다.19일 광주테크노파크의 조달공고와 과업지시서에 따르면 '클라우드기반 의료데이터 활용 통합플랫폼 고도화(2차)' 사업에 총 44억9788만원이 책정됐다. 지난 10월26일 공고했으며, 이달 18일부터 입찰서 접수를 시작했다. 사업기간은 계약 체결일부터 2030년 11월",
-   "publishedAt": 1795074650000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "여수, AI 데이터센터 유치 공식화…가뭄 겪은 산단, 전력·용수 부담은",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217583",
-   "summary": "전남광주 여수시가 AI 데이터센터 유치를 공식화했다. 여수는 과거 가뭄으로 산업용수 공급이 제한됐으며, 새 데이터센터가 들어서면 기존 산업 수요에 더해 추가적인 전력·용수 공급이 필요할 수 있다.여수시의회는 지난 17일 제259회 정례회 제2차 본회의에서 박숙희 의원이 대표발의한 '여수시 인공지능 데이터센터 유치 지원에 관한 조례안'을 원안 가결했다.조례안에는 후보 입지와 전력·용수 등 기반시설 확보 가능성 조사, 제조업 특화 데이터센터 유치 지원, 산업 연계사업 발굴 등이 담겼다.서영학 여수시장도 같은 날 2027년도 예산안 시정",
-   "publishedAt": 1795074605000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1301,21 +1231,77 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false
   },
   {
-   "title": "디 인포메이션 \"엔비디아, 알리바바에 해외 GPU 임대 경로 연결\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217586",
-   "summary": "엔비디아 영업팀이 알리바바를 앨리스 황의 칩 임대 사업에 연결하고, 미국의 수출 통제 이후에는 동남아시아에서 AI 칩을 빌려 쓰는 방식을 제안했다는 보도가 등장했다. 이 소개가 이후 메가스피드로 이어진 사업의 고객 확보와 칩 구매 자금 조달에 도움을 줬다는 내용이다.디 인포메이션은 17일(현지시간) 관계자 3명을 인용, 엔비디아가 2022년 여러 달에 걸쳐 두 차례 알리바바와 앨리스 황을 연결했다고 전했다. 이번 보도는 기존에 알려진 두 회사의 거래 관계에서 엔비디아 영업 조직이 맡은 구체적인 역할을 다뤘다.이에 따르면 첫 소개는",
-   "publishedAt": 1795073113000,
+   "title": "메타, 주주 소송에 신주 발행 보류…AI 투자금 조달 계획 차질",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217588",
+   "summary": "메타가 투자자들의 소송으로 의결권 없는 ‘클래스 C’ 주식 발행 계획을 잠정 중단했다. AI 투자금을 조달하면서 마크 저커버그 CEO의 지배력을 유지하려던 자본 구조 개편에 제동이 걸렸다.파이낸셜타임스(FT)는 18일(현지시간) 메타가 델라웨어주 법원에 제출한 서류에서 관련 소송이 진행되는 동안 클래스 C 주식을 발행하지 않겠다고 밝혔다고 보도했다. 당초 새 주식의 거래는 내년 1월 시작할 계획이었다.캘리포니아주 교직원연금(CalSTRS)과 덴마크 연기금 PFA 등은 저커버그와 이사회가 일반 주주의 이익을 침해했다며 소송을 제기했다",
+   "publishedAt": 1795075290000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.7,
+   "hot": false
+  },
+  {
+   "title": "미 의회 자문위 “중국군, AI 군사력 강화 위해 엔비디아 첨단 칩 확보 추진”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217576",
+   "summary": "중국군이 AI 기반 군사 역량을 강화하기 위해 엔비디아의 첨단 반도체 확보를 추진하고 있다는 미국 의회 자문기구의 보고서가 나왔다. 중국산 칩의 성능과 제조·소프트웨어 기술에 제약이 남아 있어, 미국의 수출 통제를 우회한 첨단 연산 자원 확보가 중요해졌다는 분석이다.미중경제안보검토위원회(USCC)는 18일(현지시간) 공개한 2026년 연례 보고서에서 중국 인민해방군이 무기와 지휘통제, 표적 식별, 군수 체계에 AI를 통합하는 ‘지능화 전쟁(Intelligentized Warfare)’을 추진하고 있다고 밝혔다.보고서는 중국군이 최근",
+   "publishedAt": 1795074986000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "AI타임스·영풍문고, ‘AI 시대, 믿고 읽을 책' 함께 고른다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217582",
+   "summary": "AI타임스와 영풍문고가 쏟아지는 AI 정보 속 신뢰할 수 있는 '지식과 지혜의 길라잡이'가 되기 위한 협력에 나선다.AI타임스와 영풍문고는 19일 서울 영풍문고 본사에서 상호협력을 위한 업무협약(MOU)을 맺고 서점의 도서 큐레이션 역량과 AI 전문매체의 저널리즘을 결합한 독자 서비스를 발굴, 제공하는데 협력하기로 했다.이번 협약으로 우선 영풍문고가 AI타임스에 연재 중인 ‘AI리더의 서가' 코너를 상설화해 협력 수위를 높인다. 이 코너는 AI산업·AI기술 등 AI타임스의 주요 기사 콘텐츠와 함께 정규 섹션으로 운영된다. 영풍문고가",
+   "publishedAt": 1795074675000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "광주 의료AI 플랫폼 45억 고도화…병·의원 465곳 진료기록 백업 지원",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217585",
+   "summary": "광주가 의료데이터를 저장·조회하는 기존 시스템을 병·의원의 진료기록 관리와 의료AI 기술 검증·유통까지 지원하는 플랫폼으로 고도화한다. 협력 병·의원 465곳의 진료기록 백업·복구 체계를 구축하고, AI 진단지원 솔루션 최소 15종을 유통플랫폼에 탑재하는 것이 핵심이다.19일 광주테크노파크의 조달공고와 과업지시서에 따르면 '클라우드기반 의료데이터 활용 통합플랫폼 고도화(2차)' 사업에 총 44억9788만원이 책정됐다. 지난 10월26일 공고했으며, 이달 18일부터 입찰서 접수를 시작했다. 사업기간은 계약 체결일부터 2030년 11월",
+   "publishedAt": 1795074650000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "여수, AI 데이터센터 유치 공식화…가뭄 겪은 산단, 전력·용수 부담은",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217583",
+   "summary": "전남광주 여수시가 AI 데이터센터 유치를 공식화했다. 여수는 과거 가뭄으로 산업용수 공급이 제한됐으며, 새 데이터센터가 들어서면 기존 산업 수요에 더해 추가적인 전력·용수 공급이 필요할 수 있다.여수시의회는 지난 17일 제259회 정례회 제2차 본회의에서 박숙희 의원이 대표발의한 '여수시 인공지능 데이터센터 유치 지원에 관한 조례안'을 원안 가결했다.조례안에는 후보 입지와 전력·용수 등 기반시설 확보 가능성 조사, 제조업 특화 데이터센터 유치 지원, 산업 연계사업 발굴 등이 담겼다.서영학 여수시장도 같은 날 2027년도 예산안 시정",
+   "publishedAt": 1795074605000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1329,7 +1315,21 @@
    "comments": 262,
    "publishedAt": 1794853037000,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "디 인포메이션 \"엔비디아, 알리바바에 해외 GPU 임대 경로 연결\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217586",
+   "summary": "엔비디아 영업팀이 알리바바를 앨리스 황의 칩 임대 사업에 연결하고, 미국의 수출 통제 이후에는 동남아시아에서 AI 칩을 빌려 쓰는 방식을 제안했다는 보도가 등장했다. 이 소개가 이후 메가스피드로 이어진 사업의 고객 확보와 칩 구매 자금 조달에 도움을 줬다는 내용이다.디 인포메이션은 17일(현지시간) 관계자 3명을 인용, 엔비디아가 2022년 여러 달에 걸쳐 두 차례 알리바바와 앨리스 황을 연결했다고 전했다. 이번 보도는 기존에 알려진 두 회사의 거래 관계에서 엔비디아 영업 조직이 맡은 구체적인 역할을 다뤘다.이에 따르면 첫 소개는",
+   "publishedAt": 1795073113000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1343,7 +1343,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1357,7 +1357,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1371,7 +1371,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1385,21 +1385,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.2,
    "hot": false
   },
   {
-   "title": "내년 전세계 AI인프라 지출 3200조...'멤플레이션'이 지출증가 가속",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217566",
-   "summary": "2027년 전세계 'AI 인프라 지출'이 2조4000억달러(약 3200조원) 규모에 달하며 전체 AI 지출의 59%를 차지할 것이라는 전망이 나왔다. AI 인프라 지출 중 'AI 최적화 서버'가 가장 높은 약 40%의 비중을 차지할 것으로 예상됐다.이 같은 지출 증가는 하이퍼스케일러·네오클라우드 업체들의 지속 투자, 그리고 AI 서버 가격을 끌어 올리는 이른바 '멤플레이션(메모리 인프레이션)'으로 더 가속화될 것이라는 분석이다.시장조사기업 가트너는 최근 발간한 AI 지출 관련 보고서를 통해 내년 전세계 AI 인프라 지출이 올해보다",
-   "publishedAt": 1795069622000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
+   "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+   "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50517321",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 445,
+   "comments": 353,
+   "publishedAt": 1794835102000,
+   "isAI": false,
+   "score": 32.1,
    "hot": false
   }
  ]
