@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795077670162,
+ "updatedAt": 1795081326979,
  "week": "2026-W47",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 778,
-   "comments": 639,
+   "engagement": 812,
+   "comments": 660,
    "publishedAt": 1795037647000,
    "isAI": true,
-   "score": 63.7,
+   "score": 63.5,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 449,
-   "comments": 201,
+   "engagement": 457,
+   "comments": 211,
    "publishedAt": 1795016974000,
    "isAI": true,
-   "score": 55.8,
+   "score": 55.4,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 779,
+   "engagement": 781,
    "comments": 695,
    "publishedAt": 1794984446000,
    "isAI": true,
-   "score": 55.3,
+   "score": 54.8,
    "hot": false
   },
   {
@@ -51,11 +51,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 219,
-   "comments": 69,
+   "engagement": 230,
+   "comments": 72,
    "publishedAt": 1795048185000,
    "isAI": true,
-   "score": 54.6,
+   "score": 54.5,
+   "hot": true
+  },
+  {
+   "title": "Anthropic prices initial public offering",
+   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50553843",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 214,
+   "comments": 320,
+   "publishedAt": 1795044609000,
+   "isAI": true,
+   "score": 53.3,
    "hot": true
   },
   {
@@ -69,22 +83,8 @@
    "comments": 853,
    "publishedAt": 1794937603000,
    "isAI": true,
-   "score": 53,
+   "score": 52.5,
    "hot": false
-  },
-  {
-   "title": "Anthropic prices initial public offering",
-   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50553843",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 189,
-   "comments": 232,
-   "publishedAt": 1795044609000,
-   "isAI": true,
-   "score": 52.8,
-   "hot": true
   },
   {
    "title": "LLM assisted reverse engineering",
@@ -93,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 186,
-   "comments": 46,
+   "engagement": 205,
+   "comments": 50,
    "publishedAt": 1795040953000,
    "isAI": true,
-   "score": 52.1,
+   "score": 52.4,
    "hot": true
   },
   {
@@ -108,10 +108,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 697,
-   "comments": 546,
+   "comments": 547,
    "publishedAt": 1794961078000,
    "isAI": true,
-   "score": 51.4,
+   "score": 51,
    "hot": false
   },
   {
@@ -121,11 +121,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 202,
-   "comments": 134,
+   "engagement": 210,
+   "comments": 139,
    "publishedAt": 1795023947000,
    "isAI": true,
-   "score": 50.4,
+   "score": 50.2,
+   "hot": true
+  },
+  {
+   "title": "LLM을 활용한 리버스 엔지니어링",
+   "url": "https://news.hada.io/topic?id=37466&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "20년간 수작업으로 해 온 하드웨어/소프트웨어 리버스 엔지니어링에서, AI 에이전트와 전용 스킬 에 분석을 맡기고 사람이 방향을 조정해 작업 시간을 크게 줄임 분석은 바이너리 유형과 플랫폼 파악, 도구 선택, 주요 함수와 분기 구조 조사 순으로 진행하며, 발견 사항을 Markdown 파일 에 기록해 맥락 압축이나 에이전트 교체 이후에도 작업을 이어감 정적 분석만으로 막히면 디버깅, 로그, 실행 환경 제어 를 활용하고, 사람이 대화와 추론 기록을 읽으며 잘못된 탐색 방향을 교정함 가설 기반 디버깅 은 검증 가능한 가설을 CSV에 기록",
+   "publishedAt": 1795077468000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.4,
+   "hot": true
+  },
+  {
+   "title": "Anthropic, 기업공개 공모가 확정",
+   "url": "https://news.hada.io/topic?id=37465&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Anthropic 이 Class A 보통주의 기업공개(IPO) 공모가를 주당 83달러 로 확정함 공모 물량은 9억 8,000만 주 이며, Anthropic이 매각하는 주식과 일부 기존 주주가 매각하는 주식으로 구성됨 기존 주주의 매각 대금은 Anthropic에 유입되지 않음 2026년 11월 19일 Nasdaq Global Select Market에서 종목 기호 ANT 로 거래를 시작할 예정임 인수단에는 30일간 최대 1억 4,700만 주 의 Class A 보통주를 추가 매입할 수 있는 옵션이 부여됨 공모 가격과 물량 Class A",
+   "publishedAt": 1795077288000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.4,
    "hot": true
   },
   {
@@ -135,11 +163,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 309,
+   "engagement": 310,
    "comments": 55,
    "publishedAt": 1794994172000,
    "isAI": true,
-   "score": 49.7,
+   "score": 49.3,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 크리스마스 Claude Code 플러그인 SantaClaude",
+   "url": "https://news.hada.io/topic?id=37463&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "크리스마스가 다가오고 있어서 터미널에서 볼 수 있는 클로드 플러그인을 만들어봤습니다. /santaclaude-pane 으로 하단에 고정되는 pane에 산타클로드를 띄울 수 있습니다. 테마는 3가지가 있습니다. /santaclaude-color frost/classic/candle 으로 테마 3가지 중 한가지를 선택할 수 있습니다. 컨텍스트가 찰 수록 눈이 쌓입니다. 마우스를 호버하거나 클릭하면 산타클로드가 점프를 하고 가끔 덤블링도 합니다. 감사합니다",
+   "publishedAt": 1795074595000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49,
    "hot": true
   },
   {
@@ -153,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.8,
    "hot": true
   },
   {
@@ -163,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 133,
+   "engagement": 134,
    "comments": 77,
    "publishedAt": 1795020082000,
    "isAI": true,
-   "score": 46.5,
+   "score": 46.1,
    "hot": false
   },
   {
@@ -178,10 +220,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 270,
-   "comments": 138,
+   "comments": 139,
    "publishedAt": 1794975244000,
    "isAI": true,
-   "score": 46.4,
+   "score": 46,
    "hot": false
   },
   {
@@ -195,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.4,
+   "score": 45.9,
    "hot": true
   },
   {
@@ -209,7 +251,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.7,
    "hot": false
   },
   {
@@ -223,7 +265,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -231,20 +273,6 @@
    "url": "https://news.hada.io/topic?id=37440&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
    "summary": "코딩 에이전트가 기능을 수정한 뒤 실제 앱에서 버튼을 누르고 값을 입력해 로그인이나 결제가 의도대로 동작하는지 확인 클릭에 이어 발생한 API 요청과 응답, 콘솔 오류, 화면 변화, 등록한 앱 상태 를 함께 확인 결제 버튼을 한 번 눌렀을 때 주문 요청이 두 번 나가는 문제 같은 것도 잡을 수 있음 각 검증 항목에 통과/실패/판단 불가 를 반환하고, 실패한 요청이나 조건을 근거로 남김. 소스 위치가 연결된 경우 파일과 줄 번호까지 표시 검증한 작업을 플로우로 저장해 AI 모델 없이 재실행 하고, CI에서 코드 변경 후 같은 기능이 ",
    "publishedAt": 1795048202000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.9,
-   "hot": true
-  },
-  {
-   "title": "Claude는 대규모 단백질 서열로 학습됐다",
-   "url": "https://news.hada.io/topic?id=37436&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "연구가 거의 없는 단백질의 다음 아미노산을 예측하는 실험에서, 비교한 LLM 중 최신 Claude 모델만 뚜렷한 서열 예측 능력 을 보임. 이는 상당한 규모의 단백질 서열 학습을 뒷받침하는 근거임 Claude Fable 5.2 의 정답률은 실제 단백질에서 54%, 순서를 섞은 대조군에서 9%였음. GPT, Gemini와 시험한 오픈웨이트 모델 7종은 실제 서열과 대조군의 정답률 차이가 거의 없었음 동일한 앞부분만 제공한 비교에서 Fable 5.2는 시험한 모든 공개 단백질 언어 모델 을 앞섰음. Opus 5.5는 실제 서열과 대조군",
-   "publishedAt": 1795044843000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.9,
    "hot": false
   },
   {
@@ -279,7 +307,7 @@
    "comments": 125,
    "publishedAt": 1794978690000,
    "isAI": false,
-   "score": 45.2,
+   "score": 44.8,
    "hot": false
   },
   {
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.6,
    "hot": false
   },
   {
@@ -307,7 +335,35 @@
    "comments": 443,
    "publishedAt": 1794950172000,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.5,
+   "hot": false
+  },
+  {
+   "title": "Unreal Tournament 2004 in the Browser",
+   "url": "https://ut2004.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50554935",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 155,
+   "comments": 74,
+   "publishedAt": 1795051769000,
+   "isAI": false,
+   "score": 44.2,
+   "hot": true
+  },
+  {
+   "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+   "url": "https://kapteko.com/15-million-webservers/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50556533",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 121,
+   "comments": 14,
+   "publishedAt": 1795067796000,
+   "isAI": false,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -321,21 +377,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 44.5,
-   "hot": false
-  },
-  {
-   "title": "Unreal Tournament 2004 in the Browser",
-   "url": "https://ut2004.dev/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50554935",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 150,
-   "comments": 70,
-   "publishedAt": 1795051769000,
-   "isAI": false,
-   "score": 44.4,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -345,11 +387,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 157,
-   "comments": 101,
+   "engagement": 161,
+   "comments": 104,
    "publishedAt": 1795045758000,
    "isAI": false,
-   "score": 44.1,
+   "score": 43.8,
    "hot": true
   },
   {
@@ -363,7 +405,7 @@
    "comments": 403,
    "publishedAt": 1794937634000,
    "isAI": false,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -373,11 +415,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 209,
-   "comments": 64,
+   "engagement": 213,
+   "comments": 68,
    "publishedAt": 1795017883000,
    "isAI": false,
-   "score": 43.1,
+   "score": 42.8,
    "hot": true
   },
   {
@@ -391,7 +433,7 @@
    "comments": 74,
    "publishedAt": 1794973663000,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -405,7 +447,7 @@
    "comments": 295,
    "publishedAt": 1794935526000,
    "isAI": false,
-   "score": 42.6,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -415,11 +457,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 191,
+   "engagement": 195,
    "comments": 49,
    "publishedAt": 1795018731000,
    "isAI": false,
-   "score": 42.4,
+   "score": 42.2,
    "hot": true
   },
   {
@@ -429,25 +471,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 454,
-   "comments": 102,
+   "engagement": 459,
+   "comments": 103,
    "publishedAt": 1794957529000,
    "isAI": false,
-   "score": 42.3,
-   "hot": false
-  },
-  {
-   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-   "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-   "publishedAt": 1794960000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 42.2,
+   "score": 42,
    "hot": false
   },
   {
@@ -461,7 +489,21 @@
    "comments": 756,
    "publishedAt": 1794929908000,
    "isAI": false,
-   "score": 42.1,
+   "score": 41.8,
+   "hot": false
+  },
+  {
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+   "publishedAt": 1794960000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 41.8,
    "hot": false
   },
   {
@@ -475,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -489,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -503,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.1,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -517,7 +559,7 @@
    "comments": 53,
    "publishedAt": 1795013273000,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -531,7 +573,7 @@
    "comments": 233,
    "publishedAt": 1794910840000,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -541,11 +583,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 183,
+   "engagement": 184,
    "comments": 75,
    "publishedAt": 1794939378000,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -559,7 +601,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 40,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -573,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -587,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -601,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -615,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -629,7 +671,7 @@
    "comments": 257,
    "publishedAt": 1794925199000,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -643,7 +685,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 39,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -657,7 +699,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 39,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -671,7 +713,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -685,7 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -699,22 +741,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
-  },
-  {
-   "title": "Cerebras Disaggregated Inference",
-   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50540472",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 106,
-   "comments": 27,
-   "publishedAt": 1794963383000,
-   "isAI": true,
-   "score": 38.6,
-   "hot": false
   },
   {
    "title": "Archive Team is archiving the Apple Support Community",
@@ -727,7 +755,21 @@
    "comments": 105,
    "publishedAt": 1794958378000,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.3,
+   "hot": false
+  },
+  {
+   "title": "Cerebras Disaggregated Inference",
+   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50540472",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 106,
+   "comments": 27,
+   "publishedAt": 1794963383000,
+   "isAI": true,
+   "score": 38.2,
    "hot": false
   },
   {
@@ -741,7 +783,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -755,7 +797,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -769,22 +811,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
-  },
-  {
-   "title": "We don't need more apps, we need better open source",
-   "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50532086",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 353,
-   "comments": 258,
-   "publishedAt": 1794926736000,
-   "isAI": false,
-   "score": 37.8,
-   "hot": false
   },
   {
    "title": "All AI-generated code should be Open Source",
@@ -797,36 +825,22 @@
    "comments": 671,
    "publishedAt": 1794754018000,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.6,
    "hot": false
   },
   {
-   "title": "KVM: x86: INIT 에뮬레이션 시 MMU 컨텍스트를 무조건 초기화하도록 수정(CVE-2026-99312)",
-   "url": "https://news.hada.io/topic?id=37435&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Linux 커널의 KVM에서 INIT 에뮬레이션 시 MMU 컨텍스트가 오래된 상태로 남는 취약점 을 수정함 L2가 CR0.PG=0 으로 실행 중일 때 INIT가 발생하면 L1이 오래된 MMU 컨텍스트로 실행될 수 있어, 페이징이 이미 비활성화된 경우에도 MMU를 초기화 하도록 변경함 이 버그는 중첩 SVM에만 영향 을 주며, VMX에서는 INIT를 무조건 가로채므로 L2가 활성화된 상태에서 INIT를 에뮬레이션할 수 없음 MMU 페이지 역할에는 guest_mode (L2)와 SMM 상태 가 포함되므로, 일부 조건만 검사하는 대신 I",
-   "publishedAt": 1795041367000,
-   "source": "GeekNews",
+   "title": "We don't need more apps, we need better open source",
+   "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50532086",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 353,
+   "comments": 258,
+   "publishedAt": 1794926736000,
    "isAI": false,
-   "score": 37.8,
-   "hot": true
-  },
-  {
-   "title": "Tencent Hy4 Flash - 100만 토큰 컨텍스트를 지원하는 저비용 멀티모달 모델",
-   "url": "https://news.hada.io/topic?id=37434&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Tencent가 Hy4 flash 를 공개함. 약 2,200억 파라미터 중 토큰당 120억 개를 활성화하며, 네이티브 멀티모달과 100만 토큰 컨텍스트 를 지원함 API 요금은 100만 토큰당 입력 0.070달러, 출력 0.281달러 로, Hy4보다 크게 낮음 하이브리드 어텐션, LatentMoE, Engram으로 KV 캐시를 Hy4의 1/6 로 줄이고, 강화학습으로 평균 종단 간 출력 토큰 수를 50% 줄임 Tencent 내부 WorkIndex 평가에서 전반적인 작업 성능은 Hy4 preview를 소폭 웃돌았으며, 작업당 평균 비",
-   "publishedAt": 1795041187000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.8,
-   "hot": true
+   "score": 37.4,
+   "hot": false
   },
   {
    "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
@@ -839,7 +853,7 @@
    "comments": 620,
    "publishedAt": 1794869900000,
    "isAI": false,
-   "score": 37.7,
+   "score": 37.4,
    "hot": false
   },
   {
@@ -850,10 +864,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 968,
-   "comments": 555,
+   "comments": 556,
    "publishedAt": 1794836347000,
    "isAI": false,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -867,7 +881,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -881,21 +895,21 @@
    "comments": 75,
    "publishedAt": 1794918117000,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
-   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-   "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-   "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-   "publishedAt": 1795045500000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
+   "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
+   "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50536565",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
+   "engagement": 101,
+   "comments": 17,
+   "publishedAt": 1794942525000,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -909,7 +923,21 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36.3,
+   "score": 36,
+   "hot": false
+  },
+  {
+   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+   "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+   "publishedAt": 1795045500000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 36,
    "hot": false
   },
   {
@@ -923,7 +951,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -937,21 +965,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.8,
-   "hot": false
-  },
-  {
-   "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-   "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-   "publishedAt": 1795037653000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.6,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -965,7 +979,21 @@
    "comments": 29,
    "publishedAt": 1794945695000,
    "isAI": false,
-   "score": 35.5,
+   "score": 35.2,
+   "hot": false
+  },
+  {
+   "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+   "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+   "publishedAt": 1795037653000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -979,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -993,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1007,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -1021,7 +1049,7 @@
    "comments": 60,
    "publishedAt": 1794989864000,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -1035,7 +1063,7 @@
    "comments": 37,
    "publishedAt": 1794928029000,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -1049,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.4,
+   "score": 34,
    "hot": false
   },
   {
@@ -1063,7 +1091,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, AI로 AMD GPU 설계 개선…“5개월 만에 1년치 진전”",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217562",
+   "summary": "오픈AI가 AI 모델로 AMD 주력 GPU의 회로 설계를 최적화해 전력·성능·면적(PPA) 지표에서 최대 14%의 개선을 확인했다고 밝혔다. AMD 엔지니어들이 이미 최적화한 설계에서 5개월도 안 되는 기간에 약 1년 치 추가 진전을 이뤘다는 설명이다.오픈AI는 18일(현지시간) 공식 블로그를 통해 AMD와의 협력 성과와 자체 추론 칩 ‘할라페뇨(Jalapeño)’ 개발에 AI를 활용한 결과를 공개했다.AMD와의 협력에서는 GPU 회로의 동작을 기술한 시스템베릴로그(SystemVerilog) 기반 RTL 코드를 AI가 다시 작성하도",
+   "publishedAt": 1795080339000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1077,7 +1119,35 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "MS, 바이트댄스에 오픈AI 모델 공급 확대 추진…미 의회 설명 요구",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217557",
+   "summary": "마이크로소프트(MS)가 중국 바이트댄스에 5억달러(약 6650억원) 규모의 AI 클라우드 서비스를 추가 공급하는 계약 체결에 근접했다는 보도가 나왔다. 중국 기업의 모델 접근을 제한하려는 오픈AI가 반발한 가운데, 미국 하원 중국특별위원회도 MS에 협상 내용에 대한 설명을 요구했다.디 인포메이션은 18일(현지시간) 사정에 정통한 관계자 2명을 인용, 바이트댄스가 애저(Azure)를 통한 오픈AI 모델 이용을 늘리기 위해 MS와 5억달러 규모의 추가 클라우드 계약을 협상 중이라고 보도했다.바이트댄스는 이미 MS의 주요 오픈AI 모델",
+   "publishedAt": 1795078442000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "구글 검색 AI 모드에 ‘임시 대화’ 추가…기록 저장·개인화 제외",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217572",
+   "summary": "구글이 검색 서비스의 AI 모드에 대화 기록과 개인화에 반영되지 않는 ‘임시 대화’ 기능을 추가했다. 일회성으로 검색한 내용이 기록에 남거나 이후 추천에 영향을 주지 않도록 선택할 수 있다.구글은 17일(현지시간) 공식 블로그를 통해 ‘임시 대화(Temporary threads)’를 전 세계에 차례로 도입한다고 밝혔다. 데스크톱과 모바일 브라우저가 대상이며, AI 모드가 지원하는 모든 언어에서 제공한다.사용자는 별도 설정 변경 없이 AI 모드 오른쪽 상단의 임시 대화 아이콘을 눌러 기능을 사용할 수 있다. 해당 대화에서는 과거 활동",
+   "publishedAt": 1795077632000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1091,7 +1161,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1105,7 +1175,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1119,7 +1189,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1133,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1147,11 +1217,11 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
-   "title": "AI타임스·영풍문고, ‘AI 시대, 믿고 읽을 책' 함께 고른다...AI 인사이트 협력 제휴",
+   "title": "AI타임스·영풍문고, ‘AI 시대, 믿고 읽을 책' 함께 고른다",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217582",
    "summary": "AI타임스와 영풍문고가 쏟아지는 AI 정보 속 신뢰할 수 있는 '지식과 지혜의 길라잡이'가 되기 위한 협력에 나선다.AI타임스와 영풍문고는 19일 서울 영풍문고 본사에서 상호협력을 위한 업무협약(MOU)을 맺고 서점의 도서 큐레이션 역량과 AI 전문매체의 저널리즘을 결합한 독자 서비스를 발굴, 제공하는데 협력하기로 했다.이번 협약으로 우선 영풍문고가 AI타임스에 연재 중인 ‘AI리더의 서가' 코너를 상설화해 협력 수위를 높인다. 이 코너는 AI산업·AI기술 등 AI타임스의 주요 기사 콘텐츠와 함께 정규 섹션으로 운영된다. 영풍문고가",
    "publishedAt": 1795074675000,
@@ -1161,7 +1231,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1175,7 +1245,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1189,21 +1259,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "디 인포메이션 \"엔비디아, 알리바바에 해외 GPU 임대 경로 연결\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217586",
-   "summary": "엔비디아 영업팀이 알리바바를 앨리스 황의 칩 임대 사업에 연결하고, 미국의 수출 통제 이후에는 동남아시아에서 AI 칩을 빌려 쓰는 방식을 제안했다는 보도가 등장했다. 이 소개가 이후 메가스피드로 이어진 사업의 고객 확보와 칩 구매 자금 조달에 도움을 줬다는 내용이다.디 인포메이션은 17일(현지시간) 관계자 3명을 인용, 엔비디아가 2022년 여러 달에 걸쳐 두 차례 알리바바와 앨리스 황을 연결했다고 전했다. 이번 보도는 기존에 알려진 두 회사의 거래 관계에서 엔비디아 영업 조직이 맡은 구체적인 역할을 다뤘다.이에 따르면 첫 소개는",
-   "publishedAt": 1795073113000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -1217,21 +1273,21 @@
    "comments": 99,
    "publishedAt": 1794848019000,
    "isAI": false,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
-   "title": "엔비디아, ‘RTX 스파크’ 소형 데스크톱 글로벌 출시…국내 사전예약 시작",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217579",
-   "summary": "엔비디아가 로컬 AI 에이전트를 24시간 구동할 수 있는 ‘RTX 스파크(RTX Spark)’ 소형 데스크톱을 19일 글로벌 출시했다. 에이수스·델·MSI 등이 제품을 선보이며, 국내에서는 19일부터 에이수스 제품의 사전예약이 시작됐다.RTX 스파크 소형 데스크톱은 20코어 그레이스 CPU와 6144개 쿠다 코어의 블랙웰 RTX GPU, 최대 128GB 통합 메모리를 탑재해 최대 1페타플롭의 AI 성능을 낸다.또 1200억 매개변수 규모 대형언어모델(LLM)을 로컬에서 실행하고 90GB 이상 3D 장면을 실시간 렌더링할 수 있다.",
-   "publishedAt": 1795071622000,
+   "title": "디 인포메이션 \"엔비디아, 알리바바에 해외 GPU 임대 경로 연결\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217586",
+   "summary": "엔비디아 영업팀이 알리바바를 앨리스 황의 칩 임대 사업에 연결하고, 미국의 수출 통제 이후에는 동남아시아에서 AI 칩을 빌려 쓰는 방식을 제안했다는 보도가 등장했다. 이 소개가 이후 메가스피드로 이어진 사업의 고객 확보와 칩 구매 자금 조달에 도움을 줬다는 내용이다.디 인포메이션은 17일(현지시간) 관계자 3명을 인용, 엔비디아가 2022년 여러 달에 걸쳐 두 차례 알리바바와 앨리스 황을 연결했다고 전했다. 이번 보도는 기존에 알려진 두 회사의 거래 관계에서 엔비디아 영업 조직이 맡은 구체적인 역할을 다뤘다.이에 따르면 첫 소개는",
+   "publishedAt": 1795073113000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -1245,7 +1301,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "엔비디아, ‘RTX 스파크’ 소형 데스크톱 글로벌 출시…국내 사전예약 시작",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217579",
+   "summary": "엔비디아가 로컬 AI 에이전트를 24시간 구동할 수 있는 ‘RTX 스파크(RTX Spark)’ 소형 데스크톱을 19일 글로벌 출시했다. 에이수스·델·MSI 등이 제품을 선보이며, 국내에서는 19일부터 에이수스 제품의 사전예약이 시작됐다.RTX 스파크 소형 데스크톱은 20코어 그레이스 CPU와 6144개 쿠다 코어의 블랙웰 RTX GPU, 최대 128GB 통합 메모리를 탑재해 최대 1페타플롭의 AI 성능을 낸다.또 1200억 매개변수 규모 대형언어모델(LLM)을 로컬에서 실행하고 90GB 이상 3D 장면을 실시간 렌더링할 수 있다.",
+   "publishedAt": 1795071622000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1259,49 +1329,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "트럼프 행정부, 미국 기업에 중국산 AI 사용 사실 공개 의무화 검토",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217577",
-   "summary": "트럼프 행정부가 미국 기업에 중국산 AI 모델 사용 사실을 공개하도록 의무화하는 방안을 검토하고 있다. 사용을 직접 금지하기보다 공개에 따른 평판 부담을 통해 중국산 모델에 대한 의존을 줄이려는 구상이다.로이터는 18일(현지시간) 관계자 3명을 인용해 재무부와 백악관 과학기술정책실(OSTP)이 이 같은 방안을 논의했다고 보도했다. 행정부 내에서 어느 정도 지지를 얻고 있는지, 공식 규정 제정으로 이어질지는 확인되지 않았다.검토안에 따르면 에어비앤비 같은 기업은 자사 웹사이트에 중국산 AI 모델 사용 사실을 공개해야 한다. 에어비앤비",
-   "publishedAt": 1795070767000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "손정의, 앤트로픽 투자 기회 놓친 것 후회…\"여러 기업에 투자했어야\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217574",
-   "summary": "손정의 소프트뱅크 회장이 AI 기업 앤트로픽에 투자하지 않은 것을 자신의 실수로 꼽았다. 오픈AI에 집중한다는 이유로 경쟁사인 앤트로픽에 대한 투자를 포기했지만, 두 회사에 모두 투자하지 않은 것을 뒤늦게 후회한 것이다.손정의 회장은 18일 일본 도쿄에서 열린 니혼게이자이신문 주최 'AI의 미래' 행사에서 앤트로픽 투자 기회를 검토했던 사실을 공개했다.그는 \"앤트로픽과 투자 관련 논의를 진행했지만, 당시 이미 오픈AI에 투자하기로 결정하고 자금을 투입하기 시작한 상태였다\"라며 \"그 때문에 추가 투자를 추진하는 데 주저했다\"라고 말했",
-   "publishedAt": 1795070193000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "내년 전세계 AI인프라 지출 3200조...'멤플레이션'이 지출증가 가속",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217566",
-   "summary": "2027년 전세계 'AI 인프라 지출'이 2조4000억달러(약 3200조원) 규모에 달하며 전체 AI 지출의 59%를 차지할 것이라는 전망이 나왔다. AI 인프라 지출 중 'AI 최적화 서버'가 가장 높은 약 40%의 비중을 차지할 것으로 예상됐다.이 같은 지출 증가는 하이퍼스케일러·네오클라우드 업체들의 지속 투자, 그리고 AI 서버 가격을 끌어 올리는 이른바 '멤플레이션(메모리 인프레이션)'으로 더 가속화될 것이라는 분석이다.시장조사기업 가트너는 최근 발간한 AI 지출 관련 보고서를 통해 내년 전세계 AI 인프라 지출이 올해보다",
-   "publishedAt": 1795069622000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
+   "score": 33,
    "hot": false
   },
   {
@@ -1315,7 +1343,49 @@
    "comments": 262,
    "publishedAt": 1794853037000,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "트럼프 행정부, 미국 기업에 중국산 AI 사용 사실 공개 의무화 검토",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217577",
+   "summary": "트럼프 행정부가 미국 기업에 중국산 AI 모델 사용 사실을 공개하도록 의무화하는 방안을 검토하고 있다. 사용을 직접 금지하기보다 공개에 따른 평판 부담을 통해 중국산 모델에 대한 의존을 줄이려는 구상이다.로이터는 18일(현지시간) 관계자 3명을 인용해 재무부와 백악관 과학기술정책실(OSTP)이 이 같은 방안을 논의했다고 보도했다. 행정부 내에서 어느 정도 지지를 얻고 있는지, 공식 규정 제정으로 이어질지는 확인되지 않았다.검토안에 따르면 에어비앤비 같은 기업은 자사 웹사이트에 중국산 AI 모델 사용 사실을 공개해야 한다. 에어비앤비",
+   "publishedAt": 1795070767000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "손정의, 앤트로픽 투자 기회 놓친 것 후회…\"여러 기업에 투자했어야\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217574",
+   "summary": "손정의 소프트뱅크 회장이 AI 기업 앤트로픽에 투자하지 않은 것을 자신의 실수로 꼽았다. 오픈AI에 집중한다는 이유로 경쟁사인 앤트로픽에 대한 투자를 포기했지만, 두 회사에 모두 투자하지 않은 것을 뒤늦게 후회한 것이다.손정의 회장은 18일 일본 도쿄에서 열린 니혼게이자이신문 주최 'AI의 미래' 행사에서 앤트로픽 투자 기회를 검토했던 사실을 공개했다.그는 \"앤트로픽과 투자 관련 논의를 진행했지만, 당시 이미 오픈AI에 투자하기로 결정하고 자금을 투입하기 시작한 상태였다\"라며 \"그 때문에 추가 투자를 추진하는 데 주저했다\"라고 말했",
+   "publishedAt": 1795070193000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "내년 전세계 AI인프라 지출 3200조...'멤플레이션'이 지출증가 가속",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217566",
+   "summary": "2027년 전세계 'AI 인프라 지출'이 2조4000억달러(약 3200조원) 규모에 달하며 전체 AI 지출의 59%를 차지할 것이라는 전망이 나왔다. AI 인프라 지출 중 'AI 최적화 서버'가 가장 높은 약 40%의 비중을 차지할 것으로 예상됐다.이 같은 지출 증가는 하이퍼스케일러·네오클라우드 업체들의 지속 투자, 그리고 AI 서버 가격을 끌어 올리는 이른바 '멤플레이션(메모리 인프레이션)'으로 더 가속화될 것이라는 분석이다.시장조사기업 가트너는 최근 발간한 AI 지출 관련 보고서를 통해 내년 전세계 AI 인프라 지출이 올해보다",
+   "publishedAt": 1795069622000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1329,77 +1399,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
-   "hot": false
-  },
-  {
-   "title": "오픈AI 'GPT-6.2' 출시 직후 일부 혹평…알트먼 \"사용성 개선 필요\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217575",
-   "summary": "오픈AI가 높은 벤치마크 성적을 내세우며 출시한 'GPT-6.2 아스트라'와 '솔'이 일부 AI 전문가들로부터 혹평받고 있다. 복잡한 작업을 수행할 능력은 뛰어나지만, 장시간 작업을 제대로 마무리하지 못하거나 지시를 따르지 않는 등 실제 사용 경험이 기대에 미치지 못한다는 지적이다. 샘 알트먼 오픈AI CEO도 사용성 개선이 필요하다는 점을 인정했다.17일(현지시간) 벤처비트 등에 따르면, 두 모델을 사전에 시험한 일부 개발자와 AI 전문가들이 성능과 실제 사용 경험 사이의 차이를 지적하고 있다. AI 개발자이자 투자자인 맷 슈머는",
-   "publishedAt": 1795067561000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "케임브리지 사전, 올해의 단어로 '인간' 선정...AI 시대 인간의 가치 재조명",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217568",
-   "summary": "케임브리지 사전이 올해의 단어로 '인간(Human)'을 선정했다. AI가 글쓰기와 창작 등 인간 고유의 영역에 빠르게 진입하면서 기계와 구별되는 인간의 특성과 가치에 대한 관심이 커졌다는 의미다.케임브리지 사전은 18일(현지시간) 올해의 단어(Word of the Year 2026)를 발표하며 인간을 '신이나 동물, 기계와 달리 사람이 지닌 자질과 결점, 감정을 가진 존재'로 정의했다.콜린 매킨토시 사전 편집장은 \"AI의 성장으로 과거에는 인간만 할 수 있었던 일에도 이제는 '인간이 한 것'이라고 명시해야 하는 상황이 됐다\"고 설명",
-   "publishedAt": 1795065570000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
    "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-   "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50517321",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 445,
-   "comments": 352,
-   "publishedAt": 1794835102000,
-   "isAI": false,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "데이터메이커, AI 솔루션 '시냅스' 사업화 성과로 중기부 장관 표창",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217571",
-   "summary": "AI 전문 데이터메이커(대표 이에녹)는 '2026 중소기업 R&D 우수성과 50선' 사업화 분야에 선정돼 중소벤처기업부 장관 표창을 받았다고 19일 밝혔다.데이터메이커는 정부 연구개발(R&D) 과제를 통해 확보한 기술을 AI 솔루션 '시냅스(Synapse)'로 제품화했으며, 2023년부터 지난해까지 150억원 이상의 누적 매출을 기록했다.시냅스는 데이터 수집·가공부터 AI 모델 학습, 배포, 운영까지 통합 지원하는 솔루션으로, 외부 네트워크와 분리된 폐쇄망 환경에서도 운영할 수 있다.데이터메이커는 현재 방산과 항공 분야로 사업을 확",
-   "publishedAt": 1795064584000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-   "url": "https://support.apple.com/en-us/149699",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50526560",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 251,
-   "comments": 128,
-   "publishedAt": 1794881824000,
-   "isAI": false,
-   "score": 32.4,
    "hot": false
   }
  ]
