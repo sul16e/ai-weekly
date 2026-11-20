@@ -1,21 +1,7 @@
 {
- "updatedAt": 1795182095171,
+ "updatedAt": 1795186878033,
  "week": "2026-W47",
  "items": [
-  {
-   "title": "Anthropic’s Nasdaq debut",
-   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50562754",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1102,
-   "comments": 2199,
-   "publishedAt": 1795107760000,
-   "isAI": true,
-   "score": 60.8,
-   "hot": true
-  },
   {
    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
    "url": "https://architectlabs.com/blog/frostbite",
@@ -23,11 +9,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 256,
-   "comments": 163,
+   "engagement": 353,
+   "comments": 229,
    "publishedAt": 1795168901000,
    "isAI": true,
-   "score": 58.7,
+   "score": 60.8,
+   "hot": true
+  },
+  {
+   "title": "Anthropic’s Nasdaq debut",
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50562754",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1108,
+   "comments": 2218,
+   "publishedAt": 1795107760000,
+   "isAI": true,
+   "score": 60,
+   "hot": true
+  },
+  {
+   "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+   "url": "https://alpo.ge/remark.pdf",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50574968",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 213,
+   "comments": 60,
+   "publishedAt": 1795184181000,
+   "isAI": true,
+   "score": 58.8,
    "hot": true
   },
   {
@@ -37,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 354,
-   "comments": 226,
+   "engagement": 356,
+   "comments": 227,
    "publishedAt": 1795131335000,
    "isAI": true,
-   "score": 55.4,
+   "score": 54.7,
    "hot": true
   },
   {
@@ -51,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 570,
-   "comments": 229,
+   "engagement": 574,
+   "comments": 233,
    "publishedAt": 1795105818000,
    "isAI": true,
-   "score": 55.4,
+   "score": 54.7,
    "hot": true
   },
   {
@@ -65,11 +79,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 518,
-   "comments": 242,
+   "engagement": 521,
+   "comments": 247,
    "publishedAt": 1795109444000,
    "isAI": true,
-   "score": 55.2,
+   "score": 54.5,
    "hot": true
   },
   {
@@ -79,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 413,
-   "comments": 148,
+   "engagement": 421,
+   "comments": 154,
    "publishedAt": 1795152062000,
    "isAI": false,
-   "score": 52.7,
+   "score": 52.2,
    "hot": true
   },
   {
@@ -93,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1038,
-   "comments": 772,
+   "engagement": 1040,
+   "comments": 773,
    "publishedAt": 1795037647000,
    "isAI": true,
-   "score": 50.8,
+   "score": 50.3,
    "hot": false
   },
   {
@@ -107,11 +121,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 668,
-   "comments": 321,
+   "engagement": 672,
+   "comments": 327,
    "publishedAt": 1795105263000,
    "isAI": false,
-   "score": 50.1,
+   "score": 49.5,
+   "hot": true
+  },
+  {
+   "title": "Frostbite: AI가 발견하고 설계하고 검증한 새로운 CPU 아키텍처",
+   "url": "https://news.hada.io/topic?id=37524&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Architect Labs가 상호작용망(interaction nets) 기반의 범용 CPU Frostbite를 공개함. AI 시스템이 컴파일러, 새 명령어 집합, 아키텍처, RTL, 검증, 최종 GDS까지 함께 반복 개선함 25개 워크로드에서 전력당 성능 4.59배 를 기록함. 비교 대상은 비슷한 면적의 실리콘 검증된 듀얼 이슈 인오더 CPU 코어이며, 결과는 실제 칩 측정이 아닌 실리콘 제작 전 평가임 프로그램의 의존성과 값의 단일 소유권을 유지해 병렬 작업과 데이터 지역성 을 활용함. 타일은 자기 작업을 우선 실행하고, 남는 이",
+   "publishedAt": 1795181781000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -125,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.5,
+   "score": 48.8,
    "hot": true
   },
   {
@@ -135,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 263,
-   "comments": 228,
+   "engagement": 264,
+   "comments": 237,
    "publishedAt": 1795102692000,
    "isAI": true,
-   "score": 49,
+   "score": 48.4,
    "hot": true
   },
   {
@@ -153,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.9,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -167,8 +195,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.4,
+   "score": 47.7,
    "hot": true
+  },
+  {
+   "title": "What Comes After AGI?",
+   "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50569519",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 115,
+   "comments": 222,
+   "publishedAt": 1795142653000,
+   "isAI": true,
+   "score": 47,
+   "hot": false
   },
   {
    "title": "Anthropic prices initial public offering",
@@ -178,10 +220,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 417,
-   "comments": 788,
+   "comments": 789,
    "publishedAt": 1795044609000,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.1,
    "hot": false
   },
   {
@@ -195,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -209,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -220,10 +262,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 141,
-   "comments": 70,
+   "comments": 74,
    "publishedAt": 1795106750000,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.2,
    "hot": false
   },
   {
@@ -234,10 +276,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 131,
-   "comments": 49,
+   "comments": 50,
    "publishedAt": 1795107265000,
    "isAI": true,
-   "score": 44.3,
+   "score": 43.7,
+   "hot": false
+  },
+  {
+   "title": "AI is killing All About Berlin",
+   "url": "https://nicolasbouliane.com/blog/death-by-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50542705",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 811,
+   "comments": 711,
+   "publishedAt": 1794984446000,
+   "isAI": true,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -251,21 +307,7 @@
    "comments": 260,
    "publishedAt": 1795016974000,
    "isAI": true,
-   "score": 43.9,
-   "hot": false
-  },
-  {
-   "title": "AI is killing All About Berlin",
-   "url": "https://nicolasbouliane.com/blog/death-by-ai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50542705",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 810,
-   "comments": 711,
-   "publishedAt": 1794984446000,
-   "isAI": true,
-   "score": 43.9,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -276,38 +318,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 110,
-   "comments": 223,
+   "comments": 226,
    "publishedAt": 1795114036000,
    "isAI": true,
-   "score": 43.7,
-   "hot": false
-  },
-  {
-   "title": "Introducing Tool Retrieval in the Gemini API",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-   "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-   "publishedAt": 1795111200000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 43.4,
-   "hot": false
-  },
-  {
-   "title": "이해 가능성을 위한 설계",
-   "url": "https://news.hada.io/topic?id=37494&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "LLM이 코드를 더 많이 작성할수록 개발자의 핵심 책임은 코드 품질 판단 과 검토에 있음. 생성된 코드를 이해하지 못하면 LLM은 복잡성을 빠르게 늘리는 도구에 그칠 수 있음 계약에 의한 설계 , 데이터 불변식, 부수 효과와 전역 상태 의존성의 격리를 통해 코드베이스 전체가 아니라 필요한 부분만 읽고 동작을 이해하도록 설계할 수 있음 세 실천법의 공통 원리는 국소적 추론(local reasoning) 임. 현재 코드와 직접 연결된 인터페이스 정도만 살펴보도록 추론 범위를 제한함 이해에 필요한 맥락을 줄이면 개발자의 인지 부담뿐 아니",
-   "publishedAt": 1795133098000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 43.4,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -321,7 +335,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 43.3,
+   "score": 42.8,
+   "hot": false
+  },
+  {
+   "title": "Introducing Tool Retrieval in the Gemini API",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+   "publishedAt": 1795111200000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -331,25 +359,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 307,
+   "engagement": 308,
    "comments": 79,
    "publishedAt": 1795040953000,
    "isAI": true,
-   "score": 43.2,
-   "hot": false
-  },
-  {
-   "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-   "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50559719",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 312,
-   "comments": 62,
-   "publishedAt": 1795094291000,
-   "isAI": false,
-   "score": 43,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -363,7 +377,21 @@
    "comments": 862,
    "publishedAt": 1794937603000,
    "isAI": true,
-   "score": 43,
+   "score": 42.6,
+   "hot": false
+  },
+  {
+   "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+   "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50559719",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 313,
+   "comments": 64,
+   "publishedAt": 1795094291000,
+   "isAI": false,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -377,7 +405,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 43,
+   "score": 42.4,
    "hot": false
   },
   {
@@ -391,8 +419,22 @@
    "comments": 78,
    "publishedAt": 1795048185000,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.2,
    "hot": false
+  },
+  {
+   "title": "쉽게 설명할 수 없다면 이해한 것이 아니다 (2017)",
+   "url": "https://news.hada.io/topic?id=37527&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Richard Feynman 은 어려운 개념을 초보자에게 설명하는 능력을 중시했으며, 대학 1학년 수준으로 설명하지 못한 물리 현상에 대해 “우리가 정말로 이해하지 못한다는 뜻”이라고 말함 Apple 에서도 엔지니어에게 복잡한 기술이나 제품을 쉽게 설명할 것을 기대하며, John Gruber에 따르면 이는 경영진의 이해를 돕기 위해서가 아니라 엔지니어가 완전히 이해했는지 확인하기 위해서임 Feynman은 불, 고무줄, 기차의 곡선 주행, 자석 같은 사례로 과학 개념을 쉽게 설명해 더 깊은 이해를 이끌어냄 쉬운 설명과 함께 이해의 한",
+   "publishedAt": 1795185137000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
@@ -401,12 +443,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 402,
+   "engagement": 403,
    "comments": 43,
    "publishedAt": 1795067796000,
    "isAI": false,
-   "score": 42,
+   "score": 41.5,
    "hot": false
+  },
+  {
+   "title": "Show GN: 잘하나 – 지방의회 회의록을 사안별로 이어 보여 주는 서비스",
+   "url": "https://news.hada.io/topic?id=37526&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "잘하나는 지방의회 회의록을 읽어, 누가 무엇을 했는지보다 사안이 어떻게 이어졌는지를 보여 주는 서비스입니다. 직접 만들어 운영하고 있습니다. 만든 이유 회의록은 공개돼 있습니다. 그런데 공개돼 있다는 것과 쉽게 확인할 수 있다는 것은 전혀 다른 일이었습니다. 거제시의회 한 곳만 해도 한 임기에 회의가 500번이 넘고, 회의록 한 편이 길게는 100쪽이 넘습니다. 하나의 사안은 여러 회의, 여러 해에 걸쳐 나와서, 그 뒤를 찾으려면 수많은 회의록을 오가야 했습니다. 의회는 기록을 회기와 임기로 잘라 두어서, 사안 단위로 잇 …",
+   "publishedAt": 1795182228000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
+  },
+  {
+   "title": "Carnival Cruises의 황산화물 배출량, 유럽 전체 자동차의 10배에 달함(2019)",
+   "url": "https://news.hada.io/topic?id=37525&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Transport & Environment(T&E) 분석에 따르면, Carnival Corporation 이 2017년 유럽 연안에서 배출한 황산화물(SOx)은 유럽 자동차 2억 6,000만 대 배출량의 거의 10배였음 세계 2위 크루즈 운영사 Royal Caribbean Cruises 의 황산화물 배출량도 유럽 전체 자동차의 4배 였음 크루즈선의 황산화물 오염에 가장 많이 노출된 국가는 스페인, 이탈리아, 그리스 이며, 주요 관광지라는 특성과 덜 엄격한 선박 연료 황 함량 기준이 영향을 줌 유럽 크루즈선의 질소산화물(NOx) 배출",
+   "publishedAt": 1795181961000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
   },
   {
    "title": "Synology Security Advisory",
@@ -415,25 +485,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 165,
-   "comments": 121,
+   "engagement": 166,
+   "comments": 125,
    "publishedAt": 1795126420000,
    "isAI": false,
-   "score": 41.6,
-   "hot": true
-  },
-  {
-   "title": "FFmpeg 9.1 'Gauss' - 멀티미디어 프로젝트의 핵심 구성 요소인 FFmpeg의 최신 안정 릴리스",
-   "url": "https://news.hada.io/topic?id=37521&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "FFmpeg 9.1 “Gauss” 가 2026년 11월 20일 출시됐으며, 9.1 릴리스 브랜치의 최신 안정 버전임 공식 프로젝트는 소스 코드만 제공 하며, 바로 실행할 수 있는 Linux, Windows, macOS 패키지와 빌드는 외부 배포처에서 받을 수 있음 모든 릴리스는 PGP 서명 으로 진위를 검증할 수 있으며, 9.1에는 양자내성 서명 파일도 제공됨 양자내성 서명 은 아직 GnuPG로 검증할 수 없으며, 지원 암호화 백엔드로 빌드한 sq 1.4 이상에서 두 키의 서명을 모두 검증해야 함 릴리스는 주로 배포자와 시스템 통합",
-   "publishedAt": 1795177940000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.5,
+   "score": 41.1,
    "hot": true
   },
   {
@@ -447,8 +503,22 @@
    "comments": 564,
    "publishedAt": 1794961078000,
    "isAI": true,
-   "score": 41.3,
+   "score": 40.9,
    "hot": false
+  },
+  {
+   "title": "FFmpeg 9.1 'Gauss' - 멀티미디어 프로젝트의 핵심 구성 요소인 FFmpeg의 최신 안정 릴리스",
+   "url": "https://news.hada.io/topic?id=37521&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "FFmpeg 9.1 “Gauss” 가 2026년 11월 20일 출시됐으며, 9.1 릴리스 브랜치의 최신 안정 버전임 공식 프로젝트는 소스 코드만 제공 하며, 바로 실행할 수 있는 Linux, Windows, macOS 패키지와 빌드는 외부 배포처에서 받을 수 있음 모든 릴리스는 PGP 서명 으로 진위를 검증할 수 있으며, 9.1에는 양자내성 서명 파일도 제공됨 양자내성 서명 은 아직 GnuPG로 검증할 수 없으며, 지원 암호화 백엔드로 빌드한 sq 1.4 이상에서 두 키의 서명을 모두 검증해야 함 릴리스는 주로 배포자와 시스템 통합",
+   "publishedAt": 1795177940000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.9,
+   "hot": true
   },
   {
    "title": "The AI Superintelligence Debate Has Serious Flaws",
@@ -461,7 +531,7 @@
    "comments": 162,
    "publishedAt": 1795090630000,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -475,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -489,8 +559,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.8,
    "hot": true
+  },
+  {
+   "title": "Six AI-powered gadgets that could make your home office smarter",
+   "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+   "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+   "publishedAt": 1795183200000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 39.6,
+   "hot": false
   },
   {
    "title": "OpenSSL: EVP_EncodeBlock()의 버퍼 오버플로(CVE-2026-121481, CVSS 9.8)",
@@ -503,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -517,35 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
-   "hot": true
-  },
-  {
-   "title": "Show GN: 가상 주민 - 서비스 링크를 넣으면 주민 100명이 둘러보고 어디서 왜 나갔는지 알려 주는 도구",
-   "url": "https://news.hada.io/topic?id=37511&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "만들고 있는 서비스 링크를 넣으면, 가상 주민 100명이 첫 페이지를 둘러보고 어디서 망설였고 왜 나갔는지를 별점과 리뷰로 보여 줍니다. 성격과 관심사가 다른 주민 1000명 가운데 그 서비스에 관심 있을 만한 100명을 골라서 들여보냄 주민마다 관심사와 성격에 따라 어디까지 읽을지, 버튼을 누를지, 언제 나갈지가 정해짐 (성별·지역·소득으로는 나누지 않음) 첫 페이지는 컴퓨터·휴대폰 폭으로 찍어서 구역·버튼·입력칸 위치를 읽고, 같은 사이트 안에서 이어지는 페이지는 3개까지 글만 가볍게 읽음 주민 행동은 확률로 뽑지 않아 …",
-   "publishedAt": 1795162927000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.7,
-   "hot": true
-  },
-  {
-   "title": "PostgreSQL 19 Released",
-   "url": "https://news.hada.io/topic?id=37510&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "2026년 11월 19일 PostgreSQL Global Development Group 이 postgresql.org 에 출시 발표함 pg_plan_advice 확장이 계획의 안정과 질의 성능을 더 다루게 한다고 함. 대기 서버에서 \"read-your-writes\" 일관성을 지원하고, \"get or create\" 동작이 네트워크 왕복을 줄인다고 함. …",
-   "publishedAt": 1795162727000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.7,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -559,8 +615,36 @@
    "comments": 170,
    "publishedAt": 1795023947000,
    "isAI": true,
-   "score": 39.5,
+   "score": 39.1,
    "hot": false
+  },
+  {
+   "title": "Show GN: 가상 주민 - 서비스 링크를 넣으면 주민 100명이 둘러보고 어디서 왜 나갔는지 알려 주는 도구",
+   "url": "https://news.hada.io/topic?id=37511&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "만들고 있는 서비스 링크를 넣으면, 가상 주민 100명이 첫 페이지를 둘러보고 어디서 망설였고 왜 나갔는지를 별점과 리뷰로 보여 줍니다. 성격과 관심사가 다른 주민 1000명 가운데 그 서비스에 관심 있을 만한 100명을 골라서 들여보냄 주민마다 관심사와 성격에 따라 어디까지 읽을지, 버튼을 누를지, 언제 나갈지가 정해짐 (성별·지역·소득으로는 나누지 않음) 첫 페이지는 컴퓨터·휴대폰 폭으로 찍어서 구역·버튼·입력칸 위치를 읽고, 같은 사이트 안에서 이어지는 페이지는 3개까지 글만 가볍게 읽음 주민 행동은 확률로 뽑지 않아 …",
+   "publishedAt": 1795162927000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.1,
+   "hot": true
+  },
+  {
+   "title": "PostgreSQL 19 Released",
+   "url": "https://news.hada.io/topic?id=37510&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "2026년 11월 19일 PostgreSQL Global Development Group 이 postgresql.org 에 출시 발표함 pg_plan_advice 확장이 계획의 안정과 질의 성능을 더 다루게 한다고 함. 대기 서버에서 \"read-your-writes\" 일관성을 지원하고, \"get or create\" 동작이 네트워크 왕복을 줄인다고 함. …",
+   "publishedAt": 1795162727000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.1,
+   "hot": true
   },
   {
    "title": "Energy-Based Reasoners: 385x more efficient inference",
@@ -569,11 +653,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 315,
+   "engagement": 316,
    "comments": 57,
    "publishedAt": 1794994172000,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.8,
    "hot": false
   },
   {
@@ -587,7 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -601,7 +685,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38,
    "hot": true
   },
   {
@@ -615,7 +699,21 @@
    "comments": 90,
    "publishedAt": 1795049840000,
    "isAI": true,
-   "score": 37.6,
+   "score": 37.2,
+   "hot": false
+  },
+  {
+   "title": "AI will not make you rich (2025)",
+   "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50555093",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 107,
+   "comments": 69,
+   "publishedAt": 1795053088000,
+   "isAI": true,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -629,21 +727,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
-  },
-  {
-   "title": "AI will not make you rich (2025)",
-   "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50555093",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 107,
-   "comments": 69,
-   "publishedAt": 1795053088000,
-   "isAI": true,
-   "score": 37.3,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -657,7 +741,7 @@
    "comments": 140,
    "publishedAt": 1794975244000,
    "isAI": true,
-   "score": 37.1,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -671,35 +755,7 @@
    "comments": 83,
    "publishedAt": 1795106044000,
    "isAI": false,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "Show GN: OneHandy - 회원가입 없이 브라우저에서 쓰는 무료 웹 도구 123종 (계산기·변환기·텍스트·이미지)",
-   "url": "https://news.hada.io/topic?id=37499&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "직접 만들고 있는 무료 웹 도구 모음입니다. 설치도 회원가입도 없이 바로 열어서 쓸 수 있습니다. 도구 123종: 텍스트 변환, 개발자 유틸리티, 디자인·색상, 생산성, 이미지, SEO 도구, 그리고 한국 생활 계산기(급여·4대보험·대출·학점 등) 계산·변환은 브라우저 안에서 처리하고, 입력값을 서버로 보내지 않습니다 Astro 5 정적 사이트(전 페이지 정적 HTML)로 만들었고 한국어·영어 등 9개 언어를 지원합니다 숫자 기준(세율·요율 등)은 공식 출처를 보고 갱신하고, 바뀔 시점이 있는 항목은 페이지에 적어 둡니다 솔직히 밝",
-   "publishedAt": 1795136384000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.8,
-   "hot": false
-  },
-  {
-   "title": "98% 슬롯머신: 유료 광고는 어떻게 착취적 세금이 되었나",
-   "url": "https://news.hada.io/topic?id=37498&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "유료 광고는 손익분기점에 조금 못 미치는 수익 으로 창업자가 광고비를 계속 투입하게 만드는 슬롯머신과 같다는 비판을 받음 광고 대시보드는 순손실보다 노출, 클릭률, 클릭당 비용의 개선 을 부각하고, 광고주는 손실 원인을 경매 구조가 아닌 랜딩 페이지나 광고 문구에서 찾게 됨 광고 경매의 경쟁 심화 로 입찰가가 광고주의 매출총이익 기준 손익분기점까지 오르면서, 초기 초과이익이 플랫폼으로 이전됨 광고에 의존한 사업은 자금이 소진되면 트래픽도 즉시 끊기며, 자체 고객 관계나 자연 유입의 동력 을 남기지 못할 수 있음 대안 …",
-   "publishedAt": 1795135033000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.7,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -713,35 +769,21 @@
    "comments": 79,
    "publishedAt": 1795020082000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
-   "title": "Show HN: Cornhole News - Hacker News에서 영감을 받은 미국 중서부 뉴스 사이트",
-   "url": "https://news.hada.io/topic?id=37497&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Cornhole News 는 미국 중서부 전역의 뉴스를 모아 보여주는 Hacker News 스타일의 사이트임 뉴스 목록은 외부 기사 링크 로 구성되며, 각 항목에 투표 화살표와 점수, 댓글 수가 표시됨 지역 정치와 환경, 교육, 농업, 생활 소식 을 함께 다루며, 지역 매체와 전국 매체의 기사를 연결함 기술 관련 지역 현안으로는 데이터센터 전력 비용 과 데이터센터 건립 일시 중단 검토에 관한 기사가 올라와 있음 정치 기사 표시 옵션 이 있으며, 이메일 구독과 RSS로도 중서부 뉴스를 받아볼 수 있음 중서부 뉴스를 모으는 방식 Cor",
-   "publishedAt": 1795134853000,
+   "title": "Show GN: OneHandy - 회원가입 없이 브라우저에서 쓰는 무료 웹 도구 123종 (계산기·변환기·텍스트·이미지)",
+   "url": "https://news.hada.io/topic?id=37499&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "직접 만들고 있는 무료 웹 도구 모음입니다. 설치도 회원가입도 없이 바로 열어서 쓸 수 있습니다. 도구 123종: 텍스트 변환, 개발자 유틸리티, 디자인·색상, 생산성, 이미지, SEO 도구, 그리고 한국 생활 계산기(급여·4대보험·대출·학점 등) 계산·변환은 브라우저 안에서 처리하고, 입력값을 서버로 보내지 않습니다 Astro 5 정적 사이트(전 페이지 정적 HTML)로 만들었고 한국어·영어 등 9개 언어를 지원합니다 숫자 기준(세율·요율 등)은 공식 출처를 보고 갱신하고, 바뀔 시점이 있는 항목은 페이지에 적어 둡니다 솔직히 밝",
+   "publishedAt": 1795136384000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
-   "hot": false
-  },
-  {
-   "title": "Kiri - 무료 ngrok 대안을 내장한 경량 Docker Desktop 대체재",
-   "url": "https://news.hada.io/topic?id=37496&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "기존 Docker 이미지와 명령을 그대로 사용 하는 컨테이너 런타임으로, 맥/윈도우/리눅스에서 실행 docker CLI, Compose, buildx와 Docker Engine API를 지원 해 기존 개발 도구와 연결 가능 컨테이너별 실시간 로그, 터미널, 파일과 자원 사용량 을 앱에서 확인하고, Compose 프로젝트를 묶어서 관리 무료 터널링 기능 Kiri Share 로 로컬 앱을 공개 HTTPS 주소로 공유 kiri share 3000 또는 컨테이너의 Share 버튼으로 실행해, 별도 배포 없이 데모 공유/웹훅 테스트/휴대폰 ",
-   "publishedAt": 1795134602000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -755,7 +797,7 @@
    "comments": 462,
    "publishedAt": 1794950172000,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -769,7 +811,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -783,7 +825,7 @@
    "comments": 127,
    "publishedAt": 1794978690000,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -797,7 +839,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -811,21 +853,7 @@
    "comments": 90,
    "publishedAt": 1795051769000,
    "isAI": false,
-   "score": 35.4,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-   "url": "https://foolscap.works/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50559749",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 110,
-   "comments": 88,
-   "publishedAt": 1795094480000,
-   "isAI": false,
-   "score": 35.2,
+   "score": 35,
    "hot": false
   },
   {
@@ -839,7 +867,7 @@
    "comments": 404,
    "publishedAt": 1794937634000,
    "isAI": false,
-   "score": 35.2,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -853,7 +881,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 35.2,
+   "score": 34.9,
+   "hot": false
+  },
+  {
+   "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+   "url": "https://foolscap.works/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50559749",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 110,
+   "comments": 89,
+   "publishedAt": 1795094480000,
+   "isAI": false,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -867,35 +909,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35,
-   "hot": false
-  },
-  {
-   "title": "The Gemini app is now available on lower-memory Android devices.",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-   "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-   "publishedAt": 1795021200000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 34.9,
-   "hot": false
-  },
-  {
-   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-   "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-   "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-   "publishedAt": 1795135430000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.9,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -909,7 +923,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -923,7 +937,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -937,7 +951,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -951,7 +965,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
+   "hot": false
+  },
+  {
+   "title": "The Gemini app is now available on lower-memory Android devices.",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+   "publishedAt": 1795021200000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 34.5,
+   "hot": false
+  },
+  {
+   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+   "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+   "publishedAt": 1795135430000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -965,7 +1007,21 @@
    "comments": 297,
    "publishedAt": 1794935526000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+   "url": "https://exitpath-ruddy.vercel.app/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50547980",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 250,
+   "comments": 93,
+   "publishedAt": 1795017883000,
+   "isAI": false,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -976,24 +1032,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 179,
-   "comments": 149,
+   "comments": 150,
    "publishedAt": 1795045758000,
    "isAI": false,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
-   "url": "https://exitpath-ruddy.vercel.app/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50547980",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 249,
-   "comments": 93,
-   "publishedAt": 1795017883000,
-   "isAI": false,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1007,7 +1049,7 @@
    "comments": 76,
    "publishedAt": 1794973663000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1018,10 +1060,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 670,
-   "comments": 765,
+   "comments": 766,
    "publishedAt": 1794929908000,
    "isAI": false,
-   "score": 34.3,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -1035,7 +1077,7 @@
    "comments": 59,
    "publishedAt": 1795018731000,
    "isAI": false,
-   "score": 34.2,
+   "score": 33.9,
    "hot": false
   },
   {
@@ -1049,7 +1091,7 @@
    "comments": 107,
    "publishedAt": 1794957529000,
    "isAI": false,
-   "score": 34.1,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -1063,21 +1105,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34,
-   "hot": false
-  },
-  {
-   "title": "These tech outages are giving Y2K, AI agent style",
-   "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-   "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-   "publishedAt": 1795124551000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -1091,7 +1119,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
+   "hot": false
+  },
+  {
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+   "publishedAt": 1795124551000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -1105,35 +1147,7 @@
    "comments": 673,
    "publishedAt": 1794754018000,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-   "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Si",
-   "publishedAt": 1795177847000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-   "publishedAt": 1795119529000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -1147,7 +1161,35 @@
    "comments": 235,
    "publishedAt": 1794910840000,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+   "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Si",
+   "publishedAt": 1795177847000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "publishedAt": 1795119529000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -1161,7 +1203,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1175,21 +1217,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.8,
-   "hot": false
-  },
-  {
-   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-   "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-   "publishedAt": 1795109920000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.6,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1203,7 +1231,7 @@
    "comments": 75,
    "publishedAt": 1794939378000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1217,7 +1245,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+   "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+   "publishedAt": 1795109920000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+   "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed",
+   "publishedAt": 1795186544000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": false,
+   "score": 32,
    "hot": false
   },
   {
@@ -1231,21 +1287,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "구글, AI 모델 이름에 원소 주기율표 활용...다음은 '헬륨'?",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217633",
-   "summary": "구글이 '제미나이 4'에 화학 원소 이름을 붙이면서 독특한 작명법이 화제가 되고 있다. 신형 모델이 나올 때마다 이용자들이 다음 원소를 예상하는 가운데, 구글도 주기율표를 활용한 모델 선택 기능과 영상을 선보이며 이러한 관심을 즐기는 모습이다.구글 딥마인드의 개발자 경험 총괄인 오마르 산세비에로는 19일(현지시간) X에 \"출시는 계속될 것(Shipping will continue)\"이라는 짧은 글을 올렸다. 구글이 최근 '제미나이 4 네온'까지 잇달아 출시한 상황에서 추가 모델의 등장을 예고한 것으로 받아들여졌다.구글은 최근 '아르",
-   "publishedAt": 1795164300000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1259,7 +1301,7 @@
    "comments": 71,
    "publishedAt": 1795013273000,
    "isAI": false,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1273,77 +1315,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.2,
+   "score": 31.8,
    "hot": false
   },
   {
-   "title": "정체불명 모델 '게슈탈트', 디자인 평가서 인간 전문가 제치고 1위",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217630",
-   "summary": "개발사가 공개되지 않은 AI 모델 '게슈탈트(Gestalt)'가 실제 기업의 웹사이트와 앱 제작 과제를 활용한 디자인 평가에서 인간 전문 디자이너와 주요 AI 기업의 모델을 모두 제치고 1위를 차지했다. 전문 디자이너들이 직접 결과물을 비교하는 블라인드 평가에서 인간이 제작한 디자인보다 높은 점수를 받은 것이다.미국의 프리랜서 창작 전문가 플랫폼 콘트라(Contra)의 연구 조직 콘트라 랩스는 18일(현지시간) AI 평가 기업 벤치플로우(BenchFlow)와 공동 개발한 '프론티어 디자인 벤치마크(Frontier Design Ben",
-   "publishedAt": 1795163400000,
+   "title": "구글, AI 모델 이름에 원소 주기율표 활용...다음은 '헬륨'?",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217633",
+   "summary": "구글이 '제미나이 4'에 화학 원소 이름을 붙이면서 독특한 작명법이 화제가 되고 있다. 신형 모델이 나올 때마다 이용자들이 다음 원소를 예상하는 가운데, 구글도 주기율표를 활용한 모델 선택 기능과 영상을 선보이며 이러한 관심을 즐기는 모습이다.구글 딥마인드의 개발자 경험 총괄인 오마르 산세비에로는 19일(현지시간) X에 \"출시는 계속될 것(Shipping will continue)\"이라는 짧은 글을 올렸다. 구글이 최근 '제미나이 4 네온'까지 잇달아 출시한 상황에서 추가 모델의 등장을 예고한 것으로 받아들여졌다.구글은 최근 '아르",
+   "publishedAt": 1795164300000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 'GPT-6.2' 응답 늦게 받으면 API 요금 최대 40% 할인",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217632",
-   "summary": "오픈AI가 AI 모델의 응답 속도에 따라 API 요금을 차등 적용하는 새로운 과금 방식을 선보였다. 개발자가 응답 완료까지 기다릴 수 있는 시간을 길게 설정하면 최대 40%까지 비용을 절감할 수 있어, 대규모 AI 작업을 수행하는 기업과 개발자의 비용 부담을 줄일 수 있게 됐다.오픈AI는 18일(현지시간) API 요청의 완료 목표 시간을 2시간 또는 8시간으로 설정하면 요금을 할인해 주는 새로운 옵션을 도입했다. 2시간을 선택하면 표준 요금보다 30%, 8시간을 선택하면 40% 저렴하다. 설정한 시간은 처리 완료 목표 시간으로, 작",
-   "publishedAt": 1795162676000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "메타, AI가 기억하는 방법도 스스로 개선...AI 자기개선 연구 잇따라",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217629",
-   "summary": "메타가 AI 에이전트가 작업 경험을 바탕으로 기억 관리 방식을 스스로 개선하고, 이를 모델 학습에도 반영하는 기술을 공개했다. 최근 오픈AI와 앤트로픽이 AI를 활용한 연구개발 자동화와 자기개선 성과를 잇달아 발표한 가운데, 메타도 기억 관리 능력을 AI 스스로 발전시키는 방법을 제시했다.메타는 19일(현지시간) 공식 연구 발표를 통해 AI 에이전트가 어떤 정보를 기억하고 언제 다시 불러올지 결정하는 지침을 스스로 개선하는 '자기개선 메모리(Self-Improving Memory)' 기술을 공개했다.핵심은 AI가 작업 과정에서 발견",
-   "publishedAt": 1795162500000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "캘리포니아주, 엔비디아에 소환장...중국 기밀 유출·투자자 기만 조사",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217637",
-   "summary": "미국 캘리포니아주 법무부가 젠슨 황 전 엔비디아 CEO와 중국 간 연관성 의혹을 둘러싸고 엔비디아에 대한 조사에 착수했다. 황 전 CEO와 회사의 행위로 중국에 첨단 AI 칩이나 기밀 정보가 전달됐는지, 엔비디아가 관련 위험을 투자자들에게 제대로 알렸는지 등을 조사할 예정이다.캘리포니아주 법무부는 19일(현지시간) 공식 성명을 통해 롭 본타 법무장관이 엔비디아에 조사 관련 소환장을 발부했다고 밝혔다. 조사 대상에는 회사와 황 전 CEO의 행동으로 중국이 첨단 칩이나 기밀 정보를 확보했는지, 엔비디아가 투자자와 대중에게 관련 위험을",
-   "publishedAt": 1795162026000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "미 상무부, 중국군 연계 기업에 AI 칩 수출 허가...하원 자료 공개로 파장",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217634",
-   "summary": "미국 상무부가 엔비디아와 AMD의 AI 칩 약 88만개를 중국 기업에 수출하도록 승인한 사실이 공개됐다. 전체 승인 물량의 30% 이상은 미 국방부가 중국군 연계 기업으로 지정했거나 이후 지정한 업체들에 배정된 것으로 나타나, 수출 허가 심사 과정에 대한 논란이 커질 전망이다.블룸버그와 로이터에 따르면, 미 하원 외교위원회는 19일(현지시간) 도널드 트럼프 행정부가 2025년 12월부터 2026년 5월까지 엔비디아와 AMD의 AI 칩 약 87만9000개를 중국 기업에 수출하도록 승인했다고 밝혔다. 해당 기간 기업들이 신청한 수출 물",
-   "publishedAt": 1795161441000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1357,49 +1343,63 @@
    "comments": 259,
    "publishedAt": 1794925199000,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false
   },
   {
-   "title": "오픈AI, 코덱스로 챗GPT 성능 문제 자동 진단·수정안 작성",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217626",
-   "summary": "오픈AI가 '코덱스'를 활용해 챗GPT의 성능 저하 원인을 찾아내고 수정까지 지원하는 내부 자동화 시스템을 공개했다. 성능 문제가 발생하면 AI 에이전트가 로그와 코드를 분석해 원인을 파악하고 수정안을 작성하며, 배포 후에는 문제가 해결됐는지도 확인한다.오픈AI는 19일(현지시간) 코덱스 기반의 내부 성능 관리 시스템 '퍼포먼스 팩토리(Performance Factory)'의 개발 과정과 운영 방식을 공개했다. 성능 저하 감지부터 원인 분석, 수정안 제안, 배포 후 검증까지 일련의 작업을 자동화하는 시스템이다.도입 이후 3개월여 동",
-   "publishedAt": 1795160857000,
+   "title": "정체불명 모델 '게슈탈트', 디자인 평가서 인간 전문가 제치고 1위",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217630",
+   "summary": "개발사가 공개되지 않은 AI 모델 '게슈탈트(Gestalt)'가 실제 기업의 웹사이트와 앱 제작 과제를 활용한 디자인 평가에서 인간 전문 디자이너와 주요 AI 기업의 모델을 모두 제치고 1위를 차지했다. 전문 디자이너들이 직접 결과물을 비교하는 블라인드 평가에서 인간이 제작한 디자인보다 높은 점수를 받은 것이다.미국의 프리랜서 창작 전문가 플랫폼 콘트라(Contra)의 연구 조직 콘트라 랩스는 18일(현지시간) AI 평가 기업 벤치플로우(BenchFlow)와 공동 개발한 '프론티어 디자인 벤치마크(Frontier Design Ben",
+   "publishedAt": 1795163400000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false
   },
   {
-   "title": "구글, 제미나이에 '컴퓨터 유즈' 기능 도입...맥 앱 직접 제어",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217606",
-   "summary": "구글이 맥용 '제미나이' 앱에 컴퓨터를 직접 조작하는 '컴퓨터 유즈(Computer Use)' 기능을 도입했다. 앤트로픽과 오픈AI가 1~2년 전부터 선보인 기능으로, 구글도 기존 개발자용 기술을 일반 이용자에게 확대하면서 AI 에이전트 경쟁에 본격적으로 뛰어들었다.구글은 19일(현지시간) 공식 블로그를 통해 맥용 제미나이 앱에 컴퓨터 유즈 기능을 추가했다고 밝혔다. 사용자가 프롬프트에 '@Computer use'를 입력하고 원하는 작업을 설명하면, 제미나이가 필요한 앱을 실행하고 마우스 클릭과 키보드 입력, 메뉴 탐색, 양식 작성",
-   "publishedAt": 1795160281000,
+   "title": "오픈AI, 'GPT-6.2' 응답 늦게 받으면 API 요금 최대 40% 할인",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217632",
+   "summary": "오픈AI가 AI 모델의 응답 속도에 따라 API 요금을 차등 적용하는 새로운 과금 방식을 선보였다. 개발자가 응답 완료까지 기다릴 수 있는 시간을 길게 설정하면 최대 40%까지 비용을 절감할 수 있어, 대규모 AI 작업을 수행하는 기업과 개발자의 비용 부담을 줄일 수 있게 됐다.오픈AI는 18일(현지시간) API 요청의 완료 목표 시간을 2시간 또는 8시간으로 설정하면 요금을 할인해 주는 새로운 옵션을 도입했다. 2시간을 선택하면 표준 요금보다 30%, 8시간을 선택하면 40% 저렴하다. 설정한 시간은 처리 완료 목표 시간으로, 작",
+   "publishedAt": 1795162676000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false
   },
   {
-   "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-   "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-   "publishedAt": 1795100079000,
-   "source": "TechCrunch AI",
+   "title": "메타, AI가 기억하는 방법도 스스로 개선...AI 자기개선 연구 잇따라",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217629",
+   "summary": "메타가 AI 에이전트가 작업 경험을 바탕으로 기억 관리 방식을 스스로 개선하고, 이를 모델 학습에도 반영하는 기술을 공개했다. 최근 오픈AI와 앤트로픽이 AI를 활용한 연구개발 자동화와 자기개선 성과를 잇달아 발표한 가운데, 메타도 기억 관리 능력을 AI 스스로 발전시키는 방법을 제시했다.메타는 19일(현지시간) 공식 연구 발표를 통해 AI 에이전트가 어떤 정보를 기억하고 언제 다시 불러올지 결정하는 지침을 스스로 개선하는 '자기개선 메모리(Self-Improving Memory)' 기술을 공개했다.핵심은 AI가 작업 과정에서 발견",
+   "publishedAt": 1795162500000,
+   "source": "AI타임스",
    "sourceType": "media",
-   "lang": "en",
+   "lang": "ko",
    "engagement": null,
-   "baseWeight": 32,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 31.8,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "캘리포니아주, 엔비디아에 소환장...중국 기밀 유출·투자자 기만 조사",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217637",
+   "summary": "미국 캘리포니아주 법무부가 젠슨 황 전 엔비디아 CEO와 중국 간 연관성 의혹을 둘러싸고 엔비디아에 대한 조사에 착수했다. 황 전 CEO와 회사의 행위로 중국에 첨단 AI 칩이나 기밀 정보가 전달됐는지, 엔비디아가 관련 위험을 투자자들에게 제대로 알렸는지 등을 조사할 예정이다.캘리포니아주 법무부는 19일(현지시간) 공식 성명을 통해 롭 본타 법무장관이 엔비디아에 조사 관련 소환장을 발부했다고 밝혔다. 조사 대상에는 회사와 황 전 CEO의 행동으로 중국이 첨단 칩이나 기밀 정보를 확보했는지, 엔비디아가 투자자와 대중에게 관련 위험을",
+   "publishedAt": 1795162026000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.6,
    "hot": false
   }
  ]
