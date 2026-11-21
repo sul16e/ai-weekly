@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795251917621,
+ "updatedAt": 1795255574403,
  "week": "2026-W47",
  "items": [
   {
@@ -9,12 +9,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 644,
+   "engagement": 646,
    "comments": 333,
    "publishedAt": 1795168901000,
    "isAI": true,
-   "score": 55.3,
-   "hot": true
+   "score": 54.8,
+   "hot": false
   },
   {
    "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
@@ -23,12 +23,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 548,
-   "comments": 320,
+   "engagement": 552,
+   "comments": 322,
    "publishedAt": 1795167736000,
    "isAI": true,
-   "score": 53.9,
-   "hot": true
+   "score": 53.5,
+   "hot": false
   },
   {
    "title": "I'll never buy Framework hardware again",
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 789,
-   "comments": 577,
+   "engagement": 792,
+   "comments": 583,
    "publishedAt": 1795190790000,
    "isAI": false,
-   "score": 53.5,
+   "score": 53,
    "hot": true
   },
   {
@@ -52,10 +52,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 276,
-   "comments": 212,
+   "comments": 214,
    "publishedAt": 1795193967000,
    "isAI": true,
-   "score": 52.3,
+   "score": 51.8,
+   "hot": true
+  },
+  {
+   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50574383",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 315,
+   "comments": 586,
+   "publishedAt": 1795181399000,
+   "isAI": true,
+   "score": 51.1,
    "hot": true
   },
   {
@@ -69,21 +83,35 @@
    "comments": 2299,
    "publishedAt": 1795107760000,
    "isAI": true,
-   "score": 51.4,
+   "score": 51,
    "hot": false
   },
   {
-   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50574383",
-   "source": "Hacker News",
+   "title": "Show GN: codemap-search - 코딩 에이전트용 단일 바이너리 Rust 코드 탐색 MCP 서버",
+   "url": "https://news.hada.io/topic?id=37568&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "codemap-search는 Claude Code나 Codex 같은 코딩 에이전트에서 로컬 저장소를 탐색할 때 쓰는 단일 바이너리 Rust MCP 서버입니다. 직접 만들어 오픈소스로 공개했고, 별도 런타임이나 DB 없이 설치해 바로 붙일 수 있습니다. 처음에는 Serena를 계기로 코드 탐색 MCP에 관심이 생겼는데, 기존 도구들과 비교해 보니 환경에 따라 탐색 효율이 꽤 갈렸습니다. Codex처럼 셸에서 rg를 조합할 때는 어느 정도 버티지만, 셸 없이 read/find/grep 위주로 도는 환경에서는 호출 횟수가 늘고 출력 상한",
+   "publishedAt": 1795253807000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 290,
-   "comments": 561,
-   "publishedAt": 1795181399000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": true,
-   "score": 50.9,
+   "score": 49.7,
+   "hot": true
+  },
+  {
+   "title": "Vim Classic 8.3.1 출시, Python 2 지원 제거 및 Vim 패치 반영",
+   "url": "https://news.hada.io/topic?id=37566&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "안정성과 장기 지원(LTS) 을 지향하는 Vim 포크, Vim Classic의 두 번째 릴리스 8.3.1 이 출시됨 Vim 8.2.3237까지의 적용 가능한 패치 를 반영해 다수의 버그 수정, 소규모 기능 추가, Vim 플러그인 호환성 개선을 포함함 이번 릴리스부터 Python 2 지원을 제거 함 Vim Classic은 생성형 AI 도구의 도움 없이 유지보수되는 프로젝트임 SourceHut 에서 릴리스 압축 파일과 서명을 내려받을 수 있으며, 공개된 PGP 키 로 서명을 검증할 수 있음 릴리스 성격과 주요 변경 Vim Classic",
+   "publishedAt": 1795251661000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.4,
    "hot": true
   },
   {
@@ -97,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -111,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.7,
    "hot": true
   },
   {
@@ -125,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.3,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -135,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 143,
-   "comments": 61,
+   "engagement": 147,
+   "comments": 62,
    "publishedAt": 1795198516000,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.3,
    "hot": false
   },
   {
@@ -153,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.6,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -163,11 +191,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 281,
-   "comments": 149,
+   "engagement": 286,
+   "comments": 151,
    "publishedAt": 1795206161000,
    "isAI": false,
-   "score": 47.2,
+   "score": 46.9,
+   "hot": true
+  },
+  {
+   "title": "Backblaze Notice at Collection and Privacy Policy",
+   "url": "https://www.backblaze.com/company/policy/privacy",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50585593",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 190,
+   "comments": 58,
+   "publishedAt": 1795231396000,
+   "isAI": false,
+   "score": 46.7,
    "hot": true
   },
   {
@@ -177,26 +219,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 606,
+   "engagement": 608,
    "comments": 248,
    "publishedAt": 1795105818000,
    "isAI": true,
-   "score": 47.1,
+   "score": 46.7,
    "hot": false
-  },
-  {
-   "title": "Backblaze Notice at Collection and Privacy Policy",
-   "url": "https://www.backblaze.com/company/policy/privacy",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50585593",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 184,
-   "comments": 55,
-   "publishedAt": 1795231396000,
-   "isAI": false,
-   "score": 46.9,
-   "hot": true
   },
   {
    "title": "Claude solves two open problems in the physics of black holes",
@@ -209,22 +237,8 @@
    "comments": 270,
    "publishedAt": 1795109444000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.5,
    "hot": false
-  },
-  {
-   "title": "AGI 다음에는 무엇이 올까?",
-   "url": "https://news.hada.io/topic?id=37558&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "인간 수준의 AGI는 지능의 상한이 아님 . 거의 모든 관심 과제에서 대규모 인간 전문가 집단보다 적은 시간과 자원으로 뛰어난 성과를 내는 범용 초지능(ASI)으로 발전할 가능성이 있으며, 이를 추적할 측정 체계가 필요함 최첨단 모델의 능력 향상이 정체되더라도, 하드웨어와 소프트웨어 효율 개선은 AI를 대규모로 저렴하게 사용하는 인지 산업화 를 이끌 수 있음. 다만 현재 AI의 수와 속도를 늘리는 것만으로 모든 능력의 공백을 메울 수 있는지는 불확실함 ASI로 향하는 경로는 모델과 데이터 확장, 기술 패러다임 전환 , 에이전트 협업",
-   "publishedAt": 1795228659000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46.7,
-   "hot": true
   },
   {
    "title": "Why there are still no non-WebKit browsers on iOS",
@@ -233,11 +247,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 354,
-   "comments": 209,
+   "engagement": 356,
+   "comments": 212,
    "publishedAt": 1795187011000,
    "isAI": false,
-   "score": 46.6,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -251,8 +265,22 @@
    "comments": 243,
    "publishedAt": 1795131335000,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.2,
    "hot": false
+  },
+  {
+   "title": "AGI 다음에는 무엇이 올까?",
+   "url": "https://news.hada.io/topic?id=37558&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "인간 수준의 AGI는 지능의 상한이 아님 . 거의 모든 관심 과제에서 대규모 인간 전문가 집단보다 적은 시간과 자원으로 뛰어난 성과를 내는 범용 초지능(ASI)으로 발전할 가능성이 있으며, 이를 추적할 측정 체계가 필요함 최첨단 모델의 능력 향상이 정체되더라도, 하드웨어와 소프트웨어 효율 개선은 AI를 대규모로 저렴하게 사용하는 인지 산업화 를 이끌 수 있음. 다만 현재 AI의 수와 속도를 늘리는 것만으로 모든 능력의 공백을 메울 수 있는지는 불확실함 ASI로 향하는 경로는 모델과 데이터 확장, 기술 패러다임 전환 , 에이전트 협업",
+   "publishedAt": 1795228659000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 46.2,
+   "hot": true
   },
   {
    "title": "Anthropic, IPO 직후 주가 급락…Nasdaq은 2026년 상승분 반납",
@@ -265,7 +293,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.7,
    "hot": true
   },
   {
@@ -279,7 +307,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 46,
+   "score": 45.5,
    "hot": false
   },
   {
@@ -293,7 +321,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.7,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -303,11 +331,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 493,
+   "engagement": 494,
    "comments": 194,
    "publishedAt": 1795152062000,
    "isAI": false,
-   "score": 45,
+   "score": 44.6,
    "hot": false
   },
   {
@@ -321,7 +349,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -335,22 +363,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.4,
-   "hot": true
-  },
-  {
-   "title": "외력이 없는 Euler와 Navier-Stokes 방정식의 특이점과 일반화 리만 가설",
-   "url": "https://news.hada.io/topic?id=37546&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "AI를 활용한 Euler 방정식, Navier-Stokes 방정식, 일반화 리만 가설의 증명 자료 가 공개됨. 사람이 읽을 수 있는 논증까지 정리된 결과부터, 방대한 Lean 코드의 검증과 해석이 진행 중인 결과까지 단계가 다름 외력이 없는 3차원 비압축성 Euler 방정식의 유한 시간 발산 에 대해 사람이 읽을 수 있는 증명과 Lean 형식화가 작성됨 외력이 없는 3차원 비압축성 Navier-Stokes 방정식의 유한 시간 발산 증명도 Lean 형식화와 함께 나왔으나, 전문적인 수학 증명 문서로 다듬는 작업이 더 필요함 Navie",
-   "publishedAt": 1795210897000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.4,
-   "hot": true
+   "score": 43.9,
+   "hot": false
   },
   {
    "title": "Gemini 4 Neon",
@@ -363,7 +377,7 @@
    "comments": 775,
    "publishedAt": 1795037647000,
    "isAI": true,
-   "score": 44,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -377,7 +391,7 @@
    "comments": 367,
    "publishedAt": 1795105263000,
    "isAI": false,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -391,8 +405,22 @@
    "comments": 323,
    "publishedAt": 1795142653000,
    "isAI": true,
-   "score": 42.2,
+   "score": 41.8,
    "hot": false
+  },
+  {
+   "title": "Backblaze 개인정보 수집 고지 및 개인정보 처리방침",
+   "url": "https://news.hada.io/topic?id=37567&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Backblaze는 데이터 컨트롤러로서 처리하는 개인정보 의 수집, 이용, 공개, 보관 범위와 이용자 권리를 규정함. 웹사이트와 앱뿐 아니라 고객 문의, 거래, 행사, 오프라인 및 제3자를 통한 수집에도 적용됨 직전 12개월 동안 식별자, 인터넷 활동, 상업 정보, 위치 정보 를 광고 네트워크와 분석 제공업체에 판매하거나 교차 맥락 행동 광고 목적으로 공유함 이용자는 “Your Privacy Choices” 또는 Global Privacy Control(GPC) 로 판매/공유 및 타깃 광고를 거부할 수 있음. 비로그인 상태의 요청은",
+   "publishedAt": 1795253653000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -405,7 +433,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -419,7 +447,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -433,7 +461,7 @@
    "comments": 247,
    "publishedAt": 1795102692000,
    "isAI": true,
-   "score": 41.6,
+   "score": 41.2,
    "hot": false
   },
   {
@@ -443,11 +471,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 133,
-   "comments": 41,
+   "engagement": 146,
+   "comments": 42,
    "publishedAt": 1795203016000,
    "isAI": false,
-   "score": 40.6,
+   "score": 41,
    "hot": false
   },
   {
@@ -461,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 40,
    "hot": true
   },
   {
@@ -475,7 +503,7 @@
    "comments": 793,
    "publishedAt": 1795044609000,
    "isAI": true,
-   "score": 39.4,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -485,11 +513,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 104,
+   "engagement": 106,
    "comments": 31,
    "publishedAt": 1795205996000,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -503,7 +531,7 @@
    "comments": 711,
    "publishedAt": 1794984446000,
    "isAI": true,
-   "score": 38.8,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -517,7 +545,21 @@
    "comments": 864,
    "publishedAt": 1794937603000,
    "isAI": true,
-   "score": 38.6,
+   "score": 38.4,
+   "hot": false
+  },
+  {
+   "title": "AI agents ask better questions than KPMG accountants in audit trial",
+   "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50547777",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 497,
+   "comments": 262,
+   "publishedAt": 1795016974000,
+   "isAI": true,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -545,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -559,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -573,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -587,22 +629,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
-  },
-  {
-   "title": "AI agents ask better questions than KPMG accountants in audit trial",
-   "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50547777",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 497,
-   "comments": 262,
-   "publishedAt": 1795016974000,
-   "isAI": true,
-   "score": 38.3,
-   "hot": false
   },
   {
    "title": "항상 작동하는 에이전트 구축하기",
@@ -615,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -629,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.2,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -643,7 +671,7 @@
    "comments": 82,
    "publishedAt": 1795106750000,
    "isAI": true,
-   "score": 38,
+   "score": 37.7,
    "hot": false
   },
   {
@@ -657,7 +685,7 @@
    "comments": 82,
    "publishedAt": 1795040953000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.2,
    "hot": false
   },
   {
@@ -671,22 +699,8 @@
    "comments": 51,
    "publishedAt": 1795107265000,
    "isAI": true,
-   "score": 37.4,
+   "score": 37.1,
    "hot": false
-  },
-  {
-   "title": "Inkling 2 Mini - 노트북에서 실행하는 반복형 트랜스포머 모델",
-   "url": "https://news.hada.io/topic?id=37545&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Thinking Machines Lab이 Inkling 2 Mini 를 오픈 웨이트로 공개함. 총 264억 파라미터의 모델로, 약 20GB 메모리 를 사용해 노트북에서도 로컬 실행이 가능함 중간 레이어를 토큰마다 3회 반복 하는 구조로, 추론을 모두 텍스트로 출력하지 않고 내부 연산을 늘림. 에이전트 코딩처럼 추론 품질이 중요한 작업에서 더 적은 토큰으로 답에 도달하도록 설계함 공개한 평가에서 총 파라미터 1,000억 미만의 오픈 웨이트 모델 중 DeepSWE v1.1 48.2%, Vals Index v2.2 46.5%로 선두 를 ",
-   "publishedAt": 1795210716000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.3,
-   "hot": true
   },
   {
    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
@@ -699,7 +713,7 @@
    "comments": 246,
    "publishedAt": 1795114036000,
    "isAI": true,
-   "score": 37,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -713,21 +727,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.9,
-   "hot": false
-  },
-  {
-   "title": "Oxygene의 제작 과정",
-   "url": "https://news.hada.io/topic?id=37544&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Jean-Michel Jarre의 Oxygène 은 파리 아파트 주방에서 8트랙 녹음기와 제한된 전자악기로 만든 연주 앨범으로, 1976년 프랑스 발매 이후 전 세계 약 2,000만 장 판매에 이름 실험적 사운드와 팝 멜로디의 결합 이 제작의 중심이었으며, 손으로 연주한 시퀀스와 미세하게 바뀌는 음색이 반복되는 패턴에도 생동감을 더함 50주년 기념판 은 2026년 11월 20일 발매 예정이며, 원본 테이프의 특성을 보존하는 새 스테레오 리마스터와 여러 매체별 에디션을 선보임 Dolby Atmos와 5.1 믹스 는 원본 8트랙에서 기",
-   "publishedAt": 1795207102000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 36.9,
+   "score": 36.7,
    "hot": false
   },
   {
@@ -741,7 +741,7 @@
    "comments": 78,
    "publishedAt": 1795048185000,
    "isAI": true,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -755,7 +755,7 @@
    "comments": 565,
    "publishedAt": 1794961078000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -769,7 +769,7 @@
    "comments": 71,
    "publishedAt": 1795094291000,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -783,7 +783,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -797,7 +797,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -811,7 +811,7 @@
    "comments": 44,
    "publishedAt": 1795067796000,
    "isAI": false,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -825,7 +825,7 @@
    "comments": 142,
    "publishedAt": 1795126420000,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -839,7 +839,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.9,
+   "score": 34.5,
    "hot": false
   },
   {
@@ -853,7 +853,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -867,7 +867,7 @@
    "comments": 164,
    "publishedAt": 1795090630000,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -881,7 +881,7 @@
    "comments": 58,
    "publishedAt": 1794994172000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -895,7 +895,35 @@
    "comments": 170,
    "publishedAt": 1795023947000,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217650",
+   "summary": "일론 머스크 CEO의 우주 AI 데이터센터 구상이 자금 조달 과정에서 장애물을 만났다. 스페이스X에 수백억달러 규모의 GPU 구매 자금을 제공하는 채권단이 담보 회수가 어렵다는 이유로 반도체의 우주 반입을 제한하려 한 것으로 알려져, 우주 데이터센터의 경제성을 확보하는 데 금융 문제가 새로운 과제로 떠올랐다.파이낸셜타임스(FT)는 20일(현지시간) 소식통을 인용, 스페이스X의 대규모 GPU 금융 거래에 참여한 채권단이 담보로 제공된 엔비디아 반도체를 우주 궤도로 발사하지 못하도록 계약상 제한을 요구했다고 보도했다.채권단이 문제 삼은",
+   "publishedAt": 1795254959000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217649",
+   "summary": "최첨단 AI가 인간 전문가에게 약 40시간 걸리는 작업까지 수행할 수 있는 수준에 도달했다는 연구 결과가 나왔다. 지난 5월 16시간 이상의 작업 수행 능력을 기록한 데 이어 6개월 만에 평가 수치가 40시간 수준으로 높아진 것으로, AI의 장시간 작업 수행 능력이 빠르게 발전하고 있으며 연구 판단력에서도 개선이 나타나고 있는 것으로 확인됐다.AI 안전성 평가기관 METR은 20일(현지시간) 최신 모델의 연구개발 역량 평가 보고서를 공개하고, 오픈AI의 'GPT-6 아스트라'와 앤트로픽의 '클로드 오퍼스 5.5' 등 최첨단 모델들이",
+   "publishedAt": 1795252847000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -909,7 +937,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -923,7 +951,7 @@
    "comments": 140,
    "publishedAt": 1794975244000,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -937,7 +965,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -951,7 +979,7 @@
    "comments": 92,
    "publishedAt": 1795049840000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -965,7 +993,7 @@
    "comments": 464,
    "publishedAt": 1794950172000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -979,7 +1007,7 @@
    "comments": 70,
    "publishedAt": 1795053088000,
    "isAI": true,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -993,7 +1021,7 @@
    "comments": 79,
    "publishedAt": 1795020082000,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1007,35 +1035,7 @@
    "comments": 127,
    "publishedAt": 1794978690000,
    "isAI": false,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "The Silent Consensus",
-   "url": "https://openai.com/index/the-silent-consensus",
-   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-   "publishedAt": 1794996000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 31.8,
-   "hot": false
-  },
-  {
-   "title": "젠슨 황, 20여년 전부터 직원들에게 폭언·위협…불만 제기 이어져",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217644",
-   "summary": "엔비디아 직원들이 젠슨 황 전 CEO의 폭언과 공개적인 모욕을 동반한 경영 방식에 20여년 전부터 불만을 제기해 온 것으로 드러났다. 엔비디아가 AI 칩 시장을 장악하며 세계적인 기업으로 성장하는 동안에도 직원들을 위협하고 인격적으로 모욕하는 관리 방식이 이어졌다는 증언이 나왔다.뉴욕타임스(NYT)는 20일(현지시간) 전·현직 직원 12명 이상과 법원 기록, 내부 문서 등을 취재한 결과를 보도하며 황 전 CEO가 오랫동안 직원들에게 모욕적인 언행과 폭력적인 위협을 가했다고 전했다.이에 따르면 황 전 CEO는 엔비디아 직원들이 회사의",
-   "publishedAt": 1795229511000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.8,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1049,21 +1049,21 @@
    "comments": 673,
    "publishedAt": 1794754018000,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.6,
    "hot": false
   },
   {
-   "title": "트럼프 \"젠슨 황에 두 번째 기회 줘야\"…CEO 복귀 재촉구",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217646",
-   "summary": "도널드 트럼프 미국 대통령이 젠슨 황 전 엔비디아 CEO의 복귀를 다시 한번 촉구했다. 사생활 문제로 물러났지만 미국 AI 산업의 경쟁력을 위해 다시 기회를 줘야 한다며, 시진핑 중국 국가주석도 황을 높이 평가했다고 전했다.워싱턴포스트와 CNBC에 따르면 트럼프 대통령은 20일(현지시간) 백악관 기자회견에서 황 전 CEO에 대해 \"그는 좋은 사람이다. 몇 가지 잘못된 결정을 내렸지만 매우 뛰어난 인물\"이라고 평가했다.이어 \"그가 두 번째 기회를 얻기 바란다. 우리는 두 번째 기회를 주는 나라\"라며 \"엔비디아가 현명하다면 그 뛰어난",
-   "publishedAt": 1795228670000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
+   "title": "The Silent Consensus",
+   "url": "https://openai.com/index/the-silent-consensus",
+   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+   "publishedAt": 1794996000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
    "engagement": null,
-   "baseWeight": 26,
+   "baseWeight": 50,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1077,7 +1077,35 @@
    "comments": 404,
    "publishedAt": 1794937634000,
    "isAI": false,
-   "score": 31.6,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "\"젠슨 황, 20여년 전부터 직원들에게 폭언·위협\"…불만 제기 이어져",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217644",
+   "summary": "엔비디아 직원들이 젠슨 황 전 CEO의 폭언과 공개적인 모욕을 동반한 경영 방식에 20여년 전부터 불만을 제기해 온 것으로 드러났다. 엔비디아가 AI 칩 시장을 장악하며 세계적인 기업으로 성장하는 동안에도 직원들을 위협하고 인격적으로 모욕하는 관리 방식이 이어졌다는 증언이 나왔다.뉴욕타임스(NYT)는 20일(현지시간) 전·현직 직원 12명 이상과 법원 기록, 내부 문서 등을 취재한 결과를 보도하며 황 전 CEO가 오랫동안 직원들에게 모욕적인 언행과 폭력적인 위협을 가했다고 전했다.이에 따르면 황 전 CEO는 엔비디아 직원들이 회사의",
+   "publishedAt": 1795229511000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "트럼프 \"젠슨 황에 두 번째 기회 줘야\"…CEO 복귀 재촉구",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217646",
+   "summary": "도널드 트럼프 미국 대통령이 젠슨 황 전 엔비디아 CEO의 복귀를 다시 한번 촉구했다. 사생활 문제로 물러났지만 미국 AI 산업의 경쟁력을 위해 다시 기회를 줘야 한다며, 시진핑 중국 국가주석도 황을 높이 평가했다고 전했다.워싱턴포스트와 CNBC에 따르면 트럼프 대통령은 20일(현지시간) 백악관 기자회견에서 황 전 CEO에 대해 \"그는 좋은 사람이다. 몇 가지 잘못된 결정을 내렸지만 매우 뛰어난 인물\"이라고 평가했다.이어 \"그가 두 번째 기회를 얻기 바란다. 우리는 두 번째 기회를 주는 나라\"라며 \"엔비디아가 현명하다면 그 뛰어난",
+   "publishedAt": 1795228670000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1091,21 +1119,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "스페이스X, '커서'의 중국 AI 모델 퇴출 검토",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217643",
-   "summary": "스페이스X의 AI 코딩 플랫폼 커서(Cursor)가 중국산 AI 모델의 사용을 단계적으로 중단하는 방안을 검토하고 있다. 미국 의회가 자국 기술 생태계에서 중국산 AI 모델의 사용 현황을 조사하면서, 기업들의 의존도를 줄이려는 움직임도 본격화하고 있다.CNBC는 20일(현지시간) 미국 하원 국토안보위원회와 중국특별위원회의 공동 보고서를 인용, 커서가 지정학적 위험을 고려해 중국에서 개발된 오픈웨이트 모델의 사용을 단계적으로 축소하는 방안을 검토 중이라고 위원회에 전달했다고 보도했다. 보고서는 미국 기술 생태계에 중국산 AI 모델이",
-   "publishedAt": 1795226487000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1119,7 +1133,21 @@
    "comments": 85,
    "publishedAt": 1795106044000,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.2,
+   "hot": false
+  },
+  {
+   "title": "스페이스X, '커서'의 중국 AI 모델 퇴출 검토",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217643",
+   "summary": "스페이스X의 AI 코딩 플랫폼 커서(Cursor)가 중국산 AI 모델의 사용을 단계적으로 중단하는 방안을 검토하고 있다. 미국 의회가 자국 기술 생태계에서 중국산 AI 모델의 사용 현황을 조사하면서, 기업들의 의존도를 줄이려는 움직임도 본격화하고 있다.CNBC는 20일(현지시간) 미국 하원 국토안보위원회와 중국특별위원회의 공동 보고서를 인용, 커서가 지정학적 위험을 고려해 중국에서 개발된 오픈웨이트 모델의 사용을 단계적으로 축소하는 방안을 검토 중이라고 위원회에 전달했다고 보도했다. 보고서는 미국 기술 생태계에 중국산 AI 모델이",
+   "publishedAt": 1795226487000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1133,35 +1161,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "[AI카툰] Bob, Senior IT guy - 밥, 코스모스의 시작",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217636",
-   "summary": "글·그림 Dr. Alf",
-   "publishedAt": 1795222800000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.2,
-   "hot": false
-  },
-  {
-   "title": "트럼프 \"해외에 데이터센터 짓는 미국 기업에 막대한 세금 부과\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217642",
-   "summary": "도널드 트럼프 미국 대통령이 해외에 데이터센터를 건설하는 미국 기업에 막대한 세금을 부과하겠다고 밝혔다. 미국 내 AI 인프라 투자를 늘리겠다는 취지로, 실제 시행된다면 미국 빅테크 기업들의 글로벌 데이터센터 투자에 상당한 영향을 미칠 전망이다.로이터 등에 따르면 트럼프 대통령은 20일(현지시간) 백악관 기자회견에서 \"우리 기업들이 미국 밖에 데이터센터를 짓도록 허용하지 않을 것\"이라며 해외에 데이터센터를 건설하는 기업에 \"막대한 세금(tremendous tax)\"을 부과하겠다고 밝혔다.그러나 구체적인 세율과 적용 대상, 시행 시기",
-   "publishedAt": 1795222149000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.2,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1175,7 +1175,7 @@
    "comments": 298,
    "publishedAt": 1794935526000,
    "isAI": false,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1189,21 +1189,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false
   },
   {
-   "title": "비수도권 AI 데이터센터, 50MW 이하 전력계통영향평가 면제 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217616",
-   "summary": "정부가 비수도권 AI 데이터센터 가운데 계약전력 50메가와트(MW) 이하 시설에 대한 전력계통영향평가를 면제하는 방안을 추진한다. AI 데이터센터 특구에는 평가 간소화를, 메가프로젝트와 인허가 일괄처리 대상에는 우선 심사를 도입할 계획이다.과학기술정보통신부와 기후에너지환경부는 20일 AI 데이터센터의 신속한 구축을 지원하기 위해 전력계통영향평가 제도를 개선한다고 밝혔다.정부는 이날 '인공지능 데이터센터 산업 진흥에 관한 특별법(AIDC 특별법)' 시행령을 입법예고하고, 비수도권에 신축·증축하거나 기존 시설을 전환하는 AI 데이터센터",
-   "publishedAt": 1795220100000,
+   "title": "[AI카툰] Bob, Senior IT guy - 밥, 코스모스의 시작",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217636",
+   "summary": "글·그림 Dr. Alf",
+   "publishedAt": 1795222800000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31,
+   "score": 30.9,
+   "hot": false
+  },
+  {
+   "title": "트럼프 \"해외에 데이터센터 짓는 미국 기업에 막대한 세금 부과\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217642",
+   "summary": "도널드 트럼프 미국 대통령이 해외에 데이터센터를 건설하는 미국 기업에 막대한 세금을 부과하겠다고 밝혔다. 미국 내 AI 인프라 투자를 늘리겠다는 취지로, 실제 시행된다면 미국 빅테크 기업들의 글로벌 데이터센터 투자에 상당한 영향을 미칠 전망이다.로이터 등에 따르면 트럼프 대통령은 20일(현지시간) 백악관 기자회견에서 \"우리 기업들이 미국 밖에 데이터센터를 짓도록 허용하지 않을 것\"이라며 해외에 데이터센터를 건설하는 기업에 \"막대한 세금(tremendous tax)\"을 부과하겠다고 밝혔다.그러나 구체적인 세율과 적용 대상, 시행 시기",
+   "publishedAt": 1795222149000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1217,7 +1231,21 @@
    "comments": 765,
    "publishedAt": 1794929908000,
    "isAI": false,
-   "score": 30.9,
+   "score": 30.7,
+   "hot": false
+  },
+  {
+   "title": "비수도권 AI 데이터센터, 50MW 이하 전력계통영향평가 면제 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217616",
+   "summary": "정부가 비수도권 AI 데이터센터 가운데 계약전력 50메가와트(MW) 이하 시설에 대한 전력계통영향평가를 면제하는 방안을 추진한다. AI 데이터센터 특구에는 평가 간소화를, 메가프로젝트와 인허가 일괄처리 대상에는 우선 심사를 도입할 계획이다.과학기술정보통신부와 기후에너지환경부는 20일 AI 데이터센터의 신속한 구축을 지원하기 위해 전력계통영향평가 제도를 개선한다고 밝혔다.정부는 이날 '인공지능 데이터센터 산업 진흥에 관한 특별법(AIDC 특별법)' 시행령을 입법예고하고, 비수도권에 신축·증축하거나 기존 시설을 전환하는 AI 데이터센터",
+   "publishedAt": 1795220100000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.7,
    "hot": false
   },
   {
@@ -1231,7 +1259,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1245,34 +1273,6 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.8,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-   "url": "https://foolscap.works/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50559749",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 121,
-   "comments": 93,
-   "publishedAt": 1795094480000,
-   "isAI": false,
-   "score": 30.5,
-   "hot": false
-  },
-  {
-   "title": "Unreal Tournament 2004 in the Browser",
-   "url": "https://ut2004.dev/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50554935",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 190,
-   "comments": 96,
-   "publishedAt": 1795051769000,
-   "isAI": false,
    "score": 30.5,
    "hot": false
   },
@@ -1287,21 +1287,35 @@
    "comments": 76,
    "publishedAt": 1794973663000,
    "isAI": true,
-   "score": 30.5,
+   "score": 30.4,
    "hot": false
   },
   {
-   "title": "The Gemini app is now available on lower-memory Android devices.",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-   "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-   "publishedAt": 1795021200000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
+   "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+   "url": "https://foolscap.works/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50559749",
+   "source": "Hacker News",
+   "sourceType": "community",
    "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 30.4,
+   "engagement": 122,
+   "comments": 93,
+   "publishedAt": 1795094480000,
+   "isAI": false,
+   "score": 30.3,
+   "hot": false
+  },
+  {
+   "title": "Unreal Tournament 2004 in the Browser",
+   "url": "https://ut2004.dev/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50554935",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 190,
+   "comments": 96,
+   "publishedAt": 1795051769000,
+   "isAI": false,
+   "score": 30.3,
    "hot": false
   },
   {
@@ -1315,35 +1329,21 @@
    "comments": 108,
    "publishedAt": 1794957529000,
    "isAI": false,
-   "score": 30.3,
+   "score": 30.2,
    "hot": false
   },
   {
-   "title": "Google rolls out new search homepage with AI chat history and no search button",
-   "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-   "summary": "Google search is making it even easier to access AI tools on the search page.",
-   "publishedAt": 1795211909000,
-   "source": "Ars Technica",
-   "sourceType": "media",
+   "title": "The Gemini app is now available on lower-memory Android devices.",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+   "publishedAt": 1795021200000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
    "lang": "en",
    "engagement": null,
-   "baseWeight": 26,
+   "baseWeight": 45,
    "isAI": true,
-   "score": 30.3,
-   "hot": false
-  },
-  {
-   "title": "[11월20일] 구글 \"AGI는 끝이 아니다\"…AGI 이후 4가지 발전 경로 제시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217605",
-   "summary": "그동안 AI 업계의 관심은 'AGI가 언제 등장할 것인가'에 집중돼 왔습니다. 그러나 최근 AI 발전이 빨라지고 2030년 무렵 AGI에 도달할 것이라는 전망까지 나오면서, 논의는 'AGI 이후에는 무엇이 일어날 것인가'로 이어지고 있습니다.이런 가운데 구글 딥마인드가 AGI 이후 AI가 발전할 수 있는 네 가지 기술적 경로를 제시했습니다. 인간 수준의 지능을 확보하더라도 AI의 발전은 멈추지 않으며, 인간 전문가 집단의 능력까지 뛰어넘는 새로운 단계로 진입할 수 있다는 것입니다.구글 딥마인드의 팀 게네바인 연구원은 19일(현지시간",
-   "publishedAt": 1795212000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.3,
+   "score": 30.2,
    "hot": false
   },
   {
@@ -1357,21 +1357,35 @@
    "comments": 235,
    "publishedAt": 1794910840000,
    "isAI": true,
-   "score": 30.2,
+   "score": 30.1,
    "hot": false
   },
   {
-   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-   "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-   "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
-   "publishedAt": 1795211230000,
+   "title": "Google rolls out new search homepage with AI chat history and no search button",
+   "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+   "summary": "Google search is making it even easier to access AI tools on the search page.",
+   "publishedAt": 1795211909000,
    "source": "Ars Technica",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.2,
+   "score": 30,
+   "hot": false
+  },
+  {
+   "title": "[11월20일] 구글 \"AGI는 끝이 아니다\"…AGI 이후 4가지 발전 경로 제시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217605",
+   "summary": "그동안 AI 업계의 관심은 'AGI가 언제 등장할 것인가'에 집중돼 왔습니다. 그러나 최근 AI 발전이 빨라지고 2030년 무렵 AGI에 도달할 것이라는 전망까지 나오면서, 논의는 'AGI 이후에는 무엇이 일어날 것인가'로 이어지고 있습니다.이런 가운데 구글 딥마인드가 AGI 이후 AI가 발전할 수 있는 네 가지 기술적 경로를 제시했습니다. 인간 수준의 지능을 확보하더라도 AI의 발전은 멈추지 않으며, 인간 전문가 집단의 능력까지 뛰어넘는 새로운 단계로 진입할 수 있다는 것입니다.구글 딥마인드의 팀 게네바인 연구원은 19일(현지시간",
+   "publishedAt": 1795212000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30,
    "hot": false
   },
   {
@@ -1385,21 +1399,7 @@
    "comments": 93,
    "publishedAt": 1795017883000,
    "isAI": false,
-   "score": 30.1,
-   "hot": false
-  },
-  {
-   "title": "Explore the Codex Security Plugin",
-   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-   "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-   "publishedAt": 1795046400000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": false,
-   "score": 30.1,
+   "score": 29.9,
    "hot": false
   }
  ]
