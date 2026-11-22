@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795320278053,
+ "updatedAt": 1795323922901,
  "week": "2026-W47",
  "items": [
   {
@@ -13,7 +13,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.7,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -27,7 +27,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.1,
    "hot": true
   },
   {
@@ -41,7 +41,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.6,
    "hot": true
   },
   {
@@ -52,10 +52,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 669,
-   "comments": 356,
+   "comments": 357,
    "publishedAt": 1795168901000,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.8,
    "hot": false
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 504,
-   "comments": 882,
+   "engagement": 506,
+   "comments": 885,
    "publishedAt": 1795181399000,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.3,
    "hot": false
   },
   {
@@ -83,7 +83,7 @@
    "comments": 336,
    "publishedAt": 1795167736000,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.7,
    "hot": false
   },
   {
@@ -93,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 825,
+   "engagement": 826,
    "comments": 620,
    "publishedAt": 1795190790000,
    "isAI": false,
-   "score": 45.4,
+   "score": 45,
    "hot": false
   },
   {
@@ -111,7 +111,7 @@
    "comments": 51,
    "publishedAt": 1795239481000,
    "isAI": true,
-   "score": 45.1,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -125,7 +125,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.5,
    "hot": true
   },
   {
@@ -139,7 +139,7 @@
    "comments": 2321,
    "publishedAt": 1795107760000,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.3,
    "hot": false
   },
   {
@@ -149,25 +149,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 280,
+   "engagement": 281,
    "comments": 228,
    "publishedAt": 1795193967000,
    "isAI": true,
-   "score": 44.1,
-   "hot": false
-  },
-  {
-   "title": "추론 칩을 바이브 코딩하기",
-   "url": "https://news.hada.io/topic?id=37581&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "FPGA 개발 경험이 없는 상태에서 회로 구성을 바꿀 수 있는 AWS FPGA에 코딩 에이전트로 LLM 추론을 구현 함. 기준 출력과 비트 단위로 일치하는 최초 구현보다 약 33배 빠른 초당 213토큰 에 도달 Conductor에서 며칠간 실행한 에이전트는 수백 차례 실험하며 누적 약 300만 줄의 코드 를 작성하고 3,000만 줄의 출력 파일을 분석했으며, 토큰 비용으로 약 1만 달러 를 사용함 성능 향상은 한두 번의 큰 변화보다 메모리 접근, 병렬화, 파이프라인, 추측 디코딩 의 점진적 개선이 누적된 결과이며, 최종 속도는 21",
-   "publishedAt": 1795271927000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 43.5,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -177,12 +163,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 112,
-   "comments": 23,
+   "engagement": 118,
+   "comments": 28,
    "publishedAt": 1795295873000,
    "isAI": false,
    "score": 42,
    "hot": false
+  },
+  {
+   "title": "내 미술 작품 웹사이트의 기술 아키텍처가 꽤 마음에 든다",
+   "url": "https://news.hada.io/topic?id=37607&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "방문자에게는 정적 사이트처럼 제공 하면서, 운영자는 웹 기반 CRUD UI로 작품과 메타데이터를 수정하는 미술 작품 사이트를 구현함 서버에서 생성한 HTML을 Cloudflare에 30일간 캐시 하고, 작품 업로드나 태그 변경 같은 쓰기 작업이 발생하면 모든 페이지 캐시를 무효화함 이미지 축소본은 요청 시점이 아니라 업로드 시 운영자 브라우저에서 미리 생성 하며, 원본과 함께 Cloudflare R2에 저장함 작품 메타데이터는 단일 JSON 파일 로 관리하며, 서버의 페이지 생성과 클라이언트의 지도 등 읽기 전용 인터랙션에 활용함 ",
+   "publishedAt": 1795322038000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.8,
+   "hot": true
   },
   {
    "title": "Why there are still no non-WebKit browsers on iOS",
@@ -191,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 510,
-   "comments": 282,
+   "engagement": 524,
+   "comments": 284,
    "publishedAt": 1795187011000,
    "isAI": false,
-   "score": 41.8,
+   "score": 41.6,
    "hot": false
   },
   {
@@ -205,11 +205,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 175,
-   "comments": 87,
+   "engagement": 177,
+   "comments": 88,
    "publishedAt": 1795257237000,
    "isAI": false,
-   "score": 41.3,
+   "score": 41,
    "hot": true
   },
   {
@@ -223,7 +223,7 @@
    "comments": 74,
    "publishedAt": 1795198516000,
    "isAI": true,
-   "score": 41.3,
+   "score": 41,
    "hot": false
   },
   {
@@ -237,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -251,21 +251,7 @@
    "comments": 249,
    "publishedAt": 1795105818000,
    "isAI": true,
-   "score": 41,
-   "hot": false
-  },
-  {
-   "title": "Backblaze Notice at Collection and Privacy Policy",
-   "url": "https://www.backblaze.com/company/policy/privacy",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50585593",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 235,
-   "comments": 86,
-   "publishedAt": 1795231396000,
-   "isAI": false,
-   "score": 40.8,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -279,7 +265,21 @@
    "comments": 274,
    "publishedAt": 1795109444000,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.5,
+   "hot": false
+  },
+  {
+   "title": "Backblaze Notice at Collection and Privacy Policy",
+   "url": "https://www.backblaze.com/company/policy/privacy",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50585593",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 237,
+   "comments": 86,
+   "publishedAt": 1795231396000,
+   "isAI": false,
+   "score": 40.4,
    "hot": false
   },
   {
@@ -293,7 +293,7 @@
    "comments": 246,
    "publishedAt": 1795131335000,
    "isAI": true,
-   "score": 40.1,
+   "score": 39.8,
    "hot": false
   },
   {
@@ -307,7 +307,7 @@
    "comments": 165,
    "publishedAt": 1795206161000,
    "isAI": false,
-   "score": 40,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -321,7 +321,7 @@
    "comments": 775,
    "publishedAt": 1795037647000,
    "isAI": true,
-   "score": 39.2,
+   "score": 39,
    "hot": false
   },
   {
@@ -335,7 +335,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.2,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -349,7 +349,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 39,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -360,10 +360,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 190,
-   "comments": 90,
+   "comments": 91,
    "publishedAt": 1795228839000,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.6,
    "hot": false
   },
   {
@@ -377,7 +377,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -391,8 +391,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
+  },
+  {
+   "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+   "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50570479",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 503,
+   "comments": 205,
+   "publishedAt": 1795152062000,
+   "isAI": false,
+   "score": 38.2,
+   "hot": false
   },
   {
    "title": "binder.c 제거, Android Binder의 C 구현을 Rust로 대체",
@@ -405,22 +419,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
-  },
-  {
-   "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-   "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50570479",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 502,
-   "comments": 205,
-   "publishedAt": 1795152062000,
-   "isAI": false,
-   "score": 38.5,
-   "hot": false
   },
   {
    "title": "AI is giving everyone the same advice",
@@ -433,7 +433,7 @@
    "comments": 49,
    "publishedAt": 1795193885000,
    "isAI": true,
-   "score": 38.4,
+   "score": 38.1,
    "hot": false
   },
   {
@@ -447,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 38,
    "hot": true
   },
   {
@@ -461,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.7,
    "hot": true
   },
   {
@@ -475,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -489,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -503,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.2,
    "hot": true
   },
   {
@@ -517,7 +517,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -531,8 +531,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "데릭 로: 아지드화 납 더미 폭파",
@@ -545,8 +545,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.2,
-   "hot": true
+   "score": 36.9,
+   "hot": false
   },
   {
    "title": "UK government forced to admit it issued Apple a secret encryption order",
@@ -559,7 +559,7 @@
    "comments": 378,
    "publishedAt": 1795105263000,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -573,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.9,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -587,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -601,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 36.6,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -615,7 +615,7 @@
    "comments": 342,
    "publishedAt": 1795142653000,
    "isAI": true,
-   "score": 36.4,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -625,11 +625,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 181,
+   "engagement": 182,
    "comments": 52,
    "publishedAt": 1795203016000,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -639,11 +639,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 270,
+   "engagement": 271,
    "comments": 248,
    "publishedAt": 1795102692000,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -657,7 +657,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.1,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -671,21 +671,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 36.1,
-   "hot": false
-  },
-  {
-   "title": "Here are the top AI agents that can live in your text messages",
-   "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-   "publishedAt": 1795280400000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.6,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -699,14 +685,14 @@
    "comments": 864,
    "publishedAt": 1794937603000,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.3,
    "hot": false
   },
   {
-   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-   "publishedAt": 1795276800000,
+   "title": "Here are the top AI agents that can live in your text messages",
+   "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "publishedAt": 1795280400000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
@@ -727,7 +713,21 @@
    "comments": 713,
    "publishedAt": 1794984446000,
    "isAI": true,
-   "score": 35.1,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "publishedAt": 1795276800000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -741,7 +741,7 @@
    "comments": 798,
    "publishedAt": 1795044609000,
    "isAI": true,
-   "score": 35,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -755,63 +755,7 @@
    "comments": 262,
    "publishedAt": 1795016974000,
    "isAI": true,
-   "score": 34.3,
-   "hot": false
-  },
-  {
-   "title": "싱킹머신즈, 노트북서 구동하는 264억 매개변수 '잉클링 2 미니' 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217656",
-   "summary": "싱킹머신즈(Thinking Machines Lab)가 노트북에서도 실행할 수 있는 소형 AI 모델 '잉클링 2 미니(Inkling 2 Mini)'를 공개했다. 전체 매개변수는 264억개지만, 신경망의 중간 계층을 반복 실행하는 새로운 구조를 적용해 1000억개 미만 오픈웨이트 모델 가운데 최고 수준의 코딩 성능을 확보했다.싱킹머신즈는 20일(현지시간) ‘잉클링 2 미니’의 가중치를 공개하고, 허깅페이스와 자체 모델 플랫폼 '팅커(Tinker)'를 통해 제공한다고 밝혔다.전체 매개변수는 264억개이며, 전문가 혼합(MoE) 구조를 통",
-   "publishedAt": 1795316977000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 음성 모델 'GPT-라이브-1.1' 출시…대기 요금 60% 인하",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217655",
-   "summary": "오픈AI가 음성 에이전트 개발을 위한 실시간 음성 모델 'GPT-라이브-1.1(GPT-Live-1.1)'을 API로 출시했다. 다국어 발음과 음성 인식, 지시 수행 능력을 개선한 데 이어, 대화가 없는 유휴 시간의 이용 요금을 분당 0.02달러로 낮춰 음성 에이전트 운영 비용도 절감할 수 있도록 했다.오픈AI는 19일(현지시간) 개발자 커뮤니티를 통해 GPT-라이브-1.1의 API 제공을 발표했다. 이에 따라 개발자들은 새 모델을 자체 음성 서비스에 적용할 수 있게 됐다.이번 모델은 기존 GPT-라이브-1보다 여러 언어에서 자연스럽",
-   "publishedAt": 1795316465000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "오라클 \"오픈AI 데이터센터 계약 자금 확보 완료\"…추가 조달 우려 반박",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217661",
-   "summary": "오라클이 오픈AI와 체결한 AI 인프라 구축 계약에 필요한 자금 조달을 모두 마쳤다고 밝혔다. 대규모 데이터센터 투자에 따른 자금 부담과 오픈AI에 대한 위험 노출을 우려하는 투자자들을 안심시키려는 조치다.오라클은 20일(현지시간) 공식 발표를 통해 이달 초 마무리한 최종 자금 조달로 오픈AI 인프라 계약의 재원을 모두 확보했다고 밝혔다.공급업체 금융을 포함한 기존 조달 계획이 마련됐으며, 공급업체들과 진행하는 추가 협상은 선택지를 넓히기 위한 것일 뿐 계약 이행에 필요한 조건은 아니라고 강조했다. 추가 자금 조달이 필요하다는 언론",
-   "publishedAt": 1795316017000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "Show HN: OpenComputer – an open source alternative to Devin",
-   "url": "https://github.com/diggerhq/opencomputer",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50581403",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 118,
-   "comments": 36,
-   "publishedAt": 1795205996000,
-   "isAI": false,
-   "score": 33.5,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -825,21 +769,63 @@
    "comments": 565,
    "publishedAt": 1794961078000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
-   "title": "오픈AI, 챗GPT 플러스 구독자에 '닷츠' 확대...비즈니스 스탠더드도 지원",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217659",
-   "summary": "오픈AI가 상시 작동형 AI 에이전트 '닷츠(Dots)'를 월 20달러 요금제인 챗GPT 플러스 구독자 일부에게 제공하기 시작했다. 기존에는 프로 등 상위 요금제 사용자 중심으로 제공했지만, 일반 유료 구독자로 접근 범위를 넓히는 것이다.티보 소티오 오픈AI 챗GPT·코덱스 책임자는 19일(현지시간) X를 통해 \"소수의 챗GPT 플러스 사용자를 대상으로 닷츠 테스트를 시작한다\"고 밝혔다. 이어 \"기능을 개선한 뒤 에이전트의 선제 대응 능력에 대한 긍정적인 평가가 늘고 있다\"며 사용자 피드백을 기대한다고 덧붙였다.플러스 가입자 대상",
-   "publishedAt": 1795314250000,
+   "title": "싱킹머신즈, 노트북서 구동하는 264억 매개변수 '잉클링 2 미니' 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217656",
+   "summary": "싱킹머신즈(Thinking Machines Lab)가 노트북에서도 실행할 수 있는 소형 AI 모델 '잉클링 2 미니(Inkling 2 Mini)'를 공개했다. 전체 매개변수는 264억개지만, 신경망의 중간 계층을 반복 실행하는 새로운 구조를 적용해 1000억개 미만 오픈웨이트 모델 가운데 최고 수준의 코딩 성능을 확보했다.싱킹머신즈는 20일(현지시간) ‘잉클링 2 미니’의 가중치를 공개하고, 허깅페이스와 자체 모델 플랫폼 '팅커(Tinker)'를 통해 제공한다고 밝혔다.전체 매개변수는 264억개이며, 전문가 혼합(MoE) 구조를 통",
+   "publishedAt": 1795316977000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "Show HN: OpenComputer – an open source alternative to Devin",
+   "url": "https://github.com/diggerhq/opencomputer",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50581403",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 118,
+   "comments": 36,
+   "publishedAt": 1795205996000,
+   "isAI": false,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 음성 모델 'GPT-라이브-1.1' 출시…대기 요금 60% 인하",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217655",
+   "summary": "오픈AI가 음성 에이전트 개발을 위한 실시간 음성 모델 'GPT-라이브-1.1(GPT-Live-1.1)'을 API로 출시했다. 다국어 발음과 음성 인식, 지시 수행 능력을 개선한 데 이어, 대화가 없는 유휴 시간의 이용 요금을 분당 0.02달러로 낮춰 음성 에이전트 운영 비용도 절감할 수 있도록 했다.오픈AI는 19일(현지시간) 개발자 커뮤니티를 통해 GPT-라이브-1.1의 API 제공을 발표했다. 이에 따라 개발자들은 새 모델을 자체 음성 서비스에 적용할 수 있게 됐다.이번 모델은 기존 GPT-라이브-1보다 여러 언어에서 자연스럽",
+   "publishedAt": 1795316465000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
+   "hot": false
+  },
+  {
+   "title": "오라클 \"오픈AI 데이터센터 계약 자금 확보 완료\"…추가 조달 우려 반박",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217661",
+   "summary": "오라클이 오픈AI와 체결한 AI 인프라 구축 계약에 필요한 자금 조달을 모두 마쳤다고 밝혔다. 대규모 데이터센터 투자에 따른 자금 부담과 오픈AI에 대한 위험 노출을 우려하는 투자자들을 안심시키려는 조치다.오라클은 20일(현지시간) 공식 발표를 통해 이달 초 마무리한 최종 자금 조달로 오픈AI 인프라 계약의 재원을 모두 확보했다고 밝혔다.공급업체 금융을 포함한 기존 조달 계획이 마련됐으며, 공급업체들과 진행하는 추가 협상은 선택지를 넓히기 위한 것일 뿐 계약 이행에 필요한 조건은 아니라고 강조했다. 추가 자금 조달이 필요하다는 언론",
+   "publishedAt": 1795316017000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -853,7 +839,21 @@
    "comments": 82,
    "publishedAt": 1795040953000,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 챗GPT 플러스 구독자에 '닷츠' 확대...비즈니스 스탠더드도 지원",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217659",
+   "summary": "오픈AI가 상시 작동형 AI 에이전트 '닷츠(Dots)'를 월 20달러 요금제인 챗GPT 플러스 구독자 일부에게 제공하기 시작했다. 기존에는 프로 등 상위 요금제 사용자 중심으로 제공했지만, 일반 유료 구독자로 접근 범위를 넓히는 것이다.티보 소티오 오픈AI 챗GPT·코덱스 책임자는 19일(현지시간) X를 통해 \"소수의 챗GPT 플러스 사용자를 대상으로 닷츠 테스트를 시작한다\"고 밝혔다. 이어 \"기능을 개선한 뒤 에이전트의 선제 대응 능력에 대한 긍정적인 평가가 늘고 있다\"며 사용자 피드백을 기대한다고 덧붙였다.플러스 가입자 대상",
+   "publishedAt": 1795314250000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
    "hot": false
   },
   {
@@ -867,7 +867,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 33,
    "hot": false
   },
   {
@@ -881,7 +881,7 @@
    "comments": 82,
    "publishedAt": 1795106750000,
    "isAI": true,
-   "score": 33,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -895,21 +895,7 @@
    "comments": 78,
    "publishedAt": 1795048185000,
    "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217654",
-   "summary": "오픈AI와 앤트로픽이 하루 간격으로 '챗GPT'와 '클로드'의 모바일 앱을 개편했다. 개인 AI 에이전트와 코딩, 프로젝트 관리 기능을 전면에 배치해 이용자가 스마트폰에서도 AI에 작업을 맡기고 진행 상황을 확인하기 쉽게 만들었다.오픈AI는 19일(현지시간) 공식 릴리스 노트를 통해 챗GPT의 새로운 모바일 디자인을 일부 이용자에게 제공하기 시작했다고 밝혔다. 앤트로픽도 20일 공식 공지를 통해 클로드 모바일 앱의 새 디자인을 순차 배포한다고 발표했다.두 회사 모두 기존 대화창과 사이드바 중심의 화면을 바꿔 주요 기능을 하단 메뉴에",
-   "publishedAt": 1795306175000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -923,21 +909,21 @@
    "comments": 51,
    "publishedAt": 1795107265000,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false
   },
   {
-   "title": "LGU+ 조직개편...\"AI 사업 성과 창출 가속\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217651",
-   "summary": "LG유플러스가 AI 사업의 본격적인 성과 창출과 통신 본업의 경쟁력 강화를 목표로 2027년 조직개편을 단행했다고 밝혔다. 급변하는 AI 시장 환경에 민첩하게 대응하고, 핵심 사업의 실행력을 높이기 위해 사업과 기술 전반의 조직 체계를 재정비했다는 설명이다.22일 발표에 따르면, 이번 조직개편의 핵심은 ‘AI 사업 실행력 강화’와 ‘기술 역량 결집’이다. AI 인프라와 플랫폼을 중심으로 사업조직을 재편해 사업별 전문성을 높이고, 분산된 AI 연구·개발 역량을 통합해 기술 경쟁력을 강화하는 데 초점을 맞췄다. 아울러 유사·중복 기능을",
-   "publishedAt": 1795305600000,
+   "title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217654",
+   "summary": "오픈AI와 앤트로픽이 하루 간격으로 '챗GPT'와 '클로드'의 모바일 앱을 개편했다. 개인 AI 에이전트와 코딩, 프로젝트 관리 기능을 전면에 배치해 이용자가 스마트폰에서도 AI에 작업을 맡기고 진행 상황을 확인하기 쉽게 만들었다.오픈AI는 19일(현지시간) 공식 릴리스 노트를 통해 챗GPT의 새로운 모바일 디자인을 일부 이용자에게 제공하기 시작했다고 밝혔다. 앤트로픽도 20일 공식 공지를 통해 클로드 모바일 앱의 새 디자인을 순차 배포한다고 발표했다.두 회사 모두 기존 대화창과 사이드바 중심의 화면을 바꿔 주요 기능을 하단 메뉴에",
+   "publishedAt": 1795306175000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -951,7 +937,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "LGU+ 조직개편...\"AI 사업 성과 창출 가속\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217651",
+   "summary": "LG유플러스가 AI 사업의 본격적인 성과 창출과 통신 본업의 경쟁력 강화를 목표로 2027년 조직개편을 단행했다고 밝혔다. 급변하는 AI 시장 환경에 민첩하게 대응하고, 핵심 사업의 실행력을 높이기 위해 사업과 기술 전반의 조직 체계를 재정비했다는 설명이다.22일 발표에 따르면, 이번 조직개편의 핵심은 ‘AI 사업 실행력 강화’와 ‘기술 역량 결집’이다. AI 인프라와 플랫폼을 중심으로 사업조직을 재편해 사업별 전문성을 높이고, 분산된 AI 연구·개발 역량을 통합해 기술 경쟁력을 강화하는 데 초점을 맞췄다. 아울러 유사·중복 기능을",
+   "publishedAt": 1795305600000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -965,7 +965,7 @@
    "comments": 258,
    "publishedAt": 1795114036000,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -975,11 +975,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 320,
+   "engagement": 321,
    "comments": 71,
    "publishedAt": 1795094291000,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -989,11 +989,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 406,
+   "engagement": 407,
    "comments": 45,
    "publishedAt": 1795067796000,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1007,21 +1007,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217653",
-   "summary": "손정의 소프트뱅크 회장이 SK하이닉스를 1조달러(약 1350조원)에 인수하는 초대형 거래를 검토한 것으로 알려졌다. AI 반도체 공급망의 핵심인 고대역폭메모리(HBM) 사업까지 확보하려는 구상이었지만, 막대한 인수 자금과 한국 정부의 승인 문제 등으로 현재는 추진하지 않고 있다.디 인포메이션은 20일(현지시간) 복수의 소식통을 인용, 손 회장이 최근 월가 금융기관들과 접촉해 SK하이닉스 인수에 필요한 자금 조달 가능성을 타진했다고 보도했다.소프트뱅크 대변인은 \"회사는 다양한 기회를 검토하고 있으며, 이번 거래는 더 이상 적극적으로",
-   "publishedAt": 1795294785000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.5,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1035,7 +1021,21 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.2,
+   "hot": false
+  },
+  {
+   "title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217653",
+   "summary": "손정의 소프트뱅크 회장이 SK하이닉스를 1조달러(약 1350조원)에 인수하는 초대형 거래를 검토한 것으로 알려졌다. AI 반도체 공급망의 핵심인 고대역폭메모리(HBM) 사업까지 확보하려는 구상이었지만, 막대한 인수 자금과 한국 정부의 승인 문제 등으로 현재는 추진하지 않고 있다.디 인포메이션은 20일(현지시간) 복수의 소식통을 인용, 손 회장이 최근 월가 금융기관들과 접촉해 SK하이닉스 인수에 필요한 자금 조달 가능성을 타진했다고 보도했다.소프트뱅크 대변인은 \"회사는 다양한 기회를 검토하고 있으며, 이번 거래는 더 이상 적극적으로",
+   "publishedAt": 1795294785000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1049,7 +1049,7 @@
    "comments": 59,
    "publishedAt": 1794994172000,
    "isAI": true,
-   "score": 31.1,
+   "score": 31,
    "hot": false
   },
   {
@@ -1063,7 +1063,7 @@
    "comments": 147,
    "publishedAt": 1795126420000,
    "isAI": false,
-   "score": 30.8,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1077,7 +1077,7 @@
    "comments": 170,
    "publishedAt": 1795023947000,
    "isAI": true,
-   "score": 30.8,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1091,7 +1091,7 @@
    "comments": 673,
    "publishedAt": 1794754018000,
    "isAI": true,
-   "score": 30.4,
+   "score": 30.3,
    "hot": false
   },
   {
@@ -1105,7 +1105,7 @@
    "comments": 164,
    "publishedAt": 1795090630000,
    "isAI": true,
-   "score": 30.2,
+   "score": 30,
    "hot": false
   },
   {
@@ -1118,34 +1118,6 @@
    "engagement": 285,
    "comments": 140,
    "publishedAt": 1794975244000,
-   "isAI": true,
-   "score": 29.9,
-   "hot": false
-  },
-  {
-   "title": "A tale of two Nvidias",
-   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-   "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-   "publishedAt": 1795295262000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": false,
-   "score": 29.7,
-   "hot": false
-  },
-  {
-   "title": "Can Anthropic afford to put safety first?",
-   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-   "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver",
-   "publishedAt": 1795273200000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
    "isAI": true,
    "score": 29.7,
    "hot": false
@@ -1161,7 +1133,35 @@
    "comments": 465,
    "publishedAt": 1794950172000,
    "isAI": true,
-   "score": 29.6,
+   "score": 29.5,
+   "hot": false
+  },
+  {
+   "title": "A tale of two Nvidias",
+   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+   "publishedAt": 1795295262000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": false,
+   "score": 29.4,
+   "hot": false
+  },
+  {
+   "title": "Can Anthropic afford to put safety first?",
+   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver",
+   "publishedAt": 1795273200000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 29.4,
    "hot": false
   },
   {
@@ -1175,21 +1175,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 29.2,
-   "hot": false
-  },
-  {
-   "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-   "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-   "publishedAt": 1795203128000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 29.1,
+   "score": 29,
    "hot": false
   },
   {
@@ -1203,7 +1189,21 @@
    "comments": 405,
    "publishedAt": 1794937634000,
    "isAI": false,
-   "score": 29,
+   "score": 28.9,
+   "hot": false
+  },
+  {
+   "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+   "publishedAt": 1795203128000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 28.9,
    "hot": false
   },
   {
@@ -1213,11 +1213,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 519,
+   "engagement": 520,
    "comments": 127,
    "publishedAt": 1794978690000,
    "isAI": false,
-   "score": 28.9,
+   "score": 28.8,
    "hot": false
   },
   {
@@ -1231,7 +1231,7 @@
    "comments": 92,
    "publishedAt": 1795049840000,
    "isAI": true,
-   "score": 28.8,
+   "score": 28.6,
    "hot": false
   },
   {
@@ -1244,20 +1244,6 @@
    "lang": "en",
    "engagement": null,
    "baseWeight": 50,
-   "isAI": true,
-   "score": 28.7,
-   "hot": false
-  },
-  {
-   "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
-   "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50548485",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 148,
-   "comments": 80,
-   "publishedAt": 1795020082000,
    "isAI": true,
    "score": 28.6,
    "hot": false
@@ -1273,7 +1259,21 @@
    "comments": 298,
    "publishedAt": 1794935526000,
    "isAI": false,
-   "score": 28.6,
+   "score": 28.5,
+   "hot": false
+  },
+  {
+   "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+   "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50548485",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 148,
+   "comments": 80,
+   "publishedAt": 1795020082000,
+   "isAI": true,
+   "score": 28.4,
    "hot": false
   },
   {
@@ -1287,7 +1287,7 @@
    "comments": 70,
    "publishedAt": 1795053088000,
    "isAI": true,
-   "score": 28.5,
+   "score": 28.3,
    "hot": false
   },
   {
@@ -1301,7 +1301,7 @@
    "comments": 767,
    "publishedAt": 1794929908000,
    "isAI": false,
-   "score": 28.4,
+   "score": 28.3,
    "hot": false
   },
   {
@@ -1315,7 +1315,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 28.4,
+   "score": 28.3,
    "hot": false
   },
   {
@@ -1329,7 +1329,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 28.2,
+   "score": 28,
    "hot": false
   },
   {
@@ -1343,21 +1343,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 28.2,
-   "hot": false
-  },
-  {
-   "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217649",
-   "summary": "최첨단 AI가 인간 전문가에게 약 40시간 걸리는 작업까지 수행할 수 있는 수준에 도달했다는 연구 결과가 나왔다. 지난 5월 16시간 이상의 작업 수행 능력을 기록한 데 이어 6개월 만에 평가 수치가 40시간 수준으로 높아진 것으로, AI의 장시간 작업 수행 능력이 빠르게 발전하고 있으며 연구 판단력에서도 개선이 나타나고 있는 것으로 확인됐다.AI 안전성 평가기관 METR은 20일(현지시간) 최신 모델의 연구개발 역량 평가 보고서를 공개하고, 오픈AI의 'GPT-6 아스트라'와 앤트로픽의 '클로드 오퍼스 5.5' 등 최첨단 모델들이",
-   "publishedAt": 1795252847000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 28.1,
+   "score": 28,
    "hot": false
   },
   {
@@ -1371,19 +1357,19 @@
    "comments": 235,
    "publishedAt": 1794910840000,
    "isAI": true,
-   "score": 27.9,
+   "score": 27.8,
    "hot": false
   },
   {
-   "title": "Six AI-powered gadgets that could make your home office smarter",
-   "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-   "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-   "publishedAt": 1795183200000,
-   "source": "TechCrunch AI",
+   "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217649",
+   "summary": "최첨단 AI가 인간 전문가에게 약 40시간 걸리는 작업까지 수행할 수 있는 수준에 도달했다는 연구 결과가 나왔다. 지난 5월 16시간 이상의 작업 수행 능력을 기록한 데 이어 6개월 만에 평가 수치가 40시간 수준으로 높아진 것으로, AI의 장시간 작업 수행 능력이 빠르게 발전하고 있으며 연구 판단력에서도 개선이 나타나고 있는 것으로 확인됐다.AI 안전성 평가기관 METR은 20일(현지시간) 최신 모델의 연구개발 역량 평가 보고서를 공개하고, 오픈AI의 'GPT-6 아스트라'와 앤트로픽의 '클로드 오퍼스 5.5' 등 최첨단 모델들이",
+   "publishedAt": 1795252847000,
+   "source": "AI타임스",
    "sourceType": "media",
-   "lang": "en",
+   "lang": "ko",
    "engagement": null,
-   "baseWeight": 32,
+   "baseWeight": 26,
    "isAI": true,
    "score": 27.8,
    "hot": false
@@ -1399,7 +1385,21 @@
    "comments": 76,
    "publishedAt": 1794973663000,
    "isAI": true,
-   "score": 27.7,
+   "score": 27.6,
+   "hot": false
+  },
+  {
+   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+   "url": "https://github.com/microsoft/onnxruntime",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50539610",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 469,
+   "comments": 108,
+   "publishedAt": 1794957529000,
+   "isAI": false,
+   "score": 27.6,
    "hot": false
   }
  ]
