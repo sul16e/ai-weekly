@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795427236706,
+ "updatedAt": 1795430896243,
  "week": "2026-W48",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 498,
-   "comments": 205,
+   "engagement": 527,
+   "comments": 222,
    "publishedAt": 1795381276000,
    "isAI": true,
-   "score": 59,
+   "score": 58.8,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 965,
-   "comments": 949,
+   "engagement": 973,
+   "comments": 956,
    "publishedAt": 1795337854000,
    "isAI": true,
-   "score": 57.4,
+   "score": 57,
    "hot": false,
    "lastWeekRank": 1
   },
@@ -38,25 +38,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 512,
-   "comments": 79,
+   "engagement": 540,
+   "comments": 86,
    "publishedAt": 1795396431000,
    "isAI": false,
-   "score": 54.5,
-   "hot": true
-  },
-  {
-   "title": "Show HN: I built a game where you are an LLM's subagent",
-   "url": "https://github.com/gulivan/worker755",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50599762",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 317,
-   "comments": 77,
-   "publishedAt": 1795355818000,
-   "isAI": true,
-   "score": 51.5,
+   "score": 54.4,
    "hot": true
   },
   {
@@ -66,11 +52,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 294,
-   "comments": 135,
+   "engagement": 340,
+   "comments": 159,
    "publishedAt": 1795405764000,
    "isAI": false,
-   "score": 51,
+   "score": 51.7,
+   "hot": true
+  },
+  {
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "url": "https://github.com/gulivan/worker755",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50599762",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 321,
+   "comments": 78,
+   "publishedAt": 1795355818000,
+   "isAI": true,
+   "score": 51.1,
+   "hot": true
+  },
+  {
+   "title": "한글 TeX 사용자 모임(KTUG) 홈페이지 재개 안내",
+   "url": "https://news.hada.io/topic?id=37708&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "반가운 소식을 전해 드립니다. 한글 TeX 사용자 모임(KTUG) 홈페이지가 다시 문을 열었습니다. KTUG은 그동안 TeX에서 한글을 쓸 수 있도록 여러 한글 매크로를 만들고, TeX에 관한 질문에 함께 답하며 국내에 TeX을 알리고 보급하는 데 힘써 왔습니다. 그러나 2년쯤 전 서버에 문제가 생기면서 최근까지 홈페이지에 접속할 수 없었습니다. 요즘은 TeX에 관한 궁금증을 AI에게 묻는 일이 많아져서 게시판이 예전만큼 활발하지는 않을 수도 있습니다. 그래도 KTUG에는 묻고 답하는 공간만 있는 것이 아닙니다. TeX과 관련된 여",
+   "publishedAt": 1795427254000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.5,
    "hot": true
   },
   {
@@ -80,11 +94,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 144,
-   "comments": 129,
+   "engagement": 147,
+   "comments": 130,
    "publishedAt": 1795384425000,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.7,
    "hot": false
   },
   {
@@ -98,7 +112,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -112,7 +126,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.7,
    "hot": true
   },
   {
@@ -120,49 +134,6 @@
    "url": "https://news.hada.io/topic?id=37687&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
    "summary": "사람이 소수의 데이터베이스를 오래 운영하던 방식에서, AI 에이전트가 작업에 필요한 데이터베이스를 대량으로 만들고 폐기하는 방식 으로 활용이 넓어지고 있음 관리형 클라우드는 운영 부담을 줄였고, 서버리스 Postgres 는 빠른 생성과 사용량 기반 과금을 가능하게 했지만, 개발 과정에서 프로덕션 데이터를 다루는 문제는 남아 있음 Databricks는 2025년 5월 Neon 인수 발표 당시 , Neon에서 생성되는 데이터베이스의 80% 이상을 AI 에이전트가 만들었다고 밝힘. Supabase도 월 400만 개 이상의 신규 데이터베이",
    "publishedAt": 1795398602000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 46,
-   "hot": true
-  },
-  {
-   "title": "Data Processing Incidents on Inference Providers",
-   "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50595554",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 287,
-   "comments": 99,
-   "publishedAt": 1795313654000,
-   "isAI": true,
-   "score": 45.6,
-   "hot": false,
-   "lastWeekRank": 2
-  },
-  {
-   "title": "HUMAN.md",
-   "url": "https://news.hada.io/topic?id=37683&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "AI 시대에 창작자가 지켜야 할 태도를 정리한 선언문 . 인간의 가치는 안목뿐 아니라 의도적인 규칙 파괴, 뜻밖의 경험에서 얻는 영감, 사람을 위한 판단에 있음 창작의 기준은 정확성이나 요구사항 충족에 그치지 않고, 받는 사람의 감정적 울림 과 즐거움, 인류에 어떤 좋은 일을 하는지까지 포함해야 함 확신에 찬 의견보다 작동하는 스케치와 실험 을 우선하고, 아이디어를 생각하는 능력과 직접 만드는 능력을 함께 길러야 함 AI는 모두를 같게 만들기보다 사용하는 사람의 차이를 증폭함 . 도구 선택부터 결과물 공개까지 사람이 책임지 …",
-   "publishedAt": 1795395001000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.5,
-   "hot": true
-  },
-  {
-   "title": "P vs. NP 해결에 도전하는 AI 에이전트 군집",
-   "url": "https://news.hada.io/topic?id=37682&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "여러 AI 에이전트가 협업 해 P vs. NP 문제를 탐구하며, 보조정리와 증명 시도, 검증 결과를 실시간으로 공개함 문제는 여전히 미해결 상태이며, 검증된 보조정리 수는 P = NP 또는 P ≠ NP의 확률이나 최종 증명을 뜻하지 않음 현재 주요 탐구 대상은 퍼머넌트(permanent)가 일정하게 유지되는 행렬 공간의 차원 상한 이며, 목표 추측 자체가 거짓일 가능성도 열어둠 해당 탐구의 두 행인 경우 에는 지면상 증명이 있지만, 고정해 사용하는 라이브러리에 필요한 도구가 없어 아직 검증하지 못했고 초등적 증명을 찾고 있음 공개 ",
-   "publishedAt": 1795394736000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -179,11 +150,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 197,
-   "comments": 95,
+   "engagement": 208,
+   "comments": 97,
    "publishedAt": 1795388797000,
    "isAI": false,
    "score": 45.2,
+   "hot": true
+  },
+  {
+   "title": "Data Processing Incidents on Inference Providers",
+   "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50595554",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 287,
+   "comments": 99,
+   "publishedAt": 1795313654000,
+   "isAI": true,
+   "score": 45.2,
+   "hot": false,
+   "lastWeekRank": 2
+  },
+  {
+   "title": "HUMAN.md",
+   "url": "https://news.hada.io/topic?id=37683&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "AI 시대에 창작자가 지켜야 할 태도를 정리한 선언문 . 인간의 가치는 안목뿐 아니라 의도적인 규칙 파괴, 뜻밖의 경험에서 얻는 영감, 사람을 위한 판단에 있음 창작의 기준은 정확성이나 요구사항 충족에 그치지 않고, 받는 사람의 감정적 울림 과 즐거움, 인류에 어떤 좋은 일을 하는지까지 포함해야 함 확신에 찬 의견보다 작동하는 스케치와 실험 을 우선하고, 아이디어를 생각하는 능력과 직접 만드는 능력을 함께 길러야 함 AI는 모두를 같게 만들기보다 사용하는 사람의 차이를 증폭함 . 도구 선택부터 결과물 공개까지 사람이 책임지 …",
+   "publishedAt": 1795395001000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 45,
    "hot": true
   },
   {
@@ -193,11 +193,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 244,
-   "comments": 227,
+   "engagement": 245,
+   "comments": 232,
    "publishedAt": 1795361072000,
    "isAI": false,
-   "score": 43.5,
+   "score": 43.2,
    "hot": true
   },
   {
@@ -207,11 +207,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 123,
-   "comments": 50,
+   "engagement": 125,
+   "comments": 54,
    "publishedAt": 1795349986000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.2,
    "hot": false
   },
   {
@@ -222,10 +222,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 175,
-   "comments": 510,
+   "comments": 512,
    "publishedAt": 1795313402000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false
   },
   {
@@ -239,7 +239,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 41.8,
+   "score": 41.4,
    "hot": false
   },
   {
@@ -253,7 +253,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.6,
+   "score": 41.2,
    "hot": true
   },
   {
@@ -261,20 +261,6 @@
    "url": "https://news.hada.io/topic?id=37705&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
    "summary": "AT&T의 Unix 라이선스 가격 인상 을 계기로, BSD 개발진은 자체 네트워킹 코드와 도구를 분리 배포하고 AT&T 코드 의존성을 없애기 시작함 1989년 공개한 Net/1 은 AT&T 소스 라이선스 없이 사용할 수 있었으며, 저작권 고지와 기여자 표기를 유지하면 Berkeley에 로열티를 내지 않고 수정과 재배포가 가능했음 CSRG 는 외부 기여자들과 도구 및 C 라이브러리를 다시 작성해 18개월 만에 AT&T 코드 대부분을 대체하고, 1991년 6월 BSD Unix를 공개함 1992년 AT&T 자회사 USL의 소송 에 BSD",
    "publishedAt": 1795422702000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41.4,
-   "hot": true
-  },
-  {
-   "title": "DeFlock America Facebook 그룹, 위험 조직으로 분류돼 활동 정지",
-   "url": "https://news.hada.io/topic?id=37702&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Meta 가 Facebook의 DeFlock America 그룹을 정지함 정지된 그룹의 회원 수는 84만 명 이상 임 Hacker News 제목에 따르면 정지 사유는 위험 조직 분류 임 게시물은 이번 정지를 ‘사상범죄’, ‘잘못된 생각’에 대한 제재 라며 비판함 게시물은 Meta의 차단이나 정지로도 미국 전역에서 형성되는 풀뿌리 운동 을 막을 수는 없다고 반발함",
-   "publishedAt": 1795419088000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -291,12 +277,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 135,
-   "comments": 22,
+   "engagement": 140,
+   "comments": 26,
    "publishedAt": 1795378559000,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.7,
    "hot": false
+  },
+  {
+   "title": "DeFlock America Facebook 그룹, 위험 조직으로 분류돼 활동 정지",
+   "url": "https://news.hada.io/topic?id=37702&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Meta 가 Facebook의 DeFlock America 그룹을 정지함 정지된 그룹의 회원 수는 84만 명 이상 임 Hacker News 제목에 따르면 정지 사유는 위험 조직 분류 임 게시물은 이번 정지를 ‘사상범죄’, ‘잘못된 생각’에 대한 제재 라며 비판함 게시물은 Meta의 차단이나 정지로도 미국 전역에서 형성되는 풀뿌리 운동 을 막을 수는 없다고 반발함",
+   "publishedAt": 1795419088000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.5,
+   "hot": true
   },
   {
    "title": "XNU Linux: Linux에서 완전한 OS X GUI 사용자 공간 실행",
@@ -309,7 +309,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -323,7 +323,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -337,7 +337,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -351,7 +351,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -365,7 +365,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.1,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -379,7 +379,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -393,7 +393,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -407,7 +407,7 @@
    "comments": 22,
    "publishedAt": 1795324303000,
    "isAI": true,
-   "score": 39.5,
+   "score": 39.1,
    "hot": false
   },
   {
@@ -421,7 +421,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.3,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -435,7 +435,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -449,7 +449,7 @@
    "comments": 33,
    "publishedAt": 1795294061000,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.4,
    "hot": false,
    "lastWeekRank": 8
   },
@@ -461,10 +461,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 682,
-   "comments": 363,
+   "comments": 364,
    "publishedAt": 1795168901000,
    "isAI": true,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false,
    "lastWeekRank": 9
   },
@@ -479,7 +479,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -493,7 +493,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -507,7 +507,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -518,10 +518,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 530,
-   "comments": 921,
+   "comments": 924,
    "publishedAt": 1795181399000,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.7,
    "hot": false,
    "lastWeekRank": 10
   },
@@ -536,7 +536,7 @@
    "comments": 162,
    "publishedAt": 1795320609000,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -550,7 +550,7 @@
    "comments": 348,
    "publishedAt": 1795167736000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.3,
    "hot": false,
    "lastWeekRank": 12
   },
@@ -565,7 +565,7 @@
    "comments": 2336,
    "publishedAt": 1795107760000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.3,
    "hot": false,
    "lastWeekRank": 14
   },
@@ -577,12 +577,27 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 256,
-   "comments": 149,
+   "comments": 150,
    "publishedAt": 1795295873000,
    "isAI": false,
-   "score": 37.3,
+   "score": 37,
    "hot": false,
    "lastWeekRank": 11
+  },
+  {
+   "title": "I'll never buy Framework hardware again",
+   "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50576855",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 833,
+   "comments": 636,
+   "publishedAt": 1795190790000,
+   "isAI": false,
+   "score": 36.2,
+   "hot": false,
+   "lastWeekRank": 13
   },
   {
    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -595,23 +610,8 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
-  },
-  {
-   "title": "I'll never buy Framework hardware again",
-   "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50576855",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 833,
-   "comments": 630,
-   "publishedAt": 1795190790000,
-   "isAI": false,
-   "score": 36.5,
-   "hot": false,
-   "lastWeekRank": 13
   },
   {
    "title": "ClawDOS – An AI coding agent for DOS",
@@ -624,7 +624,7 @@
    "comments": 52,
    "publishedAt": 1795239481000,
    "isAI": true,
-   "score": 35.7,
+   "score": 35.5,
    "hot": false,
    "lastWeekRank": 16
   },
@@ -639,7 +639,7 @@
    "comments": 229,
    "publishedAt": 1795193967000,
    "isAI": true,
-   "score": 35.4,
+   "score": 35.2,
    "hot": false,
    "lastWeekRank": 21
   },
@@ -654,7 +654,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.1,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -668,24 +668,9 @@
    "comments": 250,
    "publishedAt": 1795105818000,
    "isAI": true,
-   "score": 34.5,
-   "hot": false,
-   "lastWeekRank": 31
-  },
-  {
-   "title": "Why there are still no non-WebKit browsers on iOS",
-   "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50575644",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 587,
-   "comments": 326,
-   "publishedAt": 1795187011000,
-   "isAI": false,
    "score": 34.3,
    "hot": false,
-   "lastWeekRank": 27
+   "lastWeekRank": 31
   },
   {
    "title": "Claude solves two open problems in the physics of black holes",
@@ -698,9 +683,24 @@
    "comments": 274,
    "publishedAt": 1795109444000,
    "isAI": true,
-   "score": 34.3,
+   "score": 34.2,
    "hot": false,
    "lastWeekRank": 33
+  },
+  {
+   "title": "Why there are still no non-WebKit browsers on iOS",
+   "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50575644",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 587,
+   "comments": 327,
+   "publishedAt": 1795187011000,
+   "isAI": false,
+   "score": 34.1,
+   "hot": false,
+   "lastWeekRank": 27
   },
   {
    "title": "Gemini 4 Neon",
@@ -713,7 +713,7 @@
    "comments": 775,
    "publishedAt": 1795037647000,
    "isAI": true,
-   "score": 34.1,
+   "score": 34,
    "hot": false,
    "lastWeekRank": 40
   },
@@ -728,7 +728,7 @@
    "comments": 116,
    "publishedAt": 1795249978000,
    "isAI": false,
-   "score": 33.9,
+   "score": 33.7,
    "hot": false,
    "lastWeekRank": 25
   },
@@ -743,7 +743,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -757,7 +757,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -771,7 +771,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -785,91 +785,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
-   "hot": false
-  },
-  {
-   "title": "\"AI 컨텍스트 창만 키워선 오답 못 줄여\"…정보 선별이 핵심",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217701",
-   "summary": "기업들이 AI 에이전트에 방대한 내부 정보를 제공하는 것이 반드시 정확한 답변으로 이어지지는 않는다는 지적이 나왔다. 고객 지원 문서에 서로 충돌하는 지침이 섞여 있으면 AI가 잘못된 정보를 선택할 수 있기 때문이다. 미국 통신사 T모바일은 복잡한 지식 그래프 대신 필요한 정보와 처리 경로를 연결하는 단순한 조회표를 도입해 문제를 해결했다.제프 사이먼 T모바일 CIO는 최근 벤처비트가 개최한 '에이전틱 인프라스트럭처 스택 서밋'에서 초기 고객 상담 AI 구축 경험을 소개했다.당시 T모바일은 대규모 컨텍스트 창을 활용해 고객 지원 문",
-   "publishedAt": 1795421700000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "국산 AI칩 상용화 돕는다…광주 NPU센터 설립 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217673",
-   "summary": "광주가 국산 AI반도체를 활용하는 국가 NPU 전용 컴퓨팅센터 설립을 추진하고 있다. 올해 타당성조사 예산 6억원을 확보한 데 이어 2027년 정부예산안에는 19억7000만원이 반영됐다.NPU는 인공지능 연산에 특화된 신경망처리장치로, 이미 학습된 AI 모델이 질문에 답하거나 영상·데이터를 분석하는 추론 작업 등에 활용된다. 광주에 추진하는 센터는 국산 NPU를 활용한 공공 컴퓨팅 인프라를 마련해 기업과 연구기관의 AI 서비스 개발·실증을 지원하는 것이 목표다.국회예산정책처의 '2026년도 예산안 심의결과'에 따르면 국가 NPU 전",
-   "publishedAt": 1795421700000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "AI 에이전트가 CPU 아키텍처 직접 설계…전력 효율 4.59배 주장",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217705",
-   "summary": "AI 에이전트가 기존 반도체 회로를 개선하는 수준을 넘어 새로운 CPU 아키텍처를 설계한 사례가 공개됐다. 명령어 체계부터 회로 구현과 검증까지 AI가 수행한 것으로, 기존 순차 실행 CPU 코어보다 와트당 성능이 4.59배 높다는 평가 결과를 제시했다.미국 스타트업 아키텍트랩스(Architect Labs)는 18일(현지시간) AI 에이전트를 활용해 설계한 새로운 CPU 아키텍처 '프로스트바이트(Frostbite)'를 공개했다. 인간이 설정한 성능 목표와 검증 조건에 따라 AI가 아키텍처를 탐색하고, 명령어 체계부터 회로 설계와 검",
-   "publishedAt": 1795421400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "애플, 실시간 영상 생성 AI ‘패스트프레임’ 공개...36ms 지연",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217686",
-   "summary": "애플이 실시간 상호작용이 가능한 영상 생성 AI 모델을 공개했다. 영상 생성 과정에서 병목으로 작용하던 디코딩과 캐시 갱신 단계를 최적화해, 엔비디아 B200 GPU 한 장으로 프레임당 36밀리초(ms)의 처리 속도를 구현했다. 사용자 입력에 즉각 반응해야 하는 게임이나 시뮬레이션 등에 활용할 수 있는 수준이다.애플과 코넬대학교 연구진은 17일(현지시간) 자기회귀 방식의 비디오 확산 모델 제품군 ‘패스트프레임(FastFrames)’을 온라인 아카이브를 통해 공개했다. 패스트프레임은 13억개(1.3B)와 140억개(14B) 매개변수를",
-   "publishedAt": 1795421400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "엔비디아, 차량에서 직접 추론하는 자율주행 모델 '알파마요 2 엣지' 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217700",
-   "summary": "엔비디아가 차량용 컴퓨팅 환경에서도 복잡한 추론을 수행할 수 있도록 설계한 경량 AI 모델을 선보이며 자율주행 기술의 온디바이스화에 속도를 내고 있다.엔비디아는 최근 차량 내부에서 직접 추론하고 주행 경로를 생성하는 자율주행 AI 모델 '알파마요 2 엣지(Alpamayo 2 Edge)'를 공개했다. 대형 클라우드 모델의 추론 능력을 차량용 연산 환경에 맞게 경량화한 모델로, 주행 상황을 분석하고 판단 근거까지 설명하는 것이 특징이다.알파마요 2 엣지는 엔비디아가 20억 매개변수급 모델로 소개한 비전-언어-행동(VLA) 모델이다. 주",
-   "publishedAt": 1795421319000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
-   "hot": false
-  },
-  {
-   "title": "[게시판] AI 지팡이·노인용 로봇 등...LG CNS, 고교생 대상 AI 경연 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217695",
-   "summary": "■ LG CNS(대표 현신균)는 고교생 대상 AI 사회공헌 프로그램 'AI지니어스 아카데미 챌린지데이'를 개최했다고 밝혔다. 올해는 약 1300명이 참여해 역대 최대 규모를 기록했다. 대상은 안전 정보 기반 보행 경로 추천 서비스 '귀가 ON'을 개발한 미림마이스터고가 차지했으며, 최우수상과 우수상은 각각 수도전기공업고와 광주수피아여고가 수상했다. 이 밖에 AI 안심 주거 서비스, 어르신 재활 지원용 탁상형 휴머노이드, 화재 시 진동으로 대피 경로를 안내하는 시각장애인용 AI 지팡이 등이 소개됐다.■ KT(대표 박윤영)는 행정안전부",
-   "publishedAt": 1795420800000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.4,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -883,9 +799,108 @@
    "comments": 248,
    "publishedAt": 1795131335000,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false,
    "lastWeekRank": 38
+  },
+  {
+   "title": "\"AI 컨텍스트 창만 키워선 오답 못 줄여\"…정보 선별이 핵심",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217701",
+   "summary": "기업들이 AI 에이전트에 방대한 내부 정보를 제공하는 것이 반드시 정확한 답변으로 이어지지는 않는다는 지적이 나왔다. 고객 지원 문서에 서로 충돌하는 지침이 섞여 있으면 AI가 잘못된 정보를 선택할 수 있기 때문이다. 미국 통신사 T모바일은 복잡한 지식 그래프 대신 필요한 정보와 처리 경로를 연결하는 단순한 조회표를 도입해 문제를 해결했다.제프 사이먼 T모바일 CIO는 최근 벤처비트가 개최한 '에이전틱 인프라스트럭처 스택 서밋'에서 초기 고객 상담 AI 구축 경험을 소개했다.당시 T모바일은 대규모 컨텍스트 창을 활용해 고객 지원 문",
+   "publishedAt": 1795421700000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "국산 AI칩 상용화 돕는다…광주 NPU센터 설립 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217673",
+   "summary": "광주가 국산 AI반도체를 활용하는 국가 NPU 전용 컴퓨팅센터 설립을 추진하고 있다. 올해 타당성조사 예산 6억원을 확보한 데 이어 2027년 정부예산안에는 19억7000만원이 반영됐다.NPU는 인공지능 연산에 특화된 신경망처리장치로, 이미 학습된 AI 모델이 질문에 답하거나 영상·데이터를 분석하는 추론 작업 등에 활용된다. 광주에 추진하는 센터는 국산 NPU를 활용한 공공 컴퓨팅 인프라를 마련해 기업과 연구기관의 AI 서비스 개발·실증을 지원하는 것이 목표다.국회예산정책처의 '2026년도 예산안 심의결과'에 따르면 국가 NPU 전",
+   "publishedAt": 1795421700000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "AI 에이전트가 CPU 아키텍처 직접 설계…전력 효율 4.59배 주장",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217705",
+   "summary": "AI 에이전트가 기존 반도체 회로를 개선하는 수준을 넘어 새로운 CPU 아키텍처를 설계한 사례가 공개됐다. 명령어 체계부터 회로 구현과 검증까지 AI가 수행한 것으로, 기존 순차 실행 CPU 코어보다 와트당 성능이 4.59배 높다는 평가 결과를 제시했다.미국 스타트업 아키텍트랩스(Architect Labs)는 18일(현지시간) AI 에이전트를 활용해 설계한 새로운 CPU 아키텍처 '프로스트바이트(Frostbite)'를 공개했다. 인간이 설정한 성능 목표와 검증 조건에 따라 AI가 아키텍처를 탐색하고, 명령어 체계부터 회로 설계와 검",
+   "publishedAt": 1795421400000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "애플, 실시간 영상 생성 AI ‘패스트프레임’ 공개...36ms 지연",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217686",
+   "summary": "애플이 실시간 상호작용이 가능한 영상 생성 AI 모델을 공개했다. 영상 생성 과정에서 병목으로 작용하던 디코딩과 캐시 갱신 단계를 최적화해, 엔비디아 B200 GPU 한 장으로 프레임당 36밀리초(ms)의 처리 속도를 구현했다. 사용자 입력에 즉각 반응해야 하는 게임이나 시뮬레이션 등에 활용할 수 있는 수준이다.애플과 코넬대학교 연구진은 17일(현지시간) 자기회귀 방식의 비디오 확산 모델 제품군 ‘패스트프레임(FastFrames)’을 온라인 아카이브를 통해 공개했다. 패스트프레임은 13억개(1.3B)와 140억개(14B) 매개변수를",
+   "publishedAt": 1795421400000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "엔비디아, 차량에서 직접 추론하는 자율주행 모델 '알파마요 2 엣지' 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217700",
+   "summary": "엔비디아가 차량용 컴퓨팅 환경에서도 복잡한 추론을 수행할 수 있도록 설계한 경량 AI 모델을 선보이며 자율주행 기술의 온디바이스화에 속도를 내고 있다.엔비디아는 최근 차량 내부에서 직접 추론하고 주행 경로를 생성하는 자율주행 AI 모델 '알파마요 2 엣지(Alpamayo 2 Edge)'를 공개했다. 대형 클라우드 모델의 추론 능력을 차량용 연산 환경에 맞게 경량화한 모델로, 주행 상황을 분석하고 판단 근거까지 설명하는 것이 특징이다.알파마요 2 엣지는 엔비디아가 20억 매개변수급 모델로 소개한 비전-언어-행동(VLA) 모델이다. 주",
+   "publishedAt": 1795421319000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "[게시판] AI 지팡이·노인용 로봇 등...LG CNS, 고교생 대상 AI 경연 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217695",
+   "summary": "■ LG CNS(대표 현신균)는 고교생 대상 AI 사회공헌 프로그램 'AI지니어스 아카데미 챌린지데이'를 개최했다고 밝혔다. 올해는 약 1300명이 참여해 역대 최대 규모를 기록했다. 대상은 안전 정보 기반 보행 경로 추천 서비스 '귀가 ON'을 개발한 미림마이스터고가 차지했으며, 최우수상과 우수상은 각각 수도전기공업고와 광주수피아여고가 수상했다. 이 밖에 AI 안심 주거 서비스, 어르신 재활 지원용 탁상형 휴머노이드, 화재 시 진동으로 대피 경로를 안내하는 시각장애인용 AI 지팡이 등이 소개됐다.■ KT(대표 박윤영)는 행정안전부",
+   "publishedAt": 1795420800000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "Vibecoding an inference chip",
+   "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50579297",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 177,
+   "comments": 78,
+   "publishedAt": 1795198516000,
+   "isAI": true,
+   "score": 32.9,
+   "hot": false,
+   "lastWeekRank": 36
   },
   {
    "title": "폭염경보 방송까지 53분…광주, AI로 외국어 재난방송 자동화 추진",
@@ -898,7 +913,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -912,7 +927,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -926,23 +941,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
-  },
-  {
-   "title": "Vibecoding an inference chip",
-   "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50579297",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 176,
-   "comments": 78,
-   "publishedAt": 1795198516000,
-   "isAI": true,
-   "score": 33.1,
-   "hot": false,
-   "lastWeekRank": 36
   },
   {
    "title": "애플, 사진·영상 속 실제 거리 추정하는 AI '뎁스 프로 2' 공개",
@@ -955,7 +955,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -969,7 +969,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -983,7 +983,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -997,7 +997,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1011,7 +1011,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1025,7 +1025,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1036,10 +1036,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 254,
-   "comments": 95,
+   "comments": 96,
    "publishedAt": 1795231396000,
    "isAI": false,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false,
    "lastWeekRank": 39
   },
@@ -1054,7 +1054,7 @@
    "comments": 99,
    "publishedAt": 1795257237000,
    "isAI": false,
-   "score": 32.3,
+   "score": 32.1,
    "hot": false,
    "lastWeekRank": 37
   },
@@ -1069,9 +1069,24 @@
    "comments": 864,
    "publishedAt": 1794937603000,
    "isAI": true,
-   "score": 32.1,
+   "score": 32,
    "hot": false,
    "lastWeekRank": 47
+  },
+  {
+   "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+   "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50581438",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 307,
+   "comments": 171,
+   "publishedAt": 1795206161000,
+   "isAI": false,
+   "score": 31.7,
+   "hot": false,
+   "lastWeekRank": 41
   },
   {
    "title": "AI 데이터센터 IPO 잇단 차질…데이원도 50억달러 미국 상장 보류",
@@ -1084,7 +1099,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1098,23 +1113,8 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.6,
    "hot": false
-  },
-  {
-   "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
-   "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50581438",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 307,
-   "comments": 171,
-   "publishedAt": 1795206161000,
-   "isAI": false,
-   "score": 31.9,
-   "hot": false,
-   "lastWeekRank": 41
   },
   {
    "title": "래블업, 미국 시장 겨냥 현지 인사이트 엔터프라이즈와 맞손",
@@ -1127,7 +1127,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1141,35 +1141,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "앨리스 황 뒤 숨은 실세 기소...엔비디아 칩 중국 유출 거래망 주도",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217678",
-   "summary": "엔비디아의 첨단 AI 칩을 동남아시아를 거쳐 중국으로 빼돌린 것으로 의심받는 거래망의 핵심 운영자로 중국인 리밍이 지목됐다. 젠슨 황 전 엔비디아 CEO의 연인으로 알려진 앨리스 황이 사업의 전면에 나섰지만, 실제로는 리밍이 메가스피드 등 관련 기업의 주요 의사결정에 관여하며 거래망을 주도했다는 보도가 나왔다.월스트리트저널(WSJ)은 21일(현지시간) 정통한 소식통들을 인용, 리밍이 메가스피드를 비롯해 엔비디아 칩을 거래한 여러 기업을 연결하는 핵심 인물이었다고 보도했다.앨리스 황과 그의 남편 강웨이는 리밍과 수년간 사업 관계를 유",
-   "publishedAt": 1795404943000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.8,
-   "hot": false
-  },
-  {
-   "title": "AI 안경 '몰래 촬영' 막는다…촬영 표시·사적 촬영 고지 의무화 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217681",
-   "summary": "AI 안경으로 촬영시 상대방이 이를 알 수 있도록 하는 법안이 발의됐다. 제조 단계부터 촬영표시 기능 탑재를 의무화하고, 업무 목적 외 개인의 사적 촬영시에도 촬영사실 고지의무를 지우는 내용을 담고 있다.국회 과학기술정보방송통신위원회 소속 이주희 더불어민주당 의원은 23일 정보통신망법과 개인정보보호법 일부개정법률안, 이른바 '스마트글래스 불법촬영 방지법' 2건을 대표 발의했다고 밝혔다. 제조·수입 단계의 기기 기준과 이용자의 고지 의무를 함께 규정한 게 핵심이다.정보통신망법 개정안은 AI 안경 등 착용형 영상촬영기기의 제조·수입자에",
-   "publishedAt": 1795404099000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.8,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1183,7 +1155,7 @@
    "comments": 208,
    "publishedAt": 1795152062000,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.5,
    "hot": false,
    "lastWeekRank": 44
   },
@@ -1198,9 +1170,37 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.5,
    "hot": false,
    "lastWeekRank": 42
+  },
+  {
+   "title": "앨리스 황 뒤 숨은 실세 기소...엔비디아 칩 중국 유출 거래망 주도",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217678",
+   "summary": "엔비디아의 첨단 AI 칩을 동남아시아를 거쳐 중국으로 빼돌린 것으로 의심받는 거래망의 핵심 운영자로 중국인 리밍이 지목됐다. 젠슨 황 전 엔비디아 CEO의 연인으로 알려진 앨리스 황이 사업의 전면에 나섰지만, 실제로는 리밍이 메가스피드 등 관련 기업의 주요 의사결정에 관여하며 거래망을 주도했다는 보도가 나왔다.월스트리트저널(WSJ)은 21일(현지시간) 정통한 소식통들을 인용, 리밍이 메가스피드를 비롯해 엔비디아 칩을 거래한 여러 기업을 연결하는 핵심 인물이었다고 보도했다.앨리스 황과 그의 남편 강웨이는 리밍과 수년간 사업 관계를 유",
+   "publishedAt": 1795404943000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "AI 안경 '몰래 촬영' 막는다…촬영 표시·사적 촬영 고지 의무화 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217681",
+   "summary": "AI 안경으로 촬영시 상대방이 이를 알 수 있도록 하는 법안이 발의됐다. 제조 단계부터 촬영표시 기능 탑재를 의무화하고, 업무 목적 외 개인의 사적 촬영시에도 촬영사실 고지의무를 지우는 내용을 담고 있다.국회 과학기술정보방송통신위원회 소속 이주희 더불어민주당 의원은 23일 정보통신망법과 개인정보보호법 일부개정법률안, 이른바 '스마트글래스 불법촬영 방지법' 2건을 대표 발의했다고 밝혔다. 제조·수입 단계의 기기 기준과 이용자의 고지 의무를 함께 규정한 게 핵심이다.정보통신망법 개정안은 AI 안경 등 착용형 영상촬영기기의 제조·수입자에",
+   "publishedAt": 1795404099000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.4,
+   "hot": false
   },
   {
    "title": "미 재무장관, 젠슨 황 복귀 여부에 \"수출 규제 위반부터 확인해야\"",
@@ -1213,7 +1213,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1227,7 +1227,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1241,7 +1241,7 @@
    "comments": 713,
    "publishedAt": 1794984446000,
    "isAI": true,
-   "score": 31.3,
+   "score": 31.2,
    "hot": false,
    "lastWeekRank": 50
   },
@@ -1256,7 +1256,7 @@
    "comments": 95,
    "publishedAt": 1795228839000,
    "isAI": false,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false,
    "lastWeekRank": 43
   },
@@ -1268,10 +1268,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 693,
-   "comments": 385,
+   "comments": 386,
    "publishedAt": 1795105263000,
    "isAI": false,
-   "score": 31,
+   "score": 30.9,
    "hot": false,
    "lastWeekRank": 46
   },
@@ -1286,7 +1286,7 @@
    "comments": 55,
    "publishedAt": 1795193885000,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.7,
    "hot": false,
    "lastWeekRank": 45
   },
@@ -1301,7 +1301,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.7,
+   "score": 30.4,
    "hot": false
   },
   {
@@ -1312,10 +1312,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 273,
-   "comments": 252,
+   "comments": 253,
    "publishedAt": 1795102692000,
    "isAI": true,
-   "score": 30.5,
+   "score": 30.3,
    "hot": false,
    "lastWeekRank": 49
   },
@@ -1330,7 +1330,7 @@
    "comments": 801,
    "publishedAt": 1795044609000,
    "isAI": true,
-   "score": 30.3,
+   "score": 30.2,
    "hot": false,
    "lastWeekRank": 55
   },
@@ -1345,7 +1345,7 @@
    "comments": 347,
    "publishedAt": 1795142653000,
    "isAI": true,
-   "score": 30.2,
+   "score": 30,
    "hot": false,
    "lastWeekRank": 48
   },
@@ -1360,7 +1360,7 @@
    "comments": 265,
    "publishedAt": 1795016974000,
    "isAI": true,
-   "score": 30.1,
+   "score": 30,
    "hot": false,
    "lastWeekRank": 56
   },
@@ -1375,23 +1375,9 @@
    "comments": 565,
    "publishedAt": 1794961078000,
    "isAI": true,
-   "score": 30.1,
+   "score": 30,
    "hot": false,
    "lastWeekRank": 57
-  },
-  {
-   "title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217665",
-   "summary": "오픈AI가 AI의 지능 발전 수준을 측정할 수 있는 사전학습 성능 수치를 공개하고, 이를 토대로 주요 AI 기업들이 공동으로 지켜야 할 개발 제한선을 마련하자고 제안했다. 학습 성능이 높아질수록 예상하지 못한 새로운 능력이 나타난다는 분석으로, 샘 알트먼 CEO도 최근 회사가 발표한 내용 중 가장 중요한 것이라고 평가했다.야쿠브 파초키 오픈AI 최고과학책임자는 22일(현지시간) '퍼플렉시티와 지능(Perplexity and Intelligence)'이라는 글을 발표하고, AI의 지능 발전을 추적할 수 있는 공통 지표와 개발 제한선을",
-   "publishedAt": 1795385668000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.1,
-   "hot": false
   },
   {
    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -1404,7 +1390,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 29.9,
+   "score": 29.8,
    "hot": false,
    "lastWeekRank": 51
   },
@@ -1419,9 +1405,23 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 29.9,
+   "score": 29.8,
    "hot": false,
    "lastWeekRank": 52
+  },
+  {
+   "title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217665",
+   "summary": "오픈AI가 AI의 지능 발전 수준을 측정할 수 있는 사전학습 성능 수치를 공개하고, 이를 토대로 주요 AI 기업들이 공동으로 지켜야 할 개발 제한선을 마련하자고 제안했다. 학습 성능이 높아질수록 예상하지 못한 새로운 능력이 나타난다는 분석으로, 샘 알트먼 CEO도 최근 회사가 발표한 내용 중 가장 중요한 것이라고 평가했다.야쿠브 파초키 오픈AI 최고과학책임자는 22일(현지시간) '퍼플렉시티와 지능(Perplexity and Intelligence)'이라는 글을 발표하고, AI의 지능 발전을 추적할 수 있는 공통 지표와 개발 제한선을",
+   "publishedAt": 1795385668000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 29.8,
+   "hot": false
   },
   {
    "title": "Winedroid – run Android apps without Android (WASM demo)",
@@ -1434,7 +1434,7 @@
    "comments": 52,
    "publishedAt": 1795203016000,
    "isAI": false,
-   "score": 29,
+   "score": 28.8,
    "hot": false,
    "lastWeekRank": 54
   }
