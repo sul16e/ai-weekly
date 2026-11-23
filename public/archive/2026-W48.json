@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795423576776,
+ "updatedAt": 1795427236706,
  "week": "2026-W48",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 469,
-   "comments": 196,
+   "engagement": 498,
+   "comments": 205,
    "publishedAt": 1795381276000,
    "isAI": true,
-   "score": 59.1,
+   "score": 59,
    "hot": true
   },
   {
@@ -23,12 +23,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 962,
-   "comments": 944,
+   "engagement": 965,
+   "comments": 949,
    "publishedAt": 1795337854000,
    "isAI": true,
-   "score": 58,
-   "hot": true,
+   "score": 57.4,
+   "hot": false,
    "lastWeekRank": 1
   },
   {
@@ -38,11 +38,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 478,
-   "comments": 74,
+   "engagement": 512,
+   "comments": 79,
    "publishedAt": 1795396431000,
    "isAI": false,
-   "score": 54.4,
+   "score": 54.5,
    "hot": true
   },
   {
@@ -52,11 +52,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 313,
-   "comments": 76,
+   "engagement": 317,
+   "comments": 77,
    "publishedAt": 1795355818000,
    "isAI": true,
-   "score": 51.9,
+   "score": 51.5,
    "hot": true
   },
   {
@@ -66,11 +66,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 241,
-   "comments": 105,
+   "engagement": 294,
+   "comments": 135,
    "publishedAt": 1795405764000,
    "isAI": false,
-   "score": 49.7,
+   "score": 51,
    "hot": true
   },
   {
@@ -81,11 +81,25 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 144,
-   "comments": 126,
+   "comments": 129,
    "publishedAt": 1795384425000,
    "isAI": true,
-   "score": 49.6,
+   "score": 49.1,
    "hot": false
+  },
+  {
+   "title": "Show GN: Heirloom - AI가 바꾼 코드의 동작을 머지 전에 직접 확인하는 플러그인",
+   "url": "https://news.hada.io/topic?id=37703&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "에이전트가 “테스트 통과했습니다”라고 해도 “이 입력은 이제 어떻게 처리되지?”를 알려면 diff를 다시 열어야 하고, 몇 주 뒤엔 “그건 호환성 때문에 일부러 남긴 거예요”라는 설명을 또 하게 됩니다. 이 두 가지를 줄여 보려고 Claude Code와 Codex용 오픈소스 플러그인 Heirloom을 만들었습니다. 5만 원부터 무료 배송이 되도록 바꿨다면 Heirloom이 변경 전후 코드를 별도 Git worktree에서 실행하고 대시보드에서 “정확히 5만 원이면 배송비가 얼마일까?”에 먼저 답한 뒤 실제 출력을 비교합니다. 의도와",
+   "publishedAt": 1795420689000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49,
+   "hot": true
   },
   {
    "title": "Show GN: 나라니 - 계약서를 읽고 상대에게 보낼 조건 제안을 준비하는 도구",
@@ -98,7 +112,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.7,
+   "score": 48.2,
    "hot": true
   },
   {
@@ -112,7 +126,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 46,
    "hot": true
   },
   {
@@ -122,11 +136,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 285,
+   "engagement": 287,
    "comments": 99,
    "publishedAt": 1795313654000,
    "isAI": true,
-   "score": 46,
+   "score": 45.6,
    "hot": false,
    "lastWeekRank": 2
   },
@@ -141,7 +155,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -155,21 +169,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.9,
-   "hot": true
-  },
-  {
-   "title": "이제 우리는 모두 주니어 인재다",
-   "url": "https://news.hada.io/topic?id=37680&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "AI의 가치는 같은 일을 더 빨리 처리하는 효율화 보다, 기업이 할 수 있는 일 자체를 재구상 하는 데 있음 AI와 일하는 방식이 빠르게 바뀌면서 경력자도 새로 배워야 함 . 오래 쌓은 경험만으로 주니어와 시니어를 구분하기보다, 새로운 환경에 필요한 것을 얼마나 빠르게 익히는지가 중요해짐 새로운 업무 구상에서 모델은 두뇌 , Codex나 Claude Code 같은 하네스 는 스킬과 도구, 실행 환경을 제공하는 외골격에 해당함 에이전트가 시스템 갱신을 맡으면 사람은 사람과 일하는 데 집중하고, 각 직무는 에이전트 관리자 역할을 더하게",
-   "publishedAt": 1795394402000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.9,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -179,8 +179,8 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 187,
-   "comments": 90,
+   "engagement": 197,
+   "comments": 95,
    "publishedAt": 1795388797000,
    "isAI": false,
    "score": 45.2,
@@ -193,11 +193,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 241,
-   "comments": 226,
+   "engagement": 244,
+   "comments": 227,
    "publishedAt": 1795361072000,
    "isAI": false,
-   "score": 43.9,
+   "score": 43.5,
    "hot": true
   },
   {
@@ -207,11 +207,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 122,
-   "comments": 49,
+   "engagement": 123,
+   "comments": 50,
    "publishedAt": 1795349986000,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.5,
    "hot": false
   },
   {
@@ -222,10 +222,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 175,
-   "comments": 508,
+   "comments": 510,
    "publishedAt": 1795313402000,
    "isAI": true,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -239,14 +239,28 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.8,
    "hot": false
   },
   {
-   "title": "DeFlock America Facebook 그룹, 위험 조직으로 분류돼 활동 정지",
-   "url": "https://news.hada.io/topic?id=37702&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Meta 가 Facebook의 DeFlock America 그룹을 정지함 정지된 그룹의 회원 수는 84만 명 이상 임 Hacker News 제목에 따르면 정지 사유는 위험 조직 분류 임 게시물은 이번 정지를 ‘사상범죄’, ‘잘못된 생각’에 대한 제재 라며 비판함 게시물은 Meta의 차단이나 정지로도 미국 전역에서 형성되는 풀뿌리 운동 을 막을 수는 없다고 반발함",
-   "publishedAt": 1795419088000,
+   "title": "Show GN: Dopamine Tank - 친구들끼리 휴대폰 사용시간 공유 앱",
+   "url": "https://news.hada.io/topic?id=37707&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "**친구가 휴대폰을 너무 많이 써서 내 폰까지 잠긴다면 어떨까요? ** Dopamine Tank 는 친구들과 휴대폰 사용시간 목표를 공유하는 앱입니다. 친구들과 공유한 목표가 물탱크의 수위로 실시간 표시되고, 한 명이라도 사용시간을 모두 써버리면 참여한 모두의 앱이 잠깁니다. 혼자 하다가 실패하는 도파민 디톡스, 이제 친구들과 함께 연대책임(?)으로 성공해보세요! 📱 iPhone: https://apps.apple.com/us/app/dopamine-tank/id6819309000 🤖 Android: 아직 테스트 중입니다! 아래",
+   "publishedAt": 1795424344000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
+  },
+  {
+   "title": "자유를 위한 투쟁: BSD는 어떻게 AT&T 라이선스에서 벗어났나",
+   "url": "https://news.hada.io/topic?id=37705&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "AT&T의 Unix 라이선스 가격 인상 을 계기로, BSD 개발진은 자체 네트워킹 코드와 도구를 분리 배포하고 AT&T 코드 의존성을 없애기 시작함 1989년 공개한 Net/1 은 AT&T 소스 라이선스 없이 사용할 수 있었으며, 저작권 고지와 기여자 표기를 유지하면 Berkeley에 로열티를 내지 않고 수정과 재배포가 가능했음 CSRG 는 외부 기여자들과 도구 및 C 라이브러리를 다시 작성해 18개월 만에 AT&T 코드 대부분을 대체하고, 1991년 6월 BSD Unix를 공개함 1992년 AT&T 자회사 USL의 소송 에 BSD",
+   "publishedAt": 1795422702000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -257,10 +271,10 @@
    "hot": true
   },
   {
-   "title": "XNU Linux: Linux에서 완전한 OS X GUI 사용자 공간 실행",
-   "url": "https://news.hada.io/topic?id=37700&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "xnulinux 는 Apple의 공개 소스로 빌드한 XNU를 수정하지 않은 arm64 Linux의 커널 모듈로 로드해, macOS 데스크톱과 앱을 실행함 XNU가 CPU와 MMU를 직접 제어 하며, macOS와 Linux 프로세스 사이에 하이퍼바이저를 두지 않음. Linux는 작은 인터페이스 모듈을 통해 메모리, 타이머, 파일, 네트워크, GPU를 제공함 Apple Silicon Mac의 Linux VM에서 macOS 27.2.1 데스크톱 부팅에 31~48초 가 걸렸으며, 30분간 앱 실행과 파일 시스템 작업을 반복한 테스트에서 패",
-   "publishedAt": 1795415558000,
+   "title": "DeFlock America Facebook 그룹, 위험 조직으로 분류돼 활동 정지",
+   "url": "https://news.hada.io/topic?id=37702&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Meta 가 Facebook의 DeFlock America 그룹을 정지함 정지된 그룹의 회원 수는 84만 명 이상 임 Hacker News 제목에 따르면 정지 사유는 위험 조직 분류 임 게시물은 이번 정지를 ‘사상범죄’, ‘잘못된 생각’에 대한 제재 라며 비판함 게시물은 Meta의 차단이나 정지로도 미국 전역에서 형성되는 풀뿌리 운동 을 막을 수는 없다고 반발함",
+   "publishedAt": 1795419088000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
@@ -277,12 +291,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 131,
-   "comments": 20,
+   "engagement": 135,
+   "comments": 22,
    "publishedAt": 1795378559000,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.8,
    "hot": false
+  },
+  {
+   "title": "XNU Linux: Linux에서 완전한 OS X GUI 사용자 공간 실행",
+   "url": "https://news.hada.io/topic?id=37700&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "xnulinux 는 Apple의 공개 소스로 빌드한 XNU를 수정하지 않은 arm64 Linux의 커널 모듈로 로드해, macOS 데스크톱과 앱을 실행함 XNU가 CPU와 MMU를 직접 제어 하며, macOS와 Linux 프로세스 사이에 하이퍼바이저를 두지 않음. Linux는 작은 인터페이스 모듈을 통해 메모리, 타이머, 파일, 네트워크, GPU를 제공함 Apple Silicon Mac의 Linux VM에서 macOS 27.2.1 데스크톱 부팅에 31~48초 가 걸렸으며, 30분간 앱 실행과 파일 시스템 작업을 반복한 테스트에서 패",
+   "publishedAt": 1795415558000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.6,
+   "hot": true
   },
   {
    "title": "GitHub Actions는 유효하지 않은 YAML도 허용함",
@@ -295,7 +323,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -309,7 +337,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -323,7 +351,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.2,
    "hot": true
   },
   {
@@ -337,7 +365,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.5,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -351,7 +379,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.8,
    "hot": true
   },
   {
@@ -365,7 +393,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -379,7 +407,7 @@
    "comments": 22,
    "publishedAt": 1795324303000,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -393,7 +421,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -407,7 +435,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -421,23 +449,9 @@
    "comments": 33,
    "publishedAt": 1795294061000,
    "isAI": true,
-   "score": 39.1,
+   "score": 38.7,
    "hot": false,
    "lastWeekRank": 8
-  },
-  {
-   "title": "Nespresso의 캡슐당 커피 중량 감축 프로젝트",
-   "url": "https://news.hada.io/topic?id=37686&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "공개된 내부 문서에 따르면, Nespresso의 Project Olympus 는 분쇄와 로스팅 공정을 조정해 일부 Vertuo 캡슐에 들어가는 커피 중량을 줄이는 프로젝트임 Nespresso는 중량을 줄여도 맛, 컵당 커피 용량, 카페인 수준 을 유지하며, 관능 평가로 맛과 만족도가 떨어지지 않는지 검증했다고 밝힘 문서상 변경은 2026년 1~3분기 에 순차 적용할 계획이며, 1차 대상 6개와 2차 대상 8개 제품이 명시돼 있음 2026년 9월 Reddit에서 프로젝트가 공개된 뒤 소비자 반발 이 이어졌으며, 일부 이용자는 Nesp",
-   "publishedAt": 1795397571000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.9,
-   "hot": true
   },
   {
    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
@@ -450,9 +464,23 @@
    "comments": 363,
    "publishedAt": 1795168901000,
    "isAI": true,
-   "score": 38.7,
+   "score": 38.5,
    "hot": false,
    "lastWeekRank": 9
+  },
+  {
+   "title": "Nespresso의 캡슐당 커피 중량 감축 프로젝트",
+   "url": "https://news.hada.io/topic?id=37686&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "공개된 내부 문서에 따르면, Nespresso의 Project Olympus 는 분쇄와 로스팅 공정을 조정해 일부 Vertuo 캡슐에 들어가는 커피 중량을 줄이는 프로젝트임 Nespresso는 중량을 줄여도 맛, 컵당 커피 용량, 카페인 수준 을 유지하며, 관능 평가로 맛과 만족도가 떨어지지 않는지 검증했다고 밝힘 문서상 변경은 2026년 1~3분기 에 순차 적용할 계획이며, 1차 대상 6개와 2차 대상 8개 제품이 명시돼 있음 2026년 9월 Reddit에서 프로젝트가 공개된 뒤 소비자 반발 이 이어졌으며, 일부 이용자는 Nesp",
+   "publishedAt": 1795397571000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 38.5,
+   "hot": true
   },
   {
    "title": "Alibaba에서 구한 RISC-V 보드에 NixOS 구동하기",
@@ -465,7 +493,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -479,35 +507,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
-   "hot": true
-  },
-  {
-   "title": "Nyx, 세계에서 가장 오래된 인터넷 서비스 제공업체",
-   "url": "https://news.hada.io/topic?id=37681&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Nyx 는 무료 공개 접속 ISP로, 이메일과 웹 호스팅, Linux 셸 계정 등을 제공함 계정에는 가입비나 월 이용료가 없으며 , 세금 공제가 가능한 기부를 받음 Nyx Net 은 자원봉사자만으로 운영되고 기부금으로 유지되는 501(c)(3) 비영리 단체 임 검열하지 않는 전체 Usenet 뉴스 피드 와 일반적인 Unix/Linux 프로그래밍 및 개발 도구를 제공함 2026년 5월 10일 공지에 따르면 시스템 업데이트로 SSH 호스트 키 와 허용되는 알고리듬이 변경됨 무료 서비스와 운영 방식 Nyx 는 세계에서 가장 오래된 인터넷",
-   "publishedAt": 1795394555000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.6,
-   "hot": true
-  },
-  {
-   "title": "Automated System 장애로 애틀랜타 경유 델타항공 전 항공편 지연",
-   "url": "https://news.hada.io/topic?id=37679&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Automated System 장애로 애틀랜타 경유 델타항공 전 항공편 지연",
-   "publishedAt": 1795394375000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.5,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -521,7 +521,7 @@
    "comments": 921,
    "publishedAt": 1795181399000,
    "isAI": true,
-   "score": 38.2,
+   "score": 37.9,
    "hot": false,
    "lastWeekRank": 10
   },
@@ -532,11 +532,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 192,
-   "comments": 160,
+   "engagement": 199,
+   "comments": 162,
    "publishedAt": 1795320609000,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.8,
    "hot": false
   },
   {
@@ -547,10 +547,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 581,
-   "comments": 347,
+   "comments": 348,
    "publishedAt": 1795167736000,
    "isAI": true,
-   "score": 37.8,
+   "score": 37.5,
    "hot": false,
    "lastWeekRank": 12
   },
@@ -561,11 +561,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1142,
+   "engagement": 1143,
    "comments": 2336,
    "publishedAt": 1795107760000,
    "isAI": true,
-   "score": 37.7,
+   "score": 37.5,
    "hot": false,
    "lastWeekRank": 14
   },
@@ -580,7 +580,7 @@
    "comments": 149,
    "publishedAt": 1795295873000,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false,
    "lastWeekRank": 11
   },
@@ -595,7 +595,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 37,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -606,10 +606,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 833,
-   "comments": 629,
+   "comments": 630,
    "publishedAt": 1795190790000,
    "isAI": false,
-   "score": 36.7,
+   "score": 36.5,
    "hot": false,
    "lastWeekRank": 13
   },
@@ -624,7 +624,7 @@
    "comments": 52,
    "publishedAt": 1795239481000,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false,
    "lastWeekRank": 16
   },
@@ -639,7 +639,7 @@
    "comments": 229,
    "publishedAt": 1795193967000,
    "isAI": true,
-   "score": 35.6,
+   "score": 35.4,
    "hot": false,
    "lastWeekRank": 21
   },
@@ -654,7 +654,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.1,
    "hot": false
   },
   {
@@ -668,7 +668,7 @@
    "comments": 250,
    "publishedAt": 1795105818000,
    "isAI": true,
-   "score": 34.7,
+   "score": 34.5,
    "hot": false,
    "lastWeekRank": 31
   },
@@ -679,11 +679,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 586,
+   "engagement": 587,
    "comments": 326,
    "publishedAt": 1795187011000,
    "isAI": false,
-   "score": 34.6,
+   "score": 34.3,
    "hot": false,
    "lastWeekRank": 27
   },
@@ -698,24 +698,9 @@
    "comments": 274,
    "publishedAt": 1795109444000,
    "isAI": true,
-   "score": 34.5,
+   "score": 34.3,
    "hot": false,
    "lastWeekRank": 33
-  },
-  {
-   "title": "GnuPG Security Advisory for GPGME",
-   "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50587208",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 265,
-   "comments": 116,
-   "publishedAt": 1795249978000,
-   "isAI": false,
-   "score": 34.2,
-   "hot": false,
-   "lastWeekRank": 25
   },
   {
    "title": "Gemini 4 Neon",
@@ -728,9 +713,38 @@
    "comments": 775,
    "publishedAt": 1795037647000,
    "isAI": true,
-   "score": 34.2,
+   "score": 34.1,
    "hot": false,
    "lastWeekRank": 40
+  },
+  {
+   "title": "GnuPG Security Advisory for GPGME",
+   "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50587208",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 265,
+   "comments": 116,
+   "publishedAt": 1795249978000,
+   "isAI": false,
+   "score": 33.9,
+   "hot": false,
+   "lastWeekRank": 25
+  },
+  {
+   "title": "'네온'이 3주 만에 '카본'을 추월한 이유…구글 \"3개 세대 동시 개발\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217693",
+   "summary": "구글이 대형 모델을 출시한 지 불과 3주 만에 최고 성능에서 이를 앞서는 중형급 모델을 선보이는 등 AI 개발 속도를 높이고 있다. 현재 모델과 차기·차차기 모델을 동시에 개발하고, 성능 평가와 학습을 반복하는 방식으로 새로운 모델을 잇달아 선보이고 있다는 설명이다.구글은 9월 말 '제미나이 4 아르곤'을 시작으로 10월 말 '카본', 이달 들어 '하이드로젠'과 '네온'을 연이어 출시했다. 특히 지난 18일 공개된 중형급 모델 네온은 아티피셜 애널리시스의 지능지수(AAII)에서 61점을 기록해, 10월28일 출시된 대형 모델 카본의",
+   "publishedAt": 1795423200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
+   "hot": false
   },
   {
    "title": "광주 상무역, AI로 열차 도착시간 예측…30초 남으면 표시 중단",
@@ -743,7 +757,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -757,7 +771,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -771,7 +785,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -785,7 +799,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -799,11 +813,25 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
-   "title": "애플, 실시간 영상 생성 AI ‘패스트프레임’ 공개...프레임당 36ms로 지연 줄여",
+   "title": "AI 에이전트가 CPU 아키텍처 직접 설계…전력 효율 4.59배 주장",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217705",
+   "summary": "AI 에이전트가 기존 반도체 회로를 개선하는 수준을 넘어 새로운 CPU 아키텍처를 설계한 사례가 공개됐다. 명령어 체계부터 회로 구현과 검증까지 AI가 수행한 것으로, 기존 순차 실행 CPU 코어보다 와트당 성능이 4.59배 높다는 평가 결과를 제시했다.미국 스타트업 아키텍트랩스(Architect Labs)는 18일(현지시간) AI 에이전트를 활용해 설계한 새로운 CPU 아키텍처 '프로스트바이트(Frostbite)'를 공개했다. 인간이 설정한 성능 목표와 검증 조건에 따라 AI가 아키텍처를 탐색하고, 명령어 체계부터 회로 설계와 검",
+   "publishedAt": 1795421400000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "애플, 실시간 영상 생성 AI ‘패스트프레임’ 공개...36ms 지연",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217686",
    "summary": "애플이 실시간 상호작용이 가능한 영상 생성 AI 모델을 공개했다. 영상 생성 과정에서 병목으로 작용하던 디코딩과 캐시 갱신 단계를 최적화해, 엔비디아 B200 GPU 한 장으로 프레임당 36밀리초(ms)의 처리 속도를 구현했다. 사용자 입력에 즉각 반응해야 하는 게임이나 시뮬레이션 등에 활용할 수 있는 수준이다.애플과 코넬대학교 연구진은 17일(현지시간) 자기회귀 방식의 비디오 확산 모델 제품군 ‘패스트프레임(FastFrames)’을 온라인 아카이브를 통해 공개했다. 패스트프레임은 13억개(1.3B)와 140억개(14B) 매개변수를",
    "publishedAt": 1795421400000,
@@ -813,7 +841,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -827,7 +855,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -841,49 +869,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "폭염경보 방송까지 53분…광주, AI로 외국어 재난방송 자동화 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217682",
-   "summary": "광주 글로벌광주방송(GGN)이 재난정보 수신부터 외국어 번역, 방송용 문안 작성과 송출 승인까지 연결하는 AI 자동화 시스템을 추진하고 있다. 지난 8월 폭염경보를 받은 뒤 실제 방송까지 53분 넘게 걸린 사례가 발생하면서 기존 제작 절차와 자동화 기술의 역할이 주목받고 있다.전남광주통합특별시의회가 지난 5일 실시한 행정사무감사에 따르면 글로벌광주방송에서는 2025년 10월 이후 약 1년간 재난정보를 받은 뒤 방송하기까지 30분 이상 걸린 사례가 5건 발생했다.지난해 10월 지진경보는 송출까지 36분 47초가 걸렸고, 올해 8월 1",
-   "publishedAt": 1795420200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "구글 AI 검색에 애플·레딧도 영향…검색 광고 수익성 저하",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217698",
-   "summary": "구글의 AI 검색 서비스 이용이 늘면서 기존 검색보다 낮은 광고 수익성이 새로운 과제로 떠오르고 있다. 검색 광고 매출 성장세가 둔화하는 가운데, 구글과 광고 수익을 공유하는 애플과 검색을 통해 이용자를 확보해 온 레딧에도 영향을 미치고 있다는 분석이다.21일(현지시간) 디 인포메이션에 따르면, 구글의 검색 광고 매출 성장률은 올해 1분기 19%, 2분기 17%, 3분기 12%로 낮아졌다.필립 신들러 구글 최고사업책임자(CBO)는 지난달 3분기 실적 발표에서 검색어 증가율은 5년 만에 가장 빠른 수준을 기록했지만, AI 모드에서는",
-   "publishedAt": 1795420173000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "머스크, AI 업계 자금난 재차 경고...\"2027년 수천억달러 추가 필요\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217699",
-   "summary": "일론 머스크 CEO가 AI 데이터센터의 가동 지연으로 내년 업계 전체에 수천억달러의 자금 부족이 발생할 수 있다고 경고했다. GPU 구매에 막대한 돈을 쏟아붓고도 실제 매출을 올리기까지 시간이 오래 걸리면서, 추가 자금을 어떻게 확보하느냐가 AI 기업들의 과제로 떠오를 것이라는 전망이다.머스크는 지난 21일(현지시간) 반도체 기업들의 예상 수익 대비 낮은 주가 수준을 보여주는 X 게시물에 댓글을 달고 \"내년에는 현금 부족 문제가 엄청나게 심각해질 것\"이라고 밝혔다.데이터센터 가동이 몇 달씩 지연되면 그동안 부족한 현금을 메우는 데만",
-   "publishedAt": 1795419265000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.6,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -897,22 +883,50 @@
    "comments": 248,
    "publishedAt": 1795131335000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false,
    "lastWeekRank": 38
   },
   {
-   "title": "애플, 사진·영상 속 실제 거리 추정하는 AI '뎁스 프로 2' 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217692",
-   "summary": "애플이 일반 카메라로 촬영한 사진과 영상만으로 사물의 실제 거리를 m 단위로 추정하는 AI 모델을 공개했다. 기존 단일 이미지 기반 깊이 추정 기술의 한계였던 영상 프레임 간 거리 정보의 불안정성을 개선하면서 사물 경계까지 선명하게 표현하는 것이 특징이다.애플은 19일(현지시간) 별도의 라이다(LiDAR) 센서나 다중 카메라 없이 한 대의 카메라로 촬영한 사진과 영상에서 픽셀마다 깊이 정보를 계산하는 AI 모델 '뎁스 프로 2(Depth Pro 2)'를 공개했다.영상에서는 여러 프레임을 함께 분석해 사물의 거리가 프레임마다 달라지는",
-   "publishedAt": 1795418112000,
+   "title": "폭염경보 방송까지 53분…광주, AI로 외국어 재난방송 자동화 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217682",
+   "summary": "광주 글로벌광주방송(GGN)이 재난정보 수신부터 외국어 번역, 방송용 문안 작성과 송출 승인까지 연결하는 AI 자동화 시스템을 추진하고 있다. 지난 8월 폭염경보를 받은 뒤 실제 방송까지 53분 넘게 걸린 사례가 발생하면서 기존 제작 절차와 자동화 기술의 역할이 주목받고 있다.전남광주통합특별시의회가 지난 5일 실시한 행정사무감사에 따르면 글로벌광주방송에서는 2025년 10월 이후 약 1년간 재난정보를 받은 뒤 방송하기까지 30분 이상 걸린 사례가 5건 발생했다.지난해 10월 지진경보는 송출까지 36분 47초가 걸렸고, 올해 8월 1",
+   "publishedAt": 1795420200000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "구글 AI 검색에 애플·레딧도 영향…검색 광고 수익성 저하",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217698",
+   "summary": "구글의 AI 검색 서비스 이용이 늘면서 기존 검색보다 낮은 광고 수익성이 새로운 과제로 떠오르고 있다. 검색 광고 매출 성장세가 둔화하는 가운데, 구글과 광고 수익을 공유하는 애플과 검색을 통해 이용자를 확보해 온 레딧에도 영향을 미치고 있다는 분석이다.21일(현지시간) 디 인포메이션에 따르면, 구글의 검색 광고 매출 성장률은 올해 1분기 19%, 2분기 17%, 3분기 12%로 낮아졌다.필립 신들러 구글 최고사업책임자(CBO)는 지난달 3분기 실적 발표에서 검색어 증가율은 5년 만에 가장 빠른 수준을 기록했지만, AI 모드에서는",
+   "publishedAt": 1795420173000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.3,
+   "hot": false
+  },
+  {
+   "title": "머스크, AI 업계 자금난 재차 경고...\"2027년 수천억달러 추가 필요\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217699",
+   "summary": "일론 머스크 CEO가 AI 데이터센터의 가동 지연으로 내년 업계 전체에 수천억달러의 자금 부족이 발생할 수 있다고 경고했다. GPU 구매에 막대한 돈을 쏟아붓고도 실제 매출을 올리기까지 시간이 오래 걸리면서, 추가 자금을 어떻게 확보하느냐가 AI 기업들의 과제로 떠오를 것이라는 전망이다.머스크는 지난 21일(현지시간) 반도체 기업들의 예상 수익 대비 낮은 주가 수준을 보여주는 X 게시물에 댓글을 달고 \"내년에는 현금 부족 문제가 엄청나게 심각해질 것\"이라고 밝혔다.데이터센터 가동이 몇 달씩 지연되면 그동안 부족한 현금을 메우는 데만",
+   "publishedAt": 1795419265000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -926,9 +940,23 @@
    "comments": 78,
    "publishedAt": 1795198516000,
    "isAI": true,
-   "score": 33.3,
+   "score": 33.1,
    "hot": false,
    "lastWeekRank": 36
+  },
+  {
+   "title": "애플, 사진·영상 속 실제 거리 추정하는 AI '뎁스 프로 2' 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217692",
+   "summary": "애플이 일반 카메라로 촬영한 사진과 영상만으로 사물의 실제 거리를 m 단위로 추정하는 AI 모델을 공개했다. 기존 단일 이미지 기반 깊이 추정 기술의 한계였던 영상 프레임 간 거리 정보의 불안정성을 개선하면서 사물 경계까지 선명하게 표현하는 것이 특징이다.애플은 19일(현지시간) 별도의 라이다(LiDAR) 센서나 다중 카메라 없이 한 대의 카메라로 촬영한 사진과 영상에서 픽셀마다 깊이 정보를 계산하는 AI 모델 '뎁스 프로 2(Depth Pro 2)'를 공개했다.영상에서는 여러 프레임을 함께 분석해 사물의 거리가 프레임마다 달라지는",
+   "publishedAt": 1795418112000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.1,
+   "hot": false
   },
   {
    "title": "앤트로픽, IPO 은행에 오픈AI 업무 제한...월가 불만",
@@ -941,7 +969,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -955,7 +983,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -969,7 +997,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -983,7 +1011,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -997,7 +1025,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1011,7 +1039,7 @@
    "comments": 95,
    "publishedAt": 1795231396000,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.4,
    "hot": false,
    "lastWeekRank": 39
   },
@@ -1022,13 +1050,28 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 186,
-   "comments": 98,
+   "engagement": 188,
+   "comments": 99,
    "publishedAt": 1795257237000,
    "isAI": false,
-   "score": 32.5,
+   "score": 32.3,
    "hot": false,
    "lastWeekRank": 37
+  },
+  {
+   "title": "GPT‑6.2 Astra and Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50535230",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1347,
+   "comments": 864,
+   "publishedAt": 1794937603000,
+   "isAI": true,
+   "score": 32.1,
+   "hot": false,
+   "lastWeekRank": 47
   },
   {
    "title": "AI 데이터센터 IPO 잇단 차질…데이원도 50억달러 미국 상장 보류",
@@ -1041,7 +1084,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1055,35 +1098,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "래블업, 미국 시장 겨냥 현지 인사이트 엔터프라이즈와 맞손",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217685",
-   "summary": "AI 인프라 소프트웨어 전문 래블업(대표 신정규)은 자사의 미국 자회사 래블업USA가 현지 기업용 솔루션 전문 '인사이트 엔터프라이즈'와 업무 제휴를 맺었다고 23일 밝혔다.양사는 이번 제휴를 통해 복잡성이 커지는 엔터프라이즈 환경에서 고객이 AI 인프라를 평가·도입·확장하는 전 과정을 함께 지원하기로 했다. 인사이트 엔터프라이즈는 클라우드, 데이터·AI, 모던 인프라, 사이버보안, 인텔리전트 엣지 등 영역에서 폭넓은 역량을 보유하고 있다.신정규 래블업 대표는 \"이번 제휴로 세계 최대 AI 인프라 시장인 미국에 백엔드.AI를 공급할",
-   "publishedAt": 1795406110000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "중국 AI 열풍 급랭...5개월간 기술주 시총 2300조 증발",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217683",
-   "summary": "중국의 AI 투자 열기가 빠르게 식으면서 주요 기술주 지수에 포함된 기업들의 시가총액이 5개월 만에 1조7000억달러(약 2300조원) 감소했다. 높은 기업가치와 미국의 반도체 규제, AI 투자 수익성에 대한 의문이 겹치면서 상반기 급등했던 중국 기술주가 하반기 들어 가파른 하락세를 보이고 있다.21일(현지시간) 블룸버그가 집계한 자료에 따르면, 중국 기술주 중심의 주요 3개 지수에서 6월 말 이후 사라진 시가총액은 총 1조7000억달러에 달한다. 상반기 기록적인 상승세를 보였던 AI 모델 개발사 Z.ai와 광모듈 업체 중지 이노라",
-   "publishedAt": 1795406063000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1097,24 +1112,37 @@
    "comments": 171,
    "publishedAt": 1795206161000,
    "isAI": false,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false,
    "lastWeekRank": 41
   },
   {
-   "title": "GPT‑6.2 Astra and Sol",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50535230",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1347,
-   "comments": 864,
-   "publishedAt": 1794937603000,
+   "title": "래블업, 미국 시장 겨냥 현지 인사이트 엔터프라이즈와 맞손",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217685",
+   "summary": "AI 인프라 소프트웨어 전문 래블업(대표 신정규)은 자사의 미국 자회사 래블업USA가 현지 기업용 솔루션 전문 '인사이트 엔터프라이즈'와 업무 제휴를 맺었다고 23일 밝혔다.양사는 이번 제휴를 통해 복잡성이 커지는 엔터프라이즈 환경에서 고객이 AI 인프라를 평가·도입·확장하는 전 과정을 함께 지원하기로 했다. 인사이트 엔터프라이즈는 클라우드, 데이터·AI, 모던 인프라, 사이버보안, 인텔리전트 엣지 등 영역에서 폭넓은 역량을 보유하고 있다.신정규 래블업 대표는 \"이번 제휴로 세계 최대 AI 인프라 시장인 미국에 백엔드.AI를 공급할",
+   "publishedAt": 1795406110000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
-   "hot": false,
-   "lastWeekRank": 47
+   "score": 31.9,
+   "hot": false
+  },
+  {
+   "title": "중국 AI 열풍 급랭...5개월간 기술주 시총 2300조 증발",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217683",
+   "summary": "중국의 AI 투자 열기가 빠르게 식으면서 주요 기술주 지수에 포함된 기업들의 시가총액이 5개월 만에 1조7000억달러(약 2300조원) 감소했다. 높은 기업가치와 미국의 반도체 규제, AI 투자 수익성에 대한 의문이 겹치면서 상반기 급등했던 중국 기술주가 하반기 들어 가파른 하락세를 보이고 있다.21일(현지시간) 블룸버그가 집계한 자료에 따르면, 중국 기술주 중심의 주요 3개 지수에서 6월 말 이후 사라진 시가총액은 총 1조7000억달러에 달한다. 상반기 기록적인 상승세를 보였던 AI 모델 개발사 Z.ai와 광모듈 업체 중지 이노라",
+   "publishedAt": 1795406063000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.9,
+   "hot": false
   },
   {
    "title": "앨리스 황 뒤 숨은 실세 기소...엔비디아 칩 중국 유출 거래망 주도",
@@ -1127,7 +1155,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1141,21 +1169,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
-   "hot": false
-  },
-  {
-   "title": "미 재무장관, 젠슨 황 복귀 여부에 \"수출 규제 위반부터 확인해야\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217675",
-   "summary": "스콧 베선트 미국 재무장관이 젠슨 황 전 엔비디아 CEO의 복귀 문제에 대해 수출 통제 위반 의혹의 책임 소재를 먼저 확인해야 한다는 입장을 밝혔다. 황 전 CEO의 개인적 문제와 엔비디아의 규정 준수 체계를 구분해야 한다는 것으로, 도널드 트럼프 대통령이 공개적으로 지지한 복귀 가능성에 대해서도 조사 결과가 중요하다고 강조했다.베선트 장관은 22일(현지시간) CBS '페이스 더 네이션' 인터뷰에서 엔비디아의 중국 AI 칩 판매와 관련해 임시 경영진과 이사회 주요 인사, 법률 대리인들과 접촉하고 있지만 아직 충분한 답변을 받지 못했",
-   "publishedAt": 1795404006000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1169,7 +1183,7 @@
    "comments": 208,
    "publishedAt": 1795152062000,
    "isAI": false,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false,
    "lastWeekRank": 44
   },
@@ -1184,9 +1198,23 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false,
    "lastWeekRank": 42
+  },
+  {
+   "title": "미 재무장관, 젠슨 황 복귀 여부에 \"수출 규제 위반부터 확인해야\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217675",
+   "summary": "스콧 베선트 미국 재무장관이 젠슨 황 전 엔비디아 CEO의 복귀 문제에 대해 수출 통제 위반 의혹의 책임 소재를 먼저 확인해야 한다는 입장을 밝혔다. 황 전 CEO의 개인적 문제와 엔비디아의 규정 준수 체계를 구분해야 한다는 것으로, 도널드 트럼프 대통령이 공개적으로 지지한 복귀 가능성에 대해서도 조사 결과가 중요하다고 강조했다.베선트 장관은 22일(현지시간) CBS '페이스 더 네이션' 인터뷰에서 엔비디아의 중국 AI 칩 판매와 관련해 임시 경영진과 이사회 주요 인사, 법률 대리인들과 접촉하고 있지만 아직 충분한 답변을 받지 못했",
+   "publishedAt": 1795404006000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.7,
+   "hot": false
   },
   {
    "title": "비드래프트, AI 보안 커널 공개 검증…70명 참가해 공격 사례 245건 제출",
@@ -1199,8 +1227,23 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.6,
    "hot": false
+  },
+  {
+   "title": "AI is killing All About Berlin",
+   "url": "https://nicolasbouliane.com/blog/death-by-ai",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50542705",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 821,
+   "comments": 713,
+   "publishedAt": 1794984446000,
+   "isAI": true,
+   "score": 31.3,
+   "hot": false,
+   "lastWeekRank": 50
   },
   {
    "title": "Clojure will affect the way you think about programming (2017)",
@@ -1213,24 +1256,9 @@
    "comments": 95,
    "publishedAt": 1795228839000,
    "isAI": false,
-   "score": 31.4,
+   "score": 31.1,
    "hot": false,
    "lastWeekRank": 43
-  },
-  {
-   "title": "AI is killing All About Berlin",
-   "url": "https://nicolasbouliane.com/blog/death-by-ai",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50542705",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 820,
-   "comments": 713,
-   "publishedAt": 1794984446000,
-   "isAI": true,
-   "score": 31.4,
-   "hot": false,
-   "lastWeekRank": 50
   },
   {
    "title": "UK government forced to admit it issued Apple a secret encryption order",
@@ -1243,7 +1271,7 @@
    "comments": 385,
    "publishedAt": 1795105263000,
    "isAI": false,
-   "score": 31.2,
+   "score": 31,
    "hot": false,
    "lastWeekRank": 46
   },
@@ -1258,7 +1286,7 @@
    "comments": 55,
    "publishedAt": 1795193885000,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false,
    "lastWeekRank": 45
   },
@@ -1273,7 +1301,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31,
+   "score": 30.7,
    "hot": false
   },
   {
@@ -1287,7 +1315,7 @@
    "comments": 252,
    "publishedAt": 1795102692000,
    "isAI": true,
-   "score": 30.6,
+   "score": 30.5,
    "hot": false,
    "lastWeekRank": 49
   },
@@ -1302,23 +1330,9 @@
    "comments": 801,
    "publishedAt": 1795044609000,
    "isAI": true,
-   "score": 30.4,
+   "score": 30.3,
    "hot": false,
    "lastWeekRank": 55
-  },
-  {
-   "title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217665",
-   "summary": "오픈AI가 AI의 지능 발전 수준을 측정할 수 있는 사전학습 성능 수치를 공개하고, 이를 토대로 주요 AI 기업들이 공동으로 지켜야 할 개발 제한선을 마련하자고 제안했다. 학습 성능이 높아질수록 예상하지 못한 새로운 능력이 나타난다는 분석으로, 샘 알트먼 CEO도 최근 회사가 발표한 내용 중 가장 중요한 것이라고 평가했다.야쿠브 파초키 오픈AI 최고과학책임자는 22일(현지시간) '퍼플렉시티와 지능(Perplexity and Intelligence)'이라는 글을 발표하고, AI의 지능 발전을 추적할 수 있는 공통 지표와 개발 제한선을",
-   "publishedAt": 1795385668000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.4,
-   "hot": false
   },
   {
    "title": "What Comes After AGI?",
@@ -1331,7 +1345,7 @@
    "comments": 347,
    "publishedAt": 1795142653000,
    "isAI": true,
-   "score": 30.3,
+   "score": 30.2,
    "hot": false,
    "lastWeekRank": 48
   },
@@ -1346,7 +1360,7 @@
    "comments": 265,
    "publishedAt": 1795016974000,
    "isAI": true,
-   "score": 30.3,
+   "score": 30.1,
    "hot": false,
    "lastWeekRank": 56
   },
@@ -1361,9 +1375,23 @@
    "comments": 565,
    "publishedAt": 1794961078000,
    "isAI": true,
-   "score": 30.2,
+   "score": 30.1,
    "hot": false,
    "lastWeekRank": 57
+  },
+  {
+   "title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217665",
+   "summary": "오픈AI가 AI의 지능 발전 수준을 측정할 수 있는 사전학습 성능 수치를 공개하고, 이를 토대로 주요 AI 기업들이 공동으로 지켜야 할 개발 제한선을 마련하자고 제안했다. 학습 성능이 높아질수록 예상하지 못한 새로운 능력이 나타난다는 분석으로, 샘 알트먼 CEO도 최근 회사가 발표한 내용 중 가장 중요한 것이라고 평가했다.야쿠브 파초키 오픈AI 최고과학책임자는 22일(현지시간) '퍼플렉시티와 지능(Perplexity and Intelligence)'이라는 글을 발표하고, AI의 지능 발전을 추적할 수 있는 공통 지표와 개발 제한선을",
+   "publishedAt": 1795385668000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.1,
+   "hot": false
   },
   {
    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -1376,7 +1404,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 30.1,
+   "score": 29.9,
    "hot": false,
    "lastWeekRank": 51
   },
@@ -1391,7 +1419,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 30.1,
+   "score": 29.9,
    "hot": false,
    "lastWeekRank": 52
   },
@@ -1406,38 +1434,9 @@
    "comments": 52,
    "publishedAt": 1795203016000,
    "isAI": false,
-   "score": 29.2,
+   "score": 29,
    "hot": false,
    "lastWeekRank": 54
-  },
-  {
-   "title": "LLM assisted reverse engineering",
-   "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50553225",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 316,
-   "comments": 82,
-   "publishedAt": 1795040953000,
-   "isAI": true,
-   "score": 29,
-   "hot": false,
-   "lastWeekRank": 63
-  },
-  {
-   "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-   "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-   "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi",
-   "publishedAt": 1795368320000,
-   "source": "The Verge",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 29,
-   "hot": false
   }
  ]
 }
