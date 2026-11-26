@@ -1,21 +1,7 @@
 {
- "updatedAt": 1795680811697,
+ "updatedAt": 1795684461223,
  "week": "2026-W48",
  "items": [
-  {
-   "title": "1Password Security Incident",
-   "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50644817",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1379,
-   "comments": 578,
-   "publishedAt": 1795627106000,
-   "isAI": false,
-   "score": 59.2,
-   "hot": true
-  },
   {
    "title": "Much shorter version of GRH Lean verification from Anthropic",
    "url": "https://github.com/lsernau/grh-lean",
@@ -23,11 +9,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 429,
-   "comments": 220,
+   "engagement": 445,
+   "comments": 225,
    "publishedAt": 1795643290000,
    "isAI": true,
-   "score": 59.1,
+   "score": 58.8,
+   "hot": true
+  },
+  {
+   "title": "1Password Security Incident",
+   "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50644817",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1409,
+   "comments": 599,
+   "publishedAt": 1795627106000,
+   "isAI": false,
+   "score": 58.8,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 341,
-   "comments": 291,
+   "engagement": 372,
+   "comments": 316,
    "publishedAt": 1795641482000,
    "isAI": true,
-   "score": 56.9,
+   "score": 57,
    "hot": true
   },
   {
@@ -51,26 +51,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 189,
-   "comments": 95,
+   "engagement": 223,
+   "comments": 114,
    "publishedAt": 1795664218000,
    "isAI": true,
-   "score": 55.3,
+   "score": 56.2,
    "hot": true
-  },
-  {
-   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-   "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50637686",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 457,
-   "comments": 198,
-   "publishedAt": 1795574061000,
-   "isAI": true,
-   "score": 49.7,
-   "hot": false
   },
   {
    "title": "Bare Metal Qwen",
@@ -79,12 +65,40 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 136,
-   "comments": 33,
+   "engagement": 143,
+   "comments": 35,
    "publishedAt": 1795644934000,
    "isAI": true,
    "score": 49.5,
    "hot": false
+  },
+  {
+   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+   "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50637686",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 458,
+   "comments": 198,
+   "publishedAt": 1795574061000,
+   "isAI": true,
+   "score": 49.2,
+   "hot": false
+  },
+  {
+   "title": "OpenAI, GPT-6.2 사용량 축소: Astra는 한도에 40%, Sol은 25% 더 빨리 도달",
+   "url": "https://news.hada.io/topic?id=37885&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "GPT-6.2 출시 당시 과금 오류 로 대부분 사용자의 Astra와 Sol 사용량에 잘못된 할인이 적용됐으며, 이를 수정함 수정 이후에는 같은 작업도 요금제 사용 한도를 더 많이 소모 함 지난주 대비 사용 한도에 도달하는 속도가 GPT-6.2 Astra는 40%, Sol은 25% 빨라짐 수정 후에도 6 Astra와 6.1 Sol보다는 더 많이 사용할 수 있을 것으로 보임 다른 모델은 영향을 받지 않았으며 , 과거 사용분의 차액은 청구하지 않음 과금 오류 수정과 사용 한도 변화 GPT-6.2 출시 당시 대부분 사용자의 GPT-6.2 ",
+   "publishedAt": 1795678316000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.1,
+   "hot": true
   },
   {
    "title": "LLM agents work for their parent companies, not for you",
@@ -93,11 +107,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1013,
+   "engagement": 1014,
    "comments": 410,
    "publishedAt": 1795524015000,
    "isAI": true,
-   "score": 49.3,
+   "score": 48.9,
    "hot": false
   },
   {
@@ -107,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 491,
-   "comments": 351,
+   "engagement": 492,
+   "comments": 355,
    "publishedAt": 1795613587000,
    "isAI": false,
-   "score": 48.9,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -125,7 +139,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.6,
+   "score": 48.1,
    "hot": true
   },
   {
@@ -135,11 +149,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 399,
+   "engagement": 400,
    "comments": 77,
    "publishedAt": 1795568089000,
    "isAI": true,
-   "score": 48,
+   "score": 47.6,
    "hot": false
   },
   {
@@ -149,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 270,
-   "comments": 121,
+   "engagement": 282,
+   "comments": 127,
    "publishedAt": 1795639080000,
    "isAI": false,
-   "score": 47.4,
+   "score": 47.3,
    "hot": true
   },
   {
@@ -167,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.8,
+   "score": 46.3,
    "hot": true
   },
   {
@@ -181,7 +195,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.7,
+   "score": 46.2,
    "hot": true
   },
   {
@@ -195,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.6,
+   "score": 46.1,
    "hot": true
   },
   {
@@ -223,21 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46,
-   "hot": true
-  },
-  {
-   "title": "뉴욕타임스, 사진가들에게 최신 Photoshop 사용 금지 통보",
-   "url": "https://news.hada.io/topic?id=37857&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "뉴욕타임스 가 프리랜서 사진가들에게 최신 Photoshop 대신 이전 버전을 사용하도록 요구함. 일부 기능이 사용자가 알아차리기 어려운 방식으로 생성형 AI 를 사용할 수 있다는 이유임 해당 기능을 사용하면 사진을 AI 생성물로 식별하는 메타데이터 가 붙을 수 있음. 뉴스 보도에 AI 생성 이미지를 사용하지 않겠다는 신문사의 방침과 맞물려 논란을 일으킬 수 있음 소셜 플랫폼은 대체로 사소한 AI 편집과 이미지 전체 생성 을 구분하지 않음. 도구에 생성형 AI가 쓰인다는 사실을 모르다가 사진에 AI 표시가 붙어 당황하는 사례가 있음 ",
-   "publishedAt": 1795651892000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.9,
+   "score": 45.5,
    "hot": true
   },
   {
@@ -251,7 +251,7 @@
    "comments": 97,
    "publishedAt": 1795554142000,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.2,
    "hot": false
   },
   {
@@ -262,25 +262,11 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 450,
-   "comments": 346,
+   "comments": 347,
    "publishedAt": 1795538744000,
    "isAI": true,
-   "score": 45.6,
+   "score": 45.2,
    "hot": false
-  },
-  {
-   "title": "Anthropic의 일반화 리만 가설 Lean 증명, 7만 6,000줄로 압축",
-   "url": "https://news.hada.io/topic?id=37854&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Levent Alpöge가 Claude와 만든 리만 가설과 디리클레 L-함수의 일반화 리만 가설(GRH) 증명 을, Anthropic 동료들과 Claude가 협업해 더 짧게 정리함 가독성 중심 버전은 약 30만 줄, 압축 버전은 약 7만 6,000줄 이며, 두 버전 모두 같은 다섯 정리를 담음 가독성 중심 버전은 배경 이론과 새로운 논증을 나누고 읽기 안내를 제공 해, 정리의 정의부터 핵심 논증까지 따라갈 수 있도록 구성함 Lean 4와 수학 라이브러리 Mathlib 위에 구축했으며, 추가 공리 없이 Lean의 기본 공리 세 가지만",
-   "publishedAt": 1795649517000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.6,
-   "hot": true
   },
   {
    "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
@@ -289,11 +275,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 333,
+   "engagement": 336,
    "comments": 186,
    "publishedAt": 1795606465000,
    "isAI": false,
-   "score": 45,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -307,7 +293,7 @@
    "comments": 171,
    "publishedAt": 1795579413000,
    "isAI": true,
-   "score": 45,
+   "score": 44.6,
    "hot": false
   },
   {
@@ -321,22 +307,8 @@
    "comments": 83,
    "publishedAt": 1795578462000,
    "isAI": true,
-   "score": 44.9,
+   "score": 44.5,
    "hot": false
-  },
-  {
-   "title": "LLM으로 문서 없는 9달러 AliExpress ‘YP3’ MP3 플레이어에 Rockbox 포팅하기",
-   "url": "https://news.hada.io/topic?id=37853&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "RAM이 512 KiB뿐인 9달러 MP3 플레이어에 오픈소스 음악 재생 펌웨어 Rockbox를 이식 함. LLM이 코드를 작성하고 사람이 개발 방향과 테스트를 맡아, 약 일주일 만에 부팅과 음악 재생에 성공한 뒤 한 달가량 최적화와 버그 수정을 진행함 메모리에 맞춰 일부 기능을 줄였지만 MP3, AAC, Opus, FLAC 등 다양한 형식과 Bluetooth 재생을 지원 함. 코덱과 플러그인이 같은 메모리 공간을 사용해, 게임 같은 플러그인을 실행하면 음악은 중단됨 펌웨어 역공학과 하드웨어 검증 을 기기 분해나 납땜 없이 수행함. ",
-   "publishedAt": 1795642471000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.7,
-   "hot": true
   },
   {
    "title": "Anthropic breaks below $83 IPO price",
@@ -346,10 +318,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 427,
-   "comments": 795,
+   "comments": 796,
    "publishedAt": 1795526627000,
    "isAI": true,
-   "score": 44,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -363,7 +335,7 @@
    "comments": 147,
    "publishedAt": 1795575877000,
    "isAI": false,
-   "score": 43.8,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -377,7 +349,7 @@
    "comments": 333,
    "publishedAt": 1795536758000,
    "isAI": true,
-   "score": 43.5,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -388,10 +360,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 2843,
-   "comments": 3803,
+   "comments": 3804,
    "publishedAt": 1795442418000,
    "isAI": false,
-   "score": 43,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -401,12 +373,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 345,
-   "comments": 79,
+   "engagement": 346,
+   "comments": 80,
    "publishedAt": 1795581108000,
    "isAI": false,
-   "score": 42.4,
+   "score": 42.1,
    "hot": false
+  },
+  {
+   "title": "polynomial Hirsch conjecture의 반증 [pdf]",
+   "url": "https://news.hada.io/topic?id=37888&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "polynomial Hirsch conjecture의 반증 [pdf]",
+   "publishedAt": 1795681913000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
@@ -419,8 +405,36 @@
    "comments": 386,
    "publishedAt": 1795428403000,
    "isAI": true,
-   "score": 41.7,
+   "score": 41.5,
    "hot": false
+  },
+  {
+   "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+   "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50647161",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 140,
+   "comments": 53,
+   "publishedAt": 1795638950000,
+   "isAI": false,
+   "score": 41.4,
+   "hot": false
+  },
+  {
+   "title": "Show GN: MacMan Vanish – 맥 앱을 지울 때 남는 파일까지 함께 지우는 무료 앱",
+   "url": "https://news.hada.io/topic?id=37886&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "맥에서 앱을 휴지통에 넣으면 앱 본체만 지워지고, 설정·캐시·데이터 폴더는 ~/Library에 그대로 남습니다. Vanish는 그 파일들을 찾아 앱과 함께 휴지통으로 보냅니다. 지우기 전에 무엇이 사라지는지 경로와 크기로 전부 보여 줍니다. 남길 파일은 체크를 풀면 됩니다. 여러 앱을 한 번에 고를 수 있습니다. 바로 지우지 않고 휴지통으로만 보냅니다. 잘못 지웠으면 되돌려 놓으면 됩니다. 다른 앱과 함께 쓰는 데이터, 제작사 공용 폴더, 시스템 영역은 건드리지 않습니다. 무료이고 광고와 계정이 없습니다. macOS 14 이상, A",
+   "publishedAt": 1795679367000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
   },
   {
    "title": "Hex.pm 보안 사고 발생",
@@ -433,22 +447,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.5,
+   "score": 41,
    "hot": true
-  },
-  {
-   "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-   "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50647161",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 129,
-   "comments": 46,
-   "publishedAt": 1795638950000,
-   "isAI": false,
-   "score": 41.2,
-   "hot": false
   },
   {
    "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
@@ -461,7 +461,21 @@
    "comments": 20,
    "publishedAt": 1795577286000,
    "isAI": true,
-   "score": 41.2,
+   "score": 40.8,
+   "hot": false
+  },
+  {
+   "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50631210",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 223,
+   "comments": 134,
+   "publishedAt": 1795540245000,
+   "isAI": true,
+   "score": 40.8,
    "hot": false
   },
   {
@@ -475,22 +489,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.2,
+   "score": 40.8,
    "hot": true
-  },
-  {
-   "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
-   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50631210",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 223,
-   "comments": 134,
-   "publishedAt": 1795540245000,
-   "isAI": true,
-   "score": 41.1,
-   "hot": false
   },
   {
    "title": "Tell HN: Ask HN 게시물이 다시 많아졌습니다",
@@ -503,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40.4,
    "hot": true
   },
   {
@@ -517,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40.1,
    "hot": true
   },
   {
@@ -531,7 +531,7 @@
    "comments": 4,
    "publishedAt": 1795442483000,
    "isAI": false,
-   "score": 40.2,
+   "score": 40,
    "hot": false
   },
   {
@@ -545,7 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -555,11 +555,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 502,
+   "engagement": 504,
    "comments": 588,
    "publishedAt": 1795526371000,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -573,7 +573,7 @@
    "comments": 53,
    "publishedAt": 1795575696000,
    "isAI": true,
-   "score": 39.3,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -587,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -601,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39,
+   "score": 38.6,
    "hot": true
   },
   {
@@ -615,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": true
   },
   {
@@ -629,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -643,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -657,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -667,11 +667,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 710,
+   "engagement": 711,
    "comments": 348,
    "publishedAt": 1795473149000,
    "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": false
   },
   {
@@ -685,7 +685,7 @@
    "comments": 152,
    "publishedAt": 1795537937000,
    "isAI": false,
-   "score": 37.3,
+   "score": 37,
    "hot": false
   },
   {
@@ -699,7 +699,7 @@
    "comments": 3,
    "publishedAt": 1795531275000,
    "isAI": true,
-   "score": 36.9,
+   "score": 36.6,
    "hot": false
   },
   {
@@ -713,7 +713,7 @@
    "comments": 318,
    "publishedAt": 1795381276000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -727,7 +727,7 @@
    "comments": 244,
    "publishedAt": 1795540061000,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -741,21 +741,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "Apple removed my open-source app from EU App Stores after 9 years",
-   "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50616933",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 631,
-   "comments": 179,
-   "publishedAt": 1795459690000,
-   "isAI": false,
-   "score": 36,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -769,9 +755,23 @@
    "comments": 1010,
    "publishedAt": 1795337854000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.8,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "Apple removed my open-source app from EU App Stores after 9 years",
+   "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50616933",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 631,
+   "comments": 180,
+   "publishedAt": 1795459690000,
+   "isAI": false,
+   "score": 35.7,
+   "hot": false
   },
   {
    "title": "Who in Washington owns and trades Nvidia stock",
@@ -784,7 +784,7 @@
    "comments": 167,
    "publishedAt": 1795521065000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false
   },
   {
@@ -798,35 +798,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 35.2,
-   "hot": false
-  },
-  {
-   "title": "Clay helps sales teams win with Codex and ChatGPT",
-   "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
-   "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
-   "publishedAt": 1795478400000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
-   "score": 35.1,
-   "hot": false
-  },
-  {
-   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-   "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-   "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-   "publishedAt": 1795635864000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 35.1,
+   "score": 34.9,
    "hot": false
   },
   {
@@ -840,21 +812,35 @@
    "comments": 187,
    "publishedAt": 1795396431000,
    "isAI": false,
-   "score": 35,
+   "score": 34.8,
    "hot": false
   },
   {
-   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-   "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-   "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
-   "publishedAt": 1795630306000,
+   "title": "Clay helps sales teams win with Codex and ChatGPT",
+   "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+   "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+   "publishedAt": 1795478400000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 34.8,
+   "hot": false
+  },
+  {
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+   "publishedAt": 1795635864000,
    "source": "TechCrunch AI",
    "sourceType": "media",
    "lang": "en",
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.6,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -868,7 +854,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.2,
+   "hot": false
+  },
+  {
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+   "publishedAt": 1795630306000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -882,7 +882,49 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.4,
+   "score": 34,
+   "hot": false
+  },
+  {
+   "title": "AI가 작성한 코드, 같은 AI가 검토...개발 조직 절반 가까이 활용",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217834",
+   "summary": "AI 코딩 도구의 도입으로 코드 생산량이 크게 늘면서 이를 검토하는 과정이 소프트웨어 개발의 새로운 병목으로 떠올랐다. 개발 조직의 절반 가까이가 코드를 작성한 AI 에이전트에 검토까지 맡기고 있으며, 개발자가 AI 생성 코드를 충분히 이해하지 못한 채 승인하는 문제도 나타나고 있다.개발자 리더십 전문 매체 리드데브(LeadDev)가 공개한 2026 AI 코드 검토 보고서에 따르면, 응답자의 47%가 소속 조직에서 코드를 작성한 AI 에이전트에 해당 코드의 검토까지 맡긴다고 답했다.이번 조사는 미국과 유럽의 개발자 및 엔지니어링 조",
+   "publishedAt": 1795683333000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.9,
+   "hot": false
+  },
+  {
+   "title": "오픈AI 노엄 브라운 \"AI 재귀적 자기개선, 인류 기술 진화와 같은 원리\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217835",
+   "summary": "노엄 브라운 오픈AI 연구 부사장이 AI의 재귀적 자기개선(RSI)은 인류가 기존 기술을 활용해 새로운 기술을 개발해 온 과정과 본질적으로 다르지 않다고 밝혔다. AI가 모든 분야에서 인간을 능가하지 않더라도 자기개선에 필요한 능력을 집중적으로 높일 수 있으며, 향후 1~2년간 AI 기술의 급격한 발전이 이어질 것으로 전망했다.브라운 부사장은 24일(현지시간) 세쿼이아 캐피털이 공개한 인터뷰에서 AI의 재귀적 자기개선 가능성과 기술 발전 속도에 관한 견해를 밝혔다. 그는 2024년 오픈AI의 첫 추론 모델 'o1' 개발을 주도한 핵",
+   "publishedAt": 1795681579000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "뉴욕주, 어린이용 AI 챗봇 장난감 제조·판매 5년간 금지",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217833",
+   "summary": "미국 뉴욕주가 어린이용 AI 챗봇 장난감의 제조와 유통, 판매를 5년간 금지한다. 부적절한 대화와 정서적 의존, 개인정보 침해 등 어린이에게 미칠 수 있는 위험을 차단하고 제품의 안전성을 검증하기 위한 조치다.캐시 호철 뉴욕주지사는 24일(현지시간) 이 같은 내용을 담은 법안에 서명했다. 13세 미만 어린이를 대상으로 AI 챗봇을 탑재한 장난감이 규제 대상이며, 인터넷에 연결해 어린이와 대화하는 인형과 로봇 등이 대표적이다. 법률은 서명일로부터 90일 뒤 발효된다.호철 주지사는 부모들이 장난감을 구매하면서 자녀가 부적절한 대화나 감",
+   "publishedAt": 1795679700000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -896,21 +938,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
-   "hot": false
-  },
-  {
-   "title": "코그니션, 코딩 모델 'SWE-2.1' 출시…장기 작업·사이버 보안 성능 강화",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217826",
-   "summary": "AI 코딩 에이전트 '데빈(Devin)'의 개발사 코그니션이 중국 오픈웨이트 모델을 기반으로 장시간 자율 작업 능력과 사이버 보안 성능을 크게 높인 새 모델을 출시했다. 사이버 보안 특화 모델과 추론 속도를 10배 높인 모델도 함께 선보였다.코그니션은 24일(현지시간) 공식 블로그를 통해 코딩 모델 'SWE-2.1'을 공개했다. 전작과 마찬가지로 중국 문샷 AI의 '키미 K3'에 강화학습만을 적용해 개발한 모델이다.실제 소프트웨어 개발 환경에서 코드 변경 사항의 품질을 평가하는 '프론티어코드 2.0' 점수는 전작의 24.1%에서 4",
-   "publishedAt": 1795678782000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -924,7 +952,7 @@
    "comments": 262,
    "publishedAt": 1795475498000,
    "isAI": false,
-   "score": 33.7,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -938,7 +966,35 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "코그니션, 코딩 모델 'SWE-2.1' 출시…장기 작업·사이버 보안 성능 강화",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217826",
+   "summary": "AI 코딩 에이전트 '데빈(Devin)'의 개발사 코그니션이 중국 오픈웨이트 모델을 기반으로 장시간 자율 작업 능력과 사이버 보안 성능을 크게 높인 새 모델을 출시했다. 사이버 보안 특화 모델과 추론 속도를 10배 높인 모델도 함께 선보였다.코그니션은 24일(현지시간) 공식 블로그를 통해 코딩 모델 'SWE-2.1'을 공개했다. 전작과 마찬가지로 중국 문샷 AI의 '키미 K3'에 강화학습만을 적용해 개발한 모델이다.실제 소프트웨어 개발 환경에서 코드 변경 사항의 품질을 평가하는 '프론티어코드 2.0' 점수는 전작의 24.1%에서 4",
+   "publishedAt": 1795678782000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
+   "hot": false
+  },
+  {
+   "title": "[게시판] 인핸스, 국방정보본부 'AI 민간자문기업' 위촉 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217827",
+   "summary": "■ 인핸스(대표 이승현)는 국방정보본부 AI 민간자문기업으로 위촉됐다고 밝혔다. 국방정보본부는 군사정보 분석 역량 강화와 국방 AI 발전을 위해 민간 AI 전문기업과의 협력 체계를 구축하고 있으며, 내년 말까지 데이터 표준화와 전문기술 지원 등 AI 전반에 걸쳐 자문한다. 인핸스는 온톨로지 기술과 컴퓨터 유즈 AI 에이전트 기술을 결합한 '에이전트 운영체제(OS)'로 기업·기관 업무에 AI를 적용 중이다.■ 엘리스그룹(대표 김재원)은 다양한 생성형 AI 모델과 도구를 쓸 수 있는 기관 전용 AI 솔루션 '헬피챗(Helpy Chat)",
+   "publishedAt": 1795678200000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -952,7 +1008,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -966,7 +1022,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -980,7 +1036,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -994,49 +1050,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "MS \"AI 투자수익 4배 기업의 비결은 전사적 활용과 통제\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217808",
-   "summary": "AI 혁신의 승부처가 '도입 여부'에서 '가치 확장과 통제 역량'으로 옮겨 가고 있다. AI 성숙도 상위 10%에 해당하는 프론티어 기업(IDC 평가 기준)은 계획보다 앞선 투자, 전사적 활용, 에이전트의 실전 투입, 거버넌스, 전 직원 역량강화 등을 함께 추진하며 평균 4배의 AI 투자 수익(ROI)을 거둔 것으로 나타났다. 마이크로소프트(MS)는 글로벌 시장조사업체 IDC에 의뢰한 'AI 비즈니스 기회 연구(Business Opportunity of AI Study)'를 통해 프론티어 기업의 AI 혁신 성공 요건을 발표했다. 이",
-   "publishedAt": 1795673909000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.3,
-   "hot": false
-  },
-  {
-   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-   "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-   "publishedAt": 1795615818000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "아모데이 \"인간 통제권 AI에 넘긴다는 주장 터무니없어\"…경쟁사도 비판",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217824",
-   "summary": "다리오 아모데이 앤트로픽 CEO가 인간의 의사결정 권한을 초지능에 넘기는 것을 지지한다는 보도에 강하게 반발했다. 인간의 통치권과 개별 업무의 자동화는 별개의 문제라며, 인간의 통제권을 강조하면서 실제로는 업무 자동화 경쟁을 벌이는 다른 AI 기업 수장들도 비판했다.악시오스는 25일(현지시간) 소식통을 인용, 앤트로픽 내부 일부 직원 사이에서 인간이 초지능 AI에 의사결정 권한을 넘기는 것이 바람직하다는 견해가 형성됐다고 보도했다.AI가 질병 치료나 재난 예방 등에서 인간을 능가한다면, 인간이 계속 결정권을 고집하는 것이 비합리적이",
-   "publishedAt": 1795672660000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.2,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -1050,7 +1064,35 @@
    "comments": 122,
    "publishedAt": 1795501684000,
    "isAI": false,
-   "score": 33.1,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+   "publishedAt": 1795615818000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32.9,
+   "hot": false
+  },
+  {
+   "title": "MS \"AI 투자수익 4배 기업의 비결은 전사적 활용과 통제\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217808",
+   "summary": "AI 혁신의 승부처가 '도입 여부'에서 '가치 확장과 통제 역량'으로 옮겨 가고 있다. AI 성숙도 상위 10%에 해당하는 프론티어 기업(IDC 평가 기준)은 계획보다 앞선 투자, 전사적 활용, 에이전트의 실전 투입, 거버넌스, 전 직원 역량강화 등을 함께 추진하며 평균 4배의 AI 투자 수익(ROI)을 거둔 것으로 나타났다. 마이크로소프트(MS)는 글로벌 시장조사업체 IDC에 의뢰한 'AI 비즈니스 기회 연구(Business Opportunity of AI Study)'를 통해 프론티어 기업의 AI 혁신 성공 요건을 발표했다. 이",
+   "publishedAt": 1795673909000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -1060,53 +1102,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 117,
+   "engagement": 118,
    "comments": 95,
    "publishedAt": 1795487816000,
    "isAI": true,
-   "score": 33,
+   "score": 32.8,
    "hot": false
   },
   {
-   "title": "중소기업도 AI로 업무 자동화…25분 걸리던 작업 46초로",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217812",
-   "summary": "정부가 중소기업의 AI 활용 역량을 높이기 위해 올해 도입한 현장 맞춤형 직무훈련이 업무 자동화 성과로 이어지고 있다. 자재 명세서 작성과 기술문서 검토 등에 AI를 적용한 사례가 등장한 가운데 전남광주에서도 지역 중소기업의 AI 전환을 지원하는 훈련체계가 운영되고 있다.한국산업인력공단은 26일 서울에서 '2026년 AI 훈련 우수사례 경진대회'를 열고 12개 기업·기관의 업무 개선 사례를 공개했다.공단은 올해 중소기업 AI 훈련확산센터 10곳과 AI 특화 공동훈련센터 20곳을 신설했다. AI 도입에 필요한 전문인력과 인프라 확보가",
-   "publishedAt": 1795670686000,
+   "title": "아모데이 \"인간 통제권 AI에 넘긴다는 주장 터무니없어\"…경쟁사도 비판",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217824",
+   "summary": "다리오 아모데이 앤트로픽 CEO가 인간의 의사결정 권한을 초지능에 넘기는 것을 지지한다는 보도에 강하게 반발했다. 인간의 통치권과 개별 업무의 자동화는 별개의 문제라며, 인간의 통제권을 강조하면서 실제로는 업무 자동화 경쟁을 벌이는 다른 AI 기업 수장들도 비판했다.악시오스는 25일(현지시간) 소식통을 인용, 앤트로픽 내부 일부 직원 사이에서 인간이 초지능 AI에 의사결정 권한을 넘기는 것이 바람직하다는 견해가 형성됐다고 보도했다.AI가 질병 치료나 재난 예방 등에서 인간을 능가한다면, 인간이 계속 결정권을 고집하는 것이 비합리적이",
+   "publishedAt": 1795672660000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "공직사회도 '바이브 코딩'…공무원이 업무용 앱 직접 개발",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217815",
-   "summary": "전국 공직사회에서 AI를 활용해 업무에 필요한 프로그램을 직접 개발하는 사례가 잇따르고 있다. 출장비 정산부터 복지사업 조사, 교원 인사관리까지 활용 분야가 다양해지면서 업무시간을 줄이고 외부 용역을 대체하는 성과도 나오고 있다.행정안전부에 따르면 25일 결선 일정이 마련된 '2026년 공공 AI 대전환 챌린지'에는 전국 287개 기관에서 1035개 작품이 출품됐다. 참가자 1610명 중 5명 중 4명은 정보화 부서가 아닌 일반 현업 부서 소속이었다.제주도는 공무원들이 직접 개발한 프로그램 5건의 효과를 분석한 결과 4건에서 연간",
-   "publishedAt": 1795670485000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 57년 된 행렬 곱셈 난제 해결 주장…연산량 한계 규명",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217818",
-   "summary": "오픈AI가 미공개 AI 모델로 57년간 이어진 행렬 곱셈의 연산 복잡도에 관한 수학 난제를 해결했다고 주장했다. 지난달 행렬 곱셈에 필요한 연산량을 획기적으로 줄이는 방법을 발견한 데 이어, 이번에는 이론적으로 그 이상의 개선이 불가능하다는 증명을 내놓았다.오픈AI는 24일(현지시간) 공식 깃허브를 통해 '행렬 곱셈 지수는 9/4(The Matrix Multiplication Exponent Is Nine Fourths)'라는 제목의 111페이지 분량 논문을 공개했다. 연구를 수행한 내부 AI 모델의 이름은 공개하지 않았다.행렬 곱",
-   "publishedAt": 1795670093000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.9,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -1120,21 +1134,49 @@
    "comments": 267,
    "publishedAt": 1795405764000,
    "isAI": false,
-   "score": 32.8,
+   "score": 32.6,
    "hot": false
   },
   {
-   "title": "Searching for distant planets with Astra",
-   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-   "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
-   "publishedAt": 1795518000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
+   "title": "중소기업도 AI로 업무 자동화…25분 걸리던 작업 46초로",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217812",
+   "summary": "정부가 중소기업의 AI 활용 역량을 높이기 위해 올해 도입한 현장 맞춤형 직무훈련이 업무 자동화 성과로 이어지고 있다. 자재 명세서 작성과 기술문서 검토 등에 AI를 적용한 사례가 등장한 가운데 전남광주에서도 지역 중소기업의 AI 전환을 지원하는 훈련체계가 운영되고 있다.한국산업인력공단은 26일 서울에서 '2026년 AI 훈련 우수사례 경진대회'를 열고 12개 기업·기관의 업무 개선 사례를 공개했다.공단은 올해 중소기업 AI 훈련확산센터 10곳과 AI 특화 공동훈련센터 20곳을 신설했다. AI 도입에 필요한 전문인력과 인프라 확보가",
+   "publishedAt": 1795670686000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
    "engagement": null,
-   "baseWeight": 50,
-   "isAI": false,
-   "score": 32.8,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "공직사회도 '바이브 코딩'…공무원이 업무용 앱 직접 개발",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217815",
+   "summary": "전국 공직사회에서 AI를 활용해 업무에 필요한 프로그램을 직접 개발하는 사례가 잇따르고 있다. 출장비 정산부터 복지사업 조사, 교원 인사관리까지 활용 분야가 다양해지면서 업무시간을 줄이고 외부 용역을 대체하는 성과도 나오고 있다.행정안전부에 따르면 25일 결선 일정이 마련된 '2026년 공공 AI 대전환 챌린지'에는 전국 287개 기관에서 1035개 작품이 출품됐다. 참가자 1610명 중 5명 중 4명은 정보화 부서가 아닌 일반 현업 부서 소속이었다.제주도는 공무원들이 직접 개발한 프로그램 5건의 효과를 분석한 결과 4건에서 연간",
+   "publishedAt": 1795670485000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 57년 된 행렬 곱셈 난제 해결 주장…연산량 한계 규명",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217818",
+   "summary": "오픈AI가 미공개 AI 모델로 57년간 이어진 행렬 곱셈의 연산 복잡도에 관한 수학 난제를 해결했다고 주장했다. 지난달 행렬 곱셈에 필요한 연산량을 획기적으로 줄이는 방법을 발견한 데 이어, 이번에는 이론적으로 그 이상의 개선이 불가능하다는 증명을 내놓았다.오픈AI는 24일(현지시간) 공식 깃허브를 통해 '행렬 곱셈 지수는 9/4(The Matrix Multiplication Exponent Is Nine Fourths)'라는 제목의 111페이지 분량 논문을 공개했다. 연구를 수행한 내부 AI 모델의 이름은 공개하지 않았다.행렬 곱",
+   "publishedAt": 1795670093000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1148,7 +1190,35 @@
    "comments": 132,
    "publishedAt": 1795497322000,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "Searching for distant planets with Astra",
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "publishedAt": 1795518000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": false,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+   "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50601280",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 365,
+   "comments": 104,
+   "publishedAt": 1795365888000,
+   "isAI": true,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1162,7 +1232,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1176,7 +1246,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 32,
    "hot": false
   },
   {
@@ -1190,21 +1260,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-   "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50601280",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 358,
-   "comments": 99,
-   "publishedAt": 1795365888000,
-   "isAI": true,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1218,7 +1274,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1232,7 +1288,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1246,7 +1302,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1260,7 +1316,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1274,7 +1330,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1288,7 +1344,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1302,7 +1358,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1316,35 +1372,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "전남광주, 공무원 5000명에 AI 보급 추진…영국선 하루 26분 업무시간 절감 보고",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217788",
-   "summary": "전남광주통합특별시가 공무원 약 5000명에게 생성형 AI 업무 도구를 보급하기 위해 2027년 예산안에 4억원을 편성했다. 정부가 공무원 업무망에서 활용하는 AI 서비스를 확대하는 가운데 영국에서는 공무원 2만명을 대상으로 한 별도의 AI 실증에서 하루 평균 26분의 업무시간을 줄였다는 결과가 나왔다.전남광주통합특별시의회가 24일 공개한 자료에 따르면 지난 23일 열린 2027년도 본예산안 심사에서 공무원 'AI 도구 지원' 예산의 실효성이 논의됐다. 해당 사업 예산은 올해 2160만원에서 내년 4억원으로 약 18.5배 늘어났다.통",
-   "publishedAt": 1795660054000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "인천공항, AI 에이전트 운영 검증 완료…상황 대응 시간 최대 65% 단축 기대",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217802",
-   "summary": "인천국제공항공사가 AI 에이전트를 활용해 공항 운영 효율과 비상 상황 대응 역량을 높이는 방안을 검증했다.인천국제공항공사와 글로벌 항공 IT 기업 시타(SITA)는 인천공항 통합운영센터에 에이전틱 AI를 적용하기 위한 개념검증(PoC)을 완료했다고 25일 밝혔다.양측은 지난 5월부터 6개월간 시타의 AI 에이전트 플랫폼 '뉴럴 옵스(Neural Ops)'를 활용해 기상 악화와 항공기 회항, 여객 밀집 등 주요 상황에 대한 대응 기능을 점검했다.AI 에이전트는 실시간 공항 운영정보와 표준운영절차를 바탕으로 위험 수준을 분석하고 대응",
-   "publishedAt": 1795659551000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.9,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1358,47 +1386,19 @@
    "comments": 90,
    "publishedAt": 1795355818000,
    "isAI": true,
-   "score": 31.8,
-   "hot": false
-  },
-  {
-   "title": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-   "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50630245",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 128,
-   "comments": 68,
-   "publishedAt": 1795536509000,
-   "isAI": false,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "Connected intelligence for in-house legal",
-   "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-   "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-   "publishedAt": 1795420800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": true,
    "score": 31.6,
    "hot": false
   },
   {
-   "title": "Richpanel helps companies automate 50% of support in 30 days",
-   "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-   "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-   "publishedAt": 1795420800000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
+   "title": "전남광주, 공무원 5000명에 AI 보급 추진…영국선 하루 26분 업무시간 절감 보고",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217788",
+   "summary": "전남광주통합특별시가 공무원 약 5000명에게 생성형 AI 업무 도구를 보급하기 위해 2027년 예산안에 4억원을 편성했다. 정부가 공무원 업무망에서 활용하는 AI 서비스를 확대하는 가운데 영국에서는 공무원 2만명을 대상으로 한 별도의 AI 실증에서 하루 평균 26분의 업무시간을 줄였다는 결과가 나왔다.전남광주통합특별시의회가 24일 공개한 자료에 따르면 지난 23일 열린 2027년도 본예산안 심사에서 공무원 'AI 도구 지원' 예산의 실효성이 논의됐다. 해당 사업 예산은 올해 2160만원에서 내년 4억원으로 약 18.5배 늘어났다.통",
+   "publishedAt": 1795660054000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
    "engagement": null,
-   "baseWeight": 50,
+   "baseWeight": 26,
    "isAI": true,
    "score": 31.6,
    "hot": false
