@@ -1,7 +1,21 @@
 {
- "updatedAt": 1795695685117,
+ "updatedAt": 1795699337645,
  "week": "2026-W48",
  "items": [
+  {
+   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50651117",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 339,
+   "comments": 187,
+   "publishedAt": 1795664218000,
+   "isAI": true,
+   "score": 57.5,
+   "hot": true
+  },
   {
    "title": "Much shorter version of GRH Lean verification from Anthropic",
    "url": "https://github.com/lsernau/grh-lean",
@@ -9,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 473,
-   "comments": 256,
+   "engagement": 487,
+   "comments": 277,
    "publishedAt": 1795643290000,
    "isAI": true,
-   "score": 57.5,
+   "score": 57.2,
    "hot": true
   },
   {
@@ -23,25 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1485,
-   "comments": 639,
+   "engagement": 1507,
+   "comments": 650,
    "publishedAt": 1795627106000,
    "isAI": false,
-   "score": 57.4,
-   "hot": true
-  },
-  {
-   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50651117",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 303,
-   "comments": 173,
-   "publishedAt": 1795664218000,
-   "isAI": true,
-   "score": 57.1,
+   "score": 57,
    "hot": true
   },
   {
@@ -51,11 +51,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 424,
-   "comments": 354,
+   "engagement": 456,
+   "comments": 382,
    "publishedAt": 1795641482000,
    "isAI": true,
-   "score": 56.3,
+   "score": 56.4,
    "hot": true
   },
   {
@@ -65,11 +65,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 172,
-   "comments": 39,
+   "engagement": 179,
+   "comments": 40,
    "publishedAt": 1795644934000,
    "isAI": true,
-   "score": 49.4,
+   "score": 49.3,
    "hot": true
   },
   {
@@ -83,7 +83,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.6,
    "hot": true
   },
   {
@@ -97,7 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49,
+   "score": 48.5,
    "hot": true
   },
   {
@@ -111,7 +111,7 @@
    "comments": 207,
    "publishedAt": 1795574061000,
    "isAI": true,
-   "score": 47.9,
+   "score": 47.5,
    "hot": false
   },
   {
@@ -121,17 +121,31 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1017,
+   "engagement": 1018,
    "comments": 411,
    "publishedAt": 1795524015000,
    "isAI": true,
-   "score": 47.7,
+   "score": 47.4,
    "hot": false
   },
   {
-   "title": "OpenAI, GPT-6.2 사용량 축소: Astra는 한도에 40%, Sol은 25% 더 빨리 도달",
+   "title": "Intel One Mono font",
+   "url": "https://github.com/intel/intel-one-mono",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50653667",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 165,
+   "comments": 96,
+   "publishedAt": 1795687861000,
+   "isAI": false,
+   "score": 47.2,
+   "hot": true
+  },
+  {
+   "title": "OpenAI, GPT-6.2 과금 오류 수정으로 실사용량 축소",
    "url": "https://news.hada.io/topic?id=37885&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "GPT-6.2 출시 당시 과금 오류 로 대부분 사용자의 Astra와 Sol 사용량에 잘못된 할인이 적용됐으며, 이를 수정함 수정 이후에는 같은 작업도 요금제 사용 한도를 더 많이 소모 함 지난주 대비 사용 한도에 도달하는 속도가 GPT-6.2 Astra는 40%, Sol은 25% 빨라짐 수정 후에도 6 Astra와 6.1 Sol보다는 더 많이 사용할 수 있을 것으로 보임 다른 모델은 영향을 받지 않았으며 , 과거 사용분의 차액은 청구하지 않음 과금 오류 수정과 사용 한도 변화 GPT-6.2 출시 당시 대부분 사용자의 GPT-6.2 ",
+   "summary": "GPT-6.2 출시 당시 대부분 사용자의 Astra와 Sol 사용량에 잘못된 할인이 적용된 오류 를 수정함. 이제 같은 작업을 수행해도 요금제의 사용 한도를 더 많이 소모함 지난주와 비교하면 GPT-6.2 Astra는 40%, Sol은 25% 더 빨리 사용 한도에 도달 하게 됨 수정 후에도 GPT-6 Astra와 GPT-6.1 Sol보다는 더 많은 작업을 수행할 수 있을 것 이라고 안내 다른 모델은 영향을 받지 않으며 , 과거 사용분의 차액을 소급 청구하지 않음 보상으로 Go, Plus, Pro, Business 이용자 모두에게 사",
    "publishedAt": 1795678316000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -139,7 +153,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.5,
+   "score": 47,
    "hot": true
   },
   {
@@ -149,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 327,
-   "comments": 158,
+   "engagement": 338,
+   "comments": 168,
    "publishedAt": 1795639080000,
    "isAI": false,
-   "score": 47.1,
+   "score": 46.9,
    "hot": true
   },
   {
@@ -163,12 +177,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 494,
-   "comments": 357,
+   "engagement": 495,
+   "comments": 359,
    "publishedAt": 1795613587000,
    "isAI": false,
-   "score": 47.1,
+   "score": 46.7,
    "hot": true
+  },
+  {
+   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+   "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50637056",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 401,
+   "comments": 77,
+   "publishedAt": 1795568089000,
+   "isAI": true,
+   "score": 46,
+   "hot": false
   },
   {
    "title": "과학자들은 인공지능 에이전트에 대해 어디까지 허용 범위를 정해야 할까요?",
@@ -181,22 +209,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.5,
+   "score": 46,
    "hot": true
-  },
-  {
-   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-   "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50637056",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 400,
-   "comments": 77,
-   "publishedAt": 1795568089000,
-   "isAI": true,
-   "score": 46.3,
-   "hot": false
   },
   {
    "title": "1인 조직이 온다",
@@ -209,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.4,
    "hot": true
   },
   {
@@ -223,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.8,
+   "score": 44.3,
    "hot": true
   },
   {
@@ -237,7 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.7,
+   "score": 44.2,
    "hot": true
   },
   {
@@ -251,8 +265,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 44.6,
+   "score": 44.2,
    "hot": true
+  },
+  {
+   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+   "url": "https://news.ycombinator.com/item?id=50630809",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50630809",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 454,
+   "comments": 351,
+   "publishedAt": 1795538744000,
+   "isAI": true,
+   "score": 43.8,
+   "hot": false
   },
   {
    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -265,21 +293,7 @@
    "comments": 97,
    "publishedAt": 1795554142000,
    "isAI": true,
-   "score": 44.1,
-   "hot": false
-  },
-  {
-   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-   "url": "https://news.ycombinator.com/item?id=50630809",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50630809",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 453,
-   "comments": 350,
-   "publishedAt": 1795538744000,
-   "isAI": true,
-   "score": 44.1,
+   "score": 43.7,
    "hot": false
   },
   {
@@ -290,10 +304,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 338,
-   "comments": 186,
+   "comments": 187,
    "publishedAt": 1795606465000,
    "isAI": false,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -307,7 +321,7 @@
    "comments": 172,
    "publishedAt": 1795579413000,
    "isAI": true,
-   "score": 43.4,
+   "score": 43,
    "hot": false
   },
   {
@@ -321,21 +335,7 @@
    "comments": 83,
    "publishedAt": 1795578462000,
    "isAI": true,
-   "score": 43.4,
-   "hot": false
-  },
-  {
-   "title": "Intel One Mono font",
-   "url": "https://github.com/intel/intel-one-mono",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50653667",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 103,
-   "comments": 59,
-   "publishedAt": 1795687861000,
-   "isAI": false,
-   "score": 43.3,
+   "score": 43,
    "hot": false
   },
   {
@@ -349,7 +349,7 @@
    "comments": 796,
    "publishedAt": 1795526627000,
    "isAI": true,
-   "score": 42.7,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -363,7 +363,7 @@
    "comments": 148,
    "publishedAt": 1795575877000,
    "isAI": false,
-   "score": 42.3,
+   "score": 41.9,
    "hot": false
   },
   {
@@ -377,8 +377,22 @@
    "comments": 333,
    "publishedAt": 1795536758000,
    "isAI": true,
-   "score": 42.1,
+   "score": 41.7,
    "hot": false
+  },
+  {
+   "title": "minipg: PostgreSQL을 단일 실행 파일로 실행하기",
+   "url": "https://news.hada.io/topic?id=37897&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "minipg 는 별도 서버 설정 없이 PostgreSQL을 실행하는 단일 실행 파일로, 명령에 서버가 필요하면 자동으로 시작하고 유휴 상태가 되면 종료함 .pgdb 디렉터리 하나에 데이터, 설정, 인증 정보, Postgres 버전을 함께 보관하며, 해당 디렉터리를 열어 psql 셸을 사용할 수 있음 내장된 postgres:18-alpine 이미지 의 바이너리를 h9로 실행하며, Linux 커널 부팅이나 VM 이미지, Docker가 필요하지 않음 정적 Linux 바이너리는 CI에서 별도 권한이나 장치 없이 사용할 수 있으며, /dev",
+   "publishedAt": 1795696658000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.7,
+   "hot": true
   },
   {
    "title": "Nvidia Reinstates Jensen Huang as CEO",
@@ -388,11 +402,39 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 2843,
-   "comments": 3805,
+   "comments": 3808,
    "publishedAt": 1795442418000,
    "isAI": false,
-   "score": 41.9,
+   "score": 41.6,
    "hot": false
+  },
+  {
+   "title": "NFS2ROOT: Linux 커널 NFS 서버에 12년간 존재한 인증 전 원격 루트 취약점",
+   "url": "https://news.hada.io/topic?id=37896&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Linux 커널 NFS 서버 nfsd 의 CVE-2026-99362 는 인증 없이 커널 힙을 덮어쓸 수 있는 취약점으로, OpenSec은 이를 후속 공격과 연계해 원격 루트 셸을 획득함 공격 대상은 NFSv4.1 또는 4.2 를 제공하며 TCP 2049 포트에 접근 가능한 미패치 Linux 호스트임. Linux 3.16에 도입된 취약점으로 심각도는 CVSS 9.8 임 클라이언트가 응답 캐시를 0바이트로 줄인 뒤 전체 응답을 복사하게 만드는 방식으로, TCP 연결 하나에서 힙 객체 경계 밖 61바이트 를 덮어쓸 수 있음 수정 버전은 ",
+   "publishedAt": 1795696478000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.6,
+   "hot": true
+  },
+  {
+   "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+   "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50647161",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 167,
+   "comments": 65,
+   "publishedAt": 1795638950000,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
   },
   {
    "title": "Show GN: 배럴 - 광고 차단 브라우저와 다운로드 매니저를 하나로 합친 Android 앱",
@@ -405,21 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
-   "hot": true
-  },
-  {
-   "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-   "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50647161",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 161,
-   "comments": 64,
-   "publishedAt": 1795638950000,
-   "isAI": false,
-   "score": 41.3,
+   "score": 40.9,
    "hot": true
   },
   {
@@ -429,26 +457,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 348,
+   "engagement": 349,
    "comments": 80,
    "publishedAt": 1795581108000,
    "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": false
-  },
-  {
-   "title": "보존된 UI 스타일 가이드 모음",
-   "url": "https://news.hada.io/topic?id=37889&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "1980년대 초부터 현재까지 여러 회사의 UI 스타일 가이드와 인터페이스 지침을 모은 컬렉션으로, 데스크톱과 모바일 등 다양한 플랫폼을 아우름 Apple, Windows, Android 의 여러 시기별 지침을 제공하며, 초기 Lisa와 Macintosh부터 Aqua, iOS, Material Design, 현재 공식 가이드까지 포함함 Amiga, NeXTSTEP, Newton, Palm OS 등 과거 플랫폼뿐 아니라 CDE, OPEN LOOK, SGI 같은 UNIX 환경과 Java의 GUI 설계 문서도 수록함 자료는 PDF, 웹사이",
-   "publishedAt": 1795685645000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.8,
-   "hot": true
   },
   {
    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
@@ -461,8 +475,22 @@
    "comments": 386,
    "publishedAt": 1795428403000,
    "isAI": true,
-   "score": 40.7,
+   "score": 40.5,
    "hot": false
+  },
+  {
+   "title": "1980년대부터 현재까지, UI 디자인 가이드 69종 모음",
+   "url": "https://news.hada.io/topic?id=37889&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "1980년대 초부터 현재까지 UI 스타일 가이드 69종을 모은 아카이브 . 데스크톱과 모바일 등 여러 플랫폼의 설계 지침을 통해, 시대와 회사별 인터페이스 원칙을 비교해 볼 수 있음 Apple, Windows, Android 의 여러 시기별 지침을 제공하며, 초기 Lisa와 Macintosh부터 Aqua, iOS, Material Design, 현재 공식 가이드까지 포함함 Amiga, NeXTSTEP, Newton, Palm OS 등 과거 플랫폼뿐 아니라 CDE, OPEN LOOK, SGI 같은 UNIX 환경과 Java의 GUI 설",
+   "publishedAt": 1795685645000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.3,
+   "hot": true
   },
   {
    "title": "polynomial Hirsch conjecture의 반증 [pdf]",
@@ -475,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.3,
+   "score": 39.9,
    "hot": true
   },
   {
@@ -489,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -503,7 +531,7 @@
    "comments": 140,
    "publishedAt": 1795540245000,
    "isAI": true,
-   "score": 39.8,
+   "score": 39.5,
    "hot": false
   },
   {
@@ -517,7 +545,7 @@
    "comments": 20,
    "publishedAt": 1795577286000,
    "isAI": true,
-   "score": 39.7,
+   "score": 39.4,
    "hot": false
   },
   {
@@ -531,7 +559,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.7,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -545,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.1,
    "hot": true
   },
   {
@@ -559,7 +587,7 @@
    "comments": 4,
    "publishedAt": 1795442483000,
    "isAI": false,
-   "score": 39.2,
+   "score": 39,
    "hot": false
   },
   {
@@ -573,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.1,
+   "score": 38.7,
    "hot": true
   },
   {
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.4,
    "hot": true
   },
   {
@@ -597,17 +625,17 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 507,
-   "comments": 595,
+   "engagement": 508,
+   "comments": 597,
    "publishedAt": 1795526371000,
    "isAI": false,
-   "score": 38.5,
+   "score": 38.2,
    "hot": false
   },
   {
    "title": "Ubuntu의 느린 보안 대응",
    "url": "https://news.hada.io/topic?id=37876&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Ubuntu의 Linux 커널 취약점 패치 지연 을 두고 oss-security 메일링 리스트에서 우려가 나옴 TCP 스택의 원격 메모리 손상 취약점 NoisyTCP(CVE-2026-99288) 는 세부 내용 공개 9일 뒤에도 Ubuntu 수정본이 없었으며, 다른 배포판은 공개 당시 이미 수정본을 제공했음 AMD 가상화에 영향을 주는 KVM 호스트 탈출 취약점(CVE-2026-99312) 도 11월 18일 공개 이후 게시물 작성 시점까지 수정본이 없었음 또 다른 원격 TCP 메모리 손상 취약점 CVE-2026-98432 는 수정본 ",
+   "summary": "심각한 Linux 커널 취약점의 패치 지연이 반복되면서 Ubuntu의 보안 대응 속도와 커널 유지보수 방식에 대한 비판 이 나옴 TCP 스택의 원격 메모리 손상 취약점 NoisyTCP는 세부 내용 공개 후 9일, AMD 가상화 관련 KVM 취약점은 공개 후 일주일이 지나도 수정본이 제공되지 않았음 또 다른 원격 TCP 메모리 손상 취약점 CVE-2026-98432 는 수정본 제공까지 여러 주가 걸렸고, 실제 공격에 악용됐을 가능성을 시사하는 소식도 있음 커널 원격 메모리 손상 취약점에는 수 시간 내 업데이트 가 필요하며, 오래된 커",
    "publishedAt": 1795663926000,
    "source": "GeekNews",
    "sourceType": "community",
@@ -615,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -629,7 +657,7 @@
    "comments": 53,
    "publishedAt": 1795575696000,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.5,
    "hot": false
   },
   {
@@ -643,36 +671,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.4,
-   "hot": true
-  },
-  {
-   "title": "바이럴 제품 출시의 비밀",
-   "url": "https://news.hada.io/topic?id=37865&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "X에서 화제가 되는 스타트업 제품 출시는 우연보다 준비의 결과 임. 좋은 제품과 영상만 올리는 데 그치지 않고, 수주에서 수개월 동안 문구와 이야기, 지인과 파트너의 확산 참여까지 설계함 회사와 창업자, 직원, 출시 영상과 문구가 일관된 이야기 를 전달해야 하며, 그 이야기는 사업의 본질과 인터넷에서 주목받는 흐름에 모두 맞아야 함 지인과 커뮤니티의 지원은 중요한 확산 수단이지만 반복 요청에는 한계가 있음. 평소 교류하며 사전 체험과 피드백 기회를 제공하고, 출시 시점에 맞춰 참여를 요청 해야 함 유료 인플루언서 활용의 …",
-   "publishedAt": 1795655401000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.4,
-   "hot": true
-  },
-  {
-   "title": "락 포이즈닝을 폐지하자",
-   "url": "https://news.hada.io/topic?id=37863&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Rust의 뮤텍스 포이즈닝 은 패닉으로 깨진 불변식을 보호하려는 장치지만, 실제 코드에서는 복구보다 교착 상태와 연쇄 실패를 유발하는 사례가 많다는 비판을 받음 PoisonError 가 락 가드를 소유 하므로 오류를 보관하거나 변환하는 동안에도 락이 유지되며, 오류 처리 경로에서 같은 뮤텍스를 다시 잠그면 교착 상태가 발생할 수 있음 패닉을 잡고 계속 실행하는 환경에서 lock().unwrap() 은 프로세스를 종료하지도 정상 동작을 회복시키지도 못한 채, 이후 모든 락 획득을 패닉으로 바꿀 수 있음 표준 라이브러리 내부와 여러 주",
-   "publishedAt": 1795655012000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.3,
-   "hot": true
+   "score": 37,
+   "hot": false
   },
   {
    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
@@ -681,11 +681,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 711,
+   "engagement": 712,
    "comments": 348,
    "publishedAt": 1795473149000,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.3,
    "hot": false
   },
   {
@@ -699,7 +699,7 @@
    "comments": 152,
    "publishedAt": 1795537937000,
    "isAI": false,
-   "score": 36.1,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -713,7 +713,7 @@
    "comments": 318,
    "publishedAt": 1795381276000,
    "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -727,21 +727,7 @@
    "comments": 3,
    "publishedAt": 1795531275000,
    "isAI": true,
-   "score": 35.7,
-   "hot": false
-  },
-  {
-   "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
-   "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50631157",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 255,
-   "comments": 245,
-   "publishedAt": 1795540061000,
-   "isAI": false,
-   "score": 35.3,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -755,9 +741,23 @@
    "comments": 1010,
    "publishedAt": 1795337854000,
    "isAI": true,
-   "score": 35.3,
+   "score": 35.1,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+   "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50631157",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 255,
+   "comments": 245,
+   "publishedAt": 1795540061000,
+   "isAI": false,
+   "score": 35,
+   "hot": false
   },
   {
    "title": "Apple removed my open-source app from EU App Stores after 9 years",
@@ -766,11 +766,24 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 631,
+   "engagement": 632,
    "comments": 180,
    "publishedAt": 1795459690000,
    "isAI": false,
-   "score": 35,
+   "score": 34.8,
+   "hot": false
+  },
+  {
+   "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
+   "url": "https://huggingface.co/papers/2611.34849",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 98,
+   "summary": "Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and several benchmarks have been proposed to evaluate them. However",
+   "publishedAt": 1795546800000,
+   "isAI": true,
+   "score": 34.8,
    "hot": false
   },
   {
@@ -784,7 +797,7 @@
    "engagement": null,
    "baseWeight": 45,
    "isAI": true,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -798,7 +811,7 @@
    "comments": 167,
    "publishedAt": 1795521065000,
    "isAI": false,
-   "score": 34.7,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -812,7 +825,7 @@
    "comments": 187,
    "publishedAt": 1795396431000,
    "isAI": false,
-   "score": 34.3,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -826,20 +839,20 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.9,
    "hot": false
   },
   {
-   "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
-   "url": "https://huggingface.co/papers/2611.34849",
+   "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+   "url": "https://huggingface.co/papers/2611.34575",
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 83,
-   "summary": "Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and several benchmarks have been proposed to evaluate them. However",
+   "engagement": 80,
+   "summary": "Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling mode",
    "publishedAt": 1795546800000,
    "isAI": true,
-   "score": 34,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -853,7 +866,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -867,20 +880,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
-   "url": "https://huggingface.co/papers/2611.34575",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 77,
-   "summary": "Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling mode",
-   "publishedAt": 1795546800000,
-   "isAI": true,
-   "score": 33.6,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -894,7 +894,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.3,
    "hot": false
   },
   {
@@ -908,7 +908,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -922,7 +922,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -936,21 +936,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33,
-   "hot": false
-  },
-  {
-   "title": "AI가 작성한 코드, 같은 AI가 검토...개발 조직 절반 가까이 활용",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217834",
-   "summary": "AI 코딩 도구의 도입으로 코드 생산량이 크게 늘면서 이를 검토하는 과정이 소프트웨어 개발의 새로운 병목으로 떠올랐다. 개발 조직의 절반 가까이가 코드를 작성한 AI 에이전트에 검토까지 맡기고 있으며, 개발자가 AI 생성 코드를 충분히 이해하지 못한 채 승인하는 문제도 나타나고 있다.개발자 리더십 전문 매체 리드데브(LeadDev)가 공개한 2026 AI 코드 검토 보고서에 따르면, 응답자의 47%가 소속 조직에서 코드를 작성한 AI 에이전트에 해당 코드의 검토까지 맡긴다고 답했다.이번 조사는 미국과 유럽의 개발자 및 엔지니어링 조",
-   "publishedAt": 1795683333000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -964,7 +950,21 @@
    "comments": 262,
    "publishedAt": 1795475498000,
    "isAI": false,
-   "score": 32.7,
+   "score": 32.5,
+   "hot": false
+  },
+  {
+   "title": "AI가 작성한 코드, 같은 AI가 검토...개발 조직 절반 가까이 활용",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217834",
+   "summary": "AI 코딩 도구의 도입으로 코드 생산량이 크게 늘면서 이를 검토하는 과정이 소프트웨어 개발의 새로운 병목으로 떠올랐다. 개발 조직의 절반 가까이가 코드를 작성한 AI 에이전트에 검토까지 맡기고 있으며, 개발자가 AI 생성 코드를 충분히 이해하지 못한 채 승인하는 문제도 나타나고 있다.개발자 리더십 전문 매체 리드데브(LeadDev)가 공개한 2026 AI 코드 검토 보고서에 따르면, 응답자의 47%가 소속 조직에서 코드를 작성한 AI 에이전트에 해당 코드의 검토까지 맡긴다고 답했다.이번 조사는 미국과 유럽의 개발자 및 엔지니어링 조",
+   "publishedAt": 1795683333000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -978,7 +978,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.6,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -992,7 +992,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1006,7 +1006,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1020,7 +1020,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.1,
+   "hot": false
+  },
+  {
+   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+   "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50601280",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 406,
+   "comments": 115,
+   "publishedAt": 1795365888000,
+   "isAI": true,
+   "score": 32,
    "hot": false
   },
   {
@@ -1034,49 +1048,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "[게시판] 인핸스, 국방정보본부 'AI 민간자문기업' 위촉 등 단신",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217827",
-   "summary": "■ 인핸스(대표 이승현)는 국방정보본부 AI 민간자문기업으로 위촉됐다고 밝혔다. 국방정보본부는 군사정보 분석 역량 강화와 국방 AI 발전을 위해 민간 AI 전문기업과의 협력 체계를 구축하고 있으며, 내년 말까지 데이터 표준화와 전문기술 지원 등 AI 전반에 걸쳐 자문한다. 인핸스는 온톨로지 기술과 컴퓨터 유즈 AI 에이전트 기술을 결합한 '에이전트 운영체제(OS)'로 기업·기관 업무에 AI를 적용 중이다.■ 엘리스그룹(대표 김재원)은 다양한 생성형 AI 모델과 도구를 쓸 수 있는 기관 전용 AI 솔루션 '헬피챗(Helpy Chat)",
-   "publishedAt": 1795678200000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "Declare is a UI language for you and your AI",
-   "url": "https://davidtemkin.github.io/declarelang/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50622854",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 119,
-   "comments": 95,
-   "publishedAt": 1795487816000,
-   "isAI": true,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 기업 데이터 보호 강화한 '프라이빗 추론' 테스트",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217828",
-   "summary": "오픈AI가 기업 고객의 민감한 데이터를 AI 연산 과정에서도 보호하는 기술인 '프라이빗 추론(Private Inference)'의 시험 운영에 들어갔다. 기존에는 AI에 입력한 데이터를 저장하지 않는 데 초점을 맞췄다면, 이번에는 데이터를 처리하는 동안에도 접근을 차단하는 것이 핵심이다.샘 알트먼 오픈AI CEO는 25일(현지시간) X를 통해 기업용 데이터 보호 체계인 '프라이빗 인텔리전스(Private Intelligence)'의 새로운 기능인 '프라이빗 추론(Private Inference)'을 소수의 고객을 대상으로 테스트하고",
-   "publishedAt": 1795677600000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.2,
+   "score": 32,
    "hot": false
   },
   {
@@ -1090,35 +1062,49 @@
    "comments": 122,
    "publishedAt": 1795501684000,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
-   "title": "구글, 외부 AI 에이전트에 지메일·드라이브 이용료 부과",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217820",
-   "summary": "구글이 외부 AI 에이전트의 지메일과 구글 드라이브 등 워크스페이스 서비스 접근에 사용량 제한과 유료 요금제를 도입한다. 일정 사용량까지는 무료로 제공하지만, 대규모 AI 에이전트 서비스를 운영하는 기업에는 새로운 비용 부담이 발생하게 됐다.구글은 24일(현지시간) 공식 개발자 문서를 통해 워크스페이스 API와 모델 컨텍스트 프로토콜(MCP) 서버에 '표준(Standard)'과 '확장(Scaled)' 등급을 도입한다고 밝혔다. MCP는 AI 에이전트를 외부 서비스 및 데이터와 연결하는 표준 기술이다.표준 등급에서는 지메일과 캘린더,",
-   "publishedAt": 1795676689000,
+   "title": "Declare is a UI language for you and your AI",
+   "url": "https://davidtemkin.github.io/declarelang/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50622854",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 119,
+   "comments": 96,
+   "publishedAt": 1795487816000,
+   "isAI": true,
+   "score": 31.9,
+   "hot": false
+  },
+  {
+   "title": "[게시판] 인핸스, 국방정보본부 'AI 민간자문기업' 위촉 등 단신",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217827",
+   "summary": "■ 인핸스(대표 이승현)는 국방정보본부 AI 민간자문기업으로 위촉됐다고 밝혔다. 국방정보본부는 군사정보 분석 역량 강화와 국방 AI 발전을 위해 민간 AI 전문기업과의 협력 체계를 구축하고 있으며, 내년 말까지 데이터 표준화와 전문기술 지원 등 AI 전반에 걸쳐 자문한다. 인핸스는 온톨로지 기술과 컴퓨터 유즈 AI 에이전트 기술을 결합한 '에이전트 운영체제(OS)'로 기업·기관 업무에 AI를 적용 중이다.■ 엘리스그룹(대표 김재원)은 다양한 생성형 AI 모델과 도구를 쓸 수 있는 기관 전용 AI 솔루션 '헬피챗(Helpy Chat)",
+   "publishedAt": 1795678200000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
-   "title": "미국 AI 칩 규제에 중국 관련 데이터센터 대출 10조원 차질",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217810",
-   "summary": "미국의 AI 반도체 수출 규제 강화로 중국 기업을 고객으로 둔 아시아 데이터센터 사업의 자금 조달에 제동이 걸렸다. 바이트댄스와 알리바바, 텐센트 관련 77억달러(약 10조원) 규모의 데이터센터 대출에 참여하려던 금융기관들이 잇따라 거래를 보류하거나 재검토하고 있다.블룸버그는 25일(현지시간) 소식통을 인용, 금융기관들이 베인캐피털의 지원을 받는 브리지 데이터 센터스(Bridge Data Centres)의 66억달러 규모 대출에 대해 추가 실사를 진행하고 있다고 보도했다. 이 회사는 말레이시아 데이터센터에서 바이트댄스 등에 서비스를",
-   "publishedAt": 1795676271000,
+   "title": "오픈AI, 기업 데이터 보호 강화한 '프라이빗 추론' 테스트",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217828",
+   "summary": "오픈AI가 기업 고객의 민감한 데이터를 AI 연산 과정에서도 보호하는 기술인 '프라이빗 추론(Private Inference)'의 시험 운영에 들어갔다. 기존에는 AI에 입력한 데이터를 저장하지 않는 데 초점을 맞췄다면, 이번에는 데이터를 처리하는 동안에도 접근을 차단하는 것이 핵심이다.샘 알트먼 오픈AI CEO는 25일(현지시간) X를 통해 기업용 데이터 보호 체계인 '프라이빗 인텔리전스(Private Intelligence)'의 새로운 기능인 '프라이빗 추론(Private Inference)'을 소수의 고객을 대상으로 테스트하고",
+   "publishedAt": 1795677600000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1132,21 +1118,35 @@
    "comments": 267,
    "publishedAt": 1795405764000,
    "isAI": false,
-   "score": 32,
+   "score": 31.8,
    "hot": false
   },
   {
-   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-   "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50601280",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 397,
-   "comments": 114,
-   "publishedAt": 1795365888000,
+   "title": "구글, 외부 AI 에이전트에 지메일·드라이브 이용료 부과",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217820",
+   "summary": "구글이 외부 AI 에이전트의 지메일과 구글 드라이브 등 워크스페이스 서비스 접근에 사용량 제한과 유료 요금제를 도입한다. 일정 사용량까지는 무료로 제공하지만, 대규모 AI 에이전트 서비스를 운영하는 기업에는 새로운 비용 부담이 발생하게 됐다.구글은 24일(현지시간) 공식 개발자 문서를 통해 워크스페이스 API와 모델 컨텍스트 프로토콜(MCP) 서버에 '표준(Standard)'과 '확장(Scaled)' 등급을 도입한다고 밝혔다. MCP는 AI 에이전트를 외부 서비스 및 데이터와 연결하는 표준 기술이다.표준 등급에서는 지메일과 캘린더,",
+   "publishedAt": 1795676689000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.8,
+   "hot": false
+  },
+  {
+   "title": "미국 AI 칩 규제에 중국 관련 데이터센터 대출 10조원 차질",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217810",
+   "summary": "미국의 AI 반도체 수출 규제 강화로 중국 기업을 고객으로 둔 아시아 데이터센터 사업의 자금 조달에 제동이 걸렸다. 바이트댄스와 알리바바, 텐센트 관련 77억달러(약 10조원) 규모의 데이터센터 대출에 참여하려던 금융기관들이 잇따라 거래를 보류하거나 재검토하고 있다.블룸버그는 25일(현지시간) 소식통을 인용, 금융기관들이 베인캐피털의 지원을 받는 브리지 데이터 센터스(Bridge Data Centres)의 66억달러 규모 대출에 대해 추가 실사를 진행하고 있다고 보도했다. 이 회사는 말레이시아 데이터센터에서 바이트댄스 등에 서비스를",
+   "publishedAt": 1795676271000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1160,7 +1160,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1174,49 +1174,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "MS \"AI 투자수익 4배 기업의 비결은 전사적 활용과 통제\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217808",
-   "summary": "AI 혁신의 승부처가 '도입 여부'에서 '가치 확장과 통제 역량'으로 옮겨 가고 있다. AI 성숙도 상위 10%에 해당하는 프론티어 기업(IDC 평가 기준)은 계획보다 앞선 투자, 전사적 활용, 에이전트의 실전 투입, 거버넌스, 전 직원 역량강화 등을 함께 추진하며 평균 4배의 AI 투자 수익(ROI)을 거둔 것으로 나타났다. 마이크로소프트(MS)는 글로벌 시장조사업체 IDC에 의뢰한 'AI 비즈니스 기회 연구(Business Opportunity of AI Study)'를 통해 프론티어 기업의 AI 혁신 성공 요건을 발표했다. 이",
-   "publishedAt": 1795673909000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.9,
-   "hot": false
-  },
-  {
-   "title": "Searching for distant planets with Astra",
-   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-   "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
-   "publishedAt": 1795518000000,
-   "source": "OpenAI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 50,
-   "isAI": false,
-   "score": 31.8,
-   "hot": false
-  },
-  {
-   "title": "아모데이 \"인간 통제권 AI에 넘긴다는 주장 터무니없어\"…경쟁사도 비판",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217824",
-   "summary": "다리오 아모데이 앤트로픽 CEO가 인간의 의사결정 권한을 초지능에 넘기는 것을 지지한다는 보도에 강하게 반발했다. 인간의 통치권과 개별 업무의 자동화는 별개의 문제라며, 인간의 통제권을 강조하면서 실제로는 업무 자동화 경쟁을 벌이는 다른 AI 기업 수장들도 비판했다.악시오스는 25일(현지시간) 소식통을 인용, 앤트로픽 내부 일부 직원 사이에서 인간이 초지능 AI에 의사결정 권한을 넘기는 것이 바람직하다는 견해가 형성됐다고 보도했다.AI가 질병 치료나 재난 예방 등에서 인간을 능가한다면, 인간이 계속 결정권을 고집하는 것이 비합리적이",
-   "publishedAt": 1795672660000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.8,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1230,7 +1188,49 @@
    "comments": 132,
    "publishedAt": 1795497322000,
    "isAI": false,
-   "score": 31.7,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "Searching for distant planets with Astra",
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "publishedAt": 1795518000000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": false,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "MS \"AI 투자수익 4배 기업의 비결은 전사적 활용과 통제\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217808",
+   "summary": "AI 혁신의 승부처가 '도입 여부'에서 '가치 확장과 통제 역량'으로 옮겨 가고 있다. AI 성숙도 상위 10%에 해당하는 프론티어 기업(IDC 평가 기준)은 계획보다 앞선 투자, 전사적 활용, 에이전트의 실전 투입, 거버넌스, 전 직원 역량강화 등을 함께 추진하며 평균 4배의 AI 투자 수익(ROI)을 거둔 것으로 나타났다. 마이크로소프트(MS)는 글로벌 시장조사업체 IDC에 의뢰한 'AI 비즈니스 기회 연구(Business Opportunity of AI Study)'를 통해 프론티어 기업의 AI 혁신 성공 요건을 발표했다. 이",
+   "publishedAt": 1795673909000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "아모데이 \"인간 통제권 AI에 넘긴다는 주장 터무니없어\"…경쟁사도 비판",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217824",
+   "summary": "다리오 아모데이 앤트로픽 CEO가 인간의 의사결정 권한을 초지능에 넘기는 것을 지지한다는 보도에 강하게 반발했다. 인간의 통치권과 개별 업무의 자동화는 별개의 문제라며, 인간의 통제권을 강조하면서 실제로는 업무 자동화 경쟁을 벌이는 다른 AI 기업 수장들도 비판했다.악시오스는 25일(현지시간) 소식통을 인용, 앤트로픽 내부 일부 직원 사이에서 인간이 초지능 AI에 의사결정 권한을 넘기는 것이 바람직하다는 견해가 형성됐다고 보도했다.AI가 질병 치료나 재난 예방 등에서 인간을 능가한다면, 인간이 계속 결정권을 고집하는 것이 비합리적이",
+   "publishedAt": 1795672660000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1244,7 +1244,20 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "Mixture-of-Loops Transformer",
+   "url": "https://huggingface.co/papers/2611.34923",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 55,
+   "summary": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Tr",
+   "publishedAt": 1795546800000,
+   "isAI": true,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1258,7 +1271,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1272,20 +1285,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.5,
-   "hot": false
-  },
-  {
-   "title": "Mixture-of-Loops Transformer",
-   "url": "https://huggingface.co/papers/2611.34923",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 54,
-   "summary": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Tr",
-   "publishedAt": 1795546800000,
-   "isAI": true,
-   "score": 31.3,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1299,7 +1299,7 @@
    "comments": 90,
    "publishedAt": 1795355818000,
    "isAI": true,
-   "score": 31.2,
+   "score": 31,
    "hot": false
   },
   {
@@ -1308,39 +1308,11 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 52,
+   "engagement": 53,
    "summary": "Code-driven video generation asks a coding agent to write and run rendering programs. This gives exact control over typography, data visualizations, synchronized audio, and multi-shot scenes, and it leaves an editable project behind. A program that exits cleanly can still render overlapping labels, ",
    "publishedAt": 1795546800000,
    "isAI": true,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "미국, 스페이스X 우주 데이터센터용 위성 최대 100만기 배치 승인",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217807",
-   "summary": "미국 연방통신위원회(FCC)가 일론 머스크 CEO의 스페이스X에 우주 데이터센터용 위성 최대 100만기를 지구 궤도에 배치하도록 허가했다. 미국에서 우주 데이터센터 위성망 구축을 승인한 것은 처음으로, AI 인프라를 우주로 확대하려는 구상이 주요 규제 장벽을 넘어섰다.FCC는 25일(현지시간) 공식 발표를 통해 스페이스X의 우주 데이터센터 위성망 '스타마인드(Starmind)' 구축 신청을 승인했다고 밝혔다. 급증하는 AI 연산 수요에 대응하고 미국의 우주·AI 기술 경쟁력을 강화한다는 취지다.승인 조건에 따르면 스페이스X는 203",
-   "publishedAt": 1795664676000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 챗GPT·코덱스 사용량 통합…\"헤비 유저 한도 조기 소진 가능\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217800",
-   "summary": "오픈AI가 오는 12월부터 챗GPT와 코덱스의 사용량 한도를 하나로 통합한다. 대화형 AI와 업무 수행형 AI를 하나의 서비스로 제공하기 위한 조치로, 두 서비스를 많이 이용하는 헤비 유저는 기존보다 사용량 한도가 빨리 소진될 수 있다.티보 소티오 오픈AI 챗GPT·코덱스 책임자는 24일(현지시간) X를 통해 챗GPT의 '채팅(Chat)'과 '업무(Work)' 기능을 하나로 통합한 인터페이스를 일부 프로 구독자에게 적용하기 시작했다고 밝혔다.오픈AI는 지난 10월 말 두 기능의 통합과 함께 사용량 한도도 단일화한다는 방침을 공개했다",
-   "publishedAt": 1795663723000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1354,7 +1326,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.7,
    "hot": false
   },
   {
@@ -1368,7 +1340,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.7,
+   "hot": false
+  },
+  {
+   "title": "미국, 스페이스X 우주 데이터센터용 위성 최대 100만기 배치 승인",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217807",
+   "summary": "미국 연방통신위원회(FCC)가 일론 머스크 CEO의 스페이스X에 우주 데이터센터용 위성 최대 100만기를 지구 궤도에 배치하도록 허가했다. 미국에서 우주 데이터센터 위성망 구축을 승인한 것은 처음으로, AI 인프라를 우주로 확대하려는 구상이 주요 규제 장벽을 넘어섰다.FCC는 25일(현지시간) 공식 발표를 통해 스페이스X의 우주 데이터센터 위성망 '스타마인드(Starmind)' 구축 신청을 승인했다고 밝혔다. 급증하는 AI 연산 수요에 대응하고 미국의 우주·AI 기술 경쟁력을 강화한다는 취지다.승인 조건에 따르면 스페이스X는 203",
+   "publishedAt": 1795664676000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.7,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 챗GPT·코덱스 사용량 통합…\"헤비 유저 한도 조기 소진 가능\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217800",
+   "summary": "오픈AI가 오는 12월부터 챗GPT와 코덱스의 사용량 한도를 하나로 통합한다. 대화형 AI와 업무 수행형 AI를 하나의 서비스로 제공하기 위한 조치로, 두 서비스를 많이 이용하는 헤비 유저는 기존보다 사용량 한도가 빨리 소진될 수 있다.티보 소티오 오픈AI 챗GPT·코덱스 책임자는 24일(현지시간) X를 통해 챗GPT의 '채팅(Chat)'과 '업무(Work)' 기능을 하나로 통합한 인터페이스를 일부 프로 구독자에게 적용하기 시작했다고 밝혔다.오픈AI는 지난 10월 말 두 기능의 통합과 함께 사용량 한도도 단일화한다는 방침을 공개했다",
+   "publishedAt": 1795663723000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1382,21 +1382,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.9,
+   "score": 30.6,
    "hot": false
   },
   {
-   "title": "이재혁 마키나락스 공동 창업자, 식품제조 AX로 시드 투자 유치",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217805",
-   "summary": "산업용 AI 전문 마키나락스를 공동 창업한 이재혁 대표가 식품제조 AX 현장으로 무대를 옮겨 투자유치에 성공했다.식품제조 특화 AX 스타트업 엔크레더블(대표 이재혁)은 카카오벤처스와 더벤처스로부터 시드 투자를 유치했다고 26일 밝혔다.이 대표는 지난 2017년 윤성호 대표 등과 마키나락스를 창업해 공동 대표로서 주요 제조기업 대상 AI 솔루션 공급과 신규 사업 개발을 이끌었다. 마키나락스는 올해 코스닥에 상장했다.그가 새로 선택한 분야는 디지털 전환이 더딘 식품제조 산업이다. 식품 공장은 HACCP 등 규제 대응 부담이 크지만, 원",
-   "publishedAt": 1795662415000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 30.8,
+   "title": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+   "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50630245",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 128,
+   "comments": 68,
+   "publishedAt": 1795536509000,
+   "isAI": false,
+   "score": 30.5,
    "hot": false
   }
  ]
