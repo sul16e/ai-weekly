@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795684461223,
+ "updatedAt": 1795691059027,
  "week": "2026-W48",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 445,
-   "comments": 225,
+   "engagement": 467,
+   "comments": 252,
    "publishedAt": 1795643290000,
    "isAI": true,
-   "score": 58.8,
+   "score": 58.1,
    "hot": true
   },
   {
@@ -23,25 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1409,
-   "comments": 599,
+   "engagement": 1451,
+   "comments": 626,
    "publishedAt": 1795627106000,
    "isAI": false,
-   "score": 58.8,
-   "hot": true
-  },
-  {
-   "title": "The New York Times warns photographers not to update Photoshop over AI features",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50647673",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 372,
-   "comments": 316,
-   "publishedAt": 1795641482000,
-   "isAI": true,
-   "score": 57,
+   "score": 58,
    "hot": true
   },
   {
@@ -51,11 +37,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 223,
-   "comments": 114,
+   "engagement": 267,
+   "comments": 148,
    "publishedAt": 1795664218000,
    "isAI": true,
-   "score": 56.2,
+   "score": 56.8,
+   "hot": true
+  },
+  {
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50647673",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 402,
+   "comments": 337,
+   "publishedAt": 1795641482000,
+   "isAI": true,
+   "score": 56.6,
+   "hot": true
+  },
+  {
+   "title": "Show GN: sol-astrizer: 모든 LLM이 GPT 6.2처럼 말하게 된다면",
+   "url": "https://news.hada.io/topic?id=37892&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Show GN: sol-astrizer: 모든 LLM이 GPT 6.2처럼 말하게 된다면",
+   "publishedAt": 1795689720000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.8,
+   "hot": true
+  },
+  {
+   "title": "베어메탈 Qwen - 순수 어셈블리 24KB OS에서 Qwen3-0.6B 실행",
+   "url": "https://news.hada.io/topic?id=37891&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Qwen3-0.6B를 직접 실행하는 부팅 가능한 x86-64 OS 로, Linux나 Windows 없이 동작하며 C, Rust, libc를 사용하지 않음 기본 구성의 정적 커널은 24,252바이트 이며, 별도의 614MiB 모델을 물리 RAM에서 제로 카피 로 연결하고 2MiB 대형 페이지로 접근함 74~94ms 콜드 부팅 후 대화할 수 있으며, 턴 사이에 KV 캐시를 유지해 이전 대화를 다시 계산하지 않는 다중 턴 채팅을 지원함 AMD EPYC 7642의 QEMU KVM 환경에서 16 vCPU 기준 약 134.9토큰/초 의 디코딩",
+   "publishedAt": 1795689197000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.7,
    "hot": true
   },
   {
@@ -65,12 +93,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 143,
-   "comments": 35,
+   "engagement": 161,
+   "comments": 39,
    "publishedAt": 1795644934000,
    "isAI": true,
    "score": 49.5,
-   "hot": false
+   "hot": true
   },
   {
    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
@@ -80,10 +108,24 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 458,
-   "comments": 198,
+   "comments": 204,
    "publishedAt": 1795574061000,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.5,
+   "hot": false
+  },
+  {
+   "title": "LLM agents work for their parent companies, not for you",
+   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50627340",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1016,
+   "comments": 411,
+   "publishedAt": 1795524015000,
+   "isAI": true,
+   "score": 48.2,
    "hot": false
   },
   {
@@ -97,22 +139,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.1,
+   "score": 48.1,
    "hot": true
-  },
-  {
-   "title": "LLM agents work for their parent companies, not for you",
-   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50627340",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1014,
-   "comments": 410,
-   "publishedAt": 1795524015000,
-   "isAI": true,
-   "score": 48.9,
-   "hot": false
   },
   {
    "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
@@ -121,11 +149,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 492,
-   "comments": 355,
+   "engagement": 494,
+   "comments": 357,
    "publishedAt": 1795613587000,
    "isAI": false,
-   "score": 48.5,
+   "score": 47.7,
+   "hot": true
+  },
+  {
+   "title": "Slow Ubuntu security response times",
+   "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50647181",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 309,
+   "comments": 147,
+   "publishedAt": 1795639080000,
+   "isAI": false,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -139,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.2,
    "hot": true
   },
   {
@@ -153,22 +195,8 @@
    "comments": 77,
    "publishedAt": 1795568089000,
    "isAI": true,
-   "score": 47.6,
+   "score": 46.9,
    "hot": false
-  },
-  {
-   "title": "Slow Ubuntu security response times",
-   "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50647181",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 282,
-   "comments": 127,
-   "publishedAt": 1795639080000,
-   "isAI": false,
-   "score": 47.3,
-   "hot": true
   },
   {
    "title": "1인 조직이 온다",
@@ -181,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.3,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -195,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.2,
+   "score": 45.4,
    "hot": true
   },
   {
@@ -209,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -223,22 +251,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46.1,
+   "score": 45.2,
    "hot": true
   },
   {
-   "title": "Jev는 아마도 Qwen3.5-35B-A3B 기반일 것",
-   "url": "https://news.hada.io/topic?id=37859&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "경쟁 의사결정 모델을 개발하는 Modaic 이 TypeSafe의 Jev를 응답 행동, 토큰 수와 지연 시간의 관계, 처리량으로 분석함. 여러 단서를 종합해 Qwen3.5-35B-A3B를 가장 유력한 기반 모델 후보 로 추정함 입력이 길어져도 안정적인 지연 시간과 가격 대비 높은 정확도는 일부 전문가만 활성화하는 희소 MoE 구조와 부합함 간접적인 자기 식별 질문에서 두 Jev 버전 모두 Qwen 선택지에 74%의 확률을 부여 했지만, 이 응답만으로 기반 모델을 입증할 수는 없음 9,984개 프롬프트 에서 Qwen 토크나이저의 토큰 ",
-   "publishedAt": 1795652307000,
-   "source": "GeekNews",
+   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+   "url": "https://news.ycombinator.com/item?id=50630809",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50630809",
+   "source": "Hacker News",
    "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
+   "lang": "en",
+   "engagement": 452,
+   "comments": 349,
+   "publishedAt": 1795538744000,
    "isAI": true,
-   "score": 45.5,
-   "hot": true
+   "score": 44.6,
+   "hot": false
   },
   {
    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -251,21 +279,7 @@
    "comments": 97,
    "publishedAt": 1795554142000,
    "isAI": true,
-   "score": 45.2,
-   "hot": false
-  },
-  {
-   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-   "url": "https://news.ycombinator.com/item?id=50630809",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50630809",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 450,
-   "comments": 347,
-   "publishedAt": 1795538744000,
-   "isAI": true,
-   "score": 45.2,
+   "score": 44.5,
    "hot": false
   },
   {
@@ -279,7 +293,7 @@
    "comments": 186,
    "publishedAt": 1795606465000,
    "isAI": false,
-   "score": 44.7,
+   "score": 43.9,
    "hot": true
   },
   {
@@ -289,11 +303,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 217,
+   "engagement": 218,
    "comments": 171,
    "publishedAt": 1795579413000,
    "isAI": true,
-   "score": 44.6,
+   "score": 43.9,
    "hot": false
   },
   {
@@ -303,11 +317,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 219,
+   "engagement": 220,
    "comments": 83,
    "publishedAt": 1795578462000,
    "isAI": true,
-   "score": 44.5,
+   "score": 43.8,
    "hot": false
   },
   {
@@ -317,11 +331,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 427,
+   "engagement": 428,
    "comments": 796,
    "publishedAt": 1795526627000,
    "isAI": true,
-   "score": 43.7,
+   "score": 43.1,
    "hot": false
   },
   {
@@ -331,11 +345,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 453,
-   "comments": 147,
+   "engagement": 455,
+   "comments": 148,
    "publishedAt": 1795575877000,
    "isAI": false,
-   "score": 43.4,
+   "score": 42.8,
    "hot": false
   },
   {
@@ -349,7 +363,7 @@
    "comments": 333,
    "publishedAt": 1795536758000,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.5,
    "hot": false
   },
   {
@@ -363,8 +377,22 @@
    "comments": 3804,
    "publishedAt": 1795442418000,
    "isAI": false,
-   "score": 42.7,
+   "score": 42.2,
    "hot": false
+  },
+  {
+   "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+   "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50647161",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 153,
+   "comments": 63,
+   "publishedAt": 1795638950000,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
   },
   {
    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
@@ -373,25 +401,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 346,
+   "engagement": 347,
    "comments": 80,
    "publishedAt": 1795581108000,
    "isAI": false,
-   "score": 42.1,
+   "score": 41.4,
    "hot": false
   },
   {
-   "title": "polynomial Hirsch conjecture의 반증 [pdf]",
-   "url": "https://news.hada.io/topic?id=37888&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "polynomial Hirsch conjecture의 반증 [pdf]",
-   "publishedAt": 1795681913000,
+   "title": "보존된 UI 스타일 가이드 모음",
+   "url": "https://news.hada.io/topic?id=37889&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "1980년대 초부터 현재까지 여러 회사의 UI 스타일 가이드와 인터페이스 지침을 모은 컬렉션으로, 데스크톱과 모바일 등 다양한 플랫폼을 아우름 Apple, Windows, Android 의 여러 시기별 지침을 제공하며, 초기 Lisa와 Macintosh부터 Aqua, iOS, Material Design, 현재 공식 가이드까지 포함함 Amiga, NeXTSTEP, Newton, Palm OS 등 과거 플랫폼뿐 아니라 CDE, OPEN LOOK, SGI 같은 UNIX 환경과 Java의 GUI 설계 문서도 수록함 자료는 PDF, 웹사이",
+   "publishedAt": 1795685645000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.7,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -405,22 +433,22 @@
    "comments": 386,
    "publishedAt": 1795428403000,
    "isAI": true,
-   "score": 41.5,
+   "score": 41,
    "hot": false
   },
   {
-   "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-   "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50647161",
-   "source": "Hacker News",
+   "title": "polynomial Hirsch conjecture의 반증 [pdf]",
+   "url": "https://news.hada.io/topic?id=37888&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "polynomial Hirsch conjecture의 반증 [pdf]",
+   "publishedAt": 1795681913000,
+   "source": "GeekNews",
    "sourceType": "community",
-   "lang": "en",
-   "engagement": 140,
-   "comments": 53,
-   "publishedAt": 1795638950000,
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
-   "hot": false
+   "score": 40.9,
+   "hot": true
   },
   {
    "title": "Show GN: MacMan Vanish – 맥 앱을 지울 때 남는 파일까지 함께 지우는 무료 앱",
@@ -433,21 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.4,
-   "hot": true
-  },
-  {
-   "title": "Hex.pm 보안 사고 발생",
-   "url": "https://news.hada.io/topic?id=37884&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "hex.pm의 비인증 요청 처리 취약점 으로 공격자가 웹 서버 6대에서 명령을 실행함. 2026년 11월 23일 공격 발생 후 20분 안에 트래픽 차단과 수정 배포를 진행함 패키지 변조, 데이터베이스 변경, 지속적인 접근 흔적 은 발견되지 않음. 다만 데이터베이스 읽기 로그가 없어 개인정보와 인증 정보의 열람 가능성은 배제할 수 없음 공격은 Erlang 형식 요청에 위조 Elixir 구조체 를 넣고, 오류 로깅 과정의 Inspect 와 열거 프로토콜, DBConnection.Stream 의 로그 콜백을 연결해 OS 명령 실행에 도달",
-   "publishedAt": 1795676631000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 41,
+   "score": 40.6,
    "hot": true
   },
   {
@@ -461,7 +475,7 @@
    "comments": 20,
    "publishedAt": 1795577286000,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.2,
    "hot": false
   },
   {
@@ -475,8 +489,22 @@
    "comments": 134,
    "publishedAt": 1795540245000,
    "isAI": true,
-   "score": 40.8,
+   "score": 40.2,
    "hot": false
+  },
+  {
+   "title": "Hex.pm 보안 사고 발생",
+   "url": "https://news.hada.io/topic?id=37884&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "hex.pm의 비인증 요청 처리 취약점 으로 공격자가 웹 서버 6대에서 명령을 실행함. 2026년 11월 23일 공격 발생 후 20분 안에 트래픽 차단과 수정 배포를 진행함 패키지 변조, 데이터베이스 변경, 지속적인 접근 흔적 은 발견되지 않음. 다만 데이터베이스 읽기 로그가 없어 개인정보와 인증 정보의 열람 가능성은 배제할 수 없음 공격은 Erlang 형식 요청에 위조 Elixir 구조체 를 넣고, 오류 로깅 과정의 Inspect 와 열거 프로토콜, DBConnection.Stream 의 로그 콜백을 연결해 OS 명령 실행에 도달",
+   "publishedAt": 1795676631000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.2,
+   "hot": true
   },
   {
    "title": "미국 배심원단, Huawei의 사기 및 이란 제재 위반 혐의에 유죄 평결",
@@ -489,7 +517,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.8,
+   "score": 40,
    "hot": true
   },
   {
@@ -503,21 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
-   "hot": true
-  },
-  {
-   "title": "Show GN: 하루뇌운동 - 60세 이상을 위한 매일 2분 두뇌 측정과 시간 제한 없는 훈련 게임",
-   "url": "https://news.hada.io/topic?id=37878&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "혼자 만들고 있는 안드로이드 앱 '하루뇌운동'(영문명 Steady Brain)을 2.0으로 거의 새로 만들어서 올렸습니다. 60세 이상 분들이 매일 아침 5~10분, 자기 페이스로 두뇌 상태를 확인하고 게임으로 훈련하는 앱입니다. Play에서 설치하면 가입이나 로그인 없이 바로 써 보실 수 있고 기본 기능은 무료입니다. 구독은 없고, 한 번 결제하는 평생 이용권만 있습니다. 왜 다시 만들었나 1.0은 매일 게임 조합이 바뀌었고, 16개 게임을 공식 하나로 채점했고, 원본 기록도 남기지 않았습니다. 그래서 그래프가 있어도 \"어제보다 ",
-   "publishedAt": 1795669124000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 40.1,
+   "score": 39.6,
    "hot": true
   },
   {
@@ -531,7 +545,35 @@
    "comments": 4,
    "publishedAt": 1795442483000,
    "isAI": false,
-   "score": 40,
+   "score": 39.5,
+   "hot": false
+  },
+  {
+   "title": "Show GN: 하루뇌운동 - 60세 이상을 위한 매일 2분 두뇌 측정과 시간 제한 없는 훈련 게임",
+   "url": "https://news.hada.io/topic?id=37878&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "혼자 만들고 있는 안드로이드 앱 '하루뇌운동'(영문명 Steady Brain)을 2.0으로 거의 새로 만들어서 올렸습니다. 60세 이상 분들이 매일 아침 5~10분, 자기 페이스로 두뇌 상태를 확인하고 게임으로 훈련하는 앱입니다. Play에서 설치하면 가입이나 로그인 없이 바로 써 보실 수 있고 기본 기능은 무료입니다. 구독은 없고, 한 번 결제하는 평생 이용권만 있습니다. 왜 다시 만들었나 1.0은 매일 게임 조합이 바뀌었고, 16개 게임을 공식 하나로 채점했고, 원본 기록도 남기지 않았습니다. 그래서 그래프가 있어도 \"어제보다 ",
+   "publishedAt": 1795669124000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.4,
+   "hot": true
+  },
+  {
+   "title": "GTA 6 Running on Windows",
+   "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50627783",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 506,
+   "comments": 591,
+   "publishedAt": 1795526371000,
+   "isAI": false,
+   "score": 38.9,
    "hot": false
   },
   {
@@ -545,22 +587,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 38.8,
    "hot": true
-  },
-  {
-   "title": "GTA 6 Running on Windows",
-   "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50627783",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 504,
-   "comments": 588,
-   "publishedAt": 1795526371000,
-   "isAI": false,
-   "score": 39.4,
-   "hot": false
   },
   {
    "title": "Top open problems in mathematics ranked by LLM-assessed importance",
@@ -573,7 +601,7 @@
    "comments": 53,
    "publishedAt": 1795575696000,
    "isAI": true,
-   "score": 38.9,
+   "score": 38.3,
    "hot": false
   },
   {
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 37.9,
    "hot": true
   },
   {
@@ -601,7 +629,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.6,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -615,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.5,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -629,35 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.3,
-   "hot": true
-  },
-  {
-   "title": "Relax - Rust 코드를 바로 실행하고 수정 사항을 반영하는 JIT 컴파일러",
-   "url": "https://news.hada.io/topic?id=37860&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "전체 빌드가 끝날 때까지 기다리지 않고 Rust 프로그램을 실행 하는 개발 도구 함수가 처음 호출될 때 컴파일하고, 자주 실행되는 함수는 백그라운드에서 최적화 실행 중 함수를 수정하면 상태를 유지한 채 새 코드로 교체 해, 앱을 다시 켜고 이전 화면까지 이동하는 과정을 줄임 구조체의 메모리 배치나 매크로 등 변경은 재시작 필요 대형 3D 게임 개발 사례에서 빌드 후 실행까지 약 3분 걸리던 작업을 M4 MacBook에서 소스부터 첫 화면까지 11초 에 처리. 캐시가 있는 다음 실행은 1.15초 파일을 저장하면 변경한 함수를 거친 테",
-   "publishedAt": 1795653002000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.3,
-   "hot": true
-  },
-  {
-   "title": "72시간 단식으로 면역계를 재설정할 수 있다는 USC 연구",
-   "url": "https://news.hada.io/topic?id=37858&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "USC 연구는 주로 생쥐에서 장기 단식과 재급식의 반복 이 조혈줄기세포와 혈액세포 회복에 미치는 영향을 조사했으며, 건강한 사람이 한 번의 72시간 단식으로 면역계 전체를 재설정한다는 사실은 입증하지 못함 실험에서는 IGF-1 감소와 PKA 관련 신호 변화 가 줄기세포 행동 및 회복과 연결됐으며, 음식을 다시 섭취하는 재급식도 실험 주기의 중요한 부분이었음 사람 대상 근거는 항암치료 환자의 예비 관찰과 20명 규모의 타당성 연구 에 한정되며, 일반인의 면역 재생이나 장기적인 건강 개선을 확증하지 못함 백혈구 수 회복은 면역 기 …",
-   "publishedAt": 1795652149000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 38.2,
+   "score": 37.6,
    "hot": true
   },
   {
@@ -671,7 +671,7 @@
    "comments": 348,
    "publishedAt": 1795473149000,
    "isAI": false,
-   "score": 37.3,
+   "score": 36.8,
    "hot": false
   },
   {
@@ -685,21 +685,7 @@
    "comments": 152,
    "publishedAt": 1795537937000,
    "isAI": false,
-   "score": 37,
-   "hot": false
-  },
-  {
-   "title": "Anthropic is below its IPO price",
-   "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50628932",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 130,
-   "comments": 3,
-   "publishedAt": 1795531275000,
-   "isAI": true,
-   "score": 36.6,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -713,7 +699,21 @@
    "comments": 318,
    "publishedAt": 1795381276000,
    "isAI": true,
-   "score": 36.5,
+   "score": 36.2,
+   "hot": false
+  },
+  {
+   "title": "Anthropic is below its IPO price",
+   "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50628932",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 130,
+   "comments": 3,
+   "publishedAt": 1795531275000,
+   "isAI": true,
+   "score": 36,
    "hot": false
   },
   {
@@ -724,24 +724,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 255,
-   "comments": 244,
+   "comments": 245,
    "publishedAt": 1795540061000,
    "isAI": false,
-   "score": 36.2,
-   "hot": false
-  },
-  {
-   "title": "How Gemini is changing the game for Golden State's organization and fans.",
-   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-   "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
-   "publishedAt": 1795536000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 35.9,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -755,9 +741,23 @@
    "comments": 1010,
    "publishedAt": 1795337854000,
    "isAI": true,
-   "score": 35.8,
+   "score": 35.5,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "How Gemini is changing the game for Golden State's organization and fans.",
+   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+   "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+   "publishedAt": 1795536000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 35.4,
+   "hot": false
   },
   {
    "title": "Apple removed my open-source app from EU App Stores after 9 years",
@@ -770,7 +770,7 @@
    "comments": 180,
    "publishedAt": 1795459690000,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -784,21 +784,7 @@
    "comments": 167,
    "publishedAt": 1795521065000,
    "isAI": false,
-   "score": 35.5,
-   "hot": false
-  },
-  {
-   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-   "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-   "publishedAt": 1795637007000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 34.9,
+   "score": 35,
    "hot": false
   },
   {
@@ -812,7 +798,20 @@
    "comments": 187,
    "publishedAt": 1795396431000,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.5,
+   "hot": false
+  },
+  {
+   "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
+   "url": "https://huggingface.co/papers/2611.34849",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 83,
+   "summary": "Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and several benchmarks have been proposed to evaluate them. However",
+   "publishedAt": 1795546800000,
+   "isAI": true,
+   "score": 34.4,
    "hot": false
   },
   {
@@ -826,7 +825,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.4,
+   "hot": false
+  },
+  {
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "publishedAt": 1795637007000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 34.2,
    "hot": false
   },
   {
@@ -840,7 +853,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.8,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -854,7 +867,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -868,7 +881,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.6,
+   "hot": false
+  },
+  {
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more ",
+   "publishedAt": 1795686880000,
+   "source": "The Verge",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -882,7 +909,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34,
+   "score": 33.4,
    "hot": false
   },
   {
@@ -896,7 +923,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.9,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -910,35 +937,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.7,
-   "hot": false
-  },
-  {
-   "title": "뉴욕주, 어린이용 AI 챗봇 장난감 제조·판매 5년간 금지",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217833",
-   "summary": "미국 뉴욕주가 어린이용 AI 챗봇 장난감의 제조와 유통, 판매를 5년간 금지한다. 부적절한 대화와 정서적 의존, 개인정보 침해 등 어린이에게 미칠 수 있는 위험을 차단하고 제품의 안전성을 검증하기 위한 조치다.캐시 호철 뉴욕주지사는 24일(현지시간) 이 같은 내용을 담은 법안에 서명했다. 13세 미만 어린이를 대상으로 AI 챗봇을 탑재한 장난감이 규제 대상이며, 인터넷에 연결해 어린이와 대화하는 인형과 로봇 등이 대표적이다. 법률은 서명일로부터 90일 뒤 발효된다.호철 주지사는 부모들이 장난감을 구매하면서 자녀가 부적절한 대화나 감",
-   "publishedAt": 1795679700000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
-   "hot": false
-  },
-  {
-   "title": "아마존·메타, AI 에이전트 '뮤즈' 접근 차단 해제 협상",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217831",
-   "summary": "아마존과 메타가 AI 에이전트 '뮤즈(Muse)'의 아마존 온라인 쇼핑몰 접근을 허용하는 방안을 협의 중인 것으로 알려졌다. 지난 9월 아마존이 뮤즈의 접근을 차단한 지 약 두 달 만으로, 상품 검색 결과와 광고 처리 방식이 협상의 핵심 쟁점으로 떠올랐다.포춘은 25일(현지시간) 소식통을 인용, 양사가 뮤즈의 아마존 쇼핑몰 연동을 놓고 여러 차례 협상을 진행했다고 보도했다. 아직 주요 쟁점에 합의하지 못했으며, 최종 계약을 체결하려면 양사 CEO의 승인도 필요한 것으로 알려졌다.아마존은 지난 9월 이용 약관 위반을 이유로 뮤즈의 접",
-   "publishedAt": 1795679415000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -952,7 +951,21 @@
    "comments": 262,
    "publishedAt": 1795475498000,
    "isAI": false,
-   "score": 33.4,
+   "score": 33,
+   "hot": false
+  },
+  {
+   "title": "뉴욕주, 어린이용 AI 챗봇 장난감 제조·판매 5년간 금지",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217833",
+   "summary": "미국 뉴욕주가 어린이용 AI 챗봇 장난감의 제조와 유통, 판매를 5년간 금지한다. 부적절한 대화와 정서적 의존, 개인정보 침해 등 어린이에게 미칠 수 있는 위험을 차단하고 제품의 안전성을 검증하기 위한 조치다.캐시 호철 뉴욕주지사는 24일(현지시간) 이 같은 내용을 담은 법안에 서명했다. 13세 미만 어린이를 대상으로 AI 챗봇을 탑재한 장난감이 규제 대상이며, 인터넷에 연결해 어린이와 대화하는 인형과 로봇 등이 대표적이다. 법률은 서명일로부터 90일 뒤 발효된다.호철 주지사는 부모들이 장난감을 구매하면서 자녀가 부적절한 대화나 감",
+   "publishedAt": 1795679700000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -966,7 +979,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.4,
+   "score": 32.8,
+   "hot": false
+  },
+  {
+   "title": "아마존·메타, AI 에이전트 '뮤즈' 접근 차단 해제 협상",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217831",
+   "summary": "아마존과 메타가 AI 에이전트 '뮤즈(Muse)'의 아마존 온라인 쇼핑몰 접근을 허용하는 방안을 협의 중인 것으로 알려졌다. 지난 9월 아마존이 뮤즈의 접근을 차단한 지 약 두 달 만으로, 상품 검색 결과와 광고 처리 방식이 협상의 핵심 쟁점으로 떠올랐다.포춘은 25일(현지시간) 소식통을 인용, 양사가 뮤즈의 아마존 쇼핑몰 연동을 놓고 여러 차례 협상을 진행했다고 보도했다. 아직 주요 쟁점에 합의하지 못했으며, 최종 계약을 체결하려면 양사 CEO의 승인도 필요한 것으로 알려졌다.아마존은 지난 9월 이용 약관 위반을 이유로 뮤즈의 접",
+   "publishedAt": 1795679415000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -980,7 +1007,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -994,7 +1021,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.4,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1008,7 +1035,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.3,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -1022,7 +1049,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -1036,7 +1063,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1050,7 +1077,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.1,
+   "score": 32.5,
    "hot": false
   },
   {
@@ -1064,7 +1091,21 @@
    "comments": 122,
    "publishedAt": 1795501684000,
    "isAI": false,
-   "score": 32.9,
+   "score": 32.4,
+   "hot": false
+  },
+  {
+   "title": "Declare is a UI language for you and your AI",
+   "url": "https://davidtemkin.github.io/declarelang/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50622854",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 119,
+   "comments": 95,
+   "publishedAt": 1795487816000,
+   "isAI": true,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1078,7 +1119,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1092,21 +1133,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.3,
    "hot": false
   },
   {
-   "title": "Declare is a UI language for you and your AI",
-   "url": "https://davidtemkin.github.io/declarelang/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50622854",
+   "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+   "url": "https://github.com/AFK-surf/xnulinux",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50607261",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 118,
-   "comments": 95,
-   "publishedAt": 1795487816000,
-   "isAI": true,
-   "score": 32.8,
+   "engagement": 629,
+   "comments": 267,
+   "publishedAt": 1795405764000,
+   "isAI": false,
+   "score": 32.2,
    "hot": false
   },
   {
@@ -1120,77 +1161,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.2,
    "hot": false
   },
   {
-   "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-   "url": "https://github.com/AFK-surf/xnulinux",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50607261",
+   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+   "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50601280",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 628,
-   "comments": 267,
-   "publishedAt": 1795405764000,
-   "isAI": false,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "중소기업도 AI로 업무 자동화…25분 걸리던 작업 46초로",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217812",
-   "summary": "정부가 중소기업의 AI 활용 역량을 높이기 위해 올해 도입한 현장 맞춤형 직무훈련이 업무 자동화 성과로 이어지고 있다. 자재 명세서 작성과 기술문서 검토 등에 AI를 적용한 사례가 등장한 가운데 전남광주에서도 지역 중소기업의 AI 전환을 지원하는 훈련체계가 운영되고 있다.한국산업인력공단은 26일 서울에서 '2026년 AI 훈련 우수사례 경진대회'를 열고 12개 기업·기관의 업무 개선 사례를 공개했다.공단은 올해 중소기업 AI 훈련확산센터 10곳과 AI 특화 공동훈련센터 20곳을 신설했다. AI 도입에 필요한 전문인력과 인프라 확보가",
-   "publishedAt": 1795670686000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
+   "engagement": 385,
+   "comments": 111,
+   "publishedAt": 1795365888000,
    "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "공직사회도 '바이브 코딩'…공무원이 업무용 앱 직접 개발",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217815",
-   "summary": "전국 공직사회에서 AI를 활용해 업무에 필요한 프로그램을 직접 개발하는 사례가 잇따르고 있다. 출장비 정산부터 복지사업 조사, 교원 인사관리까지 활용 분야가 다양해지면서 업무시간을 줄이고 외부 용역을 대체하는 성과도 나오고 있다.행정안전부에 따르면 25일 결선 일정이 마련된 '2026년 공공 AI 대전환 챌린지'에는 전국 287개 기관에서 1035개 작품이 출품됐다. 참가자 1610명 중 5명 중 4명은 정보화 부서가 아닌 일반 현업 부서 소속이었다.제주도는 공무원들이 직접 개발한 프로그램 5건의 효과를 분석한 결과 4건에서 연간",
-   "publishedAt": 1795670485000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 57년 된 행렬 곱셈 난제 해결 주장…연산량 한계 규명",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217818",
-   "summary": "오픈AI가 미공개 AI 모델로 57년간 이어진 행렬 곱셈의 연산 복잡도에 관한 수학 난제를 해결했다고 주장했다. 지난달 행렬 곱셈에 필요한 연산량을 획기적으로 줄이는 방법을 발견한 데 이어, 이번에는 이론적으로 그 이상의 개선이 불가능하다는 증명을 내놓았다.오픈AI는 24일(현지시간) 공식 깃허브를 통해 '행렬 곱셈 지수는 9/4(The Matrix Multiplication Exponent Is Nine Fourths)'라는 제목의 111페이지 분량 논문을 공개했다. 연구를 수행한 내부 AI 모델의 이름은 공개하지 않았다.행렬 곱",
-   "publishedAt": 1795670093000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-   "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50624061",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 232,
-   "comments": 132,
-   "publishedAt": 1795497322000,
-   "isAI": false,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1204,21 +1189,76 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 32.5,
+   "score": 32.1,
    "hot": false
   },
   {
-   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-   "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50601280",
+   "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+   "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50624061",
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 365,
-   "comments": 104,
-   "publishedAt": 1795365888000,
+   "engagement": 232,
+   "comments": 132,
+   "publishedAt": 1795497322000,
+   "isAI": false,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+   "url": "https://huggingface.co/papers/2611.34575",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 57,
+   "summary": "Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling mode",
+   "publishedAt": 1795546800000,
    "isAI": true,
-   "score": 32.1,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "중소기업도 AI로 업무 자동화…25분 걸리던 작업 46초로",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217812",
+   "summary": "정부가 중소기업의 AI 활용 역량을 높이기 위해 올해 도입한 현장 맞춤형 직무훈련이 업무 자동화 성과로 이어지고 있다. 자재 명세서 작성과 기술문서 검토 등에 AI를 적용한 사례가 등장한 가운데 전남광주에서도 지역 중소기업의 AI 전환을 지원하는 훈련체계가 운영되고 있다.한국산업인력공단은 26일 서울에서 '2026년 AI 훈련 우수사례 경진대회'를 열고 12개 기업·기관의 업무 개선 사례를 공개했다.공단은 올해 중소기업 AI 훈련확산센터 10곳과 AI 특화 공동훈련센터 20곳을 신설했다. AI 도입에 필요한 전문인력과 인프라 확보가",
+   "publishedAt": 1795670686000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "공직사회도 '바이브 코딩'…공무원이 업무용 앱 직접 개발",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217815",
+   "summary": "전국 공직사회에서 AI를 활용해 업무에 필요한 프로그램을 직접 개발하는 사례가 잇따르고 있다. 출장비 정산부터 복지사업 조사, 교원 인사관리까지 활용 분야가 다양해지면서 업무시간을 줄이고 외부 용역을 대체하는 성과도 나오고 있다.행정안전부에 따르면 25일 결선 일정이 마련된 '2026년 공공 AI 대전환 챌린지'에는 전국 287개 기관에서 1035개 작품이 출품됐다. 참가자 1610명 중 5명 중 4명은 정보화 부서가 아닌 일반 현업 부서 소속이었다.제주도는 공무원들이 직접 개발한 프로그램 5건의 효과를 분석한 결과 4건에서 연간",
+   "publishedAt": 1795670485000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "오픈AI, 57년 된 행렬 곱셈 난제 해결 주장…연산량 한계 규명",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217818",
+   "summary": "오픈AI가 미공개 AI 모델로 57년간 이어진 행렬 곱셈의 연산 복잡도에 관한 수학 난제를 해결했다고 주장했다. 지난달 행렬 곱셈에 필요한 연산량을 획기적으로 줄이는 방법을 발견한 데 이어, 이번에는 이론적으로 그 이상의 개선이 불가능하다는 증명을 내놓았다.오픈AI는 24일(현지시간) 공식 깃허브를 통해 '행렬 곱셈 지수는 9/4(The Matrix Multiplication Exponent Is Nine Fourths)'라는 제목의 111페이지 분량 논문을 공개했다. 연구를 수행한 내부 AI 모델의 이름은 공개하지 않았다.행렬 곱",
+   "publishedAt": 1795670093000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32,
    "hot": false
   },
   {
@@ -1232,7 +1272,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.5,
+   "hot": false
+  },
+  {
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "url": "https://github.com/gulivan/worker755",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50599762",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 361,
+   "comments": 90,
+   "publishedAt": 1795355818000,
+   "isAI": true,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1246,7 +1300,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1260,7 +1314,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1274,7 +1328,61 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.3,
+   "hot": false
+  },
+  {
+   "title": "Mixture-of-Loops Transformer",
+   "url": "https://huggingface.co/papers/2611.34923",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 50,
+   "summary": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Tr",
+   "publishedAt": 1795546800000,
+   "isAI": true,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+   "url": "https://huggingface.co/papers/2611.34237",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 50,
+   "summary": "Code-driven video generation asks a coding agent to write and run rendering programs. This gives exact control over typography, data visualizations, synchronized audio, and multi-shot scenes, and it leaves an editable project behind. A program that exits cleanly can still render overlapping labels, ",
+   "publishedAt": 1795546800000,
+   "isAI": true,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "Connected intelligence for in-house legal",
+   "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+   "publishedAt": 1795420800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "Richpanel helps companies automate 50% of support in 30 days",
+   "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+   "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+   "publishedAt": 1795420800000,
+   "source": "OpenAI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 50,
+   "isAI": true,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1288,119 +1396,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "27일부터 'AI 가짜 의사·교수' 추천 광고 금지…위반 시 영업정지",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217797",
-   "summary": "AI로 만든 가상의 의사나 교수가 식품·의약품·화장품 등을 추천하는 광고가 27일부터 금지된다. 위반시 영업정지 또는 광고·판매 업무정지 등 행정처분을 받는다.식품의약품안전처는 AI 기술로 만든 가짜 전문가가 제품을 보증·추천하는 것처럼 소비자를 오인하게 하는 광고를 금지하도록 관련 시행규칙을 정비했다고 26일 밝혔다. '식품 등의 표시·광고에 관한 법률, '약사법', '화장품법'은 27일부터, '의료기기법'은 오는 12월10일부터 시행된다. 적용 대상은 식품·건강기능식품·축산물, 의약품·의약외품, 화장품, 의료기기 등이다.이번 조",
-   "publishedAt": 1795660708000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "AI로 산불 감지부터 대피경로 예측까지…지리산은 드론 진화 실증 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217801",
-   "summary": "산불 대응에 AI 기술을 활용하는 범위가 넓어지고 있다. 지방자치단체가 AI로 연기와 불꽃을 감지하는 시스템을 운영하는 가운데 정부는 산불이 번지는 방향과 주민 대피경로를 예측하는 기술을 개발하고 있다. 전남광주 지리산에서는 AI와 드론을 연계한 초기 진화 시스템의 현장실증도 추진된다.세종시는 25일 가을철 산불조심기간을 맞아 AI 기반 산불감시체계를 24시간 가동한다고 밝혔다. 지난 7월13일 구축한 정보통신기술(ICT) 플랫폼을 활용해 산불 취약지역을 실시간으로 감시하는 방식이다.AI가 기존 산불감시카메라 영상에서 연기나 불꽃을",
-   "publishedAt": 1795660605000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "재생에너지 남을 때 AI 연산 집중…제주 데이터센터 구축 구상",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217796",
-   "summary": "제주도가 풍력·태양광 발전량이 많은 시간대에 AI 연산을 집중하는 40메가와트(MW)급 데이터센터 구축을 구상하고 있다. 재생에너지 활용도를 높이는 동시에 지역 산업의 AI 전환을 지원한다는 계획이다.제주도는 24일 AI 데이터센터 조성 방향과 전력 수급, 환경 영향, 지역경제 파급효과 등을 논의하기 위해 다음 달 2일 제주웰컴센터에서 도민토론회를 개최한다고 밝혔다.도는 지난 9월 제주권 AI 대전환 사업의 세부 실행계획 마련에 나섰다. 수전용량 40MW 규모의 AI 데이터센터를 중심으로 재생에너지 발전량에 따라 연산 작업을 배치하",
-   "publishedAt": 1795660545000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "약품비 4%·전력비 5% 절감…지자체 정수장에도 AI 도입 확대",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217794",
-   "summary": "한국수자원공사가 전국 광역정수장에 적용한 AI 기술이 지방자치단체 정수장으로 확대되고 있다. 부산에 이어 수원시가 AI 정수장 구축을 추진하고 있으며 전남광주에서도 수질 이상을 예측하는 시스템을 자체 개발해 활용하고 있다.수원시는 25일 한국수자원공사와 광교정수장의 AI 기술 도입을 위한 컨설팅을 마쳤다고 밝혔다. 내년 시설 개선을 거쳐 2028년 AI 기반 스마트 정수장을 구축한다는 목표다.수원은 시설 개선과 데이터 수집 체계 구축을 시작으로 주요 정수 공정에 AI를 적용한 뒤 전체 공정으로 확대할 계획이다. 약품 투입량과 정수",
-   "publishedAt": 1795660487000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "농촌진흥청, 토마토 물·양분 자동 공급 AI 개발…관리시간 최대 80% 단축",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217793",
-   "summary": "농촌진흥청이 AI로 토마토 생육 상태를 분석해 필요한 물과 양분을 자동 공급하는 기술을 개발했다. 실제 농가에서 양액 관리시간이 최대 80% 줄었으며, 전남광주에서도 AI로 작물 생육을 진단하고 재배 판단을 돕는 기술의 현장실증을 추진하고 있다.농촌진흥청은 25일 AI 생육 감지 시스템과 지능형 양액 공급장치를 결합한 자동화 시스템 'AI-뉴티(AI-Nutie)'를 개발했다고 밝혔다. 토마토의 생육 상태를 감지하는 것부터 물과 양분의 공급량을 결정하고 실제 공급하는 과정까지 AI로 통합한 기술이다.기존 수경재배에서는 농업인이 작물",
-   "publishedAt": 1795660408000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "화순전남대병원, 암 환자 진료서류 AI로 요약…의료진 기록 업무 40% 단축 목표",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217791",
-   "summary": "화순전남대병원이 다른 의료기관에서 전달받은 암 환자의 진료의뢰서와 소견서를 AI로 분석·요약하는 기술을 개발하고 있다. 의료진의 서류 확인과 의무기록 입력 시간을 40% 이상 줄이는 것이 목표다.AI 플랫폼 기업 아이티아이즈는 25일 화순전남대병원에 의료 AI 플랫폼 '제나이 미(GENAI ME)' 기반 맞춤형 AI 솔루션을 공급했다고 밝혔다. 이 솔루션은 병원이 추진하는 암 환자 진료의뢰서 자동 구조화·요약 에이전트 개발 연구과제에 적용될 예정이다.연구는 지난 2월부터 이정호 화순전남대병원 응급의학과 교수가 맡아 진행하고 있으며,",
-   "publishedAt": 1795660284000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.7,
-   "hot": false
-  },
-  {
-   "title": "Show HN: I built a game where you are an LLM's subagent",
-   "url": "https://github.com/gulivan/worker755",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50599762",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 360,
-   "comments": 90,
-   "publishedAt": 1795355818000,
-   "isAI": true,
-   "score": 31.6,
-   "hot": false
-  },
-  {
-   "title": "전남광주, 공무원 5000명에 AI 보급 추진…영국선 하루 26분 업무시간 절감 보고",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217788",
-   "summary": "전남광주통합특별시가 공무원 약 5000명에게 생성형 AI 업무 도구를 보급하기 위해 2027년 예산안에 4억원을 편성했다. 정부가 공무원 업무망에서 활용하는 AI 서비스를 확대하는 가운데 영국에서는 공무원 2만명을 대상으로 한 별도의 AI 실증에서 하루 평균 26분의 업무시간을 줄였다는 결과가 나왔다.전남광주통합특별시의회가 24일 공개한 자료에 따르면 지난 23일 열린 2027년도 본예산안 심사에서 공무원 'AI 도구 지원' 예산의 실효성이 논의됐다. 해당 사업 예산은 올해 2160만원에서 내년 4억원으로 약 18.5배 늘어났다.통",
-   "publishedAt": 1795660054000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.6,
+   "score": 31.1,
    "hot": false
   }
  ]
