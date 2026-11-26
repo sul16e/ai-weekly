@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795691059027,
+ "updatedAt": 1795695685117,
  "week": "2026-W48",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 467,
-   "comments": 252,
+   "engagement": 473,
+   "comments": 256,
    "publishedAt": 1795643290000,
    "isAI": true,
-   "score": 58.1,
+   "score": 57.5,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1451,
-   "comments": 626,
+   "engagement": 1485,
+   "comments": 639,
    "publishedAt": 1795627106000,
    "isAI": false,
-   "score": 58,
+   "score": 57.4,
    "hot": true
   },
   {
@@ -37,11 +37,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 267,
-   "comments": 148,
+   "engagement": 303,
+   "comments": 173,
    "publishedAt": 1795664218000,
    "isAI": true,
-   "score": 56.8,
+   "score": 57.1,
    "hot": true
   },
   {
@@ -51,25 +51,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 402,
-   "comments": 337,
+   "engagement": 424,
+   "comments": 354,
    "publishedAt": 1795641482000,
    "isAI": true,
-   "score": 56.6,
+   "score": 56.3,
+   "hot": true
+  },
+  {
+   "title": "Bare Metal Qwen",
+   "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50648365",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 172,
+   "comments": 39,
+   "publishedAt": 1795644934000,
+   "isAI": true,
+   "score": 49.4,
    "hot": true
   },
   {
    "title": "Show GN: sol-astrizer: 모든 LLM이 GPT 6.2처럼 말하게 된다면",
-   "url": "https://news.hada.io/topic?id=37892&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Show GN: sol-astrizer: 모든 LLM이 GPT 6.2처럼 말하게 된다면",
-   "publishedAt": 1795689720000,
+   "url": "https://news.hada.io/topic?id=37893&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "Claude Opus 5.5나 Gemini Neon 같은 모델은 버그가 해결됐는지 물으면 여전히 너무 성급하게 \"네\"라고 확답합니다. 사용자가 불만을 토로하면 사실을 분리해 정리하기보다 먼저 편을 들기 바쁩니다. sol-astrizer 는 어느 뛰어난 6.2 모델이 보여준 차분하고 분석적인 엄밀함을 어떤 모델이나 코딩 에이전트에도 적용합니다. 과잉 친절도, 근거 없는 확답도, 서로 다른 개념을 한데 섞는 일도 없습니다. 실제로 현재 환경에서 워크플로우가 개선되는지는 별개의 개념이며, 아직 검증되지 않았습니다. 적용 전 (미보정 모델",
+   "publishedAt": 1795690116000,
    "source": "GeekNews",
    "sourceType": "community",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.8,
+   "score": 49.2,
    "hot": true
   },
   {
@@ -83,21 +97,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 49.7,
-   "hot": true
-  },
-  {
-   "title": "Bare Metal Qwen",
-   "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50648365",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 161,
-   "comments": 39,
-   "publishedAt": 1795644934000,
-   "isAI": true,
-   "score": 49.5,
+   "score": 49,
    "hot": true
   },
   {
@@ -108,10 +108,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 458,
-   "comments": 204,
+   "comments": 207,
    "publishedAt": 1795574061000,
    "isAI": true,
-   "score": 48.5,
+   "score": 47.9,
    "hot": false
   },
   {
@@ -121,11 +121,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1016,
+   "engagement": 1017,
    "comments": 411,
    "publishedAt": 1795524015000,
    "isAI": true,
-   "score": 48.2,
+   "score": 47.7,
    "hot": false
   },
   {
@@ -139,7 +139,21 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.5,
+   "hot": true
+  },
+  {
+   "title": "Slow Ubuntu security response times",
+   "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50647181",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 327,
+   "comments": 158,
+   "publishedAt": 1795639080000,
+   "isAI": false,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -153,21 +167,7 @@
    "comments": 357,
    "publishedAt": 1795613587000,
    "isAI": false,
-   "score": 47.7,
-   "hot": true
-  },
-  {
-   "title": "Slow Ubuntu security response times",
-   "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50647181",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 309,
-   "comments": 147,
-   "publishedAt": 1795639080000,
-   "isAI": false,
-   "score": 47.2,
+   "score": 47.1,
    "hot": true
   },
   {
@@ -181,7 +181,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 47.2,
+   "score": 46.5,
    "hot": true
   },
   {
@@ -195,7 +195,7 @@
    "comments": 77,
    "publishedAt": 1795568089000,
    "isAI": true,
-   "score": 46.9,
+   "score": 46.3,
    "hot": false
   },
   {
@@ -209,7 +209,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -223,7 +223,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.4,
+   "score": 44.8,
    "hot": true
   },
   {
@@ -237,7 +237,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.3,
+   "score": 44.7,
    "hot": true
   },
   {
@@ -251,22 +251,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 45.2,
-   "hot": true
-  },
-  {
-   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-   "url": "https://news.ycombinator.com/item?id=50630809",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50630809",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 452,
-   "comments": 349,
-   "publishedAt": 1795538744000,
-   "isAI": true,
    "score": 44.6,
-   "hot": false
+   "hot": true
   },
   {
    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -279,7 +265,21 @@
    "comments": 97,
    "publishedAt": 1795554142000,
    "isAI": true,
-   "score": 44.5,
+   "score": 44.1,
+   "hot": false
+  },
+  {
+   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+   "url": "https://news.ycombinator.com/item?id=50630809",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50630809",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 453,
+   "comments": 350,
+   "publishedAt": 1795538744000,
+   "isAI": true,
+   "score": 44.1,
    "hot": false
   },
   {
@@ -289,12 +289,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 336,
+   "engagement": 338,
    "comments": 186,
    "publishedAt": 1795606465000,
    "isAI": false,
-   "score": 43.9,
-   "hot": true
+   "score": 43.4,
+   "hot": false
   },
   {
    "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
@@ -304,10 +304,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 218,
-   "comments": 171,
+   "comments": 172,
    "publishedAt": 1795579413000,
    "isAI": true,
-   "score": 43.9,
+   "score": 43.4,
    "hot": false
   },
   {
@@ -317,11 +317,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 220,
+   "engagement": 221,
    "comments": 83,
    "publishedAt": 1795578462000,
    "isAI": true,
-   "score": 43.8,
+   "score": 43.4,
+   "hot": false
+  },
+  {
+   "title": "Intel One Mono font",
+   "url": "https://github.com/intel/intel-one-mono",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50653667",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 103,
+   "comments": 59,
+   "publishedAt": 1795687861000,
+   "isAI": false,
+   "score": 43.3,
    "hot": false
   },
   {
@@ -335,7 +349,7 @@
    "comments": 796,
    "publishedAt": 1795526627000,
    "isAI": true,
-   "score": 43.1,
+   "score": 42.7,
    "hot": false
   },
   {
@@ -349,7 +363,7 @@
    "comments": 148,
    "publishedAt": 1795575877000,
    "isAI": false,
-   "score": 42.8,
+   "score": 42.3,
    "hot": false
   },
   {
@@ -363,7 +377,7 @@
    "comments": 333,
    "publishedAt": 1795536758000,
    "isAI": true,
-   "score": 42.5,
+   "score": 42.1,
    "hot": false
   },
   {
@@ -374,11 +388,25 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 2843,
-   "comments": 3804,
+   "comments": 3805,
    "publishedAt": 1795442418000,
    "isAI": false,
-   "score": 42.2,
+   "score": 41.9,
    "hot": false
+  },
+  {
+   "title": "Show GN: 배럴 - 광고 차단 브라우저와 다운로드 매니저를 하나로 합친 Android 앱",
+   "url": "https://news.hada.io/topic?id=37894&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "브라우저, 광고 차단기, 다운로드 매니저를 따로 쓰다가 하나의 앱으로 합쳤습니다. 광고와 회원가입이 없고, 기록과 북마크는 기기에만 저장합니다. 동영상 다운로드: 페이지에서 재생되는 동영상을 찾아 화질을 골라 저장합니다. HLS, DASH처럼 조각으로 나뉜 영상은 조각을 모두 받은 뒤 재인코딩 없이 하나의 파일로 합칩니다. 자막도 같이 받고, 받는 중에 앞부분을 재생할 수 있습니다. 광고 차단: 필터 목록 32개를 매주 업데이트합니다. 기본 목록을 앱에 넣어 두어 첫 실행부터 차단하고, 페이지 요소를 직접 골라 숨기거나 사용자 스크",
+   "publishedAt": 1795690794000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.4,
+   "hot": true
   },
   {
    "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
@@ -387,11 +415,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 153,
-   "comments": 63,
+   "engagement": 161,
+   "comments": 64,
    "publishedAt": 1795638950000,
    "isAI": false,
-   "score": 41.4,
+   "score": 41.3,
    "hot": true
   },
   {
@@ -401,11 +429,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 347,
+   "engagement": 348,
    "comments": 80,
    "publishedAt": 1795581108000,
    "isAI": false,
-   "score": 41.4,
+   "score": 41,
    "hot": false
   },
   {
@@ -419,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 41.3,
+   "score": 40.8,
    "hot": true
   },
   {
@@ -429,11 +457,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1179,
+   "engagement": 1180,
    "comments": 386,
    "publishedAt": 1795428403000,
    "isAI": true,
-   "score": 41,
+   "score": 40.7,
    "hot": false
   },
   {
@@ -447,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.9,
+   "score": 40.3,
    "hot": true
   },
   {
@@ -461,8 +489,22 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.6,
+   "score": 40,
    "hot": true
+  },
+  {
+   "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50631210",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 223,
+   "comments": 140,
+   "publishedAt": 1795540245000,
+   "isAI": true,
+   "score": 39.8,
+   "hot": false
   },
   {
    "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
@@ -475,21 +517,7 @@
    "comments": 20,
    "publishedAt": 1795577286000,
    "isAI": true,
-   "score": 40.2,
-   "hot": false
-  },
-  {
-   "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
-   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50631210",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 223,
-   "comments": 134,
-   "publishedAt": 1795540245000,
-   "isAI": true,
-   "score": 40.2,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -503,7 +531,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.2,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -517,21 +545,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
-   "hot": true
-  },
-  {
-   "title": "Tell HN: Ask HN 게시물이 다시 많아졌습니다",
-   "url": "https://news.hada.io/topic?id=37879&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "/ask 페이지에 게시물이 14개 또는 19개만 표시되거나 페이지 이동 기능이 사라지는 현상이 있었음 원인으로 추정되는 문제는 /ask 가 첫 화면 생성에 쓰는 상위 1,500개 게시물 순위 목록 에서 게시물을 가져온다는 점임. URL 없는 텍스트 게시물의 비율이 줄어 Ask HN 피드에 충분한 게시물이 공급되지 않은 것으로 보이며, 해결책은 Ask HN 전용 순위 목록 을 별도로 계산하는 것임 여기서 Ask HN은 URL 없이 제출된 텍스트 게시물 을 통칭함. 제목이 Tell HN 으로 시작하거나 특정 접두사가 없는 게시물도 포함",
-   "publishedAt": 1795671115000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 39.6,
+   "score": 39.5,
    "hot": true
   },
   {
@@ -545,8 +559,22 @@
    "comments": 4,
    "publishedAt": 1795442483000,
    "isAI": false,
-   "score": 39.5,
+   "score": 39.2,
    "hot": false
+  },
+  {
+   "title": "Tell HN: Ask HN 게시물이 다시 많아졌습니다",
+   "url": "https://news.hada.io/topic?id=37879&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "/ask 페이지에 게시물이 14개 또는 19개만 표시되거나 페이지 이동 기능이 사라지는 현상이 있었음 원인으로 추정되는 문제는 /ask 가 첫 화면 생성에 쓰는 상위 1,500개 게시물 순위 목록 에서 게시물을 가져온다는 점임. URL 없는 텍스트 게시물의 비율이 줄어 Ask HN 피드에 충분한 게시물이 공급되지 않은 것으로 보이며, 해결책은 Ask HN 전용 순위 목록 을 별도로 계산하는 것임 여기서 Ask HN은 URL 없이 제출된 텍스트 게시물 을 통칭함. 제목이 Tell HN 으로 시작하거나 특정 접두사가 없는 게시물도 포함",
+   "publishedAt": 1795671115000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 39.1,
+   "hot": true
   },
   {
    "title": "Show GN: 하루뇌운동 - 60세 이상을 위한 매일 2분 두뇌 측정과 시간 제한 없는 훈련 게임",
@@ -559,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.4,
+   "score": 38.8,
    "hot": true
   },
   {
@@ -569,11 +597,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 506,
-   "comments": 591,
+   "engagement": 507,
+   "comments": 595,
    "publishedAt": 1795526371000,
    "isAI": false,
-   "score": 38.9,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -587,7 +615,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.3,
    "hot": true
   },
   {
@@ -601,7 +629,7 @@
    "comments": 53,
    "publishedAt": 1795575696000,
    "isAI": true,
-   "score": 38.3,
+   "score": 37.9,
    "hot": false
   },
   {
@@ -615,7 +643,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.9,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -629,7 +657,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
+   "score": 37.4,
    "hot": true
   },
   {
@@ -643,21 +671,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 37.8,
-   "hot": true
-  },
-  {
-   "title": "오래된 Java 휴대폰을 다시 인터넷에 연결하기",
-   "url": "https://news.hada.io/topic?id=37861&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "2G 서비스 종료로 모바일 인터넷을 쓸 수 없게 된 Sony Ericsson S500i 를 Raspberry Pi의 인터넷 연결을 공유하는 방식으로 다시 온라인에 연결함 휴대폰의 인터넷을 PC에 공유하던 Bluetooth 테더링을 반대로 활용 함. 인터넷에 연결된 컴퓨터가 접속점 역할을 맡고, 휴대폰은 Bluetooth로 연결해 웹을 이용함. 휴대폰이 Bluetooth PAN의 클라이언트 기능(PANU) 을 지원해야 함 Raspberry Pi 5에서 BlueZ와 NetworkManager로 인터넷 공유를 구성 했으며, Arch Li",
-   "publishedAt": 1795653178000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.6,
+   "score": 37.3,
    "hot": true
   },
   {
@@ -671,7 +685,7 @@
    "comments": 348,
    "publishedAt": 1795473149000,
    "isAI": false,
-   "score": 36.8,
+   "score": 36.5,
    "hot": false
   },
   {
@@ -685,7 +699,7 @@
    "comments": 152,
    "publishedAt": 1795537937000,
    "isAI": false,
-   "score": 36.5,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -699,7 +713,7 @@
    "comments": 318,
    "publishedAt": 1795381276000,
    "isAI": true,
-   "score": 36.2,
+   "score": 35.9,
    "hot": false
   },
   {
@@ -713,7 +727,7 @@
    "comments": 3,
    "publishedAt": 1795531275000,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -727,7 +741,7 @@
    "comments": 245,
    "publishedAt": 1795540061000,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.3,
    "hot": false
   },
   {
@@ -741,23 +755,9 @@
    "comments": 1010,
    "publishedAt": 1795337854000,
    "isAI": true,
-   "score": 35.5,
+   "score": 35.3,
    "hot": false,
    "lastWeekRank": 1
-  },
-  {
-   "title": "How Gemini is changing the game for Golden State's organization and fans.",
-   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-   "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
-   "publishedAt": 1795536000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 35.4,
-   "hot": false
   },
   {
    "title": "Apple removed my open-source app from EU App Stores after 9 years",
@@ -770,7 +770,21 @@
    "comments": 180,
    "publishedAt": 1795459690000,
    "isAI": false,
-   "score": 35.3,
+   "score": 35,
+   "hot": false
+  },
+  {
+   "title": "How Gemini is changing the game for Golden State's organization and fans.",
+   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+   "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+   "publishedAt": 1795536000000,
+   "source": "Google AI Blog",
+   "sourceType": "official",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 45,
+   "isAI": true,
+   "score": 35,
    "hot": false
   },
   {
@@ -784,7 +798,7 @@
    "comments": 167,
    "publishedAt": 1795521065000,
    "isAI": false,
-   "score": 35,
+   "score": 34.7,
    "hot": false
   },
   {
@@ -798,20 +812,7 @@
    "comments": 187,
    "publishedAt": 1795396431000,
    "isAI": false,
-   "score": 34.5,
-   "hot": false
-  },
-  {
-   "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
-   "url": "https://huggingface.co/papers/2611.34849",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 83,
-   "summary": "Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and several benchmarks have been proposed to evaluate them. However",
-   "publishedAt": 1795546800000,
-   "isAI": true,
-   "score": 34.4,
+   "score": 34.3,
    "hot": false
   },
   {
@@ -825,7 +826,20 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 34.4,
+   "score": 34.1,
+   "hot": false
+  },
+  {
+   "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
+   "url": "https://huggingface.co/papers/2611.34849",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 83,
+   "summary": "Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and several benchmarks have been proposed to evaluate them. However",
+   "publishedAt": 1795546800000,
+   "isAI": true,
+   "score": 34,
    "hot": false
   },
   {
@@ -839,7 +853,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.2,
+   "score": 33.8,
    "hot": false
   },
   {
@@ -853,7 +867,20 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.1,
+   "score": 33.7,
+   "hot": false
+  },
+  {
+   "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+   "url": "https://huggingface.co/papers/2611.34575",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 77,
+   "summary": "Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling mode",
+   "publishedAt": 1795546800000,
+   "isAI": true,
+   "score": 33.6,
    "hot": false
   },
   {
@@ -867,7 +894,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 33.8,
+   "score": 33.5,
    "hot": false
   },
   {
@@ -881,7 +908,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.2,
    "hot": false
   },
   {
@@ -895,7 +922,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.6,
+   "score": 33.1,
    "hot": false
   },
   {
@@ -909,7 +936,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.4,
+   "score": 33,
    "hot": false
   },
   {
@@ -923,21 +950,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "오픈AI 노엄 브라운 \"AI 재귀적 자기개선, 인류 기술 진화와 같은 원리\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217835",
-   "summary": "노엄 브라운 오픈AI 연구 부사장이 AI의 재귀적 자기개선(RSI)은 인류가 기존 기술을 활용해 새로운 기술을 개발해 온 과정과 본질적으로 다르지 않다고 밝혔다. AI가 모든 분야에서 인간을 능가하지 않더라도 자기개선에 필요한 능력을 집중적으로 높일 수 있으며, 향후 1~2년간 AI 기술의 급격한 발전이 이어질 것으로 전망했다.브라운 부사장은 24일(현지시간) 세쿼이아 캐피털이 공개한 인터뷰에서 AI의 재귀적 자기개선 가능성과 기술 발전 속도에 관한 견해를 밝혔다. 그는 2024년 오픈AI의 첫 추론 모델 'o1' 개발을 주도한 핵",
-   "publishedAt": 1795681579000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 33.1,
+   "score": 32.8,
    "hot": false
   },
   {
@@ -951,21 +964,21 @@
    "comments": 262,
    "publishedAt": 1795475498000,
    "isAI": false,
-   "score": 33,
+   "score": 32.7,
    "hot": false
   },
   {
-   "title": "뉴욕주, 어린이용 AI 챗봇 장난감 제조·판매 5년간 금지",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217833",
-   "summary": "미국 뉴욕주가 어린이용 AI 챗봇 장난감의 제조와 유통, 판매를 5년간 금지한다. 부적절한 대화와 정서적 의존, 개인정보 침해 등 어린이에게 미칠 수 있는 위험을 차단하고 제품의 안전성을 검증하기 위한 조치다.캐시 호철 뉴욕주지사는 24일(현지시간) 이 같은 내용을 담은 법안에 서명했다. 13세 미만 어린이를 대상으로 AI 챗봇을 탑재한 장난감이 규제 대상이며, 인터넷에 연결해 어린이와 대화하는 인형과 로봇 등이 대표적이다. 법률은 서명일로부터 90일 뒤 발효된다.호철 주지사는 부모들이 장난감을 구매하면서 자녀가 부적절한 대화나 감",
-   "publishedAt": 1795679700000,
+   "title": "오픈AI 노엄 브라운 \"AI 재귀적 자기개선, 인류 기술 진화와 같은 원리\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217835",
+   "summary": "노엄 브라운 오픈AI 연구 부사장이 AI의 재귀적 자기개선(RSI)은 인류가 기존 기술을 활용해 새로운 기술을 개발해 온 과정과 본질적으로 다르지 않다고 밝혔다. AI가 모든 분야에서 인간을 능가하지 않더라도 자기개선에 필요한 능력을 집중적으로 높일 수 있으며, 향후 1~2년간 AI 기술의 급격한 발전이 이어질 것으로 전망했다.브라운 부사장은 24일(현지시간) 세쿼이아 캐피털이 공개한 인터뷰에서 AI의 재귀적 자기개선 가능성과 기술 발전 속도에 관한 견해를 밝혔다. 그는 2024년 오픈AI의 첫 추론 모델 'o1' 개발을 주도한 핵",
+   "publishedAt": 1795681579000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.9,
+   "score": 32.6,
    "hot": false
   },
   {
@@ -979,7 +992,21 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.4,
+   "hot": false
+  },
+  {
+   "title": "뉴욕주, 어린이용 AI 챗봇 장난감 제조·판매 5년간 금지",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217833",
+   "summary": "미국 뉴욕주가 어린이용 AI 챗봇 장난감의 제조와 유통, 판매를 5년간 금지한다. 부적절한 대화와 정서적 의존, 개인정보 침해 등 어린이에게 미칠 수 있는 위험을 차단하고 제품의 안전성을 검증하기 위한 조치다.캐시 호철 뉴욕주지사는 24일(현지시간) 이 같은 내용을 담은 법안에 서명했다. 13세 미만 어린이를 대상으로 AI 챗봇을 탑재한 장난감이 규제 대상이며, 인터넷에 연결해 어린이와 대화하는 인형과 로봇 등이 대표적이다. 법률은 서명일로부터 90일 뒤 발효된다.호철 주지사는 부모들이 장난감을 구매하면서 자녀가 부적절한 대화나 감",
+   "publishedAt": 1795679700000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -993,7 +1020,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -1007,7 +1034,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.8,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1021,77 +1048,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "오픈AI, 기업 데이터 보호 강화한 '프라이빗 추론' 테스트",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217828",
-   "summary": "오픈AI가 기업 고객의 민감한 데이터를 AI 연산 과정에서도 보호하는 기술인 '프라이빗 추론(Private Inference)'의 시험 운영에 들어갔다. 기존에는 AI에 입력한 데이터를 저장하지 않는 데 초점을 맞췄다면, 이번에는 데이터를 처리하는 동안에도 접근을 차단하는 것이 핵심이다.샘 알트먼 오픈AI CEO는 25일(현지시간) X를 통해 기업용 데이터 보호 체계인 '프라이빗 인텔리전스(Private Intelligence)'의 새로운 기능인 '프라이빗 추론(Private Inference)'을 소수의 고객을 대상으로 테스트하고",
-   "publishedAt": 1795677600000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.7,
-   "hot": false
-  },
-  {
-   "title": "구글, 외부 AI 에이전트에 지메일·드라이브 이용료 부과",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217820",
-   "summary": "구글이 외부 AI 에이전트의 지메일과 구글 드라이브 등 워크스페이스 서비스 접근에 사용량 제한과 유료 요금제를 도입한다. 일정 사용량까지는 무료로 제공하지만, 대규모 AI 에이전트 서비스를 운영하는 기업에는 새로운 비용 부담이 발생하게 됐다.구글은 24일(현지시간) 공식 개발자 문서를 통해 워크스페이스 API와 모델 컨텍스트 프로토콜(MCP) 서버에 '표준(Standard)'과 '확장(Scaled)' 등급을 도입한다고 밝혔다. MCP는 AI 에이전트를 외부 서비스 및 데이터와 연결하는 표준 기술이다.표준 등급에서는 지메일과 캘린더,",
-   "publishedAt": 1795676689000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "미국 AI 칩 규제에 중국 관련 데이터센터 대출 10조원 차질",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217810",
-   "summary": "미국의 AI 반도체 수출 규제 강화로 중국 기업을 고객으로 둔 아시아 데이터센터 사업의 자금 조달에 제동이 걸렸다. 바이트댄스와 알리바바, 텐센트 관련 77억달러(약 10조원) 규모의 데이터센터 대출에 참여하려던 금융기관들이 잇따라 거래를 보류하거나 재검토하고 있다.블룸버그는 25일(현지시간) 소식통을 인용, 금융기관들이 베인캐피털의 지원을 받는 브리지 데이터 센터스(Bridge Data Centres)의 66억달러 규모 대출에 대해 추가 실사를 진행하고 있다고 보도했다. 이 회사는 말레이시아 데이터센터에서 바이트댄스 등에 서비스를",
-   "publishedAt": 1795676271000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "구글, 맞춤형 AI TV 채널 구상…사용자가 영상 속 주인공",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217825",
-   "summary": "구글이 사용자의 시청 기록과 관심사 등을 바탕으로 AI가 영상 콘텐츠를 직접 제작하는 개인 맞춤형 TV 채널 기술을 구상한 것으로 나타났다. 기존 콘텐츠를 추천하는 데 그치지 않고 사용자마다 새로운 영상과 광고를 제공하며, 이용자 자신을 영화나 TV 프로그램의 주인공으로 등장시키는 기능도 포함했다.미국 특허 전문 매체 페이턴틀라이즈는 20일(현지시간) 미국 특허상표청(USPTO)이 구글의 개인 맞춤형 영상 채널 관련 특허 출원서를 공개했다고 보도했다.구글은 지난해 5월 해당 기술을 특허로 출원했으며, 지난 19일 USPTO를 통해",
-   "publishedAt": 1795675550000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
-   "hot": false
-  },
-  {
-   "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
-   "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50624487",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 237,
-   "comments": 122,
-   "publishedAt": 1795501684000,
-   "isAI": false,
-   "score": 32.4,
+   "score": 32.3,
    "hot": false
   },
   {
@@ -1105,35 +1062,63 @@
    "comments": 95,
    "publishedAt": 1795487816000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.2,
    "hot": false
   },
   {
-   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-   "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-   "publishedAt": 1795615818000,
-   "source": "TechCrunch AI",
-   "sourceType": "media",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 32,
-   "isAI": true,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "MS \"AI 투자수익 4배 기업의 비결은 전사적 활용과 통제\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217808",
-   "summary": "AI 혁신의 승부처가 '도입 여부'에서 '가치 확장과 통제 역량'으로 옮겨 가고 있다. AI 성숙도 상위 10%에 해당하는 프론티어 기업(IDC 평가 기준)은 계획보다 앞선 투자, 전사적 활용, 에이전트의 실전 투입, 거버넌스, 전 직원 역량강화 등을 함께 추진하며 평균 4배의 AI 투자 수익(ROI)을 거둔 것으로 나타났다. 마이크로소프트(MS)는 글로벌 시장조사업체 IDC에 의뢰한 'AI 비즈니스 기회 연구(Business Opportunity of AI Study)'를 통해 프론티어 기업의 AI 혁신 성공 요건을 발표했다. 이",
-   "publishedAt": 1795673909000,
+   "title": "오픈AI, 기업 데이터 보호 강화한 '프라이빗 추론' 테스트",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217828",
+   "summary": "오픈AI가 기업 고객의 민감한 데이터를 AI 연산 과정에서도 보호하는 기술인 '프라이빗 추론(Private Inference)'의 시험 운영에 들어갔다. 기존에는 AI에 입력한 데이터를 저장하지 않는 데 초점을 맞췄다면, 이번에는 데이터를 처리하는 동안에도 접근을 차단하는 것이 핵심이다.샘 알트먼 오픈AI CEO는 25일(현지시간) X를 통해 기업용 데이터 보호 체계인 '프라이빗 인텔리전스(Private Intelligence)'의 새로운 기능인 '프라이빗 추론(Private Inference)'을 소수의 고객을 대상으로 테스트하고",
+   "publishedAt": 1795677600000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.3,
+   "score": 32.2,
+   "hot": false
+  },
+  {
+   "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+   "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50624487",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 237,
+   "comments": 122,
+   "publishedAt": 1795501684000,
+   "isAI": false,
+   "score": 32.1,
+   "hot": false
+  },
+  {
+   "title": "구글, 외부 AI 에이전트에 지메일·드라이브 이용료 부과",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217820",
+   "summary": "구글이 외부 AI 에이전트의 지메일과 구글 드라이브 등 워크스페이스 서비스 접근에 사용량 제한과 유료 요금제를 도입한다. 일정 사용량까지는 무료로 제공하지만, 대규모 AI 에이전트 서비스를 운영하는 기업에는 새로운 비용 부담이 발생하게 됐다.구글은 24일(현지시간) 공식 개발자 문서를 통해 워크스페이스 API와 모델 컨텍스트 프로토콜(MCP) 서버에 '표준(Standard)'과 '확장(Scaled)' 등급을 도입한다고 밝혔다. MCP는 AI 에이전트를 외부 서비스 및 데이터와 연결하는 표준 기술이다.표준 등급에서는 지메일과 캘린더,",
+   "publishedAt": 1795676689000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.1,
+   "hot": false
+  },
+  {
+   "title": "미국 AI 칩 규제에 중국 관련 데이터센터 대출 10조원 차질",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217810",
+   "summary": "미국의 AI 반도체 수출 규제 강화로 중국 기업을 고객으로 둔 아시아 데이터센터 사업의 자금 조달에 제동이 걸렸다. 바이트댄스와 알리바바, 텐센트 관련 77억달러(약 10조원) 규모의 데이터센터 대출에 참여하려던 금융기관들이 잇따라 거래를 보류하거나 재검토하고 있다.블룸버그는 25일(현지시간) 소식통을 인용, 금융기관들이 베인캐피털의 지원을 받는 브리지 데이터 센터스(Bridge Data Centres)의 66억달러 규모 대출에 대해 추가 실사를 진행하고 있다고 보도했다. 이 회사는 말레이시아 데이터센터에서 바이트댄스 등에 서비스를",
+   "publishedAt": 1795676271000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.1,
    "hot": false
   },
   {
@@ -1147,21 +1132,7 @@
    "comments": 267,
    "publishedAt": 1795405764000,
    "isAI": false,
-   "score": 32.2,
-   "hot": false
-  },
-  {
-   "title": "아모데이 \"인간 통제권 AI에 넘긴다는 주장 터무니없어\"…경쟁사도 비판",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217824",
-   "summary": "다리오 아모데이 앤트로픽 CEO가 인간의 의사결정 권한을 초지능에 넘기는 것을 지지한다는 보도에 강하게 반발했다. 인간의 통치권과 개별 업무의 자동화는 별개의 문제라며, 인간의 통제권을 강조하면서 실제로는 업무 자동화 경쟁을 벌이는 다른 AI 기업 수장들도 비판했다.악시오스는 25일(현지시간) 소식통을 인용, 앤트로픽 내부 일부 직원 사이에서 인간이 초지능 AI에 의사결정 권한을 넘기는 것이 바람직하다는 견해가 형성됐다고 보도했다.AI가 질병 치료나 재난 예방 등에서 인간을 능가한다면, 인간이 계속 결정권을 고집하는 것이 비합리적이",
-   "publishedAt": 1795672660000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.2,
+   "score": 32,
    "hot": false
   },
   {
@@ -1171,11 +1142,53 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 385,
-   "comments": 111,
+   "engagement": 397,
+   "comments": 114,
    "publishedAt": 1795365888000,
    "isAI": true,
-   "score": 32.1,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+   "publishedAt": 1795615818000,
+   "source": "TechCrunch AI",
+   "sourceType": "media",
+   "lang": "en",
+   "engagement": null,
+   "baseWeight": 32,
+   "isAI": true,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "구글, 맞춤형 AI TV 채널 구상…사용자가 영상 속 주인공",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217825",
+   "summary": "구글이 사용자의 시청 기록과 관심사 등을 바탕으로 AI가 영상 콘텐츠를 직접 제작하는 개인 맞춤형 TV 채널 기술을 구상한 것으로 나타났다. 기존 콘텐츠를 추천하는 데 그치지 않고 사용자마다 새로운 영상과 광고를 제공하며, 이용자 자신을 영화나 TV 프로그램의 주인공으로 등장시키는 기능도 포함했다.미국 특허 전문 매체 페이턴틀라이즈는 20일(현지시간) 미국 특허상표청(USPTO)이 구글의 개인 맞춤형 영상 채널 관련 특허 출원서를 공개했다고 보도했다.구글은 지난해 5월 해당 기술을 특허로 출원했으며, 지난 19일 USPTO를 통해",
+   "publishedAt": 1795675550000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "MS \"AI 투자수익 4배 기업의 비결은 전사적 활용과 통제\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217808",
+   "summary": "AI 혁신의 승부처가 '도입 여부'에서 '가치 확장과 통제 역량'으로 옮겨 가고 있다. AI 성숙도 상위 10%에 해당하는 프론티어 기업(IDC 평가 기준)은 계획보다 앞선 투자, 전사적 활용, 에이전트의 실전 투입, 거버넌스, 전 직원 역량강화 등을 함께 추진하며 평균 4배의 AI 투자 수익(ROI)을 거둔 것으로 나타났다. 마이크로소프트(MS)는 글로벌 시장조사업체 IDC에 의뢰한 'AI 비즈니스 기회 연구(Business Opportunity of AI Study)'를 통해 프론티어 기업의 AI 혁신 성공 요건을 발표했다. 이",
+   "publishedAt": 1795673909000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1189,7 +1202,21 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.8,
+   "hot": false
+  },
+  {
+   "title": "아모데이 \"인간 통제권 AI에 넘긴다는 주장 터무니없어\"…경쟁사도 비판",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217824",
+   "summary": "다리오 아모데이 앤트로픽 CEO가 인간의 의사결정 권한을 초지능에 넘기는 것을 지지한다는 보도에 강하게 반발했다. 인간의 통치권과 개별 업무의 자동화는 별개의 문제라며, 인간의 통제권을 강조하면서 실제로는 업무 자동화 경쟁을 벌이는 다른 AI 기업 수장들도 비판했다.악시오스는 25일(현지시간) 소식통을 인용, 앤트로픽 내부 일부 직원 사이에서 인간이 초지능 AI에 의사결정 권한을 넘기는 것이 바람직하다는 견해가 형성됐다고 보도했다.AI가 질병 치료나 재난 예방 등에서 인간을 능가한다면, 인간이 계속 결정권을 고집하는 것이 비합리적이",
+   "publishedAt": 1795672660000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.8,
    "hot": false
   },
   {
@@ -1203,20 +1230,7 @@
    "comments": 132,
    "publishedAt": 1795497322000,
    "isAI": false,
-   "score": 32,
-   "hot": false
-  },
-  {
-   "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
-   "url": "https://huggingface.co/papers/2611.34575",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 57,
-   "summary": "Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling mode",
-   "publishedAt": 1795546800000,
-   "isAI": true,
-   "score": 32,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1230,7 +1244,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1244,7 +1258,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1258,21 +1272,20 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.5,
    "hot": false
   },
   {
-   "title": "미국, 스페이스X 우주 데이터센터용 위성 최대 100만기 배치 승인",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217807",
-   "summary": "미국 연방통신위원회(FCC)가 일론 머스크 CEO의 스페이스X에 우주 데이터센터용 위성 최대 100만기를 지구 궤도에 배치하도록 허가했다. 미국에서 우주 데이터센터 위성망 구축을 승인한 것은 처음으로, AI 인프라를 우주로 확대하려는 구상이 주요 규제 장벽을 넘어섰다.FCC는 25일(현지시간) 공식 발표를 통해 스페이스X의 우주 데이터센터 위성망 '스타마인드(Starmind)' 구축 신청을 승인했다고 밝혔다. 급증하는 AI 연산 수요에 대응하고 미국의 우주·AI 기술 경쟁력을 강화한다는 취지다.승인 조건에 따르면 스페이스X는 203",
-   "publishedAt": 1795664676000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
+   "title": "Mixture-of-Loops Transformer",
+   "url": "https://huggingface.co/papers/2611.34923",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 54,
+   "summary": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Tr",
+   "publishedAt": 1795546800000,
    "isAI": true,
-   "score": 31.5,
+   "score": 31.3,
    "hot": false
   },
   {
@@ -1286,7 +1299,34 @@
    "comments": 90,
    "publishedAt": 1795355818000,
    "isAI": true,
-   "score": 31.4,
+   "score": 31.2,
+   "hot": false
+  },
+  {
+   "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+   "url": "https://huggingface.co/papers/2611.34237",
+   "source": "HF Daily Papers",
+   "sourceType": "paper",
+   "lang": "en",
+   "engagement": 52,
+   "summary": "Code-driven video generation asks a coding agent to write and run rendering programs. This gives exact control over typography, data visualizations, synchronized audio, and multi-shot scenes, and it leaves an editable project behind. A program that exits cleanly can still render overlapping labels, ",
+   "publishedAt": 1795546800000,
+   "isAI": true,
+   "score": 31.1,
+   "hot": false
+  },
+  {
+   "title": "미국, 스페이스X 우주 데이터센터용 위성 최대 100만기 배치 승인",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217807",
+   "summary": "미국 연방통신위원회(FCC)가 일론 머스크 CEO의 스페이스X에 우주 데이터센터용 위성 최대 100만기를 지구 궤도에 배치하도록 허가했다. 미국에서 우주 데이터센터 위성망 구축을 승인한 것은 처음으로, AI 인프라를 우주로 확대하려는 구상이 주요 규제 장벽을 넘어섰다.FCC는 25일(현지시간) 공식 발표를 통해 스페이스X의 우주 데이터센터 위성망 '스타마인드(Starmind)' 구축 신청을 승인했다고 밝혔다. 급증하는 AI 연산 수요에 대응하고 미국의 우주·AI 기술 경쟁력을 강화한다는 취지다.승인 조건에 따르면 스페이스X는 203",
+   "publishedAt": 1795664676000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31,
    "hot": false
   },
   {
@@ -1300,61 +1340,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.4,
-   "hot": false
-  },
-  {
-   "title": "중국 AI 기업, 모델 개발 포기까지 검토…미국과 기술 격차 9개월 전망",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217798",
-   "summary": "중국 AI 업계가 미국의 첨단 반도체 수출 통제와 모델 증류 차단이라는 이중 압박에 직면했다. 미국과의 기술 격차가 최대 9개월까지 벌어질 것이라는 내부 전망이 나온 가운데 일부 기업은 독자적인 모델 개발을 포기하는 방안까지 검토하는 것으로 알려졌다.디 인포메이션은 25일(현지시간) 미국 정부와 주요 AI 개발사들이 중국 기업의 모델 개발에 필요한 컴퓨팅 자원과 학습 데이터 확보 경로를 동시에 차단하고 있다고 보도했다.이에 따르면 딥시크 연구진은 지난달 내부 논의에서 미국과 중국의 최첨단 AI 모델 간 기술 격차가 현재 3~6개월에",
-   "publishedAt": 1795663178000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "이재혁 마키나락스 공동 창업자, 식품제조 AX로 시드 투자 유치",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217805",
-   "summary": "산업용 AI 전문 마키나락스를 공동 창업한 이재혁 대표가 식품제조 AX 현장으로 무대를 옮겨 투자유치에 성공했다.식품제조 특화 AX 스타트업 엔크레더블(대표 이재혁)은 카카오벤처스와 더벤처스로부터 시드 투자를 유치했다고 26일 밝혔다.이 대표는 지난 2017년 윤성호 대표 등과 마키나락스를 창업해 공동 대표로서 주요 제조기업 대상 AI 솔루션 공급과 신규 사업 개발을 이끌었다. 마키나락스는 올해 코스닥에 상장했다.그가 새로 선택한 분야는 디지털 전환이 더딘 식품제조 산업이다. 식품 공장은 HACCP 등 규제 대응 부담이 크지만, 원",
-   "publishedAt": 1795662415000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "Mixture-of-Loops Transformer",
-   "url": "https://huggingface.co/papers/2611.34923",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 50,
-   "summary": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Tr",
-   "publishedAt": 1795546800000,
-   "isAI": true,
-   "score": 31.1,
-   "hot": false
-  },
-  {
-   "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
-   "url": "https://huggingface.co/papers/2611.34237",
-   "source": "HF Daily Papers",
-   "sourceType": "paper",
-   "lang": "en",
-   "engagement": 50,
-   "summary": "Code-driven video generation asks a coding agent to write and run rendering programs. This gives exact control over typography, data visualizations, synchronized audio, and multi-shot scenes, and it leaves an editable project behind. A program that exits cleanly can still render overlapping labels, ",
-   "publishedAt": 1795546800000,
-   "isAI": true,
-   "score": 31.1,
+   "score": 31,
    "hot": false
   },
   {
@@ -1368,7 +1354,7 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false
   },
   {
@@ -1382,21 +1368,35 @@
    "engagement": null,
    "baseWeight": 50,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.9,
    "hot": false
   },
   {
-   "title": "\"공무원도 AI로 포스터 만든다\"...범정부 AI에 이미지 생성 모델 적용",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217799",
-   "summary": "네이버클라우드(대표 김유원)는 범정부 AI 공통기반의 AI 개발 도구 '클로바 스튜디오 포 거브(CLOVA Studio for GOV)'에 이미지 생성 모델을 신규 적용했다고 26일 밝혔다.해당 모델은 중앙부처 등 공공기관 52곳이 사용하는 범정부 '온AI'(지능형 업무관리 플랫폼)의 공식 협업툴 '네이버웍스'에 탑재돼 이미지 생성과 편집 기능을 지원한다.이에 따라 사용자는 포스터·카드뉴스·배너 등 템플릿을 고르고, 필요한 내용만 입력하면 이미지를 만들 수 있으며, 용도에 맞게 추가 수정도 가능하다.AI 에이전트 개발 환경도 고도화",
-   "publishedAt": 1795661073000,
+   "title": "중국 AI 기업, 모델 개발 포기까지 검토…미국과 기술 격차 9개월 전망",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217798",
+   "summary": "중국 AI 업계가 미국의 첨단 반도체 수출 통제와 모델 증류 차단이라는 이중 압박에 직면했다. 미국과의 기술 격차가 최대 9개월까지 벌어질 것이라는 내부 전망이 나온 가운데 일부 기업은 독자적인 모델 개발을 포기하는 방안까지 검토하는 것으로 알려졌다.디 인포메이션은 25일(현지시간) 미국 정부와 주요 AI 개발사들이 중국 기업의 모델 개발에 필요한 컴퓨팅 자원과 학습 데이터 확보 경로를 동시에 차단하고 있다고 보도했다.이에 따르면 딥시크 연구진은 지난달 내부 논의에서 미국과 중국의 최첨단 AI 모델 간 기술 격차가 현재 3~6개월에",
+   "publishedAt": 1795663178000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.1,
+   "score": 30.9,
+   "hot": false
+  },
+  {
+   "title": "이재혁 마키나락스 공동 창업자, 식품제조 AX로 시드 투자 유치",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217805",
+   "summary": "산업용 AI 전문 마키나락스를 공동 창업한 이재혁 대표가 식품제조 AX 현장으로 무대를 옮겨 투자유치에 성공했다.식품제조 특화 AX 스타트업 엔크레더블(대표 이재혁)은 카카오벤처스와 더벤처스로부터 시드 투자를 유치했다고 26일 밝혔다.이 대표는 지난 2017년 윤성호 대표 등과 마키나락스를 창업해 공동 대표로서 주요 제조기업 대상 AI 솔루션 공급과 신규 사업 개발을 이끌었다. 마키나락스는 올해 코스닥에 상장했다.그가 새로 선택한 분야는 디지털 전환이 더딘 식품제조 산업이다. 식품 공장은 HACCP 등 규제 대응 부담이 크지만, 원",
+   "publishedAt": 1795662415000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.8,
    "hot": false
   }
  ]
