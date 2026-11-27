@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795774755441,
+ "updatedAt": 1795780390889,
  "week": "2026-W48",
  "items": [
   {
@@ -9,11 +9,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 708,
-   "comments": 350,
+   "engagement": 763,
+   "comments": 381,
    "publishedAt": 1795729665000,
    "isAI": true,
-   "score": 62.1,
+   "score": 61.7,
    "hot": true
   },
   {
@@ -23,11 +23,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 247,
-   "comments": 108,
+   "engagement": 323,
+   "comments": 139,
    "publishedAt": 1795761874000,
    "isAI": true,
-   "score": 58.4,
+   "score": 59.9,
    "hot": true
   },
   {
@@ -37,12 +37,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 361,
-   "comments": 87,
+   "engagement": 377,
+   "comments": 90,
    "publishedAt": 1795713089000,
    "isAI": true,
-   "score": 53.9,
+   "score": 53.4,
    "hot": true
+  },
+  {
+   "title": "Claude sabotaging SOTA ML research tasks",
+   "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50664325",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 127,
+   "comments": 82,
+   "publishedAt": 1795768088000,
+   "isAI": true,
+   "score": 52.4,
+   "hot": false
   },
   {
    "title": "Tracking Diseases Cured by AI",
@@ -51,11 +65,25 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 310,
+   "engagement": 311,
    "comments": 190,
    "publishedAt": 1795713401000,
    "isAI": true,
-   "score": 52.7,
+   "score": 52,
+   "hot": true
+  },
+  {
+   "title": "Rvoip: Rust로 구현한 VoIP 스택",
+   "url": "https://news.hada.io/topic?id=37954&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "rvoip 은 별도 SIP 서버, 미디어 서버, RTP 엔진 없이 통신 애플리케이션을 만드는 Rust 라이브러리로, 시그널링부터 미디어, 코덱, NAT 통과, 보안까지 포함함 공통 대화 모델과 Orchestrator 로 SIP, WebRTC, QUIC/WebTransport/WebSocket 연결을 다루며, 서로 다른 전송 방식의 통화와 음성 AI 에이전트를 연결함 전화 기능은 rvoip-sip 하나로 시작할 수 있으며, 소프트폰부터 IVR, PBX, 등록 서버, 프록시, B2BUA를 구성하는 API를 제공함 공개된 0.5.0 성능",
+   "publishedAt": 1795775581000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 49.3,
    "hot": true
   },
   {
@@ -65,11 +93,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 332,
-   "comments": 299,
+   "engagement": 344,
+   "comments": 304,
    "publishedAt": 1795686263000,
    "isAI": true,
-   "score": 49.6,
+   "score": 49.2,
    "hot": false
   },
   {
@@ -79,12 +107,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 486,
+   "engagement": 491,
    "comments": 267,
    "publishedAt": 1795664218000,
    "isAI": true,
-   "score": 49.6,
+   "score": 49,
    "hot": false
+  },
+  {
+   "title": "형식 검증이 가능한 주류 프로그래밍 언어의 필요성",
+   "url": "https://news.hada.io/topic?id=37952&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "LLM이 기존의 부실한 개발 관행을 가속하는 상황에서, 형식 검증 을 소프트웨어 공학의 기본 관행으로 정착시키고 최소한 모든 코드의 안전성을 증명할 수 있어야 함 뛰어난 증명 보조 도구와 LLM만으로는 충분하지 않으며, 현업 엔지니어가 이를 채택하고 무엇을 증명해야 하는지 판단할 수 있어야 함 검증 가능한 코드는 웹 브라우저부터 임베디드 시스템까지 실행될 수 있어야 하지만, 기존 도구의 사용성과 이해의 어려움 이 폭넓은 도입을 가로막고 있음 Magmide 의 새 구상은 WebAssembly를 대상으로 친숙한 타입 시스템과 기초 검증",
+   "publishedAt": 1795771994000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.8,
+   "hot": true
   },
   {
    "title": "The New York Times warns photographers not to update Photoshop over AI features",
@@ -93,12 +135,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 671,
-   "comments": 530,
+   "engagement": 674,
+   "comments": 531,
    "publishedAt": 1795641482000,
    "isAI": true,
-   "score": 49.2,
+   "score": 48.6,
    "hot": false
+  },
+  {
+   "title": "AI가 당신 뒷담화를 나누는 단체 채팅방",
+   "url": "https://news.hada.io/topic?id=37951&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "사용자의 대화 이력을 바탕으로 AI 모델들이 사용자를 뒷담화하는 가상의 WhatsApp 단체 채팅 을 만들도록 요청하는 한 줄 프롬프트임 ChatGPT에서 메모리나 채팅 기록을 켠 새 대화 로 시도하는 것을 권장하며, Claude나 Gemini 등 대화 이력이 쌓인 다른 비서에서도 시도할 수 있음 결과는 사용자에 대한 평범한 요약 대신 여러 AI 모델이 등장해 사용자의 관심사와 반복되는 행동을 놀리는 역할극 이며, 실제 비공개 대화가 유출되는 것은 아님 공개된 실제 생성 사례에서는 작은 개인 프로젝트를 복잡한 아키텍처로 키우고, 산",
+   "publishedAt": 1795768648000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": true,
+   "score": 48.3,
+   "hot": true
   },
   {
    "title": "OpenAI may be in cost control mode",
@@ -107,11 +163,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 333,
-   "comments": 342,
+   "engagement": 335,
+   "comments": 345,
    "publishedAt": 1795678392000,
    "isAI": true,
-   "score": 48.7,
+   "score": 48,
    "hot": false
   },
   {
@@ -121,11 +177,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 556,
+   "engagement": 557,
    "comments": 355,
    "publishedAt": 1795643290000,
    "isAI": true,
-   "score": 48.1,
+   "score": 47.5,
    "hot": false
   },
   {
@@ -135,11 +191,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 1665,
+   "engagement": 1675,
    "comments": 715,
    "publishedAt": 1795627106000,
    "isAI": false,
-   "score": 48.1,
+   "score": 47.5,
    "hot": false
   },
   {
@@ -149,12 +205,26 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 526,
-   "comments": 252,
+   "engagement": 532,
+   "comments": 258,
    "publishedAt": 1795687861000,
    "isAI": false,
-   "score": 47,
+   "score": 46.4,
    "hot": false
+  },
+  {
+   "title": "The need for a formally verifiable mainstream programming language",
+   "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50663089",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 174,
+   "comments": 157,
+   "publishedAt": 1795756926000,
+   "isAI": false,
+   "score": 46,
+   "hot": true
   },
   {
    "title": "Nextcloud Office Desktop app",
@@ -163,12 +233,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 437,
-   "comments": 224,
+   "engagement": 443,
+   "comments": 228,
    "publishedAt": 1795693849000,
    "isAI": false,
-   "score": 46.3,
-   "hot": true
+   "score": 45.7,
+   "hot": false
   },
   {
    "title": "Show GN: ARCUS-STACK - 매번하는 반복을 조금 더 똑똑하게, 여러 AI 코딩 에이전트에게 시킬 수 있는 스킬팩",
@@ -181,49 +251,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": true,
-   "score": 46,
-   "hot": true
-  },
-  {
-   "title": "The need for a formally verifiable mainstream programming language",
-   "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50663089",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 156,
-   "comments": 130,
-   "publishedAt": 1795756926000,
-   "isAI": false,
-   "score": 45.8,
-   "hot": true
-  },
-  {
-   "title": "State of AI 2026: 올해의 가장 큰 이슈와 2027년 AGI 가능성",
-   "url": "https://news.hada.io/topic?id=37930&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "『State of AI』 보고서를 써 온 Nathan Benaich 는 AI가 같은 시간 안에 법률, 금융, 투자 업무에서 자신보다 나은 결과를 낸다면 실용적으로 AGI에 가깝다 고 봄. 모델 성능이 빠르게 개선되고 AI가 모델 연구에도 쓰이면서, 2027년에 그 수준에 도달할 수 있다 고 예상함 AI가 AI 연구를 수행하는 비중은 커지고 있지만, 어떤 문제를 연구할지 고르는 안목 과 좋은 연구 과정을 객관적으로 측정하는 방법은 여전히 중요한 과제로 남아 있음 인류 멸종보다 당장 현실적인 위험으로 사이버 공격 을 꼽으며, 평가 환경",
-   "publishedAt": 1795743602000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.6,
-   "hot": true
-  },
-  {
-   "title": "AI 덕분에 셀프 호스팅이 다시 즐거워졌다",
-   "url": "https://news.hada.io/topic?id=37928&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "기존 서비스를 유지하는 데 그쳤던 개인 셀프 호스팅 환경에서 AI 코딩 에이전트 가 설정 변경과 실험의 수고를 줄이면서, 새로운 기술과 서비스를 시도하는 재미가 되살아남 Git 저장소 로 관리하던 Docker Compose 파일과 스크립트를 AI와 함께 수정하고, 익숙하지 않았던 NixOS와 Debian 기반 bootc 이미지까지 활용 범위를 넓힘 Renovate가 업데이트 PR을 만들고 , 검토 후 병합하면 GitHub Actions나 Forgejo Actions가 빌드와 배포를 처리함. 예전에는 버전을 직접 바꾸고 서버에 SSH",
-   "publishedAt": 1795739602000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 45.1,
+   "score": 45.3,
    "hot": true
   },
   {
@@ -233,39 +261,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 146,
-   "comments": 78,
+   "engagement": 154,
+   "comments": 81,
    "publishedAt": 1795749101000,
    "isAI": false,
-   "score": 44.2,
-   "hot": false
-  },
-  {
-   "title": "Show HN: Fuck_data_brokers.py - 데이터 브로커에 개인정보 삭제를 요청하는 Python 도구",
-   "url": "https://news.hada.io/topic?id=37923&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "단일 Python 파일 로 데이터 브로커 목록을 가져오고, 거주지 법률에 맞춘 삭제/판매 거부 요청서 작성부터 답변 대응, 재촉, 민원 안내까지 처리함 외부 의존성이나 AI 없이 무료로 실행되며, 자신의 이메일로 요청서를 보내거나 발송용 페이지에서 직접 전송할 수 있음 미국 공식 등록부를 합친 750개 이상의 업체 를 대상으로 하며, 여러 등록부에 중복된 업체에는 같은 요청을 한 번만 작성함 요청에는 이름, 이메일, 도시만 전달하지만, 자신을 모르던 업체에 정보를 새로 제공할 수 있다는 절충이 있음 실제 삭제를 검증하지는 않음 . ",
-   "publishedAt": 1795732608000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.2,
-   "hot": true
-  },
-  {
-   "title": "OpenAI가 비용 통제에 나섰을까? - GPT-6.2의 추론 토큰 감소",
-   "url": "https://news.hada.io/topic?id=37922&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "같은 작업을 두 AI 모델에 맡겨 결과를 비교하는 Agent Duel 에서, GPT-6.2 Astra와 Sol은 모두 전작보다 작업당 출력 토큰과 추론 토큰을 적게 사용함 Astra 6과 Sol 6.1 은 같은 과제를 수행한 상대 모델과 추론 토큰 사용량이 비슷한 편이었고, 6.2의 두 모델은 상대보다 유독 적게 사용함 두 모델 모두 출력 토큰과 추론 토큰의 감소가 통계적으로 유의 했으며, 네 검정의 p값은 모두 0.05 미만이었음 토큰 수 외에도 같은 과제에서 상대 모델 대비 얼마나 지출했는지 와 대결 결과를 반영한 Elo 점수 ",
-   "publishedAt": 1795732427000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": true,
-   "score": 44.2,
+   "score": 44,
    "hot": true
   },
   {
@@ -276,11 +276,25 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 232,
-   "comments": 58,
+   "comments": 60,
    "publishedAt": 1795644934000,
    "isAI": true,
-   "score": 42.4,
+   "score": 41.9,
    "hot": false
+  },
+  {
+   "title": "이메일 주도권 되찾기",
+   "url": "https://news.hada.io/topic?id=37953&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "EU의 NGI Zero 지원을 받는 오픈 소스 프로젝트들이 서버 구성의 복잡성, 클라이언트 종속, 분산 운영 문제를 각각 해결하며 이메일 자체 호스팅의 장벽을 낮추고 있음 RIPE Labs 측정에서 상위 100만 도메인의 소규모/자체 호스팅 메일 서버 이용 비중은 2016년 44.6%에서 2026년 7월 22.4%로 줄었으며, Google과 Microsoft의 합산 비중은 38.6%에 달함 Stalwart 는 기존 자체 호스팅에 필요한 12개 프로그램을 하나로 통합하고, 메일과 일정/연락처 프로토콜부터 스팸 필터링과 인증까지 내장함",
+   "publishedAt": 1795773764000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 41.2,
+   "hot": true
   },
   {
    "title": "LLM agents work for their parent companies, not for you",
@@ -293,8 +307,36 @@
    "comments": 415,
    "publishedAt": 1795524015000,
    "isAI": true,
-   "score": 41.1,
+   "score": 40.7,
    "hot": false
+  },
+  {
+   "title": "Google, 1인 Android 개발자의 전화번호와 주소 공개 예정",
+   "url": "https://news.hada.io/topic?id=37950&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "사업자(trader)로 신고한 개인 개발자 계정 은 2027년 3월 1일부터 전화번호와 주소가 Google Play의 전 세계 사용자에게 공개됨 모든 활성 개발자 계정은 배포 지역과 관계없이 사업자 여부를 신고 해야 하며, 기존 계정의 마감일은 2027년 2월 1일 임 사업자 여부는 영리 목적, 거래 규모, 사업 운영 방식, 법적 지위 등을 고려해 판단하며, EEA와 영국에 앱을 배포하지 않으면 비사업자로 신고할 수 있음 사업자는 관련 법률을 준수하는 상품이나 서비스만 제공하겠다는 자체 확인 과 앱별 이용약관 링크 제출을 요구받음 ",
+   "publishedAt": 1795768467000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.5,
+   "hot": true
+  },
+  {
+   "title": "Show GN: Relic - 리버싱을 위한 디스어셈블러·디컴파일러",
+   "url": "https://news.hada.io/topic?id=37949&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
+   "summary": "안녕하세요. 리버스 엔지니어링과 CTF 포너블 문제 분석에 사용하기 위해 개발하고 있는 오픈소스 도구 Relic을 소개합니다. Relic은 바이너리를 분석하고 디스어셈블리, 제어 흐름 그래프(CFG), C 유사 의사 코드, 디버깅까지 하나의 환경에서 처리할 수 있는 도구입니다. GUI에는 PySide6, 명령어 디코딩에는 Capstone을 사용하며, 그 위에서 동작하는 바이너리 분석기와 디컴파일러, 디버거는 직접 구현했습니다. 주요 기능 바이너리 분석: ELF, PE, Mach-O 등의 파일 형식을 지원하며, 함수 탐지, 문자열 및",
+   "publishedAt": 1795767430000,
+   "source": "GeekNews",
+   "sourceType": "community",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 42,
+   "isAI": false,
+   "score": 40.4,
+   "hot": true
   },
   {
    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
@@ -303,11 +345,39 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 466,
+   "engagement": 467,
    "comments": 217,
    "publishedAt": 1795574061000,
    "isAI": true,
-   "score": 40.5,
+   "score": 40.1,
+   "hot": false
+  },
+  {
+   "title": "Slow Ubuntu security response times",
+   "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50647181",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 423,
+   "comments": 263,
+   "publishedAt": 1795639080000,
+   "isAI": false,
+   "score": 39.8,
+   "hot": false
+  },
+  {
+   "title": "Rvoip: VoIP stack in Rust",
+   "url": "https://github.com/eisenzopf/rvoip",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50658632",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 138,
+   "comments": 29,
+   "publishedAt": 1795720689000,
+   "isAI": false,
+   "score": 39.7,
    "hot": false
   },
   {
@@ -321,7 +391,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.7,
    "hot": true
   },
   {
@@ -335,36 +405,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40.4,
+   "score": 39.7,
    "hot": true
-  },
-  {
-   "title": "Slow Ubuntu security response times",
-   "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50647181",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 422,
-   "comments": 263,
-   "publishedAt": 1795639080000,
-   "isAI": false,
-   "score": 40.3,
-   "hot": false
-  },
-  {
-   "title": "Rvoip: VoIP stack in Rust",
-   "url": "https://github.com/eisenzopf/rvoip",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50658632",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 133,
-   "comments": 27,
-   "publishedAt": 1795720689000,
-   "isAI": false,
-   "score": 40.1,
-   "hot": false
   },
   {
    "title": "C++에서 = default와 {}는 같은 생성자가 아님",
@@ -377,7 +419,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -391,7 +433,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 40,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -405,7 +447,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.9,
+   "score": 39.3,
    "hot": true
   },
   {
@@ -419,7 +461,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.8,
+   "score": 39.2,
    "hot": true
   },
   {
@@ -433,7 +475,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 39,
    "hot": true
   },
   {
@@ -447,7 +489,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -461,7 +503,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.6,
+   "score": 38.9,
    "hot": true
   },
   {
@@ -475,22 +517,8 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 39.5,
+   "score": 38.9,
    "hot": true
-  },
-  {
-   "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-   "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50642086",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 508,
-   "comments": 371,
-   "publishedAt": 1795613587000,
-   "isAI": false,
-   "score": 39.2,
-   "hot": false
   },
   {
    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
@@ -503,7 +531,21 @@
    "comments": 78,
    "publishedAt": 1795568089000,
    "isAI": true,
-   "score": 39.2,
+   "score": 38.8,
+   "hot": false
+  },
+  {
+   "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+   "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50642086",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 509,
+   "comments": 371,
+   "publishedAt": 1795613587000,
+   "isAI": false,
+   "score": 38.7,
    "hot": false
   },
   {
@@ -513,11 +555,11 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 143,
-   "comments": 32,
+   "engagement": 145,
+   "comments": 33,
    "publishedAt": 1795705206000,
    "isAI": false,
-   "score": 39,
+   "score": 38.5,
    "hot": false
   },
   {
@@ -531,7 +573,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.8,
+   "score": 38.2,
    "hot": true
   },
   {
@@ -545,7 +587,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.7,
+   "score": 38.1,
    "hot": true
   },
   {
@@ -559,7 +601,7 @@
    "engagement": null,
    "baseWeight": 42,
    "isAI": false,
-   "score": 38.4,
+   "score": 37.8,
    "hot": true
   },
   {
@@ -569,26 +611,12 @@
    "source": "Hacker News",
    "sourceType": "community",
    "lang": "en",
-   "engagement": 467,
-   "comments": 358,
+   "engagement": 469,
+   "comments": 359,
    "publishedAt": 1795538744000,
    "isAI": true,
-   "score": 37.9,
+   "score": 37.6,
    "hot": false
-  },
-  {
-   "title": "tidy - Prettier 스타일로 코드를 정리하는 Rust 기반 고속 포매터",
-   "url": "https://news.hada.io/topic?id=37927&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Prettier와 같은 코드 스타일을 빠르게 적용 하는 포매터로, Node.js 없이 단일 실행 파일로 동작 JavaScript, TypeScript, JSX, HTML, Vue, CSS, SCSS, Less 등 웹 개발 언어 지원 Markdown, JSON, YAML, GraphQL 외에 TOML, XML, Dockerfile, INI 까지 별도 플러그인 없이 처리 파일 안에 포함된 다른 언어도 함께 정리 HTML과 Vue의 스타일과 스크립트, Markdown 코드 블록과 프런트매터 JavaScript 템플릿 문자열 안의 CSS,",
-   "publishedAt": 1795739402000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.9,
-   "hot": true
   },
   {
    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -601,22 +629,8 @@
    "comments": 97,
    "publishedAt": 1795554142000,
    "isAI": true,
-   "score": 37.5,
+   "score": 37.1,
    "hot": false
-  },
-  {
-   "title": "Kamil Khan Mumtaz: 파키스탄에서는 존경받지만 해외에서는 거의 알려지지 않은 건축가",
-   "url": "https://news.hada.io/topic?id=37925&amp;utm_source=geeknews&amp;utm_medium=rss&amp;utm_campaign=news",
-   "summary": "Kamil Khan Mumtaz 는 주택, 사무실, 모스크, 학교를 지으며 파키스탄, 특히 라호르의 오래된 건축 전통을 되살려 온 건축가임 런던에서 배운 모더니즘 을 의심 없이 받아들였지만, 자신의 건축이 지역 사람들과 소통하지 못한다는 고민과 수피 건축 전통에 관한 독서를 계기로 전통 건축으로 전환함 전통 건축을 구현할 숙련 장인 이 없다는 통념과 달리, 대대로 기술을 이어 온 장인 가문을 찾아 협업하며 사라진 벽돌 쌓기와 돔 시공법 등을 재발견함 작품에는 정교한 수공예뿐 아니라 통풍과 사생활 보호 , 중정과 정원의 활용이 나타나",
-   "publishedAt": 1795735944000,
-   "source": "GeekNews",
-   "sourceType": "community",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 42,
-   "isAI": false,
-   "score": 37.5,
-   "hot": true
   },
   {
    "title": "Nvidia Reinstates Jensen Huang as CEO",
@@ -626,10 +640,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 2851,
-   "comments": 3824,
+   "comments": 3828,
    "publishedAt": 1795442418000,
    "isAI": false,
-   "score": 37.2,
+   "score": 36.9,
    "hot": false
   },
   {
@@ -643,7 +657,7 @@
    "comments": 800,
    "publishedAt": 1795526627000,
    "isAI": true,
-   "score": 36.7,
+   "score": 36.4,
    "hot": false
   },
   {
@@ -657,7 +671,7 @@
    "comments": 174,
    "publishedAt": 1795579413000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -671,7 +685,7 @@
    "comments": 84,
    "publishedAt": 1795578462000,
    "isAI": true,
-   "score": 36.6,
+   "score": 36.2,
    "hot": false
   },
   {
@@ -685,7 +699,7 @@
    "comments": 388,
    "publishedAt": 1795428403000,
    "isAI": true,
-   "score": 36.3,
+   "score": 36.1,
    "hot": false
   },
   {
@@ -699,7 +713,7 @@
    "comments": 192,
    "publishedAt": 1795606465000,
    "isAI": false,
-   "score": 36.2,
+   "score": 35.8,
    "hot": false
   },
   {
@@ -713,7 +727,7 @@
    "comments": 344,
    "publishedAt": 1795536758000,
    "isAI": true,
-   "score": 36,
+   "score": 35.7,
    "hot": false
   },
   {
@@ -727,7 +741,7 @@
    "comments": 149,
    "publishedAt": 1795575877000,
    "isAI": false,
-   "score": 35.8,
+   "score": 35.4,
    "hot": false
   },
   {
@@ -741,7 +755,7 @@
    "comments": 90,
    "publishedAt": 1795638950000,
    "isAI": false,
-   "score": 35.7,
+   "score": 35.2,
    "hot": false
   },
   {
@@ -755,7 +769,7 @@
    "comments": 4,
    "publishedAt": 1795442483000,
    "isAI": false,
-   "score": 34.8,
+   "score": 34.6,
    "hot": false
   },
   {
@@ -769,7 +783,7 @@
    "comments": 80,
    "publishedAt": 1795581108000,
    "isAI": false,
-   "score": 34.5,
+   "score": 34.1,
    "hot": false
   },
   {
@@ -783,7 +797,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 34.5,
+   "score": 34,
    "hot": false
   },
   {
@@ -797,7 +811,7 @@
    "comments": 145,
    "publishedAt": 1795540245000,
    "isAI": true,
-   "score": 34,
+   "score": 33.7,
    "hot": false
   },
   {
@@ -811,7 +825,21 @@
    "comments": 20,
    "publishedAt": 1795577286000,
    "isAI": true,
-   "score": 33.5,
+   "score": 33.1,
+   "hot": false
+  },
+  {
+   "title": "GTA 6 Running on Windows",
+   "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50627783",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 521,
+   "comments": 613,
+   "publishedAt": 1795526371000,
+   "isAI": false,
+   "score": 32.9,
    "hot": false
   },
   {
@@ -822,24 +850,10 @@
    "sourceType": "community",
    "lang": "en",
    "engagement": 109,
-   "comments": 47,
+   "comments": 48,
    "publishedAt": 1795663986000,
    "isAI": false,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "GTA 6 Running on Windows",
-   "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50627783",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 520,
-   "comments": 613,
-   "publishedAt": 1795526371000,
-   "isAI": false,
-   "score": 33.2,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -853,21 +867,7 @@
    "engagement": null,
    "baseWeight": 32,
    "isAI": true,
-   "score": 33.2,
-   "hot": false
-  },
-  {
-   "title": "\"막을 테면 막아봐!\"...AI 안경 부정행위 차단, 해커톤서 역부족 확인",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217874",
-   "summary": "\"해당 시험지의 AI 풀이를 금지합니다.\"시험지 곳곳에 숨겨 둔 경고문은 AI 안경의 공격 앞에 무력화됐다. 시험 부정행위를 막으려고 동원한 방어 기법 상당수가 공격조의 우회 전략에 잇따라 뚫렸다.기자는 커뮤니티 '다스 누미너스'가 26일 서울 영등포구 워크모어 여의도당산에서 개최한 'AI 바이 디폴트' 해커톤을 참관했다. AI 보안 기업 에임인텔리전스와 AI 안경 앱 개발사 사이트스페이스가 협력한 이 대회에는 170여명이 참가했다.해커톤은 부정행위 방어조가 방어 장치를 심은 시험지를 만들면 공격조가 AI 안경으로 푸는 형식으로 진",
-   "publishedAt": 1795762938000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.8,
+   "score": 32.7,
    "hot": false
   },
   {
@@ -881,63 +881,7 @@
    "comments": 319,
    "publishedAt": 1795381276000,
    "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "구글도 AI 수학 연구 경쟁 가세…소인수분해 34년 기록 경신 주장",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217867",
-   "summary": "구글이 AI 에이전트가 독자적으로 작성한 수학 논문 6편을 공개했다. 최근 오픈AI와 앤트로픽이 수학 난제 해결과 과학적 발견 능력을 앞세워 경쟁을 벌이는 가운데, 구글도 범용 AI를 활용한 연구 성과를 잇달아 내놓고 있다.구글 리서치는 25일(현지시간) 깃허브를 통해 '제미나이 4' 기반의 수학 연구 에이전트 시스템인 '코젠틱(Cogentic)'이 작성한 논문 6편을 공개했다. 지난달 30일부터 공개한 논문까지 합하면 총 10편이다.이번 논문은 소인수분해와 이산로그, 게임이론, 그래프이론 등 다양한 분야를 다루며, 전체 분량은 2",
-   "publishedAt": 1795760400000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "AI 기반 해킹 확산에 올해 개인정보유출 신고 전년 2배 훌쩍",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217882",
-   "summary": "올해 10월까지 접수된 개인정보 유출신고가 1019건으로 지난해 전체(447건)의 2배를 넘어선 것으로 나타났다.개인정보보호위원회는 27일 AI 기반 해킹 확산에 맞선 긴급대응 및 점검지원 체계를 가동한다고 밝혔다.개인정보위는 AI를 활용한 해킹이 공격 과정을 자동화·고도화해 기존보다 빠르게 대규모 공격을 가능하게 한다고 진단했다. 시간과 비용이 적게 들고 비전문가도 시도할 수 있어 진입장벽이 낮아졌다는 설명이다.신고자료 분석 결과 민간 748건, 공공 271건이 접수됐다. 민간은 접근통제·공개설정 미흡, API·파라미터 변조 등",
-   "publishedAt": 1795760229000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "서로 다른 AI 로봇도 학습데이터 공유…정부, 국가표준 제정 추진",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217856",
-   "summary": "정부가 제조사와 기종이 다른 AI 로봇의 학습데이터를 공유하고 재사용할 수 있도록 국가표준을 마련한다. 해외 연구에서는 개별 데이터를 학습한 AI 모델의 평균 작업 성공률이 41%였으나 여러 기종의 데이터를 함께 학습한 모델은 63%를 기록했다.산업통상부 국가기술표준원은 27일 '로봇 조작 학습을 위한 데이터셋' 국가표준(KS) 제정안을 예고하고 60일간 산업계 의견을 수렴한다고 밝혔다.기존에는 로봇마다 데이터 구조와 속성이 달라 기업이나 연구기관이 수집한 학습데이터를 공유하고 재사용하기 어려웠다. 관련 국제표준도 아직 확립되지 않",
-   "publishedAt": 1795760152000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.6,
-   "hot": false
-  },
-  {
-   "title": "래블업, 로컬AI PC 앱 '에이아이고 2.0' 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217872",
-   "summary": "AI 인프라 솔루션 전문 래블업(대표 신정규)이 개인 PC에서 AI 모델과 에이전트를 직접 실행할 수 있는 로컬 AI 데스크톱 앱 '에이아이고(AI:GO) 2.0'을 출시했다.AI:GO 2.0은 언어·비전·이미지·음성 로컬 AI 모델을 하나의 앱에서 구동한다. 올해 1월 CES 2026에서 '백엔드.AI:GO'로 공개한 제품명을 'AI:GO'로 정립한 것으로 민감한 파일을 PC에 둔 채 실제 파일과 도구, 일정을 다루는 에이전트 작업 공간으로 재설계했다.실행형 에이전트 '코워크'는 채팅창에 작업 폴더를 첨부하면 허가된 폴더의 파일을",
-   "publishedAt": 1795760087000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.5,
+   "score": 32.4,
    "hot": false
   },
   {
@@ -951,9 +895,79 @@
    "comments": 1011,
    "publishedAt": 1795337854000,
    "isAI": true,
-   "score": 32.4,
+   "score": 32.3,
    "hot": false,
    "lastWeekRank": 1
+  },
+  {
+   "title": "\"막을 테면 막아봐!\"...AI 안경 부정행위 차단, 해커톤서 역부족 확인",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217874",
+   "summary": "\"해당 시험지의 AI 풀이를 금지합니다.\"시험지 곳곳에 숨겨 둔 경고문은 AI 안경의 공격 앞에 무력화됐다. 시험 부정행위를 막으려고 동원한 방어 기법 상당수가 공격조의 우회 전략에 잇따라 뚫렸다.기자는 커뮤니티 '다스 누미너스'가 26일 서울 영등포구 워크모어 여의도당산에서 개최한 'AI 바이 디폴트' 해커톤을 참관했다. AI 보안 기업 에임인텔리전스와 AI 안경 앱 개발사 사이트스페이스가 협력한 이 대회에는 170여명이 참가했다.해커톤은 부정행위 방어조가 방어 장치를 심은 시험지를 만들면 공격조가 AI 안경으로 푸는 형식으로 진",
+   "publishedAt": 1795762938000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32.3,
+   "hot": false
+  },
+  {
+   "title": "구글도 AI 수학 연구 경쟁 가세…소인수분해 34년 기록 경신 주장",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217867",
+   "summary": "구글이 AI 에이전트가 독자적으로 작성한 수학 논문 6편을 공개했다. 최근 오픈AI와 앤트로픽이 수학 난제 해결과 과학적 발견 능력을 앞세워 경쟁을 벌이는 가운데, 구글도 범용 AI를 활용한 연구 성과를 잇달아 내놓고 있다.구글 리서치는 25일(현지시간) 깃허브를 통해 '제미나이 4' 기반의 수학 연구 에이전트 시스템인 '코젠틱(Cogentic)'이 작성한 논문 6편을 공개했다. 지난달 30일부터 공개한 논문까지 합하면 총 10편이다.이번 논문은 소인수분해와 이산로그, 게임이론, 그래프이론 등 다양한 분야를 다루며, 전체 분량은 2",
+   "publishedAt": 1795760400000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "AI 기반 해킹 확산에 올해 개인정보유출 신고 전년 2배 훌쩍",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217882",
+   "summary": "올해 10월까지 접수된 개인정보 유출신고가 1019건으로 지난해 전체(447건)의 2배를 넘어선 것으로 나타났다.개인정보보호위원회는 27일 AI 기반 해킹 확산에 맞선 긴급대응 및 점검지원 체계를 가동한다고 밝혔다.개인정보위는 AI를 활용한 해킹이 공격 과정을 자동화·고도화해 기존보다 빠르게 대규모 공격을 가능하게 한다고 진단했다. 시간과 비용이 적게 들고 비전문가도 시도할 수 있어 진입장벽이 낮아졌다는 설명이다.신고자료 분석 결과 민간 748건, 공공 271건이 접수됐다. 민간은 접근통제·공개설정 미흡, API·파라미터 변조 등",
+   "publishedAt": 1795760229000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "서로 다른 AI 로봇도 학습데이터 공유…정부, 국가표준 제정 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217856",
+   "summary": "정부가 제조사와 기종이 다른 AI 로봇의 학습데이터를 공유하고 재사용할 수 있도록 국가표준을 마련한다. 해외 연구에서는 개별 데이터를 학습한 AI 모델의 평균 작업 성공률이 41%였으나 여러 기종의 데이터를 함께 학습한 모델은 63%를 기록했다.산업통상부 국가기술표준원은 27일 '로봇 조작 학습을 위한 데이터셋' 국가표준(KS) 제정안을 예고하고 60일간 산업계 의견을 수렴한다고 밝혔다.기존에는 로봇마다 데이터 구조와 속성이 달라 기업이나 연구기관이 수집한 학습데이터를 공유하고 재사용하기 어려웠다. 관련 국제표준도 아직 확립되지 않",
+   "publishedAt": 1795760152000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32,
+   "hot": false
+  },
+  {
+   "title": "래블업, 로컬AI PC 앱 '에이아이고 2.0' 출시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217872",
+   "summary": "AI 인프라 솔루션 전문 래블업(대표 신정규)이 개인 PC에서 AI 모델과 에이전트를 직접 실행할 수 있는 로컬 AI 데스크톱 앱 '에이아이고(AI:GO) 2.0'을 출시했다.AI:GO 2.0은 언어·비전·이미지·음성 로컬 AI 모델을 하나의 앱에서 구동한다. 올해 1월 CES 2026에서 '백엔드.AI:GO'로 공개한 제품명을 'AI:GO'로 정립한 것으로 민감한 파일을 PC에 둔 채 실제 파일과 도구, 일정을 다루는 에이전트 작업 공간으로 재설계했다.실행형 에이전트 '코워크'는 채팅창에 작업 폴더를 첨부하면 허가된 폴더의 파일을",
+   "publishedAt": 1795760087000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 32,
+   "hot": false
   },
   {
    "title": "EU, AI·양자컴퓨팅 육성에 최대 73조원 '기술 주권 펀드' 추진",
@@ -966,63 +980,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.4,
-   "hot": false
-  },
-  {
-   "title": "\"피클 AI전화 거부 사태\"...'모두의 AI' 전화 대행은 어디까지",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217817",
-   "summary": "오는 12월 정식 출시를 앞둔 전 국민 무료 AI 서비스 '모두의 AI'에 탑재될 AI 전화대행의 기능과 적용 범위에 관심이 모아지고 있다. 컨소시엄 사업자로 선정된 이동통신 3사와 네이버 등이 '피클' 등 AI 비서 서비스의 자사 고객센터 상담전화 연결에 잇따라 제한방침을 밝히고 있기 때문이다.27일 통신 및 관련 업계에 따르면, 모두의 AI 사업 참여 기업들은 AI 전화 대행 기능의 적용 범위를 두고 고심 중이다.모두의 AI는 과학기술정보통신부가 추진하는 사업으로, 지난 8월 SK텔레콤·카카오·KT가 각각 주도하는 3개 컨소시엄",
-   "publishedAt": 1795757672000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "앤트로픽, AI 내부 뉴런 직접 분석…숨겨진 위험 행동 탐지 기술 연구",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217863",
-   "summary": "앤트로픽이 AI 모델 내부의 개별 뉴런을 직접 분석해 숨겨진 위험 행동을 찾아내는 연구 결과를 공개했다. 별도의 분석 모델을 훈련하지 않고 기존 모델의 내부 연산과 가중치를 분석하는 방식으로, AI의 답변이나 사고 과정(CoT)에 의존하는 안전성 감시 기술의 한계를 보완할 수 있다는 설명이다.앤트로픽의 재스민 숀과 리사 던랩 연구진은 23일(현지시간) '뉴런 기반 해석 가능성으로 돌아가기'라는 제목의 연구 두 편을 공개했다.앤트로픽은 그동안 AI 모델의 내부 작동 원리를 알기 어려운 '블랙박스' 문제를 해결하기 위해 '희소 오토인코",
-   "publishedAt": 1795757311000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "애플, 미니맥스 AI 동반자 '토키' 앱스토어에서 삭제…아동 안전 논란",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217870",
-   "summary": "애플이 중국 미니맥스의 AI 동반자 앱 '토키(Talkie)'를 전 세계 앱스토어에서 삭제했다. AI 캐릭터가 미성년자에게 성적으로 부적절한 메시지를 보냈다는 탐사보도가 나온 데 이어 미니맥스도 호주와 영국에서 웹사이트 접속을 차단했다.로이터는 26일(현지시간) 애플이 해당 앱을 전 세계 앱스토어에서 삭제했다고 보도했다.앞서 호주 공영방송 ABC뉴스와 영국 탐사보도국(TBIJ)은 공동 탐사보도를 통해 AI 캐릭터들이 아동에게 성적으로 부적절하거나 모욕적인 메시지를 보낸 사례를 공개했다. 애플은 이들의 질의를 받은 뒤 성적 콘텐츠 관",
-   "publishedAt": 1795757100000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.3,
-   "hot": false
-  },
-  {
-   "title": "중국 기업, 미국 법인 통해 엔비디아 첨단 AI 칩 확보…또 다른 규제 허점",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217869",
-   "summary": "중국 기업이 소유한 미국 법인들이 엔비디아의 최첨단 인공지능(AI) 칩을 구매해 온 것으로 드러났다. 기존 AI 칩 밀수와 해외 데이터센터를 통한 우회 접속에 이어 중국계 기업이 엔비디아의 미국 내 공식 공급망에 진입한 사례까지 확인됐다.CBS는 25일(현지시간) 기업 공시와 법원 기록 등을 조사한 결과, 중국 기업이 지배하는 캘리포니아 소재 기업 최소 2곳이 엔비디아의 공식 파트너 자격으로 첨단 AI 칩을 구매해 왔다고 보도했다.대표적인 사례는 캘리포니아주 새너제이에 본사를 둔 데이터센터 기업 '리클라우드 AI(RiCloud AI",
-   "publishedAt": 1795755900000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 32.2,
+   "score": 31.9,
    "hot": false
   },
   {
@@ -1036,21 +994,49 @@
    "comments": 348,
    "publishedAt": 1795473149000,
    "isAI": false,
-   "score": 32.1,
+   "score": 31.8,
    "hot": false
   },
   {
-   "title": "'GPT-6.2 아스트라', 218년 된 스케치북 작가 22분 만에 찾아",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217862",
-   "summary": "오픈AI의 'GPT-6.2 아스트라'가 218년 전 제작된 작자 미상의 여행 스케치북 작가를 22분 만에 찾아냈다. 역사학자가 수년간 풀지 못했던 문제를 해결했을 뿐 아니라 학계에 거의 알려지지 않았던 사료까지 발굴한 것으로, 범용 AI의 연구 능력이 수학과 과학을 넘어 역사학으로까지 확대되고 있음을 보여주는 사례다.마크 험프리스 캐나다 윌프리드 로리에대학교 역사학 교수는 24일(현지시간) 블로그를 통해 GPT-6.2 아스트라를 활용해 1808년 제작된 스케치북의 작가를 찾아냈다고 밝혔다.문제의 스케치북은 미국 예일대학교 바이네케",
-   "publishedAt": 1795755342000,
+   "title": "\"피클 AI전화 거부 사태\"...'모두의 AI' 전화 대행은 어디까지",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217817",
+   "summary": "오는 12월 정식 출시를 앞둔 전 국민 무료 AI 서비스 '모두의 AI'에 탑재될 AI 전화대행의 기능과 적용 범위에 관심이 모아지고 있다. 컨소시엄 사업자로 선정된 이동통신 3사와 네이버 등이 '피클' 등 AI 비서 서비스의 자사 고객센터 상담전화 연결에 잇따라 제한방침을 밝히고 있기 때문이다.27일 통신 및 관련 업계에 따르면, 모두의 AI 사업 참여 기업들은 AI 전화 대행 기능의 적용 범위를 두고 고심 중이다.모두의 AI는 과학기술정보통신부가 추진하는 사업으로, 지난 8월 SK텔레콤·카카오·KT가 각각 주도하는 3개 컨소시엄",
+   "publishedAt": 1795757672000,
    "source": "AI타임스",
    "sourceType": "media",
    "lang": "ko",
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32.1,
+   "score": 31.8,
+   "hot": false
+  },
+  {
+   "title": "앤트로픽, AI 내부 뉴런 직접 분석…숨겨진 위험 행동 탐지 기술 연구",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217863",
+   "summary": "앤트로픽이 AI 모델 내부의 개별 뉴런을 직접 분석해 숨겨진 위험 행동을 찾아내는 연구 결과를 공개했다. 별도의 분석 모델을 훈련하지 않고 기존 모델의 내부 연산과 가중치를 분석하는 방식으로, AI의 답변이나 사고 과정(CoT)에 의존하는 안전성 감시 기술의 한계를 보완할 수 있다는 설명이다.앤트로픽의 재스민 숀과 리사 던랩 연구진은 23일(현지시간) '뉴런 기반 해석 가능성으로 돌아가기'라는 제목의 연구 두 편을 공개했다.앤트로픽은 그동안 AI 모델의 내부 작동 원리를 알기 어려운 '블랙박스' 문제를 해결하기 위해 '희소 오토인코",
+   "publishedAt": 1795757311000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.8,
+   "hot": false
+  },
+  {
+   "title": "애플, 미니맥스 AI 동반자 '토키' 앱스토어에서 삭제…아동 안전 논란",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217870",
+   "summary": "애플이 중국 미니맥스의 AI 동반자 앱 '토키(Talkie)'를 전 세계 앱스토어에서 삭제했다. AI 캐릭터가 미성년자에게 성적으로 부적절한 메시지를 보냈다는 탐사보도가 나온 데 이어 미니맥스도 호주와 영국에서 웹사이트 접속을 차단했다.로이터는 26일(현지시간) 애플이 해당 앱을 전 세계 앱스토어에서 삭제했다고 보도했다.앞서 호주 공영방송 ABC뉴스와 영국 탐사보도국(TBIJ)은 공동 탐사보도를 통해 AI 캐릭터들이 아동에게 성적으로 부적절하거나 모욕적인 메시지를 보낸 사례를 공개했다. 애플은 이들의 질의를 받은 뒤 성적 콘텐츠 관",
+   "publishedAt": 1795757100000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.7,
    "hot": false
   },
   {
@@ -1064,7 +1050,35 @@
    "comments": 53,
    "publishedAt": 1795575696000,
    "isAI": true,
-   "score": 32,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "중국 기업, 미국 법인 통해 엔비디아 첨단 AI 칩 확보…또 다른 규제 허점",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217869",
+   "summary": "중국 기업이 소유한 미국 법인들이 엔비디아의 최첨단 인공지능(AI) 칩을 구매해 온 것으로 드러났다. 기존 AI 칩 밀수와 해외 데이터센터를 통한 우회 접속에 이어 중국계 기업이 엔비디아의 미국 내 공식 공급망에 진입한 사례까지 확인됐다.CBS는 25일(현지시간) 기업 공시와 법원 기록 등을 조사한 결과, 중국 기업이 지배하는 캘리포니아 소재 기업 최소 2곳이 엔비디아의 공식 파트너 자격으로 첨단 AI 칩을 구매해 왔다고 보도했다.대표적인 사례는 캘리포니아주 새너제이에 본사를 둔 데이터센터 기업 '리클라우드 AI(RiCloud AI",
+   "publishedAt": 1795755900000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.6,
+   "hot": false
+  },
+  {
+   "title": "'GPT-6.2 아스트라', 218년 된 스케치북 작가 22분 만에 찾아",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217862",
+   "summary": "오픈AI의 'GPT-6.2 아스트라'가 218년 전 제작된 작자 미상의 여행 스케치북 작가를 22분 만에 찾아냈다. 역사학자가 수년간 풀지 못했던 문제를 해결했을 뿐 아니라 학계에 거의 알려지지 않았던 사료까지 발굴한 것으로, 범용 AI의 연구 능력이 수학과 과학을 넘어 역사학으로까지 확대되고 있음을 보여주는 사례다.마크 험프리스 캐나다 윌프리드 로리에대학교 역사학 교수는 24일(현지시간) 블로그를 통해 GPT-6.2 아스트라를 활용해 1808년 제작된 스케치북의 작가를 찾아냈다고 밝혔다.문제의 스케치북은 미국 예일대학교 바이네케",
+   "publishedAt": 1795755342000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 31.6,
    "hot": false
   },
   {
@@ -1078,7 +1092,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 32,
+   "score": 31.5,
    "hot": false
   },
   {
@@ -1092,7 +1106,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.9,
+   "score": 31.4,
    "hot": false
   },
   {
@@ -1106,7 +1120,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.7,
+   "score": 31.2,
    "hot": false
   },
   {
@@ -1120,7 +1134,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.6,
+   "score": 31.1,
    "hot": false
   },
   {
@@ -1134,7 +1148,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.5,
+   "score": 31,
    "hot": false
   },
   {
@@ -1148,7 +1162,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.5,
+   "score": 31,
    "hot": false
   },
   {
@@ -1162,7 +1176,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.5,
+   "score": 31,
    "hot": false
   },
   {
@@ -1176,7 +1190,21 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.4,
+   "score": 30.9,
+   "hot": false
+  },
+  {
+   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+   "url": "https://spelunkr.tv",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50606192",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 1099,
+   "comments": 188,
+   "publishedAt": 1795396431000,
+   "isAI": false,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1190,7 +1218,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1204,7 +1232,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1218,7 +1246,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1232,7 +1260,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1246,7 +1274,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1260,63 +1288,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 31.3,
-   "hot": false
-  },
-  {
-   "title": "전남대·마틸로에이아이, AI로 신약·화장품 독성 예측…동물실험 대체 기술 개발",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217844",
-   "summary": "전남대학교와 AI 기업 마틸로에이아이가 공동 개발한 독성 예측 플랫폼이 범정부 공공데이터·AI 활용 창업경진대회에서 대통령상을 받았다. 신약과 화장품 등에 사용되는 원료물질의 독성을 AI로 사전에 예측해 기존 동물실험을 대체하거나 보완하기 위해 개발한 기술이다.행정안전부는 26일 전남대 유선용 교수와 마틸로에이아이가 참여한 'AI NAMs 연구팀'이 전날 경기 고양시 킨텍스에서 열린 제14회 범정부 공공데이터·AI 활용 창업경진대회 왕중왕전에서 제품·서비스 개발 부문 대상을 받았다고 밝혔다. 올해 대회에는 역대 최대 규모인 7440",
-   "publishedAt": 1795746000000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.2,
-   "hot": false
-  },
-  {
-   "title": "[기고]AI가 탐낸 것은 정답이 아니라 경험이었다",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217842",
-   "summary": "최근 한 일간지 보도에 따르면 구글이 한국폴리텍대학에 교재 판권을 살 수 있는지 문의했다고 한다.AI 학습 자료를 찾다가 숙련 기술자가 몸으로 익힌 노하우를 담은 교본에 눈길이 간 것이다.그 교본에는 기계가 보내는 작은 이상 신호를 읽어 내고 뜻밖의 고장을 수습하는 요령이 담겨 있다. AI 업계는 학생들이 장비를 다루다 겪는 실수와 오작동, 이른바 '실패 데이터'도 눈여겨본다. AI 기업이 귀하게 여긴 것은 정답보다 사람이 겪고, 틀리고, 다시 해 본 경험이었다.비슷한 시기, 수능 날에는 숨겨 둔 휴대전화를 찾기 위해 전국에 위급재",
-   "publishedAt": 1795745488000,
-   "source": "AI타임스",
-   "sourceType": "media",
-   "lang": "ko",
-   "engagement": null,
-   "baseWeight": 26,
-   "isAI": true,
-   "score": 31.2,
-   "hot": false
-  },
-  {
-   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-   "url": "https://spelunkr.tv",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50606192",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 1098,
-   "comments": 188,
-   "publishedAt": 1795396431000,
-   "isAI": false,
-   "score": 31,
-   "hot": false
-  },
-  {
-   "title": "Active intrusion campaign against Check Point security management servers",
-   "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-   "commentsUrl": "https://news.ycombinator.com/item?id=50630594",
-   "source": "Hacker News",
-   "sourceType": "community",
-   "lang": "en",
-   "engagement": 298,
-   "comments": 153,
-   "publishedAt": 1795537937000,
-   "isAI": false,
-   "score": 30.9,
+   "score": 30.8,
    "hot": false
   },
   {
@@ -1330,7 +1302,49 @@
    "comments": 181,
    "publishedAt": 1795459690000,
    "isAI": false,
-   "score": 30.9,
+   "score": 30.7,
+   "hot": false
+  },
+  {
+   "title": "전남대·마틸로에이아이, AI로 신약·화장품 독성 예측…동물실험 대체 기술 개발",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217844",
+   "summary": "전남대학교와 AI 기업 마틸로에이아이가 공동 개발한 독성 예측 플랫폼이 범정부 공공데이터·AI 활용 창업경진대회에서 대통령상을 받았다. 신약과 화장품 등에 사용되는 원료물질의 독성을 AI로 사전에 예측해 기존 동물실험을 대체하거나 보완하기 위해 개발한 기술이다.행정안전부는 26일 전남대 유선용 교수와 마틸로에이아이가 참여한 'AI NAMs 연구팀'이 전날 경기 고양시 킨텍스에서 열린 제14회 범정부 공공데이터·AI 활용 창업경진대회 왕중왕전에서 제품·서비스 개발 부문 대상을 받았다고 밝혔다. 올해 대회에는 역대 최대 규모인 7440",
+   "publishedAt": 1795746000000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.7,
+   "hot": false
+  },
+  {
+   "title": "[기고]AI가 탐낸 것은 정답이 아니라 경험이었다",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217842",
+   "summary": "최근 한 일간지 보도에 따르면 구글이 한국폴리텍대학에 교재 판권을 살 수 있는지 문의했다고 한다.AI 학습 자료를 찾다가 숙련 기술자가 몸으로 익힌 노하우를 담은 교본에 눈길이 간 것이다.그 교본에는 기계가 보내는 작은 이상 신호를 읽어 내고 뜻밖의 고장을 수습하는 요령이 담겨 있다. AI 업계는 학생들이 장비를 다루다 겪는 실수와 오작동, 이른바 '실패 데이터'도 눈여겨본다. AI 기업이 귀하게 여긴 것은 정답보다 사람이 겪고, 틀리고, 다시 해 본 경험이었다.비슷한 시기, 수능 날에는 숨겨 둔 휴대전화를 찾기 위해 전국에 위급재",
+   "publishedAt": 1795745488000,
+   "source": "AI타임스",
+   "sourceType": "media",
+   "lang": "ko",
+   "engagement": null,
+   "baseWeight": 26,
+   "isAI": true,
+   "score": 30.7,
+   "hot": false
+  },
+  {
+   "title": "Active intrusion campaign against Check Point security management servers",
+   "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+   "commentsUrl": "https://news.ycombinator.com/item?id=50630594",
+   "source": "Hacker News",
+   "sourceType": "community",
+   "lang": "en",
+   "engagement": 298,
+   "comments": 153,
+   "publishedAt": 1795537937000,
+   "isAI": false,
+   "score": 30.6,
    "hot": false
   },
   {
@@ -1344,7 +1358,7 @@
    "comments": 3,
    "publishedAt": 1795531275000,
    "isAI": true,
-   "score": 30.6,
+   "score": 30.3,
    "hot": false
   },
   {
@@ -1358,7 +1372,7 @@
    "engagement": null,
    "baseWeight": 26,
    "isAI": true,
-   "score": 30.5,
+   "score": 30,
    "hot": false
   },
   {
@@ -1372,7 +1386,7 @@
    "comments": 245,
    "publishedAt": 1795540061000,
    "isAI": false,
-   "score": 30.2,
+   "score": 29.9,
    "hot": false
   },
   {
@@ -1381,25 +1395,11 @@
    "source": "HF Daily Papers",
    "sourceType": "paper",
    "lang": "en",
-   "engagement": 102,
+   "engagement": 104,
    "summary": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffer",
    "publishedAt": 1795546800000,
    "isAI": true,
-   "score": 30.1,
-   "hot": false
-  },
-  {
-   "title": "How Gemini is changing the game for Golden State's organization and fans.",
-   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-   "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
-   "publishedAt": 1795536000000,
-   "source": "Google AI Blog",
-   "sourceType": "official",
-   "lang": "en",
-   "engagement": null,
-   "baseWeight": 45,
-   "isAI": true,
-   "score": 30,
+   "score": 29.9,
    "hot": false
   }
  ]
